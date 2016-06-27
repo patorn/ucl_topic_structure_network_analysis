@@ -29,7 +29,6 @@ def main():
 
   for fname in os.listdir(RAW_DIR):
     print("Parsing", fname)
-    result_data = []
     with open(join(RAW_DIR, fname), 'r') as f:
       data = json.load(f)
       for d in data:
@@ -49,14 +48,12 @@ def main():
 
           d_new['authors'].append(a_new)
 
-        result_data.append(d_new)
+        result_fname = join(RESULT_DIR, d_new['id'].replace('/', '_') + '.json')
+        with open(result_fname, 'w') as f:
+          print("Writing to", result_fname)
 
-    result_fname = join(RESULT_DIR, fname)
-    with open(result_fname, 'w') as f:
-      print("Writing to", result_fname)
-
-      # re-serialize it for pretty indentation
-      f.write(json.dumps(result_data, indent=2))
+          # re-serialize it for pretty indentation
+          f.write(json.dumps(d_new, indent=2))
 
 if __name__ == "__main__":
   main()
