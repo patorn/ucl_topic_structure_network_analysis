@@ -37,6 +37,8 @@ def main():
         for field_name in ['id', 'sectionId', 'webTitle', 'webPublicationDate', 'webUrl', 'apiUrl']:
           d_new[field_name] = d[field_name]
 
+        d_new['guardianId'] = d_new['id']
+        d_new['id'] = d_new['id'].replace('/', '_')
         d_new['body'] = parse_tags(d['fields']['body'])
 
         # parse contributor
@@ -48,7 +50,7 @@ def main():
 
           d_new['authors'].append(a_new)
 
-        result_fname = join(OUTPUT_DIR, d_new['id'].replace('/', '_') + '.json')
+        result_fname = join(OUTPUT_DIR, d_new['id'] + '.json')
         with open(result_fname, 'w') as f:
           print("Writing to", result_fname)
 
