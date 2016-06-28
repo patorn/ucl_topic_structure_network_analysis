@@ -23,13 +23,13 @@ def parse_tags(html):
   return s.get_data()
 
 def main():
-  RAW_DIR = join('tmp', 'raw')
-  RESULT_DIR = join('tmp', 'parsed')
-  makedirs(RESULT_DIR, exist_ok=True)
+  INPUT_DIR = join('tmp', 'raw')
+  OUTPUT_DIR = join('tmp', 'parsed')
+  makedirs(OUTPUT_DIR, exist_ok=True)
 
-  for fname in os.listdir(RAW_DIR):
+  for fname in os.listdir(INPUT_DIR):
     print("Parsing", fname)
-    with open(join(RAW_DIR, fname), 'r') as f:
+    with open(join(INPUT_DIR, fname), 'r') as f:
       data = json.load(f)
       for d in data:
         d_new = {}
@@ -48,7 +48,7 @@ def main():
 
           d_new['authors'].append(a_new)
 
-        result_fname = join(RESULT_DIR, d_new['id'].replace('/', '_') + '.json')
+        result_fname = join(OUTPUT_DIR, d_new['id'].replace('/', '_') + '.json')
         with open(result_fname, 'w') as f:
           print("Writing to", result_fname)
 

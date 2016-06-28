@@ -5,8 +5,8 @@ from os import makedirs
 from os.path import join, exists
 from datetime import date, timedelta
 
-RAW_DIR = join('tmp', 'raw')
-makedirs(RAW_DIR, exist_ok=True)
+OUTPUT_DIR = join('tmp', 'raw')
+makedirs(OUTPUT_DIR, exist_ok=True)
 # Sample URL
 #
 # http://content.guardianapis.com/search?from-date=2016-01-02&
@@ -28,12 +28,12 @@ my_params = {
 # day iteration from here:
 # http://stackoverflow.com/questions/7274267/print-all-day-dates-between-two-dates
 start_date = date(2016, 5, 1)
-end_date = date(2016, 5, 2)
+end_date = date(2016, 5, 30)
 dayrange = range((end_date - start_date).days + 1)
 for daycount in dayrange:
   dt = start_date + timedelta(days=daycount)
   datestr = dt.strftime('%Y-%m-%d')
-  fname = join(RAW_DIR, datestr + '.json')
+  fname = join(OUTPUT_DIR, datestr + '.json')
   if not exists(fname):
     # then let's download it
     print("Downloading", datestr)
