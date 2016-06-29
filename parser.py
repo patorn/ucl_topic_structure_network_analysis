@@ -39,7 +39,7 @@ def main():
 
         d_new['guardianId'] = d_new['id']
         d_new['id'] = d_new['id'].replace('/', '_')
-        d_new['body'] = parse_tags(d['fields']['body'])
+        d_new['body'] = parse_tags(d['fields']['body']).strip()
 
         # parse contributor
         d_new['authors'] = []
