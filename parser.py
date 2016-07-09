@@ -27,6 +27,8 @@ def main():
   OUTPUT_DIR = join('tmp', 'parsed')
   makedirs(OUTPUT_DIR, exist_ok=True)
 
+  count = 0
+  previous_date = ''
   for fname in os.listdir(INPUT_DIR):
     print("Parsing", fname)
     with open(join(INPUT_DIR, fname), 'r') as f:
@@ -38,7 +40,16 @@ def main():
           d_new[field_name] = d[field_name]
 
         d_new['guardianId'] = d_new['id']
-        d_new['id'] = d_new['id'].replace('/', '_')
+        date = d_new['webPublicationDate'].split('T', 1)[0]
+
+        if date != previous_date:
+          count = 1
+        else:
+          count = count + 1
+
+        previous_date = date
+
+        d_new['id'] = date + '-' + str(count)
         d_new['body'] = parse_tags(d['fields']['body']).strip()
 
         # parse contributor
