@@ -54,12 +54,23 @@ def main():
 
         # parse contributor
         d_new['authors'] = []
-        for a in d['tags']:
-          a_new = {}
-          a_new['id'] = a['id']
-          a_new['webTitle'] = a['webTitle']
+        d_new['keyword'] = []
+        for tag in d['tags']:
+          tag_new = {}
+          if tag['type'] == 'contributor':
+            tag_new['id'] = tag['id']
+            tag_new['webTitle'] = tag['webTitle']
+            d_new['authors'].append(tag_new)
+          if tag['type'] == 'keyword':
+            tag_new['id'] = tag['id']
+            tag_new['webTitle'] = tag['webTitle']
+            try:
+              tag_new['sectionId'] = tag['sectionId']
+              tag_new['sectionName'] = tag['sectionName']
+            except:
+              pass
+            d_new['keyword'].append(tag_new)
 
-          d_new['authors'].append(a_new)
 
         result_fname = join(OUTPUT_DIR, d_new['id'] + '.json')
         with open(result_fname, 'w') as f:

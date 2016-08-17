@@ -19,7 +19,7 @@ my_params = {
   'order-by': "newest",
   'show-fields': 'all',
   'type': 'article',
-  'show-tags': 'contributor',
+  'show-tags': 'all',
   'page-size': 200,
   'api-key': MY_API_KEY
 }
