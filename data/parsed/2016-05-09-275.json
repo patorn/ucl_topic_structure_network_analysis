@@ -1,0 +1,84 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/marketforceslive/2016/may/09/easyjet-leads-ftse-100-higher-but-mining-shares-hit-by-poor-chinese-data",
+  "id": "2016-05-09-275",
+  "sectionId": "business",
+  "body": "Despite poor trade data hitting mining shares, the UK market is moving higher after its recent weakness. Budget airline easyJet is leading the way, up 38p to \u00a314.54 after analysts at RBC moved from underperform to outperform and raised its target price from \u00a314.50 to \u00a315.00 ahead of its half year results on Tuesday. Inmarsat is also higher, recovering 21.5p to 834p following its recent profit warning, while holiday firm Tui has risen 24p to \u00a310.24 despite Deutsche Bank cutting its target price from \u00a313.45 to \u00a313.20 while raising its forecast for the company\u2019s euro quoted shares. Another broker upgrade, from Jefferies, has lifted medical group Smith & Nephew by 25p to \u00a311.61. In a buy note, the broker said:  Smith & Nephew has rebalanced away from hips/knees and now has leading positions in higher-growth segments. Trading at a 17% sector discount, the market has overstated CJR reimbursement risk and undervalued a 150 basis points uplift in organic growth atop a leaner cost base. Beyond 12% earnings per share compound annual growth rate, there is upside optionality from capital deployment and M&A. China is a key second quarter risk but we expect second half inflection, reducing overhangs and facilitating re-rating. We upgrade our price target to \u00a313.75 (from \u00a310.44)  Overall, ahead of a key Eurogroup meeting on Greece, the FTSE 100 is up 23.21 points at 6148.91. But a fall in Chinese imports and exports has pushed Anglo American down 40p to 609.4p and Antofagasta 21.6p lower at 419.9p. Seven of the top ten FTSE 100 fallers are mining companies. Pearson is down 5p at 815p as Liberum issued a sell note following its recent update:  We have updated estimates for Pearson post-2015 results and their first quarter trading update. Our overall view remains the same. Pearson is the most structurally challenged stock within the large cap European media space relative to its multiple, and management guidance of \u00a3800m 2018 estimated operating profit will be difficult to achieve. Reiterate sell with a reduced target price of 435p (from 450p).  Among the mid caps positive trading updates have lifted G4S, up 14.1p to 198.4p, and Greggs, 55p better at \u00a311.23.",
+  "webTitle": "EasyJet leads FTSE 100 higher but mining shares hit by poor Chinese data",
+  "webPublicationDate": "2016-05-09T08:34:33Z",
+  "webUrl": "https://www.theguardian.com/business/marketforceslive/2016/may/09/easyjet-leads-ftse-100-higher-but-mining-shares-hit-by-poor-chinese-data",
+  "keyword": [
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Stock markets",
+      "id": "business/stock-markets",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "easyJet",
+      "id": "business/easyjet",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Inmarsat",
+      "id": "business/immarsat",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Tui Travel",
+      "id": "business/tuitravel",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Smith and Nephew",
+      "id": "business/smithandnephew",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Anglo American",
+      "id": "business/anglo-american",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Antofagasta",
+      "id": "business/antofagasta",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Pearson",
+      "id": "business/pearson",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "G4S",
+      "id": "business/g4s",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Greggs",
+      "id": "business/greggs",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Nick Fletcher",
+      "id": "profile/nickfletcher"
+    }
+  ],
+  "guardianId": "business/marketforceslive/2016/may/09/easyjet-leads-ftse-100-higher-but-mining-shares-hit-by-poor-chinese-data"
+}

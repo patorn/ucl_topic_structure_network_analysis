@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/23/austria-presidential-election-how-did-you-vote",
+  "id": "2016-05-23-136",
+  "sectionId": "world",
+  "body": "Alexander Van der Bellen has narrowly won Austria\u2019s presidential election, preventing far-right candidate Norbert Hofer from becoming the EU\u2019s first far-right head of state.  It is the first time since 1945 that Austria\u2019s president will not be from the centrist Social Democrats (SP\u00d6) or People\u2019s party (\u00d6VP). While the Austrian presidency is mainly a ceremonial role, the rejection of the centrist parties and the rise of Hofer\u2019s Freedom Party (FP\u00d6) reveal a country increasingly divided over issues such as unemployment and immigration. Van der Bellen, who is staunchly pro-European, led the Austrian Greens from 1997 to 2008. A retired economics professor, he has often called himself \u201ca child of refugees\u201d. Van der Bellen\u2019s voters were mainly to be found in urban areas, while Hofer dominated in rural regions. If you live in Austria and voted in the presidential election, we\u2019d like to hear from you. What do you make of the election results? Are you happy with Van der Bellen\u2019s victory? What do you think the result means for the future of Austria, and what\u2019s the mood in the country where you are? You can share your views by filling out the form below. We\u2019ll include a selection of your testimonies in our coverage.  This form is now closed and we are no longer accepting submissions.",
+  "webTitle": "Austria presidential election: how did you vote?",
+  "webPublicationDate": "2016-05-23T14:49:22Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/23/austria-presidential-election-how-did-you-vote",
+  "keyword": [
+    {
+      "webTitle": "Austria",
+      "id": "world/austria",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "The far right",
+      "id": "world/far-right",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "James Walsh",
+      "id": "profile/james-walsh"
+    }
+  ],
+  "guardianId": "world/2016/may/23/austria-presidential-election-how-did-you-vote"
+}

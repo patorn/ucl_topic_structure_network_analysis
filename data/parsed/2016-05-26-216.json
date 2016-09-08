@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/26/us-nuclear-arsenal-controlled-by-1970s-computers-8in-floppy-disks",
+  "id": "2016-05-26-216",
+  "sectionId": "technology",
+  "body": "The US military\u2019s nuclear arsenal is controlled by computers built in the 1970s that still use 8in floppy disks. A report into the state of the US government, released by congressional investigators, has revealed that the country is spending around $60bn (\u00a340.8bn) to maintain museum-ready computers, which many do not even know how to operate any more, as their creators retire. The Defense Department\u2019s Strategic Automated Command and Control System (DDSACCS), which is used to send and receive emergency action messages to US nuclear forces, runs on a 1970s IBM computing platform. It still uses 8in floppy disks to store data. We\u2019re not even talking the more modern 3.5in floppy disk that millennials might only know as the save icon. We\u2019re talking the OG 8in floppy, which was a large floppy square with a magnetic disk inside it. They became commercially available in 1971, but were replaced by the 5\u00bcin floppy in 1976, and by the more familiar hard plastic 3.5in floppy in 1982. Shockingly, the US Government Accountability Office said: \u201cReplacement parts for the system are difficult to find because they are now obsolete.\u201d The Pentagon said it was instigating a full replacement of the ancient machines and while the entire upgrade will take longer, the crucial floppy disks should be gone by the end of next year. Given that magnetic media has a finite shelf life, and that disks and the drives needed to read and write to them are older than some of the operators of the machinery, the floppy revelation makes you wonder whether the US could even launch a nuclear attack if required. An \u201cerror, data corrupted\u201d message could be literally life or death.  BB-8\u2019s Windows XP makeover is the stuff of nightmares A drone is no match for the high-tech weaponry of the middle ages",
+  "webTitle": "US nuclear arsenal controlled by 1970s computers with 8in floppy disks",
+  "webPublicationDate": "2016-05-26T11:30:58Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/26/us-nuclear-arsenal-controlled-by-1970s-computers-8in-floppy-disks",
+  "keyword": [
+    {
+      "webTitle": "Computing",
+      "id": "technology/computing",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "US military",
+      "id": "us-news/us-military",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Nuclear weapons",
+      "id": "world/nuclear-weapons",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Data and computer security",
+      "id": "technology/data-computer-security",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "HAL 90210",
+      "id": "profile/hal-90210"
+    }
+  ],
+  "guardianId": "technology/2016/may/26/us-nuclear-arsenal-controlled-by-1970s-computers-8in-floppy-disks"
+}

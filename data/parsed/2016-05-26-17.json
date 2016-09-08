@@ -1,0 +1,84 @@
+{
+  "apiUrl": "https://content.guardianapis.com/us-news/2016/may/26/donald-trump-environmental-policy-climate-change-keystone-xl",
+  "id": "2016-05-26-17",
+  "sectionId": "us-news",
+  "body": "Donald Trump pledged to cancel the Paris climate agreement, endorsed drilling off the Atlantic coast and said he would allow the Keystone XL pipeline to be built in return for \u201ca big piece of the profits\u201d for the American people.    Related: Trump reaches delegate count needed to clinch Republican nomination    At an oil and natural gas conference in North Dakota on Thursday, just minutes after he had celebrated hitting the 1,237 delegate mark needed to formally clinch the party\u2019s nomination, Trump gave a speech on energy policy that was largely shaped by advice from Kevin Cramer, a US representative from the state. In a press conference before the event, Trump praised the advice of oil tycoon Harold Hamm. Hamm and Cramer then introduced him onstage. Michael Brune, executive director of the Sierra Club environmentalist group, was taken aback by Trump\u2019s address.  \u201cI have never heard more contradiction in one hour than I heard in the speech,\u201d he told the Guardian.  \u201cThere are pools of oil industry waste water that are deeper than Trump\u2019s grasp of energy.\u201d  Trump gave the speech \u2013 which Brune also called \u201ca jumbled collection of oil industry talking points that are devoid from reality in the market place\u201d \u2013 in a packed arena that generated an atmosphere more like that of a campaign rally than a staid industry conference.  As he hit a number of familiar talking points, a crowd filled with his supporters raised chants of \u201cbuild the wall\u201d.    There are pools of oil industry waste water that are deeper than Trump\u2019s grasp of energy  Michael Brune, Sierra Club executive director     He did not directly address manmade climate change, which he has in the past called a hoax invented by the Chinese, but he took veiled shots at those who are concerned about global warming.  In addition to his pledge to pull out of the Paris climate deal, Trump promised to only work with \u201cenvironmentalists whose only agenda is protecting nature\u201d and to \u201cfocus on real environmental challenges, not the phony ones\u201d.  He contrasted this approach with that of Hillary Clinton, whose plan to combat climate change he called \u201ca poverty expansion agenda\u201d. Trump also attacked renewable energy sources, claiming that solar energy was too expensive and attacking wind turbines for \u201ckilling eagles\u201d. Without outlining any policy specifics, Trump argued for a focus on clean water and clean air. In January, asked by the Guardian about the Flint water contamination crisis, he said: \u201cA thing like that shouldn\u2019t happen but, again, I don\u2019t want to comment on that.\u201d On Thursday, Trump also made a unique argument about the controversial Keystone XL pipeline, which would pump shale oil from Canada into the US.            Donald Trump celebrates delegate win, mocks Hillary Clinton and Elizabeth Warren    Republicans have long supported the pipeline, which was opposed by environmentalists and cancelled by the Obama administration. In exchange for his approval of the pipeline, Trump said, the US would need a \u201csignificant piece\u201d of its profits.  Shortly after that statement, though, Trump said: \u201cThe government should not pick winners and losers.\u201d Trump also seemed unsure whether high oil prices were good or bad. Although at one point in his speech he took credit for oil hitting $50 a barrel, he later enthused about the need for cheap energy. The crowd in Bismarck did not seem confused, though. Cheering wildly, they gave Trump a spontaneous standing ovation.  \u201cI will give you everything,\u201d he promised them, adding: \u201cI am the only one who will deliver.\u201d They seemed to believe it.",
+  "webTitle": "Donald Trump would allow Keystone XL pipeline and end Paris climate deal",
+  "webPublicationDate": "2016-05-26T21:48:02Z",
+  "webUrl": "https://www.theguardian.com/us-news/2016/may/26/donald-trump-environmental-policy-climate-change-keystone-xl",
+  "keyword": [
+    {
+      "webTitle": "Donald Trump",
+      "id": "us-news/donaldtrump",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US elections 2016",
+      "id": "us-news/us-elections-2016",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US politics",
+      "id": "us-news/us-politics",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "North Dakota",
+      "id": "us-news/north-dakota",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Oil",
+      "id": "environment/oil",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Oil",
+      "id": "business/oil",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Keystone XL pipeline",
+      "id": "environment/keystone-xl-pipeline",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Paris climate agreement",
+      "id": "environment/paris-climate-agreement",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Climate change",
+      "id": "environment/climate-change",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ben Jacobs",
+      "id": "profile/ben-jacobs"
+    }
+  ],
+  "guardianId": "us-news/2016/may/26/donald-trump-environmental-policy-climate-change-keystone-xl"
+}

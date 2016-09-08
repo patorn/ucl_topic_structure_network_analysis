@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/15/pat-metheny-the-unity-sessions-review-chris-potter-saxophone-this-belongs-to-you-born",
+  "id": "2016-05-15-174",
+  "sectionId": "music",
+  "body": "Once you\u2019ve heard Pat Metheny you will always recognise him, no matter what company he\u2019s in or what instrument he\u2019s playing, be it a simple acoustic guitar or some unlikely invention of his own. Beneath it all there\u2019s a frank, open-hearted tunefulness that keeps the music airborne. This double album, recorded at the end of a year-long tour by his Unity Band, is as polished and sophisticated as any, but moments such as the opening melody of This Belongs to You or the gradual unfolding of Born are just plain elegant. There\u2019s a similar quality about saxophonist Chris Potter\u2019s playing, and all four are so relaxed in each other\u2019s company that everything flows beautifully.",
+  "webTitle": "Pat Metheny: The Unity Sessions review \u2013 everything flows beautifully",
+  "webPublicationDate": "2016-05-15T07:00:18Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/15/pat-metheny-the-unity-sessions-review-chris-potter-saxophone-this-belongs-to-you-born",
+  "keyword": [
+    {
+      "webTitle": "Pat Metheny",
+      "id": "music/pat-metheny",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Jazz",
+      "id": "music/jazz",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Dave Gelly",
+      "id": "profile/dave-gelly"
+    }
+  ],
+  "guardianId": "music/2016/may/15/pat-metheny-the-unity-sessions-review-chris-potter-saxophone-this-belongs-to-you-born"
+}

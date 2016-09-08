@@ -1,0 +1,90 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/16/cameron-advised-to-go-slow-with-new-laws-in-queens-speech",
+  "id": "2016-05-15-7",
+  "sectionId": "politics",
+  "body": "David Cameron has been warned not to attempt too much controversial legislation in the Queen\u2019s Speech, given numerous U-turns in the past year, by former health secretary Lord Lansley, whose views are backed up by a leading thinktank. The prime minister is expected to announce a raft of laws on Wednesday, which are likely to have a bill to crack down on terrorist extremism at their heart, with new plans to ban organisations and gag hate preachers. There could also be new laws, draft legislation or proposals on:  The care system, including greater support for care leavers into adulthood, and adoption, including more emphasis on placing children in permanent homes rather than with distant family. Making more schools into academies, although the government has backed down from forcing all to do so. Higher education, with plans to bring in competition within the sector by attracting new non-profit and commercial operators with a short cut to full university status. A consultation on a new bill of rights, which would replace the Human Rights Act. This would assert the supremacy of the UK courts as David Cameron seeks to unite the Conservative party despite its divisions on Europe. Prison reform, setting out a legal framework for stronger governors and a degree of autonomy over budgets, plus powers for \u201creform prisons\u201d to take over nearby failing jails on the same model as school academy chains. Driverless cars, including allowing them to be insured under ordinary policies as part of a transport bill that will also include sections on space travel and drones. Changes to the powers of the House of Lords, as recommended by the Strathclyde review, to stop peers being able to block statutory instruments, although Baroness D\u2019Souza, the Lords\u2019 Speaker, has already warned against the likely consequences.  The programme is likely to be a packed one, as Cameron seeks to prove that the government is still active, despite the EU referendum and a divided Conservative party with a small majority. However, the Institute for Government (IfG) thinktank warned on Monday that the government is already under intense pressure to deliver existing commitments, such as the seven-day NHS and balancing the books, with only a tiny majority to help it pass laws in the Commons. Over the past year, the government has backed down on academies, tax credits, taking in child refugees, Sunday trading, trade union reforms and aspects of the housing bill. In a new report, the institute suggested the government needs to tread carefully to avoid more U-turns, pointing out Cameron has suffered three defeats in the Commons and more than 50 in the Lords over the past 12 months. Daniel Thornton, a director of the IfG, said: \u201cTo be effective, the government must recognise the enormous challenges it now faces. It is making big spending cuts and attempting far-reaching public service reforms, and the strain is showing.  \u201cAs a result of divisions over Europe, its small majority has become no majority at all. It must consult and build alliances before rushing ahead with more ambitious reforms in the Queen\u2019s Speech.\u201d The warning was echoed by Andrew Lansley, the Conservative peer and former leader of the Commons, who said it had been disappointing to see bills being \u201csavaged\u201d in the House of Lords because there was not enough detail in them. He told the BBC\u2019s World at One: \u201cWhat you really want is some of these big issues to be set out in draft bills and be thoroughly worked out.\u201d Lansley said there has \u201cbeen a lot of shifting about\u201d but he said the academies plan was an exception because the government published proposals and refined them before trying to get them passed in legislation.  He warned that there could be \u201cvery large uncertainty\u201d about implementing new laws if the UK votes to leave the EU. \u201cIf there were to be a Brexit vote \u2026 in the latter part of this parliament we would be completely absorbed with managing the consequences of that, which would be monstrous to think about,\u201d Lansley said.  \u201cIt would really get in the way of almost anything else in parliament for a substantial period of time.\u201d",
+  "webTitle": "Cameron advised to go slow with new laws in Queen's Speech",
+  "webPublicationDate": "2016-05-15T23:01:19Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/16/cameron-advised-to-go-slow-with-new-laws-in-queens-speech",
+  "keyword": [
+    {
+      "webTitle": "Queen's speech",
+      "id": "politics/queens-speech",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Prisons and probation",
+      "id": "society/prisons-and-probation",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Constitutional reform",
+      "id": "politics/constitution",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Human Rights Act",
+      "id": "law/human-rights-act",
+      "sectionId": "law",
+      "sectionName": "Law"
+    },
+    {
+      "webTitle": "House of Commons",
+      "id": "politics/houseofcommons",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Education",
+      "id": "education/education",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Conservatives",
+      "id": "politics/conservatives",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Law",
+      "id": "law/law",
+      "sectionId": "law",
+      "sectionName": "Law"
+    },
+    {
+      "webTitle": "David Cameron",
+      "id": "politics/davidcameron",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Rowena Mason",
+      "id": "profile/rowena-mason"
+    }
+  ],
+  "guardianId": "politics/2016/may/16/cameron-advised-to-go-slow-with-new-laws-in-queens-speech"
+}

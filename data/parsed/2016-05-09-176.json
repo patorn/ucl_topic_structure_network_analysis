@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/09/what-do-greeks-think-of-the-latest-austerity-measures",
+  "id": "2016-05-09-176",
+  "sectionId": "world",
+  "body": "The toughest austerity measures yet have been approved in Greece amid a backdrop of rioting. Greece\u2019s coalition will now turn to the issue of debt relief on Monday at a crucial meeting of eurozone finance ministers.  Plans to overhaul the country\u2019s tax and pension system, which amounts to cuts worth \u20ac5.4bn (\u00a34.27bn), have been bitterly opposed by Greek citizens. Vassilis Papadopoulos, a young waiter, said of the proposals: \u201cHow can anyone survive on a national monthly pension of \u20ac384? How can a state function when over 25% of its population is unemployed?\u201d.  What do people in the country think about the latest plans? What does the future hold for Greece? What\u2019s the mood in the country? Has the situation got much worse since the referendum last year? What do you think of the government of Alexis Tsipras now? Share your views in the comments below.",
+  "webTitle": "What do Greeks think of the latest austerity measures?",
+  "webPublicationDate": "2016-05-09T13:14:28Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/09/what-do-greeks-think-of-the-latest-austerity-measures",
+  "keyword": [
+    {
+      "webTitle": "Greece",
+      "id": "world/greece",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Sarah Marsh",
+      "id": "profile/sarah-marsh"
+    }
+  ],
+  "guardianId": "world/2016/may/09/what-do-greeks-think-of-the-latest-austerity-measures"
+}

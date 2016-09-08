@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/03/french-tennis-federation-searched-alleged-corruption-ticket-trafficking-jean-gachassin-french-open",
+  "id": "2016-05-03-13",
+  "sectionId": "sport",
+  "body": "The French Tennis Federation\u2019s headquarters, along with the home of its president, Jean Gachassin, have been searched as part of an investigation into alleged ticket trafficking. The French financial prosecution service said it had seized \u201cdocuments useful to the investigation\u201d as it looks into alleged corruption related to the sale of tickets for the French Open and into the \u201cconditions of awarding of the contract for the extension of the Roland Garros stadium\u201d. The FFT confirmed its headquarters had been searched, saying in a statement that \u201cthe teams of the federations [had] been fully collaborating with the investigators.\u201d The French Open starts on 22 May at Roland Garros. The French federation has been hit by recent rows, notably the sacking of its director general, Gilbert Ysern, in February. He was fired after falling out with Gachassin. The development marks the latest in a host of off-court dramas that have engulfed the sport. In February, the Guardian revealed two tennis umpires had been secretly banned in relation to a gambling scam, while four others faced being thrown out of the sport for life on charges of serious corruption. Just over a month later, Maria Sharapova revealed she had been provisionally banned from the sport having failed a drug test after losing January\u2019s Australian Open final.",
+  "webTitle": "French Tennis Federation raided amid alleged corruption and ticket trafficking",
+  "webPublicationDate": "2016-05-03T22:29:27Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/03/french-tennis-federation-searched-alleged-corruption-ticket-trafficking-jean-gachassin-french-open",
+  "keyword": [
+    {
+      "webTitle": "French Open",
+      "id": "sport/frenchopen",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Tennis",
+      "id": "sport/tennis",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "France",
+      "id": "world/france",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "sport/2016/may/03/french-tennis-federation-searched-alleged-corruption-ticket-trafficking-jean-gachassin-french-open"
+}

@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/09/how-giant-air-freshener-could-save-polluted-cities",
+  "id": "2016-05-09-293",
+  "sectionId": "environment",
+  "body": "High in the skies over London, the UK\u2019s first air pollution monitoring squad have been using the latest sensors to chart the levels of ozone and nitrogen dioxide in our atmosphere. The team is highly trained, each equipped with a hi-tech backpack, and proficient in social media. Which all sounds relatively standard, apart from the fact that it is entirely made up of pigeons. Using one of the UK\u2019s best-known feathered friends as a publicity stunt for air pollution awareness was the brainchild of Plume Labs, which has created an app for monitoring pollution on the go. It follows on the heels of similar apps released in the past two years, ranging from UCLA\u2019s AirForU to BreezoMeter, the brainchild of Israeli engineer Ran Korber, who was looking to buy a house for his family far away from polluted environments. Air pollution is becoming big business \u2013 and not without cause. The World Health Organisation estimates it is responsible for 2m deaths worldwide every year \u2013 28,000 in the UK alone. Gases such as sulphur and nitrogen dioxide have been heavily linked to respiratory and cardiovascular illnesses, while ozone, formed when sunlight reacts with a cocktail of other gaseous pollutants, is toxic in the lower atmosphere. Levels of nitrogen dioxide continue to soar in London, regularly reaching more than three and half times European Union limits. The aim of many pollution-monitoring devices is to detect sudden short-term spikes, which can have drastic health effects, exacerbating underlying conditions and leading to acute strokes and heart problems. In January this year, a spike of PM2.5 pollution, microscopic soot particles which are 50,000 times smaller than the thickness of a human hair, reached dangerously high levels in Upper Thames Street, London. PM2.5 pollution occurs largely due to diesel engines and coal-burning power stations, and while the legal limit in Europe is 25 micrograms per cubic metre, levels can reach 50 micrograms per cubic metre in a 24-hour period in parts of central London, raising stroke risks by 5% for everyone living in those areas. Over the past decade, scientists have been uncovering the short- and long-term health impacts of ingesting such pollution, to try to tackle the growing mortality rate. \u201cInhaling these toxic materials causes an inflammatory reaction in your body,\u201d explains Dr Anoop Shah, a cardiologist at the University of Edinburgh. \u201cThese processes can enhance a condition called atherosclerosis, where your arteries become furred up by fatty plaques, causing them to harden and narrow. They can also affect the viscosity of your blood, making it quite thick and sticky, which can cause increased blood pressure. In the past, we just assumed that pollution mainly affected the lungs, but more and more studies are showing us that it heavily affects the heart and the whole cardiovascular system as well.\u201d Shah published a study in the BMJ last year showing that exposure to gases such as carbon monoxide, sulphur dioxide and nitrogen dioxide, as well as PM2.5 and PM10, drastically increases the risk of hospitalisation or death from strokes in the following seven days. Long-term, chronic exposure can also have severe consequences, with the buildup of inflammation in the lungs leading to asthma and cancers. In China, such are the levels of toxicity in the air of most of its major cities that more than 800,000 cases of lung cancer a year are predicted by 2020. \u201cParticles such as PM2.5 are known to be carcinogenic, so consistent exposure over three, four or five years can give you a high risk of developing these diseases,\u201d Shah says. So what can be done? While some metrics appear to suggest the UK\u2019s air as a whole appears to be getting steadily cleaner \u2013 with an 8.4% decrease in the amount of greenhouse gases produced since 2010 \u2013 such figures can often be wildly misleading. Heavy governmental focus on eliminating one pollutant can simply lead to levels of another soaring beyond all control. An EU directive launched in 2000 to curb carbon dioxide emissions by promoting diesel vehicles has sent London\u2019s nitrogen dioxide levels through the roof. Not only is the capital the worst in Europe for this gas, it even outpollutes Beijing by 50%. \u201cEnabling people to be able to detect high pollution days is a step forward,\u201d Shah says. \u201cGenerally what we advise for people in particularly polluted areas is to try and stay indoors as much as possible during high traffic periods, particularly if you\u2019re already suffering from something chronic such as asthma or irregular heart rhythms.\u201d But while governmental approaches to date have focused on trying to minimise and contain air pollution, a Dutch design studio has developed a futuristic technology that could actually remove pollution from cities. Called the smog-free tower, it acts as a giant vacuum cleaner, sucking up 30,000 cubic metres of air per hour and cleansing it of harmful particles such as PH2.5 and PH10 to the extent that the air pumped back out is 75% cleaner than before. \u201cIt works by creating fields of static electricity, attracting or magnetising these tiny dirt particles so you can suck them up,\u201d says entrepreneur Daan Roosegaarde, who came up with the idea for the technology two years ago after seeing six-year-old children in Beijing suffering from lung cancer. Roosegaarde has already built a seven-metre-high version of his tower in Rotterdam, and revealed that authorities in Beijing have purchased the technology and are looking to roll it out across multiple Chinese cities. \u201cThe tower we\u2019ve designed at the moment can easily clean the air from a medium-sized park in one day,\u201d he says. \u201cAnd we can produce bigger ones in the future. Right now it\u2019s just a localised solution, but it can create cleaner public areas and playgrounds, and hopefully it will inspire other designers to come up with technologies which can clean cities on an even larger scale.\u201d",
+  "webTitle": "How a giant air freshener could save our polluted cities",
+  "webPublicationDate": "2016-05-09T07:30:08Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/09/how-giant-air-freshener-could-save-polluted-cities",
+  "keyword": [
+    {
+      "webTitle": "Pollution",
+      "id": "environment/pollution",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Health & wellbeing",
+      "id": "lifeandstyle/health-and-wellbeing",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "London",
+      "id": "uk/london",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Cities",
+      "id": "cities/cities",
+      "sectionId": "cities",
+      "sectionName": "Cities"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "David Cox",
+      "id": "profile/david-cox"
+    }
+  ],
+  "guardianId": "environment/2016/may/09/how-giant-air-freshener-could-save-polluted-cities"
+}

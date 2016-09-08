@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/15/dashcam-films-thief-driving-stolen-bmw-through-london",
+  "id": "2016-05-17-286",
+  "sectionId": "uk-news",
+  "body": "A video of an indiscreet car thief unwittingly being recorded has become an unexpected online hit.  The video was recorded by a dashboard security camera in what the driver can be heard describing as a BMW i3. A note on the YouTube video, which has now had more than 50,000 views, states: \u201cMy friend\u2019s car was stolen (and recovered) recently. There was a dashcam in it, and it yielded these results...\u201d The driver can be heard describing the car on the phone and where he planned to park it \u2013 at his flat on an estate near the North Middlesex hospital in Edmonton, north London. The phone call may have been to a potential buyer of the stolen vehicle. The driver says to the caller: \u201cPhone the geezer and ring me back as soon as possible, alright?\u201d The timestamp shows that the video was recorded in the early hours of 7 February as it was being driven through near-empty streets in north London. It is understood that the owner was able to locate the vehicle using GPS tracking data and went to reclaim it the following day. Because the owner was able to get the car back, police do not plan to take any further action to track down the identity of the thief, who has a distinctive voice and turn of phrase that one viewer likened to the DJ Tim Westwood. Dinah Shore, a QC at Blackstone Chambers in London, whose friend owned the car, tweeted a link to the video on Sunday.    Bizarre watching video of theft of my friend's car in Muswell Hill go viral overnight. 45k views in 24 hours! https://t.co/2W2O20i7YJ\u2014 Dinah Rose (@DinahRoseQC) May 15, 2016    The i3 \u2013 a plug-in electric car \u2013 starts at about \u00a333,000, according to BMW.",
+  "webTitle": "Dashcam films thief driving stolen BMW across London",
+  "webPublicationDate": "2016-05-17T07:20:58Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/15/dashcam-films-thief-driving-stolen-bmw-through-london",
+  "keyword": [
+    {
+      "webTitle": "London",
+      "id": "uk/london",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Crime",
+      "id": "uk/ukcrime",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "BMW",
+      "id": "business/bmw",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Chris Johnston",
+      "id": "profile/chris-johnston"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/15/dashcam-films-thief-driving-stolen-bmw-through-london"
+}

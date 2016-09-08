@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/05/martin-lewis-moneysavingexpert-jason-mills",
+  "id": "2016-05-05-243",
+  "sectionId": "media",
+  "body": "Martin Lewis is to step down as editor-in-chief of MoneySavingExpert and will be replaced by Jason Mills, head of digital at ITV News and former editor of News at Ten. Personal finance journalist Lewis, who founded the tips and advice website in 2003, will focus on his role as executive chairman.  Lewis, who has been juggling the roles of executive chairman and editor-in-chief since last September, founded the site with just \u00a3100 and sold it to price comparison company MoneySupermarket in 2012 a deal that netted him up to \u00a387m.  \u201cWhen the site joined the MoneySupermarket group, the deal was I\u2019d stay for three years,\u201d said Lewis. \u201cThat ended last September, but I\u2019m still here, still a zealot about saving people money. This is an exciting moment for me and MoneySavingExpert, as others take hold of its steering wheel. Jason\u2019s full time focus on the site, without my media distractions, will be a big boost.\u201d Mills, the web editor then head of digital at ITV News since 2011, joins on 4 July and will lead the site\u2019s 32-strong editorial and campaigning team. \u201cThe site has been one of the biggest causes of social change in the last decade, empowering millions,\u201d said Mills. Mills is a veteran TV with more than 20 years\u2019 experience at ITN, ITV, the BBC and Sky News. Between 2003 and 2010 he worked at ITN, which makes ITV News, with responsibilities including editing News at Ten. MoneySavingExpert has also appointed Kirsty Good, currently business editor at Sky News, to the newly created role of campaigns editor.",
+  "webTitle": "Martin Lewis to step down as MoneySavingExpert editor-in-chief",
+  "webPublicationDate": "2016-05-05T10:22:57Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/05/martin-lewis-moneysavingexpert-jason-mills",
+  "keyword": [
+    {
+      "webTitle": "Digital media",
+      "id": "media/digital-media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "ITN",
+      "id": "media/itn",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Television industry",
+      "id": "media/television",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "TV news",
+      "id": "media/tvnews",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Consumer affairs",
+      "id": "money/consumer-affairs",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Mark Sweney",
+      "id": "profile/marksweney"
+    }
+  ],
+  "guardianId": "media/2016/may/05/martin-lewis-moneysavingexpert-jason-mills"
+}

@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/19/bob-dylan-fallen-angels-review-pop-cd-sony-columbia-american-songbook-standards",
+  "id": "2016-05-19-92",
+  "sectionId": "music",
+  "body": "The thought strikes, part-way through Bob Dylan\u2019s second album of standards from the mid-20th century American songbook, that it sounds like nothing so much as the unreleased soundtrack to a later Woody Allen movie. It has the same tastefully muted jazzy arrangements, the same love for the music combined with a slight sense of didacticism (Listen! You WILL love these songs as much as I do), the same oddly absurd disconnection from modernity.  The arrangements aren\u2019t faithful in any way to those that made these songs famous \u2013 That Old Black Magic becomes a rockabilly shuffle \u2013 but there\u2019s a certain loveliness to them. It Had To Be You had yet another lease of life on the When Harry Met Sally soundtrack in 1989, but the version here makes you think not of Meg Ryan and Billy Crystal cracking wise to each other, but to the old couples interspersed throughout that film, reminiscing about when they fell in love. Fallen Angels sounds like another love letter to Dylan\u2019s own youth, and it\u2019s charming. Whether you would prefer listening to his readings of the songs, rather than to those by Sinatra, Sarah Vaughan, Ella Fitzgerald and so on is entirely your choice.",
+  "webTitle": "Bob Dylan: Fallen Angels review \u2013 unfaithful and lovely",
+  "webPublicationDate": "2016-05-19T17:15:17Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/19/bob-dylan-fallen-angels-review-pop-cd-sony-columbia-american-songbook-standards",
+  "keyword": [
+    {
+      "webTitle": "Bob Dylan",
+      "id": "music/bobdylan",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Folk music",
+      "id": "music/folk",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Pop and rock",
+      "id": "music/popandrock",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Michael Hann",
+      "id": "profile/michaelhann"
+    }
+  ],
+  "guardianId": "music/2016/may/19/bob-dylan-fallen-angels-review-pop-cd-sony-columbia-american-songbook-standards"
+}

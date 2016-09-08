@@ -1,0 +1,102 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/29/eu-referendum-broadcasters-politicans-televised-debates",
+  "id": "2016-05-29-61",
+  "sectionId": "media",
+  "body": "One veteran political pundit calls it a \u201ccomplete shambles\u201d, while another says it is \u201can utter mess\u201d. With just weeks left before the EU referendum, tensions are running high between broadcasters and the politicians they want to wrangle on to our television screens to make sense of it all. It already seems a tad farcical even before David Cameron appears on Sky next weekend for his first official live EU debate show. The Vote Leave campaign has threatened ITV with both legal action and \u201cconsequences\u201d after the broadcaster dared to invite Ukip\u2019s Nigel Farage on the same show as Cameron. Even then, the two men will not stand face to face. The prime minister\u2019s own reported reluctance to get into a so-called \u201cblue-on-blue\u201d row with one of his own ministers has also left the BBC having to schedule not one but two Question Time specials with pro-Remain Cameron and pro-Brexit Gove in June. After David Dimbleby hosts these from the middle ground of Nottingham and Milton Keynes, the veteran presenter is to face some 6,000 people half-filling Wembley arena for the final live debate on 21 June. At the time of writing the BBC has no confirmed participants for this flagship event. Although Boris Johnson is rumoured to be keen, both prime minister and chancellor are believed to have ruled it out. As one seasoned BBC watcher told me: \u201cWe\u2019ll be left with some businessman and Kate Hoey. On primetime BBC1!\u201d None of this would matter if the stakes were not quite so high. If the odd dinner party and even, last weekend, a passionate debate with strangers in a pet shop in Sussex is anything to go by, the EU referendum is unlike any other recent election in that much of the electorate appears genuinely keen to find out what\u2019s going on before deciding. The woman behind the pet shop counter said she thought leaving the EU would be bad for her small business; her customer said she hated the idea of Brussels taking over. Both admitted being unsure of their facts and didn\u2019t trust the media. Research backs up such anecdotes says John Downey, director of Loughborough University\u2019s centre for research into communication and culture. \u201cLots of people are generally pretty confused,\u201d he says. \u201cThere have been some pretty extreme views on both sides and people don\u2019t know who to believe.\u201d As is always the case with British elections, newspapers are far more likely to show bias towards one side than highly regulated broadcasters. Research from the Reuters Institute for the Study of Journalism last week showed most articles in nine national newspapers backed leave while 27% of all articles, mainly in the Financial Times, Mirror and Guardian, supported remaining in the EU. Most newspaper groups have attempted to show both sides but as with all difficult arguments, those who shout loudest tend to get heard most. The hysterical nature of the debate so far, more likely to invoke Isis, Hitler and the horsemen of the apocalypse than use rational argument, is not helping. At this stage it is too early to say what the entire coverage will be like, but it is clear that the pressures facing broadcasters are great. Cameron\u2019s irritation at the way the election debates were handled is understood to have led to briefings against the BBC and the renewal of its royal charter almost straight after he was was elected. Relations between No 10 and the all-broadcaster working group became so strained over the timing and line-up of the live debates in 2015 that this time the broadcasters decided to go it alone. So far this doesn\u2019t seem to have helped. Not least it has done nothing to broaden a debate held entirely between older white men. A Loughborough study last week found that women, who account for half of the population, and ethnic minorities have been marginalised. Not just in broadcast reports but in newspapers where women contribute just 9% of mentions. Three Conservative men \u2013 Johnson and Cameron with George Osborne in third \u2013 account for 25% of all news sources identified in referendum coverage in its study of two weeks in the media. The odds are better when it comes to TV journalists, whether with Sky\u2019s Kay Burley and Faisal Islam, or Julie Etchingham hosting both ITV debates. The BBC now has a series with Victoria Derbyshire talking to 18-29 year olds, also largely absent so far. With so much at stake for politicians and broadcasters it is little wonder they want to either throw their weight around or play it safe. It is still early days and David Dimbleby shouting \u201cI can\u2019t hear you Wembley\u201d could yet turn out to be the UK equivalent of Frost/Nixon. But if not, the UK needs to rethink its snotty attitude to having a broadcasting commission set out the parameters for all-important national debates. For the whole country, and not just a handful of ageing white men.",
+  "webTitle": "Politicians shun EU TV debates but women and minorities left out",
+  "webPublicationDate": "2016-05-29T17:04:09Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/29/eu-referendum-broadcasters-politicans-televised-debates",
+  "keyword": [
+    {
+      "webTitle": "BBC",
+      "id": "media/bbc",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "ITV channel",
+      "id": "media/itv1",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "ITV plc",
+      "id": "media/ITV",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Television industry",
+      "id": "media/television",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Sky News",
+      "id": "media/sky-news",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Sky plc",
+      "id": "media/bskyb",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "TV news",
+      "id": "media/tvnews",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "David Cameron",
+      "id": "politics/davidcameron",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Boris Johnson",
+      "id": "politics/boris",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK Independence party (Ukip)",
+      "id": "politics/ukip",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Michael Gove",
+      "id": "politics/michaelgove",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jane Martinson",
+      "id": "profile/janemartinson"
+    }
+  ],
+  "guardianId": "media/2016/may/29/eu-referendum-broadcasters-politicans-televised-debates"
+}

@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/26/kikis-delivery-service-review-lovable-studio-ghibli-coming-of-age-story",
+  "id": "2016-05-26-130",
+  "sectionId": "film",
+  "body": "A lovable 1989 anime from Japanese master Hayao Miyazaki, part of the Studio Ghibli Forever season. Like his classic My Neighbour Totoro, this seamlessly works elements of fantasy and mild crises into an everyday children\u2019s story, though this one serves more as a primer for womanhood. Kiki is a young witch \u2013 a profession that carries no sinister associations. Having reached the age of 13, tradition dictates that she must fly the nest on a sort of witchy gap year. Accompanied by her sardonic cat Jiji, and with a shaky grip of broomstick aviation, she winds up lodging with a kindly baker, for whom she begins an airborne delivery service.  The plot is so loose as to barely exist, but beneath its sunny, colour-saturated, beautifully animated surface, the film becomes a benign guided tour of femininity (there\u2019s barely a male character in the film), gently broaching universal coming-of-age issues such as independence, insecurity, and even \u2013 more boldly than any Western children\u2019s movie would contemplate \u2013 sexuality.",
+  "webTitle": "Kiki\u2019s Delivery Service review \u2013 lovable Studio Ghibli coming-of-age story",
+  "webPublicationDate": "2016-05-26T16:15:19Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/26/kikis-delivery-service-review-lovable-studio-ghibli-coming-of-age-story",
+  "keyword": [
+    {
+      "webTitle": "Animation",
+      "id": "film/animation",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Anime",
+      "id": "culture/anime",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Hayao Miyazaki",
+      "id": "film/hayaomiyazaki",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Family",
+      "id": "film/family",
+      "sectionId": "film",
+      "sectionName": "Film"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Steve Rose",
+      "id": "profile/steverose"
+    }
+  ],
+  "guardianId": "film/2016/may/26/kikis-delivery-service-review-lovable-studio-ghibli-coming-of-age-story"
+}

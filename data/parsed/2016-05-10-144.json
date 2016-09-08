@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/10/ukip-group-neil-hamilton-elected-lead-welsh-assembly-wales",
+  "id": "2016-05-10-144",
+  "sectionId": "politics",
+  "body": "The former Tory MP Neil Hamilton has been elected to lead the seven-strong Ukip group in the Welsh assembly, winning by four votes to three. At last week\u2019s elections, Labour remained by far the largest party in Wales but Ukip\u2019s wins were striking. As well as Hamilton winning a seat, the former Tory MP Mark Reckless and the Ukip leader in Wales, Nathan Gill, were also successful. The choice of Hamilton as leader at Cardiff Bay will be seen as a blow for Nigel Farage, the Ukip leader, who is a fan of Gill, and could signal the start of a challenge both to Gill\u2019s leadership in Wales and possibly even Farage in the UK. Hamilton\u2019s wife, Christine, said her husband would not speak to the Guardian, citing what she called a \u201cvile\u201d article by Michael White, who described him as a \u201cshameless, self-promoting rascal\u201d.      Related: The Guardian view on the Scottish and Welsh elections: doing it their own way | Editorial    Following his win Hamilton told the BBC: \u201cWe\u2019ve achieved an outcome by consensus. We decided to put all past differences behind us and forget the lead up to the election campaign, where there was a lot of personal animosity created. \u201cI\u2019ve been chosen to do a specific job to be leader of the Ukip AMs within the assembly. I\u2019ve got great deal of parliamentary experience. I\u2019ve been a government minister. I\u2019m going to make use of that experience within the group to give Ukip the maximum amount of impact during the course of the next five years.\u201d Gill told an election debate in April that he probably would not have chosen Hamilton as a Ukip candidate. While a Tory MP, Hamilton faced allegations that he took cash for asking parliamentary questions, which he has always denied. He was born near Blackwood in south Wales, but was MP for Tatton from 1983 to 1997 and his Welsh credentials have been questioned. In an impromptu quiz on the BBC he did not know that the famous Welsh band Manic Street Preachers come from Blackwood.",
+  "webTitle": "Ukip group to be led by Neil Hamilton in Welsh assembly",
+  "webPublicationDate": "2016-05-10T14:09:36Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/10/ukip-group-neil-hamilton-elected-lead-welsh-assembly-wales",
+  "keyword": [
+    {
+      "webTitle": "UK Independence party (Ukip)",
+      "id": "politics/ukip",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Welsh politics",
+      "id": "politics/wales",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Wales",
+      "id": "uk/wales",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Nigel Farage",
+      "id": "politics/nigel-farage",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Welsh government",
+      "id": "politics/welsh-assembly-government",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Steven Morris",
+      "id": "profile/stevenmorris"
+    }
+  ],
+  "guardianId": "politics/2016/may/10/ukip-group-neil-hamilton-elected-lead-welsh-assembly-wales"
+}

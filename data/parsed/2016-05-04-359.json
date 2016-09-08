@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/us-news/2016/may/03/indiana-primary-trump-sanders-cruz-us-election-2016",
+  "id": "2016-05-04-359",
+  "sectionId": "us-news",
+  "body": "We\u2019re going to wrap up our live coverage of the Indiana primaries shortly. Here\u2019s what happened:  Donald Trump emerged as the presumptive Republican presidential nominee with a resounding victory in Indiana, as Ted Cruz suspended his presidential campaign.  Bernie Sanders scored an upset victory over Hillary Clinton, though the two split the delegate pile. Sanders vowed the nominating race was not over. Cruz did not mention Trump as he mothballed his campaign but called for the Republican party to look to the far horizon (his 2020 bid?).  \u201cI\u2019m sorry to say, it appears that path [to victory] has been foreclosed,\u201d Cruz said. \u201cWe gave it everything we\u2019ve got.\u201d Trump praised Cruz as \u201cone hell of a competitor\u201d and \u201ca tough, smart guy\u201d. It was a change in tone from the morning, when he had suggested Cruz\u2019s father had had a hand in the JFK assassination and Cruz had brought up Trump\u2019s \u201cbattles with venereal disease\u201d. Republican party chair Reince Priebus called Trump the \u201cpresumptive nominee\u201d. Trump said: \u201cWe want to bring unity to the Republican party.\u201d Many Republicans resisted that call, vowing on social media to support Clinton or, in any case, not to support Trump. Clinton invited supporters to \u201cchip in now if you agree we can\u2019t let [Trump] become president\u201d. John Kasich\u2019s campaign said he was staying in: \u201cTonight\u2019s results are not going to alter Governor Kasich\u2019s campaign plans.\u201d  Cruz did not depart the national stage gracefully, exactly, elbowing his wife in the face on the way:     Ted Cruz ends campaign by accidentally hitting, elbowing his wife in the face pic.twitter.com/epO1tzKgTT\u2014 Jon Swaine (@jonswaine) May 4, 2016    And some covers of tomorrow\u2019s papers have already popped up:",
+  "webTitle": "Indiana primary: 10 things we learned on an eventful night",
+  "webPublicationDate": "2016-05-04T03:07:25Z",
+  "webUrl": "https://www.theguardian.com/us-news/2016/may/03/indiana-primary-trump-sanders-cruz-us-election-2016",
+  "keyword": [
+    {
+      "webTitle": "US elections 2016",
+      "id": "us-news/us-elections-2016",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US politics",
+      "id": "us-news/us-politics",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Donald Trump",
+      "id": "us-news/donaldtrump",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Bernie Sanders",
+      "id": "us-news/bernie-sanders",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Ted Cruz",
+      "id": "us-news/ted-cruz",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Republicans",
+      "id": "us-news/republicans",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Democrats",
+      "id": "us-news/democrats",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Tom McCarthy",
+      "id": "profile/tommccarthy"
+    }
+  ],
+  "guardianId": "us-news/2016/may/03/indiana-primary-trump-sanders-cruz-us-election-2016"
+}

@@ -1,0 +1,84 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/marketforceslive/2016/may/27/ftse-awaits-us-data-and-yellen-but-capita-falls-on-outlook-concerns",
+  "id": "2016-05-27-243",
+  "sectionId": "business",
+  "body": "Leading shares are struggling for direction ahead of US data and a public appearance by Federal Reserve chair Janet Yellen. On top of that, investors are cautious ahead of the long weekend after G7 leaders added to the chorus suggesting that the UK leaving the European Union would be a threat to global growth. So the FTSE 100 is virtually unchanged, up just 0.25 points at 6265.90. Outsourcing group Capita is among the fallers, down 1.6% at \u00a310.80 after analysts at Exane BNP Paribas cut their rating from neutral to underpeform, with a target price of \u00a310.50. They said earnings quality remained weak and liabilities had continued to rise. Mining shares have moved higher, helped by dollar weakness and the suggestion that Japan may delay a sales tax, a move which would help consumer confidence and economic growth in the region. Rio Tinto has risen 23.5p to 1992.5p while Mexican precious metals miner Fresnillo is up 10p at \u00a310.42 as gold and silver prices moved higher. Tony Cross, market analyst at Trustnet Direct, said:  It\u2019s a broadly flat start to trade in London once again as the FTSE-100 attempts to cling onto the gains we saw posted at the start of the week. Brent Crude may have failed to regain its hold on the $50 a barrel mark, but commodity stocks are still finding favour, helped in no small part by US dollar weakness amidst the idea that the Fed may not be in a position to hike rates next month as had been earlier thought.  Utilities were also in demand, with United Utilities up 12p at 967p as recovered from the fall which immediately followed Thursday\u2019s results. Severn Trent has added 14p to \u00a322.96 while National Grid has climbed 7p to \u00a310.07. Banks have mostly edged higher, despite Thursday\u2019s surprise rights issue from Spain\u2019s Banco Popular. Barclays is 0.7p better at 185.5p and HSBC is 0.55p higher at 446.5p. But Standard Chartered has dropped 7.2p to 542p.",
+  "webTitle": "FTSE awaits US data and Yellen but Capita falls on outlook concerns",
+  "webPublicationDate": "2016-05-27T08:48:17Z",
+  "webUrl": "https://www.theguardian.com/business/marketforceslive/2016/may/27/ftse-awaits-us-data-and-yellen-but-capita-falls-on-outlook-concerns",
+  "keyword": [
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Stock markets",
+      "id": "business/stock-markets",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Capita",
+      "id": "business/capitagroup",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Rio Tinto",
+      "id": "business/rio-tinto",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Fresnillo",
+      "id": "business/fresnillo",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "United Utilities",
+      "id": "business/unitedutilities",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Severn Trent",
+      "id": "business/severntrent",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "National Grid",
+      "id": "business/nationalgrid",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Barclays",
+      "id": "business/barclay",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "HSBC",
+      "id": "business/hsbcholdings",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Standard Chartered",
+      "id": "business/standardchartered",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Nick Fletcher",
+      "id": "profile/nickfletcher"
+    }
+  ],
+  "guardianId": "business/marketforceslive/2016/may/27/ftse-awaits-us-data-and-yellen-but-capita-falls-on-outlook-concerns"
+}

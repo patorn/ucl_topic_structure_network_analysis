@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/12/subsidy-u-turn-clouds-future-of-major-scottish-windfarm",
+  "id": "2016-05-12-126",
+  "sectionId": "environment",
+  "body": "The future of one of the UK\u2019s biggest proposed offshore windfarms has been thrown into doubt by a row over the government support it should receive. The Neart na Gaoithe windfarm, based in Scotland\u2019s outer Forth estuary, would have a capacity of about 450MW of power and was originally planned to cost \u00a31.4bn to build, though that is likely to rise to more than \u00a32bn. But reports from the Financial Times and BBC on Thursday suggested that the contract for the windfarm was to be terminated. The Low Carbon Contracts Company (LCCC) had sent a notice to the developer, Mainstream Renewable Power, effectively withdrawing the subsidy. Mainstream Renewable Power has taken legal action over the notice and said it \u201cstrongly disputed the validity of the termination notice\u201d. In a statement, that it said had been agreed with the LCCC, the windfarm developer said: \u201cNeart na Gaoithe Offshore Wind Limited are currently in arbitration with the LCCC over the terms of its contract for the Neart na Gaoithe offshore wind farm in the outer Firth of Forth.\u201d It added: \u201c[We] continue to work hard to ensure that this significant energy infrastructure project will be built as planned.\u201d Contracts for difference are the arrangements through which the government, working through the electricity market, decides how much of a premium should be paid to low-carbon power producers. They are a key part of the electricity market reforms, enacted under the coalition, intended to streamline incentives for renewable generation and \u201ckeep the lights on\u201d by ensuring sufficient capacity. Critics say the system has also benefitted high-carbon power sources disproportionately. Neart na Gaoithe - in Gaelic, \u201cstrength of the wind\u201d - has been in planning for more than seven years, since Mainstream was given the right to develop the site in February 2009. In 2014, the project finally received Scottish ministerial consent. The length of time taken to go through the planning stages illustrates the difficulties the UK faces in generating more power from offshore wind. The government has slashed support for onshore wind and solar power, so offshore wind has become one of the few remaining options. But it is expensive and difficult to build. The UK\u2019s largest proposed offshore windfarm \u2013 the Hornsea project, to be built by Denmark\u2019s Dong Energy \u2013 was finally given the green light early this year. When built, it will be more than twice the size of Neart na Gaoithe, and should power more than 1m homes and create 2,000 jobs. Two more are also planned, Beatrice One in Scotland, and East Anglia One, from ScottishPower Renewables. The Neart na Gaoithe windfarm was already facing some difficulties. The RSPB objected to the site, about 30km north of Torness in the outer Forth Estuary, on the grounds that it would be harmful to seabirds. Mainstream Renewable Power also has another offshore windfarm in development, called Horizont that is twice as big as the Scottish site, and on the other side of the North Sea near the German coast. It also has interests in onshore wind and solar. The company is led by the Irish businessman Eddie O\u2019Connor, who in the mid-2000s came up with a plan for a massive network of wind farms across the North Sea.",
+  "webTitle": "Subsidy U-turn clouds future of major Scottish windfarm",
+  "webPublicationDate": "2016-05-12T16:13:59Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/12/subsidy-u-turn-clouds-future-of-major-scottish-windfarm",
+  "keyword": [
+    {
+      "webTitle": "Wind power",
+      "id": "environment/windpower",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Renewable energy",
+      "id": "environment/renewableenergy",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Energy",
+      "id": "environment/energy",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Scotland",
+      "id": "uk/scotland",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Feed-in tariffs",
+      "id": "environment/feed-in-tariffs",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Energy industry",
+      "id": "business/energy-industry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Fiona Harvey",
+      "id": "profile/fiona-harvey"
+    }
+  ],
+  "guardianId": "environment/2016/may/12/subsidy-u-turn-clouds-future-of-major-scottish-windfarm"
+}

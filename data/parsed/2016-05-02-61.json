@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/02/eagle-cam-pittsburgh-cat-owners",
+  "id": "2016-05-02-61",
+  "sectionId": "world",
+  "body": "Cat owners have been warned of the dangers their feline companions face when venturing outdoors after video emerged of bald eagles feasting on the body of a dead cat near Pittsburgh. Footage from a live web camera mounted at the Hays bald eagle nest, located a few miles from the center of Pittsburgh, showed the eagles serving up the cat to hungry eaglets. Concerned cat owners bombarded the local Audubon Society about why the eagles had preyed upon the cat. \u201cAfter reviewing the footage, we believe that the cat was dead when brought to the nest,\u201d the Audubon Society of western Pennsylvania in a statement. \u201cWhile many may cringe at this, the eagles bring squirrels, rabbits, fish (and other animals) into the nest to eat multiple times each day.\u201d \u201cTo people, the cat represents a pet but to the eagles and to other raptors, the cat is a way to sustain the eaglets and help them to grow. While seeing a cat in the nest was difficult for many, we\u2019re hopeful that people will understand that this is a part of nature, and nature isn\u2019t always kind or pretty.\u201d Eagles aren\u2019t the only threat facing cats. Coyotes are considered one of the most common predators of felines. Coyotes have expanded their range in parts of the US, causing occasional clashes with cats and dogs. In 2009, residents of a Denver suburb decided to scare off problem coyotes using paintball guns. Other threats to cats include snakes, raccoons and porcupines. Katie Lisnik, director of cat protection and policy at the Humane Society, said eagles and owls are the biggest threats to cats. \u201cI live in New England and the fisher [a small carnivorous mammal] can take a cat too,\u201d she told the Guardian. \u201cWhen cats are outside, they are part of the natural world. The animals that prey upon them don\u2019t think \u2018that\u2019s a pet, it\u2019s different\u2019.\u201d Lisnik said a number of approaches can be taken, such as leashing cats when they taken outside, or keeping them indoors, as Americans have increasingly chosen to do.             But it\u2019s worth noting that cats are more often predators than prey. The Audubon Society has urged people to keep cats indoors because the felines kill and eat \u201cmany, many songbirds\u201d. Cats kill an estimated 1.3 billion to four billion birds and an incredible 6.3 billion to 22.3 billion mammals, such as rodents, each year in the US. While the majority of these deaths are caused be free-ranging \u201cferal\u201d cats, rather than pets, separate studies suggest that around a third of all domesticated cats engage in hunting.  In Australia, where huge numbers of native animals are threatened by feral cats, several jurisdictions have considered making owners place bells around cats\u2019 necks, in order to warn unsuspecting birds. The Australian government has authorized a mass cull of feral cats, to the dismay of celebrities including French actor Brigitte Bardot and British singer Morrissey, but no such intervention is planned in the US. The Humane Society said that more needs to be done to reduce the number of feral cats, although primarily through trapping and neutering untamed felines.  \u201cThere should be an overall goal of fewer unowned cats,\u201d Lisnik said. \u201cCats being harmed isn\u2019t a good thing and nor is killing large numbers of birds and other wildlife.\u201d",
+  "webTitle": "Feast of cat shown on eagle cam scares feline owners: 'Nature isn't pretty'",
+  "webPublicationDate": "2016-05-02T18:06:58Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/02/eagle-cam-pittsburgh-cat-owners",
+  "keyword": [
+    {
+      "webTitle": "Animals",
+      "id": "world/animals",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Birds",
+      "id": "environment/birds",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Pennsylvania",
+      "id": "us-news/pennsylvania",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Cats",
+      "id": "lifeandstyle/cats",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Wildlife",
+      "id": "environment/wildlife",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Animal welfare",
+      "id": "world/animal-welfare",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Oliver Milman",
+      "id": "profile/oliver-milman"
+    }
+  ],
+  "guardianId": "environment/2016/may/02/eagle-cam-pittsburgh-cat-owners"
+}

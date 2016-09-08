@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/us-news/2016/may/18/george-zimmerman-sells-gun-trayvon-martin",
+  "id": "2016-05-18-80",
+  "sectionId": "us-news",
+  "body": "George Zimmerman appears to have sold the gun he used to kill Trayvon Martin four years ago, bringing an end to the latest controversy to swirl around the notorious former neighbourhood watch leader. Zimmerman, who shot and killed the unarmed black teenager during an altercation at his Florida housing estate in February 2012, looks set to collect $138,900 for the Kel-Tec PF-9 9mm handgun after bidding closed midday on the website unitedgungroup.com. But the final hour of the auction was disrupted by the reappearance of the type of fake bidders who wrecked Zimmerman\u2019s two previous attempts to cash in on the firearm during auctions last week on a rival website. At one stage on Wednesday the highest offer of $137,600 was in the name of a user called Racist McShootface, whose profile was quickly deleted. The eventual top bidder was a user named John Smith, whose successful offer was made in the auction\u2019s final minute. No further details were listed for him on the website other than that he claimed to be based in Alabama. For most of the final morning of the two-day auction the top bidder was a user named David Thorne, whose profile featured a photograph of a man in full military combat fatigue and helmet clutching an automatic rifle. Zimmerman, who was acquitted of all charges over the death of Trayvon, 17, at his 2013 trial, attracted heavy criticism for his efforts to sell the weapon, which he called \u201can American Firearm icon\u201d in an accompanying description on the auction site. Leonard Pitts, a Pulitzer-winning columnist for the Miami Herald, wrote on Wednesday that the auction was \u201ca national shame\u201d. \u201cThe marketing of the gun that killed him by the man who pulled the trigger does not feel like simply another example of flagrantly bad taste. No, it feels like a victory lap on a dead boy\u2019s grave,\u201d Pitts wrote. \u201cSo when this thing is sold it really won\u2019t matter who writes the check. We all will pay the price.\u201d Zimmerman has repeatedly defended his right to sell the weapon and in an extraordinary rant published by the Daily Beast on Tuesday he accused Trayvon\u2019s parents of profiting from his death. \u201cSybrina Fulton and Tracy Martin did everything they could to capitalize on her son\u2019s death,\u201d Zimmerman said. \u201cThey didn\u2019t raise their son right. He attacked a complete stranger and tried to kill him.\u201d A portion of the proceeds from the sale, Zimmerman said on the auction website, would be used to \u201cfight BLM [Black Lives Matter] violence against Law Enforcement officers, ensure the demise of Angela Corey\u2019s persecution career and Hillary Clinton\u2019s anti-firearm rhetoric\u201d. Corey was the Florida state prosecutor who led the unsuccessful attempt to convict Zimmerman.  In a statement issued through civil rights attorney Benjamin Crump, Tracy Martin refused to comment on the auction, saying he preferred to focus on the work of the Trayvon Martin Foundation, set up partly to support other parents who had lost their children to violence.",
+  "webTitle": "George Zimmerman sells gun used to kill Trayvon Martin on auction site",
+  "webPublicationDate": "2016-05-18T17:24:47Z",
+  "webUrl": "https://www.theguardian.com/us-news/2016/may/18/george-zimmerman-sells-gun-trayvon-martin",
+  "keyword": [
+    {
+      "webTitle": "George Zimmerman",
+      "id": "us-news/george-zimmerman",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Trayvon Martin",
+      "id": "us-news/trayvon-martin",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Race issues",
+      "id": "world/race",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Richard Luscombe",
+      "id": "profile/richardluscombe"
+    }
+  ],
+  "guardianId": "us-news/2016/may/18/george-zimmerman-sells-gun-trayvon-martin"
+}

@@ -1,0 +1,84 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/14/uk-accused-of-trying-to-undermine-eu-air-pollution-targets",
+  "id": "2016-05-14-113",
+  "sectionId": "environment",
+  "body": "The British government has been accused of trying to secretly undermine new EU air pollution targets in favour of big business, as leaked papers reveal that Conservative MEPs were told to support a \u201cget-out clause\u201d in proposed laws. Legislation designed to force member states to strictly limit the emission of sulphur dioxide, nitrogen oxides and ammonia by 2030 is currently being scrutinised in Brussels. It is recognised by the British government that air pollution is estimated to reduce the life expectancy of everyone in the UK by an average of six months, an effect equivalent to 50,000 deaths a year. However, it has emerged that the environment minister, Rory Stewart, advised Tory MEPs that the government does not believe that the proposed ceilings on emissions are \u201cproportionate, deliverable and evidence based, and do not impact disproportionately on any one sector\u201d.   Related: Air pollution health timebomb poses a major threat to development    In a leaked information note, Stewart insisted that they support an amendment that would give Britain \u201cflexibility\u201d and allow them to \u201cadjust their inventory\u201d if the country looked likely to breach targets because particular sectors were emitting more than had been expected. The Liberal Democrat MEP Catherine Bearder claimed that the move fundamentally weakened the EU legislation and allowed the British government to ignore the damage done by high-emitting sectors, such as the car industry. \u201cIt seems no lessons have been learnt from the dieselgate scandal. This shameful get-out clause could allow authorities to turn a blind eye while carmakers exceed EU pollution limits all over again,\u201d she said. \u201cThe UK government must enforce the rules to tackle deadly pollution instead of secretly trying to water them down.\u201d The revelation comes as an independent analysis by the European Environmental Bureau, a Brussels-based coalition of environmental charities, found that weaker pollution limits being pushed for by the British government would lead to about 11,000 additional deaths in the UK by 2030, and an extra 136,000 across Europe. About 29,000 deaths in the UK are currently hastened by inhalation of minute particles of oily, unburnt soot emitted by all petrol engines, and an estimated 23,500 by the invisible but toxic gas nitrogen dioxide (NO2) discharged by diesel engines. On Thursday, the publication of data from more than 3,000 cities compiled by the World Health Organization found that outdoor air pollution had increased by 8% globally in the past five years, with billions of people around the world now exposed to dangerous air. Of 52 UK towns and cities included in the UN database, Port Talbot in south Wales, a hub for the UK steel industry, is the most polluted, ahead of London, Glasgow, Southampton and Leeds. The cleanest UK city in the WHO list is Inverness, followed by Bournemouth, Newcastle and Sunderland.           World Health Organization: air pollution causes 7m premature deaths a year    A spokesman for the Department for Environment, Food and Rural Affairs said the amendment to the 2030 national ceilings directive was designed to allow for scientific developments that could not have been foreseen when the limits were set. Defra claimed that under the proposals, member states would be unfairly penalised if there were scientific developments that \u201cchange the evidence base upon which ceilings are set\u201d. \u201cTackling air pollution is a priority for this government and we are working with EU partners to agree ambitious and realistic emission limits for key air pollutants from 2030,\u201d the spokesman said. \u201cIt is important these limits are based on the best available evidence and member states are not penalised by any new and unforeseen developments in the way emissions are calculated, which could hamper our ability to agree ambitious limits that will lead to long-term improvements in air quality.\u201d",
+  "webTitle": "UK accused of trying to undermine EU air pollution targets",
+  "webPublicationDate": "2016-05-14T12:00:44Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/14/uk-accused-of-trying-to-undermine-eu-air-pollution-targets",
+  "keyword": [
+    {
+      "webTitle": "Pollution",
+      "id": "environment/pollution",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Greenhouse gas emissions",
+      "id": "environment/carbon-emissions",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Emissions trading",
+      "id": "environment/emissionstrading",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Automotive industry",
+      "id": "business/automotive-industry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Conservatives",
+      "id": "politics/conservatives",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Daniel Boffey",
+      "id": "profile/daniel-boffey"
+    }
+  ],
+  "guardianId": "environment/2016/may/14/uk-accused-of-trying-to-undermine-eu-air-pollution-targets"
+}

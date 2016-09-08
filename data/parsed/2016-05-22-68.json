@@ -1,0 +1,64 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/22/ms804-egypt-submarine-search-flight-recorders-president-crash-cause",
+  "id": "2016-05-22-68",
+  "sectionId": "world",
+  "body": "Egypt has enlisted an oil ministry search\u2013submarine in the hunt for the flight recorders of EgyptAir flight MS804, which plunged into the Mediterranean killing 66 people. The so-called black boxes could hold clues to why the Airbus A320 crashed; minutes earlier, smoke was detected in multiple places on board.  As Egyptian military and international sea-search teams continued to scour an area north of Alexandria on the Egyptian coast, they hope to find the flight recorders that could hold the clues to why the aeroplane crashed. The task is particularly complex given that the flight recorders could have sunk more than 2,000 metres. The recorders emit a constant signal pointing to their location, but this only continues for four to five weeks in the water before their power runs out. Egypt\u2019s president, Abdel Fatah al-Sisi, making his first public comments since the plane crashed on Thursday while flying from Paris to Cairo, said it would take time to determine the cause. \u201cAll the theories are possible,\u201d he said in a televised address. \u201cThere is no particular theory we can affirm right now.\u201d He said the Egyptian submarine could operate at a depth of 3,000 metres.  A French patrol vessel carrying specialist equipment for sea searches and retrieval has left the French port of Toulon to assist in the search. Smoke was detected on board the EgyptAir flight MS804 minutes before it crashed, French investigators have confirmed. Signs of smoke were picked up in a lavatory and in the aircraft\u2019s electronics, according to data from the Aircraft Communications Addressing and Reporting System (Acars), which routinely transmits data to airlines about the condition of their planes.   Related: Q&A: key questions about EgyptAir flight MS804    Experts have said that until the flight recorders are found, it is too early to speculate on the smoke on board or whether it indicated a bomb. It is unclear whether the plane\u2019s sudden drop in altitude was controlled or not, or whether there had been technical malfunctions and what might have caused them.  Greece\u2019s lead air accident investigator, Athanasios Binis, said that in addition to the submarine, ships equipped with scanners were scouring the seabed. While searchers were now focused on a 900-sq-mile area, approximately 180 miles north of Alexandria, they would \u201cenlarge it, if necessary, as the operation progressed\u201d. He said a little more wreckage had been found since Egyptian military released pictures on Friday of the first debris, including lifejackets, parts of the plane\u2019s chairs and other wreckage. But he told the Guardian that progress had been \u201climited\u201d.  He said the cockpit flight recorder and flight data recorder had underwater locator beacons that could effectively emit signals in water at a depth of 6,000 metres and for often longer than 30 days.    map   \u201cIn that sense we are lucky,\u201d Binis said. \u201cWe are only in day four of the search but in operations like this you need luck. The waters there are deep but we know from experience signals will be emitted in deep waters. In 1978, the recorders of South Africa airlines flight 295 were found at a depth of 4,900 metres off the island of Mauritius.\u201d  Strong winds over the Mediterranean could hamper investigations but wreckage was not expected to be dispersed beyond the area where the search was now focused.  The passengers included 30 Egyptians, 15 French citizens, two Iraqis, two Canadians, the Briton Richard Osman, and citizens from Algeria, Belgium, Chad, Portugal, Saudi Arabia and Sudan. They included a boy and two babies. Seven crew members and three security personnel were also on board. Despite theories that a bomb might have been smuggled on board, no claim of responsibility has so far been made by Islamic State or other terrorist groups.",
+  "webTitle": "Egypt uses oil ministry submarine in search for MS804 flight recorders",
+  "webPublicationDate": "2016-05-22T16:04:06Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/22/ms804-egypt-submarine-search-flight-recorders-president-crash-cause",
+  "keyword": [
+    {
+      "webTitle": "EgyptAir flight MS804",
+      "id": "world/egyptair-flight-ms804",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Air transport",
+      "id": "world/air-transport",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Egypt",
+      "id": "world/egypt",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Middle East and North Africa",
+      "id": "world/middleeast",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Plane crashes",
+      "id": "world/plane-crashes",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Airbus",
+      "id": "business/airbus",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Angelique Chrisafis",
+      "id": "profile/angeliquechrisafis"
+    },
+    {
+      "webTitle": "Helena Smith",
+      "id": "profile/helenasmith"
+    }
+  ],
+  "guardianId": "world/2016/may/22/ms804-egypt-submarine-search-flight-recorders-president-crash-cause"
+}

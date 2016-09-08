@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/18/licence-to-drill-centrica-awarded-rights-to-explore-barents-sea",
+  "id": "2016-05-18-64",
+  "sectionId": "business",
+  "body": "Centrica has walked into new controversy by obtaining a licence to drill for oil and gas in the Arctic. The owner of British Gas, fresh from rows over annual domestic energy profits, has been awarded rights to explore in the Barents Sea off Norway. Greenpeace said it was astonishing that Centrica would risk the enormous financial costs of a spill in such pristine waters when larger companies such as Shell had recently abandoned operations in the Alaskan Arctic. \u201cMuch bigger players than Centrica have been forced to acknowledge that the frontiers-led growth model is fundamentally flawed,\u201d said Charlie Kronick, an oil campaigner with Greenpeace UK. \u201cThe industry just isn\u2019t capable of exploring in the Arctic safely, let alone profitably, so this folly could raise British bills for the sake of oil and gas which we really, really don\u2019t need.\u201d A spokeswoman for Centrica said it had no plans to drill in the Barents Sea at this time, saying its focus was on concessions further south in the Norwegian and North Seas. But she said that the company would take the utmost care to weigh up any risks if it did look at drilling in the Barents Sea. \u201cClearly, before we started to do anything, we would undertake a comprehensive environmental survey to identify any issues and reduce any potential risk to the environment.\u201d Centrica has been reducing its capital spending on exploration and development spending but says it still needs to find or buy gas if it is going to serve the needs of its 14 million residential customers. Centrica is among a group of oil and gas companies, including the local group Statoil, which have won licences from the Norwegian government. The only other British firm is Tullow Energy.  Tord Lien, the Norwegian oil minister from the rightwing Progress party, said he hoped his country could be entering a new era of hydrocarbon riches. \u201cThe industry\u2019s interest in new acreage shows that the Norwegian continental shelf remains attractive. The potential is huge. If the companies are successful in their exploration, northern Norway will enter a new era.\u201d Greenpeace said the credibility of Norwegian ministers had been wrecked by the decision to press ahead with licensing in a sensitive area, although one where there are already two working oil and gas fields: Sn\u00f8hvit and the just-opened Goliat. Kronick said: \u201cOn Friday the Norwegian government signed an Arctic protection agreement with the US, Canada, Russia and the other Arctic states, and less than a week later, they have completely undermined their credibility by awarding licences to drill there to 13 companies.\u201d",
+  "webTitle": "Licence to drill: Centrica awarded rights to explore Barents Sea",
+  "webPublicationDate": "2016-05-18T18:04:02Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/18/licence-to-drill-centrica-awarded-rights-to-explore-barents-sea",
+  "keyword": [
+    {
+      "webTitle": "Centrica",
+      "id": "business/centrica",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Utilities",
+      "id": "business/utilities",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Greenpeace",
+      "id": "environment/greenpeace",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Oil",
+      "id": "business/oil",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Oil spills",
+      "id": "environment/oil-spills",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Oil and gas companies",
+      "id": "business/oilandgascompanies",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Energy industry",
+      "id": "business/energy-industry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Terry Macalister",
+      "id": "profile/terrymacalister"
+    }
+  ],
+  "guardianId": "business/2016/may/18/licence-to-drill-centrica-awarded-rights-to-explore-barents-sea"
+}

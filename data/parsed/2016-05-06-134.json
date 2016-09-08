@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/06/enda-kenny-wins-second-term-as-irelands-prime-minister",
+  "id": "2016-05-06-134",
+  "sectionId": "world",
+  "body": "Enda Kenny has been re-elected as prime minister of Ireland after 10 weeks of deadlock that followed an inconclusive general election in February.  Kenny is the first Fine Gael PM to win re-election in Irish history, though his triumph is marred by a minority administration that is propped up by independent MPs and, more crucially, by Fianna F\u00e1il. The party, which will remain on the opposition benches, has agreed to support the Fine Gael government for a period of two years in an unprecedented political ceasefire between the rivals. Micheal Martin, the Fianna F\u00e1il leader, said his party reserved the right to criticise the government despite the \u201cconfidence and supply\u201d agreement he secured with Kenny. \u201cThis potentially represents a new beginning,\u201d Martin added.   Related: Ireland to have minority Fine Gael government after deal agreed    Earlier this week, Fianna F\u00e1il and Fine Gael hammered out a deal that includes the suspension of controversial water charges, a 15% rise in rent allowances to alleviate the housing crisis and a 15,000 increase in police numbers to fight rising crime, such as a resurgence of gangland warfare in Dublin. Kenny\u2019s centre-right party lost 26 seats in February\u2019s election, but remained the largest party in parliament with 50 seats. Fianna F\u00e1il made a stunning recovery from a historical low of 21 seats in the 2011 general election to win 44 seats. Sinn F\u00e9in remained the third-biggest party with 23 seats.  On Friday Kenny received 59 votes, with 49 against, in the 158-member parliament \u2013 by far the fewest votes ever received for a winning premier in Ireland.  In a subdued victory speech, he appealed to opposition politicians to \u201cwork in partnership together to build a better Ireland. It will be a real test of our democracy, of our character and indeed of this house a test I am convinced we will pass.\u201d Parliament has now adjourned to allow Kenny to travel to see the Irish president, Michael D Higgins, at his residence in Dublin\u2019s Phoenix Park, where Fine Gael leader will officially become PM. Sinn F\u00e9in and other leftwing groups in parliament have criticised the Fianna Fail-backed deal.",
+  "webTitle": "Enda Kenny wins second term as Ireland's prime minister",
+  "webPublicationDate": "2016-05-06T14:17:58Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/06/enda-kenny-wins-second-term-as-irelands-prime-minister",
+  "keyword": [
+    {
+      "webTitle": "Ireland",
+      "id": "world/ireland",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Enda Kenny",
+      "id": "world/enda-kenny",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Henry McDonald",
+      "id": "profile/henrymcdonald"
+    }
+  ],
+  "guardianId": "world/2016/may/06/enda-kenny-wins-second-term-as-irelands-prime-minister"
+}

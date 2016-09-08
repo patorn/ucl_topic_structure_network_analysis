@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/24/facebook-primary-school-water-shortage-east-palo-alto",
+  "id": "2016-05-24-137",
+  "sectionId": "technology",
+  "body": "A new school funded by Facebook founder Mark Zuckerberg and his wife, Priscilla Chan, is facing delays in construction due to a water crisis in East Palo Alto, a Silicon Valley city that has struggled with poverty amid the region\u2019s tech boom. The Primary School, a private school for low-income students scheduled to open this fall with Chan as CEO, cannot currently get permits to build its facilities due to a major local water shortage that is creating obstacles for numerous development projects in East Palo Alto, according to city officials. The potential construction setback for Chan\u2019s school highlights one of many challenges that has plagued East Palo Alto, which is one of the least affluent communities in Silicon Valley and is located directly south of Facebook\u2019s headquarters in Menlo Park.   Related: Facebook offers employees $10,000 to live close to the office    The school is the latest philanthropic effort of the billionaire Facebook CEO and his wife, a pediatrician and former teacher, who have had mixed results with past charitable initiatives in education. Timed with the birth of their first child, the couple announced in December that they would give away 99% of their Facebook shares in their lifetime to a philanthropic organization dedicated to charitable causes. The roughly $45bn pledge came several years after Zuckerberg partnered with the city of Newark, New Jersey, in an effort to help improve its public schools. The $100m donation to Newark schools earned significant backlash after officials spent large portions of the funds on consultants and the controversial expansion of charter schools in the area. Zuckerberg\u2019s political advocacy group dedicated to immigration reform also sparked criticisms over its ties to conservative politicians.  It\u2019s unclear how the water crisis in East Palo Alto may impede the Primary School. The school initially declined to comment, but after publication of this article, spokesman Brent Colburn released a statement saying the school would open in a temporary space in the fall, adding: \u201cWe look forward to continuing to work with the city on permits for a permanent location.\u201d The private school, which was announced in October and will be free, will eventually enroll students pre-kindergarten through eighth grade and aims to integrate a range of healthcare services, including mental health and prenatal care, into the facilities. The school is partnering with a local health center and is recruiting families from East Palo Alto and Belle Haven, a neighborhood in Menlo Park that has struggled with rising rents in the shadow of Facebook. While the school is on track to enroll its first class of four-year-old pre-K students at the interim site , it remains to be seen if and when the school can break ground on building facilities at its intended permanent site, which is roughly two miles away from Facebook\u2019s headquarters. The delay in issuing permits stems from what East Palo Alto officials describe as a major \u201cwater crisis\u201d tied to a shortage and lack of an emergency system in place if its current water source suffers an interruption.  When the city was incorporated in the 1980s, officials allocated East Palo Alto far less water than surrounding cities, according to local paper the Peninsula Press. The disparity and water shortage remains a problem today, according to East Palo Alto assistant city manager Sean Charpentier, who noted that the city receives roughly 76 gallons of water per day per capita \u2013 a significantly smaller amount than the 114 gallons surrounding municipalities receive. In a recent report on the crisis, the city said it has delayed approvals for numerous projects, including the Primary School, \u201cdue to the lack of water\u201d. \u201cWe cannot entitle projects until we can prove there is a water supply available for them,\u201d Charpentier said, adding: \u201cWe have a water allocation that is inadequate for the size of our city in terms of allowing it to grow.\u201d The city\u2019s report said that the water crisis has also delayed entitlements for an affordable housing project and two office developments. Charpentier said the city was requesting an increase in its allocation from the local public utilities commission and plans to build new groundwater wells \u2013 but that construction could take years. Over the years, East Palo Alto has struggled with crime, homelessness and gentrification and is often cited as an illustration of rising income inequality in Silicon Valley.",
+  "webTitle": "School funded by Facebook founder stalled due to water shortage",
+  "webPublicationDate": "2016-05-24T14:00:11Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/24/facebook-primary-school-water-shortage-east-palo-alto",
+  "keyword": [
+    {
+      "webTitle": "Facebook",
+      "id": "technology/facebook",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "US education",
+      "id": "education/education-us",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Water",
+      "id": "environment/water",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "California",
+      "id": "us-news/california",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Mark Zuckerberg",
+      "id": "technology/mark-zuckerberg",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Silicon Valley",
+      "id": "technology/silicon-valley",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Education",
+      "id": "education/education",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Social networking",
+      "id": "media/socialnetworking",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Sam Levin",
+      "id": "profile/sam-levin"
+    }
+  ],
+  "guardianId": "technology/2016/may/24/facebook-primary-school-water-shortage-east-palo-alto"
+}

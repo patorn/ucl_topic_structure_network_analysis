@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/science/2016/may/17/how-did-the-giraffe-get-its-long-neck-gene-analysis-tells-a-tall-story",
+  "id": "2016-05-17-119",
+  "sectionId": "science",
+  "body": "It sounds like a tale by Rudyard Kipling, but researchers delving into giraffe genetics say they have discovered new insights into how the creature got its long neck and gangly frame. The world\u2019s tallest land animal, the giraffe boasts some curious characteristics. Its neck contains seven vertebrae, the same number as humans, but each is elongated. For blood to reach the brain, the heart must pump it to a height of two metres - a feat made possible by an unusual heart structure, blood pressure more than twice that of humans and thick-walled blood vessels.   Related: Long-necked diplomacy: the tale of the third giraffe    Now scientists have discovered a host of genetic variations that could be behind such traits. \u201cGiraffes\u2019 unique stature and turbocharged cardiovascular system did not arise from new genes but instead from genetic modification of a small number of genes that are well-known regulators of development and function,\u201d said Douglas Cavener of Pennsylvania State University, an author of the research.  Writing in the journal Nature Communications, the international team, which included scientists from the UK, US and Tanzania, describe how they sequenced the genome of two Masai giraffes. These genomes were then compared with that of the giraffe\u2019s closest relative - a stripy-legged animal known as the okapi - and to cattle, which shared a common ancestor with giraffes and okapi about 28m years ago. Variations discovered in the giraffe\u2019s protein-coding sequences were then compared with the corresponding genes of 40 other mammals, from camels to mice, and assessed for their influence.            The giraffe genome project has seen scientists from Penn State University and the Nelson Mandela African Institute for Science and Technology team up to sequence and analyse the genomes of the giraffe and okapi.    The upshot was the discovery of 70 genes with variations specific to giraffes that, the researchers believe, could be behind the animal\u2019s unusual adaptations. More than half of these genes were found to code for proteins that are involved in regulating the physiology or development of the cardiovascular system, neural system and skeleton, with some thought to influence factors such as which vertebrae become elongated.  Variations were also found in genes linked to metabolism, which could be involved in the giraffe\u2019s ability to tolerate the toxic leaves and seed pods of the acacia tree.   Related: Giraffemania! The live diplomatic gift that started a Georgian craze    The authors say that the study also suggests that features such as the giraffe\u2019s long neck and specialised cardiovascular system might have evolved simultaneously, as some of the genes identified influence more than one aspect of development. Among these is FGFRL1, a gene known to be involved in regulating the development of both the skeleton and the cardiovascular system in humans and mice. \u201cThe fact that FGFRL1 is critical for the development of both skeletal and cardiovascular system, and these are the two systems that are modified the most in giraffes, makes it a key candidate gene responsible for giraffe\u2019s unique features,\u201d added Cavener. But Nick Mundy, an evolutionary geneticist at Cambridge University, believes there is plenty more to be done before the mystery of how the giraffe got its neck is finally solved. \u201cDescribing genetic changes along the evolutionary branch leading to the giraffe is relatively straightforward; what is much harder is interpreting those changes,\u201d he said.  While the team had highlighted a collection of mutations, he added, \u201cIt is very difficult to say whether any of these are actually relevant to the giraffe\u2019s neck. The genes they have identified are best viewed as candidates for further analysis.\u201d It\u2019s a point Cavener appears to be probing. While he believes it likely that variations in several of the identified genes are responsible for the giraffe\u2019s lengthy neck, the team, he says, are currently using gene editing techniques to introduce the giraffe\u2019s version of the FGFRL1 gene into mice to see whether it affects their development. \u201cIt is quite possible that we will see a mouse with a slightly longer neck,\u201d he said. \u201cIf we can show that it is statistically longer, then we will be very happy.\u201d",
+  "webTitle": "How did the giraffe get its long neck? Gene analysis tells a tall story",
+  "webPublicationDate": "2016-05-17T15:00:07Z",
+  "webUrl": "https://www.theguardian.com/science/2016/may/17/how-did-the-giraffe-get-its-long-neck-gene-analysis-tells-a-tall-story",
+  "keyword": [
+    {
+      "webTitle": "Genetics",
+      "id": "science/genetics",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Zoology",
+      "id": "science/zoology",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Biology",
+      "id": "science/biology",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Evolution",
+      "id": "science/evolution",
+      "sectionId": "science",
+      "sectionName": "Science"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Nicola Davis",
+      "id": "profile/nicola-davis"
+    }
+  ],
+  "guardianId": "science/2016/may/17/how-did-the-giraffe-get-its-long-neck-gene-analysis-tells-a-tall-story"
+}

@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/science/2016/may/12/spacewatch-russia-launches-new-spaceport",
+  "id": "2016-05-12-34",
+  "sectionId": "science",
+  "body": "Russia has launched the first rocket from its new spaceport. Although not yet finished, the Vostochny cosmodrome has cost \u00a32bn and taken five years to build so far. When completed in the 2020s, it will launch cosmonauts and Russia\u2019s new Angara rocket, which could eventually take people to the moon. The spaceport became operational on 28 April when a Soyuz-2.1 rocket lifted off carrying three satellites into orbit. Vladimir Putin attended the launch and had words of both congratulation and warning.   Related: Old spaceplane design will finally fly    The spaceport has been dogged by delays and reports of corruption among the base\u2019s contractors. Speaking at a press conference, the president told reporters that six legal cases had been launched, and that if people were found guilty they would have to swap their warm beds for prison cells. Situated in the far east of the country, Vostochny is designed to largely replace the Soviet era Baikonur cosmodrome. Baikonur is the historic site from which Sputnik 1, Yuri Gagarin and Valentina Tereshkova were launched, but it is in Kazakhstan rather than Russia. Following the collapse of the Soviet Union, Russia has been forced to rent the spaceport from Kazakhstan for \u00a380m a year. When complete, the Vostochny cosmodrome will include up to six launch pads, a new city with schools and civic amenities to house the expected 20,000 workforce, and accommodation for tourists. The plan is to turn the spaceport into a world centre for space. It is hoped that the development will stimulate growth in this economically depressed part of the country. But it comes at a high initial cost. The final price tag could exceed \u00a310bn according to 2009 estimates.",
+  "webTitle": "Russia launches first rocket from new spaceport",
+  "webPublicationDate": "2016-05-12T20:30:08Z",
+  "webUrl": "https://www.theguardian.com/science/2016/may/12/spacewatch-russia-launches-new-spaceport",
+  "keyword": [
+    {
+      "webTitle": "Space",
+      "id": "science/space",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Russia",
+      "id": "world/russia",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Satellites",
+      "id": "science/satellites",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Vladimir Putin",
+      "id": "world/vladimir-putin",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Stuart Clark",
+      "id": "profile/dr-stuart-clark"
+    }
+  ],
+  "guardianId": "science/2016/may/12/spacewatch-russia-launches-new-spaceport"
+}

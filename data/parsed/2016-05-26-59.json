@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/26/gray-matters-review-eileen-gray-marco-antonio-orsini",
+  "id": "2016-05-26-59",
+  "sectionId": "film",
+  "body": "Although this is screening at select venues as a companion piece to director Mary McGuckian\u2019s drippy biopic The Price of Desire, Marco Antonio Orsini\u2019s documentary represents a far more interesting and densely layered exploration of the life and legacy of architect and furniture designer Eileen Gray. For a start, it covers all the same basic biographical stuff: Gray\u2019s bisexuality, her long romantic relationship and design collaboration with Jean Badovici, which itself evolved into a sort of fraught, creative menage a trois with the architect Le Corbusier, and then the withdrawal from public life that cloaked her reputation in obscurity until scholars rediscovered her work later. But what makes this even more compelling is the supporting art-historical input from its numerous interviewees (I developed a particular soft spot for the dulcet-voiced Dr Jennifer Goff of the National Museum of Ireland), who collectively explicate Gray\u2019s eclectic style, a playful, practical minimalism that evolved substantially over the years. Also, the footage provides a much more comprehensive catalogue of her designs, such as the lusciously sensual 1922 canoe-like chaise longue, or her elegant brick screens.",
+  "webTitle": "Gray Matters review \u2013 compelling Eileen Gray documentary",
+  "webPublicationDate": "2016-05-26T20:00:12Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/26/gray-matters-review-eileen-gray-marco-antonio-orsini",
+  "keyword": [
+    {
+      "webTitle": "Documentary",
+      "id": "film/documentary",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Architecture",
+      "id": "artanddesign/architecture",
+      "sectionId": "artanddesign",
+      "sectionName": "Art and design"
+    },
+    {
+      "webTitle": "Art and design",
+      "id": "artanddesign/artanddesign",
+      "sectionId": "artanddesign",
+      "sectionName": "Art and design"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Leslie Felperin",
+      "id": "profile/lesliefelperin"
+    }
+  ],
+  "guardianId": "film/2016/may/26/gray-matters-review-eileen-gray-marco-antonio-orsini"
+}

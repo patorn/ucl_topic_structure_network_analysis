@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/13/eu-abba-star-bjorn-ulvaeus-urges-britons-vote-remain",
+  "id": "2016-05-13-34",
+  "sectionId": "politics",
+  "body": "Bj\u00f6rn Ulvaeus, of the Swedish pop legends Abba, is urging British voters to take a chance on the EU and vote to remain in June\u2019s referendum. Christine Lagarde, Mark Carney and Larry Summers are among some of the world\u2019s most powerful economic thinkers who have waded into the debate to warn about the risks of leaving the union. But as millions of Britons settle on their sofas to watch Eurovision on Saturday night, the Britain Stronger in Europe campaign hopes the intervention of the man who co-wrote such classics as Dancing Queen and Fernando will show its argument is not just about Money, Money, Money. Speaking before this year\u2019s competition, which is being held in Sweden, Ulvaeus told Radio 5 Live: \u201cIt would really make me sad if Britain would leave and what that would mean. It\u2019s like someone you love leaving you. It\u2019s emotional.\u201d   Related: Ukraine's Eurovision singer urges voters to show Crimea solidarity    James McGrory, a spokesman for Stronger In, welcomed Ulvaeus\u2019s statement, saying: \u201cThe leave campaign wants the British public to take a chance by turning our backs on the EU and risking our economic security and global influence.\u201d Celebrities in the out camp include the former England batsman Ian Botham and Roger Daltrey, the frontman of the Who. More than 1,000 pro-EU events are taking place across Britain on Saturday, involving all the major party leaders. The latest polling suggests the result of the 23 June vote is too close to call; and with only two options on the ballot paper, the winner takes it all. Eurovision itself, which incorporates non-EU members including Turkey, Israel and Russia, more closely resembles the freewheeling alliance that Vote Leave\u2019s campaign chair, Michael Gove would like to see, than the EU \u2013 though the bureaucracy of the voting system could have been designed by Brussels. The views of the other three members of Abba on Britain\u2019s future relationship with the EU are as yet unknown.",
+  "webTitle": "Gimme, gimme, gimme some hope for the EU: Abba star tells UK to stay",
+  "webPublicationDate": "2016-05-13T20:00:03Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/13/eu-abba-star-bjorn-ulvaeus-urges-britons-vote-remain",
+  "keyword": [
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Abba",
+      "id": "music/abba",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Eurovision",
+      "id": "tv-and-radio/eurovision",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Heather Stewart",
+      "id": "profile/heatherstewart"
+    }
+  ],
+  "guardianId": "politics/2016/may/13/eu-abba-star-bjorn-ulvaeus-urges-britons-vote-remain"
+}

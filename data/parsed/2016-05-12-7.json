@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/12/china-may-take-over-hinkley-point-nuclear-project-claims-lord-howell",
+  "id": "2016-05-12-7",
+  "sectionId": "uk-news",
+  "body": "Chinese companies are ready to step in and offer to build new reactors at Hinkley Point in Somerset if French company EDF backs out of the government\u2019s flagship energy project, it has been claimed. EDF recently put back a final investment decision until September amid mounting problems \u2013 not least whether it has the financial muscle to construct what may be the most expensive power plant ever. David Howell, father-in-law of George Osborne, told the House of Lords on Thursday night about Beijing\u2019s intentions just as EDF faced even more opposition from its own private shareholders to the Hinkley scheme at its annual general meeting in Paris.  \u201cIs my noble friend aware that the Chinese also have a plan B which is to bypass EDF altogether and build two smaller reactors on the Hinkley C site and to do it rather quicker than the present Hinkley C plan?\u201d asked Lord Howell. He later told the Times that he had made his comment on the back of private meetings with Chinese delegations: \u201cThis is the view of informed thinktanks and a deduction of the way they must be thinking.\u201d The state-owned China General Nuclear Power Corporation has already committed itself to taking a third stake in the new reactors planned by EDF for Hinkley Point C but has also outlined its own aspirations to construct a new plant at Bradwell in Essex.   Related: China to take one-third stake in \u00a324bn Hinkley nuclear power station    China has never said publicly it would be willing to take over the full Hinkley project and would face enormous difficulties and potential delays if it wanted to use Hualong designs \u2013 which are unlicensed in Britain. It is possible China may take over French European Pressurised Reactor (EPR) designs that have been produced by EDF\u2019s French partner, Areva, and which are already approved for UK operation. But the huge opposition inside EDF to Hinkley and problems with an EPR being built at Flamanville in France has led many \u2013 including apparently the Chinese \u2013 to question whether EDF will be forced to abandon the British project. The French energy company admitted ahead of its AGM that the final cost of Hinkley could be \u00a320.7bn, but later argued that it still expected it to be constructed for \u00a318bn. The final investment decision at Hinkley has been delayed several times. Last month, French economy minister, Emmanuel Macron, said he expected a decision by September which would mean the earliest start up would be spring 2026. In October 2015, EDF said the first operation was scheduled for 2025, which was already a two-year delay from its 2013 estimate for a 2023 start. Jean-Bernard L\u00e9vy, the chief executive of EDF who has seen his finance director resign over the cost of Hinkley told shareholders that construction risks were present but would be \u201cwell managed\u201d. But the FT reported that one shareholder, Gilles Sauront, speaking at the AGM held in the Louvre art gallery, as saying: \u201cEvery decision has been terrible and it is us who are paying for it \u2026 The EPR project (in the UK) has no credibility.\u201d The share price of EDF has been hammered as the uncertainty over Hinkley increased while cost overruns and delays increased at the Flamanville project.",
+  "webTitle": "China may take over Hinkley Point nuclear project, claims Lord Howell",
+  "webPublicationDate": "2016-05-12T22:50:31Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/12/china-may-take-over-hinkley-point-nuclear-project-claims-lord-howell",
+  "keyword": [
+    {
+      "webTitle": "Hinkley Point C",
+      "id": "uk-news/hinkley-point-c",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Nuclear power",
+      "id": "environment/nuclearpower",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "EDF Energy",
+      "id": "business/edf",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Energy",
+      "id": "environment/energy",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "China",
+      "id": "world/china",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Terry Macalister",
+      "id": "profile/terrymacalister"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/12/china-may-take-over-hinkley-point-nuclear-project-claims-lord-howell"
+}

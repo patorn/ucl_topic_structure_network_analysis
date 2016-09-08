@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/books/2016/may/12/egypt-must-not-try-to-legislate-imagination-it-must-free-ahmed-naji",
+  "id": "2016-05-12-124",
+  "sectionId": "books",
+  "body": "In the last few years in Egypt, the regime of Abdel Fatah al-Sisi has tried thousands of civilians in military court, jailed human rights activists and political dissenters, raided the offices of the Press Syndicate in Cairo, imprisoned journalists, and allowed security forces to escape accountability for the killing of nearly 900 protesters in Rab\u2019a Square. Now the regime wants to legislate imagination. The publication of an excerpt from Ahmed Naji\u2019s novel The Use of Life in the magazine Akhbar al-Adab has led to his arrest for \u201cviolating public morals\u201d because of explicit references to sex and drug use. Though he was acquitted of these charges last year, Naji was sentenced on appeal and is now serving a two-year prison term.  Sex and drug use are part of the human experience. They are part of what novelists, including Egyptian novelists, write about every day. To decide that readers should be protected from \u201cimmoral\u201d literature is to presume that readers are fools; that they are incapable of making their own judgments. Writing is not a crime and neither is reading.    Related: Pleas for the release of Egyptian writer Ahmed Naji    Egypt has given the world some of its greatest writers and thinkers \u2013 Naguib Mahfouz, Taha Hussein, Tawfiq al-Hakim, and Nawal El Saadawi, to name just a few. It is a shame that the Sisi regime wants to deprive Egyptians and others of the pleasure of reading the country\u2019s younger writers. If the regime is so concerned with morality, it ought to start by examining its own actions, not the imaginary actions of imaginary characters.",
+  "webTitle": "Egypt must not try to legislate imagination \u2013 it must free Ahmed Naji",
+  "webPublicationDate": "2016-05-12T16:19:53Z",
+  "webUrl": "https://www.theguardian.com/books/2016/may/12/egypt-must-not-try-to-legislate-imagination-it-must-free-ahmed-naji",
+  "keyword": [
+    {
+      "webTitle": "Books",
+      "id": "books/books",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Fiction",
+      "id": "books/fiction",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Censorship",
+      "id": "world/censorship",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Laila Lalami",
+      "id": "profile/lailalalami"
+    }
+  ],
+  "guardianId": "books/2016/may/12/egypt-must-not-try-to-legislate-imagination-it-must-free-ahmed-naji"
+}

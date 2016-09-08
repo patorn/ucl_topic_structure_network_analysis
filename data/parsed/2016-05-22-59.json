@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/22/police-cover-up-naked-sleepwalker-in-manchester",
+  "id": "2016-05-22-59",
+  "sectionId": "uk-news",
+  "body": "A naked sleepwalker wandered out of their hotel in central Manchester and was rescued by police officers.  Greater Manchester police said the individual, whom they did not identify, was \u201cgrateful for our help [and] saw the funny side themselves\u201d. Officers were sent to Chorlton Street at 4.34am on Sunday morning. The force later tweeted that the individual suffered from somnambulism, or sleepwalking, and was not taking part in a dare.    we checked with officers; was proper somnambulism, not a dare. Person grateful for our help + saw the funny side themselves\u2014 GMP City Centre (@GMPCityCentre) May 22, 2016    A police source told the Manchester Evening News that the individual was lent police jackets to cover up, and later asked for a selfie with the officers. The source said: \u201cOfficers lent the person their jackets to protect what remained of their modesty and accompanied them back to the hotel. \u201cOfficers were satisfied that it was a case of somnambulism, and not a dare. The person involved was grateful to the officers for their help, saw a funny side to what had happened, and even asked for a selfie with the officers (when they were fully clothed) as a memento of their unusual encounter with GMP.\u201d",
+  "webTitle": "Police cover up naked sleepwalker in Manchester",
+  "webPublicationDate": "2016-05-22T17:13:28Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/22/police-cover-up-naked-sleepwalker-in-manchester",
+  "keyword": [
+    {
+      "webTitle": "Manchester",
+      "id": "uk/manchester",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Greater Manchester",
+      "id": "uk/greater-manchester",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Police",
+      "id": "uk/police",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Rebecca Ratcliffe",
+      "id": "profile/rebecca-ratcliffe"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/22/police-cover-up-naked-sleepwalker-in-manchester"
+}

@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/12/tim-garland-one-cd-review-jazz-rock-jason-rebello-edition",
+  "id": "2016-05-12-100",
+  "sectionId": "music",
+  "body": "Few world-class jazz improvisers are comparably imaginative composers, but the British reeds player Tim Garland is that rarity. His inspired last album was the semi-orchestral Songs to the North Sky, but One returns to his early jazz-rock connections, with former Sting sideman Jason Rebello playing piano, organ and Fender Rhodes, guitarist Ant Law providing acoustic delicacy and electric firepower, world-music subtleties and hefty backbeats from the drummers, and a single, impassioned vocal account from Dionne Bennett (of Welsh folk-rock group the Earth) of a caustic Garland lyric on the arms trade.          Watch trailer for Tim Garland: Songs to the North Sky    The leader\u2019s soprano-sax playing mingles an affectingly folksy piper\u2019s warmth and a wry, Wayne Shorter-like pithiness. Shorter\u2019s economical lyricism also tinges the more reflective themes. On tenor sax, Garland is almost in Average White Band territory with the funky Prototype, and ramps up the power with chordal bugged-sax passages in the later tracks. His sophistication overcomplicates these forthright idioms occasionally, but his melodic touch is almost always masterful, as is the playing of all the participants.",
+  "webTitle": "Tim Garland: One review \u2013 masterful melody and a return to jazz-rock",
+  "webPublicationDate": "2016-05-12T17:15:04Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/12/tim-garland-one-cd-review-jazz-rock-jason-rebello-edition",
+  "keyword": [
+    {
+      "webTitle": "Jazz",
+      "id": "music/jazz",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "John Fordham",
+      "id": "profile/johnfordham"
+    }
+  ],
+  "guardianId": "music/2016/may/12/tim-garland-one-cd-review-jazz-rock-jason-rebello-edition"
+}

@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/society/2016/may/28/hiv-aids-test-kit-samba-detection-africa",
+  "id": "2016-05-28-35",
+  "sectionId": "society",
+  "body": "A revolutionary device developed by a team of Cambridge scientists is transforming the diagnosis of HIV in sub-Saharan Africa. The machine \u2013 known as Samba (simple amplification-based assay) \u2013 can tell whether a person is infected with the virus within two hours of them giving a tiny blood sample. Virus carriers can then be offered immediate treatment and advice. More than 20 million people in sub-Saharan Africa are thought to be carrying HIV, the virus that causes Aids. The chaotic conditions in some parts of this region \u2013 with transport, health services and electricity supply often poor or nonexistent \u2013 have made it extraordinarily difficult for doctors to keep track of infected individuals. But the new analyser, the size of a small coffee machine, which was developed by a team led by Cambridge blood scientist Professor Helen Lee, needs no laboratory or trained staff. It can be carried on a motorcycle \u2013 often the only method of transport in remote regions \u2013 and its reagents can withstand high temperatures and humidity. \u201cBasically, they will still work even if the heat goes above 50C,\u201d said Lee. In recognition of her team\u2019s achievement in developing Samba, Lee has been named a finalist in the 2016 European inventor awards. Winners will be announced in Lisbon next week. \u201cThe crucial point about our device is that it provides you with a simple signal,\u201d Lee told the Observer. \u201cIf two lights are produced, that shows a person has been infected with HIV. If only one light shines, they are not infected. We can show it to a patient and explain to them exactly what the lights mean and what is going on. That is a very powerful way to convince someone of their condition.\u201d Working in close collaboration with charity M\u00e9decins Sans Fronti\u00e8res, Lee and her colleagues have tested Samba on 40,000 men and women in Malawi and Uganda since the first prototype was developed in 2011 and found it works extremely efficiently. Each test costs around \u00a312 to administer. \u201cNow we are going to expand testing for HIV to pregnant women, mothers and newborn children, starting in Kenya,\u201d Lee said. The ability to make quick diagnoses is considered to be of crucial importance in controlling Africa\u2019s HIV epidemic. Until now, people have had to travel to health centres to provide a blood sample and then return weeks later for the results of their test. Up to 70% of patients will fail to return and are designated \u201clost to follow-up\u201d. Lee\u2019s tests should help to cut that number dramatically. \u201cWe are taking the test to the people rather than the other way around,\u201d she said. This point was backed by Beno\u00eet Battistelli, president of the European Patent Office, which is running next week\u2019s inventor awards. \u201cThe test brings reliable diagnostics of HIV infection to areas where they are needed most and will also allow monitoring of the efficiency of medical treatments without laboratory infrastructure,\u201d he said. Apart from giving reliable diagnoses of HIV infection, Lee\u2019s device can tell doctors the viral load \u2013 the amount of live virus material \u2013 that is flowing through a patient\u2019s bloodstream. This a critical parameter for gauging drug dosages, and was previously available only in advanced laboratory settings. Samba works by drawing a blood sample from a patient and then feeding it into a disposable cartridge that contains chemicals including a particular genetic sequence found only in HIV. These chemicals do not require refrigeration and amplify the viral DNA to generate a colour change that appears on the cartridge. Two red lines on the side mean that person is positive for HIV. One line means they are uninfected. No line means that the test has not worked and needs to be retaken. \u201cSo many devices for dealing with conditions like HIV are created in the developed world,\u201d said Lee. \u201cThen scientists try to adapt them to suit the developing world. That always causes problems. So we have designed our system to suit developing countries from the start. Lee has set up a new company, Diagnostics for the Real World, backed by the US National Institutes of Health and the Wellcome Trust, to raise money for manufacturing the device. There are also plans to use the system to test for other infectious diseases, including influenza and gonorrhoea.",
+  "webTitle": "Two-hour test kit hailed as boon to HIV care in Africa",
+  "webPublicationDate": "2016-05-28T21:01:15Z",
+  "webUrl": "https://www.theguardian.com/society/2016/may/28/hiv-aids-test-kit-samba-detection-africa",
+  "keyword": [
+    {
+      "webTitle": "Aids and HIV",
+      "id": "society/aids-and-hiv",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Africa",
+      "id": "world/africa",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "University of Cambridge",
+      "id": "education/cambridgeuniversity",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Higher education",
+      "id": "education/higher-education",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Education",
+      "id": "education/education",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Robin McKie",
+      "id": "profile/robinmckie"
+    }
+  ],
+  "guardianId": "society/2016/may/28/hiv-aids-test-kit-samba-detection-africa"
+}

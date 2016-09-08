@@ -1,0 +1,67 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/29/women-are-ready-to-take-on-fracking",
+  "id": "2016-05-29-36",
+  "sectionId": "environment",
+  "body": "There is a whole generation of women out here who were protesters at Greenham Common, Aldermaston, and the Newbury Bypass (Anti-Fracking groups plan protest camps, 26 May). Besides working with our partners to help our children carve out a life in a horribly hostile financial climate, we are volunteering on committees to help keep youth and children\u2019s centres, libraries, and village halls open, because council budgets are totally inadequate. In our 50s, 60s and 70s, we are supporting the junior doctors, standing against welfare cuts, and for renewable energy. We want this government to publish the report, which they have been sitting on since the end of March, on the Environmental Impact of Shale Gas Technology, by the independent Climate Change Committee. Yes, I think there will be anti-fracking camps like Balcombe here in the north. I think there might be all sorts of imaginative social disobedience. We\u2019ve been round the block already, and demographics show that our age group is growing. Even if we didn\u2019t get to Greenham Common, there are quite a lot of us who might make up for it in Kirby Misperton, Preston New Road, or Roseacre Wood.Janet RussellSilsden, West Yorkshire",
+  "webTitle": "Women are ready to take on fracking | Letters",
+  "webPublicationDate": "2016-05-29T18:57:34Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/29/women-are-ready-to-take-on-fracking",
+  "keyword": [
+    {
+      "webTitle": "Fracking",
+      "id": "environment/fracking",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Gas",
+      "id": "environment/gas",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Fossil fuels",
+      "id": "environment/fossil-fuels",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Energy",
+      "id": "environment/energy",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Greenham Common",
+      "id": "uk/greenham",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Protest",
+      "id": "world/protest",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Women",
+      "id": "lifeandstyle/women",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    }
+  ],
+  "authors": [],
+  "guardianId": "environment/2016/may/29/women-are-ready-to-take-on-fracking"
+}

@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/21/muslims-jews-police-extremism-bill",
+  "id": "2016-05-21-61",
+  "sectionId": "uk-news",
+  "body": "David Cameron\u2019s new counter-extremism legislation has been condemned by a powerful coalition of opponents, including the former police chief in charge of the government\u2019s anti-radicalisation programme, who warns that it could actually fuel terrorism.   Related: Police study links radicalisation to mental health problems    The multi-faith alliance of 26 organisations and prominent individuals includes Liberty, Index on Censorship, the National Union of Students, Runnymede Trust and the Muslim Council of Britain, along with individuals including Peter Fahy, ex-chief constable of Greater Manchester and a former policing lead for the Prevent programme. In a statement directed at the prime minister, the coalition said: \u201cWe are a cross-section of British society who believe in the necessity of keeping our nation safe and secure. As such, we are gravely concerned that the proposed counter-extremism and safeguarding bill will feed the very commodity that the terrorists thrive on: fear.\u201d It added: \u201cThese proposals will serve to alienate communities and undermine free speech, but there is scant evidence that they will tackle the terrorism we all want to confront.\u201d The counter-extremism bill, unveiled in last Wednesday\u2019s Queen\u2019s speech, contains numerous new powers, including the ability to ban \u201cextremist\u201d organisations, gag individuals and empower local councils to close premises used to \u201cpromote hatred\u201d. There is no definition of extremism in the bill, however.\u201cThe fact that the government is struggling to define the \u2018extremism\u2019 it wants to ban should be a clear indication that this legislation has no place in a liberal democracy,\u201d adds the statement. The diversity of the coalition assembled indicates the disquiet prompted by the new bill; it includes the Jewish Council for Racial Equality, the British Institute of Human Rights and figures such as the journalist Peter Oborne and Guardian columnist Owen Jones. Dr Shuja Shafi of the Muslim Council of Britain, which incorporates 500 mosques, schools and charities, said: \u201cThe fact that such a diverse range of groups have come together should tell us there are widespread concerns about the proposals in the government\u2019s counter-extremism bill. The terrorists would like nothing better than provoking ill thought-through policies that undermine all our freedoms.\u201d Meanwhile, a new survey reveals that one in three British adults say they agree that Islam promotes violence in the UK. A study conducted by ComRes on behalf of Ahmadiyya Muslim Community UK also found that 56% of Britons disagreed with the view that Islam is compatible with British values. Ibrahim Ikhlaf from the Ahmadiyya Muslim Community UK, said: \u201cThe focus in the media on extremism, and linking any type of violence or crime by Muslims to Islam, has skewed public perception so that they believe Islam condones or encourages violence and extremism. Nothing could be further from the truth.\u201d Tom Mludzinski, director of political polling for ComRes, said the findings revealed the extent of the conflicting perceptions among the British public towards Islam. \u201cWith Britons similarly as likely to agree that Islam promotes acts of violence in the UK as they are to agree that Islam promotes peace in the UK, it is clear that perceptions of Islam are mixed among the general public.\u201d",
+  "webTitle": "Police and faith alliance attacks counter-extremism bill",
+  "webPublicationDate": "2016-05-21T18:55:00Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/21/muslims-jews-police-extremism-bill",
+  "keyword": [
+    {
+      "webTitle": "UK security and counter-terrorism",
+      "id": "uk/uksecurity",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Counter-terrorism policy",
+      "id": "politics/terrorism",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "David Cameron",
+      "id": "politics/davidcameron",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Mark Townsend",
+      "id": "profile/marktownsend"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/21/muslims-jews-police-extremism-bill"
+}

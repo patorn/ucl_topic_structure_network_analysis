@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sustainable-business/2016/may/17/from-app-doctors-to-big-data-five-ways-tech-will-shape-healthcare",
+  "id": "2016-05-17-133",
+  "sectionId": "sustainable-business",
+  "body": "Technology presents huge opportunities and challenges for our health and care system. Here are five areas to watch:  Wearables Shipments of the activity tracking wearable Fitbit are up 25.4% this year, signalling more and more of us want insights into our exercise, eating, weight and sleeping patterns. As we begin to generate our own health data, our relationship with our bodies will change, and the way we understand and seek healthcare will be transformed.     The FitBit Blaze. The market for connected wearable devices jumped in early 2016. Photograph: David Mcnew/AFP/Getty Images    \u201cSome of my patients will share outputs from their wearable ... when it comes to their yearly reviews. But this is the exception, rather than the rule at present,\u201d says Dr Junaid Bajwa, director of healthcare services, MSD.  The challenge is integrating wearable data with existing data to create a single personal health record.  \u201cAdditional data without insight [only] adds to the burden of both clinicians and patients,\u201d says Rashmi Narayan, clinical director, uMotif. \u201cIt\u2019s about actionable insight into patient\u2019s health rather than sheer volume.\u201d Wearables can also help manage the symptoms of illnesses. For example, Philips is currently working on a falls prevention programme. According to Dr Seemit Dhage, clinical lead on Philips HealthTech, its wearable device uses algorithms and analytics to predict when a patient might fall.  \u201cCombined with a telehealth solution, we are able to send messages to the right healthcare professionals who are then able to intervene at an early stage. [It] also helps us monitor patients who have a known history of falls.\u201d  App doctors Both developed and developing world countries suffer from a lack of doctors, and the scale of the problem is so big that only technology can fix it, according to Matteo Berlucchi, chief executive of digital medical service Your.MD. Your.MD is a mobile app that uses artificial intelligence (AI) to mimic a consultation with a GP. It answers three key questions: what is wrong with me? What is the solution? And where can I get help?    Related: Will mobile health apps make GPs redundant?    \u201cIt\u2019s not a matter of replacing doctors but complementing them,\u201d says Berlucchi. \u201cOr in other words, taking some of the easier and more mundane situations off the hands of real doctors and having AI sort them out. A lot of visits to the GP (as many as three in five) are for minor ailments, advice or things that you could sort out yourself with over the counter medicines. In these situations, what the GP gives you is basically \u2018the right information\u2019.\u201d  With some 165,000 mobile health apps available, however, there is risk that poor quality ones will cause people to lose trust in health apps as a whole. As Berlucchi says: \u201ctrust comes on foot and leaves on horseback.\u201d Telehealth Many GP interactions are already conducted remotely via phone, but increasingly thy are happening by video, explains David Furniss, vice-president, global government and health, BT.  \u201cWe are already seeing the development of technology that will allow some vital signs measurements to be done simultaneously via video at the same time as the consultation. You wouldn\u2019t have all interactions with your GP like this, but in many cases it\u2019s more effective, saves time and travel.\u201d Big data  Big data will have impacts for both non-communicable diseases (such as asthma and diabetes), and communicable diseases (such as measles).  The Cloudy with a Chance of Pain project for example, will use data logged by participants to determine if there is a correlation between weather and chronic pain. The anonymous data can even be explored by the general public to try and spot the patterns between weather and symptoms.   The ability of big data to track communicable diseases such as the Zika virus and travel patterns also has huge potential. Big data and analytics have already played a role in containing previous viral outbreaks of cholera and malaria. But it needs support infrastructure at ground level to really work Berlucchi also points to the potential of deep learning applied to big data. \u201cIt provides a way to become much more accurate at diagnosing certain conditions. For example, computers should be better at spotting anomalies in MRIs ... [and] a doctor can then verify what a computer has flagged.\u201d However there are potential drawbacks of big data. Recent news that Google received access to the healthcare data of up to 1.6 million patients, sparked fears over security and privacy.    Related: Meet Ellie, the machine that can detect depression    Digital therapy The key drivers for digital therapy solutions for conditions such as insomnia, anxiety and depression are constraints on financial and human resources. Digital therapy won\u2019t be for everyone, but examples include Big White Wall, for peer to peer mental health support. And pzizz, an app to help people with sleeping problems. While apps might be able to respond quickly to the needs of a patient they will never be especially good at delivering empathy. \u201cLosing the human touch is a danger,\u201d says Julie Bretland, director and CEO, Our Mobile Health. \u201cBut given the current economic pressures on the healthcare system, we are in danger of losing the humane touch irrespectively. If tech is integrated in a considerate manner, then it has the potential to be more inclusive rather than isolating.\u201d",
+  "webTitle": "From app doctors to big data: five ways tech will shape healthcare",
+  "webPublicationDate": "2016-05-17T14:38:44Z",
+  "webUrl": "https://www.theguardian.com/sustainable-business/2016/may/17/from-app-doctors-to-big-data-five-ways-tech-will-shape-healthcare",
+  "keyword": [
+    {
+      "webTitle": "Guardian sustainable business",
+      "id": "sustainable-business/sustainable-business",
+      "sectionId": "sustainable-business",
+      "sectionName": "Guardian Sustainable Business"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Health & wellbeing",
+      "id": "lifeandstyle/health-and-wellbeing",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Healthcare industry",
+      "id": "business/healthcare",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Apps",
+      "id": "technology/apps",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Wearable technology",
+      "id": "technology/wearable-technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Hannah Gould",
+      "id": "profile/hannah-gould"
+    }
+  ],
+  "guardianId": "sustainable-business/2016/may/17/from-app-doctors-to-big-data-five-ways-tech-will-shape-healthcare"
+}

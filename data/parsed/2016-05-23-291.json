@@ -1,0 +1,126 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/greenslade/2016/may/23/study-confirms-that-the-national-press-is-biased-in-favour-of-brexit",
+  "id": "2016-05-23-291",
+  "sectionId": "media",
+  "body": "A new research study has confirmed what most people, including this commentator, knew: national press coverage of EU referendum campaign has been \u201cheavily skewed in favour of Brexit.\u201d The bald figures produced by researchers at the Reuters Institute for the Study of Journalism tell the story: 45% of 928 referendum articles it studied were in favour of leaving while 27% backed the remain case. Some 19% were categorised as \u201cmixed or undecided\u201d and 9% were designated as adopting no position.   Related: Tory men dominate EU referendum coverage, study finds    The findings were based on an assessment of coverage in nine national newspapers on two sample days each week during the two months that followed David Cameron\u2019s post-summit cabinet meeting on 20 February.  They also reveal that newspapers were more likely to quote Conservative rather than Labour politicians (69% to just 14%) in the articles. This reflects the fact that the Tories are fighting each other over the issue while Labour is much more united.  Unsurprisingly, says the press release announcing the interim findings of the study,* positions vary greatly between newspaper titles.  The Daily Mail included the most pro-Brexit articles followed by the Daily Express, Daily Star, the Sun and the Daily Telegraph. By contrast, the papers with the most pro-remain articles were, in order, the Daily Mirror, the Guardian and the Financial Times.  As for the Times, its articles were \u201crelatively evenly balanced between the two positions, with a slight preponderance of pro-leave articles.\u201d  All newspapers, whatever their main position, included some articles from the other point of view, but the proportion of these was smallest in the Express and Mirror.  According to the preliminary findings, there were an average of 42 articles a day focused on the referendum across the nine titles with the Mail, Telegraph and Times having the highest number. The Sun, Mirror and Star had the fewest. Researchers also tracked the topics and issues that formed the bulk of those articles. These were, in descending order: the economy/business (33%), sovereignty (29%), migration (18%), regulations (14%) and terrorism/security (6%). As for the arguments advanced by papers, whether making a case for or against Brexit, the Sun and the Mirror both relied heavily on arguments around sovereignty. But the serious quartet - the FT, Guardian, Telegraph and Times - focused more on arguments around the economy. In making their case for Britain to leave the European Union, the Express, Star and Mail preferred to focus on migration. *The analysis is based on the examination of coverage for the period from 20 February to 26 April. The full report will extend to 21 June and be published in September. The Institute is working on the project with Prime Research.",
+  "webTitle": "Study confirms that the national press is biased in favour of Brexit",
+  "webPublicationDate": "2016-05-23T06:31:25Z",
+  "webUrl": "https://www.theguardian.com/media/greenslade/2016/may/23/study-confirms-that-the-national-press-is-biased-in-favour-of-brexit",
+  "keyword": [
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "National newspapers",
+      "id": "media/national-newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Newspapers",
+      "id": "media/newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "David Cameron",
+      "id": "politics/davidcameron",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Daily Mail",
+      "id": "media/dailymail",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Daily Express",
+      "id": "media/dailyexpress",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "The Times",
+      "id": "media/thetimes",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "The Sun",
+      "id": "media/sun",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Daily Telegraph",
+      "id": "media/dailytelegraph",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Daily Star",
+      "id": "media/dailystar",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "The Guardian",
+      "id": "media/theguardian",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Financial Times",
+      "id": "media/financialtimes",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Daily Mirror",
+      "id": "media/daily-mirror",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Harriet Harman",
+      "id": "politics/harrietharman",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Roy Greenslade",
+      "id": "profile/roygreenslade"
+    }
+  ],
+  "guardianId": "media/greenslade/2016/may/23/study-confirms-that-the-national-press-is-biased-in-favour-of-brexit"
+}

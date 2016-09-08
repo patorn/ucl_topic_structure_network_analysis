@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/28/lionel-messi-argentina-injury-scare-copa-america",
+  "id": "2016-05-28-98",
+  "sectionId": "football",
+  "body": "Argentina star Lionel Messi gave his team a scare on Friday night by leaving the field with a back injury in the second half of his team\u2019s 1-0 victory over Honduras.   Related: The day USA beat Argentina in Copa Am\u00e9rica: 'Simeone threatened to kill us'    Messi, who is due to captain Argentina at this summer\u2019s Copa America in the US, was caught up in a seemingly innocuous challenge and, after treatment, headed straight to the dressing room. He was replaced at the 62th-minute mark by Sevilla midfielder Ever Banega and never returned to the field. \u201cMessi suffered a trauma to the left side of his lower back and ribcage,\u201d the Argentinian Football Association said in a statement, adding that doctors were looking at the injury. Officials did not say how severe the injury was, but it was unusual to see Messi limping off. \u201cI would not dare to venture a diagnosis,\u201d said a concerned Argentina manager, Gerardo Martino. Gonzalo Higuain, who scored for Argentina at Estadio San Juan del Bicentenario, said: \u201cIt was an important win and here\u2019s hoping that what happened to Leo is nothing.\u201d Messi was scheduled to fly to Spain to resolve a tax issue \u2013 he must appear before a judge at the Audiencia de Barcelona on June 2 \u2013 and then plans to rejoin the team in Santa Clara, California. The Copa America starts on 3 June, and Argentina open three days later against Chile. Friday night\u2019s game against Honduras was Argentina\u2019s only warm-up fixture.",
+  "webTitle": "Lionel Messi limps off to give Argentina an injury scare before Copa America",
+  "webPublicationDate": "2016-05-28T12:33:42Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/28/lionel-messi-argentina-injury-scare-copa-america",
+  "keyword": [
+    {
+      "webTitle": "Lionel Messi",
+      "id": "football/lionel-messi",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Argentina",
+      "id": "football/argentina",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Copa America 2016",
+      "id": "football/copa-america-2016",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Copa Am\u00e9rica",
+      "id": "football/copa-america",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "football/2016/may/28/lionel-messi-argentina-injury-scare-copa-america"
+}

@@ -1,0 +1,108 @@
+{
+  "apiUrl": "https://content.guardianapis.com/society/2016/may/22/councils-forcing-homeless-families-to-relocate-miles-away",
+  "id": "2016-05-22-28",
+  "sectionId": "society",
+  "body": "Local authorities are unlawfully resettling homeless families in temporary housing far away from their local area, forcing them to spend hours travelling to schools and health services, a study has found. The housing charity Shelter says some councils are guilty of unsafe practices by pressurising homeless families into accepting unsuitable housing up to 100 miles from where they live, causing them unnecessary hardship. In one case, a woman made homeless in west London, who was told relocation to Hastings on the south coast would keep her \u201cclose to London\u201d, had to make seven-hour round trips back to the capital to take her ill baby to weekly hospital appointments.   Related: London housing: the rising costs of temporary accommodation    Other cases include relocated families who arranged for their children to stay with grandparents or friends during the week so that they could remain at their old school. Other reported embarking on school runs lasting up to two hours. Despite official guidance requiring councils to place families where practical in the borough in which they are resident, Shelter says authorities in London are now moving households out of area \u201cas a matter of course\u201d. Campbell Robb, chief executive of Shelter, said: \u201cFaced with severe budget cuts and overwhelming numbers of homeless families coming to them for help, it\u2019s sadly not surprising that overstretched councils in London are failing to meet their current legal responsibilities.\u201d The charity warns that the government\u2019s four-year freeze on housing benefit rates, coupled with the extended benefit cap and rising rents, will trigger more out-of-area moves, as councils across the south of England compete for dwindling stocks of private-rented sector homes that are affordable within housing benefit limits. One London council told Shelter that Luton was \u201cfull\u201d \u2013 had no more temporary accommodation \u2013 and it was now looking to house its homeless families in other boroughs. Luton council itself was last year forced to put up a homeless family in a \u00a365-a-night Travelodge because no temporary homes were available locally, partly because landlords had leased them to councils in the capital. Latest official figures show that 17,150 households were temporarily housed out of area in 2015, up from 5,330 in 2010. Over 90% of placements were made by London authorities, who say their hand is forced by high rents, housing benefit caps and affordable housing shortages.  Based on Freedom of Information requests, Shelter estimates that almost half of all homeless families placed in temporary accommodation by London councils in the year to June 2015 were sent out of area.  Although most went to a neighbouring borough, 26% were placed in the capital but \u201cbeyond a reasonable travelling distance of their local services, neighbourhood support networks and schools\u201d. One in 10 were rehoused outside London. Although many out-of-area placements were lawful, Shelter says there is evidence of \u201csharp practices\u201d whereby vulnerable homeless families are unlawfully pressured by councils into accepting unsuitable temporary accommodation. They include:  Homeless families being leaned on by council officials to make on-the-spot decisions on whether to accept an out-of-area placement, including in one case being threatened with having their children taken into care if they turned it down. A meeting of homeless families being told by a housing officer at an unnamed London council that unless they were \u201cprepared to move to the West Midlands\u201d they should leave the room now. One homeless family was told they had no option to take an out-of-area placement and they were given just minutes to accept. When they challenged it they were subsequently found accommodation locally.  A landmark court judgement last year emphasised that while out-of-area placements are not in themselves unlawful, councils have a legal duty to ensure that they ensure the relocation is suitable and appropriate for the family\u2019s circumstances, taking into account any potential disruption to education, medical needs, caring responsibilities and employment. But Shelter found that one year on, a third of London boroughs had not complied with the judge\u2019s ruling that councils must revise and clarify their out-of-area policies in line with the judgement, including several that have made extensive use of out-of-area placements. Some London councils argue that they are struggling to cope with a \u201cperfect storm\u201d of homelessness pressures and have lobbied ministers for changes in the law to make it easier for them to send families outside the capital.  It is understood that the Department for Work and Pensions is sympathetic to this view. But local government ministers are resistant to legal changes and want councils to ensure existing guidance works more effectively. A spokesman for the Department for Communities and Local Government said: \u201cThe government is clear that councils have a legal duty to ensure that any temporary accommodation they offer is safe and suitable for the family concerned. \u201cThe vast majority of out-of-borough placements are still within London, often in the neighbouring borough, and the number of households in temporary accommodation is well below the 2004 peak.\u201d",
+  "webTitle": "Councils 'forcing homeless families to relocate miles away'",
+  "webPublicationDate": "2016-05-22T20:18:19Z",
+  "webUrl": "https://www.theguardian.com/society/2016/may/22/councils-forcing-homeless-families-to-relocate-miles-away",
+  "keyword": [
+    {
+      "webTitle": "Homelessness",
+      "id": "society/homelessness",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Housing",
+      "id": "society/housing",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Communities",
+      "id": "society/communities",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Social exclusion",
+      "id": "society/socialexclusion",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Local government",
+      "id": "society/localgovernment",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Public sector cuts",
+      "id": "society/public-sector-cuts",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Public finance",
+      "id": "society/public-finance",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Public services policy",
+      "id": "society/policy",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "London",
+      "id": "uk/london",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Housing benefit",
+      "id": "society/housing-benefit",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Benefits",
+      "id": "society/benefits",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Patrick Butler",
+      "id": "profile/patrickbutler"
+    }
+  ],
+  "guardianId": "society/2016/may/22/councils-forcing-homeless-families-to-relocate-miles-away"
+}

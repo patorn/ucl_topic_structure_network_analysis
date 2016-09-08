@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/18/bbc-recipe-rival-publishers-bbc-good-food",
+  "id": "2016-05-18-182",
+  "sectionId": "media",
+  "body": "The BBC\u2019s rivals have branded its climbdown on mothballing thousands of recipes on its website a \u201ccynical\u201d U-turn, saying it flies in the face of the corporation\u2019s promises to be more distinctive with its content. On Tuesday, the corporation reversed its initial decision to archive more than 10,000 popular recipes from its BBC Food website \u2013 following a public outcry \u2013 instead saying they would be moved to BBC Good Food, which is run by its commercial arm. The corporation had said it would look to cut so-called \u201csoft\u201d content, such as the BBC Food website, to help commercial rivals which have argued that the corporation\u2019s move beyond its core news remit is damaging their ability to attract digital traffic.   Related: BBC climbdown over online recipes after public outcry    \u201cThis looks like a cynical move now that the government\u2019s white paper is out,\u201d said a senior executive at one BBC rival. \u201cNow it is out they appear to have played the \u2018poor BBC\u2019 card to galvanise everyone against changes. Moving recipes to another BBC-branded website is hardly helping commercial rivals.\u201d Unlike the licence-fee funded corporation\u2019s main website, recipes on BBC Good Food run next to advertising, which commercial rivals fear could be a threat. BBC Good Food is the biggest standalone cooking site in the UK, averaging 13 million visits a month, according to figures from SimilarWeb. The second biggest competitor, JamieOliver.com, is less than half the size at an estimated 5.3 million visits per month. A spokesman for Jamie Oliver said the company had \u201cno direct comment\u201d on the BBC\u2019s move to dramatically increase the content on BBC Good Food. Commercial publishers, in particular newspapers, have been vigorous in calling for curbs on the BBC\u2019s expansion into areas such as \u201csoft\u201d news, magazine \u201clifestyle\u201d content, and celebrity columnists. \u201cIt is encouraging to see BBC announcing reductions in competitive websites,\u201d said Ashley Highfield, chairman of UK newspaper trade body the News Media Assocation. \u201cOfcom needs to ensure this translates to real reduction in users and traffic to content that the market can provide.\u201d The BBC is a behemoth when it comes to attracting eyeballs to its web activities. In April, the main BBC website attracted almost 2bn page views with the corporation holding an almost 30% audience share of the UK online news market, according to SimilarWeb. Mail Online, the next biggest player in the UK, is only just over a fifth the size. In an analysis of the BBC website, SimilarWeb found that of the 8,531 most popular individual web pages visited the food website was ranked 121st. BBC entertainment and arts coverage, another area rivals would like to see cut back but has not been, is ranked by SimilarWeb as the 15th most popular place people visit. After the homepage, and the news landing page, sport and football rank the third and fourth most popular. In his speech to parliament delivering the white paper, culture secretary John Whittingdale, said the BBC should not see commercial players as rivals but should \u201cproactively seek to enhance, bolster and work in partnership\u201d.",
+  "webTitle": "BBC's recipes U-turn is a cynical move, say its rivals",
+  "webPublicationDate": "2016-05-18T12:30:13Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/18/bbc-recipe-rival-publishers-bbc-good-food",
+  "keyword": [
+    {
+      "webTitle": "BBC",
+      "id": "media/bbc",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Television industry",
+      "id": "media/television",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Digital media",
+      "id": "media/digital-media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Food & drink",
+      "id": "lifeandstyle/food-and-drink",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Mark Sweney",
+      "id": "profile/marksweney"
+    }
+  ],
+  "guardianId": "media/2016/may/18/bbc-recipe-rival-publishers-bbc-good-food"
+}

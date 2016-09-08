@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/04/deutsche-bahn-plans-float-arriva-uk-train-bus-services",
+  "id": "2016-05-04-221",
+  "sectionId": "business",
+  "body": "Deutsche Bahn is pushing ahead with plans to float Arriva, its international transport arm that runs many of Britain\u2019s train and bus services, as part of a sell-off to raise an anticipated \u20ac4.5bn (\u00a33.6bn) for the ailing German railway group.  The supervisory board of the state-owned group is expected to approve plans on Wednesday evening for a part-privatisation of both Arriva, which operates in 14 European countries outside Germany, and the international freight logistics subsidiary DB Schenker. The final decision on an IPO is expected in the autumn, with Deutsche Bahn likely to sell a 45% stake in both. The company is seeking to reduce its \u20ac17.5bn debt and invest in modernising German railways. Arriva started operating the Northern rail franchise, one of Britain\u2019s biggest transport networks, last month. It also runs CrossCountry, London Overground, Chiltern and Grand Central trains, and thousands of bus services across the country.  The largest rail union said the sale could affect British employees of Arriva or DB Schenker, and services. The RMT\u2019s general secretary, Mick Cash, said: \u201cThis potential fire sale of a large chunk of DB\u2019s UK rail assets to the same old gang of spivs and speculators has set the alarm bells ringing for all Arriva and DB Schenker staff who once again see their livelihoods traded from under them as nothing more than units on a balance sheet.\u201d He said the flotation exposed the \u201cflakey and unstable nature of rail franchising\u201d, with Deutsche Bahn allowed to win rail contracts and then hold a \u201ccorporate car-boot sale without any controls over who is getting a slice of the action\u201d. Rail staff terms and conditions are normally protected when franchises are awarded under TUPE laws, as are passenger services under franchise obligations. An Arriva spokesman said: \u201cArriva has a strong track record of investment in the UK, investing \u00a3549m in the past five years and employing 28,000 people across the country.  \u201cDeutsche Bahn is considering a third-party minority holding in Arriva which is intended to continue the successful development of Arriva and enable further investments in future growth.\u201d",
+  "webTitle": "Deutsche Bahn pushes ahead with plans to float Arriva",
+  "webPublicationDate": "2016-05-04T11:38:54Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/04/deutsche-bahn-plans-float-arriva-uk-train-bus-services",
+  "keyword": [
+    {
+      "webTitle": "Arriva",
+      "id": "business/arrivabusiness",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Germany",
+      "id": "world/germany",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Travel & leisure",
+      "id": "business/travelleisure",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Gwyn Topham",
+      "id": "profile/gwyntopham"
+    }
+  ],
+  "guardianId": "business/2016/may/04/deutsche-bahn-plans-float-arriva-uk-train-bus-services"
+}

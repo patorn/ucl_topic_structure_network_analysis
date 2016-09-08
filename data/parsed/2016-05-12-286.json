@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/australia-news/2016/may/12/protesters-occupy-immigration-department-building-in-melbourne",
+  "id": "2016-05-12-286",
+  "sectionId": "australia-news",
+  "body": "More than 100 refugee advocates and protesters have left the federal immigration department offices in Melbourne after occupying its office space, foyer and stairwells.  Chanting \u201cBring them here\u201d and \u201cWe can be better than this\u201d, the protesters refused police instructions to leave the building in Lonsdale Street on Thursday evening. Police formed a guard preventing more people from getting into the building, while protesters rallied outside the building with megaphones and banners. The demonstrators, who began their protest at 4pm, eventually left in the early evening though some continued their rally outside.  \u201cI feel like the level of violence occurring in offshore camps is at a point where civil disobedience is the only way,\u201d one of the protesters, Anastasia Kanjere, said.    Related: Manus Island detainees launch high court bid to be moved to Australia    \u201cWe want to show people the feeling is here for mass civil disobedience. Ordinary people are ready to disrupt in ways they haven\u2019t before, and there will be more to come.\u201d An organiser of the protest, Emma Kefford, said: \u201cThe goal was to disrupt to some degree because we feel rallies haven\u2019t been getting the message across, and the degree of despair and misery occurring offshore requires a heightened response that intervenes a bit more,\u201d she said.  \u201cWe may be prepared to negotiate with police a little later on, but the plan is to stay indefinitely.\u201d The protesters were angry that two asylum seekers were recently driven to self-immolation on Nauru, while an asylum seeker who was raped in Nauru was sent to Papua New Guinea for an abortion that a federal court last week found would have been safe and illegal. Earlier this month 23-year-old Iranian Omid Masoumali died after setting himself on fire in protest at his ongoing detention on Nauru. Another asylum seeker from Somalia, whose age is between 19 and 21, is in hospital in Brisbane after also setting herself on fire on Nauru.   Related: Dutton risked safety of asylum seeker sent to PNG for abortion, court finds    Last week, the federal court found that the minister for immigration, Peter Dutton, exposed an asylum seeker who became pregnant after being raped on Nauru to serious medical and legal risks by flying her to Papua New Guinea for an abortion. Papua New Guinea did not have the medical equipment or staff with the expertise requires to cater to her serious neurological, physiological and psychological conditions. This week, Dutton said he would not appeal the ruling. A Victoria police spokeswoman told Guardian Australia that by Thursday evening no protesters remained in the building.  \u201cThere have been no made arrests at this time,\u201d she said.",
+  "webTitle": "Protesters occupy immigration department building in Melbourne",
+  "webPublicationDate": "2016-05-12T09:49:42Z",
+  "webUrl": "https://www.theguardian.com/australia-news/2016/may/12/protesters-occupy-immigration-department-building-in-melbourne",
+  "keyword": [
+    {
+      "webTitle": "Melbourne",
+      "id": "australia-news/melbourne",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australian immigration and asylum",
+      "id": "australia-news/australian-immigration-and-asylum",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Nauru",
+      "id": "world/nauru",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Melissa Davey",
+      "id": "profile/melissa-davey"
+    }
+  ],
+  "guardianId": "australia-news/2016/may/12/protesters-occupy-immigration-department-building-in-melbourne"
+}

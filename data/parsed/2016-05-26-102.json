@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/26/danielsson-neset-lund-sun-blowing-review-act",
+  "id": "2016-05-26-102",
+  "sectionId": "music",
+  "body": "There\u2019s a lot of inviting improv space in the harmonically free trio format of saxophone, bass and drums, but there\u2019s also nowhere to hide. Only the most resourceful players have risked it (saxophonists Sonny Rollins, Joe Henderson, John Surman and latterly Mark Turner in the Fly trio have been frontrunners), but the trio of Norwegian saxist Marius Neset and Swedish bassist and drummer Lars Danielsson and Morten Lund joins the best. Formed out of an accidental meeting on a train in 2012, it\u2019s another triumph for the prolific Neset, who often plays in structured settings but cuts enthrallingly loose here. He suggests both Rollins and Michael Brecker on the sinewy Little Jump. Danielsson and Lund open the lamenting Coltranesque title track with enthralling detail. There are shy soprano-sax tone-poems, memorable themes suggestive of Carla Bley and Charles Lloyd. It\u2019s an unashamedly jazz-rooted conversation without electronics or pop hooks, but so spiritedly lyrical and dynamic that its contemporaneity is never in doubt.",
+  "webTitle": "Danielsson/Neset/Lund: Sun Blowing review \u2013 spiritedly lyrical and dynamic",
+  "webPublicationDate": "2016-05-26T17:30:08Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/26/danielsson-neset-lund-sun-blowing-review-act",
+  "keyword": [
+    {
+      "webTitle": "Jazz",
+      "id": "music/jazz",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "John Fordham",
+      "id": "profile/johnfordham"
+    }
+  ],
+  "guardianId": "music/2016/may/26/danielsson-neset-lund-sun-blowing-review-act"
+}

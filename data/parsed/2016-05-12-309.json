@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/askjack/2016/may/12/how-can-i-provide-guests-with-wi-fi-without-giving-them-my-password",
+  "id": "2016-05-12-309",
+  "sectionId": "technology",
+  "body": "I intend to register on AirBnB and I\u2019d like to know how to share my fibre optic internet connection safely, without giving out the main Wi-Fi password. I believe some routers have guest access features, but not the one I use: a BT Home Hub 3. I am also thinking about OpenDNS as an additional option to screen out pornography etc. I am open to buying another router if necessary. Noel This is a topic that should interest people renting out their homes and small businesses that want to offer clients free Wi-Fi access \u2013 I wish my dentist did, for example. You\u2019re right in thinking that the simplest solution is a router that offers guest access as a built-in feature. This applies to many Asus, TP-Link, Netgear and Linksys modems, among others (these links are meant to provide examples, not recommendations, but they all rank pretty well on Amazon.co.uk).  When BT launched Infinity, it provided separate VDSL2 modems to make the connection to the OpenReach cabinet on the street. If you have a BT Home Hub 3, I assume you have one of these. (The BT Home Hub 5 has both VDSL2 and ADSL2 routers built in.) If so, in theory, you should be able to plug a different router into the VDSL2 modem \u2013 but perhaps readers could comment if they have tried this and failed. If not, go for a VDSL2/ADSL2 combo. Setting it up To set up the guest network, log on to the new router and select Guest Network (or something similar) from the admin page. You can then enable the setting for either the 2.4GHz or the 5GHz network or both, and type in whichever network name \u2013 ie SSID \u2013 you want. In some cases, you won\u2019t have a choice: the router may simply add -guest to your current SSID. You must also choose an authentication system, such as WPA2-Personal and an access key. In general, it\u2019s not secure to run a guest network that isn\u2019t encrypted, and especially not one with a default password, such as Linksys\u2019s BeMyGuest. Before you buy a new router, check the online instructions and FAQs for setting up guest networks. Asus, TP-Link, Netgear and Linksys have them, so I assume other suppliers do too. After you have set everything up, log onto the guest network and make sure that you cannot access any of the other devices on your network. If you have a password-protected home workgroup, this should be secure, but watch out for any folders that are shared without passwords. Also, make sure that you have changed the router\u2019s default names and passwords, because a device with name:admin password:admin is just asking to be hacked. Add a device There are other possibilities, such as plugging a second router into a spare Ethernet port on the BT Home Hub 3. This has the advantage that you don\u2019t have to swap out your BT Home Hub for a different router. It might be worth a go if you already have a spare router or a friend wants to get rid of one. You may even be able to give it a new lease of life by installing DD-WRT open source firmware. There are two major problems. First, it can be tricky to set up, and probably involves \u201cdouble-NATting\u201d. Second, unless set up carefully, it may be insecure. Normally, I would recommend against this. However, I found an article seductively headlined How to create a private wireless network for your AirBnB guests, which makes this approach look easy using an old Apple Airport Express. I don\u2019t have one and have not tried it, but if you can pick up a second-hand one for not much money, it might be worth a go. A Devolo dLAN 500 or 1200+ Wi-Fi extender is another option. These are HomePlug devices designed to extend your Wi-Fi to somewhere else in your house by sending signals over the mains wiring. However, they also have a Guest Account feature that you can set up with dLAN\u2019s Cockpit App, as explained in the manual. If Wi-Fi is patchy in part of your house \u2013 which you can check with an app such as Amped\u2019s Wi-Fi Analytics Tool for Windows and Android \u2013 then you could kill two birds with one stone. I\u2019m just installing a dLAN 1200+ to compensate for the fact that my living room is a long way from the BT Home Hub in my upstairs home office ... You could also turn a laptop into a free Wi-Wi hotspot using software such as mHotspot, Free WiFi Hotspot or MyPublicWiFi, but this doesn\u2019t sound like a good solution to your particular problem. OpenDNS Many home routers include filtering and parental controls to block various types of content. However, it\u2019s a great idea to use OpenDNS, because this includes comprehensive web content filtering. The simplest option is Family Shield, which blocks \u201cadult material\u201d plus phishing and malware sites. Alternatively, you can choose one of four pre-sets \u2013 High, Moderate, Low and None \u2013 or create a custom level. The Low setting blocks pornography, sexuality, \u201ctasteless\u201d sites, and anonymisers or free proxies. (Proxies are usually a way of routing round censorship.) If you choose custom, you can block more than 55 different types of site. The categories include alcohol and drugs, chat and social, classifieds, dating, filesharing, gambling and so on. You can also blacklist up to 25 websites using OpenDNS Basic, the free service, or even whole countries, such as Russia and China (.ru and .cn). When you\u2019re not around, try to keep an eye on the stats and usage logs on the OpenDNS website. This will help you to spot any problems in the early stages. Either way, I hope you have signed up for an Unlimited version of BT Infinity, because even reasonable people can stream lots of movies while on holiday. Warnings Bear in mind that some of your guests may be geeky enough to switch your OpenDNS settings to something they prefer. For advice, see Preventing circumvention of OpenDNS with firewall rules. They may also try plugging an Ethernet cable into your BT Home Hub 3, or plugging their own mini router into your VDSL2 modem or Home Hub. (Travel routers are handy gadgets if you\u2019re only carrying a smartphone and tablet, neither of which have proper Ethernet ports.) It may not be feasible to lock things away, but if a sufficiently knowledgeable person has physical access to your setup, all bets are off. Have you got another question for Jack? Email it to Ask.Jack@theguardian.com",
+  "webTitle": "How can I provide guests with Wi-Fi without giving them my password?",
+  "webPublicationDate": "2016-05-12T08:41:41Z",
+  "webUrl": "https://www.theguardian.com/technology/askjack/2016/may/12/how-can-i-provide-guests-with-wi-fi-without-giving-them-my-password",
+  "keyword": [
+    {
+      "webTitle": "Wi-Fi",
+      "id": "technology/wifi",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Internet",
+      "id": "technology/internet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Telecoms",
+      "id": "technology/telecoms",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Data and computer security",
+      "id": "technology/data-computer-security",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jack Schofield",
+      "id": "profile/jackschofield"
+    }
+  ],
+  "guardianId": "technology/askjack/2016/may/12/how-can-i-provide-guests-with-wi-fi-without-giving-them-my-password"
+}

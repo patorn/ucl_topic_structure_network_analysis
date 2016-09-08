@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/29/music-fans-target-uk-terror-attack-security-chief-glastonbury",
+  "id": "2016-05-29-120",
+  "sectionId": "uk-news",
+  "body": "Music fans and nightclubbers could be the target of the next major terrorist attack in Britain, a top counter-terrorism officer has warned ahead of the country\u2019s festival season.  Music executives were invited alongside Premier League football bosses to a recent anti-terrorism briefing at Wembley stadium to hear the warning from Neil Basu, deputy assistant commissioner with the Metropolitan police, who is in charge of the country\u2019s protective security. Many stadiums already have strict security measures in place to protect against the risk of terrorist attacks. But, Basu said in an interview with the Sunday Times, there were concerns over the risk to the night-time economy.  \u201cI\u2019d want to see the owners and event managers taking the same kind of security precautions,\u201d he was quoted as saying.  Glastonbury, the world\u2019s largest music festival, is expected to draw about 135,000 people to Worthy Farm in Somerset next month, with many more expected to fill parks and green spaces for music events throughout the summer.  But after the attacks in Paris last November, where terrorists attacked revellers on the streets and in a concert venue and attempted to bomb the Stade de France, Basu warned that crowded entertainment events were a priority for police.  \u201cThese people are perfectly happy to target civilians with the maximum terror impact,\u201d he said. \u201cCrowded places were always a concern for us, but now they are right at the top of the agenda.\u201d Stadiums and music events were particularly vulnerable due to the high concentrations of people, but music festivals were particularly hard to control and secure because of their larger perimeters, Basu said.  Sadiq Khan, the mayor of London, announced on Friday that he had launched a review of the capital\u2019s ability to tackle a major terrorist incident that will investigate how emergency services would cope if extremists launched simultaneous attacks, such as those that hit Paris last year. But elsewhere in the country, particularly in rural areas that host some of the country\u2019s largest summer festivals, forces are warning they could be \u201csitting ducks\u201d in the face of a terrorist attack as they wait for armed officers to arrive from as far as 70 miles away. Meanwhile, the government\u2019s overall counter-extremism strategy has been mired in controversy after it was suggested that it could actually fuel terrorism by alienating communities. A counter-extremism bill unveiled in the Queen\u2019s speech has been criticised for failing to define extremism, while the police lead on anti-radicalisation has said government plans risk turning British officers into a \u201cthought police\u201d.",
+  "webTitle": "Music fans could be target of next UK terror attack - security chief",
+  "webPublicationDate": "2016-05-29T09:14:10Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/29/music-fans-target-uk-terror-attack-security-chief-glastonbury",
+  "keyword": [
+    {
+      "webTitle": "UK security and counter-terrorism",
+      "id": "uk/uksecurity",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Counter-terrorism policy",
+      "id": "politics/terrorism",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Music festivals",
+      "id": "music/music-festivals",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Festivals",
+      "id": "culture/festivals",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Damien Gayle",
+      "id": "profile/damien-gayle"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/29/music-fans-target-uk-terror-attack-security-chief-glastonbury"
+}

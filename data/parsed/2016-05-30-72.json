@@ -1,0 +1,96 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/30/edf-hinkley-point-deal-radioactive-waste-sparks-anger",
+  "id": "2016-05-30-72",
+  "sectionId": "business",
+  "body": "A furious row has broken out after the Department of Energy and Climate Change (DECC) refused to disclose the arrangement with EDF for dealing with radioactive waste at the planned Hinkley Point C nuclear plant. The information commissioner\u2019s office has turned down a freedom of information (FoI) request for state aid arrangements between the UK and the European commission to be made public. The FoI complainant, David Lowry, has launched an appeal, claiming it is in the public interest for British citizens to be able to judge whether their government had made the right decision about the new reactors in Somerset. Lowry, a British-based senior research fellow with the Institute for Resource and Security Studies in the US, said: \u201cI do not believe the balance of judgment should be in favour of a foreign company, EDF Energy, who will potentially make huge multibillion-pound financial gain from the continued non-disclosure, and hence non scrutiny, over myself as a British tax and electricity bill payer.\u201d   Related: Hinkley Point C: French union opposition casts fresh doubt on project    The government said that anyone building new reactors in Britain must manage and pay for the cost of handling waste products, unlike the existing situation where all radioactive materials are effectively dealt with through the public purse via the Nuclear Decommissioning Authority. However, although the operator must agree to take responsibility for the spent fuel and other radioactive waste, the cost is expected to be passed on to the domestic electricity user through higher bills. Under the new arrangements, the prospective nuclear operators must enter into a waste transfer contract (WTC). Those contracts, like the one covering Hinkley, must be submitted for scrutiny by the EC under its state aid rules. It is the pricing methodology of the WTC that Lowry wished to review and which remains under wraps.  Greenpeace said Lowry raised critical issues that went to the heart of whether the \u00a318.5bn project was good or bad value for the taxpayer and British energy consumers. John Sauven, the executive director of Greenpeace, said: \u201cThe government has repeatedly said that Hinkley is great news for the British public and our energy security. But they refuse to back this up with hard evidence. In fact, DECC is incredibly cagey and is failing to answer questions on where the dangerous radioactive waste will go or how much Hinkley will cost us. \u201cIf Hinkley is such a good deal, it should be no problem for the government to release the information to prove it. Their failure to do so leaves us to believe that their assumptions are correct - it\u2019s a terrible deal for bill payers and they simply don\u2019t know what to do with the nuclear waste.\u201d DECC turned down the original request under regulation 12(5)(a) of the Environmental Information Regulations 2004 arguing, \u201cdisclosure would adversely affect international relations, defence, national security or public safety\u201d. This argument was accepted by the information commissioner who believed that disclosure of the state aid discussions with the EC \u201cwould adversely affect the relationship between the (UK) government and the commission\u2019s ability to work effectively together\u201d.   Related: China nuclear company will not build Hinkley alone if EDF drops out    The information commissioner acknowledged that there were \u201cstrong public interest arguments in favour of disclosure\u201d but he believed there was a stronger argument for protecting the confidentiality of the material.  Lowry said he thought the real reason the government did not want to disclose the information was to save ministers from embarrassment. \u201cI think the concern is if the truth were to come out with documents being made public would adversely affect the credibility of the government submissions as their threadbare content would be laid bare for all to see,\u201d he said. DECC declined to comment, saying it was a matter for the information commissioner.",
+  "webTitle": "EDF's Hinkley Point deal over radioactive waste sparks anger",
+  "webPublicationDate": "2016-05-30T16:05:27Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/30/edf-hinkley-point-deal-radioactive-waste-sparks-anger",
+  "keyword": [
+    {
+      "webTitle": "Energy industry",
+      "id": "business/energy-industry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Hinkley Point C",
+      "id": "uk-news/hinkley-point-c",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Nuclear power",
+      "id": "environment/nuclearpower",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Energy",
+      "id": "environment/energy",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Nuclear waste",
+      "id": "environment/nuclear-waste",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Waste",
+      "id": "environment/waste",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "EDF Energy",
+      "id": "business/edf",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Information commissioner",
+      "id": "news/information-commissioner",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Freedom of information",
+      "id": "politics/freedomofinformation",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Terry Macalister",
+      "id": "profile/terrymacalister"
+    }
+  ],
+  "guardianId": "business/2016/may/30/edf-hinkley-point-deal-radioactive-waste-sparks-anger"
+}

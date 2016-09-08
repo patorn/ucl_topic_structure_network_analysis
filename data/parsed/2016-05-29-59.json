@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/29/irish-leader-says-border-controls-may-return-if-brexit-vote-prevails",
+  "id": "2016-05-29-59",
+  "sectionId": "politics",
+  "body": "The Irish prime minister, Enda Kenny, has raised the prospect of border controls being reimposed between Northern Ireland and the Republic as he directly appealed to hundreds of thousands of Irish people living in Britain to vote to remain in the EU.   Brexit explained: expats   Risking the wrath of leave campaigners by becoming the third foreign leader after Barack Obama and the Japanese prime minister, Shinzo Abe, to intervene while in Britain, Kenny warned that Brexit would \u201cadversely\u201d affect Ireland\u2019s ability to trade with Britain and could result in the establishment of custom and border controls between the two countries. \u201cIreland in Europe would still stand by Britain being a member of the union and of its importance, but I have no idea [how] other European countries \u2026 would look at Britain whether they decide to leave, given the fact that we\u2019ve come a long way since the 1970s,\u201d said Ireland\u2019s taoiseach, as he attended a Gaelic Athletic Association football match in north-west London. \u201cSo whether there would be border controls or custom controls, these things are a possibility, but obviously they would require some very serious negotiations and my preference for the Irish electorate who have a significant part in this referendum is to vote to stay, for Britain to stay as a strong and central member of the European Union for the future.\u201d The intervention came as 30 Irish opinion formers, business leaders and media figures working in Britain wrote a letter to the Guardian to urge their compatriots to register to vote by 7 June and back the remain side, citing concerns including the peace process.   Related: Importance of the EU referendum to Ireland and the UK | Letters    \u201cThe fact that both the UK and Ireland are members of the EU was \u2013 and is \u2013 a hugely important factor in the continuing success of the peace process in Northern Ireland, which has abolished the once heavily policed border with the Republic,\u201d said the letter\u2019s signatories, who included former WTO director general and EU commissioner Peter Sutherland and Ronan Dunne, chief executive of Telef\u00f3nica UK.  Others included fashion designer Paul Costelloe and Dermott Rowan, husband of designer Orla Kiely and chief executive of the company they founded.  The letter was released by the Irish4Europe group before the separate launch of a video campaign based on the \u201cRing Your Granny\u201d strategy used last year during Ireland\u2019s marriage equality referendum, in which younger voters tried to activate and influence the votes of relatives. The group estimates there are about half a million first-generation Irish people living in England, Scotland and Wales, and says the number rises to millions when second and third generations are included.      It is releasing two videos, the first of which will feature self-shot videos of people naming their Irish friends and family who are eligible to vote in Britain, with the aim of encouraging viewers to \u201ctag\u201d their own friends and family who are similarly eligible. A second video, in a similar \u201cself-shot\u201d style, will feature people talking about why they believe the UK should remain within the EU. Volunteers from the campaign, which is was set up under the aegis of the European Movement and funded by Irish citizens, handed out leaflets aimed at Irish voters among the thousands of fans attending the sporting fixture in Ruislip, north-west London.  Officials had stressed that Kenny was attending in a personal capacity \u2013 one of the teams playing was Mayo, the county whose Irish parliamentary constituency he represents.    Related: Irish hearts and minds: an unlikely frontline of EU referendum battle    As one of David Cameron\u2019s closest allies in Europe, however, it is believed that Kenny\u2019s intervention was made with the British prime minister\u2019s knowledge. The Irish government\u2019s offensive in the referendum will continue on Wednesday this week when Ireland\u2019s foreign minister, Charlie Flanagan, visits members of the Irish community in Liverpool and Manchester. The franchise for the referendum is based on that of a general election, meaning that Irish, Maltese and Cypriot residents in the UK get a vote, but other EU citizens do not.",
+  "webTitle": "Irish prime minister says border controls could return if Britain exits EU",
+  "webPublicationDate": "2016-05-29T17:10:54Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/29/irish-leader-says-border-controls-may-return-if-brexit-vote-prevails",
+  "keyword": [
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Ireland",
+      "id": "world/ireland",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ben Quinn",
+      "id": "profile/benquinn"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/29/irish-leader-says-border-controls-may-return-if-brexit-vote-prevails"
+}

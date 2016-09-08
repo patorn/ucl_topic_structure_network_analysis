@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/20/el-chapo-mexico-approves-extradition-us-charges",
+  "id": "2016-05-20-31",
+  "sectionId": "world",
+  "body": "Mexico\u2019s foreign ministry has approved the extradition of cartel kingpin Joaqu\u00edn \u201cEl Chapo\u201d Guzm\u00e1n to the United States, where to the two-time escapee would face charges ranging from murder to money laundering to conspiracy to import cocaine \u2013 and, if convicted, presumably find fewer opportunities for slipping out of prison unannounced. In a statement released on Friday, the foreign ministry said it received assurances Guzm\u00e1n would not face the death penalty, a punishment not carried out in Mexico. It added that Guzm\u00e1n, is allowed to appeal the extradition decision though legal experts see scant chances of success. \u201cThey want to send him right away,\u201d says Octavio Mart\u00ednez, law professor at the Universidad Iberoamericana, who said Guzm\u00e1n\u2019s recent transfer to a prison in Ciudad Ju\u00e1rez on the border with Texas was a way to \u201chinder, to a certain point, the defence he could have\u201d. He estimated the appeal process could drag on for at least a year. Lawyers for Guzm\u00e1n told Mexican media on Friday they would seek an injunction against extradition, saying they would take the case to the supreme court if necessary. Friday\u2019s announcement was in relation to federal charges in California and Texas on money laundering, murder, conspiracy to import and distribute cocaine, weapons offenses and organized crime charges. Guzm\u00e1n has also been indicted by prosecutors in Brooklyn. The decision to extradite Guzm\u00e1n reverses previous Mexican policy to imprison him at home \u2013 a decision that backfired when El Chapo escaped from a high-security jail in central Mexico through a mile-long tunnel which opened onto his cell\u2019s shower. The escape was seen as a personal blow for the president, Enrique Pe\u00f1a Nieto, and the international embarrassment it caused may well have helped the Mexican government\u2019s change of heart. Guzm\u00e1n gained notoriety in Mexico and abroad for his audacious escapes and larger-than-life biography. The kingpin\u2019s eagerness to retell that story in movie form led him to arrange a meeting with actors Kate del Castillo and Sean Penn, and unwittingly revealed his location to Mexican intelligence agents. He twice escaped prison: first in in 2001, when he was wheeled in a laundry cart out the front door of a Guadalajara lockup, and again in 2015 as he slipped through a shaft connecting the shower in his cell with a mile-long tunnel built during his detention by associates.   Related: Blood, mud and lube: how El Chapo's luck came up short in small town sex motel    Mexican marines detained him most recently in January and returned him to the maximum security prison, where he was kept under constant surveillance and, his family protested, not allowed to sleep. Sending him to the United States makes sense, according to analysts, as his escape showed immense shortcomings in the Mexican prison system. \u201cBecause of [his] profile, with an important criminal group behind him, he could have influence in a lot of prisons and could be an uncomfortable figure to have in many parts of the country,\u201d says Diego Mendoza, a criminal defence lawyer in Mexico City.",
+  "webTitle": "Mexico approves El Chapo's extradition to US to face charges",
+  "webPublicationDate": "2016-05-20T19:03:35Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/20/el-chapo-mexico-approves-extradition-us-charges",
+  "keyword": [
+    {
+      "webTitle": "Joaqu\u00edn 'El Chapo' Guzm\u00e1n",
+      "id": "world/joachim-el-chapo-guzm-n",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Drugs trade",
+      "id": "world/drugs-trade",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Mexico",
+      "id": "world/mexico",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Texas",
+      "id": "us-news/texas",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "California",
+      "id": "us-news/california",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Americas",
+      "id": "world/americas",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "David Agren",
+      "id": "profile/david-agren"
+    }
+  ],
+  "guardianId": "world/2016/may/20/el-chapo-mexico-approves-extradition-us-charges"
+}

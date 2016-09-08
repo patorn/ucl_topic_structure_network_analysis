@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/26/the-trust-review-nicolas-cage-elijah-wood",
+  "id": "2016-05-26-36",
+  "sectionId": "film",
+  "body": "If you\u2019re telling a story involving buddy cops, Las Vegas and a heist, you\u2019d better have something new to bring to the party, but this potentially offbeat thriller relies too heavily on its lead actors: Nicolas Cage and Elijah Wood. They\u2019re set on breaking into a criminal strongroom they\u2019ve located \u2013 with no clear idea what\u2019s inside. It\u2019s a tough job involving kidnap, German power tools and several hours of drilling from the apartment above. In time-honoured fashion, the well-laid plan goes awry, but the story never settles into a comfortable groove. Once in a while Nicolas Cage remembers he\u2019s Nicolas Cage and throws in an offbeat line delivery or an incongruous burst of goofiness, but there\u2019s little in the way of tension, surprise or consistency, and the disappointing ending leaves questions about the point of the whole exercise.",
+  "webTitle": "The Trust review \u2013 offbeat thriller is a criminal waste of talent",
+  "webPublicationDate": "2016-05-26T21:00:13Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/26/the-trust-review-nicolas-cage-elijah-wood",
+  "keyword": [
+    {
+      "webTitle": "Thriller",
+      "id": "film/thriller",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Drama",
+      "id": "film/drama",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Nicolas Cage",
+      "id": "film/nicolascage",
+      "sectionId": "film",
+      "sectionName": "Film"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Steve Rose",
+      "id": "profile/steverose"
+    }
+  ],
+  "guardianId": "film/2016/may/26/the-trust-review-nicolas-cage-elijah-wood"
+}

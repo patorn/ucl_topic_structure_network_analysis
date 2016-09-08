@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/09/uber-lyft-austin-vote-against-self-regulation",
+  "id": "2016-05-09-272",
+  "sectionId": "technology",
+  "body": "Ride-sharing services Uber and Lyft are suspending operations in Austin, Texas, after the city\u2019s voters rejected a proposal that would have allowed the companies to self-regulate their drivers. Instead, the voters upheld stricter regulations that the city council passed in December: ride-sharing drivers are required to pass fingerprint-based background checks, clearly mark their cars with the ride-sharing company\u2019s logo, and not pick up or drop off their passengers in certain lanes of the city\u2019s streets. Uber and Lyft wanted those regulations to be repealed, and if Proposition 1, which went to the polls on Saturday, had passed, they would have had their way. Instead, despite combined spending of nearly $9m against opposition of just over $100,000, voters rejected the proposition 56\u201344. In a statement, Lyft said: \u201cLyft and Austin are a perfect match and we want to stay in the city. Unfortunately, the rules passed by City Council don\u2019t allow true ride sharing to operate. Instead, they make it harder for part-time drivers, the heart of Lyft\u2019s peer-to-peer model, to get on the road and harder for passengers to get a ride. Because of this, we have to take a stand for a long-term path forward that lets ride sharing continue to grow across the country, and will pause operations in Austin on Monday, 9 Ma.\u201d Uber confirmed to USA Today that it too would be ceasing operations in the city on Monday. \u201cDisappointment does not begin to describe how we feel about shutting down operations in Austin,\u201d Chris Nakutis, Uber\u2019s Austin general manager, told the paper. \u201cWe hope the City Council will reconsider their ordinance so we can work together to make the streets of Austin a safer place for everyone.\u201d Both companies used a roster of lobbying tactics which have served them well in other jurisdictions, calling on their rider base to support them in the polls and warning that a loss may result in the end of services in the city. Uber texted riders personally asking them to vote for Prop 1, while Lyft even offered free trips to polling locations during early voting. User\u2019s tactics had served it well in the company\u2019s last major political tussle, taking on the New York City mayor, Bill de Blasio, in summer 2015. De Blasio had planned to place caps on Uber\u2019s fleet in the city, but was forced to step back in the face of vociferous opposition: Uber successfully painted the mayor as \u201ca career politician beholden to the yellow taxi cartel\u201d, according to the New York Observer, who opposed the technological efforts to bring reliable private transport to minorities in the suburbs. Uber and Lyft have also become adept at playing municipalities off against each other, praising those which adopt regulations supportive of ride-sharing firms and mocking those who oppose the firms as \u201cbackwards\u201d. That playbook didn\u2019t work in Austin. In the run-up to the initial regulations which proposition 1 was intended to repeal, Uber offered horse and cart rides, arguing that the council\u2019s plan \u201cwould require Uber driver partners to undergo the same background requirements of horse and carriage operators in Austin\u201d. Voters didn\u2019t bite, and now Uber and Lyft face a new difficulty: with the companies out of the city, could Austin become a beacon for other councils considering fighting back against ride-sharing operators?",
+  "webTitle": "Uber and Lyft pull out of Austin after locals vote against self-regulation",
+  "webPublicationDate": "2016-05-09T08:45:07Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/09/uber-lyft-austin-vote-against-self-regulation",
+  "keyword": [
+    {
+      "webTitle": "Uber",
+      "id": "technology/uber",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Transport policy",
+      "id": "politics/transport",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Alex Hern",
+      "id": "profile/alex-hern"
+    }
+  ],
+  "guardianId": "technology/2016/may/09/uber-lyft-austin-vote-against-self-regulation"
+}

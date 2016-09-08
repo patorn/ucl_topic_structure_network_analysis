@@ -1,0 +1,96 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/23/angelina-jolie-new-role-visiting-professor-lse-william-hague",
+  "id": "2016-05-23-148",
+  "sectionId": "film",
+  "body": "She met her husband Brad Pitt while playing an assassin, and won an Oscar for her portrayal of a sociopathic patient in a mental hospital, but Angelina Jolie\u2019s latest role may be her most surprising yet. The Hollywood actor and director has been appointed a visiting professor at the London School of Economics, teaching a course on the impact of war on women. From 2017, Jolie will join the former foreign secretary William Hague as a \u201cprofessor in practice\u201d, the university announced on Monday, as part of a new MSc course on women, peace and security, which LSE says is the first of its kind in the world.  The course, it says, is intended to \u201c[develop] strategies to promote gender equality and enhance women\u2019s economic, social and political participation and security\u201d, with visiting professors playing an active part in giving lectures, participating in workshops and undertaking their own research. Jolie, who became a UNHCR goodwill ambassador in 2001 and is now a special envoy, said she was very encouraged by the creation of the course, and hoped other universities would follow suit. \u201cIt is vital we broaden the discussion on how to advance women\u2019s rights and end impunity for crimes that disproportionately affect women, such as sexual violence in conflict.  \u201cI am looking forward to teaching and to learning from the students, as well as to sharing my own experiences of working alongside governments and the United Nations.\u201d The one-year course, for which students can apply from this autumn, will run from the beginning of the 2017 academic year. An LSE spokeswoman said Jolie and Lord Hague would teach at least once a year for the period of their fellowship, \u201cas often as their schedules, and their commitment as agreed with the centre director, will allow\u201d.  Visiting professors in practice was a title given to people \u201cwho have appropriate distinction within their area of (non-academic) practice\u201d, the university said in a statement. \u201cIt includes individuals who have achieved prominence in public service, or who have attained distinction in their profession and through their practical experience.\u201d The role is unpaid. Also appointed as visiting professors in practice are Jane Connors, director of international advocacy at Amnesty International Geneva, and Madeleine Rees, secretary general of the Women\u2019s International League for Peace and Freedom. Jolie and Hague have been working together since 2012 on the issue of preventing sexual violence in conflict, jointly chairing a global summit on the subject two years later, the largest ever international gathering on the subject. They were both present last year at the launch of the LSE\u2019s Centre for Women, Peace and Security.  A British parliamentary report published last month found that the UK-led initiative arising from the global summit was at risk of collapse without the personal leadership of Hague, who stood down as an MP at last year\u2019s election and is now a peer.  The Lords select committee inquiry into the Foreign Office found the government has no five-year plan to implement its sexual violence in conflict initiative, no coherent list of the countries being prioritised and no adequate means for diplomats to measure whether pledges made are being implemented.",
+  "webTitle": "Angelina Jolie gets new role as visiting professor at LSE",
+  "webPublicationDate": "2016-05-23T14:30:21Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/23/angelina-jolie-new-role-visiting-professor-lse-william-hague",
+  "keyword": [
+    {
+      "webTitle": "Angelina Jolie",
+      "id": "film/angelinajolie",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "William Hague",
+      "id": "politics/williamhague",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "London School of Economics and Political Science",
+      "id": "education/londonschoolofeconomics",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Women",
+      "id": "lifeandstyle/women",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "United Nations",
+      "id": "world/unitednations",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Education",
+      "id": "education/education",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Higher education",
+      "id": "education/higher-education",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Conflict and development",
+      "id": "global-development/conflict-and-development",
+      "sectionId": "global-development",
+      "sectionName": "Global development"
+    },
+    {
+      "webTitle": "Global development",
+      "id": "global-development/global-development",
+      "sectionId": "global-development",
+      "sectionName": "Global development"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Esther Addley",
+      "id": "profile/estheraddley"
+    }
+  ],
+  "guardianId": "film/2016/may/23/angelina-jolie-new-role-visiting-professor-lse-william-hague"
+}

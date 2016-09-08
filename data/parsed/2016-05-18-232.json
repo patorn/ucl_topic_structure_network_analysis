@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/18/iraq-shuts-down-internet-to-stop-pupils-cheating-in-exams",
+  "id": "2016-05-18-232",
+  "sectionId": "technology",
+  "body": "Iraq has been turning off the internet across the country to stop children cheating in exams. Three separate three-hour disruptions to Iraqi internet services, were spotted by content delivery network Akamai and internet performance analysts Dyn Research, which coincided with the country\u2019s school exam periods. The blockade, which affected fixed-line and mobile broadband, was mandated by the Iraqi ministry of communication.    3rd 3hr blackout in 3 days as #Iraq continues attempts to block cheating on exams. More outages expected.. pic.twitter.com/culrbXPH9m\u2014 Dyn Research (@DynResearch) May 16, 2016    One Iraqi internet service provider (ISP), EarthLink, announced the 16 May blackout on its Facebook page. The company said: \u201cAs instructed by the Ministry of Communication, internet services will be cut off in all of Iraq during the time of exams from 5am until 8am for all companies across all provinces.\u201d The blackouts coincided with exams for secondary and high-school students and were implemented as the ultimate step in the country\u2019s battle to stop students cheating using smuggled mobile phones and internet-connected devices in exam halls.  While attempting to ban mobile phones from exams or setting up local jamming equipment might be a less draconian measure, shutting off the internet is undoubtedly efficient. However, the outage impacted every person and business in the parts of the country controlled by the Iraqi government, causing human rights campaigners, including Access Now, to condemn the move. The area of Kurdistan was not affected by the blackout, according to Dyn Research, due to its independent regional government, which did not follow suit. Iraq has a history of turning off the internet to affect the flow of information. Last year it performed similar blackouts at exam times, as well as attempting to take areas controlled by Isis offline to help shut down the spread of propaganda. But Iraq is by no means alone in its government\u2019s ability to shut down a country\u2019s internet at short notice, with Egypt implementing similar techniques during the Arab spring protests in 2011 and Uganda blocking access to social media during elections in February 2016. Other countries including Iran and China have implemented strong censorship, while the UK and other countries block access to certain sites linked to piracy at the ISP level.",
+  "webTitle": "Iraq shuts down the internet to stop pupils cheating in exams",
+  "webPublicationDate": "2016-05-18T10:43:58Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/18/iraq-shuts-down-internet-to-stop-pupils-cheating-in-exams",
+  "keyword": [
+    {
+      "webTitle": "Internet",
+      "id": "technology/internet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Smartphones",
+      "id": "technology/smartphones",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Mobile phones",
+      "id": "technology/mobilephones",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Telecoms",
+      "id": "technology/telecoms",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Iraq",
+      "id": "world/iraq",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Middle East and North Africa",
+      "id": "world/middleeast",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Education",
+      "id": "education/education",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Exams",
+      "id": "education/exams",
+      "sectionId": "education",
+      "sectionName": "Education"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Samuel Gibbs",
+      "id": "profile/samuel-gibbs"
+    }
+  ],
+  "guardianId": "technology/2016/may/18/iraq-shuts-down-internet-to-stop-pupils-cheating-in-exams"
+}

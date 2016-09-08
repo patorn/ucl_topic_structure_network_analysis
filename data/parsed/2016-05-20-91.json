@@ -1,0 +1,86 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/20/syrian-refugee-wins-appeal-against-forced-return-to-turkey",
+  "id": "2016-05-20-91",
+  "sectionId": "world",
+  "body": "The EU-Turkey migration deal has been thrown further into chaos after an independent authority examining appeals claims in Greece ruled against sending a Syrian refugee back to Turkey, potentially creating a precedent for thousands of other similar cases. In a landmark case, the appeals committee upheld the appeal of an asylum seeker who had been one of the first Syrians listed for deportation under the terms of the EU-Turkey deal. In a document seen by the Guardian, a three-person appeals tribunal in Lesbos said Turkey would not give Syrian refugees the rights they were owed under international treaties and therefore overturned the applicant\u2019s deportation order by a verdict of two to one. The case will now be re-assessed from scratch. The committee\u2019s conclusion stated: \u201cThe committee has judged that the temporary protection which could be offered by Turkey to the applicant, as a Syrian citizen, does not offer him rights equivalent to those required by the Geneva convention.\u201d   Related: From war in Syria to a Turkish sweatshop for child refugees    The decision undermines the legal and practical basis for the EU-Turkey deal, which European leaders had hoped would deter refugees from sailing to Europe by ensuring the swift deportation of most people landing on the Greek islands. After signing the deal on 18 March, EU officials claimed these deportations would be legally justified on the basis that Turkey respects refugee rights.  But the EU\u2019s executive has little control over Greek asylum protocols. The committee rejected the logic of the EU-Turkey deal, citing some of the EU\u2019s own previous directives as explanations for their decision.  While nearly 400 other asylum seekers have been returned to Turkey under the terms of the deal, no one of Syrian nationality had been sent back against their will \u2013 making Friday\u2019s decision a watershed moment. \u201cAt its very first test, the EU-Turkey deal crumbles,\u201d said Gauri van Gulik, Amnesty International\u2019s deputy Europe director. The Greek government, which played no part in the independent decision, admitted the judgment had created \u201ca very difficult situation\u201d. Greece\u2019s deputy minister in charge of migration policy, Yannis Mouzalas, said by phone from Brussels: \u201cI have only just learned of the decision by the appeals committee and I have to be in Greece to study it. They are, as you know, independent committees so it is very difficult for me to say anything \u2013 but if they think this way, we will have a very difficult situation.\u201d  Such a decision goes against all the directives of the UN and UNHCR, Mouzalas claimed. \u201cReally I don\u2019t know how they arrived at it.\u201d  UNHCR offered no immediate response, but has previously criticised the EU-Turkey deal, and resolved to play no part in it. Greek media said it would be only a matter of time before the \u201cbombshell\u201d decision had the snowball effect of triggering an avalanche of similar asylum requests by other refugees, especially Syrians, detained on far-flung Aegean islands. Some 174 claims have been examined by appeals committees made up of asylum experts, lawyers and officials in Lesbos so far, with 100 being upheld, according to the Greek daily Kathimerini.  Government figures released on Friday showed 8,592 migrants and refugees were currently being held on the islands, often in squalid conditions.   Related: Syrians returned to Turkey under EU deal 'have had no access to lawyers'    The increased prospect of being allowed to stay in Greece, rather than being returned to Syria, could also spark a renewed wave of migration from Turkey. Deterred by the deal and by increased Turkish border protection, migrant numbers have dwindled significantly since the deal was announced. Human rights groups were quick to welcome the news. \u201cWe\u2019ve always said Turkey is not a safe country for refugees because it has not fully signed up to the Geneva convention and to the social and judicial status of refugees, especially those who are not Syrians,\u201d said Wenzel Michalski, who as Germany director of Human Rights Watch watched the first forced returns of migrants from Lesbos to Turkey in April. Pledges by Turkey to improve labour market regulations by facilitating work permits for refugees had not been delivered, nor had promises to install refugee children in the education system, he said. Even worse was evidence of push-backs at the Turkish-Syrian border where would-be refugees had been deliberately shot at and killed \u2013 claims denied by the Turkish government. \u201cThere are still lots of children who work instead of going to school and even worse, we still don\u2019t really know about the fate of those deported so far, as NGOs and journalists have been denied access to refugee camps and the first thing Turkish authorities did was to confiscate their smartphones,\u201d he said from Berlin. \u201cWe have to say: \u2018Greece, thank you,\u2019 because this is a wonderful move.\u201d",
+  "webTitle": "Syrian refugee wins appeal against forced return to Turkey",
+  "webPublicationDate": "2016-05-20T15:48:31Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/20/syrian-refugee-wins-appeal-against-forced-return-to-turkey",
+  "keyword": [
+    {
+      "webTitle": "Migration",
+      "id": "world/migration",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Greece",
+      "id": "world/greece",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Refugees",
+      "id": "world/refugees",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Turkey",
+      "id": "world/turkey",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Syria",
+      "id": "world/syria",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Law",
+      "id": "law/law",
+      "sectionId": "law",
+      "sectionName": "Law"
+    },
+    {
+      "webTitle": "Middle East and North Africa",
+      "id": "world/middleeast",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Apostolis Fotiadis",
+      "id": "profile/apostolis-fotiadis"
+    },
+    {
+      "webTitle": "Helena Smith",
+      "id": "profile/helenasmith"
+    },
+    {
+      "webTitle": "Patrick Kingsley",
+      "id": "profile/patrick-kingsley"
+    }
+  ],
+  "guardianId": "world/2016/may/20/syrian-refugee-wins-appeal-against-forced-return-to-turkey"
+}

@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/society/2016/may/26/delays-in-discharging-older-patients-from-hospital-cost-nhs-820m-a-year",
+  "id": "2016-05-25-8",
+  "sectionId": "society",
+  "body": "Delays in discharging older patients from hospital when they no longer need care is costing the NHS \u00a3820m every year, a report by official auditors has concluded. A failure to fund or organise help outside hospital for those over 65 once they are ready to leave medical care has led to an increase of so-called bed-blocking, according to a new report by the National Audit Office (NAO).  Older people are cared for in hospital, but once discharged some may need short- or long-term support from their local authority or community health services. This can include being helped to live at home or being put into a care home.  Auditors estimate that around 85% of delayed transfers of care are of patients aged 65 or older. The official number of reported hospital bed \u201cdays lost\u201d due to delayed transfers of care \u2013 the total number of days patients around the country are in hospital beds unnecessarily \u2013 was recorded as 1.15m in 2015, a \u201csubstantial\u201d 31% jump from 2013, the NAO said. Auditors questioned the official data and suggested the figure may actually be as high as 2.7m \u201cbed days\u201d a year.  The report said the main drivers for this rise are people waiting longer for home care packages or nursing home places. Local authority spending on adult social care has reduced by 10% in real terms since 2009-10, the report said, while the health and care sector is experiencing difficulties in recruiting staff. While hospitals are offered financial incentives to reduce discharge delays, there is no similar enticement for community health and local authorities to speed up receiving patients discharged from hospital, the report said.  The NAO called on the Department of Health, NHS England and NHS Improvement to set out how they will break the trend of rising delays against the challenge of the growing number of older people in the population.  Meg Hillier, chairwoman of the Public Accounts Committee, said: \u201cFor the sake of older patients and the financial sustainability of the NHS, both hospitals and local social services have to get their act together to discharge people more quickly when it is safe to do so. If this is not sorted, all the agencies face an unsustainable situation of rising costs, rising demand for care, and funding cuts.\u201d  A Department of Health spokesman said: \u201cElderly patients should never be stuck in hospital unnecessarily, and we are determined to make health and social care more integrated. As well as funding the NHS\u2019s own plan for the future with \u00a310bn, we are giving local authorities access to up to \u00a33.5bn extra for adult social care by 2019/20.  \u201cThe National Institute for Health and Care Excellence has already published guidelines for better coordination between health and social care, and we are working closely with NHS England, NHS Improvement and local government to provide a wide-ranging package of support to improve quality and efficiency.\u201d",
+  "webTitle": "Delays in discharging older patients from hospital 'cost NHS \u00a3820m a year'",
+  "webPublicationDate": "2016-05-25T23:01:10Z",
+  "webUrl": "https://www.theguardian.com/society/2016/may/26/delays-in-discharging-older-patients-from-hospital-cost-nhs-820m-a-year",
+  "keyword": [
+    {
+      "webTitle": "NHS",
+      "id": "society/nhs",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Older people",
+      "id": "society/older-people",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Rajeev Syal",
+      "id": "profile/rajeev-syal"
+    }
+  ],
+  "guardianId": "society/2016/may/26/delays-in-discharging-older-patients-from-hospital-cost-nhs-820m-a-year"
+}

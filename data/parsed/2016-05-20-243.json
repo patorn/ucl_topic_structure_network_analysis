@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/us-news/2016/may/20/robocop-robot-mall-security-guard-palo-alto-california",
+  "id": "2016-05-20-243",
+  "sectionId": "us-news",
+  "body": "At the Stanford shopping center in Palo Alto, California, there is a new sheriff in town \u2013 and it\u2019s an egg-shaped robot. Outside Tiffany & Co, an unfortunate man holding a baby finds himself in the robot\u2019s path. It bears down on him, a little jerkily, like a giant Roomba. The man dodges but the robot\u2019s software is already trying to avoid him, so they end up on a collision course.  \u201cI\u2019ve seen Terminator,\u201d the man says, half to himself and half to the amused crowd, \u201cand that is some Skynet-ass shit.\u201d The idea of a robot security guard was born after the shooting at Sandy Hook elementary school in Newtown, Connecticut. Stacy Dean Stephens, a former Dallas police officer who sits on the board of the not-for-profit International Association of Chiefs of Police (IACP), found out in a board meeting that if the police had reached the scene just 60 seconds earlier they could have saved at least 12 more lives than they were able to. \u201cThat was a problem we felt was definitely worth solving,\u201d he said. Analysing the situation, he decided the problem was one of intelligence. \u201cAnd the only way to gain accurate intelligence is through eyes and ears,\u201d he said. \u201cSo, we started looking at different ways to deploy eyes and ears into situations like that.\u201d He co-founded Knightscope, the company that leases out the robots as a security aid. They are completely autonomous, navigating like self-driving cars. They have high-definition infra-red cameras; microphones that allow the robot to either interact with people or listen for sounds such as breaking glass, and even detection systems that can intercept the pings of mobile phone devices, and license-plate reading software that can process 300 license plates every minute.     There have even been two instances where the company found lipstick marks on the robot where people had kissed the graffiti-resistant dome. Photograph: Stephen McLaren    The slightly comical Dalek design was intentional, Stephens said. \u201cWe could [have gone] two ways: friendly, or ominous. But you don\u2019t want to scare everyone and make them not like the tech; you want it to be comforting. Like a police officer, you want to walk a fine line between having a commanding presence and not scaring a grandma, or little Janie.\u201d Each unit has self-preservation devices \u2013 no offensive capabilities such as a Taser, Stephens was at pains to say, but a loud alarm and geo-tagging so that it can call for help if attacked. But so far the reaction has been positive. \u201cEveryone likes to take robot selfies,\u201d Stephens said. \u201cPeople really like to interact with the robot.\u201d He said there have even been two instances where the company found lipstick marks on the robot where people had kissed the graffiti-resistant dome. Each client \u2013 Stephens demurred when asked how many of the robots are currently deployed but said there were \u201ca number\u201d of locations across Silicon Valley \u2013 gets to decide what it wants to do with the data produced by the machine.  The software can set up a \u201cwhitelist, greylist, and blacklist\u201d of license plates: the whitelist permitted at any time, the greylist only at certain times, and the appearance of a license plate that\u2019s on the blacklist \u2013 a disgruntled ex-employee, or someone against whom a current employee has a restraining order against, for example \u2013 immediately triggers an alarm. All the information is streamed to Knightscope\u2019s cloud software and then streamed back either to the customer\u2019s control center, or in some cases to a mobile app held by a human security guard.  The units cost $7 an hour to rent, which is considerably lower than the going rate for security guards, though Stephens said they were meant as more of an aid to, rather than replacement for, human security. At the Stanford mall, a security guard was stood watching the robot\u2019s antics with a look of mild amusement. \u201cIt just rolls around with cameras on it,\u201d he said when asked about the device. So he wasn\u2019t worried about it taking his job? \u201cPretty much,\u201d he smiled and shook his head.",
+  "webTitle": "RoboCop is real \u2013 and could be patrolling a mall near you",
+  "webPublicationDate": "2016-05-20T10:30:38Z",
+  "webUrl": "https://www.theguardian.com/us-news/2016/may/20/robocop-robot-mall-security-guard-palo-alto-california",
+  "keyword": [
+    {
+      "webTitle": "California",
+      "id": "us-news/california",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Robots",
+      "id": "technology/robots",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Nicky Woolf",
+      "id": "profile/nicky-woolf"
+    }
+  ],
+  "guardianId": "us-news/2016/may/20/robocop-robot-mall-security-guard-palo-alto-california"
+}

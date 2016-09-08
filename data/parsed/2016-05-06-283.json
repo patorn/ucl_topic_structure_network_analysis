@@ -1,0 +1,88 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/06/scottish-labour-facing-third-place-after-collapse-in-vote",
+  "id": "2016-05-06-283",
+  "sectionId": "politics",
+  "body": "Nicola Sturgeon has claimed an \u201chistoric\u201d third successive victory in the Holyrood election after a night on which her party\u2019s majority was cut and Labour was forced into a humiliating third place by the Scottish Tories. The Scottish National party leader declared \u201cwe have made history\u201d after voters again gave her party a substantial lead over the other parties but the final result, with the SNP taking 63 of Holyrood\u2019s 129 places, left it without an absolute majority.  For the first time in more than a century, and after decades of dominance in Scotland, Labour found itself trailing behind the Conservative party, which had its best result in a Holyrood election and out-performed the opinion polls, taking 27 seats against 22 for Labour.  Ruth Davidson, the party\u2019s leader, won an unexpected victory in the contest for Edinburgh Central \u2013 a seat previously held by the SNP \u2013 after campaigning vigorously against tax rises and any further independence referendums. But after ballots in the final seven list seats in north-east Scotland were counted, Sturgeon was still denied the 65-seat majority the polls had said she would win, with voters across the country instead boosting the Conservatives, Scottish Greens and Scottish Liberal Democrats. With Sturgeon\u2019s party unable to get the necessary majority, compared with the 69 won by her predecessor, Alex Salmond, in his 2011 landslide victory, Sturgeon will now be dependent on deals with her opponents. She will also consider forming a formal coalition with her ally in the 2014 independence referendum, the Scottish Green party, which won four new places to take six seats.   Related: UK election results tracker 2016    A bruising night for Scottish Labour confirmed a series of polls that had put them neck and neck with the Tories. Despite winning several significant constituency battles in Edinburgh Southern, Dumbarton and East Lothian, the party\u2019s poor performance left it with 22 seats, 15 down on its result in 2011. The results will leave Kezia Dugdale, the Scottish Labour leader who had hoped her call for a new 50p income tax rate would boost the party\u2019s popularity, facing calls to consider her future. The only leader of the four traditional parties not to win a constituency seat, Dugdale said before the elections that she had no intention of standing down if Labour came third and needed five years to rebuild Scottish Labour after a series of poor election results. But critics will now argue that the scale of her defeat by the Tories makes her position untenable.",
+  "webTitle": "SNP win stops short of majority as Scottish Labour finishes third",
+  "webPublicationDate": "2016-05-06T08:48:12Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/06/scottish-labour-facing-third-place-after-collapse-in-vote",
+  "keyword": [
+    {
+      "webTitle": "Scottish politics",
+      "id": "politics/scotland",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Local elections",
+      "id": "politics/local-elections",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Scottish National party (SNP)",
+      "id": "politics/snp",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Labour",
+      "id": "politics/labour",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Scotland",
+      "id": "uk/scotland",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Conservatives",
+      "id": "politics/conservatives",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Local government",
+      "id": "society/localgovernment",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Local politics",
+      "id": "politics/localgovernment",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Severin Carrell",
+      "id": "profile/severincarrell"
+    },
+    {
+      "webTitle": "Libby Brooks",
+      "id": "profile/libbybrooks"
+    }
+  ],
+  "guardianId": "politics/2016/may/06/scottish-labour-facing-third-place-after-collapse-in-vote"
+}

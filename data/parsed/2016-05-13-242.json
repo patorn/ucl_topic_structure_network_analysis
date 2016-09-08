@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/13/uk-construction-sector-suffers-sharp-slowdown-ons",
+  "id": "2016-05-13-242",
+  "sectionId": "business",
+  "body": "Britain\u2019s construction sector suffered a sharp slowdown in the opening months of this year, adding to signs the economy is losing momentum as uncertainty around the EU referendum and the global outlook increases. The Office for National Statistics said construction output \u2013 which accounts for about 6% of the economy \u2013 fell 3.6% on the month in March. It was the biggest drop for more than four years.  That extended falls in the previous two months and meant that for the first quarter of 2016 as a whole output was down 1.1% on the previous three months. It was down 1.9% on the year. Housebuilding continued to expand in the first quarter but infrastructure work fell, chiming with reports that some projects have been put on hold as nervous investors await the outcome of June\u2019s referendum on EU membership.  The Bank of England has warned uncertainty around the vote would depress growth in the second quarter and that a decision to leave the EU could tip the UK into recession.  \u201cThe latest construction figures provide yet more evidence that uncertainty about the outcome of the EU referendum is slowing the economic recovery,\u201d said Samuel Tombs, chief UK economist at the consultancy Pantheon Macroeconomics. But the 23 June vote is not the only factor weighing on construction, Tombs added, and pointed to government spending cuts. \u201cThe construction sector \u2026 would be slowing even if the referendum was not taking place, due to the intensifying fiscal squeeze,\u201d he said.     3.6% fall in construction in March, with both new work and repair & maintenance both falling by 3.6% https://t.co/voiTrqNdBc\u2014 ONS (@ONS) May 13, 2016    The March performance for construction was worse than economists had been expecting. The consensus forecast in a Reuters poll had been for a smaller monthly fall of 2.5%. The decline for the quarter was also worse than the 0.9% drop the ONS itself had estimated when publishing GDP figures for the first quarter. But statisticians said the downward revision had barely any impact on its estimate that GDP rose 0.4%.    1.1% fall in construction in Q1, slightly bigger than the 0.9% fall estimated in preliminary #GDP https://t.co/voiTrqNdBc\u2014 ONS (@ONS) May 13, 2016    A breakdown of the first quarter figures showed new housing work rose 4.8% on the previous quarter. But infrastructure fell for the third consecutive quarter, decreasing by 5.6%. The sector the ONS calls \u201cother new work\u201d fell 2.4%.     Components of all new work for the construction sector, quarterly time series, chained volume measure, seasonally adjusted, \u00a3m. Illustration: ONS    The construction sector is still struggling to shake off the scars of its deep recession and has yet to return to its pre-downturn peak from 2008. The latest figures will add to worries about the unbalanced nature of the UK economy after similarly gloomy data from the industrial sector this week, which showed it was back in recession.  The only sector back above pre-downturn levels is services, which covers a range of activities from banking to retail and is the biggest part of the UK economy. But recent business surveys have pointed to a slowdown in services as well, suggesting economic growth is slowing.",
+  "webTitle": "UK construction sector suffers sharp slowdown",
+  "webPublicationDate": "2016-05-13T10:13:31Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/13/uk-construction-sector-suffers-sharp-slowdown-ons",
+  "keyword": [
+    {
+      "webTitle": "Construction industry",
+      "id": "business/construction",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economic growth (GDP)",
+      "id": "business/economicgrowth",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Katie Allen",
+      "id": "profile/katieallen"
+    }
+  ],
+  "guardianId": "business/2016/may/13/uk-construction-sector-suffers-sharp-slowdown-ons"
+}

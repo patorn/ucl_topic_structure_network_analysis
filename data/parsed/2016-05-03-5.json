@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/money/2016/may/04/record-numbers-council-tax-arrears-charities-stepchange-money-advice-trust",
+  "id": "2016-05-03-5",
+  "sectionId": "money",
+  "body": "Record numbers of people are falling behind with council tax payments, according to debt charities, which are calling for an halt to increasingly \u201caggressive\u201d use of bailiffs by cash-strapped local authorities.  Leading debt adviser StepChange said typical council tax arrears among its clients have jumped to \u00a3961 compared with \u00a3717 in 2011. It added that, while one in seven people seeking help on debts in 2011 had serious council tax arrears, it was now around one in three.  The Money Advice Trust\u2019s recent Stop The Knock campaign revealed that 2.1m debts were passed to bailiffs by local authorities in 2014/15, an increase of 16% over a two-year period. Of these, 1.27m related to council tax arrears. Since 2013, when council tax benefit was effectively abolished as a centralised benefit, most English councils have introduced minimum payments for people who were previously exempt. On average, these families are required to pay \u00a3171 in council tax per year. Hundreds of thousands of people have ended up in court, forced to pay \u00a3150 in fees and administrative costs, causing the debt to spiral. Council tax is one of the few debts where failure to pay can result in imprisonment.  Both StepChange and the Money Advice Trust said they are concerned that the increasing use of bailiffs, officially known as enforcement agents, is adding additional stress and anxiety to the most financially vulnerable. Mike O\u2019Connor, chief executive of StepChange, said: \u201cWe know that often the default position of councils is to aggressively pursue arrears through the court process and by instructing bailiffs. It may come as a surprise to people that public bodies are more aggressive in pursuing debts than many private companies.\u201d The charities are calling for a statutory \u201cbreathing space\u201d scheme that guarantees those seeking debt advice a temporary freeze on interest and charges, and a halt to enforcement action in order to help a person recover their financial situation.    Related: Cuts in council tax support are no joke for poorer residents | Dawn Foster    Joanna Elson, chief executive of the Money Advice Trust, which runs National Debtline, said: \u201cUnfortunately many councils are still being far too quick to pass debts to bailiffs. Bailiffs should only ever be used as a last resort \u2013 and they shouldn\u2019t be used at all in the case of recipients of council tax support, who councils have already identified as requiring additional help to keep on top of their finances.\u201d But councils say funding cuts mean they have little choice but to chase the working-age poor for council tax. Claire Kober of the Local Government Association said: \u201cNo one wants to ask those on the lowest incomes to pay more. Significant cuts to the money councils receive to look after the elderly, protect children, repair roads and collect bins, mean many have had little choice but to reduce council tax discounts for the working-age poor or low income families \u2013 who may have never paid council tax before \u2013 to avoid finding even more savings from spending on local services to meet the shortfall.\u201d Kober added that councils have worked closely with Citizens Advice on protocols for using bailiffs and that they should only be used as a last resort.",
+  "webTitle": "Record numbers of people in council tax arrears, say charities",
+  "webPublicationDate": "2016-05-03T23:01:11Z",
+  "webUrl": "https://www.theguardian.com/money/2016/may/04/record-numbers-council-tax-arrears-charities-stepchange-money-advice-trust",
+  "keyword": [
+    {
+      "webTitle": "Council tax",
+      "id": "money/counciltax",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Consumer affairs",
+      "id": "money/consumer-affairs",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Tax",
+      "id": "money/tax",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Family finances",
+      "id": "money/family-finances",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Patrick Collinson",
+      "id": "profile/patrickcollinson"
+    }
+  ],
+  "guardianId": "money/2016/may/04/record-numbers-council-tax-arrears-charities-stepchange-money-advice-trust"
+}

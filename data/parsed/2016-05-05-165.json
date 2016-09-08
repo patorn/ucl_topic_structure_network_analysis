@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/05/marouane-fellaini-robert-huth-manchester-united-leicester-city-banned",
+  "id": "2016-05-05-165",
+  "sectionId": "football",
+  "body": "Marouane Fellaini and Robert Huth have accepted three-match bans after deciding not to contest their charges of violent conduct. The pair were charged by the Football Association after an off-the-ball incident during the 1-1 draw at Old Trafford on Sunday, when the German defender pulled the Manchester United midfielder\u2019s hair and Fellaini responded with an elbow to the face. The incident was not seen by match officials but was caught on video.   Related: Louis van Gaal says Huth\u2019s hair-pull is allowable only in \u2018sex masochism\u2019    Fellaini is still available for the FA Cup final against Crystal Palace because United, who are fifth in the table, have three league games left. Fellaini will miss the visits to Norwich and West Ham before the home game against Bournemouth on the last day of the season as United chase Champions League qualification. Huth\u2019s team Leicester, who were crowned champions on Monday, play Everton and Chelsea. The United manager Louis van Gaal had earlier defended the Belgian midfielder by saying: \u201cIt\u2019s not in the books that someone has to grab by the hair and then pull it behind \u2013 only in sex masochism. When I grab you by the hair, what are you doing? Shall I do it? It\u2019s also a penalty. When I grab your hair, you react also. I know for sure.\u201d",
+  "webTitle": "Marouane Fellaini and Robert Huth banned for three matches over clash",
+  "webPublicationDate": "2016-05-05T14:07:52Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/05/marouane-fellaini-robert-huth-manchester-united-leicester-city-banned",
+  "keyword": [
+    {
+      "webTitle": "Manchester United",
+      "id": "football/manchester-united",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Leicester City",
+      "id": "football/leicestercity",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Marouane Fellaini",
+      "id": "football/marouane-fellaini",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Premier League",
+      "id": "football/premierleague",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "football/2016/may/05/marouane-fellaini-robert-huth-manchester-united-leicester-city-banned"
+}

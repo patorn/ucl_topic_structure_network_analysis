@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/02/puttnam-inquiry-bbc-government-department-culture-media-sport",
+  "id": "2016-05-02-57",
+  "sectionId": "media",
+  "body": "Film-maker David Puttnam has raised concerns that the government is bowing to pressure from vested interests to significantly diminish the BBC. Following newspaper reports over the weekend that the government is preparing to stop the corporation scheduling popular shows such as Strictly Come Dancing against direct competition from other broadcasters, the Puttnam inquiry into public service broadcasting expressed in a statement its concerns about the handling of charter renewal by the culture secretary, John Whittingdale.   Related: BBC scheduling: government denies it is seeking to take over    \u201cWe have been continuously assured by the culture secretary that he wants the BBC to \u2018thrive in the years to come\u2019, but the drip, drip of these leaks suggest the opposite, that the government wants a significantly diminished corporation,\u201d it said. The Department for Culture, Media and Sport denied the suggestion that it aimed to \u201cdetermine either the content or scheduling of programmes\u201d. The reports over the weekend prompted Labour\u2019s shadow culture secretary, Maria Eagle, to accuse Whittingdale of unacceptable interference in the BBC before the publication of a white paper later this month.  \u201cThe government needs to resist, and to be seen to resist, any undue pressure from vested interests, whether in the press or in broadcasting,\u201d said a statement from the inquiry. \u201cWe urge the government to drop these and any other punitive and ill-considered proposals, and focus instead on drafting the serious and comprehensive framework for the BBC\u2019s future that the corporation needs, and licence fee payers deserve.   \u201cIf there is any truth that the government plans to interfere in the scheduling of popular programmes such as Strictly Come Dancing and Silent Witness, this would represent a unique, unnecessary and wholly inappropriate intervention.\u201d The inquiry welcomed rumoured measures such as the extension of the BBC charter from 10 to 11 years. In response to the weekend reports, a DCMS spokesman said: \u201cThe government will be setting out its plan on the BBC charter in a white paper in May. The secretary of state has made it clear on a number of occasions that the government cannot, and indeed should not, determine either the content or scheduling of programmes.\u201d",
+  "webTitle": "Puttnam inquiry: government wants a diminished BBC",
+  "webPublicationDate": "2016-05-02T18:20:39Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/02/puttnam-inquiry-bbc-government-department-culture-media-sport",
+  "keyword": [
+    {
+      "webTitle": "BBC",
+      "id": "media/bbc",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "John Whittingdale",
+      "id": "politics/john-whittingdale",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jane Martinson",
+      "id": "profile/janemartinson"
+    }
+  ],
+  "guardianId": "media/2016/may/02/puttnam-inquiry-bbc-government-department-culture-media-sport"
+}

@@ -1,0 +1,37 @@
+{
+  "apiUrl": "https://content.guardianapis.com/money/blog/2016/may/28/form-tutor-leaving-gift",
+  "id": "2016-05-28-163",
+  "sectionId": "money",
+  "body": "Every week a Guardian Money reader submits a question, and it\u2019s up to you to help him or her out \u2013 a selection of the best answers will appear in next Saturday\u2019s paper. This week\u2019s question:  My daughter, 18, is about to leave school and wants to buy her form tutor a present. This teacher really helped her over many years and a bottle of wine doesn\u2019t seem enough. What, if anything, would be appropriate \u2013 what do teachers like to receive? Do you have a problem readers could solve? Email your suggestions to money@theguardian.com or write to us at Money, The Guardian, Kings Place, 90 York Way, London N1 9GU.",
+  "webTitle": "What can my daughter buy her form tutor as a leaving gift?",
+  "webPublicationDate": "2016-05-28T06:00:26Z",
+  "webUrl": "https://www.theguardian.com/money/blog/2016/may/28/form-tutor-leaving-gift",
+  "keyword": [
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Consumer affairs",
+      "id": "money/consumer-affairs",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Schools",
+      "id": "education/schools",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Education",
+      "id": "education/education",
+      "sectionId": "education",
+      "sectionName": "Education"
+    }
+  ],
+  "authors": [],
+  "guardianId": "money/blog/2016/may/28/form-tutor-leaving-gift"
+}

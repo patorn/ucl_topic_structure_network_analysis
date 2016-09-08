@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/09/twitter-surveillance-fbi-cia-privacy-dataminr",
+  "id": "2016-05-09-22",
+  "sectionId": "technology",
+  "body": "Twitter has blocked US spies from buying bulk data on its users from a data analytics company. Until now, US national security agencies, including the FBI and CIA, had been able to parse treasure troves of Twitter data through software from Dataminr, the New York-based analytics company in which Twitter owns a 5% stake. Agents could enter key terms such as \u201cIsis\u201d or \u201cjihad\u201d and receive alerts for relevant posts, people familiar with the process said. Apparently not wanting to seem too close to US spies, Twitter has blocked any future such sales, the company confirmed on Monday. Twitter maintains the power to veto Dataminr\u2019s contracts with its customers, typically news organizations and financial analysts.  The US tech industry and Washington have had a tense relationship as of late, yet many of the sticking points have been related to surveillance of westerners. When it comes to combating Islamic extremism, American tech firms, including Twitter, have voluntarily assisted.  It remains unclear why selling data to US spies that it sells to private companies is a bridge too far for Twitter.  \u201cWe have never authorized Dataminr or any third party to sell data to a government or intelligence agency for surveillance purposes,\u201d a Twitter spokesman said. \u201cThis is a longstanding policy, not a new development.\u201d However, several current and former US officials said US intelligence agencies had used Dataminr tools in the past. Dataminr also is backed by In-Q-Tel, the not-for-profit organization that serves as the venture capital arm of US intelligence agencies. Dataminr didn\u2019t respond to a request for comment.  The Wall Street Journal previously reported on Dataminr\u2019s position.  On its website, the company advertises a public sector product that \u201cinstantly analyzes all publicly available Tweets for real-time information related to terrorist threats, social and political unrest\u201d. The company also maintains a contract with the Department of Homeland Security. A Twitter spokesman said government contracts were acceptable if they do not involve surveillance.  An earlier version of this article has been updated to clarify how federal agents were able to use Dataminr.",
+  "webTitle": "Twitter bars spy agencies from buying bulk user data from analytics firm",
+  "webPublicationDate": "2016-05-09T21:39:33Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/09/twitter-surveillance-fbi-cia-privacy-dataminr",
+  "keyword": [
+    {
+      "webTitle": "Twitter",
+      "id": "technology/twitter",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Data and computer security",
+      "id": "technology/data-computer-security",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Data protection",
+      "id": "technology/data-protection",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Surveillance",
+      "id": "world/surveillance",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Silicon Valley",
+      "id": "technology/silicon-valley",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "CIA",
+      "id": "us-news/cia",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "FBI",
+      "id": "us-news/fbi",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Danny Yadron",
+      "id": "profile/danny-yadron"
+    }
+  ],
+  "guardianId": "technology/2016/may/09/twitter-surveillance-fbi-cia-privacy-dataminr"
+}

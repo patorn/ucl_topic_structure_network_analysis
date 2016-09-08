@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/19/washington-redskins-name-poll-native-american-opinion",
+  "id": "2016-05-19-90",
+  "sectionId": "sport",
+  "body": "A poll in the Washington Post has found that nine out of 10 Native Americans are not offended by the Washington Redskins name. The poll surveyed 504 people who identified as Native American in every state in the US, and reflects the findings of a similar poll in 2004. Washington\u2019s NFL team has been under pressure for some time over its name, which many say is offensive. The survey also asked respondents whether the word \u201cRedskin\u201d itself is disrespectful: 21% said it is.   Related: Washington Redskins apologists are on every wrong side of history \u2013 and a slur | Dave Rappoccio    Washington\u2019s owner, Dan Snyder, has long resisted calls to change the team\u2019s name, and said the poll backed up his stance. \u201cThe Washington Redskins team, our fans and community have always believed our name represents honor, respect and pride,\u201d said Snyder in a statement. \u201cToday\u2019s Washington Post polling shows Native Americans agree. We are gratified by this overwhelming support from the Native American community, and the team will proudly carry the Redskins name.\u201d Suzan Harjo, who has challenged the team\u2019s trademark protection, said she did not agree with the poll\u2019s methods. \u201cI don\u2019t accept self-identification,\u201d Harjo, a member of the Cheyenne and Hodulgee Muscogee tribes, told the Post. \u201cPeople say they\u2019re native, and they are not native, for all sorts of reasons. Those of us who are leaders in Indian Country know who we are representing. We also know if we are representing a minority view. And this is not the case here. Our experience is completely the opposite of the [2004] Annenberg poll and this one. I just reject the whole thing.\u201d Ray Halbritter and Jackie Pata, two other figures in the name-change movement, also pointed to the impact imagery in sports can have on young Native Americans. \u201cSocial science research and first-hand experience has told us that this kind of denigration has both visible and unseen consequences for Native Americans in this country,\u201d they said in a statement. \u201cThis is especially the case for children, who were not polled and who are in a particularly vulnerable position to be bullied by the NFL. It is the 21st century \u2013 it is long overdue for Native Americans to be treated not as mascots or targets of slurs, but instead as equals.\u201d The Washington Post poll found that opinions among Native Americans towards the team\u2019s name were consistent regardless of factors such as age, income and level of education. Non-Native Americans are, in fact, more likely to favor a name change. A 2014 ESPN poll found that 23% of the US population thought the team should change its name. Barack Obama, the Guardian and the Washington Post itself are among those to have urged Snyder to change the team\u2019s name.",
+  "webTitle": "Poll finds 90% of Native Americans are OK with Washington 'Redskins' name",
+  "webPublicationDate": "2016-05-19T17:18:50Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/19/washington-redskins-name-poll-native-american-opinion",
+  "keyword": [
+    {
+      "webTitle": "Washington (NFL team)",
+      "id": "sport/washington-redskins",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Native Americans",
+      "id": "world/native-americans",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Washington DC",
+      "id": "us-news/washington-dc",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "NFL",
+      "id": "sport/nfl",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "US sports",
+      "id": "sport/us-sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "sport/2016/may/19/washington-redskins-name-poll-native-american-opinion"
+}

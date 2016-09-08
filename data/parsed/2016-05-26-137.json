@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/26/horse-racing-tips-friday-27-may",
+  "id": "2016-05-26-137",
+  "sectionId": "sport",
+  "body": "Bath 2.00 Dynamo, 2.30 Believe It, 3.00 Esteemable, 3.30 Barroche, 4.00 Visage Blanc, 4.30 The Graduate, 5.00 Bergholt    Related: BHA defends itself over \u2018unfair\u2019 private disciplinary meetings    Musselburgh 6.40 San Cassiano, 7.10 Weekend Offender, 7.40 El Astronaute, 8.10 Osaruveetil, 8.40 Qaffaal, 9.10 Curzon Line  Brighton 2.20 Monks Stand, 2.50 Al Sailiyah (nb), 3.25 Great Expectations, 3.50 Goldenfield, 4.20 Loving Your Work, 4.50 Golden Wedding, 5.20 Top Offer Pontefract 6.30 Pumaflor, 7.00 Poetic Verse, 7.30 Yalta, 8.00 Master Bond, 8.30 Peloponnese, 9.00 Get Up And Dance,  Haydock 2.10 Tafaakhor, 2.40 Dream Of Dreams, 3.10 Times Legacy, 3.40 Masterpaver, 4.10 Ripoll, 4.40 I Am, 5.10 Threat Assessed (nap), 5.45 Princess Peaches  Worcester 5.50 Get It On, 6.20 Ballybroker Breeze, 6.50 Al Alfa, 7.20 Comely, 7.50 Truckers Glory, 8.20 Going For Broke, 8.50 Powderonthebonnet",
+  "webTitle": "Horse racing tips: Friday 27 May",
+  "webPublicationDate": "2016-05-26T15:40:58Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/26/horse-racing-tips-friday-27-may",
+  "keyword": [
+    {
+      "webTitle": "Horse racing tips",
+      "id": "sport/horse-racing-tips",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Horse racing",
+      "id": "sport/horse-racing",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Greg Wood",
+      "id": "profile/gregwood"
+    }
+  ],
+  "guardianId": "sport/2016/may/26/horse-racing-tips-friday-27-may"
+}

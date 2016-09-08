@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/us-news/2016/may/10/kern-county-california-sexual-assault-police-settlement",
+  "id": "2016-05-10-21",
+  "sectionId": "us-news",
+  "body": "The $1m settlement awarded to a young woman who was sexually assaulted by a sheriff\u2019s deputy in Kern County, California, is under threat after county representatives said attorneys for the woman had violated its terms by disclosing the agreement\u2019s existence to the press. The case was the second police misconduct lawsuit against the Kern County sheriff\u2019s office to be settled for seven figures in the past week, leading to renewed calls for a federal investigation into the department after the Guardian revealed law enforcement in the county was the deadliest in the United States.    Related: The County: the story of America's deadliest police    Kern County assistant counsel Mark Nations said on Tuesday that lawyers representing the woman \u2013 who was 21 years old when former deputy Gabriel Lopez entered her apartment, forced her to strip naked and molested her \u2013 had violated a nondisclosure clause by announcing the settlement via a press release on Monday. \u201cIt bugs me that they think they\u2019re some kind of a guardian of public trust or something,\u201d Nations said of the attorneys, adding: \u201cNobody put a gun to their head; it has nothing to do with transparency.\u201d But the woman\u2019s attorneys, from the Bakersfield firm Chain Cohn Stiles, pointed to the fact that the county was legally bound to publicly disclose the settlement and argued on Monday that they had only agreed not to hold a press conference announcing the settlement.  \u201cWe believe the settlement is still valid and is not in jeopardy. It is against public policy to prevent the disclosure of settlement with a public entity, and flies in the face of transparency,\u201d Chain Cohn Stiles said in a statement.  The woman, who was assaulted in March 2013, was initially offered a secretive cash payment of $7,500 by the sheriff\u2019s office to waive her right to sue just days after the attack occurred and without the presence of a lawyer. It was revealed that the Kern County sheriff\u2019s office had offered cash, in some cases as little as $200, to at least seven women who alleged they were sexually assaulted by deputies.  On Tuesday, Nations defended the program of payments, arguing it was \u201ccommon practice throughout the United States\u201d and that it \u201cdoesn\u2019t matter whether I\u2019m [with it] comfortable or not\u201d.  Penny Harrington the co-founder of the National Center for Women and Policing (NCWP) and the former chief of the Portland, Oregon, police bureau, said in December that while it was accepted practice for departments to offer cash payoffs for small claims, it was unethical and unheard of to offer payments to sexual assault victims.  Nations said he had advised the county that the settlement was now jeopardised but did not know how the county would ultimately proceed.",
+  "webTitle": "Police sexual assault settlement under threat after victim's attorneys disclose it",
+  "webPublicationDate": "2016-05-10T21:36:10Z",
+  "webUrl": "https://www.theguardian.com/us-news/2016/may/10/kern-county-california-sexual-assault-police-settlement",
+  "keyword": [
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "California",
+      "id": "us-news/california",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Rape",
+      "id": "society/rape",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Law",
+      "id": "law/law",
+      "sectionId": "law",
+      "sectionName": "Law"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Oliver Laughland",
+      "id": "profile/laughland-oliver"
+    }
+  ],
+  "guardianId": "us-news/2016/may/10/kern-county-california-sexual-assault-police-settlement"
+}

@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/04/florida-coral-reefs-disintegrating-climate-change",
+  "id": "2016-05-04-85",
+  "sectionId": "environment",
+  "body": "Florida\u2019s coral reefs are disintegrating far more quickly than previously thought, with warming, acidifying oceans causing a \u201cwasting away\u201d of the coral structures that support an abundance of marine life, new research has found. Scientists had previously thought that Florida\u2019s reef, the only barrier reef in the continental US, wouldn\u2019t start to break up until around 2050. But recent analysis shows that this process is already under way in parts of the reef system, driven by accelerating climate change.  \u201cWe don\u2019t have as much time as we previously thought,\u201d said Chris Langdon, a professor at the University of Miami and a senior author of the study. \u201cThe reefs are beginning to dissolve away.\u201d     The disintegration of the reefs abutting the Florida Keys. Photograph: Chris Langdon, PhD     Langdon\u2019s team spent two years surveying a 200km (124-mile) tract of Florida\u2019s reef, stretching from Biscayne national park to the Florida Keys. The scientists found that the upper Florida Keys are in significant decline, well ahead of the expected \u201ctipping point\u201d where the warming oceans severely curtail coral development.  As human activity pumps out greenhouse gases, the Earth\u2019s oceans have acted as a sort of sponge, sucking up huge quantities of carbon dioxide. This extra heat has caused the oceans to warm and expand, causing the sea level to rise, fueled by the melting of polar ice.  The excess carbon dioxide has also caused the oceans to become more than 30% more acidic over the past century. This hinders the ability of corals to form their limestone structures, as well shellfish and mollusks to form their shells. Fish behavior has also been altered by the saturation of CO2, studies have found.  Normally, Florida\u2019s coral limestone grows in the spring and summer months, aided by favorable water temperature, light and seagrass growth conditions. In winter, this process slows or even reverses as seagrasses decay and the light wanes.  The University of Miami study, published in Global Biogeochemical Cycles, found that falling ocean pH, caused by acidification, is overwhelming the spring and summer growth of corals, meaning that the Florida reefs are being pushed into structural decline.  \u201cThe reefs are wasting away,\u201d Langdon said. \u201cEach year, the reefs are going to lose some of their structure. This is one more reason why we need to get serious about reducing carbon dioxide emission sooner rather than later.\u201d  Florida\u2019s reef is home to 100 coral species and more than 400 fish species, making it one of the most important reef systems in the world. It faces a number of pressures, however, with dredging of the seabed for port expansion causing corals to be smothered by silt. The grandson of famed ocean explorer Jacques Cousteau recently warned that plans to expand a port at Fort Lauderdale were \u201clunacy\u201d due to the impact upon the corals.             Globally, coral reefs are undergoing a widespread bleaching event, driven by the El Ni\u00f1o phenomenon and climate change. Australia\u2019s Great Barrier Reef has experienced widespread bleaching, which is where prolonged high temperatures cause the coral to expel the symbiotic algae living in their tissues, causing them to whiten. This can lead to the coral completely dying off.  Although coral reefs are found in less than 1% of the surface area of the world\u2019s oceans, they support a riot of biodiversity, with 25% of the Earth\u2019s marine creatures relying upon them for food and shelter.  Corals are creatures that take root on the ocean floor, using their tiny, tentacle-like arms to capture food from the water. Coral polyps secrete a hard outer skeleton of limestone that attaches to rocks or other polyps, helping form reef structures.  The loss of coral reefs would have devastating consequences throughout the aquatic food chain and impact the 500 million people around the world who rely upon them for food and income.",
+  "webTitle": "Florida's coral reefs rapidly 'wasting away' under stress of climate change",
+  "webPublicationDate": "2016-05-04T17:12:20Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/04/florida-coral-reefs-disintegrating-climate-change",
+  "keyword": [
+    {
+      "webTitle": "Coral",
+      "id": "environment/coral",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Marine life",
+      "id": "environment/marine-life",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Wildlife",
+      "id": "environment/wildlife",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Climate change",
+      "id": "environment/climate-change",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Florida",
+      "id": "us-news/florida",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Oliver Milman",
+      "id": "profile/oliver-milman"
+    }
+  ],
+  "guardianId": "environment/2016/may/04/florida-coral-reefs-disintegrating-climate-change"
+}

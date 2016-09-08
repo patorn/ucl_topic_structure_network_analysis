@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/18/google-home-assistant-amazon-echo-apple-siri",
+  "id": "2016-05-18-59",
+  "sectionId": "technology",
+  "body": "Google has joined the war to be your digital butler.  Speaking to a packed amphitheater of developers here, Alphabet\u2019s flagship company on Wednesday unveiled a hot-rodded personal assistant it says will let people control their homes, book movies, search the internet, ask follow-up questions about an Italian restaurant and sort through dog pictures using voice commands.  The salvo places Google in the middle of a contest among technology giants to build an artificial intelligence that hold consumers\u2019 hands as they navigate the real world. Apple has Siri, Amazon.com has Alexa and Facebook has M. Perhaps with an eye towards modern politics, Google declined to give its personal aide a gendered name. Rather, it\u2019s calling it Google Assistant. Its main physical form is a small, white, buttonless speaker called Google Home. It looks similar to Amazon\u2019s Echo, its own smart speaker powered by Alexa.    Related: Goodbye privacy, hello Alexa: here's to Amazon echo, the home robot who hears it all    The difference, Google argues, is that given the company\u2019s 17 years of work cataloguing the internet and physical world, its assistant is smarter and better able to work with its email, messaging, mapping and photo apps. And since Google makes software for smartphones, smartwatches and old-fashioned computers, Google says people will be able to have one conversation with multiple machines.  Whoever gets there first, these firms\u2019 plans make clear they envision a future where humans do less thinking when it comes to the small decisions that make up daily life.  Speaking on stage, Google CEO Sundar Pichai gave the example of asking his assistant what movie he and his wife should see. After being presented with a first set of choices, he added that he wants to bring the kids. He was then given the choice of three kids movies, including Disney\u2019s Jungle Book remake.  \u201cIs Jungle Book any good?\u201d the CEO asked. He was then given the movie\u2019s score on Rotten Tomatoes.  Pichai, Google\u2019s new CEO after its recent restructuring under the holding company Alphabet, is a known artificial intelligence geek. He\u2019s devoted huge amounts of resources to making machines think more like human beings and envisions far-out uses for the technology in the future. On Wednesday, he highlighted how Google\u2019s intelligence recently beat a world champion at Go, a Korean board game considered more difficult than chess. In a video on stage, a suburban family went through its morning wakeup routine. The dad made French press coffee while telling Google to turn on the lights and start playing music in his kids\u2019 rooms. The mom asked if \u201cmy package\u201d had shipped. It did, Google said. The daughter asked for help with her Spanish homework.  On Wednesday, the company also announced designs for an updated virtual reality headset with a hand controller and a new messaging app, called Allo, that would also rely on Google\u2019s machine learning tools.      Google CEO Sundar Pichai: \u2018We think of the Assistant as an ambient experience that expands across devices.\u2019 Photograph: Stephen Lam/Reuters    \u201cWe think of the Assistant as an ambient experience that expands across devices,\u201d Pichai said. \u201cHumans can achieve a lot more with the support of [artificial intelligence] assisting them.\u201d The Google Home speaker will be available later this year, Google said. It didn\u2019t disclose pricing. Companies such as Google have been tinkering with digital assistants for years, but no one has quite made all the pieces work together seamlessly yet. Amazon, for instance, doesn\u2019t have the same family of products as Google. Apple\u2019s iPhone is ubiquitous, but its Siri, to date, has served as a cheeky voice-activated way to search the internet.  It\u2019s unclear if Google has figured that out either. In the video of the suburban family, Google vice-president of product management Mario Queiroz acknowledged it depicted what the company thought was possible eventually, maybe not for everyone today.  In the near term, Google said it is adding more of its machine learning technology to more everyday apps. It announced a new messaging app, called Allo, that offers more suggested responses based on what people are saying to each other. If you send your friend a picture of your dog, Allo might suggest you respond, \u201cnice Bernese mountain dog\u201d.",
+  "webTitle": "Google Assistant takes on Amazon and Apple to be the ultimate digital butler",
+  "webPublicationDate": "2016-05-18T18:17:32Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/18/google-home-assistant-amazon-echo-apple-siri",
+  "keyword": [
+    {
+      "webTitle": "Google",
+      "id": "technology/google",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Alphabet",
+      "id": "technology/alphabet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Amazon.com",
+      "id": "technology/amazon",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "E-commerce",
+      "id": "technology/efinance",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Facebook",
+      "id": "technology/facebook",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Apple",
+      "id": "technology/apple",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Danny Yadron",
+      "id": "profile/danny-yadron"
+    }
+  ],
+  "guardianId": "technology/2016/may/18/google-home-assistant-amazon-echo-apple-siri"
+}

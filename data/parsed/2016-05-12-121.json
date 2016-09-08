@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/tv-and-radio/2016/may/12/eurovision-fans-what-do-you-make-of-the-eu-referendum",
+  "id": "2016-05-12-121",
+  "sectionId": "tv-and-radio",
+  "body": "Much like the European Court of Human Rights, Eurovision doesn\u2019t have much to do with the EU. If the UK votes for Brexit in June, its continuing place in the international song contest will be assured, not least because Britain is one of the \u201cbig five\u201d Eurovision countries who contribute the most funding to the event. Nevertheless. Founded by the European Broadcasting Union back in 1956, Eurovision is a symbol of pan-European cultural celebration, even if they let Australia take part nowadays. And even Eurovision is not immune to the wider political mood. While political statements are banned from Eurovision song lyrics, the contest doesn\u2019t exist in a vacuum. Voting patterns still reflect old geopolitical rivalries and alliances. If you\u2019re a Eurovision fan, let us know your views. What does Britain\u2019s relationship with Europe mean to you? Would you still watch Eurovision if the UK voted for Brexit? Do you love the kitsch and joy of the song contest but think Brussels treats the UK like a puppet on a string? Or are you more of a view that it\u2019s better the devil you know?  Or are you still making your mind up? Let us know what you think by filling out the form below. We\u2019ll put together an article of your views to coincide with Saturday\u2019s final.",
+  "webTitle": "Eurovision fans: what do you make of the EU referendum?",
+  "webPublicationDate": "2016-05-12T16:21:12Z",
+  "webUrl": "https://www.theguardian.com/tv-and-radio/2016/may/12/eurovision-fans-what-do-you-make-of-the-eu-referendum",
+  "keyword": [
+    {
+      "webTitle": "Eurovision",
+      "id": "tv-and-radio/eurovision",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Television & radio",
+      "id": "tv-and-radio/tv-and-radio",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "James Walsh",
+      "id": "profile/james-walsh"
+    }
+  ],
+  "guardianId": "tv-and-radio/2016/may/12/eurovision-fans-what-do-you-make-of-the-eu-referendum"
+}

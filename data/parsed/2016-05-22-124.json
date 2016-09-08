@@ -1,0 +1,132 @@
+{
+  "apiUrl": "https://content.guardianapis.com/global-development/2016/may/22/southern-africa-worst-global-food-crisis-25-years",
+  "id": "2016-05-22-124",
+  "sectionId": "global-development",
+  "body": "Angola Drought is affecting 1.4 million people across seven of Angola\u2019s 18 provinces. Food prices have rocketed and acute malnutrition rates have doubled, with more than 95,000 children affected. Food insecurity is expected to worsen from July to the end of the year.   Related: Where drought is the new normal: El Ni\u00f1o worsens food shortages in Malawi and Zimbabwe \u2013 podcast    Botswana Three years of drought have hit the country\u2019s livestock and arable farming sectors hard. At least 50,000 people are in danger of severe malnutrition. Mozambique A \u201cred alert\u201d has been announced for southern and central provinces. Some rain fell in April in southern Mozambique, but most of this year\u2019s harvest has been lost. Nearly 500,000 people are being given food aid. Malawi Up to 8 million people, or half the country, will need food aid after a second year of drought and disastrous floods in 2015. More than 1m tonnes of food are needed. The situation is worst in the south and central regions. Namibia About 500,000 Namibians are dependent on government food aid after crops failed for a third year running. Businesses in Windhoek, the capital, have been ordered by city authorities to cut water consumption by 30%. South Africa Seven provinces have declared a drought crisis. Maize production is down 40%. South Africa, which normally exports about 1m tonnes of food a year, will have to import about 3.5m tonnes of corn. Swaziland Food prices have escalated and the country\u2019s staple food, maize, has been subject to a 66% price hike since January. The UN has provided $3m (\u00a3207m) for food and emergency relief for 95,000 affected people. Tanzania Tanzania has an electricity crisis after it had to shut its hydropower plants because drought is causing low water levels in its dams. Food prices have soared. Local farmers and pastoralists have clashed over dwindling pasture and water supplies and Kenyan and Ugandan farmers have invaded national parks with their cattle.  Zambia Zambia has been rationing electricity because of a lack of water in dams, but the maize harvest has been the most successful in the region.    Related: Drought and rising temperatures 'leaves 36m people across Africa facing hunger'    Zimbabwe A state of disaster has been declared. Half the country\u2019s rural population of 10 million people will need food assistance by Christmas. The government has appealed for $1.5bn but only $200m has been pledged.  South Sudan Up to 5.3 million people face severe food shortages, especially in the non-conflict affected states of Northern Bahr el Ghazal and Eastern Equatoria. From January to March, 2.8 million people were classed as being in \u201ccrisis\u201d or \u201cemergency\u201d food situations. The UN humanitarian plan for South Sudan has received only 27% of the $1.29bn needed. Ethiopia After one of its worst droughts in decades, Ethiopia is now being lashed by heavy rains and flash floods. The government and international donors have pledged more than $700m in emergency aid but experts say the country still needs $600m more.",
+  "webTitle": "How southern Africa is coping with worst global food crisis for 25 years",
+  "webPublicationDate": "2016-05-22T09:00:38Z",
+  "webUrl": "https://www.theguardian.com/global-development/2016/may/22/southern-africa-worst-global-food-crisis-25-years",
+  "keyword": [
+    {
+      "webTitle": "Hunger",
+      "id": "global-development/hunger",
+      "sectionId": "global-development",
+      "sectionName": "Global development"
+    },
+    {
+      "webTitle": "Food security",
+      "id": "global-development/food-security",
+      "sectionId": "global-development",
+      "sectionName": "Global development"
+    },
+    {
+      "webTitle": "Global development",
+      "id": "global-development/global-development",
+      "sectionId": "global-development",
+      "sectionName": "Global development"
+    },
+    {
+      "webTitle": "Africa",
+      "id": "world/africa",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Angola",
+      "id": "world/angola",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Botswana",
+      "id": "world/botswana",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Drought",
+      "id": "environment/drought",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Mozambique",
+      "id": "world/mozambique",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Malawi",
+      "id": "world/malawi",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Namibia",
+      "id": "world/namibia",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "South Africa",
+      "id": "world/southafrica",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Tanzania",
+      "id": "world/tanzania",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Swaziland",
+      "id": "world/swaziland",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Zambia",
+      "id": "world/zambia",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Zimbabwe",
+      "id": "world/zimbabwe",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "South Sudan",
+      "id": "world/south-sudan",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Ethiopia",
+      "id": "world/ethiopia",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "John Vidal",
+      "id": "profile/johnvidal"
+    }
+  ],
+  "guardianId": "global-development/2016/may/22/southern-africa-worst-global-food-crisis-25-years"
+}

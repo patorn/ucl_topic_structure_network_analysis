@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/19/eu-referendum-push-to-improve-voting-turnout-for-psychiatric-inpatients",
+  "id": "2016-05-19-321",
+  "sectionId": "politics",
+  "body": "Mental health trusts and charities are calling for groups that are traditionally disenfranchised, such as psychiatric inpatients and people with learning disabilities, to register to vote in the EU referendum. According to a study of the 2010 general election, voter turnout among mental health inpatients was 14%, less than a quarter of the proportion of the general population who voted (65%). Among the country\u2019s 1.5 million adults who have learning disabilities, the rate of voter registration and voter turnout is also extremely low.   Guardian explained: who can vote?   Central and North West London NHS trust has launched a campaign to make patients and their carers aware that the vast majority of psychiatric inpatients are eligible to vote, including those who are homeless, on community treatment orders and who are voluntary patients in mental health hospitals. The campaign involves clinical staff talking to patients about their voting rights and releasing a video that informs patients who can vote and how to register. The 2010 election study found that only 43% of psychiatric inpatients eligible to vote were registered to do so, less than half the rate of the general population (97%). Among those who were registered, inpatients were half as likely to cast their vote (33% to 67%), meaning that only 14% of those eligible had their say.  Of those inpatients who were not registered to vote, 88% said that this was due to a lack of knowledge about registering or the voting process. Nearly half (48%) did not know they were eligible to vote. Similar misunderstandings also lead to low voter turnout among adults with learning disabilities. \u201cIn the EU referendum it\u2019s really important that people with learning disabilities cast their vote,\u201d said Xanthe Breen of United Response, which helps people with learning disabilities understand their voting rights. United Response has been running a programme called Every Vote Counts since 2007 and has increased the voter turnout among the people with learning disabilities it supports from 33% in the 2010 general election to 43% in 2015, largely through providing accessible information about voter registration and political issues, through its bi-monthly magazine Easy News. \u201cThe message is very clear that everyone with a learning disability is legally entitled to vote. There\u2019s that misconception that they won\u2019t know what they\u2019re voting for, but you know, my grandma votes for the person with the nicest tie,\u201d Breen said. \u201cIf you\u2019re over 18, you can vote.\u201d  This article was amended on 19 May 2016. An earlier version said that United Response was founded in 2007. United Response was started in 1970, its Every Vote Counts programme was started in 2007.",
+  "webTitle": "EU referendum: push to improve voting turnout for psychiatric inpatients",
+  "webPublicationDate": "2016-05-19T06:00:00Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/19/eu-referendum-push-to-improve-voting-turnout-for-psychiatric-inpatients",
+  "keyword": [
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Disability",
+      "id": "society/disability",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Mental health",
+      "id": "society/mental-health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Equality",
+      "id": "society/equality",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "General election 2010",
+      "id": "politics/general-election-2010",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Kate Lyons",
+      "id": "profile/kate-lyons"
+    }
+  ],
+  "guardianId": "politics/2016/may/19/eu-referendum-push-to-improve-voting-turnout-for-psychiatric-inpatients"
+}

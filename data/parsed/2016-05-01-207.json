@@ -1,0 +1,84 @@
+{
+  "apiUrl": "https://content.guardianapis.com/lifeandstyle/2016/may/01/how-drawing-focuses-the-mind",
+  "id": "2016-05-01-207",
+  "sectionId": "lifeandstyle",
+  "body": "The V&A has come under fire for banning sketching at its new exhibition of underwear. The museum says it\u2019s to ease congestion as punters browse through 18th-century knickers and learn the history of the jockstrap . But as one Twitter user pointed out: \u2018Drawing is an essential mode of looking.\u2019 Sketching something close up and looking at it from afar are approached in quite different ways by the brain. When you see something familiar, the higher-order parts of the visual system quickly piece together information from the eyes to help you to understand what you\u2019re looking at, whether it\u2019s a\u00a0whalebone corset or a\u00a0designer lingerie set. However, it\u2019s easy to miss details this way, because the brain is already satisfied that it\u00a0knows what it has seen, and\u00a0so\u00a0doesn\u2019t look any closer to find out. When you draw something, you have to concentrate more closely on the lines, shapes and angles that form the basis of the visual system. In fact it\u2019s easier to draw something accurately when it\u2019s upside down, as the brain is less distracted by trying to figure out the entire object. Or by the frilly pants themselves. Dr Daniel Glaser is director of Science Gallery at King\u2019s College London",
+  "webTitle": "How drawing focuses the mind | Daniel Glaser",
+  "webPublicationDate": "2016-05-01T04:59:45Z",
+  "webUrl": "https://www.theguardian.com/lifeandstyle/2016/may/01/how-drawing-focuses-the-mind",
+  "keyword": [
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Drawing",
+      "id": "artanddesign/drawing",
+      "sectionId": "artanddesign",
+      "sectionName": "Art and design"
+    },
+    {
+      "webTitle": "Neuroscience",
+      "id": "science/neuroscience",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "V&A",
+      "id": "artanddesign/v-and-a",
+      "sectionId": "artanddesign",
+      "sectionName": "Art and design"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Art",
+      "id": "artanddesign/art",
+      "sectionId": "artanddesign",
+      "sectionName": "Art and design"
+    },
+    {
+      "webTitle": "Museums",
+      "id": "culture/museums",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Art and design",
+      "id": "artanddesign/artanddesign",
+      "sectionId": "artanddesign",
+      "sectionName": "Art and design"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Daniel Glaser",
+      "id": "profile/daniel-glaser"
+    }
+  ],
+  "guardianId": "lifeandstyle/2016/may/01/how-drawing-focuses-the-mind"
+}

@@ -1,0 +1,52 @@
+{
+  "apiUrl": "https://content.guardianapis.com/society/2016/may/12/number-of-suicides-in-england-and-wales-last-year-reaches-20-year-high",
+  "id": "2016-05-12-9",
+  "sectionId": "society",
+  "body": "The number of women who killed themselves rose sharply last year as the total number of suicides for England and Wales reached a 20-year high. There were 3,899 rulings of suicide in coroners\u2019 courts in 2015, according to figures released on Thursday by the Ministry of Justice \u2013 more than for any 12-month period since 1995, when the data series began.  While the number of men found to have killed themselves fell to 2,997, 23 fewer than in 2014, the number of women increased by 70 to 902. The fewest suicides were in 2007, when 3,007 such verdicts were recorded, and the number has risen consistently since then.   Suicide rates graphic   There were sharp increases in the number of suicides recorded for both men and women in 2008, when the financial crisis struck, compared with the previous year. The total for men was 3,305, compared with 2,348 in 2007, and 745 for women in 2008 compared with 659 in 2007. The proportion of inquest conclusions recorded as suicide fell to 11% last year after peaking in 1995 at 18%. Males are more likely to die in circumstances that lead to an inquest, according to the Ministry of Justice. Male deaths accounted for 60% of conclusions last year, but only 54% of deaths.  Meanwhile, Prince William has urged men to \u201cstop feeling so strong\u201d and openly talk about their issues \u201cbefore it\u2019s too late\u201d, as he attended the launch of an emergency services and transport industry coalition on preventing male suicide. At a meeting on Thursday with representatives from charity Campaign Against Living Miserably (Calm), emergency services, transport and police, William also spoke about his experience dealing with suicide while working as an air ambulance pilot. \u201cMy first job was actually at a suicide. I realised then, really starkly, how big a problem we have in this country and globally,\u201d he said. \u201cMy plea really is to get more men talking about their issues before it\u2019s too late and to stop feeling so strong and unable to seek help, because it can destroy families, it can destroy lives.\u201d According to the charity, suicide is the biggest single killer of men under the age of 45 in the UK. The true number could be even higher than the official statistics suggest, because some men die in incidents such as single-vehicle car crashes that are not recorded as suicides.  In the UK, the Samaritans can be contacted on 116 123. In the US, the National Suicide Prevention Hotline is 1-800-273-8255. In Australia, the crisis support service Lifeline is on 13 11 14. Hotlines in other countries can be found here",
+  "webTitle": "Number of suicides in England and Wales reaches 20-year high",
+  "webPublicationDate": "2016-05-12T22:44:59Z",
+  "webUrl": "https://www.theguardian.com/society/2016/may/12/number-of-suicides-in-england-and-wales-last-year-reaches-20-year-high",
+  "keyword": [
+    {
+      "webTitle": "Suicide rates",
+      "id": "society/suicide-rates",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Mental health",
+      "id": "society/mental-health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Damien Gayle",
+      "id": "profile/damien-gayle"
+    },
+    {
+      "webTitle": "Chris Johnston",
+      "id": "profile/chris-johnston"
+    }
+  ],
+  "guardianId": "society/2016/may/12/number-of-suicides-in-england-and-wales-last-year-reaches-20-year-high"
+}

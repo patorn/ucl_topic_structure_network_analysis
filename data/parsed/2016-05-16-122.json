@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/16/oil-prices-rise-by-25-to-highest-level-since-november",
+  "id": "2016-05-16-122",
+  "sectionId": "business",
+  "body": "Oil prices rose more than 2% to their highest since last November after the interruption to supplies from Nigeria and a forecast from Goldman Sachs that a dramatic cut in stockpiles would maintain prices at about $50 (\u00a335) for the rest of the year. Brent crude futures were up $1.23, or 2.5%, to trade at $49.05 a barrel at lunchtime in London on Monday, as investors bet that the ultra-low prices seen over the past two years were over.  The closure of a processing plant in Nigeria was the latest problem to hit the global supply of oil. Last week\u2019s wildfires around the Canadian city of Fort McMurray, disrupting the region\u2019s oil sand production, has been cited as another factor bolstering prices. Shale oil firms in the US have also cut back output to counteract the low prices that have made it uneconomic to continue drilling. Last year, oil production was booming and demand remained subdued in response to the faltering global economy. The cost of Brent crude slumped to $27 a barrel in January as oil firms were forced to increase their stocks to record levels.   Related: Moody's downgrades Saudi Arabia credit rating over oil price slump    The disruptions to supply triggered a U-turn in the outlook for the oil market from Goldman Sachs, which has previously warned of global storage hitting capacity and of another oil price crash to as low as $20 a barrel. \u201cThe oil market has gone from nearing storage saturation to being in deficit much earlier than we expected,\u201d Goldman said. \u201cThe market likely shifted into deficit in May ... driven by sustained strong demand and sharply declining production.\u201d However, like most oil analysts, Goldman cautioned that the market would flip back into a surplus in the first half of 2017 as the higher price of crude oil made it profitable for shale operators to restart operations. The US investment bank said prices of approximately $50 per barrel in the second half of 2016 would encourage exploration and production activity in many parts of the world to pick up again. Nigeria\u2019s oil businesses have come under attack from environmentalists concerned that exploration and drilling in the Niger delta is spoiling the countryside and poisoning animals and local communities.   oil price graph   The latest disruption to an Exxon Mobil plant meant that Nigeria has seen three facilities that produce 700,000 barrels a day suffering supply problems, pushing its output down to a 20-year low. In the US, crude production has dropped to 8.8m barrels a day, 8.4% below its 2015 peak as the sector suffers a wave of bankruptcies. And in China, output fell 5.6% to 4m barrels a day in April from a year earlier.  Several members of the Organization of the Petroleum Exporting Countries (Opec) have sought to counter this effect in a race for market share. Opec pumped 32.44m barrels a day in April, up 188,000 from March, the highest since at least 2008. \u201cThe inventory buffer may be preventing full price recovery and \u2026 the market is rightly nervous about the sustainability of outages,\u201d said Morgan Stanley.  Barclays said: \u201cWhile the supply-side disruptions are supporting oil market balances, refinery margins are starting to weaken, especially in Asia.\u201d It said weaker demand from those refiners could produce downside risk to prices in the third quarter. In a sign the oil price rally might be losing steam, Reuters said data showed that speculators cut their holdings of Brent futures for a second week running, reducing their exposure by a total of 15% from record highs.",
+  "webTitle": "Oil prices rise by 2.5% to highest level since November",
+  "webPublicationDate": "2016-05-16T15:57:01Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/16/oil-prices-rise-by-25-to-highest-level-since-november",
+  "keyword": [
+    {
+      "webTitle": "Oil",
+      "id": "business/oil",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Opec",
+      "id": "business/opec",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Commodities",
+      "id": "business/commodities",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Goldman Sachs",
+      "id": "business/goldmansachs",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Phillip Inman",
+      "id": "profile/phillipinman"
+    }
+  ],
+  "guardianId": "business/2016/may/16/oil-prices-rise-by-25-to-highest-level-since-november"
+}

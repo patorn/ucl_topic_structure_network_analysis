@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/05/qa-everything-you-need-to-know-about-air-pollution",
+  "id": "2016-05-05-142",
+  "sectionId": "environment",
+  "body": "What is causing today\u2019s air pollution? Stagnant air from continental Europe, which has picked up pollution from industry and agriculture, is being blown over the UK from the south-east. This air combines with pollutants already present in the air from UK sources, such as nitrogen oxides and particulates from diesel vehicle engines, to produce air pollution.  This is resulting in \u201cmoderate\u201d levels of pollutants known as PM10 and PM2.5, which are tiny particulates that can lodge in the lungs and cause breathing difficulties in vulnerable people. Ozone, which also causes breathing difficulties, is also present at elevated levels. As the wind is blowing these pollutants inland, \u201cmoderate\u201d levels of pollution are likely to occur not just in their usual locations, close to busy roads, but also far beyond, according to a warning from King\u2019s College London. What should people do? Vulnerable people \u2013 including those with existing respiratory conditions, children, older people and people with other health problems, such as heart disease \u2013 should take care, and avoid strenuous exercise outdoors if they experience breathing difficulties. How can people avoid it? As the pollution is so widespread, it is difficult to avoid. Staying indoors can help, as can cutting out car journeys and paying attention to your body. If you feel short of breath, or develop a cough, sore throat or irritated eyes, then cut out strenuous physical activity and rest inside. How long is it going to last? The official forecast is for moderate pollution to hang over large parts of England, Wales, Scotland, Northern Ireland and Ireland until Monday. The worst day is expected to be Sunday, when people are likely to head outdoors due to the balmy weather. Sunday will see high levels of pollution in some parts of the country.   Air pollution map   Shouldn\u2019t the government be doing something? Air pollution is an increasingly high profile problem in the UK, despite the government\u2019s obligations to cut pollution to safe levels, agreed under EU rules. These rules have been flouted for years, to the point where earlier this year the number of high pollution days allowed under the regulations was used up in just a week in some parts of London. The government faces fines from the EU and legal challenges in the courts over its failures. In other cities \u2013 such as Paris, Athens and Milan \u2013 the local authorities have moved on days of high pollution to curb the use of cars in city centres and surrounding areas. But the government and City Hall, both Tory-led, have refused to do so. So what is the government doing about it? The government says it has a plan to cut pollution to legal levels by 2025. This is five years too late according to the rules it has signed up to, and a new legal challenge is going ahead in an attempt to force a rethink. London\u2019s mayoral candidates have also promised solutions, such as low-emissions zones, more cycling routes and changes to public transport to bring in cleaner vehicles. What are the effects of air pollution? Shortness of breath, streaming eyes, coughing and respiratory difficulties are common in the first instance. Longer term, permanent lung damage can develop, along with heart problems and ultimately a shortened lifespan. In children exposed to poor air, lungs may never develop properly, which is incurable. Why weren\u2019t we warned? The Department for Environment, Food and Rural Affairs (Defra), which has responsibility for air quality, tweeted this morning that pollution levels were \u201clow\u201d across the country. People concerned about air pollution might be better advised to look at sites such as that run by King\u2019s College London, londonair.org.uk. How common is this kind of pollution in the UK? Air pollution was recently described as a \u201cpublic health emergency\u201d by MPs, who called for new measures such as a scheme to encourage people to scrap their diesel cars, a leading cause of the pollution. Defra refused to say how often incidents like this happen. A spokeswoman would only say it was \u201ccommon\u201d in the spring, because of weather conditions. As the air warms up and photochemicals are activated by sunshine, pollution worsens. However, air quality is now so poor that there are routinely episodes in the winter as well. Is this the worst pollution episode? The \u201cSaharan dust\u201d that blew in two years ago was worse in terms of severity. However, the increasing incidence of air pollution means that people across the country, but particularly in urban areas and in London above all, are now subject on a routine basis to much higher levels of air pollution than are deemed safe by scientists. More than 9,000 people a year are thought to die prematurely in London alone as a result, and as many as 50,000 a year nationally. Equally bad is that children who grow up in polluted air suffer as a result throughout their lives, even if they move away from polluted areas in later life.",
+  "webTitle": "Q&A: Everything you need to know about air pollution",
+  "webPublicationDate": "2016-05-05T15:07:04Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/05/qa-everything-you-need-to-know-about-air-pollution",
+  "keyword": [
+    {
+      "webTitle": "Pollution",
+      "id": "environment/pollution",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "London",
+      "id": "uk/london",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Fiona Harvey",
+      "id": "profile/fiona-harvey"
+    }
+  ],
+  "guardianId": "environment/2016/may/05/qa-everything-you-need-to-know-about-air-pollution"
+}

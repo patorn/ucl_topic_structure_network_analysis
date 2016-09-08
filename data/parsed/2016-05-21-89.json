@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/davehillblog/2016/may/21/museum-of-london-smithfield-silvertown-and-suits",
+  "id": "2016-05-21-89",
+  "sectionId": "uk-news",
+  "body": "News that the Museum of London plans to move from its half-hidden elevated home among the bewildering walkways of London Wall to the presently derelict parts of Smithfield market lately saved from demolition serves as a reminder of what a treasure it is. Its director, Sharon Ament, says her job is to make it \u201cthe best museum in the world\u201d and looks forward to being able to put many more of its 6m objects on display. But that might not happen for five years and there\u2019s plenty for visitors to enjoy in the meantime. The museum also produces videos. One of these documents the explosion of a first world war munitions factory in Silvertown nearly a century ago, in January 1917. The accident killed 73 people and remains, in the words of curator Georgina Young, \u201cthe largest single explosion that London has ever seen\u201d. The flames were visible from Norwich.         Silvertown explosion. Video: Museum of London.    On a happier theme, the museum documents London\u2019s role in the history of gentlemen\u2019s attire. They\u2019ve even designed a Museum of London Tweed, as fitted to the frame of Tinie Tempah by Norton and Sons of Savile Row.         Tinie Tempah in bespoke tweed. Video: Museum of London.    And, as you\u2019d expect, the museum has lately filmed a History of Smithfield in anticipation of its move to a new home. Here is part one:         History of Smithfield part one. Video: Museum of London.    See also part two and part three. Good luck with that move.",
+  "webTitle": "Museum of London: Smithfield, Silvertown and suits",
+  "webPublicationDate": "2016-05-21T14:04:05Z",
+  "webUrl": "https://www.theguardian.com/uk-news/davehillblog/2016/may/21/museum-of-london-smithfield-silvertown-and-suits",
+  "keyword": [
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Museums",
+      "id": "culture/museums",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Museums",
+      "id": "education/museums",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Education",
+      "id": "education/education",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "London",
+      "id": "uk/london",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Fashion",
+      "id": "fashion/fashion",
+      "sectionId": "fashion",
+      "sectionName": "Fashion"
+    },
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Dave Hill",
+      "id": "profile/davehill"
+    }
+  ],
+  "guardianId": "uk-news/davehillblog/2016/may/21/museum-of-london-smithfield-silvertown-and-suits"
+}

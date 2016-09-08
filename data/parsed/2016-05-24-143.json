@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/24/national-lottery-sales-record-camelot-lotto-euromillions",
+  "id": "2016-05-24-143",
+  "sectionId": "uk-news",
+  "body": "National lottery sales hit a record \u00a37.6bn last year as players bought tickets using smartphones and a revamp in prizes revived interest in its main Lotto game. Sales increased by \u00a3317m, or 4%, in the year to the end of March, said Camelot, which runs the lottery. A record \u00a34.2bn was paid out to customers, while good causes such as charities, art projects and Olympic athletes received \u00a31.9bn in funding. The remainder goes on running costs, retailer commissions and taxes. Camelot changed the prizes for its main Lotto game in October, guaranteeing to pay out \u00a31m to someone each week while increasing potential jackpot prizes. A record \u00a335.1m jackpot was claimed by an anonymous ticketholder last month. More than 100 Lotto players became millionaires in the six months following the changes, more than double the number in the first half of the year. However, statisticians have calculated that although the prizes are bigger, the new rules make it harder to win the jackpot. Sales at newsagents and other retailers rose \u00a373m last year to a record \u00a36.01bn. Those sales, which include Lotto, Euromillions and scratchcards, make up about 80% of Camelot\u2019s revenues. Digital sales on tablets and smartphones rose 53% to \u00a3596m. Camelot said more than \u00a335bn had been raised for good causes since it started running the lottery from its launch in 1994. The company takes about 1% of revenues as profit, meaning it is likely to make about \u00a375m after tax for last year. Camelot is halfway through its 14-year licence to operate the lottery and chief executive Andy Duncan said that although the company was likely to bid again he said he wanted the government to clear up the status of competitors such as the Health Lottery and People\u2019s Postcode Lottery. He claimed that the two games compete with Camelot across the UK which goes against the intentions of the 1993 national lottery act.  The Health Lottery, owned by Richard Desmond, donates 20% of sales to health causes, compared with 28% going to good causes from the National Lottery. The People\u2019s Postcode Lottery, run by Novamedia of the Netherlands, said at least 27.5% of its ticket prices go to charities. \u201cWe have got concerns about competition,\u201d Duncan said. \u201cThe intention was to have one national lottery to maximise returns to society.\u201d He said players of the other two lotteries did not have enough information about where the money went compared with the national lottery and that they spent large amounts on marketing.  Duncan said: \u201cIt is being looked at by the department for culture, media and sport and the Gambling Commission \u2026 We think it\u2019s an important issue that needs to be sorted out sooner rather than later.\u201d",
+  "webTitle": "National lottery sales hit record \u00a37.6bn",
+  "webPublicationDate": "2016-05-24T13:49:44Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/24/national-lottery-sales-record-camelot-lotto-euromillions",
+  "keyword": [
+    {
+      "webTitle": "National Lottery",
+      "id": "uk/lottery",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Gambling",
+      "id": "society/gambling",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Sean Farrell",
+      "id": "profile/sean-farrell"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/24/national-lottery-sales-record-camelot-lotto-euromillions"
+}

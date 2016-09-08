@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/10/ozzy-osbourne-marriage-end-sober-drugs",
+  "id": "2016-05-10-272",
+  "sectionId": "music",
+  "body": "Ozzy Osbourne has denied allegations that a relapse into drug and alcohol abuse was the cause of his split with wife Sharon Osbourne.  Talking to E! News, the Black Sabbath singer said: \u201cI have been sober for three and a quarter years. I have not touched drugs or alcohol in that time. Any reports that I am not sober are completely inaccurate.\u201d The statement followed news that Osbourne had moved out of the family home after 34 years of marriage to Sharon. He is believed to be staying with an unnamed family member.   Related: Sharon Osbourne on politics, literature - and life with Ozzy    Back in 2013, Osbourne did relapse back into drug and alcohol abuse before entering an AA rehabilitation programme. He claims to have remained sober ever since.  Osbourne has been married to Sharon since 1982, and credits her with saving him from addiction in the 1980s.  Black Sabbath are set to begin a European tour in June.",
+  "webTitle": "Ozzy Osbourne denies relapse caused split",
+  "webPublicationDate": "2016-05-10T08:41:11Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/10/ozzy-osbourne-marriage-end-sober-drugs",
+  "keyword": [
+    {
+      "webTitle": "Ozzy Osbourne",
+      "id": "music/ozzyosbourne",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Black Sabbath",
+      "id": "music/blacksabbath",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Sharon Osbourne",
+      "id": "tv-and-radio/sharon-osbourne",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian music",
+      "id": "profile/guardianmusic"
+    }
+  ],
+  "guardianId": "music/2016/may/10/ozzy-osbourne-marriage-end-sober-drugs"
+}

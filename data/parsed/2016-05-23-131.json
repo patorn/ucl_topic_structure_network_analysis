@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/teacher-network/2016/may/23/how-to-teach-statistics",
+  "id": "2016-05-23-131",
+  "sectionId": "teacher-network",
+  "body": "Statistics are everywhere \u2013 from Brexit to Britain\u2019s Got Talent. The way these numbers are presented \u2013 or manipulated \u2013 shape our understanding of the world. Just this month, a misleading representation of data on local elections caused a furore after being shared widely on Facebook. It\u2019s important to equip your students with the skills to understand and interrogate figures so they can work out what they really mean. Here are some ideas on how you can make statistics add up in your classroom: Primary Younger pupils need to master the basics before thinking about representations of numbers. This simple worksheet from PrimaryLeap uses a \u201cstem and leaf\u201d approach to breaking numbers down. The first digit (or digits) is the stem, and the other is the leaf. So in 45, for example, the stem is 4 and the leaf is 5. The resource introduces the concept, then asks pupils to complete a series of activities to show their understanding of how it works.    Related: How to teach ... graphs and data handling    The basis of statistics is percentages so it\u2019s crucial your class understands what these are and how they are calculated. This student-friendly resource from Teaching Packs uses a group of penguins to explain how percentages work, before consolidating knowledge with a series of colourful images \u2013 such as a sky filled with balloons and a series of building blocks \u2013 with a test at the end. Once your class has got the hang of the numbers, they can start gathering their own data to create statistics. This fun activity from Teachit Primary asks students to undertake a survey of their classmates, looking at characteristics such as eye and hair colour, and siblings. They can then create questions for a new survey and use the results to track trends in the group. For a real-world application of statistical analysis, try this colourful poster from ActionAid. It explores the number of people in the world who go hungry each day due to poverty \u2013 estimated to be in one in six \u2013 and looks at the shocking levels of food waste. And for a look at how statistics can be used to add power to an argument, try this lesson based on Guardian articles. It teaches students how to craft a piece of persuasive writing with a punch by presenting numbers to back up their case, and a final task challenges them to write an article to stop the demolition of the school to build a new road. Secondary Statistics don\u2019t have to be dull \u2013 in fact, they can take students to other galaxies, as this resource from the Royal Greenwich Observatory proves. It asks students to look at the shapes and colours of different galaxies to work out their distribution in the universe, while exploring the key concepts of appropriate sample sizes and overcoming personal bias. For a more down-to-earth exploration of how statistics can be used, try this resource about crime maps. It introduces the online data that is stored about crime across the country and gets students to summarise the results for their area in a short article. Using these skills, they can then create their own version of crime maps using statistics about littering in the school. Sticking with issues of public interest, this fact sheet from anti-smoking charity Action on Smoking and Health details the national trends in the harmful habit from 1974 to 2012. It breaks the data down by age, gender and profession \u2013 so you could get your class to create visual representations of changes for each group, or use the figures to analyse the effectiveness of moves to reduce smoking in society.    Related: How to teach\u2026 fractions    Give older students an in-depth guide to presenting statistics with this lesson. It focuses on how to classify and tabulate data, and understand variables, before teaching students how to turn data sets into histograms, frequency polygons and stem and leaf diagrams. And finally, for a word of caution about analysis, try this Ted talk on how statistics can be misleading. It explores Simpson\u2019s paradox, in which a trend appears in two sets of data, but disappears when both are combined. Presenter Mark Liddell explores real-life examples of misinterpretation as a result of this, including the UK study that appeared to show smokers living longer than non-smokers, and an analysis of the death penalty in the US, which missed the racial bias in sentencing. Follow us on Twitter via @GuardianTeach. Join the Guardian Teacher Network for lesson resources, comment and job opportunities, direct to your inbox.",
+  "webTitle": "How to teach ... statistics",
+  "webPublicationDate": "2016-05-23T15:00:16Z",
+  "webUrl": "https://www.theguardian.com/teacher-network/2016/may/23/how-to-teach-statistics",
+  "keyword": [
+    {
+      "webTitle": "Teacher Network",
+      "id": "teacher-network/teacher-network",
+      "sectionId": "teacher-network",
+      "sectionName": "Teacher Network"
+    },
+    {
+      "webTitle": "Education",
+      "id": "education/education",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Mathematics",
+      "id": "education/mathematics",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Schools",
+      "id": "education/schools",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Primary schools",
+      "id": "education/primary-schools",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Teaching tips",
+      "id": "teacher-network/teaching-tips",
+      "sectionId": "teacher-network",
+      "sectionName": "Teacher Network"
+    },
+    {
+      "webTitle": "Secondary schools",
+      "id": "education/secondary-schools",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Teaching",
+      "id": "education/teaching",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Numeracy",
+      "id": "education/numeracy",
+      "sectionId": "education",
+      "sectionName": "Education"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Zofia Niemtus",
+      "id": "profile/zofia-niemtus"
+    }
+  ],
+  "guardianId": "teacher-network/2016/may/23/how-to-teach-statistics"
+}

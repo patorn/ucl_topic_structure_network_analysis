@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/22/the-innovators-the-laser-that-can-spot-bacteria-in-food",
+  "id": "2016-05-22-70",
+  "sectionId": "business",
+  "body": "In a highly critical report last month, the British government came under fire for what the Centre for Crime and Justice Studies said was a failure to tackle the problem of food poisoning, which results in 20,000 people being hospitalised and 500 deaths every year. The thinktank blamed the worsening situation on a substantial fall in the number of food standards and environmental inspections between 2004 and 2013. The lack of inspections resulted in a cut in prosecutions, the thinktank said, and allowed sloppy procedures in the food industry to go unchecked.  Now scientists in South Korea have developed a laser that can spot the presence of bacteria on the surface of food. The device could be used as an early warning system for consumers in the home and in restaurants, takeaways and grocery shops. The researchers from the Korea Advanced Institute of Science and Technology (KAIST) envisage that their laser could eventually be used in a dongle attached to a mobile phone so that when people are shopping, they will be able to scan a piece of meat to see if harmful bacteria are present. Prof Paul Park, the principle investigator on the project, said the unit could also be installed as part of a \u201csmart\u201d fridge that would notify users when their food was dangerous to eat, or on the production line in a factory when meat was being processed. The laser works by recognising the movement of bacteria across the surface of food. It is cheap and can, in theory at least, be retrofitted to equipment. Since the laser can read through packaging and works on cooked and uncooked food, its use could be relatively widespread.  When the red laser beam hits the food, the reaction of the light to the surface \u2013 the scatter pattern \u2013 can be read. If bacteria are present, this affects the reaction of the light and produces a different scatter pattern as they move around. A camera that takes images at a rate of 30 times a second is used to spot the differences.     E coli bacteria. Photograph: Reuters    This means the laser can recognise when harmful bacteria are present, and warn the user of the phone, fridge or any other device in which it is housed. \u201cYou can install this technique into your refrigerator because it can use very tiny laser diodes and image sensors which can be found in your smartphone, and those are the only two important parts that you have to consider putting in,\u201d said Park, who specialises in diagnosing disease using lasers. So far, the technology has been able to detect the presence of Bacillus cereus and E coli. Bacillus cereus is a bacteria which causes food poisoning resulting in diarrhoea, nausea and vomiting. Feed infected with Bacillus cereus caused the death of three babies in 2014. Last November, the Chipotle chain temporarily shut 43 of its locations in the United States after an E coli outbreak. The tests carried out by the Korean scientists started on chicken breasts, which were infected and then examined using the laser and camera apparatus. While the laser can detect the presence of both of the types of bacteria, it cannot distinguish between them in the early tests. Because the equipment involved is relatively simple, it leaves a wide scope for how it can be used, Park said. This could extend from an attachable dongle for a smartphone, which could be pointed at food by a shopper in a supermarket, to one on a production line that scans food as it goes past. \u201cWe can simply implement this technology into [the] smartphone. You only need the small laser diodes which means that when you go to the restaurant and you order the food and you are not sure this is safe, you can just tap. You can go to the grocery market and see the chickens and other food and you can [test] by yourself.\u201d Park and his colleagues now aim to commercialise the technology and have suggested that it could be part of a \u201csmart\u201d fridge within the next two years. A prototype device is currently being developed, which will then be put through trials. \u201cI hope that within two years, we will see the smart refrigerator with this feature,\u201d he said. \u2022 You can read our archive of The innovators columns on the Big Innovation Centre website where you will find more information on how the Big Innovation Centre supports innovative enterprise in Britain and globally.",
+  "webTitle": "The laser that can spot dangerous bacteria in food",
+  "webPublicationDate": "2016-05-22T15:44:46Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/22/the-innovators-the-laser-that-can-spot-bacteria-in-food",
+  "keyword": [
+    {
+      "webTitle": "Entrepreneurs",
+      "id": "business/entrepreneurs",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Food safety",
+      "id": "world/food-safety",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Food & drink industry",
+      "id": "business/fooddrinks",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "E coli",
+      "id": "world/e-coli",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Shane Hickey",
+      "id": "profile/shane-hickey"
+    }
+  ],
+  "guardianId": "business/2016/may/22/the-innovators-the-laser-that-can-spot-bacteria-in-food"
+}

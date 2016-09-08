@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/books/2016/may/08/restoration-year-great-fire-alexander-larman-review",
+  "id": "2016-05-08-193",
+  "sectionId": "books",
+  "body": "Alexander Larman says in his introduction to Restoration: The Year of the Great Fire that his first book, a biography of John Wilmot, Earl of Rochester, left him with a sense of unfinished business, that there was more to explore than merely the life of the scandalous Restoration poet. He expands on Wilmot\u2019s world in this chronicle of 1666, a breezy account of an England in which (in addition to London going up in flames) Isaac Newton sees an apple fall from a tree, Eyam in Derbyshire becomes the famous quarantined plague village and Charles II is a \u201csuave and all-welcoming figurehead\u201d. Divided into readable chapters on \u201cKing and Court\u201d, \u201cScience and Superstition\u201d, \u201cGoing Out\u201d and so on, Restoration \u2013 at just over 250 pages \u2013 perhaps lacks the depth that the period requires: Claire Tomalin\u2019s Pepys biography The Unequalled Self is still the definitive account of the time. But this is an accessible snapshot of Restoration England, which manages to give labourers and royalty equal billing. Restoration is published by Head of Zeus (\u00a320). Click here to order it for \u00a316",
+  "webTitle": "Restoration: The Year of the Great Fire by Alexander Larman \u2013 review",
+  "webPublicationDate": "2016-05-08T06:00:15Z",
+  "webUrl": "https://www.theguardian.com/books/2016/may/08/restoration-year-great-fire-alexander-larman-review",
+  "keyword": [
+    {
+      "webTitle": "History",
+      "id": "books/history",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Books",
+      "id": "books/books",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Isaac Newton",
+      "id": "science/isaac-newton",
+      "sectionId": "science",
+      "sectionName": "Science"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ben East",
+      "id": "profile/ben-east"
+    }
+  ],
+  "guardianId": "books/2016/may/08/restoration-year-great-fire-alexander-larman-review"
+}

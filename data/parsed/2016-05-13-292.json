@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/science/2016/may/12/scalp-bacteria-could-be-key-to-keeping-dandruff-flakes-at-bay-propionibacterium",
+  "id": "2016-05-13-292",
+  "sectionId": "science",
+  "body": "The next time dandruff dots your shoulders, you might want to reach for yogurt, not shampoo. The latest study into scaly scalps has found that nurturing particular bacteria on the skin could keep the white flakes at bay. Researchers in Shanghai took on the dandruff problem with an unprecedented investigation into flaky scalps and the ecosystem of microbes that set up home on the human head, feeding on the lavish menu of dead skin and oily secretions called sebum. Menghui Zhang at Shanghai Jiao Tong University invited 59 people aged 18 to 60 years old into the lab and gathered dandruff from eight different areas on their heads. All had washed their hair two days before turning up at the centre. Zhang separated the volunteers into \u201chealthy\u201d and dandruff groups, depending on the amount of visible skin flakes in their hair. He then looked to see how the populations of scalp bacteria and fungi differed between the two groups, and with individual\u2019s sex, age and physiology. The researchers found that sebum secretions rose through the teenage years, peaked at 15 to 35 years old, and then declined as people got older. Meanwhile, dandruff became worse as people aged, with the over 40s having more severe dandruff than the younger participants. Writing in the journal Scientific Reports, the authors note: \u201cSebum is an important food source for the growth of fungi and bacteria.\u201d   Related: Bald truth: hair loss down to genes controlling follicle creation, study finds    In previous work, scientists had identified a group of fungi called Malassezia as potential culprits in causing dandruff. The yeast eat fatty substances in sebum and produce oleic acid, which irritates the skin and may cause the scalp to flake. But in the latest study, Zhang found Malassezia fungi on the heads of people without dandruff, suggesting flaky skin might be made in other ways. He found that instead of fungi, the most important factor seemed to be bacteria. The two most common bacteria living on the scalp were Propionibacterium and Staphylococcus. In the \u201chealthy\u201d group with little or no dandruff, Propionibacterium made up 71% of the scalp bacteria, with Staphylococcus accounting for only 26%. But in the dandruff group, he noticed the populations had shifted dramatically, with Propionibacterium falling to 50%, and Staphylococcus rising to 44%. The two types of bugs can restrict each other\u2019s growth, and Zhang suspects that when Staphylococcus gets the upper hand, more dandruff is the result. Scalp sebum, he said, may be a particularly good food source for Propionibacterium, while moisture released from the skin helped the bugs grow. \u201cWe found that keeping the balance of the microenvironment is very important,\u201d Zhang said. All of which points to bug management as the new way of controlling dandruff. \u201cAdjusting the balance of the bacteria on the scalp, particularly by enhancing Propionibacterium and suppressing Staphylococcus, might be a potential solution to lessen dandruff,\u201d Zhang writes in the journal. How the community of scalp bugs can best be shaped to prevent dandruff is a question Zhang is now investigating, with a view to making better anti-dandruff shampoos. One approach could be to nurture Propionibacterium at the expense of Staphylococcus, by delivering nutrients to the scalp that benefit Propionibacterium more than its microbial rivals.  But another answer may lie in yogurts that contain Propionibacterium. In 2013, researchers in the US developed a yogurt laced with the bugs to help protect the skin from a hospital superbug, drug-resistant Staphylococcus aureus. Scalp yogurt may be next.",
+  "webTitle": "Dandruff? Soon you'll be reaching for the scalp yoghurt",
+  "webPublicationDate": "2016-05-13T07:19:34Z",
+  "webUrl": "https://www.theguardian.com/science/2016/may/12/scalp-bacteria-could-be-key-to-keeping-dandruff-flakes-at-bay-propionibacterium",
+  "keyword": [
+    {
+      "webTitle": "Microbiology",
+      "id": "science/microbiology",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Biology",
+      "id": "science/biology",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Men's hair",
+      "id": "fashion/mens-hair",
+      "sectionId": "fashion",
+      "sectionName": "Fashion"
+    },
+    {
+      "webTitle": "Women's hair",
+      "id": "fashion/womens-hair",
+      "sectionId": "fashion",
+      "sectionName": "Fashion"
+    },
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Medical research",
+      "id": "science/medical-research",
+      "sectionId": "science",
+      "sectionName": "Science"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ian Sample",
+      "id": "profile/iansample"
+    }
+  ],
+  "guardianId": "science/2016/may/12/scalp-bacteria-could-be-key-to-keeping-dandruff-flakes-at-bay-propionibacterium"
+}

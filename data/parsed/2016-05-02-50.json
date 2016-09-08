@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/02/food-producers-congress-lobbying-foia-united-egg-producers",
+  "id": "2016-05-02-50",
+  "sectionId": "business",
+  "body": "Some of the largest food producers in the US have successfully petitioned Congress to propose a change to the Freedom of Information Act that would shield their communications with boards overseen by the US Department of Agriculture from the scrutiny of the public, the Guardian has learned.  The move follows a series of stories that showed the government-backed egg promoter, the American Egg Board, had attempted to stifle competition from Silicon Valley food startup Hampton Creek, in direct conflict with its mandate. Several agricultural lobbyists including United Egg Producers, the National Cattlemen\u2019s Beef Association and the National Pork Producers Council have now sent a letter to the congressional subcommittee overseeing appropriations for the Department of Agriculture (USDA) asking to be exempted from Foia requests to their own respective promotional boards. The letter to the subcommittee reads, in part:  We support inclusion of language in the Committee report urging the U.S. Department of Agriculture (USDA) to recognize that the research and promotion programs are funded solely with producer dollars, and therefore are not agencies of the Federal government or subject to the Freedom of Information Act (Foia).  The language added to the bill reads thusly:  The Committee notes that the commodity Research and Promotion boards that the agency oversees are not agencies of the federal government, nor are Research and Promotion programs funded with federal funds. The funding used to operate and carry out the activities of the various Research and Promotion programs is provided by producers and industry stakeholders, and employees of the boards are not federal employees. Therefore, the Committee urges USDA to recognize that such boards are not subject to the provisions of 5 U.S.C. Section 552.  The bill has not yet been passed. The government-backed food marketing groups are called \u201ccheckoff\u201dprograms, dedicated to promoting individual commodities and backed by a levy on farmers. Their most recognizable presence is in the form of marketing slogans such as \u201cThe incredible, edible egg\u201d or \u201cBeef. It\u2019s what\u2019s for dinner\u201d.   Related: US-appointed egg lobby paid food blogs and targeted chef to crush vegan startup    The administrators of checkoff programs are appointed by the USDA and the programs themselves are funded by a levy on goods sold. The supreme court has ruled that contributing to the programs is mandatory, and that the programs themselves constitute government speech. That decision was controversial \u2013 small producers have long argued that checkoffs exclusively serve the interests of the their largest competitors, and environmental and animal rights activists say checkoffs often obscure the cruelties of industrial farming. Last year the Guardian learned through a Freedom of Information Act request by attorney Jeffrey Light and Foia expert Ryan Shapiro that the USDA-backed American Egg Board (the egg industry checkoff) had advised Unilever on an ongoing lawsuit against Hampton Creek, a company that produces plant-based mayonnaise, and had agreed to attempt to use its influence to have Hampton Creek\u2019s Just Mayo removed from Whole Foods. Shapiro said the attempt to cast a shroud over shady dealings among checkoff groups came far too late. \u201cNow that some of their blatantly improper dealings have been exposed via Foia, instead of cleaning up their acts, these boards are attempting to exempt themselves from Foia altogether,\u201d Shapiro told the Guardian. \u201cBut as the already released documents demonstrate, these boards are sorely in need of greater transparency and must not be allowed to shroud their already opaque dealings with even more secrecy.\u201d The Foia expert also observed that no less a pro-business titan than the late Antonin Scalia would have disagreed with the producers\u2019 assessment of their own accountability. In a ruling slapping down a challenge to the checkoff programs\u2019 authority by a group of small farmers, Scalia wrote of the beef checkoff: \u201cThe program is authorized and the basic message prescribed by federal statute, and specific requirements for the promotions\u2019 content are imposed by federal regulations promulgated after notice and comment. The Secretary of Agriculture, a politically accountable official, oversees the program, appoints and dismisses the key personnel, and retains absolute veto power over the advertisements\u2019 content, right down to the wording.\u201d The proposed rule comes at an awkward time for its supporters: the US federal government is in the midst of a review across its entire breadth after a call for greater Foia responsiveness and accessibility. As recently as last week, a letter to US comptroller general Gene L Dodaro, signed by the leadership of both the house and senate judiciary committees, asked the Government Accountability Office to audit agencies for compliance.   Related: USDA scrambles to investigate egg lobby as CEO resigns    Josh Tetrick, CEO of Hampton Creek, said the proposed Foia exemption was an example of how far the food industry remains removed from everyday Americans. \u201cYou don\u2019t just wake up one morning with a food system that doesn\u2019t reflect our values,\u201d Tetrick said. \u201cIt happens over decades.\u201d Indeed, displeasure with the move appears to cross party lines. \u201cThis is crony capitalism organized by Washington at its worst,\u201d said Republican senator Mike Lee in an emailed statement. \u201cNot only is the federal government forcing market participants to collude, it is then actively engaging in a cover up of that collusion.\u201d  This article has been updated to clarify the nature of checkoff programs",
+  "webTitle": "Largest US food producers ask Congress to shield lobbying activities",
+  "webPublicationDate": "2016-05-02T18:38:38Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/02/food-producers-congress-lobbying-foia-united-egg-producers",
+  "keyword": [
+    {
+      "webTitle": "Food & drink industry",
+      "id": "business/fooddrinks",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Eggs",
+      "id": "lifeandstyle/eggs",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Agriculture",
+      "id": "science/agriculture",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Whole Foods",
+      "id": "business/whole-foods",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Food & drink",
+      "id": "lifeandstyle/food-and-drink",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Retail industry",
+      "id": "business/retail",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Sam Thielman",
+      "id": "profile/sam-thielman"
+    }
+  ],
+  "guardianId": "business/2016/may/02/food-producers-congress-lobbying-foia-united-egg-producers"
+}

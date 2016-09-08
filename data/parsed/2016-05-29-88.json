@@ -1,0 +1,49 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/29/jonathan-webber-obituary",
+  "id": "2016-05-29-88",
+  "sectionId": "uk-news",
+  "body": "My partner, Jonathan Webber, who has died of cancer aged 58, was director of international trade at Birmingham Chamber of Commerce, former chair of the West Midlands Liberal Democrats and a lifelong cricket fanatic. Born in Oxford, Jonathan was the eldest of the three children of Deirdre (nee Millward), a schoolteacher, and John, managing director of a plastics company. He attended Culford school in Bury St Edmunds, but left with no formal qualifications. After studying drama and setting up a small business as a bookseller, Jonathan worked as a bus conductor in Exeter. There he met a Greek student, Kleio \u2013 and later hitchhiked 1,500 miles to Athens to be with her. He spent the next 18 years in Greece, becoming fluent in Greek and working as a literary agent publishing Greek versions of bestselling Penguin novels. After moving to Thessaloniki, he was asked to run the UK government division of the British Hellenic Chamber of Commerce to help stimulate business links throughout the Balkans \u2013 and he also started the Thessaloniki Cricket Club. Jonathan returned to the UK in 1995. He joined the Department of Trade and Industry, helping to promote British exports and advising on trade with Greece and the Balkans, before joining the Birmingham Chamber of Commerce, where I met him, and where he became director of international trade in 2005. Jonathan led a series of EU-funded projects involving business development and institutional capacity building in Bangladesh, India, Nepal and Pakistan. He led 16 trade missions across the region, as well as hosting numerous business delegations from south-east Asia. On his last trip he accompanied the then deputy prime minister, Nick Clegg, on a trade mission to India. Jonathan amassed a large collection of books, which filled the bookcases at his home and spilled on to the floor. He was knowledgable about Scandinavian glass, owning many pieces, and was an authority on Byzantine history. He was appointed MBE for services to international trade and development in the Queen\u2019s birthday honours in 2011. In 2014 he was made a deputy lieutenant in the West Midlands and received the president\u2019s award from the Liberal Democrat party. Jonathan is survived by me, by Michael, Daniel and Rania, his three children with Kleio, and by George, his son from his second marriage, to Susan, and by his mother, his brother, Mathew, and his sister, Abbie.",
+  "webTitle": "Jonathan Webber obituary",
+  "webPublicationDate": "2016-05-29T13:48:26Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/29/jonathan-webber-obituary",
+  "keyword": [
+    {
+      "webTitle": "Birmingham",
+      "id": "uk/birmingham",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Liberal Democrats",
+      "id": "politics/liberaldemocrats",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Greece",
+      "id": "world/greece",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Publishing",
+      "id": "books/publishing",
+      "sectionId": "books",
+      "sectionName": "Books"
+    }
+  ],
+  "authors": [],
+  "guardianId": "uk-news/2016/may/29/jonathan-webber-obituary"
+}

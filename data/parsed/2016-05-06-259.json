@@ -1,0 +1,43 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/climate-consensus-97-per-cent/2016/may/06/deep-sea-microbes-may-be-key-to-oceans-climate-change-feedback",
+  "id": "2016-05-06-259",
+  "sectionId": "environment",
+  "body": "Microbes are hardly the poster-children of climate change, but they have far more impact than polar bears on Earth\u2019s carbon cycle \u2013 and therefore on our climate. A new study published Friday in Science Advances finds that seabed bacteria and archaea (which look like bacteria but have very different genetics and biochemistry) are sensitive to climate. Because their habitat covers 65% of the entire globe, they form a huge part of the biosphere and are important in the regulation of carbon in the deep ocean, which affects long-term climate change. The microbes in question are packed together in the top 15 centimeters of the deep ocean seabed, like rush hour commuters in a city metro, up to a million times more abundant than in the sunless ocean water, or buried in deeper layers of seabed sediments. Their city-like crowding is fueled by a sparse sordid snow of excrement and microscopic dead bodies from life in the upper ocean, far above them. The scientists, led by Professor Roberto Danovaro of Polytechnic University of Marche in Ancona, Italy, collected 228 samples from various locations in the North Atlantic and Mediterranean, from a range of ocean depths (400 to 5570 meters deep) and a wide variety of ocean bottom temperatures. They measured the microbe populations using two independent DNA profiling techniques: \u201ccatalyzed reporter deposition fluorescence in situ hybridization\u201d (thankfully abbreviated to \u201cCARD-FISH\u201d) and \u201cquantitative polymerase chain reaction\u201d (qPCR). They discovered that the seabed microbes thrive where water temperatures are cold, but their populations decline significantly as deep ocean waters warm. Professor Antonio Dell\u2019Anno, one of the paper\u2019s authors, told me:  That is also linked to the fact that warmer deep-sea ecosystems have a low input of organic carbon supplied from the surface waters.  In other words, their population is limited because their food is limited. Moreover, as the microbes warm so does their metabolic rate, requiring more food to survive, so the meagre food supports fewer individual microbes. The study also discovered that archaea make up a far larger proportion (11% to 31%) of the living matter in the ocean seabed than previously thought (less than 6%), and most of that population is made up of a temperature-sensitive group known as \u201cMarine Group I Thaumarchaeota.\u201d Professor David Archer of the University of Chicago calculated some years ago that there was an unexplained temperature-sensitive CO2 feedback that amplified the warm and cold cycles of the ice ages. He narrowed it down to the oceans, but it remains unsolved. I asked Professor Dell\u2019Anno if deep seabed archaea might be the answer, but It\u2019s too early to say:  We do not know yet how temperature shifts can influence the biological interactions within food webs. We cannot yet predict whether prokaryotes will exacerbate or attenuate the magnitude of climate change on marine ecosystems, but they are expected to be a key component that is able to influence the oceans\u2019 feedback on climate change.  To move closer to an answer, the team is now looking to incorporate their results into new climate models, but it may be years before we fully appreciate the global impact of these tiniest of creatures. Howard Lee is a geologist and science writer who focuses on past climate changes.",
+  "webTitle": "Deep sea microbes may be key to oceans\u2019 climate change feedback | Howard Lee",
+  "webPublicationDate": "2016-05-06T10:00:22Z",
+  "webUrl": "https://www.theguardian.com/environment/climate-consensus-97-per-cent/2016/may/06/deep-sea-microbes-may-be-key-to-oceans-climate-change-feedback",
+  "keyword": [
+    {
+      "webTitle": "Climate change",
+      "id": "environment/climate-change",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Oceans",
+      "id": "environment/oceans",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Climate change",
+      "id": "science/scienceofclimatechange",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    }
+  ],
+  "authors": [],
+  "guardianId": "environment/climate-consensus-97-per-cent/2016/may/06/deep-sea-microbes-may-be-key-to-oceans-climate-change-feedback"
+}

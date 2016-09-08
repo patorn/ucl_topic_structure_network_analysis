@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/fashion/2016/may/15/matte-nail-varnish-spring-catwalk",
+  "id": "2016-05-15-222",
+  "sectionId": "fashion",
+  "body": "Typically, this time of year calls for bright nails, pinks, jazzy fluorescents to complement the sprouting greens underfoot. But what fashion likes to do is screw with expectations a little bit. Hence these matte nudes, as seen at Alexander Wang. The key is the matte-ness, which dampens all hint of gloss and sunshine from the varnish, leaving the hands looking elegant but mannequin-like, and leaving you more than ready for another rained-off weekend. Get the look Mary Kay Pink Magnolia \u00a39, marykay.co.uk Orly Matte Topcoat \u00a311.20, lookfantastic.com Maybelline ColorShow Topcoat \u00a33.99, boots.com Deborah Lippmann Flat Top \u00a318, harveynichols.com Palette London Matte Topcoat \u00a312, palettelondon.com Nailberry Touche Velours \u00a317, nailberry.co.uk Essie Spin the Bottle \u00a35.99, superdrug.com Email Eva at e.wiseman@observer.co.uk or follow her on Twitter @EvaWiseman",
+  "webTitle": "Matte nails | Eva Wiseman",
+  "webPublicationDate": "2016-05-15T04:59:15Z",
+  "webUrl": "https://www.theguardian.com/fashion/2016/may/15/matte-nail-varnish-spring-catwalk",
+  "keyword": [
+    {
+      "webTitle": "Beauty",
+      "id": "fashion/beauty",
+      "sectionId": "fashion",
+      "sectionName": "Fashion"
+    },
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Fashion",
+      "id": "fashion/fashion",
+      "sectionId": "fashion",
+      "sectionName": "Fashion"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Eva Wiseman",
+      "id": "profile/evawiseman"
+    }
+  ],
+  "guardianId": "fashion/2016/may/15/matte-nail-varnish-spring-catwalk"
+}

@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/06/slender-man-horror-movie",
+  "id": "2016-05-06-274",
+  "sectionId": "film",
+  "body": "A movie based on the mythical online figure Slender Man is reportedly on the way. The meme, which originated in 2009, centres on a supernatural character who abducts and stalks others, especially children. According to the Hollywood Reporter, Sony division Screen Gems is set to produce the film, with the script by David Birke, whose credits include Paul Verhoeven\u2019s upcoming thriller Elle. The figure originated on website Something Awful as part of a Photoshop contest. Eric Knudsen submitted images of a man with long arms and featureless face, and the character spawned a mythology and various games as well as a low-budget film in 2013. TV shows such as Supernatural and Law and Order have also used the character as inspiration.   Related: Slender Man: the shadowy online figure blamed in grisly Wisconsin stabbing    In 2014, Slender Man also made headlines when the character was connected to a number of real life incidents. In Wisconsin, two 12-year-old girls stabbed a classmate to allegedly please the character, while later that year a 14-year-old girl set her house on fire, with her family inside, citing a similar motivation. News of a film follows rumours that the next series of American Horror Story will also focus on the character, while a HBO documentary called Beware the Slenderman recently premiered at SXSW.",
+  "webTitle": "Slender Man meme to become horror movie",
+  "webPublicationDate": "2016-05-06T09:30:30Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/06/slender-man-horror-movie",
+  "keyword": [
+    {
+      "webTitle": "Horror",
+      "id": "film/horror",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Benjamin Lee",
+      "id": "profile/benjamin-lee-film"
+    }
+  ],
+  "guardianId": "film/2016/may/06/slender-man-horror-movie"
+}

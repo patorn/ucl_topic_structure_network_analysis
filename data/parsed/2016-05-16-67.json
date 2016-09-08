@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/16/elon-musk-tesla-wages-apology",
+  "id": "2016-05-16-67",
+  "sectionId": "technology",
+  "body": "Tesla relied on cheap foreign labor to build a hi-tech paint shop in California, paying workers as little as $5 an hour, according to a damning report that prompted CEO Elon Musk to launch an investigation. The electric car company used roughly 140 workers from eastern Europe, primarily Slovenia and Croatia, to build a paint shop in Fremont in northern California as part of its production of the Model 3 sedan.  Workers hired by subcontractor Eisenmann, a German-based manufacturer, received hourly wages as low as $5, which is a fraction of the prevailing wages for local sheet metal workers \u2013 $52 an hour plus $42 an hour in benefits and pensions, according to a report by the Bay Area News Group. In response to the article, Musk tweeted, \u201cOnly heard about this today. Sounds like the wrong thing happened on many levels. Will investigate and make it right.\u201d   Related: Elon Musk planning SpaceX mission to Mars by 2018    In April, Tesla took in almost $10bn in pre-orders in just two days for its Model 3, which the company is marketing as its first attempt at an affordable electric car, scheduled for shipping next year.            Tesla Model 3 electric car unveiled by Elon Musk    The newspaper\u2019s report told the story of Gregor Lesnik, a Slovenian electrician who allegedly suffered multiple injuries on the job after falling three stories from a roof, causing him to bounce off scaffolding and land on the factory floor. He said he broke his legs and ribs, tore ligaments in his knees and suffered a concussion. Lesnik\u2019s visa said he would be supervising other workers, but did not cover the hands-on labor he carried out on the job. Lesnik\u2019s allegations are outlined in a lawsuit filed in Alameda county superior court, which names ISM Vuzem, a Slovenian company that recruited him.  According to the suit, Lesnik and other employees at the Tesla site worked seven days a week, mostly working 10-hour shifts. The workers, however, were only paid for 40 hours a week, and the company did not pay the required rate for overtime. Vuzem also withheld additional payment the firm promised to Lesnik upon completion of the job, the suit said. The suit, which seeks unspecified damages and penalties for Lesnik and other employees, said that after he was hospitalized from his fall, his employer tried to get him out of the US as quickly as possible. \u201cThey did so because of the multiple legal problems including \u2026 visas, housing, working conditions.\u201d Less than one week after the fall, his employer allegedly lied to doctors and said that Lesnik wanted to return to Slovenia and exclusively receive medical care there. At that time, Lesnik \u201ccould not safely leave the hospital without continuous ongoing medical care, and could not safely fly ... because the fractures in his legs create a very substantial risk of a pulmonary embolism which can be fatal,\u201d the suit said. At one point, a supervisor allegedly harassed Lesnik in his hospital room, telling him he couldn\u2019t have a lawyer represent him, that he needed to leave the hospital and that the company would not pay for rehabilitation. Lesnik\u2019s lawyers estimated that workers are owed $2.6m in wages.   Tesla and Eisenmann have sought to be removed from the litigation and won an initial effort to be excluded. But a judge has allowed Lesnik\u2019s amended complaint against the firms to proceed. Tesla issued a lengthy response to the article on Monday, saying: \u201cWe are taking action to address [Lesnik\u2019s] situation and to put in place additional oversight to ensure that our workplace rules are followed even by sub-subcontractors to prevent such a thing from happening again.\u201d The statement, however, repeatedly claimed that Tesla is not liable in court, saying the case \u201cis not a legal issue, it is a moral issue\u201d. The contractor is obligated to comply with laws, Tesla said. \u201cCreating a new car company is extremely difficult and fraught with risk, but we will never be a company that \u2026 allows, the wrong thing to happen just to save money.\u201d",
+  "webTitle": "Elon Musk apologizes for Tesla workers paid just $5 an hour by subcontractor",
+  "webPublicationDate": "2016-05-16T18:54:26Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/16/elon-musk-tesla-wages-apology",
+  "keyword": [
+    {
+      "webTitle": "Tesla",
+      "id": "technology/tesla",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Elon Musk",
+      "id": "technology/elon-musk",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Automotive industry",
+      "id": "business/automotive-industry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Sam Levin",
+      "id": "profile/sam-levin"
+    }
+  ],
+  "guardianId": "technology/2016/may/16/elon-musk-tesla-wages-apology"
+}

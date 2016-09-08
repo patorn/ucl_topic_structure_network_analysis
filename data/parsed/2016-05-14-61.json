@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/14/sadiq-khan-thames-garden-bridge-boris-johnson-mayor-london",
+  "id": "2016-05-14-61",
+  "sectionId": "politics",
+  "body": "The new London mayor, Sadiq Khan, is investigating his predecessor\u2019s conduct over the procurement process for London\u2019s planned \u00a3175m garden bridge. Khan, having completed his first week in office, has already begun scrutinising Boris Johnson\u2019s decisions relating to the controversial project, to which \u00a360m of public money has been allocated in circumstances previously criticised by parliamentary spending officials as unorthodox. An official report concluded that the process to select a designer for the bridge was unfair and that the office of the previous mayor was \u201cless than honest\u201d about his role in the process. A spokesman for Khan said: \u201cHe is only in his first days in the role but he is looking in more detail at some of the issues raised about the procurement.\u201d The new mayor\u2019s intervention could derail a project that has attracted considerable criticism. The proposed bridge has secured vast sums of public money despite being initially promoted as entirely private-funded. It has recently been bedevilled by accusations that its designer was selected before the actual tender process began. The oversight committee of the Greater London Authority (GLA) found that Johnson and his team met the successful bidder, the designer Thomas Heatherwick, five times to discuss the concept before the procurement process began. Last month official documents emerged revealing that the then mayor was \u201ckeen\u201d for Heatherwick\u2019s design to be selected before the supposedly open contest was held. Khan\u2019s comments coincide with fresh evidence of unease within Transport for London (TfL) over the project from the outset, with documents showing that its finance chief considered the bridge an extremely expensive proposal compared with other Thames crossings, such as the Millennium Bridge, which cost \u00a322m. Documents also show that as late as December 2012 \u2013 weeks before the official tender process began \u2013 senior TfL officials wondered why alternatives to the garden bridge had not been explored and whether the location on the South Bank was appropriate. It has also emerged that one of Johnson\u2019s last acts as mayor was to lower the fundraising threshold for the bridge in an apparent attempt to ensure the project went ahead. Despite previously insisting that the \u201cmaintenance costs will not be borne by the public sector\u201d, Johnson last year agreed that the GLA would act as guarantor of the bridge\u2019s upkeep if efforts to raise funds by the Garden Bridge Trust proved insufficient. This guarantee was to be subject to conditions such as the trust demonstrating it had \u201csecured a satisfactory level of funding to operate and maintain the garden bridge for at least the first five years from its completion\u201d. Yet after a move by Johnson just before he left office, the guarantee has now been lowered so that the trust has to demonstrate only a \u201csatisfactory funding strategy\u201d but with no requirement to raise the cash in advance. A City Hall report accompanying the decision admits that this is a \u201clower requirement\u201d, which \u201cincreases the risk that\u201d taxpayers\u2019 money will be required to prop up the project during the first five years after the bridge is completed. The bridge\u2019s maintenance bill has been estimated at \u00a33.5m a year. With Johnson now gone, it is Khan\u2019s responsibility to sign the guarantee, although it is unclear if he will proceed while investigating how the project was put together. Preparatory work was scheduled to begin soon on the 367-metre structure, seen both as a pedestrian crossing and a park, with 270 trees and thousands of plants. Michael Ball of the campaign group Thames Central Open Spaces said: \u201cSadiq needs to stop everything and thoroughly investigate why this project bypassed transport policy and procurement legalities. Boris has left a nasty mess for Sadiq to clear up.\u201d However, a spokesman for the new mayor said that overall Khan backed the project, conceived by the actor Joanna Lumley, a childhood friend of Johnson. \u201cThe mayor supports construction of the garden bridge but expressed concerns during his election campaign about the way the procurement process was carried out,\u201d the spokesman said. Johnson has assured the London assembly that he has always been \u201cneutral\u201d over the bridge and has described the procurement process as open, fair and transparent, adding that a thorough audit of the decision to appoint Heatherwick had taken place.",
+  "webTitle": "Doubts over Thames garden bridge as Sadiq Khan probes \u00a3175m project",
+  "webPublicationDate": "2016-05-14T19:36:47Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/14/sadiq-khan-thames-garden-bridge-boris-johnson-mayor-london",
+  "keyword": [
+    {
+      "webTitle": "Sadiq Khan",
+      "id": "politics/sadiq-khan",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "London",
+      "id": "uk/london",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Boris Johnson",
+      "id": "politics/boris",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Architecture",
+      "id": "artanddesign/architecture",
+      "sectionId": "artanddesign",
+      "sectionName": "Art and design"
+    },
+    {
+      "webTitle": "Art and design",
+      "id": "artanddesign/artanddesign",
+      "sectionId": "artanddesign",
+      "sectionName": "Art and design"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Mark Townsend",
+      "id": "profile/marktownsend"
+    }
+  ],
+  "guardianId": "politics/2016/may/14/sadiq-khan-thames-garden-bridge-boris-johnson-mayor-london"
+}

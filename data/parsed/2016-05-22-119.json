@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/22/woman-injured-in-hot-air-balloon-crash",
+  "id": "2016-05-22-119",
+  "sectionId": "uk-news",
+  "body": "A woman has suffered burns after a hot air balloon crashed into a field near the Northamptonshire village of Earls Barton. Some witnesses told the BBC they saw blue sparks as the balloon brushed a power line, and that the two occupants, a man and a woman, were throwing gas canisters overboard in an attempt to gain height, before it burst into flames and crashed. The balloon came down on Sunday morning in a field close to Whites Nurseries, a farm shop where the gates had just opened and scores of people were gathering for a car boot sale.  The crash caused power to be temporarily cut to more than 2,000 homes, Western Power Distribution said.  Northamptonshire police, ambulance and fire services were at the scene soon after the crash, which happened at around 7.30am. The 22-year-old woman was taken to the Queen Elizabeth hospital in Birmingham by air ambulance. An eyewitness, who did not want to be named, said there were several balloons in the air above a car-boot sale held by nearby Whites Nurseries.  He said: \u201cOne of them looked like it was carrying on towards the village and I think it must have collided with the electricity lines. There were quite a few people in the field at the time.\u201d  A Western Power Distribution spokesman said: \u201cWe had one of our 33,000 volt circuits trip - it was a momentary interruption to 2,360 customers and they were restored automatically within a minute. \u201cWe had a report of a hot air balloon crash and since then we have switched the circuit out. Engineers attended and the circuit was completely isolated. They inspected the line and completed minor repairs. The line did not come down.\u201d   Police said the accident was being investigated by the Air Accident Investigation Bureau. Wendy Rousell, secretary of the British Balloon and Airship club, said flying conditions had been perfect on Sunday morning, and that such accidents were very rare in the UK.",
+  "webTitle": "Woman suffers burns in hot air balloon crash",
+  "webPublicationDate": "2016-05-22T09:42:12Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/22/woman-injured-in-hot-air-balloon-crash",
+  "keyword": [
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Air transport",
+      "id": "world/air-transport",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Northampton",
+      "id": "uk-news/northampton",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Maev Kennedy",
+      "id": "profile/maevkennedy"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/22/woman-injured-in-hot-air-balloon-crash"
+}

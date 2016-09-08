@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/24/fracking-wins-battle-in-yorkshire-but-not-the-war",
+  "id": "2016-05-24-266",
+  "sectionId": "environment",
+  "body": "For those backing fracking, the approval of exploration plans at Kirby Misperton in Yorkshire is a vital victory.  But the war is far from won, with public opinion moving ever further against fracking. The more zealously the government goes on the offensive on shale gas, the more people oppose it. David Cameron pledged the government was \u201cgoing all out for shale\u201d, George Osborne told ministers to make fracking a personal priority and grant shale gas company \u201casks\u201d and the government has promised to fast track fracking if councils don\u2019t make quick decisions.  Yet this seems to be generating more suspicion than reassurance among people. A U-turn on a ban on fracking under national parks only made things worse. The industry has not helped itself, with a series of self-inflicted wounds. Companies have only belatedly reported deformation in drilling wells and gas leaks and trespassed on land with the intention of setting explosives. The leading company, Cuadrilla, has a scary name and decided to start a previous drilling attempt at the start of the summer holidays, maximising the protest against it. People\u2019s fears are clear: toxic pollution, noise, heavy traffic and blighted landscapes. The only way fracking companies will ever persuade people that gas can be extracted safely, and that the regulations touted by ministers really are world class, is by doing it. But, even with Monday\u2019s decision, it\u2019s going to be a long campaign. As Professor Michael Bradshaw, at Warwick Business School, says: \u201cWhile Third Energy has got its planning permission, it is clear that it has failed to obtain a social licence from the local community.\u201d Nonetheless, Monday\u2019s vote by North Yorkshire County Council was in fact a victory for localism, if not the one many locals wanted. The decision was taken by elected local representatives, not pulled in to Westminster to be ruled on by ministers, as is likely in the case of Cuadrilla\u2019s application to frack in Lancashire. Ministers have emphasised the role of local decision making when it comes to blocking wind farms - overruling such decisions when it comes to fracking is politically toxic. Nonetheless, the frackers now have an opportunity in Yorkshire. If they and the government want a large scale fracking industry, they had better take it. Any mistakes could kill the nascent industry before it has even learned to crawl. Time is not on their side either. First, the industry is spending hundred of millions of pounds and will not wait forever. Just before the Yorkshire decision, the boss of Cuadrilla warned ministers that its investors did not have \u201climitless patience\u201d for delays. Second, the UK is committed to climate change targets which mean gas use will have to fall in coming decades. Fracking supporters argue that gas is less polluting than coal, and that the fuel provides a \u201cbridge\u201d to a low-carbon future. But if fracking doesn\u2019t get cracking soon, the industry will face shutting down not long after it has begun. The clock is ticking before the far end of that gas bridge becomes a cliff.",
+  "webTitle": "Fracking wins battle in Yorkshire but not the war | Damian Carrington",
+  "webPublicationDate": "2016-05-24T08:14:29Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/24/fracking-wins-battle-in-yorkshire-but-not-the-war",
+  "keyword": [
+    {
+      "webTitle": "Fracking",
+      "id": "environment/fracking",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Gas",
+      "id": "environment/gas",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Protest",
+      "id": "world/protest",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Fossil fuels",
+      "id": "environment/fossil-fuels",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Energy",
+      "id": "environment/energy",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Damian Carrington",
+      "id": "profile/damiancarrington"
+    }
+  ],
+  "guardianId": "environment/2016/may/24/fracking-wins-battle-in-yorkshire-but-not-the-war"
+}

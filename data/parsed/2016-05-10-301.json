@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/10/abc-chinese-web-portal-editorial-policies",
+  "id": "2016-05-10-301",
+  "sectionId": "media",
+  "body": "The ABC has admitted its international web portal AustraliaPlus.cn failed to abide by the ABC\u2019s own editorial policies when a journalist removed content critical of China from several news stories. ABC management is investigating why key facts were removed from the Chinese version of ABC Online content, an act that is in breach of the ABC\u2019s editorial policies and the guidelines that producers at ABC International are governed by. When the Coalition ended the funding for ABC International\u2019s Australia Network in 2014, the broadcaster restructured to a magazine-style web portal called AustraliaPlus.cn. It is advertiser-funded and is not intended to be a news service.    Related: ABC rejects criticism its Chinese web portal bows to Beijing censorship    Media Watch uncovered three instances in which key facts were omitted from a news report about the prime minister\u2019s visit to China. Details about international concern about human rights in China were deleted. Sources told Guardian Australia that even when the ABC had the contract for the Australia Network, which was fully funded by the Department of Foreign Affairs and Trade, there were pressures from the advertising department to \u201cproduce any content that will attract advertising, sponsorship or governmental favours for their broadcast outlet\u201d.  Another report on the South China Sea by ABC News was edited in the Chinese version to remove a mention of the US deploying a destroyer near the Spratly Islands. A spokesman for the ABC said the portal was meant to promote the Australia-China relationship and was never meant to carry hard news. The stories that were edited should not have been posted in the first place, he said. \u201cIn keeping with the intent of the service these stories would only have been published on the AustraliaPlus English language site, as indeed they were, in full,\u201d he said.  \u201cABC International\u2019s processes for curation and publication of content from other parts of the ABC include ensuring relevance, contextualisation, translation, editing for brevity, and consideration of rights and technical constraints.    Related: ABC boss Michelle Guthrie faces barrage of questions four days into job    \u201cAttribution to original reports and links to the source articles are included. These processes of editing and contextualising must be carried out in full compliance of the ABC\u2019s Editorial Policies and should not include removal of elements which change the original intent of the story.  \u201cABC International acknowledges that we did not follow our standard practice for curating ABC content. ABC News staff in China are in no way connected to this issue. \u201cAs a result ABC International is working closely with the ABC editorial director and ABC People to ensure consistency of our content and to tighten editorial oversight. A review of editorial processes and training is underway.\u201d  It is the second time in recent weeks the ABC has been forced to defend its Chinese web portal against accusations it helps Beijing to silence critical voices in the region. In April, Prof John Fitzgerald, director of the Asia Pacific program in social investment and philanthropy at Swinburne University of Technology, accused the ABC of selling out its news values in order to get a foothold in China. At the time, the ABC strongly denied it was censoring its content. \u201cThe ABC has not, and never has, entered into an agreement with China or any country in regards to censorship of its content,\u201d it said.",
+  "webTitle": "ABC admits its Chinese web portal breached editorial policies",
+  "webPublicationDate": "2016-05-10T06:47:12Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/10/abc-chinese-web-portal-editorial-policies",
+  "keyword": [
+    {
+      "webTitle": "Australian Broadcasting Corporation",
+      "id": "media/australian-broadcasting-corporation",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Australian media",
+      "id": "media/australia-media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "China",
+      "id": "world/china",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Asia Pacific",
+      "id": "world/asia-pacific",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Amanda Meade",
+      "id": "profile/amanda-meade"
+    }
+  ],
+  "guardianId": "media/2016/may/10/abc-chinese-web-portal-editorial-policies"
+}

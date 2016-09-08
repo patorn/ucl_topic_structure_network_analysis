@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/23/itv-news-report--london-mayoral-election-accused--anti-ukip-bias-ofcom",
+  "id": "2016-05-23-211",
+  "sectionId": "media",
+  "body": "ITV News is being investigated by the broadcasting regulator over a complaint that a news report on the London mayoral election was biased against Ukip. The report, which aired during the 6pm bulletin on 20 April, referenced the main larger political parties and their candidates and policies.   Related: Katie Price\u2019s sex toy talk on ITV\u2019s Loose Women gets all-clear    The report did not mention Ukip, which the complainant felt made it biased against the party. Ofcom has launched an investigation to see if the report broke rule 6.8 of the broadcasting code. The rule states: \u201cDue impartiality must be strictly maintained in a constituency report or discussion and in an electoral area report or discussion.\u201d \u201cWe\u2019re investigating whether due impartiality was maintained during a report on ITV about the London mayoral election,\u201d said a spokesman for Ofcom.",
+  "webTitle": "ITV News report on London mayoral election accused of anti-Ukip bias",
+  "webPublicationDate": "2016-05-23T11:06:15Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/23/itv-news-report--london-mayoral-election-accused--anti-ukip-bias-ofcom",
+  "keyword": [
+    {
+      "webTitle": "ITV News",
+      "id": "media/itv-news",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Television industry",
+      "id": "media/television",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "ITV channel",
+      "id": "media/itv1",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Ofcom",
+      "id": "media/ofcom",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK Independence party (Ukip)",
+      "id": "politics/ukip",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Mark Sweney",
+      "id": "profile/marksweney"
+    }
+  ],
+  "guardianId": "media/2016/may/23/itv-news-report--london-mayoral-election-accused--anti-ukip-bias-ofcom"
+}

@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/12/twin-peaks-down-heaven-review-pop-cd-review-grand-jury",
+  "id": "2016-05-12-45",
+  "sectionId": "music",
+  "body": "Garage rock has long been affixed to adolescence. Not only was its raucous sound supposedly hammered out in the outbuildings of parental residences, but it was also founded during pop\u2019s own coming of age. This third album by Chicago band Twin Peaks shows it\u2019s a genre that continues to bristle with frustrated feeling and arrested development. On Cold Lips, childishly cruel character assassinations (\u201cAll there is in you is an absence of space\u201d) are croaked over sharp, bright guitars, while Wanted You steals a refrain from John Lennon\u2019s Mother and puts it to less Freudian, more moany ends. It means that, despite this being a record that speaks pretty explicitly to 40-odd years ago (the most obvious comparison would be to a loafing Rolling Stones, although at times the band sound slightly like a het-up Lemonheads), the clattering exuberance of both the sentiment and the sound means it feels far from stale.",
+  "webTitle": "Twin Peaks: Down in Heaven review \u2013 exuberant garage rock refuses to grow up",
+  "webPublicationDate": "2016-05-12T19:45:07Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/12/twin-peaks-down-heaven-review-pop-cd-review-grand-jury",
+  "keyword": [
+    {
+      "webTitle": "Pop and rock",
+      "id": "music/popandrock",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Indie",
+      "id": "music/indie",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Rachel Aroesti",
+      "id": "profile/rachel-aroesti"
+    }
+  ],
+  "guardianId": "music/2016/may/12/twin-peaks-down-heaven-review-pop-cd-review-grand-jury"
+}

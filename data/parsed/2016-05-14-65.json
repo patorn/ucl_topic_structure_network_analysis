@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/society/2016/may/14/doctors-oxygen-overuse-hospitals-nhs-lung-patients-dangers",
+  "id": "2016-05-14-65",
+  "sectionId": "society",
+  "body": "Patients are being given potentially fatal amounts of oxygen because hospital staff are unaware how much they should administer, a new study warns. Lung specialists want doctors and nurses to be given more training in what constitutes a safe \u201ctarget range\u201d of oxygen in the body, otherwise there is a danger patients may suffer greater illness, and in rare cases even death. Oxygen is one of the most commonly administered therapies in the NHS \u2013 every day one in seven of all patients is given oxygen. But, unlike drugs, it is administered in NHS hospitals without prescription to about 6,000 people on an average day. \u201cIn a modern health service, it is concerning that so many patients in hospital are still being given this therapy without any form of prescription,\u201d said Dr Ronan O\u2019Driscoll, consultant respiratory specialist at Salford Royal NHS Foundation Trust, who led the study on behalf of the British Thoracic Society (BTS). \u201cThe situation would not be tolerated for any other drug \u2013 even a common \u2018over the counter\u2019 treatment such as paracetamol requires a prescription or other written order in hospital. Oxygen is very beneficial to many patients, but it can be harmful if misused.\u201d The giving of too little oxygen, a well-documented problem, can be caused by staff not noticing they are connecting empty cylinders or the accidental use of air instead of oxygen. But experts believe that the supply of too much oxygen, a less well-known problem, can be attributed to its availability without prescription and a lack of adequate training among medical staff. \u201cOxygen is an important drug and should always be prescribed and documented in hospital like any other medication,\u201d O\u2019Driscoll said. \u201cWhen used, prescriptions and monitoring documents give us a vital record of which patients are receiving oxygen, how much they are getting, and by what method. But, crucially, they also set a personalised \u2018target range\u2019 for each patient, indicating a desirable, safe level of oxygen in the blood that hospital staff can measure and keep within.\u201d Patients with lung diseases such as chronic obstructive pulmonary disease (COPD) are most vulnerable to over-oxygenation. Their damaged lungs are unable to cope with high levels of oxygen and as a result they can fail to expel the resulting carbon dioxide effectively, which can lead to a form of acute respiratory failure. The BTS says death rates in hospitals for people with COPD have fallen from 7.8% to 4.3% when oxygen prescriptions have been provided, saving 3,000 lives a year. But a recent audit by the society found that more than half of NHS hospitals surveyed do not supply sufficient training for staff around oxygen provision. It revealed that 44% of patients using oxygen were at risk from excessive oxygen therapy. It also found that, even when a written prescription was provided, almost a third of patients were still getting either too little or too much oxygen. Of particular concern was that almost one in 10 patients who had been prescribed a \u201ctarget range\u201d were found to have been administered more than 2% above it. \u201cIn the audit, the number of patients whose blood oxygen levels were too high after oxygen therapy is concerning,\u201d O\u2019Driscoll said. \u201cThis may be because staff believe oxygen deficiency is a much greater danger than oxygen overload, leading to a possible feeling that \u2018the more oxygen we give the better\u2019.\u201d",
+  "webTitle": "Doctors are told to curb overuse of oxygen in hospitals",
+  "webPublicationDate": "2016-05-14T19:17:45Z",
+  "webUrl": "https://www.theguardian.com/society/2016/may/14/doctors-oxygen-overuse-hospitals-nhs-lung-patients-dangers",
+  "keyword": [
+    {
+      "webTitle": "NHS",
+      "id": "society/nhs",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Hospitals",
+      "id": "society/hospitals",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Doctors",
+      "id": "society/doctors",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jamie Doward",
+      "id": "profile/jamiedoward"
+    }
+  ],
+  "guardianId": "society/2016/may/14/doctors-oxygen-overuse-hospitals-nhs-lung-patients-dangers"
+}

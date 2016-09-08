@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/17/orgreave-public-need-to-know-what-happened-theresa-may-ex-aide",
+  "id": "2016-05-17-229",
+  "sectionId": "uk-news",
+  "body": "Theresa May\u2019s former chief of staff has strongly endorsed calls for an inquiry into the \u201cbattle of Orgreave\u201d, saying the public need to know if the police planned an unlawful mass assault on striking miners. An article on Conservativehome by Nick Timothy, who was the home secretary\u2019s most senior adviser until last year, is the clearest indication yet that May is likely to order an inquiry into the actions of the South Yorkshire police and other forces at Orgreave on 18 June 1984.   Related: The lies binding Hillsborough to the battle of Orgreave | Ken Capstick    A minute\u2019s silence in memory of the 96 who lost their lives at the 1989 Hillsborough football disaster was observed by 1,200 officers attending the Police Federation conference on Tuesday.  They heard their chair, Steve White, ask that the \u201cmistakes of the past should not be blamed on a new generation of police officers\u201d and that a distinction must be drawn between \u201cthe actions of a minority of senior officers decades ago and the behaviours of the majority of our members today\u201d. But the home secretary, while not making any direct reference to Orgreave, implicitly criticised that view saying the \u201cenormity\u201d of the Hillsborough verdicts needed to be recognised by everyone in policing as the injustices of the past threatened to jeopardise the work of police today.  \u201cHistorical inquiries are not archaeological excavations ... they are about ensuring that justice is done. And you the police are its custodians. We must never underestimate how the poison of decades-old misdeeds seeps down through the years and is just as toxic today as it was then. That\u2019s why difficult truths, however unpalatable they may be, must be confronted head on,\u201d said May. The home secretary did not use her speech to announce an inquiry into Orgreave, which she is known to be considering. But in his article her former chief of staff rejected calls to \u201clet sleepings dogs lie\u201d about the events more than 30 years ago, saying that the panel inquiry into the Hillsborough disaster had shown that \u201csleeping dogs in South Yorkshire lied and lied and lied again, not just about their own conduct but about the victims and other football supporters\u201d. He said that if the public wanted to ensure the police were above corruption, collusion and cover-ups it was necessary to know how events such as Orgreave happened. Timothy argued that finding out what happened at Orgreave should not undermine or repudiate what the Thatcher government did during the 1980s in reforming the economy, facing down the unions and closing unprofitable mines. \u201cBut if the police planned a mass, unlawful assault on the miners at Orgreave, and then sought to cover up what they did and arrest people on trumped-up charges then we need to know.\u201d He said there were \u201cdifficulties\u201d with South Yorkshire police\u2019s version of what happened at Orgreave. Nobody was ever successfully prosecuted despite there being 95 arrests on the day; and 39 cases of arrest, unlawful arrest and malicious prosecution were settled without an admission of liability by the police. Evidence already existed that the witness statements of some police were dictated to them by other officers, Timothy said, just as they were after Hillsborough. \u201cThe Independent Police Complaints Commission has uncovered evidence that suggests senior figures from South Yorkshire knew that officers had perjured themselves in court, but they did nothing about it.\u201d He suggested the establishment of an inquiry along the lines of the Stephen Lawrence investigation by Mark Ellison QC, which uncovered significant police malpractice. On Monday, three senior officers and a solicitor who were involved in the South Yorkshire police response to Hillsborough and the events surrounding Orgreave were named for the first time.",
+  "webTitle": "Public need to know what happened at Orgreave, says ex-aide",
+  "webPublicationDate": "2016-05-17T10:20:35Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/17/orgreave-public-need-to-know-what-happened-theresa-may-ex-aide",
+  "keyword": [
+    {
+      "webTitle": "Police",
+      "id": "uk/police",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Yorkshire",
+      "id": "uk-news/yorkshire",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Mining",
+      "id": "business/mining",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Industrial action",
+      "id": "uk-news/industrial-action",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Trade unions",
+      "id": "politics/tradeunions",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Alan Travis",
+      "id": "profile/alantravis"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/17/orgreave-public-need-to-know-what-happened-theresa-may-ex-aide"
+}

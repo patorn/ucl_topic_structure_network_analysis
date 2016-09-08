@@ -1,0 +1,43 @@
+{
+  "apiUrl": "https://content.guardianapis.com/lifeandstyle/2016/may/25/david-cameron-hard-hats-notes-queries",
+  "id": "2016-05-25-136",
+  "sectionId": "lifeandstyle",
+  "body": "Why do Cameron, Osborne, Gove and Johnson all wear protective clothing and hard hats for press photos, but not Corbyn, May, Hunt or Duncan Smith? What\u2019s the dress code ? Barry Hewlett-Davies, Brighton \u2022 Post your answers \u2013 and new questions \u2013 below or email them to nq@theguardian.com. Please include name, address and phone number.",
+  "webTitle": "Why are David Cameron, George Osborne and co so keen on hard hats?",
+  "webPublicationDate": "2016-05-25T14:05:43Z",
+  "webUrl": "https://www.theguardian.com/lifeandstyle/2016/may/25/david-cameron-hard-hats-notes-queries",
+  "keyword": [
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Construction industry",
+      "id": "business/construction",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Fashion",
+      "id": "fashion/fashion",
+      "sectionId": "fashion",
+      "sectionName": "Fashion"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [],
+  "guardianId": "lifeandstyle/2016/may/25/david-cameron-hard-hats-notes-queries"
+}

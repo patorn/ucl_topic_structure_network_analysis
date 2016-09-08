@@ -1,0 +1,52 @@
+{
+  "apiUrl": "https://content.guardianapis.com/us-news/2016/may/28/protesters-clash-with-police-outside-donald-trump-rally-in-san-diego",
+  "id": "2016-05-28-186",
+  "sectionId": "us-news",
+  "body": "Police in riot gear fired pepper-balls and beanbags at protesters outside a Donald Trump rally in San Diego, California, on Friday evening as unrest inspired by the presumptive Republican nominee continues to simmer. Earlier in the day in Fresno, Trump denied that there was a major drought affecting the state, saying instead that when he becomes president he will \u201cstart opening up the water.\u201d   Related: Is Bernie Sanders making a Trump presidency more likely? | Christopher R Barron    \u201cThere is no drought,\u201d he said. Trump accused state officials of denying water to farmers so they can send it out to sea \u201cto protect a certain kind of three-inch fish.\u201d \u201cWe\u2019re going to solve your water problem. You have a water problem that is so insane. It is ridiculous where they\u2019re taking the water and shoving it out to sea,\u201d Trump said. Speaking later to a rapturous crowd in San Diego, Trump assailed Bernie Sanders and Hillary Clinton and vowed to seal the nearby border with a \u201cbeautiful\u201d wall. He also vowed to win California in the general election with the help of Latino and women voters, claiming they loved him. But outside, hundreds of riot police in military-style fatigues were deployed to deal with protesters, who were waving Mexican flags and holding signs that read \u201cfuck Trump\u201d. The protests were peaceful - if noisy - but a major deployment of police pushed them back away from the convention center and along Harbor Drive to an overpass. Trapped there, the number of protesters dwindled to several dozen as police pushed on with armored vehicles, firing pepper-balls and beanbag rounds at the crowd.     Police pepper sprayed protesters as they moved them down Harbor Drive after the event. Photograph: John Gibbins/AP    After they were pushed all the way over the bridge, the remainder of the protesters dispersed. Police said a total of 35 people were arrested. There were no reports of property damage or injuries.  The protests in San Diego were not as big nor as violent as those in Albuquerque on Wednesday had been, but they fit a pattern of slowly escalating tensions as it dawns on the American public that the man who said immigrants from Mexico were \u201crapists\u201d is now the presumptive Republican nominee for president. Trump, for his part, has enflamed tensions; once saying he wanted to punch a protestor \u201cin the face\u201d, and at other times promising to pay the legal fees for his supporters if they assaulted protesters.",
+  "webTitle": "Protesters clash with police outside Donald Trump rally in San Diego",
+  "webPublicationDate": "2016-05-28T03:48:29Z",
+  "webUrl": "https://www.theguardian.com/us-news/2016/may/28/protesters-clash-with-police-outside-donald-trump-rally-in-san-diego",
+  "keyword": [
+    {
+      "webTitle": "Donald Trump",
+      "id": "us-news/donaldtrump",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "California",
+      "id": "us-news/california",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "San Diego",
+      "id": "us-news/san-diego",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Nicky Woolf",
+      "id": "profile/nicky-woolf"
+    },
+    {
+      "webTitle": "Rory Carroll",
+      "id": "profile/rorycarroll"
+    }
+  ],
+  "guardianId": "us-news/2016/may/28/protesters-clash-with-police-outside-donald-trump-rally-in-san-diego"
+}

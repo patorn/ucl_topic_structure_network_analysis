@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/25/land-registry-privatisation-petition",
+  "id": "2016-05-25-75",
+  "sectionId": "business",
+  "body": "A petition calling on the government to drop plans to privatise the Land Registry has reached more than 250,000 signatures.  The plans for the \u00a31bn-plus sell off were announced just before the Easter break and the consultation on them closes on Thursday night. Previous plans to privatise the agency, which keeps records of property ownership across England and Wales, were abandoned in 2014 after the then business secretary, Vince Cable, vetoed the move.   Related: Privatising the Land Registry would be misguided and wrong    The latest proposals have been criticised by a wide range of groups including the competition watchdog, solicitors and media companies. They have pointed to use of the records for investigative journalism as well as for other services for homeowners, and suggested that access to data could be harder if the records are in private hands.  The Land Registry employs more than 4,500 civil servants and plays an important role in the property market, holding 24m titles for the ownership of properties across England and Wales.  The petition, which has attracted more than 20,000 signatories this week, will be handed in to the department of business for the attention of the business secretary, Sajid Javid, on Thursday.  Joy Bassett, one of the people behind the petition, said she wasn\u2019t sure if Javid was going to be at the hand-in, but \u201c250,000 people would like to know if he has any comments\u201d. She said: \u201cThe level of support shows that once the public know and understand what is going on, they will respond.\u201d  A BIS spokesperson said: \u201cThe consultation process has been open for nine weeks and although government has set out a proposed model, no final decisions have been made. We cannot pre-judge what any final model will look like. However, under all proposals currently being considered, the Land Registers for England and Wales would remain under Crown ownership to ensure the integrity of the register is maintained.\u201d",
+  "webTitle": "Petition against privatisation of Land Registry signed by 250,000",
+  "webPublicationDate": "2016-05-25T17:16:04Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/25/land-registry-privatisation-petition",
+  "keyword": [
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Privatisation",
+      "id": "politics/privatisation",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Economic policy",
+      "id": "politics/economy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Housing market",
+      "id": "business/housingmarket",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Real estate",
+      "id": "business/realestate",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Competition and Markets Authority",
+      "id": "business/competition-commission",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Regulators",
+      "id": "business/regulators",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Hilary Osborne",
+      "id": "profile/hilaryosborne"
+    }
+  ],
+  "guardianId": "business/2016/may/25/land-registry-privatisation-petition"
+}

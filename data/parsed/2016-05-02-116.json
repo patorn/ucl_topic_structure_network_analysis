@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/artanddesign/shortcuts/2016/may/02/postcards-google-earth-artist-clement-valla",
+  "id": "2016-05-02-116",
+  "sectionId": "artanddesign",
+  "body": "Clement Valla is the kind of curator the Flat Earth Society has been looking for. The artist has taken endless screen grabs of squiffy bridges, melted highways and impossible mountain passes, collecting these errors of Google\u2019s satellite-mapping before they disappear and collating them on his own site, Postcards from Google Earth. The \u201cpostcards\u201d represent the moments when Google\u2019s software has glitched \u2013 inherent flaws in the way the system automatically renders the world \u2013 and pushed together structures that don\u2019t belong on the same plane.     The Glen Canyon Dam on the Colorado river, Arizona. Photograph: Google Earth    So you get the Golden Gate Bridge looking as if the San Andreas Fault has just created a 9.1-magnitude quake. Or the Glen Canyon Dam in Arizona looking as if it were imagined in the 3D graphics engine of the 90s first-person shooter Doom. Valla, who is based in Brooklyn, has long had an interest in what he dubs \u201ccomputer-based picture-producing apparatuses\u201d. In fact, his other projects include using Amazon\u2019s human micro-tasking service Mechanical Turk to reproduce a Sol LeWitt drawing, with hundreds of humans each being paid five cents to draw a few lines, which a piece of custom software then reassembled.     The Golden Gate Bridge in San Francisco. Photograph: Google Earth    Valla\u2019s Postcards experiment began five years ago, emerging out of an interest in the way these images \u201cfocus our attention on that process itself\u201d \u2013 the algorithms, computers, automated cameras, pilots, engineers and so on. In Google\u2019s version of Earth, he points out, there are no clouds, no night, and there is an oddly geometrical grain to the invisibly stuck-together photos. \u201cThese kinds of image types are increasing greatly in the digital era,\u201d says Valla. \u201cSo we have to relearn how to read these hybrids. Are they flat maps? Spatial images? 3D objects? 2D images?\u201d Beyond directing us towards the uncanny, perhaps the simpler message to take from Valla\u2019s project is the sheer fallibility of tech. In Google\u2019s shiny wrap-around future, driverless cars may have to wait at least until the bridges stop falling down canyons.",
+  "webTitle": "Squiffy bridges and melted roads: postcards from Google Earth",
+  "webPublicationDate": "2016-05-02T14:37:54Z",
+  "webUrl": "https://www.theguardian.com/artanddesign/shortcuts/2016/may/02/postcards-google-earth-artist-clement-valla",
+  "keyword": [
+    {
+      "webTitle": "Art and design",
+      "id": "artanddesign/artanddesign",
+      "sectionId": "artanddesign",
+      "sectionName": "Art and design"
+    },
+    {
+      "webTitle": "Google",
+      "id": "technology/google",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Software",
+      "id": "technology/software",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Computing",
+      "id": "technology/computing",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Mapping technologies",
+      "id": "technology/mapping-technologies",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Satellites",
+      "id": "science/satellites",
+      "sectionId": "science",
+      "sectionName": "Science"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Gavin Haynes",
+      "id": "profile/gavin-haynes"
+    }
+  ],
+  "guardianId": "artanddesign/shortcuts/2016/may/02/postcards-google-earth-artist-clement-valla"
+}

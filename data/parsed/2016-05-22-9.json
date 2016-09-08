@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/22/shell-blocking-hydro-dam-project-on-thames-teddington-lock",
+  "id": "2016-05-22-9",
+  "sectionId": "environment",
+  "body": "Shell is involved in blocking the development of a renewable energy project in a legal battle between a private club owned by the company and a community hydropower scheme on the river Thames. The scheme at Teddington lock and weirs has won planning permission and defeated a judicial review from the Lensbury club, but the club is now seeking to appeal against the judicial review decision. The latest legal moves came just as Shell created a separate division, New Energies, to invest in renewable and low-carbon power. Despite Lensbury\u2019s objection, its environment policy states: \u201cWe are looking into sustainable methods to produce a large proportion of our electricity.\u201d The Teddington and Ham hydro project is run by a co-operative of local volunteers who have raised \u00a3700,000 so far from local residents. It would have three reverse Archimedes screws and generate enough electricity to power 600 houses. The site is by the bank of the Lensbury, which was formerly a staff club for Shell employees and is now a hotel and private leisure club. The Lensbury is wholly owned by Shell and its five named directors are all \u201coil company executives\u201d according to filings to Companies House, including Mike Napier, executive vice-president of external communications at Shell. \u201cShell needs to think very hard about what this is doing to its reputation,\u201d said Stephen Knight, Lib Dem councillor for Teddington ward and a member of the London assembly. \u201cAn international oil company is using its financial muscle to try to block a community hydropower scheme. This sends all the wrong messages about big oil companies trying to block the development of renewable power.\u201d   Hydro project   Jono Adams, one of the volunteer directors of the hydro project, said: \u201cIt is extremely frustrating that the planning process is being dragged out. There is a local and national will to get this sort of scheme up and running.\u201d The scheme must start operating by March 2018 to receive the green energy subsidy payments it has been awarded by the government. Adams said the scheme, which was granted planning permission by Richmond borough council in September, had addressed local concerns about noise, visual impact and flood risk.  \u201cIt\u2019s a beautiful part of the world and people were very concerned that there would be something like an industrial generator on the site and it would be very noisy,\u201d he said. \u201cBut actually the noise created will be completely drowned out by the [existing] noise of the water.\u201d  He said the scheme would be no larger than the existing weirs and would actually lower flood risk, because unlike the weirs, the hydro screws could be lifted entirely out of the waters when the Thames was running high. The Lensbury\u2019s corporate and social responsibility policy states: \u201cThe Lensbury is committed to reducing its carbon footprint in all areas of our operation.\u201d Adams pointed out that the hydro scheme could be used to power the club, saying: \u201cIf we did get a private wire into the Lensbury, it would get a great deal on energy and it would be supporting a local renewable energy scheme, so it would be great PR.\u201d Lacy Curtis-Ward, chief executive of the Lensbury, said: \u201cIt may be all too easy to paint the Lensbury as environmentally unfriendly Luddites [but] this could not be further from the truth.\u201d She said the Lensbury supported the development of a hydro scheme design that would \u201cwork for all stakeholders\u201d.  \u201cIt is expected the development [approved by Richmond council] will impact the hotel and conference business, as well as member numbers,\u201d said Curtis-Ward. She said the noise assessments accepted by the council were \u201cincorrect\u201d.     The hydro project is based on the installation of three hydro power turbines on the River Thames at Teddington Lock and Weir. Photograph: Courtesy of THH    Curtis-Ward said she would consider the offer of a private electricity line: \u201cYes, of course, if and when the developers come up with a plan for a hydro scheme that will not damage our business.\u201d A spokesman for Shell said: \u201cLensbury Ltd is a subsidiary of Shell Petroleum Company Limited, but its directors carry out their duties independently from Shell and act only in the interests of Lensbury Ltd.\u201d Knight said the legal costs being incurred by Richmond council in contesting the judicial review were also an issue. \u201cThis legal battle with is costing local taxpayers\u2019 money. This is because Shell is using rules designed to help communities challenge governments over environmental matters to limit its obligation to pay the council\u2019s legal costs in this battle. This is shameful.\u201d Curtis-Ward said the Lensbury\u2019s use of a \u201cprotective cost order\u201d was \u201cwhat any commercial company would do\u201d.",
+  "webTitle": "Club owned by Shell tries to block local hydropower scheme",
+  "webPublicationDate": "2016-05-22T22:09:43Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/22/shell-blocking-hydro-dam-project-on-thames-teddington-lock",
+  "keyword": [
+    {
+      "webTitle": "Hydropower",
+      "id": "environment/hydropower",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Renewable energy",
+      "id": "environment/renewableenergy",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Energy",
+      "id": "environment/energy",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Royal Dutch Shell",
+      "id": "business/royaldutchshell",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Damian Carrington",
+      "id": "profile/damiancarrington"
+    }
+  ],
+  "guardianId": "environment/2016/may/22/shell-blocking-hydro-dam-project-on-thames-teddington-lock"
+}

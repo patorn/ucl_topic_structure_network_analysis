@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/11/bbc-eu-referendum-debate-wembley",
+  "id": "2016-05-11-282",
+  "sectionId": "media",
+  "body": "The BBC has moved to allay fears that its EU referendum debate at Wembley Arena, which will take place live in front of 6,000 people, will be hijacked by Brexiteers. Producers of the event, which will be fronted by Question Time host David Dimbleby alongside Today\u2019s Mishal Husain and Newsnight presenter Emily Maitlis, said they would conduct a \u201crandom draw\u201d for the audience on 21 June, two days before the nation goes to the polls. Applicants will have to declare whether they expect to vote leave or remain on the programme\u2019s website \u2013 there is no option to say \u201cundecided\u201d \u2013 but critics said there was nothing to stop people hiding their true intentions. Others said the tickets might end up on eBay.   Related: BBC to air three EU referendum debates including one at Wembley Arena    A senior BBC executive said successful applicants would be subject to an additional check by research consultants ComRes \u201cin order to ensure a fair and balanced debate\u201d. As part of its ticket allocation process, the BBC will ask both the leave and remain campaigns to put forward people to take part in the show, with 2,000 seats allocated to each camp. The remaining 2,000 seats will be open to all, split between those who stated on their application that they would vote to remain, and those who would vote to leave. The BBC said it would also use photo ID checks to help ensure tickets were not transferred. People will not be allowed to apply for more than two tickets. Programme-makers said the audience at the pre-referendum event would have \u201cchance to be part of history\u201d and described it as its biggest-ever campaign event. The BBC\u2019s editor of live political events, Robbie Gibb, told the Guardian\u2019s Patrick Wintour on Twitter that audience members would be double checked by ComRes with follow-up phone calls where appropriate.    @patrickwintour the audience selected via this link will have an additional check carried out by ComRes #bbcdebate\u2014 Robbie Gibb (@RobbieGibb) May 11, 2016      @patrickwintour they speak to everyone on the telephone similar to any audience selection.\u2014 Robbie Gibb (@RobbieGibb) May 11, 2016    The BBC has previously come in for criticism of the makeup of its Question Time audience on BBC1, although both sides of the political spectrum have made this complaint. It is one of three referendum debates being held by the BBC, along with a special edition of Question Time and a Glasgow debate aimed at younger viewers.",
+  "webTitle": "BBC rejects fears EU referendum debate could be hijacked",
+  "webPublicationDate": "2016-05-11T10:14:53Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/11/bbc-eu-referendum-debate-wembley",
+  "keyword": [
+    {
+      "webTitle": "BBC",
+      "id": "media/bbc",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Television industry",
+      "id": "media/television",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "John Plunkett",
+      "id": "profile/johnplunkett"
+    }
+  ],
+  "guardianId": "media/2016/may/11/bbc-eu-referendum-debate-wembley"
+}

@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/21/uber-taxi-london-crime",
+  "id": "2016-05-21-107",
+  "sectionId": "technology",
+  "body": "A surge has been recorded in violent crimes against London taxi drivers, prompting a fresh spat between Uber and black cabs over who is to blame. New figures from Scotland Yard reveal that violent offences against taxi drivers have risen by more than two-thirds, from 856 in 2014 to 1,403 last year. Black-cab drivers have blamed Uber for the increase, alleging that \u201cpoor English\u201d and the inadequate street knowledge of drivers working for the taxi-hailing app company have generated so much frustration among passengers that it has led to violence. Uber has dismissed the criticism, explaining that many private-hire drivers had switched to working with Uber because of the app\u2019s safety features, with every trip tracked by GPS and electronically recorded . The Metropolitan police figures show that since 2012 \u2013 when Uber arrived in London \u2013 the total number of violent crimes has doubled from 709 in 2012. Most of these cases were of common assault, followed by cases of assault with injury, and then harassment. When sexual offences and robbery are added, the total number of offences against taxi drivers almost doubles, from 884 in 2012 to 1,586 in 2015. The Licensed Taxi Drivers Association (LTDA) has attributed the rise in attacks against drivers to the increase in Uber vehicles on London\u2019s streets. Uber has seen massive growth in London, with around 25,000 drivers currently signed up to the app, compared with 10,000 at the start of 2015. An LTDA spokesperson said: \u201cThey [Uber drivers] are untrained. Many have poor English skills and no idea of the topography of the area they are working in. This, obviously, leads to disputes with passengers. The low standard of their driving also causes many conflicts with other road users and a combination of all this, plus low dispute resolution skills, contributes to the figures.\u201d   Related: London black-cab drivers reject Uber olive branch    Tom Elvidge, general manager of Uber in London, said: \u201cOne of the main reasons thousands of private-hire drivers have switched to working with Uber is because of the safety features on our app. For example, all Uber users are registered with us, every trip is tracked by GPS and electronically recorded, and there\u2019s no exchange of cash. We take any incidents against licensed drivers who use our app very seriously and always help the police with their investigations.\u201d The latest row follows an attempt to defuse tension between the rivals with Uber offering black-cab drivers in London a year\u2019s commission-free use of one of its app services to attract customers, a move rejected as a \u201cPR stunt\u201d.           February: Black cabs bring London to a halt in Uber protest    The former mayor of London, Boris Johnson, has suggested that Uber drivers should have to pass language and geography tests before being allowed to operate in the city. However, Uber has questioned whether \u201cThe Knowledge\u201d \u2013 which black-cab drivers have to pass to show they know thousands of streets and landmarks \u2013 is necessary in an age of GPS and traffic apps. The arrival of Uber has prompted various responses from London\u2019s traditional black-cab drivers in an attempt to protect their market \u2013 from October drivers will be required to take card payments as well as accepting cash. In addition, CCTV cameras have been introduced in taxis to discourage attacks. \u201cThese are particularly useful in respect of false allegations made against the driver and in respect of racial abuse,\u201d said a spokesperson for the National Taxi Association.",
+  "webTitle": "Black cabs blame Uber for rise in attacks on London\u2019s taxi drivers",
+  "webPublicationDate": "2016-05-21T11:26:17Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/21/uber-taxi-london-crime",
+  "keyword": [
+    {
+      "webTitle": "Uber",
+      "id": "technology/uber",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Crime",
+      "id": "uk/ukcrime",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "London",
+      "id": "uk/london",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Mark Townsend",
+      "id": "profile/marktownsend"
+    }
+  ],
+  "guardianId": "technology/2016/may/21/uber-taxi-london-crime"
+}

@@ -1,0 +1,58 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/26/iraq-falluja-isis-bahgdad-protests",
+  "id": "2016-05-26-98",
+  "sectionId": "world",
+  "body": "Iraq\u2019s prime minister, Haidar al-Abadi, has urged demonstrators to forgo weekly Friday protests in central Baghdad to allow the military to concentrate on retaking the country\u2019s fourth city from Islamic state. The push to retake Falluja was unexpectedly launched earlier this week, just days after protesters stormed the \u201cGreen Zone\u201d in central Baghdad for a second time, exposing again the weakness of the Iraqi government.  The US, which is spearheading an air campaign against Isis, had been urging Iraqi leaders to instead focus their energies on retaking Mosul, which is the organisation\u2019s main centre of gravity in Iraq and widely acknowledged as the key to its fate. The absence of protesters, who have twice overrun the heart of Iraq\u2019s government this month, would allow Abadi much-needed breathing space after the failure of his corruption reform program and his security forces\u2019 deference towards the powerful Shia Islamic leader, Moqtadr al-Sadr, who organised the rallies. On Thursday, US jets attacked four sites on the outskirts of Falluja \u2013 a city which American ground forces twice attacked in 2004. Both were intense, brutal battles against the forerunner to Isis, which had a significant presence there. In the 12 years since then, the influence of the group waned, but Isis returned with a vengeance six months before the fall of Mosul, which took place in June 2014. The group has remained ever since in parts of the city, which has been under a withering siege enforced by Iraqi troops and Shia militias.   map   Speaking from a command post near Falluja, Abadi said: \u201cAll our security forces are preoccupied with liberating Falluja and nearby areas, and imposing pressure on them in Baghdad and other provinces to protect the demonstrations will affect (the Falluja push). Up to 50,000 residents remain inside the city, along with an estimated 600-1,000 Isis fighters. Iraqi officials said militants were preventing residents from fleeing.  Both Iraqi and US officials estimate that up to 20,000 Shia militia members, backed and directed by Iran, have been stationed near Falluja, roughly the same strength as Iraqi forces, who have been nominally tasked with entering the city, while the militias remain on its outskirts. The role of Shia militias has been contentious throughout the war against Isis, but is especially sensitive in Falluja, an exclusively Sunni city, where many locals remain bitter about what they see as first a US campaign to marginalise them and then persecution by the Shia majority central government after US troops left Iraq in 2011. The battle for the nearby city of Ramadi, which was also a centre of the Sunni insurgency that ravaged the country from 2004-08, took five months to win, and left the city devastated and largely uninhabitable. The commander of the US air war over Iraq and Syria acknowledged that he has shifted strike aircraft to Falluja as the Iraqi military pushes into and through the city, but said he was keeping \u201cconstant pressure\u201d on Isis throughout both countries. \u201cAs they start moving in, we\u2019re doing some more dynamic strikes\u201d in Falluja, Lt Gen Charles Q Brown Jr told reporters on Thursday, indicating that the war above Falluja had progressed beyond attacks aimed at facilitating Iraqi ground entry to the city. Over the past year, Brown said, the 150 to 160 US warplanes have struck the Isis-held city 38 times. Since Sunday, when Abadi announced the Falluja operation, Brown\u2019s forces have attacked Isis positions and equipment 11 times. Brown said he had not seen \u201cgreat movement of civilians out of the city at this point\u201d. The successful US-Iraqi campaign to oust Isis from nearby Ramadi left \u201cstaggering\u201d devastation to the city, according to the United Nations. Brown denied that move toward Falluja jeopardised the US ability to strike in Mosul, Isis\u2019s Iraqi capital for the last two years. Since Abadi\u2019s announcement of the Falluja offensive, US warplanes have hit Mosul positions 12 times, about the same amount as in Falluja and at a pace in keeping with the three days\u2019 worth of strikes there before the announcement. The Falluja push came as Kurdish forces in Syria backed by the US edged south from near the Turkish border towards Isis\u2019s second regional hub, Raqqa. The Kurds say they plan to \u201csqueeze, not seize\u201d the city and US officials are hopeful that an Arab component of the so-called Syrian Defence Front, could eventually enter Raqqa. However, such a move is not considered imminent.  Alarmed by the movement of Kurdish forces and an increase in \u201cpsyops\u201d targeting the group, Isis has allowed family members and some Raqqa residents to relocate to the countryside, ahead of what it fears will be an eventual invasion.",
+  "webTitle": "Iraq prime minister asks Baghdad protesters to refrain during Falluja push",
+  "webPublicationDate": "2016-05-26T17:36:21Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/26/iraq-falluja-isis-bahgdad-protests",
+  "keyword": [
+    {
+      "webTitle": "Iraq",
+      "id": "world/iraq",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Islamic State",
+      "id": "world/isis",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "US military",
+      "id": "us-news/us-military",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Middle East and North Africa",
+      "id": "world/middleeast",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Martin Chulov",
+      "id": "profile/martin-chulov"
+    },
+    {
+      "webTitle": "Spencer Ackerman",
+      "id": "profile/spencerackerman"
+    }
+  ],
+  "guardianId": "world/2016/may/26/iraq-falluja-isis-bahgdad-protests"
+}

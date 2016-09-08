@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/22/bbc-recipe-fudge-uncertainty-future",
+  "id": "2016-05-22-58",
+  "sectionId": "media",
+  "body": "Delia\u2019s Steaming Fudge recipe: take one Broadcasting Corporation (British if you can, source locally), place in pressure cooker. Raise political temperature over several years. Open once steam starts shooting from the top. At this point it will look like a horrible mess, but don\u2019t worry, presentation isn\u2019t important. Serve immediately. Turn your phone off. BBC Recipes were being granted their own \u201cright to be forgotten\u201d within the white paper, \u201cA BBC for the Future\u201d. The paper itself sets out the basis for the operation of the BBC over the next decade or more, and a case for continued funding. The controversial plan was to shut one of the two BBC food-oriented websites (a sensible idea to rationalise too many replicative services), and then to allow the recipes to essentially still be available but sink into the \u201cdeep web\u201d of unfindable content, like pennies into Christmas pudding. In briefings the BBC had been clear that this was to lessen the impact of its food service on competitors. After a 100,000-strong petition protesting the decision and some fumbling the BBC revised its decision to make all the recipes just as findable on its remaining website, BBC Good Food, which just for good measure actually carries advertising. When pressed about the change on the BBC\u2019s own The Media Show on Radio 4, BBC News director James Harding responded to the assertion that this would make the BBC \u201cmore competitive with commercial players rather than less\u201d by saying \u201cbut that\u2019s not how we explained it\u201d. Indeed, nothing seemed to be quite how the BBC explained it. The storm in a tea urn over what the BBC does with its recipes is on one level a delightfully British affair, best thought of like a particularly good episode of W1A, the satire about the corporation. On another level though, the recipe imbroglio provides a useful breadcrumb trail right to the heart of what is wrong with the way public service media is viewed in a digital context. First of all, the opportunity of continual publishing via the web raises the issue for the BBC of what to do with the archive. Essentially the BBC will over time become a number of \u201cplayer\u201d services, sitting atop a giant archive, so the intellectual reasoning about what happens to material paid for by the public and wholly owned by the BBC is crucial. Obscuring all, or part, of a public archive because of commercial concerns is an indefensible step. This issue is so problematic for the BBC because on-demand services, open archives and other digital paths to audiences are the antithesis of what it has been \u2013 a broadcaster. We are moving into a post-broadcast world more rapidly than most of us care to comprehend. The fact that the BBC recipe service functions so well, and that so many people are outraged about losing some of it, is rooted in the fact it was built as a robust online service replying to the question \u201cwhat is the right digital manifestation of the BBC?\u201d. This question\u2019s answer is still unclear as the BBC is going to be pulled for some time by the gravitational force of broadcast. Its role in a digital ecosystem leads on to the other persistent canard, that this is about commercial competition. The argument that the BBC\u2019s presence underlies the broken nature of newspapers in the UK is demonstrably wrong. There is no BBC in the US yet the American regional press has suffered as great a decline in fortunes, if not greater, than its counterpart in the UK. Local news has no advertising model on the internet, and most local news groups have been focused so relentlessly on cutting back actual coverage to centralised hubs, that they no longer produce news that their local audiences can or want to pay for. The single most successful commercial vertical on the often digitally lauded BuzzFeed is a food channel, Tasty, which does not seem unduly bothered by the presence of static pages full of cranberry sauce. Oddly the veneration of commercial interests over public interests has resulted in a commercial digital world which has entirely consumed the public sphere. This seems to exercise almost no one in either British politics of broadcasting. BBC executives and politicians all know the commercial competition argument is built on shaky ground; there is plenty of available material which explains the economics of advertising on the web. Even paying lip service to commercial concerns in this climate is a dangerous game. Last week in the US the MacArthur Foundation (disclosure, my work at Columbia also receives support from MacArthur) announced an unprecedented $25m gift to a group of non-profit journalism centers and enterprises, reflecting the deep concern in the US about the lack of a viable model for serious journalism. A decade ago, even this type of low level support would have been thought extraordinary. It is conceivable that many more institutions in journalism and broadcast will not survive the decade, before we have really taken stock of what is at stake. What the BBC should be in a digital realm, and how it should relate to commercial competitors are both critically important issues. But the scope of debate has been confined in the public arena to which services are for the chop. Yes, the BBC\u2019s size as a domestic broadcaster is pretty astonishing. However, alongside the \u201cGafa\u201d world of Google, Apple, Facebook and Amazon, it is trivial in scale. The BBC created a mess with recipes because it does not know what it is or, more worryingly, what it will be.  This article originally stated that BBC Food will be the corporation\u2019s surviving recipe website. This has been corrected to BBC Good Food.",
+  "webTitle": "The BBC\u2019s recipe fudge shows its uncertainty about the future",
+  "webPublicationDate": "2016-05-22T17:15:09Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/22/bbc-recipe-fudge-uncertainty-future",
+  "keyword": [
+    {
+      "webTitle": "BBC",
+      "id": "media/bbc",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "James Harding",
+      "id": "media/jamesharding",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "BuzzFeed",
+      "id": "media/buzzfeed",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Internet",
+      "id": "technology/internet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Digital media",
+      "id": "media/digital-media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Emily Bell",
+      "id": "profile/emilybell"
+    }
+  ],
+  "guardianId": "media/2016/may/22/bbc-recipe-fudge-uncertainty-future"
+}

@@ -1,0 +1,84 @@
+{
+  "apiUrl": "https://content.guardianapis.com/books/2016/may/17/jk-rowling-defends-donald-trumps-right-to-be-offensive-pen-america",
+  "id": "2016-05-17-192",
+  "sectionId": "books",
+  "body": "JK Rowling has said that while she finds almost everything that Donald Trump says \u201cobjectionable\u201d, he still has her full support to come to the UK and \u201cbe offensive and bigoted there\u201d. Rowling, speaking at Pen America\u2019s annual literary gala in New York, was referring to the petition launched last year calling for Trump to be barred from visiting the UK, which garnered hundreds of thousands of signatures. While she personally finds Trump \u201coffensive and bigoted\u201d, Rowling said that his freedom to speak \u201cprotects my freedom to call him a bigot\u201d, just as those critics who have claimed that she is trying to convert children to satanism with the Harry Potter books \u201care at liberty\u201d to do so, and she is \u201cfree to explain that I\u2019m exploring human nature and morality, or to say \u2018you\u2019re an idiot\u2019, depending on which side of the bed I got out of that day\u201d. \u201cIf you seek the removal of freedoms from an opponent simply on the grounds that they have offended you, you have crossed a line to stand alongside tyrants who imprison, torture and kill on exactly the same justifications,\u201d the novelist said. Rowling was at the Pen event to receive the 2016 Pen/Allen Foundation literary service award, an honour given to a writer who works to \u201coppose repression in any form and to champion the best of humanity\u201d. Rowling, who was honoured for her work as an advocate for women\u2019s and girls\u2019 rights and as a \u201cfierce opponent of censorship\u201d, was clear that the US presidential hopeful\u2019s \u201cfreedom guarantees mine\u201d. \u201cUnless we take that absolute position without caveats or apologies we have set foot upon a road with only one destination,\u201d she told her New York audience. \u201cIf my offended feelings can justify a travel ban on Donald Trump, I have no moral grounds on which to argue that those offended by feminism, or the fight for transgender rights, or universal suffrage, should not oppress campaigners for those causes\u201d. Warning that the growing \u201cintolerance of alternative viewpoints\u201d is making her \u201cmost uncomfortable\u201d, Rowling said the west sometimes takes its freedoms for granted. \u201cI worry that we may be in danger of allowing their erosion through sheer complacency. The tides of populism and nationalism currently sweeping many developed countries have been accompanied by demands that unwelcome and inconvenient voices be removed from public discourse. It seems that unless a commentator or a television channel or a newspaper reflects exactly the complainant\u2019s world view it must be guilty of bias or corruption.\u201d She ended her acceptance speech by pointing to the case of Tal Al-Mallouhi, who was arrested by Syrian security forces in 2009 over her blog entries. Al-Mallouhi was 18 at the time, and remains in prison.      Rowling quoted from one of Al-Mallouhi\u2019s blogs, in which the Syrian wrote: \u201cI do not like the words of the poet Rudyard Kipling the \u2018Oh, the East is East, and the West is West, and never the twain shall meet\u2019! Instead I promote the union of the East and the West. The East is not east and the West is not west but they meet somewhere. As an example, with rational thought, two great souls from here and from there can agree with each other irrespective of the vast separation in time and space.\u201d \u201cThis is some of the material considered so inflammatory she remains incarcerated,\u201d said Rowling. \u201cI repeat that beautiful plea for plurality, tolerance and the importance of rational discourse in the hope that Tal Al-Mallouhi will soon be freed. In the meantime, long may Pen continue to fight for her, and for the freedoms on which a liberal society rests, without which no literature can have value.\u201d",
+  "webTitle": "JK Rowling defends Donald Trump's right to be 'offensive and bigoted'",
+  "webPublicationDate": "2016-05-17T11:20:42Z",
+  "webUrl": "https://www.theguardian.com/books/2016/may/17/jk-rowling-defends-donald-trumps-right-to-be-offensive-pen-america",
+  "keyword": [
+    {
+      "webTitle": "JK Rowling",
+      "id": "books/jkrowling",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Books",
+      "id": "books/books",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Donald Trump",
+      "id": "us-news/donaldtrump",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "PEN",
+      "id": "books/pen",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "PEN literary prizes",
+      "id": "books/penliteraryprizes",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Fiction",
+      "id": "books/fiction",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Harry Potter",
+      "id": "books/harrypotter",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Awards and prizes",
+      "id": "culture/awards-and-prizes",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Alison Flood",
+      "id": "profile/alisonflood"
+    }
+  ],
+  "guardianId": "books/2016/may/17/jk-rowling-defends-donald-trumps-right-to-be-offensive-pen-america"
+}

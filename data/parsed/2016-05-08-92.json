@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/08/jordan-parsons-death-mma-hit-and-run",
+  "id": "2016-05-08-92",
+  "sectionId": "sport",
+  "body": "A man has been arrested in Florida over the death of professional mixed martial artist Jordan Parsons, who died last week after a hit-and-run incident. Delray Beach Police say 28-year-old Dennis Wright was arrested after an anonymous tip from a member of the public, and faces multiple charges. Parsons was struck by a grey SUV while crossing the road near his apartment on 1 May and died three days later from his injuries. A witness said the vehicle was travelling \u201cbetween 100 and 120mph\u201d when Parsons was struck, and did not stop after the accident. Parsons was part of the Bellator MMA organization and was due to fight on 14 May in San Jose. Parsons was \u201ca guy of great character, amazing work ethic, 100% committed to trying to be the best he could possibly be,\u201d his grappling coach, Neil Melanson, told ESPN.  Wright\u2019s bond was set at $450,000, and it emerged he was driving with a suspended license at the time of the accident. His attorney argued that the full story of the case had not yet been explained. \u201cThere are a lot of facts that have not been established in this case,\u201d Robert Resnick told the Palm Beach Post. \u201cI just hope the community waits for all the facts.\u201d A Go Fund Me page has so far raised nearly $37,000 towards Parsons\u2019 medical bills and funeral costs. It is understood he did not have health insurance at the time of his death.",
+  "webTitle": "Man arrested over hit-and-run death of MMA fighter Jordan Parsons",
+  "webPublicationDate": "2016-05-08T13:52:31Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/08/jordan-parsons-death-mma-hit-and-run",
+  "keyword": [
+    {
+      "webTitle": "MMA",
+      "id": "sport/mma",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "US sports",
+      "id": "sport/us-sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Florida",
+      "id": "us-news/florida",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "sport/2016/may/08/jordan-parsons-death-mma-hit-and-run"
+}

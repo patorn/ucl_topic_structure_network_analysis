@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/26/amazon-echo-virtual-assistant-child-privacy-law",
+  "id": "2016-05-26-241",
+  "sectionId": "technology",
+  "body": "In a promotional video for Amazon\u2019s Echo virtual assistant device, a young girl no older than 12 asks excitedly: \u201cIs it for me?\u201d. The voice-controlled speaker can search the web for information, answer questions and even tell kids\u2019 jokes. \u201cIt\u2019s for everyone,\u201d enthuses her on-screen dad. Except that it isn\u2019t. An investigation by the Guardian has found that despite Amazon marketing the Echo to families with young children, the device is likely to contravene the US Children\u2019s Online Privacy Protection Act (COPPA), set up to regulate the collection and use of personal information from anyone younger than 13.  Along with Google, Apple and others promoting voice-activated artificial intelligence systems to young children, the company could now face multimillion-dollar fines. \u201cThis is part of the initial wave of marketing to children using the internet of things,\u201d says Jeff Chester, executive director of the Center for Digital Democracy, a privacy advocacy group that helped write the law. \u201cIt is exactly why the law was enacted in the first place, to protect young people from pervasive data collection.\u201d Google\u2019s standalone Home device, announced on 18 May but not yet on sale, also targets children. A promotional video shown at the company\u2019s I/O event has a young boy talking to the Home, while his sister uses it to get help with her schoolwork. Apple\u2019s Siri, found on iPhones and iPads, probably also violates COPPA. One advert for the virtual assistant includes a young girl talking to Siri, while its latest commercial features Cookie Monster from Sesame Street. The company is also rumoured to be working on a standalone voice-controlled device.     An advert for Apple\u2019s digital assistant Siri features Sesame Street\u2019s Cookie Monster. Photograph: Apple    COPPA applies to online services that are either designed for children younger than 13 or that know those children are using them. It also singles out the use of celebrities, like Cookie Monster, who appeal to children. Khaliah Barnes, associate director of the Electronic Privacy Information Center (EPIC), believes that by showing pre-teenage children using voice-activated AI devices, Amazon, Google and Apple are admitting their services are aimed at youngsters. \u201cWhen your advertising markets this product to children, and parents with children, that would absolutely trigger COPPA,\u201d she says. \u201cRecording children in the privacy of the home is genuinely creepy, and this warrants additional investigation by the Federal Trade Commission (FTC) and [US] states.\u201d Jeff Chester agrees. \u201cOnline devices have replaced TV as the babysitter, and companies will know there\u2019s a child there by the very nature of the interaction,\u201d he says. Amazon and Google told the Guardian that they comply with COPPA, while an Apple spokesperson said it complied and doesn\u2019t target kids. All have extensive privacy policies.    Online devices have replaced TV as the babysitter, and companies will know there\u2019s a child there by the ... interaction  Jeff Chester     However, COPPA forbids a company from storing a child\u2019s personal information, including recordings of their voice, without the explicit, verifiable consent of their parents. The law specifies the ways a company can get that consent, such as a signed letter, video chat or phone call. Although all three companies store audio files of voice requests in the cloud, none of them use a COPPA-approved method to seek consent beforehand. One way to comply is to limit services to users older than 13. Microsoft, for instance, does not allow users whose age in their online profile is 12 or younger to access its Cortana virtual assistant on Windows computers, phones or tablets. On the company\u2019s Xbox One console, younger users must get a parent to make a small (50 cent) purchase on a credit card to activate voice and video services \u2013 a method also approved by COPPA. Another way is not to store voice recordings from children at all, although this can make the AI service less effective. Martin Reddy is chief technical officer at ToyTalk, developer of the Hello Barbie doll that can hold a conversation with young children. The toy uses a built-in microphone to send a child\u2019s voice up to a speech recognition engine in the cloud. \u201cIn a perfect world, you\u2019re done at that point and you can drop the audio data on the floor,\u201d Reddy says. \u201cBut we\u2019re storing it because it\u2019s not a perfect world. We\u2019re using it to build better models so kids can get a better experience.\u201d     Alexa. Photograph: Uncredited/AP    Reddy claims that analysing the recordings enables ToyTalk to boost the accuracy of what Hello Barbie hears by about 15%. ToyTalk uses an email process to ensure that parents know what is going on, a method allowed by COPPA in some situations. Parents can also log in to a website to review or delete audio. \u201cWe have contracts and written assurances that [our voice recognition service provider] complies with COPPA and they drop the data on the floor as soon as they finish making the transcription,\u201d Reddy says.   Related: Games developer TinyCo fined for illegally collecting children's data    The penalties for violating COPPA can be heavy \u2013 up to $16,000 for every violation. In 2014, online review site Yelp paid $450,000 after admitting that it had collected children\u2019s personal information without notifying parents and obtaining consent. And in December of 2015, two software developers paid $300,000 after allowing third-party advertisers to collect children\u2019s personal information through their mobile apps.  The FTC, which handles infractions of COPPA, notes that financial penalties can depend on the number of children and the size of the company involved. Amazon has sold an estimated 3m Echo devices in the US, and Apple more than 100m iPhones \u2013 which could mean massive fines if the FTC decides to prosecute. Jeff Chester of the Center for Digital Democracy believes that large fines would be unlikely, at least initially. \u201cThis is such a new area that it\u2019s important to give industry guidance,\u201d he says, \u201cWe\u2019re going to recommend to the FTC that they give industry guidance of how the internet of things and COPPA should work together.\u201d However, Khaliah Barnes notes that even enforcing COPPA properly would not solve all the problems raised by virtual assistants. \u201cParents cannot reasonably review all the information that these \u2018always on\u2019 devices are collecting from children,\u201d she says. \u201cThen what about data security, hacking or when you walk into a home and you\u2019re not aware there\u2019s a recording device there?  \u201cDo we want to live in a society that conditions children to constant surveillance?\u201d  This article was amended on 28 May 2016. An earlier version said incorrectly that ToyTalk used credit card notifications to update parents.",
+  "webTitle": "Virtual assistants such as Amazon's Echo break US child privacy law, experts say",
+  "webPublicationDate": "2016-05-26T11:00:10Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/26/amazon-echo-virtual-assistant-child-privacy-law",
+  "keyword": [
+    {
+      "webTitle": "Amazon.com",
+      "id": "technology/amazon",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Artificial intelligence (AI)",
+      "id": "technology/artificialintelligenceai",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Voice recognition",
+      "id": "technology/voice-recognition",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "E-commerce",
+      "id": "technology/efinance",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Computing",
+      "id": "technology/computing",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Data protection",
+      "id": "technology/data-protection",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Children's tech",
+      "id": "technology/children-s-tech",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Gadgets",
+      "id": "technology/gadgets",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Mark Harris",
+      "id": "profile/mark-harris"
+    }
+  ],
+  "guardianId": "technology/2016/may/26/amazon-echo-virtual-assistant-child-privacy-law"
+}

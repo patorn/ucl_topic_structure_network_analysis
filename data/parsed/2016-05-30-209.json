@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/australia-news/2016/may/30/sydney-weather-coldest-may-morning-20-years-record-warm-autumn",
+  "id": "2016-05-30-209",
+  "sectionId": "australia-news",
+  "body": "Several sites in Sydney have experienced their coldest May morning in 20 years, even as the city looks set to record its warmest autumn. Less than two weeks after well above average temperatures were recorded across the eastern states, Sydneysiders awoke to record cold weather and frost on Monday. Richmond airport had its coldest morning since 1987 at -2.1C, the coldest morning for May on record in 23 years of data. The previous was -1.4C in May 2011.   Related: April breaks global temperature record, marking seven months of new highs    A low of 7.3C was recorded at the Sydney weather station on Observatory Hill just after 7am, making it the coldest May morning in five years. (7.3C was also recorded there in 2011.) Penrith residents awoke to 2C, an unprecedented low for May in 22 years of data, while Horsley Park set a new 20-year record with 1C at 6.55am. The Bureau of Meteorology\u2019s duty forecaster, Rob Taggart, said a cold front had passed over New South Wales, bringing with its drier air mass. It was followed by a high pressure system, which brought with it clear skies and light winds \u2013 optimum for low temperatures, particularly overnight. The temperature should pick up in Sydney from Tuesday morning, with a forecast period of wet weather making those lows less likely. But despite the cold snap, Sydney and several parts of New South Wales were on track to break the record for the warmest autumn ever. \u201cWe\u2019ve never had an autumn average of maximum temperatures this high,\u201d he said. The average maximum temperature for the season to 29 May was 25C at Sydney\u2019s Observatory Hill. The previous record to 29 May was 24.5C. \u201cParticularly for the daytime temperatures, the record has been cleared by such a margin ... that it\u2019s just basically inevitable,\u201d Taggart said. \u201cYou could throw in some really cold days in Sydney for the next couple of days and you\u2019ll still have the warmest autumn on record.\u201d The average minimum there this autumn was 16.8C \u2013 0.3C above the previous record. It was same case at a lot of stations over NSW, Taggart said, singling out the Illawarra and Hunter regions. Bom\u2019s seasonal climate outlook for June to August forecasts above-average rainfall across large parts of mainland Australia.   Related: Homeowners kept in dark about climate change risk to houses, says report    Warmer-than-average days are likely for the tropical north and south-east parts of the country, but it will be cooler in the southern mainland. The 2015-16 El Ni\u00f1o has now ended and its breakdown is bringing warmer nights across much of Australia. In mid-May, Bom confirmed that most of the eastern states were basking in unseasonally warm temperatures, with Sydney recording a high of 28C, more than eight degrees higher than the average for May. At that stage, there was thought to be a 50% chance of La Ni\u00f1a, which contribute towards an above-average rainfall outlook.",
+  "webTitle": "Sydney weather stations record coldest May morning in 20 years",
+  "webPublicationDate": "2016-05-30T01:57:41Z",
+  "webUrl": "https://www.theguardian.com/australia-news/2016/may/30/sydney-weather-coldest-may-morning-20-years-record-warm-autumn",
+  "keyword": [
+    {
+      "webTitle": "Australia weather",
+      "id": "australia-news/australia-weather",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "El Ni\u00f1o southern oscillation",
+      "id": "environment/elnino",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Australasia",
+      "id": "weather/index/australasia",
+      "sectionId": "weather",
+      "sectionName": "Weather"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Elle Hunt",
+      "id": "profile/elle-hunt"
+    }
+  ],
+  "guardianId": "australia-news/2016/may/30/sydney-weather-coldest-may-morning-20-years-record-warm-autumn"
+}

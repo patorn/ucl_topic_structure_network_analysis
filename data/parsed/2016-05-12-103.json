@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/education/2016/may/12/trainee-teachers-from-northern-england-told-to-modify-their-accents",
+  "id": "2016-05-12-103",
+  "sectionId": "education",
+  "body": "Trainee teachers from the north of England are being asked to tone down their accents in order to be better understood in the classroom, according to research. Those with southern accents, in contrast, are less likely to be asked to modify their speech, which seem to be regarded as more acceptable. The small-scale study by Manchester University is based on interviews with 11 trainee teachers drawn from two northern universities, and 12 trainee teachers drawn from two universities in the south. Of the northern group of student teachers, all but two were asked by their teacher training mentors to modify their accents, which originated from Manchester, Yorkshire and Liverpool among others. Of the students in the south, who had a range of accents including received pronunciation (RP), Kentish, Irish, estuary and cockney, only four had been advised to modify their accents. Linguistics lecturer Dr Alexander Baratta said his research had found that accents most associated with the Home Counties were favoured by the teacher training profession. He claimed his research revealed a culture of \u201clinguistic prejudice\u201d in a profession that would not tolerate prejudice based on race and religion. \u201cThere is a respect and tolerance for diversity in society, yet accents do not seem to get this treatment \u2013 they are the last form of acceptable prejudice,\u201d he said. One trainee teacher from Leicester who described her accent as \u201cMidlands\u201d, was told that if she wanted to teach phonics \u2013 which is used in primary schools to teach reading and writing \u2013 it would be best \u201cto go back to where she came from\u201d. If she didn\u2019t, she was advised to use a teaching assistant to teach children certain sounds that differed from her own accent. \u201cI was quite affronted by the comment to \u2018go back to where I came from\u2019, as it was made in front of the whole seminar group, and I felt it was a little unnecessary,\u201d she told researchers. A trainee teacher from Nottingham who was asked to modify her accent said she was \u201cquite upset ... to be told I don\u2019t speak properly\u201d. Another, who was advised to control her Mancunian accent, said: \u201cI can still do the job just as well as someone else can who speaks posher \u2026 the children will still learn.\u201d And a further trainee teacher from Manchester was told by the headteacher at the school where she was training to \u201cbe careful\u201d regarding her accent. He then added, \u201cBut you are from Eccles\u201d, and laughed. Of the southern students who were asked to modify their accents, one trainee teacher with a Medway accent said: \u201cThe mentor told me that some of the things I pronounced were too common. He told me that I was a role model to young children and thus I almost needed to have a \u2018home accent\u2019 and a \u2018school accent\u2019.\u201d Baratta, who carried out the research, said: \u201cThe trainee teachers I spoke to believe that they are being judged for how they speak and not what they say and asking them to modify their accents made them feel inferior. One teacher told me that it makes no sense that teachers have to sound the same, but teach the children to be who they are. \u201cWe live in a society in which equality is championed and diversity is celebrated, certainly within the workplace, so why does it feel as if the teaching profession is completely discarding the unique richness that comes with regional accents?\u201d Baratta will present his research findings at the British Education Research Association conference at Leeds University in September.",
+  "webTitle": "Trainee teachers from northern England told to modify their accents",
+  "webPublicationDate": "2016-05-12T17:12:25Z",
+  "webUrl": "https://www.theguardian.com/education/2016/may/12/trainee-teachers-from-northern-england-told-to-modify-their-accents",
+  "keyword": [
+    {
+      "webTitle": "Teaching",
+      "id": "education/teaching",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Education",
+      "id": "education/education",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Teacher training",
+      "id": "education/teachertraining",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "North of England",
+      "id": "uk-news/north-of-england",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Schools",
+      "id": "education/schools",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Research",
+      "id": "education/research",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Higher education",
+      "id": "education/higher-education",
+      "sectionId": "education",
+      "sectionName": "Education"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Sally Weale",
+      "id": "profile/sallyweale"
+    }
+  ],
+  "guardianId": "education/2016/may/12/trainee-teachers-from-northern-england-told-to-modify-their-accents"
+}

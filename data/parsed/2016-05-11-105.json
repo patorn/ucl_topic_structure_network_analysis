@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/science/2016/may/11/genes-that-influence-how-long-you-stay-in-education-uncovered-by-study",
+  "id": "2016-05-11-105",
+  "sectionId": "science",
+  "body": "A haul of genes that influence how long people spend in education has been uncovered by one of the largest studies conducted in the field. The international effort by more than 250 scientists found 74 genetic variants that shape the number of years people spend at school and university, with most of the variants involved in brain development, particularly in the womb. The work does not mean scientists can now use genes to predict how long a person will stay in education. But the behavioural geneticist Robert Plomin, who was not involved in the study, said the research had reached a \u201ctipping point\u201d where tests would be used to identify people\u2019s individual strengths and weaknesses. The genes spotted in the latest study appear to work through their impact on a person\u2019s cognitive abilities and aspects of personality, such as intellectual curiosity and persistence, but the importance of each specific trait is not yet confirmed. Daniel Benjamin, a study author at the University of Southern California, said the findings, reported in the journal Nature, offer fresh insights into the biology of human brains, and also cast light on mental health conditions. Genetic variants for time spent in education and Alzheimer\u2019s, bipolar disorder and schizophrenia overlapped to a large extent, the study found.   Related: Genes influence academic ability across all subjects, latest study shows    While the work massively expands what researchers know about the role of DNA in reaching educational milestones, the 74 genetic factors explain only a minuscule amount of the difference in time people spend in education. Genetics accounts for at least 20% of the variation seen across the population, but family background, upbringing, and other social and environmental factors explain the rest.  \u201cTaken together, the 74 genetic variants explain roughly half of 1% of the variation across individuals in educational attainment,\u201d Benjamin told the Guardian. For the variant with the largest effect, the difference between inheriting zero and two copies - one from each parent - was on average nine extra weeks of schooling. That means many thousands, perhaps many millions, of genetic variants shape how long a person stays in education. The international team scoured the genomes of nearly 300,000 Europeans in 15 countries for genetic variants associated with time spent in education. Having found 74, the scientists verified them in 111,000 people who have DNA held by the UK Biobank. When the researchers pooled the results from both groups, they had 162 genetic variants linked to years in education. The scientists went on to produce what they call a \u201cpolygenic score\u201d based on all nine million sections of DNA they analysed, and found it explained 3% of the difference in time people spent at schools and universities, and 6% when they included the UK Biobank data. With larger studies, Benjamin said, polygenic scores will improve in accuracy and could eventually be used to improve teaching. In one approach, researchers could use polygenic scores to take account of different genetic abilities when assessing how effective interventions such as free preschool education are. \u201cOver the next ten years, I believe that the most important consequence of this kind of study is that it will enable social scientists to statistically remove genetic factors when studying interventions to improve school performance,\u201d Benjamin said. But Plomin believes the scores could be used to personalise education too. Children do not all respond in the same way to teaching practices, and genetic scores could help find those that benefit the most, and those who would perform better with different approaches. \u201cI really believe that we are at a tipping point where \u2018polygenic\u2019 scores such as this one will be used to predict genetic strengths and weaknesses for individuals,\u201d Plomin said.  \u201cThese polygenic scores will be useful to predict patterns of strengths and weaknesses that will move education closer to \u2018personalised learning\u2019 rather than continuing to assume that a one-size-fits-all national curriculum works equally well for everyone,\u201d he added. \u201cWe need to discuss applications and implications now because it really is happening.\u201d",
+  "webTitle": "Genes that influence how long you stay in education uncovered by study",
+  "webPublicationDate": "2016-05-11T17:05:44Z",
+  "webUrl": "https://www.theguardian.com/science/2016/may/11/genes-that-influence-how-long-you-stay-in-education-uncovered-by-study",
+  "keyword": [
+    {
+      "webTitle": "Genetics",
+      "id": "science/genetics",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Education",
+      "id": "education/education",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Biology",
+      "id": "science/biology",
+      "sectionId": "science",
+      "sectionName": "Science"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ian Sample",
+      "id": "profile/iansample"
+    }
+  ],
+  "guardianId": "science/2016/may/11/genes-that-influence-how-long-you-stay-in-education-uncovered-by-study"
+}

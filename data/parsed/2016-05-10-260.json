@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/10/claudio-ranieri-admits-interest-managing-italy-leicester-city",
+  "id": "2016-05-10-260",
+  "sectionId": "football",
+  "body": "Claudio Ranieri has expressed an interest in managing Italy, saying he could \u201cnever rule out\u201d taking over his country\u2019s national team. The 64-year-old\u2019s remarkable success with Leicester City has significantly boosted his profile and led to Carlo Tavecchio, the president of the Italian football federation, suggesting he could one day lead Italy to World Cup glory, and even suggested Ranieri, who was born in Rome, could succeed Antonio Conte after he leaves the national team following their participation at Euro 2016 and joins Chelsea.   Related: Leicester City target Sporting\u2019s \u00a325m Islam Slimani to bolster forward line    \u201cI hope Ranieri can win a World Cup with Italy, that would be the best,\u201d said Tavecchio. \u201cI\u2019m speaking in an abstract way, of course, and not necessarily about the next World Cup. Claudio is still young and will have time on his side. \u201cHave we thought about him as a replacement for Conte? It\u2019s him who should be thinking about us!\u201d Ranieri\u2019s previous experience of international management was with Greece, a post he was sacked from prior to taking over at Leicester last July. \u201cI\u2019ll admit I was curious about coaching a national team, but my experience with Greece was sufficient,\u201d Ranieri said in an interview with La Gazzetta dello Sport. \u201cOf course, leading Italy would be something else. I\u2019d never rule that out, and I\u2019d like that very much. And Leicester, after all, have blue shirts just like the Azzurri.\u201d During the same interview, Ranieri admitted that he would have accepted a job in \u201cthe Football League\u201d after being let go by Greece, such was his desire to return to England having previously managed in this country with Chelsea. \u201cTwo other Premier clubs had contacted me but then they made other choices. Leicester convinced me because of their sense of leadership, their programs, and their facilities. They are perfectly organised,\u201d said Ranieri. \u201cWhen I met the players I told them: \u2018I\u2019ll take a bit of time to know you all because you are so many, but you will need to know a single person: me. I ask only one thing: that you give all you can for each other\u2019. And they did.\u201d",
+  "webTitle": "Claudio Ranieri expresses interest in managing Italy",
+  "webPublicationDate": "2016-05-10T09:07:05Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/10/claudio-ranieri-admits-interest-managing-italy-leicester-city",
+  "keyword": [
+    {
+      "webTitle": "Claudio Ranieri",
+      "id": "sport/claudio-ranieri",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Italy",
+      "id": "football/italy",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Leicester City",
+      "id": "football/leicestercity",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "football/2016/may/10/claudio-ranieri-admits-interest-managing-italy-leicester-city"
+}

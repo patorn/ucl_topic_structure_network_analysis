@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/money/2016/may/17/stamp-duty-rush-pushes-march-mortgage-lending-nine-year-high",
+  "id": "2016-05-17-191",
+  "sectionId": "money",
+  "body": "Mortgage lending soared to a nine-year high in March as the housing market\u2019s traditional spring rush coincided with landlords hurrying to beat stamp duty changes, new figures show. Homeowners borrowed \u00a313.8bn for house purchase in March, the highest monthly amount since August 2007. Meanwhile, landlords borrowed \u00a37.1bn, which was 163% up on the \u00a32.7bn lent in March 2015. Even the Council of Mortgage Lenders, which issued the figures, described these levels of activity as \u201csupercharged\u201d, though it went on to say the data was \u201cdistorted\u201d by the March rush to beat new stamp duty rates for buy-to-let and second homes, which took effect on 1 April. Borrowing for house purchase was up 59% on February this year, and 60% higher than March 2015. Meanwhile, first-time buyers borrowed \u00a34.5bn, which was 32% up on February. Paul Smee, the CML\u2019s director general, said the increases were \u201csubstantial\u201d but added: \u201cThese supercharged levels of activity are likely to be temporary and will fall back over the summer months.\u201d   Related: House prices fall as stamp duty changes cool buy-to-let market    The strong house purchase figures were mainly driven by home-mover activity, which includes people upgrading to a larger property and those downsizing. Home movers borrowed \u00a39.3bn of mortgage money in March, which represents a 75% leap on the levels seen in February. Jeremy Duncombe, director of Legal & General Mortgage Club, said the strong data relating to landlords showed that the stamp duty hike \u201chad the opposite-than-intended effect\u201d. He added: \u201cInstead of cooling the market, they have driven demand and encouraged a spike in investors, ultimately pushing up prices and making homeownership a more unaffordable concept for many.\u201d Peter Williams, executive director of the Intermediary Mortgage Lenders Association (IMLA), said: \u201cIt\u2019s no surprise to see an artificially induced spike in house prices during March \u2026 The leap in landlord lending makes it clear that price inflation has been fuelled by the government\u2019s stamp duty changes for buy-to-let properties and second homes, incentivising many buyers to bring their purchases forward where possible.\u201d",
+  "webTitle": "March mortgage lending 'supercharged' by stamp duty deadline",
+  "webPublicationDate": "2016-05-17T11:22:04Z",
+  "webUrl": "https://www.theguardian.com/money/2016/may/17/stamp-duty-rush-pushes-march-mortgage-lending-nine-year-high",
+  "keyword": [
+    {
+      "webTitle": "Mortgages",
+      "id": "money/mortgages",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Buying to let",
+      "id": "money/buying-to-let",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Stamp duty",
+      "id": "money/stampduty",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Property",
+      "id": "money/property",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Tax",
+      "id": "money/tax",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Rupert Jones",
+      "id": "profile/rupertjones"
+    }
+  ],
+  "guardianId": "money/2016/may/17/stamp-duty-rush-pushes-march-mortgage-lending-nine-year-high"
+}

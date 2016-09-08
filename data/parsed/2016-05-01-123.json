@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/society/2016/may/01/drug-overdose-epidemic-organ-donors-data",
+  "id": "2016-05-01-123",
+  "sectionId": "society",
+  "body": "The devastating epidemic of drug overdose deaths in the US has led to an increase in organ donors, data from the federal government shows. As the death rate from drug overdoses surged in the US over the last several years, the number of organ donors who died from overdoses increased from 1.1% of all deceased organ donors in 2000 to 9.34% in 2015, according to government data.  These numbers reflect a marginal improvement in one public health crisis \u2013 22 people die each day waiting for an organ transplant \u2013 spurred by the damage of another.  The rate of deaths from drug overdoses has increased 137% since 2000, including a 200% increase in the rate of overdose deaths involving opioids.  This has raised questions about the safety of collecting organs from people who die of drug overdoses, though transplant surgeons say the risks of contracting disease from such patients is low.  Nikole Neidlinger, a transplant surgeon and medical adviser for the Association of Organ Procurement Organizations (AOPO), said that when doctors tell patients the risk of transmitting a virus from a donor with behavioral risk factors, such as drug abuse, is low, patients usually have the same response.  \u201cWhen that incidence is dramatically lower than your incidence of dying on the waitlist, most patients will say yes,\u201d said Neidlinger.  But patients have contracted viruses from organ donations before \u2013 and it can be fatal.  In 2007, four people contracted HIV and hepatitis C from the organs of a deceased person.  And in 2004, four people died from rabies after receiving infected organs or tissue from a donor who doctors had thought had died from a drug overdose, but had actually died of rabies.  These incidences are rare, however, and pale in comparison to the risk of being on the organ donation waitlist, which includes more than 77,800 people. In 2015, organs were only recovered from 9,080 deceased people.  Despite the jump in organ donations from people who died of drug overdoses, the main cause of death for deceased organ donors is still blunt injuries, cardiovascular causes and stroke, which accounts for the cause of death of 30.43% of deceased organ donors.  Helen M Nelson, the New England Organ Bank\u2019s senior vice president of organ donation services, told US News and World Report that drug overdose deaths were not as sudden as the more common causes of death for organ donors. \u201cMany of the families we encounter have been going through this addiction for several years,\u201d Nelson said. \u201cIt\u2019s almost as if the families were preparing for this death; many feel great comfort in knowing that some good has come out of it.\u201d",
+  "webTitle": "Drug overdose epidemic has driven increase in organ donors, data shows",
+  "webPublicationDate": "2016-05-01T11:00:53Z",
+  "webUrl": "https://www.theguardian.com/society/2016/may/01/drug-overdose-epidemic-organ-donors-data",
+  "keyword": [
+    {
+      "webTitle": "Drugs",
+      "id": "society/drugs",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Organ donation",
+      "id": "society/organ-donation",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Amanda Holpuch",
+      "id": "profile/amanda-holpuch"
+    }
+  ],
+  "guardianId": "society/2016/may/01/drug-overdose-epidemic-organ-donors-data"
+}

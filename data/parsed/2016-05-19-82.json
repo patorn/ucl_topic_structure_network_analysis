@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/19/christy-moore-lily-review-folk-cd-sony-music",
+  "id": "2016-05-19-82",
+  "sectionId": "music",
+  "body": "Ireland\u2019s finest singer-songwriter and interpreter of other people\u2019s songs returns with his first album in three years. Christy Moore\u2019s new set is as varied as his celebrated live performances: unexpected songs are reworked with his intimate, soulful vocals. He starts with a series of easygoing pieces by Irish writers, including the upbeat The Tuam Beat, but the mood changes with the thoughtful, partly self-composed title track, which blends nostalgia and history. Then comes the politics. A powerful treatment of Wallflower, Peter Gabriel\u2019s 80s lament for political prisoners, is followed by Mick Blake\u2019s Oblivious, an angry analysis of Ireland, a hundred years on from the Easter Rising. The backing includes fiddle, harmonica and mandolin, and for the final track, Christy recites a poem by Dave Lordan against a wash of sound. He celebrates 50 years as a full-time singer this summer, and he\u2019s still taking chances.          Watch Christy Moore sing Oblivious",
+  "webTitle": "Christy Moore: Lily review \u2013 politics, nostalgia and soul",
+  "webPublicationDate": "2016-05-19T17:45:17Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/19/christy-moore-lily-review-folk-cd-sony-music",
+  "keyword": [
+    {
+      "webTitle": "Folk music",
+      "id": "music/folk",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Robin Denselow",
+      "id": "profile/robindenselow"
+    }
+  ],
+  "guardianId": "music/2016/may/19/christy-moore-lily-review-folk-cd-sony-music"
+}

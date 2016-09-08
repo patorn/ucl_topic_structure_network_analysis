@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/mediamonkeyblog/2016/may/17/mirror-square-eyes-tv-sun",
+  "id": "2016-05-17-135",
+  "sectionId": "media",
+  "body": "The Mirror has wasted no time in taking the battle to the Sun after recent changes to its TV gossip coverage. Its Square Eyes section launched with a bang on Tuesday, boosted by a massive trail that demoted the Old Trafford bomb scare fiasco to the bottom half of the front page. Boldly hyped as \u201cBritain\u2019s best TV gossip column\u201d, Square Eyes challenges the traditional dominance of the Sun\u2019s TV Biz column, which was recently subsumed under its Bizarre umbrella. Its launch comes days after the daily 3am gossip column was axed after 16 years in favour of a Saturday roundup. With the traditionally quieter summer story season looming, exacerbated by the usual football obsession accompanying the Euros, it\u2019s good luck for a potentially tough start for the daily Square Eyes column.",
+  "webTitle": "Mirror gets Square Eyes in TV battle with the Sun",
+  "webPublicationDate": "2016-05-17T14:36:49Z",
+  "webUrl": "https://www.theguardian.com/media/mediamonkeyblog/2016/may/17/mirror-square-eyes-tv-sun",
+  "keyword": [
+    {
+      "webTitle": "Daily Mirror",
+      "id": "media/daily-mirror",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "The Sun",
+      "id": "media/sun",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "National newspapers",
+      "id": "media/national-newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers",
+      "id": "media/newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers & magazines",
+      "id": "media/pressandpublishing",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Monkey",
+      "id": "profile/monkey"
+    }
+  ],
+  "guardianId": "media/mediamonkeyblog/2016/may/17/mirror-square-eyes-tv-sun"
+}

@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/19/horse-racing-tips-friday-20-may-2016",
+  "id": "2016-05-19-157",
+  "sectionId": "sport",
+  "body": "Carlisle 2.00 Circuitous 2.30 Vatican Hill 3.05 New Lease Of Life 3.40 Wholesome 4.10 Desert Haze 4.45 Gold Flash 5.15 She\u2019s Electric    Related: Ed Chamberlin in line to make switch from Sky Sports to ITV Racing    Haydock 6.30 My Lord 7.00 Hart Stopper 7.30 Double Up 8.00 Tamayuz Magic 8.30 Superyacht 9.00 Know Your Name  Catterick 6.10 Lizzy\u2019s Dream 6.40 Wheneverwecan 7.10 Johnny B Goode 7.40 Flicka\u2019s Boy 8.10 Carpe Vita 8.40 Four Poets  Stratford 5.45 Itchymei\u2019mscratch 6.15 Weststreet 6.45 Broken Eagle 7.15 Queens Bay 7.50 Marito 8.20 Joker Choker 8.55 Bandol  Goodwood 1.50 Latest Quest 2.20 Baltic Brave 2.55 Aristocratic (nb) 3.30 Prize Money (nap) 4.00 Parnell\u2019s Dream 4.35 Clear Spring 5.05 Sir Theodore  Wolverhampton 2.10 Colour My World 2.40 Loveisreckless 3.15 Marshgate Lane 3.50 Yasir 4.20 Mutarajjil 4.55 John Joiner 5.25 El Duque",
+  "webTitle": "Horse racing tips: Friday 20 May",
+  "webPublicationDate": "2016-05-19T14:08:08Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/19/horse-racing-tips-friday-20-may-2016",
+  "keyword": [
+    {
+      "webTitle": "Horse racing tips",
+      "id": "sport/horse-racing-tips",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Horse racing",
+      "id": "sport/horse-racing",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Greg Wood",
+      "id": "profile/gregwood"
+    }
+  ],
+  "guardianId": "sport/2016/may/19/horse-racing-tips-friday-20-may-2016"
+}

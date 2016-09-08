@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/04/brexit-foreign-demand-london-office-space-property-eu-referendum-investment",
+  "id": "2016-05-04-208",
+  "sectionId": "business",
+  "body": "Global investment in London office space remained strong at the start of the year, but is expected to dip in the run-up to the EU referendum next month. A total of \u00a33.5bn was invested in central London in the traditionally subdued first three months of the year, on a par with the same quarter in 2015, according to data from the real estate advisory firm CBRE. The figure was down from \u00a34bn in the fourth quarter of 2015, which was particularly strong.  CBRE said there were 43 transactions in the first quarter, the lowest number since 2010. But the number of large deals above \u00a3100m hit 14, the highest first-quarter figure since records began in 1985. Among the biggest deals were the government\u2019s \u00a3371m sale of a stake in the King\u2019s Cross development to Australia\u2019s largest pension fund, and Great Portland Estates\u2019 sale of Savills\u2019 headquarters to Germany\u2019s Deka Immobilien Investment for \u00a3216m. Jamie Pope, the executive director of London capital markets at CBRE, said: \u201cSome investors are experiencing a degree of political and economic uncertainty at the moment, so it\u2019s heartening to report that this hasn\u2019t caused much in the way of turbulence in the London office market in the first quarter of the year. Yields are stable. \u201cNevertheless, we are already seeing some buyers hold off on deals until they know the result of June\u2019s EU vote, so we expect to see the second quarter\u2019s transaction volumes dip, before bouncing back in the second half of the year, provided Britain stays in the EU.\u201d The Royal Institution of Chartered Surveyors said last week there had been an easing in international demand for UK office, industrial and retail property since the referendum was confirmed last spring. The CBRE said international investors continue to dominate the market and were involved in just over two-thirds (67% of all transactions, down from 71% in the fourth quarter. Taking advantage of the weak pound, they poured more than \u00a32.4bn of investment into London offices. Kevin McCauley, head of London research at CBRE, said Chinese investors, who stayed away after China\u2019s stock market turmoil last summer, returned to the capital towards the end of the year and into 2016 in search of a haven.  He said: \u201cLondon has been the key beneficiary of investors looking to diversify away from risk \u2013 economic or social \u2013 since at least 2013.\u201d He pointed to transparent pricing and the relative ease of access to the London office market, as well as a shortage of new office space, which means rents are expected to keep growing.  \u201cA lot of cities in Asia and mainland Europe and New York are significantly more expensive in yield terms than London is.\u201d",
+  "webTitle": "Brexit jitters set to weigh on foreign demand for London office space",
+  "webPublicationDate": "2016-05-04T12:00:56Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/04/brexit-foreign-demand-london-office-space-property-eu-referendum-investment",
+  "keyword": [
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "London",
+      "id": "uk/london",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Julia Kollewe",
+      "id": "profile/juliakollewe"
+    }
+  ],
+  "guardianId": "business/2016/may/04/brexit-foreign-demand-london-office-space-property-eu-referendum-investment"
+}

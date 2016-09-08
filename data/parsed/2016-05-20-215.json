@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/20/buckingham-palace-trespasser-pleads-guilty",
+  "id": "2016-05-20-215",
+  "sectionId": "uk-news",
+  "body": "A man who scaled the perimeter wall of Buckingham Palace and roamed the gardens for nearly 10 minutes when the Queen, Prince Philip and Prince Andrew were in residence was a convicted murderer. Denis Hennessy, from Wembley, London, was 17 when he used an iron bar to beat a homeless man to death in 1992. He was jailed for life at the Old Bailey the following year. Now 41 and released on licence, a court heard Hennessy was able to climb over the 3-metre boundary wall and come within 50 metres of the royal residence before being stopped by armed guards.     Dennis Hennessy was charged with trespass on a protected site and criminal damage. Photograph: Met Police    Hennessy, who had earlier drunk \u201cfour or five cans of cider\u201d, cut his hand on the barbed wire as he scaled the wall. As he was detained, he repeatedly asked \u201cIs ma\u2019am in?\u201d and claimed he had been \u201cadmiring the well-kept gardens\u201d. He was jailed for four months on Friday at Westminster magistrates court after pleading guilty to trespassing on a protected site. He was given a concurrent two-month sentence after admitting criminal damage to the alarm wires as he climbed up a tree and over the wall. The prosecutor Tom Nicholson told the court: \u201cOn 18 May 2016 at about 8.37pm the defendant climbed over the perimeter wall into the gardens of Buckingham Palace. The wall is between eight and 10ft feet high topped by barbed wire and alarm wires. \u201cWhen climbing over the wall he activated the alarm, breaking the system by breaking the wires in question. He walked through the gardens to the house and was challenged by armed police. \u201cHe was detained after about 10 minutes or so on the Buckingham Palace site.\u201d Armed police, search dogs and a helicopter were deployed on high alert when Hennessy tripped the alarm as he entered the grounds near Hyde Park Corner. The Metropolitan police said on Wednesday he was arrested seven minutes after the alarm was activated. Hennessy was released from prison in 2002 on licence before the probation service stopped monitoring him in 2013. He also has a conviction for shoplifting in 2016. Sikander Choudry, defending, said the unemployed stonemason had been drinking before the incident. \u201cHe had an appointment in the jobcentre in Wembley where he lives. He attended it and after that appointment he went to have some drink. He had four or five cans of cider.\u201d Hennessy then went to meet a friend in central London, and on his way to Victoria he had another drink in a pub before deciding to climb the palace wall, using a nearby tree for support, the court heard. He caused \u00a32,000 worth of damage to the alarm system. Choudry said his client had no malicious intent towards the royal family. Several intruders have breached security at Buckingham Palace over the years, including a naked paraglider who landed on the roof in 1994. In 2013, two men were arrested on suspicion of burglary: one in the grounds and one inside an area of the palace open to the public during the day. In 1982, Michael Fagan climbed up a drainpipe and entered the Queen\u2019s private chambers while she was still in bed. The monarch reputedly spent 10 minutes chatting with Fagan before calling for help when he asked for a cigarette.",
+  "webTitle": "Murderer pleads guilty to Buckingham Palace trespass",
+  "webPublicationDate": "2016-05-20T11:13:45Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/20/buckingham-palace-trespasser-pleads-guilty",
+  "keyword": [
+    {
+      "webTitle": "Crime",
+      "id": "uk/ukcrime",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "London",
+      "id": "uk/london",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Monarchy",
+      "id": "uk/monarchy",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jamie Grierson",
+      "id": "profile/jamie-grierson"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/20/buckingham-palace-trespasser-pleads-guilty"
+}

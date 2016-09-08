@@ -1,0 +1,126 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/greenslade/2016/may/19/national-newspapers-deride-a-queens-speech-haunted-by-the-eu-vote",
+  "id": "2016-05-19-270",
+  "sectionId": "media",
+  "body": "The Queen\u2019s speech (but most definitely not the Queen) got the thumbs down from newspapers across the political spectrum.  Pity Queen Elizabeth II, said the Daily Mail. Seldom has she had to read out such vacuous policies. \u201cWhat a disappointing mishmash it was\u201d, said the Sun. \u201cRather than fix Britain\u2019s problems,\u201d said the Daily Mirror, the speech \u201cwas written to quell Tory civil war ahead of the EU referendum.\u201d Yes, the referendum \u201cis dominating both politics and government\u201d, observed the Daily Telegraph, so David Cameron unveiled an \u201cunambitious programme\u201d while \u201cthe normal business of governing is effectively on hold until Britain votes on June 23.\u201d According to the Guardian, \u201canything prone to deepen the divide in the Conservative party has to be parked\u201d until after the referendum. \u201cThe desperate need to keep on board Tory Brexiteers\u201d, it said, \u201cis a serious constraint on the government just now.\u201d The Times thought the Queen\u2019s speech was \u201cunavoidably overshadowed by a referendum in which a win for the prime minister is the status quo.\u201d But what is that status quo? The paper conceded that, should the Remain vote triumph, Cameron would still have to live with \u201ca thin majority, angry Eurosceptic backbenchers, a rebellious House of Lords and a record of U-turning that is beginning to look like habit.\u201d It continued:  \u201cWhat Her Majesty read out was in principle a recipe for the compassionate conservatism for which Mr Cameron wants to be remembered. Politically it was a smart play for the Blairite centre ground abandoned by Labour under Jeremy Corbyn.\u201d  For the Telegraph, there were \u201cfew measures to cheer traditional Conservatives\u201d but \u201ca few that might just appeal to Left-leaning voters.\u201d But the Guardian read the speech somewhat differently, arguing that its policy aims had a flavour of Michael Gove about them.  The Sun was unimpressed with the \u201cun-Conservative sugar tax\u201d and mightily upset that the Tories\u2019 \u201cmuch-hyped bill of rights\u201d has been kicked \u201cinto the long grass.\u201d But it applauded the prison reforms and the legal right for every home to have high-speed broadband. The Mail also lamented the lack of a promised sovereignty bill \u201cto restore our courts\u2019 supremacy over those of the EU\u201d and the British bill of rights \u201cto replace the disastrous human rights act.\u201d It concluded:  \u201cIsn\u2019t the depressing truth that the entire government has ground to a halt amid the infighting over the referendum? How many more years must tick away before ministers get down to the work for which they were elected?\u201d  This conveniently ignores the fact that one major reason for the holding of the referendum is the lengthy campaign against the EU and all its works by the Mail and the other Brexit newspapers. As the Mirror remarked, in neatly skewering Cameron\u2019s claim to have produced \u201ca moderate One Nation programme\u201d, it is \u201can absolute joke\u201d because...  \u201cThe Conservatives are really still a two party rabble with Remainers and Leavers fighting like well-fed ferrets in a Versace sack.\u201d  A rabble without a cause, eh?",
+  "webTitle": "National newspapers deride a Queen's speech haunted by the EU vote",
+  "webPublicationDate": "2016-05-19T09:10:13Z",
+  "webUrl": "https://www.theguardian.com/media/greenslade/2016/may/19/national-newspapers-deride-a-queens-speech-haunted-by-the-eu-vote",
+  "keyword": [
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Queen's speech",
+      "id": "politics/queens-speech",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "National newspapers",
+      "id": "media/national-newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "David Cameron",
+      "id": "politics/davidcameron",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Michael Gove",
+      "id": "politics/michaelgove",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Conservatives",
+      "id": "politics/conservatives",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Daily Telegraph",
+      "id": "media/dailytelegraph",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "The Times",
+      "id": "media/thetimes",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "The Guardian",
+      "id": "media/theguardian",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Daily Mail",
+      "id": "media/dailymail",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "The Sun",
+      "id": "media/sun",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Daily Mirror",
+      "id": "media/daily-mirror",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers",
+      "id": "media/newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "The Queen",
+      "id": "uk/queen",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Roy Greenslade",
+      "id": "profile/roygreenslade"
+    }
+  ],
+  "guardianId": "media/greenslade/2016/may/19/national-newspapers-deride-a-queens-speech-haunted-by-the-eu-vote"
+}

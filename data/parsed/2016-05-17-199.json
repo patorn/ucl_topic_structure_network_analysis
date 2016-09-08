@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/17/bbc-news-channel-bbc-world",
+  "id": "2016-05-17-199",
+  "sectionId": "media",
+  "body": "The BBC is considering a new 24-hour channel to replace two existing services, BBC News and BBC World News, as part of cost-cutting measures unveiled to staff on Tuesday. Although no decision is expected to be made until the summer, the BBC executive board is understood to have urged the news team to do further work on replacing the two existing news channels with \u201ca single new BBC News channel offering a global agenda from London\u201d. Currently, BBC News is available to licence fee payers whereas BBC World News is commercially funded and available to overseas viewers. A BBC source confirmed that there were several options under discussion but it had ruled out the idea of switching off the rolling news service in a bid to cut costs.   Related: BBC to drop online recipes as part of slimmed-down website    \u201cThis is not a BBC3 situation: BBC News will not be going online only,\u201d said one corporation insider. The plans also include greater use of live streaming especially for mobile devices and enhanced output on the 24-hour BBC Parliament, which is expected to broadcast more news from inside parliaments other than Westminster, such as Holyrood and the National Assembly for Wales.  It is not yet clear how much money will be saved by the decision. In February it emerged that BBC News faces cuts of \u00a380m over the next four years as the corporation as a whole looks to save an estimated \u00a3800m a year by 2021-22. The division employs about 7,400 of the corporation\u2019s 18,000 workforce. As part of the BBC\u2019s overall talent strategy, the cost of on-air salaries in news over the past five years has fallen. The BBC is now to reduce it by a further 10% in real terms over the next five years. BBC News has committed to spending a maximum of 11% of in-house content costs on talent on-air.  When he launched the review in January to reshape the department for the next decade, director of news James Harding said the division \u201ccan\u2019t afford to do everything\u201d.  Last week\u2019s white paper urged the BBC to add more distinctive features to its content.  With the BBC under pressure to cut costs, speculation has focused on the future of the News channel, as well as Radio 5 Live. Both are now said to be off the table. The BBC News channel alone costs \u00a363m a year but much of its new gathering is used elsewhere in the BBC. Newsgathering in total is the biggest single cost in the whole department. Radio 5 Live employs fewer people but has a similar annual budget \u2013 \u00a366m \u2013 because of the high cost of sports rights.  Another potential victim of the need to find savings to cover the \u00a3700m annual cost of free TV licences for the over-75s by 2020 is thought to be local news and radio. The latter costs \u00a3153m a year.  BBC plans unveiled as part of its online creative review is likely to promote streaming services rather than channels.",
+  "webTitle": "BBC considers replacing two news channels with one service",
+  "webPublicationDate": "2016-05-17T11:01:18Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/17/bbc-news-channel-bbc-world",
+  "keyword": [
+    {
+      "webTitle": "BBC",
+      "id": "media/bbc",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "TV news",
+      "id": "media/tvnews",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Television industry",
+      "id": "media/television",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "The news on TV",
+      "id": "tv-and-radio/tv-news",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Television",
+      "id": "culture/television",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Television & radio",
+      "id": "tv-and-radio/tv-and-radio",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jane Martinson",
+      "id": "profile/janemartinson"
+    }
+  ],
+  "guardianId": "media/2016/may/17/bbc-news-channel-bbc-world"
+}

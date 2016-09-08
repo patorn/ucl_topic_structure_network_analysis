@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/29/nauru-decriminalises-homosexuality-and-suicide",
+  "id": "2016-05-29-206",
+  "sectionId": "world",
+  "body": "Nauru has reformed its criminal code, decriminalising homosexuality and suicide. At least two refugees held on Nauru have been charged, jailed and fined for attempting to kill themselves in recent weeks, as a spate of suicide attempts has seized the island. That act will no longer be an offence. Several refugees on the island are gay, and have reported being forced to live as virtual prisoners in their accommodation because of fears of arrest and widespread community hostility.  On Friday, the Nauruan government announced that the country\u2019s parliament had passed a number of laws updating its criminal code to bring it more into line with modern international human rights standards. The new laws supersede those based on the 1899 Criminal Code of Queensland.   Related: Tim Costello says indefinite detention of asylum seekers is 'torture'    The archaic Queensland criminal code derived its anti-homosexuality laws \u2013 \u201ccarnal knowledge against the order of nature\u201d \u2013 from the British 1860 anti-sodomy laws, which were exported across the Commonwealth during the Victorian era. Nauru\u2019s reformed laws have \u201cremoved homosexuality as an offence\u201d, and state that suicide \u201cis no longer an offence and is considered more a mental health issue rather than a criminal law issue\u201d. In addition, the reformed legislation broadens the definition of rape to include marital rape, and introduces the offence of stalking. The death penalty has been removed as a punishment from Nauru\u2019s statute books, the government has said, as has hard labour and solitary confinement. Slavery has been criminalised, as well as child labour, and \u201cforcing a child to marry another person in exchange for a material benefit\u201d.",
+  "webTitle": "Nauru decriminalises homosexuality and suicide",
+  "webPublicationDate": "2016-05-29T00:47:30Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/29/nauru-decriminalises-homosexuality-and-suicide",
+  "keyword": [
+    {
+      "webTitle": "Nauru",
+      "id": "world/nauru",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Australian immigration and asylum",
+      "id": "australia-news/australian-immigration-and-asylum",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Asia Pacific",
+      "id": "world/asia-pacific",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Refugees",
+      "id": "world/refugees",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ben Doherty",
+      "id": "profile/ben-doherty"
+    }
+  ],
+  "guardianId": "world/2016/may/29/nauru-decriminalises-homosexuality-and-suicide"
+}

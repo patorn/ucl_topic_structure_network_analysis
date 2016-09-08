@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/01/demolition-jake-gyllenhaal-review",
+  "id": "2016-05-01-178",
+  "sectionId": "film",
+  "body": "\u201cFor some reason, everything has become a metaphor,\u201d writes recently widowed investment banker Davis (Jake Gyllenhaal) in the latest of a series of confessional letters to a vending machine customer service department. It\u2019s an indication of how much this film talks down to its audience that screenwriter Bryan Sipe felt the need to spell this out to us. The story of a bereaved man who starts to dismantle household appliances and, later, buildings, the whole movie is a laboured metaphor: we get it, he\u2019s falling apart. A deftly executed opening sequence notwithstanding, this is a disappointingly one note piece of direction from Jean-Marc Vall\u00e9e, whose recent run of form with Dallas Buyers Club and Wild seems to have abruptly derailed. Perhaps the main redeeming factor is the assured performance from newcomer Judah Lewis, as the son of Karen (Naomi Watts) the customer service worker who reads, and connects with, Davis\u2019s heartfelt letters.         Watch the trailer for Demolition.",
+  "webTitle": "Demolition review \u2013 laboured study of grief",
+  "webPublicationDate": "2016-05-01T07:00:48Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/01/demolition-jake-gyllenhaal-review",
+  "keyword": [
+    {
+      "webTitle": "Drama",
+      "id": "film/drama",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Jake Gyllenhaal",
+      "id": "film/jake-gyllenhaal",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Wendy Ide",
+      "id": "profile/wendy-ide"
+    }
+  ],
+  "guardianId": "film/2016/may/01/demolition-jake-gyllenhaal-review"
+}

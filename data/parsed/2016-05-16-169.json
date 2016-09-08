@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/16/schengen-museum-ceiling-collapse-bad-omen-europe-borders",
+  "id": "2016-05-16-169",
+  "sectionId": "world",
+  "body": "A museum devoted to the history of Europe\u2019s imperilled passport-free zone could be closed for up to three months after its ceiling fell in during a storm last week, local media have reported. In an incident EU leaders will hope symbolised nothing very much, two visitors and an attendant escaped shocked but unharmed after a 40sq m section of suspended ceiling at the European Museum in Schengen, Luxembourg, collapsed under the weight of rainwater that had seeped in.  But there was significant damage to some of the museum\u2019s installations and exhibits, which include passports, signed documents, photographs and customs officials\u2019 uniforms, Roger Weber, the president of the Schengen Association that runs the free museum, told Luxemburger Wort.    Related: Is the Schengen dream of Europe without borders becoming a thing of the past?    The museum, which opened in 2010, traces the history of European integration and the small town on the borders of Luxembourg, France and Germany where the agreement that led to the scrapping of EU border controls was signed by five members of the then European Economic Community on 14 June 1985. European governments have warned that the survival of the Schengen zone, which allows passport-free movement between 26 countries (including four non-EU members), is at risk as a result of the Paris and Brussels terror attacks and Europe\u2019s migration crisis.  Faced with eight countries temporarily reinstating border controls since September 2015, the European commission has said it wanted member states to lift internal border controls again as quickly as possible and with \u201ca clear target date of November 2016\u201d.  The mayor of Schengen, Ben Homan, insisted that the ceiling accident, which happened as the museum was closing last Tuesday, had no significance whatsoever beyond the immediate and obvious. \u201cIt\u2019s a sign,\u201d Homan said, \u201cthat we need to do some repairs.\u201d  The town\u2019s mayor added that even if the ceiling collapse was not a \u201csymbol\u201d, the EU \u201cmust do everything it can to preserve the Schengen area\u201d.",
+  "webTitle": "Schengen museum ceiling collapses \u2013 but it's not a sign, mayor says",
+  "webPublicationDate": "2016-05-16T13:49:33Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/16/schengen-museum-ceiling-collapse-bad-omen-europe-borders",
+  "keyword": [
+    {
+      "webTitle": "Luxembourg",
+      "id": "world/luxembourg",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Museums",
+      "id": "culture/museums",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jon Henley",
+      "id": "profile/jonhenley"
+    }
+  ],
+  "guardianId": "world/2016/may/16/schengen-museum-ceiling-collapse-bad-omen-europe-borders"
+}

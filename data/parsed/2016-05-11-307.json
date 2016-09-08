@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/11/total-film-future-blaze",
+  "id": "2016-05-11-307",
+  "sectionId": "media",
+  "body": "Future, the publisher of titles including T3, Total Film and TechRadar, has acquired Blaze, the owner of events including the London Drum Show and shooting titles such as Sporting Rifle. The publisher, which in November raised more than \u00a33m to invest in expanding its digital, magazine and events portfolio, paid an undisclosed sum for Blaze. The acquisition will see Future enter the shooting market for the first time, taking control of titles including Gun Trade News, Clay Shooting, Airgun Shooter, Bow International and iShoot. Future has also taken an option in the newly launched UK Game Fair to complement its shooting magazine portfolio. It will also build its music portfolio, taking control of events including the London Drum Show and the London Bass Guitar Show, as well as magazines including Acoustic, Bass Drummer and iDrum. \u201cThe acquisition is part of our strategy to diversify our revenues, increase our scale and improve operational efficiency by acquiring complementary brands in our magazine division,\u201d said Zillah Byng-Thorne, chief executive of Future. \u201cWe\u2019ll gain from their team\u2019s specialist knowledge and insight, and the deal will further strengthen Future\u2019s portfolio as we work towards fulfilling our long-term ambitions.\u201d Blaze is headquartered in Leamington Spa and employs 35 staff which future says, rather ominously, will only stay put for the \u201cforseeable future\u201d. The company, which has shed 460 staff over about two years to reverse losses running to \u00a335m, already owns music titles including Guitarist, Rhythm, Total Guitar, Computer Music and FutureMusic. In 2014, Future sold off its 17 craft and bike titles to Immediate Media, the publisher of the Radio Times and Top Gear, in a \u00a324m deal.",
+  "webTitle": "Total Film owner Future presses trigger on shooting and music acquisition",
+  "webPublicationDate": "2016-05-11T08:50:33Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/11/total-film-future-blaze",
+  "keyword": [
+    {
+      "webTitle": "Future Publishing",
+      "id": "media/future-publishing",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Consumer magazines",
+      "id": "media/consumer-magazines",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Magazines",
+      "id": "media/magazines",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers & magazines",
+      "id": "media/pressandpublishing",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Trade magazines",
+      "id": "media/trade-magazines",
+      "sectionId": "media",
+      "sectionName": "Media"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Mark Sweney",
+      "id": "profile/marksweney"
+    }
+  ],
+  "guardianId": "media/2016/may/11/total-film-future-blaze"
+}

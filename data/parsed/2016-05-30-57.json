@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/30/two-boatloads-albanian-migrants-not-an-invasion-britain",
+  "id": "2016-05-30-57",
+  "sectionId": "uk-news",
+  "body": "Only during a European referendum campaign could the rescue of two small boats containing 35 Albanians off the coast of Kent over a bank holiday weekend be inflated into a major new migrant invasion force heading for Britain. The fear is that the recent security clampdown at the Port of Calais and Channel tunnel will lead to migrants prepared to risk their lives trying to reach Britain in small boats.  It is claimed that cuts to the UK Border Force has left hundreds of miles of British coastline, particularly in Kent and Sussex, completely unguarded and wide open to desperate migrants trying to make it across the Channel. But neither the fear nor the charge are necessarily well-founded. The arrival of two small boats does not constitute a trend. As the former chief inspector of borders John Vine put it: \u201cI think it is reasonable to assume that this is something that might have been happening, and if this is now the start of a new trend we certainly need to gather the intelligence and the resources to nip it in the bud.\u201d This is no doubt correct and the UK Border Force and its maritime control centre will no doubt be able to command the necessary resources to ensure that it will be nipped in the bud. But it is very wrong to assume that this weekend marks the arrival of the Mediterranean refugee boat crisis on the shores of Britain. Unlike the Med, the Channel is one of the most monitored stretches of water in the world. It has to be as it is one of the busiest shipping lanes.  We don\u2019t need a flotilla of Royal Navy boats or UK Border Force cutters patrolling a coastline that is tiny in comparison to the shores of north Africa. We already have radar and some of the world\u2019s most sophisticated tracking systems to monitor cross-Channel traffic. David Bolt, Vine\u2019s successor as chief inspector of borders, raised concerns in January about some of the patchy Border Force coverage of small ports and small airports around Britain. The Home Office responded by pointing out that they may not have Border Force officers at every harbour, but they do work closely with the harbour masters in every port, who know only too well when there are unusual movements on their patch. If they don\u2019t spot them, then there is no shortage of locals to alert them. The Home Office has not regarded small harbour checks as the highest priority for the simple reason that they have not so far proved to be an open backdoor into Britain. In fact the home secretary, Theresa May, was prepared to send one of her five Border Force cutters to the Mediterranean last year to help the EU intercept people smugglers rather than patrol the British coast. The two boatloads of Albanians might yet prove the start of a new trend, but the front-page headlines about them have more to do with referendum campaign rhetoric than with the debate over the changing priorities of border security.",
+  "webTitle": "Two boatloads of migrants do not an invasion make",
+  "webPublicationDate": "2016-05-30T17:03:32Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/30/two-boatloads-albanian-migrants-not-an-invasion-britain",
+  "keyword": [
+    {
+      "webTitle": "Immigration and asylum",
+      "id": "uk/immigration",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Migration",
+      "id": "world/migration",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Refugees",
+      "id": "world/refugees",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Alan Travis",
+      "id": "profile/alantravis"
+    }
+  ],
+  "guardianId": "world/2016/may/30/two-boatloads-albanian-migrants-not-an-invasion-britain"
+}

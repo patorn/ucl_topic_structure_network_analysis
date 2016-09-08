@@ -1,0 +1,90 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/29/fracking-contribute-climate-change",
+  "id": "2016-05-29-18",
+  "sectionId": "environment",
+  "body": "One of the justifications for fracking is the use of natural gas as a bridging fuel between coal and a low-carbon future. However natural gas is mostly methane, which has strong global warming impacts in its own right. Natural gas therefore only provides climate benefits over coal if the leakage is no more than 2-3%. We cannot measure leaks from every pipe joint. One alternative is to measure the sum of lots of leaks from a distance. Flights over US shale gas fields reveal large methane sources, but these areas also have cattle farms that produce methane and the two sources need to be separated.    Related: Europe's problem with diesel cars    Shale gas also contains ethane, which does not come from farming. Looking at ethane and methane together, shale gas and oil extraction were found to be easily the dominant source giving leak rates of 0.18-2.8% even before the gas was distributed to users. Some active drilling areas were notable super-emitters. Ethane from shale gas and oil extraction is bringing its own problems. Ozone, synonymous with Los Angeles smog, is a normally a summer pollutant, but in Utah, high levels have been measured in winter for the first time. Here leaked ethane built up in cold, still air and interacted with low-angle sunlight. Ethane can remain in the air for around two months, making it a global pollutant. Ethane measured from the top of the Swiss Alps has been rising since the start of large scale US shale gas extraction in 2009, indicating an increase in the global methane leakage from natural gas.",
+  "webTitle": "How fracking can contribute to climate change",
+  "webPublicationDate": "2016-05-29T20:30:14Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/29/fracking-contribute-climate-change",
+  "keyword": [
+    {
+      "webTitle": "Fracking",
+      "id": "environment/fracking",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Pollution",
+      "id": "environment/pollution",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Shale oil",
+      "id": "environment/shale-oil",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Climate change",
+      "id": "environment/climate-change",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Energy",
+      "id": "environment/energy",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Fossil fuels",
+      "id": "environment/fossil-fuels",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Gas",
+      "id": "environment/gas",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Oil",
+      "id": "business/oil",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Oil",
+      "id": "environment/oil",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Climate change",
+      "id": "science/scienceofclimatechange",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Gary Fuller",
+      "id": "profile/gary-fuller"
+    }
+  ],
+  "guardianId": "environment/2016/may/29/fracking-contribute-climate-change"
+}

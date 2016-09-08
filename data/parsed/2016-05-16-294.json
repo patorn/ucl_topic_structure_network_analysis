@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/16/radiohead-copyright-burn-the-witch-video-trumpton",
+  "id": "2016-05-16-294",
+  "sectionId": "music",
+  "body": "Radiohead have been accused of \u201ctarnishing the brand\u201d of the Trumptonshire trilogy in their video for the single Burn the Witch.  William Mollett, the son-in-law of Gordon Murray \u2013 who created the children\u2019s TV series Trumpton, Chigley and Camberwick Green \u2013 told the Mail on Sunday: \u201cRadiohead should have sought our consent as we consider this a tarnishing of the brand. It is not something we would have authorised. We consider that there is a breach of copyright and we are deciding what to do next.\u201d            The video for Burn the Witch, directed by Chris Hopewell, was unmistakably based on the Trumptonshire programmes, which first aired on the BBC between 1966 and 1969. Rather than the idyll portrayed in the original shows, however, Burn the Witch turned into a horror film, with an outsider ending up inside a burning wicker man. Animator Virpi Kettu suggested the video was a comment on European fears about the refugee crisis. Not only does the stop-motion animation style of Burn the Witch match the Trumptonshire trilogy, but figures resembling to the original characters Windy Miller, the mayor of Trumpton and the florist Mrs Cobbit also appear.   Related: How we made: Alison Prince and Brian Cant on Trumpton    Mollett said he would not be showing the video to his father in law, who is now 95, because \u201cGordon would be appalled\u201d. In the immediate aftermath of the video\u2019s release on 3 May, Mollett told Pitchfork he was not aware of it. Radiohead\u2019s representative was not available when Pitchfork asked whether the group had permission from the Trumptonshire rights holders to make the video. Radiohead\u2019s UK publicist had no comment on this story. Radiohead are far from the first band to invert the secure world of Trumpton, Chigley and Camberwick Green to incorporate modern fears. In the mid-80s, Half Man Half Biscuit recorded a pair of songs that did the same. In Trumpton Riots they portrayed Trumptonshire as a place of striking firemen, militant socialism, and military coups. In a version of The Train Song from Chigley, the train driver\u2019s gentle words were reconfigured: \u201cEvery Saturday I get the Chigley skins / And they always smash my windows \u2019cos the home side always wins.\u201d",
+  "webTitle": "Radiohead video breaching copyright, say Trumpton creator's family",
+  "webPublicationDate": "2016-05-16T08:32:14Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/16/radiohead-copyright-burn-the-witch-video-trumpton",
+  "keyword": [
+    {
+      "webTitle": "Radiohead",
+      "id": "music/radiohead",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Pop and rock",
+      "id": "music/popandrock",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Television",
+      "id": "culture/television",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Television & radio",
+      "id": "tv-and-radio/tv-and-radio",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian music",
+      "id": "profile/guardianmusic"
+    }
+  ],
+  "guardianId": "music/2016/may/16/radiohead-copyright-burn-the-witch-video-trumpton"
+}

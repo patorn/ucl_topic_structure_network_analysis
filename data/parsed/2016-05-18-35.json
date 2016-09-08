@@ -1,0 +1,17 @@
+{
+  "apiUrl": "https://content.guardianapis.com/news/2016/may/18/corrections-and-clarifications",
+  "id": "2016-05-18-35",
+  "sectionId": "news",
+  "body": "\u2022 A qualifier was missing from an article reporting on a study into the economic impact of refugees on the EU. It said the study highlighted how refugees could solve an impending demographic challenge in Europe and went on to quote from it: \u201cBy 2030 the working-age population is projected to shrink by a sixth (8.7 million people), while the old-age population will grow by more than a quarter (4.7 million people).\u201d It should have said that at that point the study was referring to Germany, not to the EU as a whole (Europe \u2018will profit from influx of refugees\u2019, 18 May, page 15). \u2022 A photograph showing a lineup of dignitaries at the recent wedding of the daughter of the Turkish president was miscaptioned. The man standing on one side of the bride was not her father, as the caption said, but a previous Turkish president, Abdullah G\u00fcl (Harmony prevails at wedding, 16 May, page 14). \u2022 Martin Narey is a former director general of the prison service, not a former chief inspector of prisons, as we described him (Officials have failed to protect our children. Now they must pay the price, 17 May, page 29). \u2022 Other recently corrected articles include: How much should patients know about pharma payments to doctors?",
+  "webTitle": "Corrections and clarifications",
+  "webPublicationDate": "2016-05-18T20:00:05Z",
+  "webUrl": "https://www.theguardian.com/news/2016/may/18/corrections-and-clarifications",
+  "keyword": [],
+  "authors": [
+    {
+      "webTitle": "Corrections and clarifications column editor",
+      "id": "profile/editor-of-the-corrections-and-clarifications-column"
+    }
+  ],
+  "guardianId": "news/2016/may/18/corrections-and-clarifications"
+}

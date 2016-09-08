@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/science/2016/may/26/spacewatch-india-tests-new-spaceplane",
+  "id": "2016-05-26-45",
+  "sectionId": "science",
+  "body": "India has successfully tested a hypersonic \u201cspaceplane\u201d model that could one day be scaled up into a space shuttle. The launch took place at 07:00 IST on 23 May from the Satish Dhawan space centre, Sriharikota, in the coastal state of Andhra Pradesh. It was the first flight in the Reusable Launch Vehicle \u2013 Technology Demonstration (RLV-TD) programme being conducted by the Indian Space Research Organisation (Isro). The RLV-TD vehicle is 6.5m long and weighs 1750kg. Nasa\u2019s retired space shuttle, which could carry seven astronauts and cargo into space, was 37.2m long.    Related: Russia launches first rocket from new spaceport    Isro\u2019s aim is to fly a series of test flights to develop an uncrewed, reusable vehicle for cheap, regular access to space. They estimate that a successful spaceplane could lower the cost to orbit by a factor of 10. This first test flight took place on an HS9 solid rocket booster and boosted the spaceplane to an altitude of 65km. As it fell back to Earth, the RLV-TD encountered the atmosphere at five times the speed of sound. This verified the thermal protection system that was developed to protect the craft from the fiery re-entry. Other on-board systems tested during the descent included the autonomous navigation, guidance and control systems. All worked well, but instead of landing on a runway, the spaceplane splashed as planned down into the Bay of Bengal. As expected, the impact destroyed the craft. India now plans to build a runway near Sriharikota so that the test programme can return vehicles intact.",
+  "webTitle": "India tests new spaceplane",
+  "webPublicationDate": "2016-05-26T20:30:12Z",
+  "webUrl": "https://www.theguardian.com/science/2016/may/26/spacewatch-india-tests-new-spaceplane",
+  "keyword": [
+    {
+      "webTitle": "Space",
+      "id": "science/space",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "The space shuttle",
+      "id": "science/space-shuttle",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Nasa",
+      "id": "science/nasa",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "India",
+      "id": "world/india",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Stuart Clark",
+      "id": "profile/dr-stuart-clark"
+    }
+  ],
+  "guardianId": "science/2016/may/26/spacewatch-india-tests-new-spaceplane"
+}

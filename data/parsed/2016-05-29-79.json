@@ -1,0 +1,43 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/29/fred-calcott-obituary",
+  "id": "2016-05-29-79",
+  "sectionId": "politics",
+  "body": "My friend and neighbour Fred Calcott, who has died aged 81, was a postman and trade union official who acted as an advocate for those less able to speak for themselves. Fred was born in Holloway, north London, the youngest of seven children. When he was two, his father, also Frederick, walked out on the family, and his mother, Lydia (nee Rossi), supported the the whole family by working in a laundry. After school and national service, Fred worked as a postman, becoming active in the Communication Workers Union at the Mount Pleasant sorting office in north London. Fred\u2019s sense of fairness and justice came to the fore when the parcel section was due to move to St Pancras Way in Camden. He insisted on a moving package for the sorters: \u201c\u00a31,000 each or no one\u2019s moving,\u201d he said. Management conceded, but excluded the cleaners, who were mostly women. Indignant at the injustice, Fred talked to the sorters, who all agreed to share their money with the cleaners so that everyone received the same amount. As a result of his negotiating skills as union branch secretary, Fred was offered a management position by the Post Office. He didn\u2019t think twice about turning it down. In later life Fred became a justice of the peace at Horseferry Road and Bow Street magistrate courts, where he would push for leniency for those less able to pay their fines. He also set up the first Peabody Trust Housing Association tenants\u2019 association, and in 2003 was invited to become the first tenant-governor in the trust\u2019s long history, a task he willingly undertook for no remuneration. In 1998 he was appointed MBE for services to the Post Office and to the community. When he became my new neighbour, he introduced himself by saying: \u201cI see you read the Guardian too.\u201d He was a lifelong member of the Labour party, and on election nights his flat in Archway was open house for the Islington North MP Jeremy Corbyn, local councillors and other party workers. Fred met his future wife, Margaret, at St Joseph\u2019s dance hall on Highgate Hill. They married in 1957 \u2013 their honeymoon was a cup of tea in the park. Margaret recalled that they couldn\u2019t afford a slice of cake as Fred had lent his last couple of pounds to his brother to travel to a job interview. Fred is survived by Margaret, by their sons Paul and John, and by two granddaughters.",
+  "webTitle": "Fred Calcott obituary",
+  "webPublicationDate": "2016-05-29T15:20:32Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/29/fred-calcott-obituary",
+  "keyword": [
+    {
+      "webTitle": "Trade unions",
+      "id": "politics/tradeunions",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Post Office",
+      "id": "business/post-office",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Labour",
+      "id": "politics/labour",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "London",
+      "id": "uk/london",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [],
+  "guardianId": "politics/2016/may/29/fred-calcott-obituary"
+}

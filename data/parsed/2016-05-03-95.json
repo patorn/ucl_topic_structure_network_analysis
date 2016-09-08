@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/society/2016/may/03/st-georges-hospital-suspends-acting-chief-paula-vasco-knight",
+  "id": "2016-05-03-95",
+  "sectionId": "society",
+  "body": "A major teaching hospital in south London has suspended its acting chief executive in relation to serious financial allegations less than a fortnight after she took charge.  St George\u2019s University Hospitals NHS Foundation Trust, in Tooting announced on Tuesday that Dr Paula Vasco-Knight had been suspended over allegations relating to her work at a previous employer.  Vasco-Knight was chief operating officer of St George\u2019s hospital before being promoted to chief executive when Miles Scott stood down last month. She previously worked at Torbay and Devon NHS Foundation Trust, where she became the first BME female chief executive of a foundation trust in 2008. In the January 2014 new year\u2019s honours list she was awarded a CBE for her work across the NHS both as an ambassador for equality and diversity within NHS England and as an innovative chief executive. She led the trust to win the HSJ organisation of the year award and was NHS England\u2019s national lead for equality. But her time at Torbay and Devon was marred by an employment tribunal; she was criticised for her treatment of two whistleblowers who raised concerns about her recruitment of her daughter\u2019s boyfriend to a job at Torbay hospital.  The allegations of nepotism led to her suspension from her job in February 2014. In May that year, Vasco-Knight resigned. In a statement announcing her departure, Torbay and Devon NHS Foundation Trust said she was relocating to the north-west for family reasons. It said her tenure had been overshadowed by the employment tribunal but that Vasco-Knight pointed to an independent report commissioned by a former chair of the trust prior to the tribunal which found no evidence that she had breached trust policies. Tuesday\u2019s statement by St George\u2019s said: \u201cAs a result of serious allegations being made against her, Dr Paula Vasco-Knight has been suspended from her role as acting chief executive at St George\u2019s University Hospitals NHS Foundation Trust. The allegations are financial in nature and relate to her work at a previous employer.\u201d It said that it was not in a position to comment further at this stage. The suspension adds to the turmoil at St George\u2019s. In February, the trust said it expected to record a deficit of \u00a352.6m for the year 2015-16. In October last year, an independent report by PricewaterhouseCoopers identified 75 recommendations for improvement. Scott\u2019s departure was initially reported by the Wandsworth Guardian but it was only after an internal letter to staff was leaked more than a week later that the trust confirmed it. His move to take up a secondment at NHS Improvement came a couple of months after he said he was against imposition of the junior doctors\u2019 contract.",
+  "webTitle": "St George's hospital suspends acting chief after two weeks in role",
+  "webPublicationDate": "2016-05-03T17:01:50Z",
+  "webUrl": "https://www.theguardian.com/society/2016/may/03/st-georges-hospital-suspends-acting-chief-paula-vasco-knight",
+  "keyword": [
+    {
+      "webTitle": "Hospitals",
+      "id": "society/hospitals",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "London",
+      "id": "uk/london",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "NHS",
+      "id": "society/nhs",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Haroon Siddique",
+      "id": "profile/haroonsiddique"
+    }
+  ],
+  "guardianId": "society/2016/may/03/st-georges-hospital-suspends-acting-chief-paula-vasco-knight"
+}

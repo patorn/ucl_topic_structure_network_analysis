@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/21/tory-eu-referendum-voters-switching-remain-opinium-observer-poll",
+  "id": "2016-05-21-74",
+  "sectionId": "politics",
+  "body": "David Cameron\u2019s campaign to keep the UK in the EU appears to be working as Conservative voters switch to the remain camp, the latest Opinium/Observer referendum poll suggests. With a month to go before voters decide whether Britain should stay in or leave the EU, Opinium puts remain four points ahead on 44%, with leave on 40% and 14% undecided. At the beginning of April, leave had a four-point lead.    Brexit explained: current polling   Remain now has a substantial lead among Conservative voters with 48% of Tory backers saying they want to stay in the EU, compared with 41% who want to leave. This is a considerable turnaround since the first Opinium/Observer referendum poll in early April, which showed 44% of Conservative voters in favour of leaving against 39% who backed staying in.  Adam Drummond, of Opinium Research, which carried out an online poll of 2,008 adults between 17 and 19 May, said: \u201cThere does seem to have been some move towards staying in the EU, particularly given that ours is an online methodology which typically shows a closer race than polls conducted on the phone. The change comes mainly from Conservative voters who have moved from narrowly backing Brexit at the end of April to a large lead for remain.\u201d   Related: Third of Tories could defect to Ukip if UK stays in EU, says Farage    Drummond said the change appeared to be significant though it could in part be the result of hardline pro-Brexit Tories now identifying themselves as Ukip supporters. This would mean that the proportion of pro-Brexit Tories would drop in the figures. When asked how important the referendum was, more than half (54%) said they believed it was more important than a general election while 39% thought it was about the same level of importance. Two-thirds (67%) of those planning to vote leave thought it was more important than a general election against 47% of those planning to vote to remain.  Three-fifths of respondents (61%) said they had discussed the referendum with family members and 54% had done so with friends. Ukip supporters discussed the referendum most, with 76% of party supporters saying they had raised it with family and 70% with friends.    Opinium Observer poll   While the lead for remain is still narrow, more than twice as many respondents said they expected the UK to remain in the EU (52%) as those who thought it would vote to leave (23%). Of remain supporters, 76% think their side will win while only 46% of leave\u2019s backers are expecting success. Opinium also asked what effect people thought Brexit would have on their financial security, with 31% saying they thought their household would be less financially secure if Britain voted to leave, while 17% believed it would be more secure. Almost nine in 10 (87%) of respondents say they are definitely registered to vote, while a further 6% think they are. However, only 70% of 18 to 34-year-olds say they are definitely registered to vote compared with 97% of those aged 55 and over.   Related: Polls show Tory voters are pushing Britain towards staying in EU    \u2022 Opinium Research carried out an online survey of 2,008 UK adults aged 18+ from 17 to 19 May 2016. Results have been weighted to nationally representative criteria.",
+  "webTitle": "Tory EU referendum voters are switching to \u200b\u200bremain, says poll",
+  "webPublicationDate": "2016-05-21T16:52:31Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/21/tory-eu-referendum-voters-switching-remain-opinium-observer-poll",
+  "keyword": [
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Conservatives",
+      "id": "politics/conservatives",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "David Cameron",
+      "id": "politics/davidcameron",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK Independence party (Ukip)",
+      "id": "politics/ukip",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Opinion polls",
+      "id": "politics/polls",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Toby Helm",
+      "id": "profile/tobyhelm"
+    }
+  ],
+  "guardianId": "politics/2016/may/21/tory-eu-referendum-voters-switching-remain-opinium-observer-poll"
+}

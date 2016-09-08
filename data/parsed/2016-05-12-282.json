@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/12/hollywood-sexism-probe-wide-ranging-well-resourced-aclu",
+  "id": "2016-05-12-282",
+  "sectionId": "film",
+  "body": "A historic federal probe into alleged sexist hiring practices in Hollywood has resulted in a \u201cwide-ranging and well-resourced investigation\u201d, according to the American Civil Liberties Union (ACLU).   Related: Hollywood prejudice against female directors to have US equal opportunity inquiry    Officials from the civil rights group asked the US equal employments opportunity commission (EEOC) and other agencies to investigate gender discrimination in the film industry in May. They pointed out that in 2014, only 7% of the directors of the 250 top-grossing Hollywood-produced films were women \u2013 down 2% on the equivalent figure for 1998. Fifty female directors received a letter from the commission in October asking them to meet with agents in what was seen as a potential first step towards a class action suit against Hollywood studios for failing to adhere to the terms of the US Civil Rights Act of 1964.  Melissa Goodman, director of the LGBTQ, gender and reproductive justice project at the ACLU of southern California, told the Associated Press the union was \u201cvery encouraged by how seriously the government has taken this\u201d.   Related: Only one fifth of UK film workers were female in 2015, study finds    She said: \u201cOur hope is that they\u2019ll push industry leaders to address the ongoing violations of civil rights women directors in the industry have experienced and are experiencing.\u201d  Goodman said she hoped the meetings between agents and industry personnel would lead to charges against producers and others for failing to hire female directors. However, she made clear that the federal agencies involved were not required to release the results of their probe, nor to act on their findings. Speaking during a debate on the satellite radio station SiriusXM, the actor and film-maker Jodie Foster said this week that she found it hard \u201cto get interested in millionaires worrying about who gets paid more\u201d. She continued: \u201cI\u2019m just so grateful to be an actor, and I know lots of actors feel that way: that it\u2019s hard for us to complain because we\u2019re artists. And unfortunately we\u2019re artists in a marketplace, and the marketplace pays what the marketplace demands, so we need to change the marketplace.\u201d   Related: Jennifer Lawrence expresses anger at Hollywood's gender pay gap    However, the two-times Oscar-winner said it was important for fellow actors such as Jennifer Lawrence, who in October wrote a essay on pay for Lena Dunham\u2019s Lenny magazine, to speak out on the issue. \u201cThese are conversations that we need to have in our culture,\u201d Foster said. \u201cWe need to have conversations about diversity all over the place, and inequality. Especially now, when the class inequality and financial inequality is larger than ever, and it really is the problem of our future. It\u2019s something that we all need to look at and think about how to solve.\u201d",
+  "webTitle": "Hollywood sexism probe \u2018wide-ranging and well-resourced\u2019, says ACLU",
+  "webPublicationDate": "2016-05-12T10:03:32Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/12/hollywood-sexism-probe-wide-ranging-well-resourced-aclu",
+  "keyword": [
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Gender",
+      "id": "world/gender",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Jodie Foster",
+      "id": "film/jodie-foster",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Women",
+      "id": "lifeandstyle/women",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Film industry",
+      "id": "film/film-industry",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ben Child",
+      "id": "profile/benchild"
+    }
+  ],
+  "guardianId": "film/2016/may/12/hollywood-sexism-probe-wide-ranging-well-resourced-aclu"
+}

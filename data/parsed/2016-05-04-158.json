@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/04/windows-10-updates-ruining-pro-gaming-streams",
+  "id": "2016-05-04-158",
+  "sectionId": "technology",
+  "body": "Perhaps there\u2019s nothing more annoying than going in for the kill to suddenly be \u201cpooped on\u201d by a Windows 10 automatic installation taking out your computer mid-stream to your 130,000 or so followers. After deciding to  try and ruin  advertise during the weather by attempting to automatically install midway through a forecast, Windows 10 is starting to wreak havoc with gamers. Ex-professional Counter Strike player turned full-time streamer Erik Flom was rudely interrupted mid-game and live on Twitch by Windows 10 automatically installing on his PC.     Flom caught by surprise by Windows 10. Just look at his face.   \u201cWhat. What!? How did this happen! Fuck you Windows 10!\u201d Flom screamed at the PC. \u201cOh my God! You had one job PC. We turned off everything. Update faster you fuck!\u201d Initial outrage flowed into jubilation as it appeared Windows 10 was nearing completion, only for Flom to have his hopes dashed by a second installation countdown. The whole lot was captured live on game video-streaming service Twitch through a video capture system, which remained operational while the gaming PC installed Windows 10. This is perhaps the first recorded instance of Windows 10 installing automatically while a user is actively using their PC, rather than having just nipped off to make a cup of tea. Regardless of how good Windows 10 might be and how automatic installs boost user numbers, forcing it down the throats of unsuspecting gamers, weather people and workers isn\u2019t exactly going to breed goodwill among Windows users.",
+  "webTitle": "Windows 10 updates are now ruining pro-gaming streams",
+  "webPublicationDate": "2016-05-04T14:13:44Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/04/windows-10-updates-ruining-pro-gaming-streams",
+  "keyword": [
+    {
+      "webTitle": "Windows 10",
+      "id": "technology/windows-10",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Windows",
+      "id": "technology/windows",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Microsoft",
+      "id": "technology/microsoft",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Live gaming",
+      "id": "technology/live-gaming",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Games",
+      "id": "technology/games",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Computing",
+      "id": "technology/computing",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Twitch",
+      "id": "technology/twitch",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "HAL 90210",
+      "id": "profile/hal-90210"
+    }
+  ],
+  "guardianId": "technology/2016/may/04/windows-10-updates-ruining-pro-gaming-streams"
+}

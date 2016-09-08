@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/marketforceslive/2016/may/10/ftse-gains-ground-despite-mining-slump-as-capita-climbs",
+  "id": "2016-05-10-267",
+  "sectionId": "business",
+  "body": "Capita is leading the market higher after an upbeat trading statement from the outsourcing group. Ahead of its annual meeting it said it had made a solid start to the year and was confident it would grow revenues by at least 4% this year. It has won \u00a34580m worth of contracts, including Volkswagen and Debenhams, although some decisions have been taking longer than expected to come through. The company\u2019s shares have climbed 44p to \u00a310.68, but not everyone was convinced. UBS analysts issued a neutral recommendation and said:  With \u00a3458m aggregate contract wins year to date (versus \u00a31,200m this time last year, and \u00a31,800m in 2015 overall) Capita has made a slower start as expected. It notes that some pipeline decisions have been slower than anticipated, but still expects most to convert this year. It sounds like the \u2018transactional\u2019 businesses and client expansion are picking up some of the slack.  Peel Hunt remained at hold:  Trading year to date is in line and there is no change to expectations for the full year. We continue to believe that Capita is well positioned to capitalise over the medium term on a wide range of both organic and acquisition opportunities. However, organic growth in 2016 is likely to remain relatively muted, with management targeting at least 4% (2015: 4.3%).   Stifel was more negative:  Capita has published an annual meeting statement and trading update today maintaining its 4% organic growth target and highlighting its confidence in the structural growth opportunities. However, we think that year to date contract wins is on the low side and acquisition spend is also surprisingly light. We do not anticipate making any changes to our forecasts and remain sellers of the stock.   But Jefferies issued a buy note, saying:  Although the statement contains little new information, 2016 estimated organic revenue growth visibility has improved from 0.7% in February to 2% currently, which is slightly better than anticipated. We believe Capita\u2019s valuation (the bottom of its 15-year range) offers an attractive entry point for a long duration compounder.  Overall the FTSE 100 is currently up 49.03 points at 6163.84, despite the first quarter UK trade gap widening to its biggest since 2008. Optimism over the Greek crisis following Monday\u2019s Eurogroup meeting is helping sentiment. But with the rising dollar and renewed fears of a slowdown in China hitting commodities - copper is at a four week low and iron ore continues to be under pressure - mining shares are once more among the fallers. Antofagasta is down 5.9p at 410.7p, Glencore is 1.4p lower at 131.15p and Rio Tinto has lost 12.5p to \u00a319.52. Next has fallen 30p to \u00a352.95 after the latest British Retail Consortium figures showed the sharpest drop in sales for eight months in April. But easyJet is up 39p at \u00a315.09 following an update, with British Airways owner International Airlines Group also moving higher, up 7.5p at 521p. Among the mid caps, Restaurant Group has risen 9.2p to 283p, recovering some ground after its recent profit warning, amid vague takeover talk in the wake of its recent share price slump.",
+  "webTitle": "FTSE gains ground despite mining slump as Capita climbs",
+  "webPublicationDate": "2016-05-10T08:53:11Z",
+  "webUrl": "https://www.theguardian.com/business/marketforceslive/2016/may/10/ftse-gains-ground-despite-mining-slump-as-capita-climbs",
+  "keyword": [
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Stock markets",
+      "id": "business/stock-markets",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Capita",
+      "id": "business/capitagroup",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Antofagasta",
+      "id": "business/antofagasta",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Glencore",
+      "id": "business/glencore",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Rio Tinto",
+      "id": "business/rio-tinto",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Next",
+      "id": "business/next",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "easyJet",
+      "id": "business/easyjet",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "International Airlines Group",
+      "id": "business/international-consolidated-airlines-group",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Restaurant Group",
+      "id": "business/restaurantgroup",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Nick Fletcher",
+      "id": "profile/nickfletcher"
+    }
+  ],
+  "guardianId": "business/marketforceslive/2016/may/10/ftse-gains-ground-despite-mining-slump-as-capita-climbs"
+}

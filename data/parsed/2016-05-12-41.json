@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/12/the-seventh-fire-review-documentary-terrence-malick-native-americans",
+  "id": "2016-05-12-41",
+  "sectionId": "film",
+  "body": "At the White Earth reservation in Minnesota, two Native American men at different points in their lives face down jail time and take stock of the mistakes they\u2019ve made. The older man, a charismatic drug dealer named Rob Brown, is about to go to jail for a 57-month stretch, and prepares mentally for it by partying fiercely, taking leave of his pregnant girlfriend and dispensing some advice to his teenage protege, Kevin Fineday, who\u2019s clearly on the same self-destructive path. This documentary, by the first-time director Jack Pettibone Riccobono, is a deep drink of bleak. But there are incidental moments of beauty or startling surreality to marvel at, such as the rippling magic-hour reflection of a silo in a pool of water, or a shot of a car burning while children play nearby, entirely unconcerned. Terrence Malick gets a credit for grandfathering the project, and it\u2019s clear his poetic vision of the American midwest is an influence here \u2013 possibly a negative one, because its opening half hour is a mess.         Watch the trailer for The Seventh Fire",
+  "webTitle": "The Seventh Fire review \u2013 bleak, poetic look at two men on the edge",
+  "webPublicationDate": "2016-05-12T20:00:07Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/12/the-seventh-fire-review-documentary-terrence-malick-native-americans",
+  "keyword": [
+    {
+      "webTitle": "Documentary",
+      "id": "film/documentary",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Native Americans",
+      "id": "world/native-americans",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Leslie Felperin",
+      "id": "profile/lesliefelperin"
+    }
+  ],
+  "guardianId": "film/2016/may/12/the-seventh-fire-review-documentary-terrence-malick-native-americans"
+}

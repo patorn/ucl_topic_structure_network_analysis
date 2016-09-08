@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/22/equal-sebastian-bohren-chaarts-chamber-artitst-review-beethoven-schumann-francaix",
+  "id": "2016-05-22-154",
+  "sectionId": "music",
+  "body": "Youth to the fore here, with the stylish Sebastian Bohren giving a silky account of Beethoven\u2019s Violin Concerto, accompanied by the conductorless Chaarts Chamber Artists, founded by former members of the Gustav Mahler Youth Orchestra in 2010 and since embellished by instrumentalists from leading orchestras and chamber ensembles. Their deliciously forthright reading of the Beethoven makes the Schumann Phantasie for violin and orchestra in C Major feel a bit thin in comparison, but Bohren and the players sparkle in Jean Jean Fran\u00e7aix\u2019s Nonetto from 1995, an arrangement of Mozart\u2019s E flat major quintet, K452. Fran\u00e7aix takes the piano part and redistributes it for string quartet and double bass, while retaining the wind parts of the original. The result is refreshingly rich in colour and nuance. Recommended.          Sebastian Bohren plays Beethoven.",
+  "webTitle": "Beethoven, Schumann, Fran\u00e7aix: Equal CD review \u2013 colour and nuance",
+  "webPublicationDate": "2016-05-22T07:10:36Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/22/equal-sebastian-bohren-chaarts-chamber-artitst-review-beethoven-schumann-francaix",
+  "keyword": [
+    {
+      "webTitle": "Classical music",
+      "id": "music/classicalmusicandopera",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Robert Schumann",
+      "id": "music/robert-schumann",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Ludwig van Beethoven",
+      "id": "music/ludwig-van-beethoven",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Stephen Pritchard",
+      "id": "profile/stephenpritchard"
+    }
+  ],
+  "guardianId": "music/2016/may/22/equal-sebastian-bohren-chaarts-chamber-artitst-review-beethoven-schumann-francaix"
+}

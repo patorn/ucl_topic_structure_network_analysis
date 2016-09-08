@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/29/mon-roi-review-vincent-cassel",
+  "id": "2016-05-29-164",
+  "sectionId": "film",
+  "body": "The histrionic emotion register of the performances in this French drama undermines a candid and sometimes perceptive portrait of an abusive relationship. Tony (Emmanuelle Bercot) has been admitted to a rehabilitation unit after a severe skiing accident. During therapy, she gradually comes to terms with her turbulent and destructive\u00a0marriage to charismatic narcissist Georgio (Vincent Cassel). The reliance on hefty chunks of flashback, while formally clunky, is not as much of a problem as a redundant and overlong subplot about Tony\u2019s friendship with a group of younger fellow patients in the hospital.",
+  "webTitle": "Mon Roi review \u2013 histrionic French drama",
+  "webPublicationDate": "2016-05-29T07:00:00Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/29/mon-roi-review-vincent-cassel",
+  "keyword": [
+    {
+      "webTitle": "Drama",
+      "id": "film/drama",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "World cinema",
+      "id": "film/world-cinema",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Wendy Ide",
+      "id": "profile/wendy-ide"
+    }
+  ],
+  "guardianId": "film/2016/may/29/mon-roi-review-vincent-cassel"
+}

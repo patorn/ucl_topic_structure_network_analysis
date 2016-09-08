@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/16/climate-change-puts-13bn-people-and-158tn-at-risk-says-world-bank",
+  "id": "2016-05-16-66",
+  "sectionId": "business",
+  "body": "The global community is badly prepared for a rapid increase in climate change-related natural disasters that by 2050 will put 1.3 billion people at risk, according to the World Bank. Urging better planning of cities before it was too late, a report published on Monday from a Bank-run body that focuses on disaster mitigation, said assets worth $158tn \u2013 double the total annual output of the global economy \u2013 would be in jeopardy by 2050 without preventative action. The Global Facility for Disaster Reduction and Recovery said total damages from disasters had ballooned in recent decades but warned that worse could be in store as a result of a combination of global warming, an expanding population and the vulnerability of people crammed into slums in low-lying, fast-growing cities that are already overcrowded.   Related: Global warming will hit poorer countries hardest, research finds    \u201cWith climate change and rising numbers of people in urban areas rapidly driving up future risks, there\u2019s a real danger the world is woefully unprepared for what lies ahead,\u201d said John Roome, the World Bank Group\u2019s senior director for climate change.  \u201cUnless we change our approach to future planning for cities and coastal areas that takes into account potential disasters, we run the real risk of locking in decisions that will lead to drastic increases in future losses.\u201d The facility\u2019s report cited case studies showing that densely populated coastal cities are sinking at a time when sea levels are rising. It added that the annual cost of natural disasters in 136 coastal cities could increase from $6bn in 2010 to $1tn in 2070. The report said that the number of deaths and the monetary losses from natural disasters varied from year to year, but the upward trend was pronounced. Total annual damage \u2013 averaged over a 10-year period \u2013 had risen tenfold from 1976\u20131985 to 2005\u20132014, from $14bn to more than $140bn. The average number of people affected each year had risen over the same period from around 60 million people to more than 170 million. Although developed countries have been responsible for the bulk of historic global emissions, poorer countries are more vulnerable to the impact of climate change and they demanded financial help from the west as part of last December\u2019s breakthrough global deal to reduce emissions. Oxfam this week called on rich countries to make good on the pledges made at the Paris conference to provide the funding to help developing countries adapt to the effects of global warming.  \u201cClimate change is a brutal reality confronting millions of the world\u2019s most vulnerable people. Their need for financial support to adapt to climate extremes is urgent and rising,\u201d Oxfam said in its Unfinished Business report. \u201cInternational support for adaptation falls well short of what is needed. Latest estimates indicate that only 16% of international climate finance is currently dedicated to adaptation \u2013 a mere $4bn\u2013$6bn per year of which is public finance.\u201d  According to the the facility, disaster risk is affected by three factors. It said these were: hazard \u2013 the frequency of potentially dangerous naturally occurring events, such as earthquakes or tropical cyclones; exposure \u2013 the size of the population and the economic assets located in hazard-prone areas; and vulnerability \u2013 the susceptibility of the exposed elements to the natural hazard. It added that hazard was increasing due to climate change; exposure was going up because more people were living in hazardous areas and that vulnerability was on the rise because of badly designed and poorly planned housing. The World Bank-run body said the population was expected to rise by at least 40% in 14 of the 20 most populated cities in the world between 2015 and 2030, with some cities growing by 10 million people in that period. \u201cMany of the largest cities are located in deltas and are highly prone to floods and other hazards, and as these cities grow, an ever greater number of people and more assets are at risk of disaster.\u201d Francis Ghesquiere, head of the secretariat at the The Global Facility for Disaster Reduction and Recovery, said: \u201cBy promoting policies that reduce risk and avoiding actions to drive up risk, we can positively influence the risk environment of the future. The drivers of future risk are within the control of decision makers today. They must seize the moment.\u201d",
+  "webTitle": "Climate change puts 1.3bn people and $158tn at risk, says World Bank",
+  "webPublicationDate": "2016-05-16T19:00:07Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/16/climate-change-puts-13bn-people-and-158tn-at-risk-says-world-bank",
+  "keyword": [
+    {
+      "webTitle": "World Bank",
+      "id": "business/worldbank",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Climate change",
+      "id": "environment/climate-change",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Natural disasters and extreme weather",
+      "id": "world/natural-disasters",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Global economy",
+      "id": "business/global-economy",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Larry Elliott",
+      "id": "profile/larryelliott"
+    }
+  ],
+  "guardianId": "business/2016/may/16/climate-change-puts-13bn-people-and-158tn-at-risk-says-world-bank"
+}

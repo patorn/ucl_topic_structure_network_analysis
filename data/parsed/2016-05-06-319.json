@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/lostinshowbiz/2016/may/06/glyndebourne-sebastian-schwarz-bees-apiary",
+  "id": "2016-05-06-319",
+  "sectionId": "music",
+  "body": "When I was a secretary on the Sun\u2019s showbiz desk, I once took a call from a very haughty public relations expert who inquired: \u201cWho is your opera correspondent?\u201d To which the only possible response was: \u201cHave you ever seen the newspaper?\u201d Today, I am indebted to another publication \u2013 the Daily Mail \u2013 for permitting the artform its debut in Lost in Showbiz. My eye is drawn to an article concerning the new general director of Glyndebourne, Sebastian Schwarz, whose rider conditions should pass immediately into music legend. To wit: he demands an apiary. \u201cIt is amazing to sit next to a beehive in the morning when you first get up,\u201d Sebastian explains \u2013 and there is no suggestion he is talking about the provisional wing of Beyonc\u00e9\u2019s fans. Indeed, Sebastian will be bringing his bees over from Vienna, home to his last gig, and requires accommodation for this inspirational apian entourage. In this request, he has been humoured by Glyndebourne\u2019s executive chairman Gus Christie. (Who, the Mail notes, last year welcomed a son named Bacchus. Bacchus!) \u201cWe\u2019re putting new hives in for Sebastian,\u201d says Gus. Well. I hope he doesn\u2019t for a moment think that will be the end of it. Clearly, by the time we get to the festival\u2019s opening night, things will have escalated to the point where the bees themselves are demanding their own flowerbeds with all the green bits picked out. Furthermore, opera critics should be aware of how very nasty things can get when the Beehive is set upon you, and temper their Glyndebourne reviews accordingly.",
+  "webTitle": "Show me the honey: Glyndebourne director requests beehive on his rider",
+  "webPublicationDate": "2016-05-06T06:30:17Z",
+  "webUrl": "https://www.theguardian.com/music/lostinshowbiz/2016/may/06/glyndebourne-sebastian-schwarz-bees-apiary",
+  "keyword": [
+    {
+      "webTitle": "Glyndebourne",
+      "id": "music/glyndebourne",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Celebrity",
+      "id": "lifeandstyle/celebrity",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Bees",
+      "id": "environment/bees",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Opera",
+      "id": "music/opera",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Classical music",
+      "id": "music/classicalmusicandopera",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music festivals",
+      "id": "music/music-festivals",
+      "sectionId": "music",
+      "sectionName": "Music"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Marina Hyde",
+      "id": "profile/marinahyde"
+    }
+  ],
+  "guardianId": "music/lostinshowbiz/2016/may/06/glyndebourne-sebastian-schwarz-bees-apiary"
+}

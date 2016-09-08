@@ -1,0 +1,84 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/10/bbc-laura-kuenssberg-jeremy-corbyn-petition",
+  "id": "2016-05-10-233",
+  "sectionId": "media",
+  "body": "A campaign to sack BBC political editor Laura Kuenssberg over her coverage of Jeremy Corbyn has been accused of misogyny and sexism. More than 35,000 people have signed a petition posted on campaigning website 38 Degrees claiming Kuenssberg is biased against Labour, most recently in her coverage of last week\u2019s local and regional elections.    Related: BBC fears government will win battle to impose board members    However, many of the comments by those sharing the petition on Twitter have used offensive and sexist language, with further abuse in more private Facebook postings. Former Independent on Sunday political editor Jane Merrick said Kuenssberg\u2019s questioning of what the results meant for Corbyn was justified and the petition was ridiculous, but that the BBC\u2019s first female political editor faced an extra layer of sexist criticism. \u201cShe has been called a whore and a bitch on Twitter,\u201d said Merrick. \u201cNick Robinson used to be accused of Tory bias but he never experienced this level of nastiness.  \u201cOf course, not all Corbyn supporters are sexist, far from it, but there is a core of hard-left misogyny that comes out against women when Corbyn is under pressure \u2013 such as the abuse against Stella Creasy and Jess Phillips. Jeremy Corbyn said back in September he wanted a \u2018kinder politics\u2019 so he should condemn these vile attacks against a respected and experienced journalist.\u201d   Related: Why that chart demonstrating Jeremy Corbyn's election success is misleading    On Sunday, Labour MP Phillips tweeted:     I have to say, I think attack on @bbclaurak is underlined with institutional sexism by people who dont even know they are perpetrators\u2014 Jess Phillips MP (@jessphillips) May 8, 2016    It is the second time Kuenssberg has been targeted by campaigners. Earlier this year another petition called for both her and Andrew Neil to be sacked over the on-air resignation of Stephen Doughty.           Stephen Doughty resigns as shadow minister live on Daily Politics     The National Union of Journalists reiterated its position that calls for journalists to be sacked for their reporting were farcical. \u201cThis was a legitimate story any journalist would have wanted to run on their show ... You cannot run witch hunts against journalists just because you don\u2019t like the news they report. In the same way we supported journalists \u2013 at the BBC and elsewhere \u2013 who were attacked on social media by people from both sides of the argument on independence during the Scottish referendum, we will not tolerate people who try to suppress legitimate news coverage.\u201d The author of the petition, who originally set it up following what he described as a \u201ctirade\u201d against Corbyn by Kuenssberg in January, said the petition was not about her gender. \u201cI have been accused of sexist trolling on Twitter,\u201d he wrote in the updated post. \u201cI would like to reassure everyone that I am a passionate advocate for equality in all areas, not just gender equality.  \u201cThis petition has precisely zero to do with Kuenssberg\u2019s gender. Regardless of the gender you identify with, there is no excuse for biased reporting and misrepresentation of facts when you represent an organisation that has been famed for its impartiality and balanced approach.\u201d",
+  "webTitle": "Campaign to sack BBC's Laura Kuenssberg accused of sexism",
+  "webPublicationDate": "2016-05-10T10:21:31Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/10/bbc-laura-kuenssberg-jeremy-corbyn-petition",
+  "keyword": [
+    {
+      "webTitle": "BBC",
+      "id": "media/bbc",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "TV news",
+      "id": "media/tvnews",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Television industry",
+      "id": "media/television",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "The news on TV",
+      "id": "tv-and-radio/tv-news",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Television",
+      "id": "culture/television",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Television & radio",
+      "id": "tv-and-radio/tv-and-radio",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Jeremy Corbyn",
+      "id": "politics/jeremy-corbyn",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jasper Jackson",
+      "id": "profile/jasper-jackson"
+    }
+  ],
+  "guardianId": "media/2016/may/10/bbc-laura-kuenssberg-jeremy-corbyn-petition"
+}

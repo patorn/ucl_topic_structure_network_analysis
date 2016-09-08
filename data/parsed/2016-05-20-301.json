@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/books/booksblog/2016/may/20/dont-cut-the-da-vinci-code-samantha-shannon",
+  "id": "2016-05-20-301",
+  "sectionId": "books",
+  "body": "I first became a fan of Dan Brown\u2019s books at 13, when I discovered a copy of The Da Vinci Code on my grandparents\u2019 bookshelf and devoured it in\u00a0a\u00a0matter of days. I\u2019m\u00a0now an author of books that are officially published as\u00a0\u201cadult\u201d in some countries and \u201cyoung adult\u201d in others; I know a little, consequently, about the grey area that lies between them, which is a subject of lively debate in the publishing industry. And the news that Penguin is releasing an abridged version of The Da Vinci Code, advertised on its cover as \u201cadapted for young adults\u201d, is puzzling. A common way to introduce a book to a new market is to give it a fresh cover \u2013 a widespread practice, often used for books with \u201ccrossover appeal\u201d. Penguin has created a bold new cover for The Da Vinci Code, but they haven\u2019t stopped there \u2013 the book is also being condensed, as though what really makes a story appeal to young adults is the prospect of a short read. Yet it\u2019s been proven time and time again that this isn\u2019t the case. A Court of Mist and Fury by Sarah J Maas, which debuted at No 1 on the New York Times\u2019s young adult bestseller list, is a whopping 624 pages. Nobody really agrees on what make a book suitable for young adults, but length has nothing to do with it. Abridging books for teenagers also implies that they need the story to be watered down to something simpler, despite the fact that so many successful YA books are deeply complex, thought-provoking, and rich with detail \u2013 Only Ever Yours by Louise O\u2019Neill, Seed by Lisa Heathfield, and This Is Where It Ends by Marieke Nijkamp are just a few examples. The main characters in the new Da Vinci Code will probably be the same ages they are in the original \u2013 I doubt a\u00a017-year-old Robert Langdon would make a convincing Harvard professor \u2013 and one thing that is almost universally agreed is that young adult books should probably star young adults. I\u2019ll be interested to see which parts are cut in the adaptation \u2013 but until then, this risks looking like a cynical, unnecessary, and patronising move. I only hope it doesn\u2019t mark the beginning of a trend.",
+  "webTitle": "An abridged Da Vinci Code implies teens need simple books \u2013 they don't",
+  "webPublicationDate": "2016-05-20T07:00:34Z",
+  "webUrl": "https://www.theguardian.com/books/booksblog/2016/may/20/dont-cut-the-da-vinci-code-samantha-shannon",
+  "keyword": [
+    {
+      "webTitle": "Dan Brown",
+      "id": "books/danbrown",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Books",
+      "id": "books/books",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Penguin",
+      "id": "books/penguin",
+      "sectionId": "books",
+      "sectionName": "Books"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Samantha Shannon",
+      "id": "profile/samantha-shannon"
+    }
+  ],
+  "guardianId": "books/booksblog/2016/may/20/dont-cut-the-da-vinci-code-samantha-shannon"
+}

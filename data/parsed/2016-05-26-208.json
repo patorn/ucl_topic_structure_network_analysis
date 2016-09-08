@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/26/monaco-grand-prix-practice-hamilton-rosberg-accident",
+  "id": "2016-05-26-208",
+  "sectionId": "sport",
+  "body": "On the day it was revealed that the family of Jules Bianchi are launching legal action over the fatal accident that killed their son, Formula One had one of its most eventful practice sessions in Monaco. There were two crashes. Renault\u2019s Jolyon Palmer smashed into a barrier after failing to successfully negotiate Tabac corner and Felipe Massa crashed his Williams at Sainte D\u00e9vote, triggering the introduction of a virtual safety car   Related: Jules Bianchi\u2019s family launch legal action against FIA and Marussia    There was also an incident involving Jenson Button. Nico Rosberg drove his Mercedes over a drain cover, appearing to loosen it, and it later smashed into Button\u2019s front right wing. Rosberg suffered a rear tyre puncture and had to limp back to the pits. Another safety car period was introduced when Esteban Guti\u00e9rrez\u2019s Haas came to a halt on the track with engine problems. Lewis Hamilton, chasing his first win here since 2008, was fastest in FP1. He swapped fastest laps with his Mercedes team-mate Rosberg \u2013 the winner here for the past three years \u2013 but the world champion finished a tenth of a second faster than his German rival. Sebastian Vettel was third quickest and he was followed by the Red Bull pair Daniel Ricciardo and Max Verstappen.",
+  "webTitle": "Monaco GP: Hamilton faster than Rosberg in accident-ridden FP1",
+  "webPublicationDate": "2016-05-26T11:52:00Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/26/monaco-grand-prix-practice-hamilton-rosberg-accident",
+  "keyword": [
+    {
+      "webTitle": "Formula One 2016",
+      "id": "sport/formula-one-2016",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Formula One",
+      "id": "sport/formulaone",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Lewis Hamilton",
+      "id": "sport/lewis-hamilton",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Motor sport",
+      "id": "sport/motorsports",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Nico Rosberg",
+      "id": "sport/nico-rosberg",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Jenson Button",
+      "id": "sport/jenson-button",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Felipe Massa",
+      "id": "sport/felipe-massa",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Paul Weaver",
+      "id": "profile/paulweaver"
+    }
+  ],
+  "guardianId": "sport/2016/may/26/monaco-grand-prix-practice-hamilton-rosberg-accident"
+}

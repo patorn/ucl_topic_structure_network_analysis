@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/us-news/2016/may/02/detroit-teacher-school-sickout-summer-pay",
+  "id": "2016-05-02-64",
+  "sectionId": "us-news",
+  "body": "Nearly every school in Detroit closed on Monday after the teacher\u2019s union called on members to take a sick day because the district will not be able to pay teachers in the summer unless a funding crisis is resolved.  More than 45,600 students missed school on Monday after teachers responded to the union\u2019s call, forcing the closure of 94 of the 97 schools in the district. A few hundred teachers picketed outside the district headquarters. The Detroit school district, which is estimated to have more than $3bn in debt, said on Saturday it could not pay teachers past 30 June. So without additional funding, teachers who had chosen to be paid throughout the year, instead of just when school is in session, would not receive money they had already earned.  Detroit Federation of Teachers interim president Ivy Bailey said the union organized the sickout because the district had broken its deal to pay teachers.  \u201cTeachers want to be in the classroom giving children a chance to learn and reach their potential,\u201d Bailey said in a statement. \u201cUnfortunately, by refusing to guarantee that we will be paid for our work, DPS [Detroit public schools] is effectively locking our members out of the classrooms.\u201d   Related: Michigan governor faces yet another lawsuit \u2013 this time over Detroit schools    Bailey did not say whether the sickouts would continue past Monday, though the union has an emergency meeting planned for Tuesday night. The union\u2019s executive vice-president, Terrence Martin, told the Detroit Free Press that it would hold a voice vote at the meeting \u201cto authorize a major collective action\u201d, in addition to holding ballot votes in schools later that week.  Under Michigan law, government employees like teachers are not allowed to strike. The state attorney general, however, chose not to take action against union members following a similar sickout in January over poor school conditions, which labor experts said could be considered a method of strike.  Though most school districts in the US are run by local governments, Detroit\u2019s financial difficulties led the state to take control of the district in 2009. Since then, a rotating cast of emergency managers have been tasked to head the district\u2019s recovery.  Former bankruptcy judge Steven Rhodes, who took over the position in March, said he understood the teacher\u2019s frustrations but thought the union\u2019s decision was \u201ccounterproductive and detrimental\u201d. \u201cI am, however, confident that the legislature will support the request that will guarantee that teachers will receive the pay that is owed to them,\u201d Rhodes said in a statement. \u201cThe DFT\u2019s choice for a drastic call to action was not necessary.\u201d The state legislature is considering a $720m restructuring plan to pay off the school\u2019s debts. The state senate approved the deal in March, but it\u2019s waiting for approval from the state house and the governor, Rick Snyder. In March, Snyder approved a bill to use $48.7m to keep the school district operating until 30 June. In response to Monday\u2019s sickout, Snyder said: \u201cThat\u2019s not a constructive act with respect to getting legislation through.\u201d Detroit mayor Mike Duggan had not commented on this sickout as of Monday afternoon, though after January\u2019s union action, he said there was \u201cno question about the legitimacy of the issues they\u2019re raising\u201d, after touring schools where he saw a dead mouse and children wearing coats to stay warm in class.",
+  "webTitle": "Teacher 'sickout' over summer pay closes nearly every school in Detroit",
+  "webPublicationDate": "2016-05-02T17:58:08Z",
+  "webUrl": "https://www.theguardian.com/us-news/2016/may/02/detroit-teacher-school-sickout-summer-pay",
+  "keyword": [
+    {
+      "webTitle": "Detroit",
+      "id": "us-news/detroit",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Schools",
+      "id": "education/schools",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "US education",
+      "id": "education/education-us",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "US unions",
+      "id": "us-news/us-unions",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Michigan",
+      "id": "us-news/michigan",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Amanda Holpuch",
+      "id": "profile/amanda-holpuch"
+    }
+  ],
+  "guardianId": "us-news/2016/may/02/detroit-teacher-school-sickout-summer-pay"
+}

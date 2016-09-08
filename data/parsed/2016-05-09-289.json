@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/09/tax-havens-have-no-economic-justification-say-top-economists",
+  "id": "2016-05-09-289",
+  "sectionId": "world",
+  "body": "More than 300 economists, including Thomas Piketty, are urging world leaders at a London summit this week to recognise that there is no economic benefit to tax havens, demanding that the veil of secrecy that surrounds them be lifted. David Cameron agreed to host the summit nearly a year ago, but the event is in danger of simply turning a spotlight on how the British government has failed to persuade its overseas territories to stop harbouring secretly stored cash. British officials are locked in negotiations with the crown dependencies and overseas territories, trying to persuade them to agree to a form of automatic exchange of information on beneficial ownership of companies. So far the overseas territories have only agreed to allow UK law enforcement agencies access to a privately held register of beneficial ownership, but the automatic exchange agreement would give a wider range of countries access to information on the ownership of shell companies. Many overseas territories including the Cayman Islands are resisting the idea, and their attendance at the summit is in doubt. Apart from Piketty, author of the bestselling Capital in the Twenty-First Century, the impressive roll call of economists includes Angus Deaton, the Edinburgh-born 2015 Nobel prize-winner for economics, and Ha-Joon Chang, the highly regarded development economist at Cambridge University. Other signatories include Nora Lustig, professor of Latin American economics at Tulane University, as well as influential experts who advise policymakers, such as Jeffrey Sachs, director of Columbia University\u2019s Earth Institute and an adviser to UN secretary general Ban Ki-moon, and Olivier Blanchard, former IMF chief economist. Speaking on BBC Radio 4\u2019s Today programme, Sachs said: \u201cThe UK and the US need to take the lead right now to end these tax secrecy havens. We see from the Panama Papers these are simply conduits for massive illegality, corruption, tax evasion and many other nefarious deeds. They just need to end. \u201cIf the UK and US and the European Union as a whole decided on Thursday at the UK conference that enough is enough ... there could be a phenomenal change in a very short period of time.\u201d But Sachs predicted that world leaders would give in to lobbying from the rich and fail to implement meaningful reform.  He said: \u201cI think these government don\u2019t really want to do much because their powerful backers, whether it is in the city of London, or on Wall Street, are fighting very, very hard to keep these loopholes open ... This is a system that has been created over time for the convenience of very rich and powerful people. There is no more direct example of how the rich and the powerful really control the levers of finance than these tax havens.\u201d In total 47 academics from British universities, including Oxford and the London School of Economics, have signed the letter, which argues that tax evasion weakens both developed and developing economies, as well as driving inequality. The signatories state: \u201cTerritories allowing assets to be hidden in shell companies or which encourage profits to be booked by companies that do no business there are distorting the working of the global economy.\u201d To counter this, they are urging governments to agree new global rules requiring companies to publicly report taxable activities in every country in which they operate, and ensure all territories publicly disclose information about the real owners of companies and trusts. A concerted drive by the EU is now under way to require companies to declare where their profits are made, and to ensure tax is paid there rather than in the country in which it is declared. In a tough broadside against the British prime minister, Sachs added: \u201cTax havens do not just happen. The British Virgin Islands did not become a tax and secrecy haven through its own efforts. These havens are the deliberate choice of major governments, especially the United Kingdom and the United States, in partnership with major financial, accounting, and legal institutions that move the money.  \u201cThe abuses are not only shocking, but staring us directly in the face. We didn\u2019t need the Panama Papers to know that global tax corruption through the havens is rampant, but we can say that this abusive global system needs to be brought to a rapid end. That is what is meant by good governance under the global commitment to sustainable development.\u201d More than half of the companies set up by Mossack Fonseca, the law firm at the centre of the Panama Papers leak, were incorporated in British overseas territories such as the British Virgin Islands. The signatories admit: \u201cTaking on the tax havens will not be easy; there are powerful vested interests that benefit from the status quo. But it was Adam Smith who said that the rich \u2018should contribute to the public expense, not only in proportion to their revenue, but something more than in that proportion\u2019. There is no economic justification for allowing the continuation of tax havens which turn that statement on its head.\u201d Oxfam, which coordinated the letter, is urging the UK government to intervene to ensure that Britain\u2019s offshore territories follow its lead by introducing full public registers showing who controls and profits from companies incorporated there. Oxfam estimates that Africa loses about $14bn (\u00a310bn) in tax revenues annually \u2013 enough money to pay for healthcare that could save 4 million children\u2019s lives a year and employ enough teachers to get every African child into school. Mark Goldring, chief executive of Oxfam GB, said: \u201cIt\u2019s not good enough for information about company owners in UK-linked tax havens to be available only to HMRC \u2013 it needs to be fully public to ensure that governments and people around the world can claim the money they are owed and hold tax dodgers to account.\u201d",
+  "webTitle": "Tax havens have no economic justification, say top economists",
+  "webPublicationDate": "2016-05-09T07:36:55Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/09/tax-havens-have-no-economic-justification-say-top-economists",
+  "keyword": [
+    {
+      "webTitle": "Tax havens",
+      "id": "world/tax-havens",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Economic policy",
+      "id": "politics/economy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Global development",
+      "id": "global-development/global-development",
+      "sectionId": "global-development",
+      "sectionName": "Global development"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Patrick Wintour",
+      "id": "profile/patrickwintour"
+    }
+  ],
+  "guardianId": "world/2016/may/09/tax-havens-have-no-economic-justification-say-top-economists"
+}

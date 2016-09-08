@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/11/newcastle-united-devastated-relegation-managing-director-lee-charnley",
+  "id": "2016-05-11-24",
+  "sectionId": "football",
+  "body": "Newcastle United are \u201cdevastated\u201d by their relegation from the Premier League, according to the club\u2019s managing director Lee Charnley. Sunderland\u2019s 3-0 victory at home to Everton confirmed that their north-east neighbours would be playing in the Championship next season, with one game of the Premier League season to go.   Related: Sunderland safe after Lamine Kon\u00e9 double sinks crumbling Everton    In a statement issued shortly after the Sunderland result, Charnley said: \u201cTonight we are devastated at our relegation from the Premier League, as I know every single person connected to this football club will be. I want to thank all of the fans for the support you have shown for the club you love throughout the season, in spite of this massive disappointment and underachievement.\u201d Newcastle appointed Rafael Ben\u00edtez as manager in March to replace Steve McClaren, with the club second from bottom of the table, but despite improved form \u2013 the club are unbeaten in their last five games \u2013 their inability to win at Aston Villa last weekend, coupled with Sunderland\u2019s remarkable 3-2 comeback win at home to Chelsea, took matters out of their hands. Charnley added: \u201cYour support throughout has been magnificent, but I want to pay particular thanks for the incredible backing you have given to Rafa and the team during the latter part of the season. Nothing more could be asked of you and I am truly sorry we have not given you the outcome you deserve. \u201cWe know that supporters want to know what the future holds and will want to hear more from us as soon as possible. The process of scrutinising what went wrong and planning for what is to come has already begun. Right now, of course, Rafa and the team must prepare for the final game of the season but after that, please rest assured we will communicate more fully with supporters.\u201d Newcastle\u2019s host Tottenham Hotspur on Sunday in their final game of the season, before summer preparations begin for the 2016-17 campaign in the Championship, their first outside the top tier since 2009-10.",
+  "webTitle": "Newcastle \u2018devastated\u2019 by relegation, says managing director Lee Charnley",
+  "webPublicationDate": "2016-05-11T21:48:20Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/11/newcastle-united-devastated-relegation-managing-director-lee-charnley",
+  "keyword": [
+    {
+      "webTitle": "Newcastle United",
+      "id": "football/newcastleunited",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Rafael Ben\u00edtez",
+      "id": "football/rafael-benitez",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sunderland",
+      "id": "football/sunderland",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "football/2016/may/11/newcastle-united-devastated-relegation-managing-director-lee-charnley"
+}

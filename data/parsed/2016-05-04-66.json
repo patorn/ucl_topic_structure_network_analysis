@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/04/scottish-economy-grows-far-more-slowly-than-uk-as-a-whole",
+  "id": "2016-05-04-66",
+  "sectionId": "business",
+  "body": "The Scottish economy is growing at a far slower rate than the UK as a whole, with the North Sea oil slump leading to a fall in GDP last year, the latest data shows.  Scotland\u2019s gross domestic product declined by 1% in cash terms last year and has only grown by 4% since the recession, an analysis by the economist John McLaren has found. By comparison, the UK economy as a whole has grown by 23% in cash terms since 2008.  McLaren said the decline in North Sea oil profitability was largely to blame for the fall, but Scotland\u2019s latest quarterly national accounts found that the country\u2019s trade balance and tax revenues had also been badly hit, greatly weakening its public accounts.  The quarterly accounts, published as voters prepare for the Scottish parliament elections, followed HM Revenue and Customs data last month showing that North Sea tax receipts had slumped last year to the negligible figure of \u00a335m.  \u201cScotland\u2019s economy continues to show worrying signs of North Sea related distress. Due to falling oil revenues, overall Scottish public sector revenues were lower in 2015 than at the height of the downturn in 2008,\u201d McLaren said.  \u201cThere has also been a virtual standstill in GDP per capita since 2008, which has resulted in it falling below the level seen for the UK. The worsening trade position, largely with respect to the UK, is also a big worry, especially the fall in exports last year to the rest of the UK.\u201d  As a percentage of GDP, the trade deficit with the rest of the UK and overseas markets was now -9.8%, the worst figure since Scottish devolution in 1999 and worse than that previous low of -8.5% in 2007.  Scotland\u2019s deficit reached nearly \u00a315bn in cash terms, McLaren found, largely the result of a surge in imports from the rest of the UK. At the same time, public sector revenues also fell for the fourth year in a row, by nearly 12% in real terms.  Scottish public spending is currently \u00a31,400 a head higher than the UK average. The latest government expenditure and revenue data for Scotland showed it had a public spending deficit in 2015 of \u00a315bn. The Scottish National party said the data showed that even with the oil industry slump, Scotland\u2019s per capita GDP was comparable to the UK average, at \u00a328,385 against \u00a328,634 for the UK.  \u201cScotland remains the most prosperous part of the UK per head outside London and south-east England and is currently experiencing the longest period of uninterrupted economic growth since 2001,\u201d a spokesman said.   Scotland\u2019s latest unemployment rates jumped above the UK average, adding to business nervousness, after a long period of relatively better figures.  The SNP insisted the country\u2019s economy was still strong, with among the highest levels of overseas investment in the UK. \u201cWe have regularly outperformed the rest of the UK when it comes to jobs, with recent months seeing employment levels at record highs while our female employment rate is among the highest in Europe,\u201d the spokesman said.",
+  "webTitle": "Scottish economy grows far more slowly than UK as a whole",
+  "webPublicationDate": "2016-05-04T17:56:15Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/04/scottish-economy-grows-far-more-slowly-than-uk-as-a-whole",
+  "keyword": [
+    {
+      "webTitle": "Economic growth (GDP)",
+      "id": "business/economicgrowth",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Scotland",
+      "id": "uk/scotland",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Scottish politics",
+      "id": "politics/scotland",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Severin Carrell",
+      "id": "profile/severincarrell"
+    }
+  ],
+  "guardianId": "business/2016/may/04/scottish-economy-grows-far-more-slowly-than-uk-as-a-whole"
+}

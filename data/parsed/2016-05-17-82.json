@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/17/uk-inflation-falls-more-than-expected-air-fares-clothes-cars",
+  "id": "2016-05-17-82",
+  "sectionId": "business",
+  "body": "UK inflation fell unexpectedly in April, with lower air fares, clothes and secondhand car prices triggering the first drop in seven months. Britain\u2019s main measure of inflation, the consumer prices index, fell from 0.5% in March to 0.3% last month, according to the Office for National Statistics. Economists had forecast no change at 0.5%.   Related: UK inflation rate falls to 0.3% due to cheaper air fares and clothes \u2013\u00a0business live    The chancellor\u2019s office seized upon the drop in inflation as a sign UK households were better off within the European Union. A spokeswoman for the Treasury said: \u201cToday\u2019s inflation figure continues the trend we\u2019ve seen over the past year. Pay is growing faster than prices, boosting families\u2019 spending power.  \u201cIt is clear Britain would be poorer outside the EU. To avoid putting our economic progress at risk we must continue with the plan that is building resilience and delivering rising living standards across Britain.\u201d   UK inflation graphic   However, the TUC said low inflation was a sign of weakness in the UK economy. Frances O\u2019Grady, the TUC general secretary, said: \u201cThe UK\u2019s continuing low inflation is a sign that the economy still lacks the demand needed to get back to full strength. Wage growth remains too weak and we do not have the level of public investment needed to secure stronger growth. \u201cWith the UK economy slowing down, the government cannot continue to stand by. We need investment in skills, infrastructure and public services to promote growth for the long term.\u201d Inflation has been below 1% since December 2014, providing respite for UK households as prices rise at a slower rate than pay following six years of real wage falls during the financial crisis.  Despite record levels of employment, wage growth has not picked up as much as Bank of England policymakers and other economists thought.  Regular pay growth, excluding bonuses, was 2.2% in the three months to February compared with the same period a year earlier. It was 1.8% including bonuses. CPI inflation had been steadily rising from a record low level of -0.1% in September.  The drop in annual inflation in April was partly explained by the earlier timing of Easter, which fell in March this year making travel more expensive that month. Air fares fell 14.2% between March and April this year, compared with a 4.5% rise between the same two months last year. The price of secondhand cars also fell between March and April this year, but rose over the same period in 2015. The cost of clothing and footwear fell 0.4%, compared with a 0.9% rise between the two months last year. The price of women\u2019s coats and jackets drove much of the fall in clothing costs, the ONS said. Elizabeth Martins, economist at HSBC, said the fall in clothing prices was a surprise, and could be weather related or down to weaker consumer demand. \u201cIf it is weather related, and hence temporary, then we may get an unseasonably high reading for clothing inflation in May,\u201d she said. Lower gas bills and social housing rent costs also contributed to the drop in inflation in April. A change in government policy last year stated that from April 2016, rent would fall by 1% for the next four years. Core inflation \u2013 stripping out volatile energy and food prices \u2013 was also weaker than expected at 1.2%, down from 1.5% in March. Economists had forecast 1.4%. Economists said inflation was likely to stay low in the coming months, despite a weaker pound and a recent pickup in oil prices that should feed through to the petrol pump.  Martin Beck, senior economic advisor to the EY Item Club, said: \u201cThis is unlikely to be enough to cause any tangible movement in the headline rate of inflation.  \u201cAs such, we are likely to see inflation remain close to current rates until the latter part of the year, when the base effects associated with last winter\u2019s collapse in the oil price will begin to kick in and finally drag the CPI measure above 1%.\u201d The British Chambers of Commerce said weak inflation strengthened the case for the Bank of England to keep UK interest rates low. Rates have been on hold at an all-time low of 0.5% since March 2009. Mark Carney, the Bank\u2019s governor, warned last week that a vote to leave the EU in next month\u2019s referendum could stoke inflation, trigger a sharp fall in the pound and push the UK back into recession.",
+  "webTitle": "UK inflation down as air fares fall",
+  "webPublicationDate": "2016-05-17T17:01:24Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/17/uk-inflation-falls-more-than-expected-air-fares-clothes-cars",
+  "keyword": [
+    {
+      "webTitle": "Inflation",
+      "id": "business/inflation",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Office for National Statistics",
+      "id": "uk/office-for-national-statistics",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Consumer affairs",
+      "id": "money/consumer-affairs",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Household bills",
+      "id": "money/household-bills",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Economic growth (GDP)",
+      "id": "business/economicgrowth",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Angela Monaghan",
+      "id": "profile/angela-monaghan"
+    }
+  ],
+  "guardianId": "business/2016/may/17/uk-inflation-falls-more-than-expected-air-fares-clothes-cars"
+}

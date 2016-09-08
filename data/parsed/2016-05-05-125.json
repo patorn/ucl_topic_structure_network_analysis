@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/05/blanket-ban-on-legal-highs-england-wales-begin-26-may",
+  "id": "2016-05-05-125",
+  "sectionId": "politics",
+  "body": "The delayed blanket ban on legal highs in England and Wales is to come into force on 26 May, the Home Office has confirmed. The introduction of the Psychoactive Substances Act was originally due to come into force on 6 April, but was delayed following claims its definition of \u201cpsychoactivity\u201d was not practically enforceable by the police and prosecutors. The legislation is designed to outlaw the trade in legal highs, synthetic chemicals that imitate the effects of traditional illicit drugs such as cannabis and ecstasy, but does not make their possession outside a prison a criminal offence. The introduction of similar legislation in Ireland triggered a wave of closures of shops and online outlets, although few prosecutions have followed due to difficulties proving in Irish law whether a substance is psychoactive. When the Home Office confirmed the delay in March, it said it was in the final stages of putting in place a programme of testing to demonstrate a substance\u2019s psychoactivity before implementing the ban. The Home Office has now laid a statutory instrument before parliament that will bring the ban into force in three weeks. Home Office minister Karen Bradley confirmed the introduction of the ban, saying: \u201cPsychoactive substances shatter lives and we owe it to all those who have lost loved ones to do everything we can to eradicate this abhorrent trade.   \u201cThis Act will bring to an end the open sale on our high streets of these potentially harmful drugs and deliver new powers for law enforcement to tackle this issue at every level in communities, at our borders, on UK websites and in our prisons.\u201d  She said the legislation would send the message that legal highs were not safe and would ban their sale and ensure that unscrupulous traders who profit from them face up to seven years in prison. Police Scotland told MPs last year that a qualified medical expert with experience in working with psychoactive substances would be needed in each case to identify the substance and prove its psychoactivity. Everyday psychoactive substances including tea, coffee and alcohol are exempted from the blanket ban. Poppers, also known as alkyl nitrite, have also been excluded from the legislation after the government\u2019s advisory committee on the misuse of drugs provided evidence that they did not have a direct impact on the brain.",
+  "webTitle": "Blanket ban on legal highs in England and Wales to begin on 26 May",
+  "webPublicationDate": "2016-05-05T15:51:25Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/05/blanket-ban-on-legal-highs-england-wales-begin-26-may",
+  "keyword": [
+    {
+      "webTitle": "Drugs policy",
+      "id": "politics/drugspolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Legal highs",
+      "id": "society/legal-highs",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Drugs",
+      "id": "society/drugs",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Drugs trade",
+      "id": "world/drugs-trade",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Alan Travis",
+      "id": "profile/alantravis"
+    }
+  ],
+  "guardianId": "politics/2016/may/05/blanket-ban-on-legal-highs-england-wales-begin-26-may"
+}

@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/05/uber-assembles-advisory-board-of-international-power-brokers",
+  "id": "2016-05-05-106",
+  "sectionId": "technology",
+  "body": "Black-cab drivers are famous for boasting about notable passengers \u2013 but they\u2019ve got nothing on the cabbie\u2019s nemesis, Uber. The taxi-booking app has quietly picked up an entire minibus load of global power brokers to join an \u201cadvisory board\u201d, which held its first meeting this week. Its recruitment of this crack team of influential names comes with the company fighting public policy battles on multiple fronts. Bumps in the road include concerns about multiple lawsuits, opposition from the traditional taxi industry, alleged foul play against rival Lyft and even full-blown bans on the service in some cities. Uber\u2019s new council of sages will be expected to help the company win arguments in the corridors of power. Among the most important luminaries are some who should give the company a direct line into the White House. Members of the advisory board include Ray LaHood, the US secretary of transportation from 2009 to 2013. Melody Barnes, who previously served as director of the domestic policy council at the White House, is another member. David Plouffe, who advised Barack Obama between 2011 and 2013, is a strategic adviser who knows more than most about swaying public opinion, having helped to mastermind the US president\u2019s successful campaigns. Speaking after this week\u2019s inaugural meeting Plouffe, Uber\u2019s chief adviser, said: \u201cWe had vibrant discussions about every aspect of our business and the unique challenges and opportunities Uber faces around the world. We\u2019re already benefiting greatly from the wisdom and savvy of our board members.\u201d The council also includes Princess Reema bint Bandar Al Saud, a Saudi princess and philanthropist who has been one of the country\u2019s most vocal advocates for women\u2019s rights.  Uber has also hired a former chairman of Australia\u2019s competition and consumer commission, Prof Allan Fels. Others joining Fels are representatives to help Uber keep its finger on the pulse of Latin America. A former prime minister of Peru, Roberto Da\u00f1ino \u2013 who was also once Peru\u2019s ambassador to the US \u2013 is now on the Uber payroll, as is Gesner Oliveira, former president of the Brazilian administrative council for economic defence (Cade). For expertise in European markets it can call on the Dutch politician Neelie Kroes, the former European commissioner for competition and vice-president of the commission. Kroes, recruited by Uber only this week, declared herself outraged in 2014 when Brussels banned the service. Her former employers at the commission are examining complaints by the company that restrictions on its services in some cities violate European law. Another adviser is Adil Zainulbhai, the former chairman of the Indian arm of McKinsey, the global management consultancy whose roster of former staff includes some of the world\u2019s most powerful business figures. This dazzling array of international influence should come in handy, given the company\u2019s regular clashes with politicians, regulators and traditional taxi services. Uber is currently embroiled in multiple lawsuits, including class-action cases in the US from drivers who want to be recognised as employees and a price-fixing lawsuit from passengers. It has been the subject of multiple protests from taxi drivers around the world. In 2014 it was accused by rival Lyft of using its own drivers to make fake calls to Lyft in order to hamstring the competition, a claim it strenuously denied. And more recently, customers have reported phantom journeys that they never took showing up on their Uber accounts. The company will hope that hiring lobbyists will help it to stave off more controversy in future and score some victories on the policy front, too. It chalked up one such triumph this year, when the London mayor, Boris Johnson, shelved proposals that would have placed tighter regulatory restrictions on its business in the UK capital.",
+  "webTitle": "Uber assembles advisory board of international power brokers",
+  "webPublicationDate": "2016-05-05T16:35:51Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/05/uber-assembles-advisory-board-of-international-power-brokers",
+  "keyword": [
+    {
+      "webTitle": "Uber",
+      "id": "technology/uber",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Transport policy",
+      "id": "politics/transport",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Transport",
+      "id": "uk/transport",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Rob Davies",
+      "id": "profile/rob-davies"
+    }
+  ],
+  "guardianId": "technology/2016/may/05/uber-assembles-advisory-board-of-international-power-brokers"
+}

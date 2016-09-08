@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/us-news/2016/may/12/hillary-clinton-donald-trump-tax-return",
+  "id": "2016-05-12-149",
+  "sectionId": "us-news",
+  "body": "Hillary Clinton has attacked Donald Trump for his refusal to release his tax returns, criticising the billionaire businessman at a campaign event. \u201cYou have to ask yourself, why doesn\u2019t he want to release them?\u201d asked Clinton at a crowd at a community college gymnasium in Blackwood, New Jersey, on Wednesday, according to the New York Times. \u201cBecause when you\u2019re running for president and you become the nominee, that\u2019s kind of expected,\u201d she said.  During the 2016 campaign, Clinton has released the last eight years of her personal tax records. That, combined with records from her last presidential run and her husband\u2019s presidential returns, means the Clintons have released all tax returns since 1977. Clinton called on voters to keep pushing for Trump to release his tax returns, and suggested that her campaign would continue to push hard for their release during the general election. \u201cWe\u2019ll get around to that too,\u201d said Clinton. The presumptive Republican nominee has a history of bankruptcies. In 2009, he sued an author of a book about him who declared he was only worth $150m to $250m, but a judge dismissed the case. The likely Democratic nominee also dismissed Trump\u2019s tax plan as \u201cwritten by a billionaire for billionaires\u201d, noting its tax cuts for people who earn over $1m a year. But Trump is standing by his decision to not release a tax return until an audit on his returns by the Internal Revenue Service was finished. \u201cThere\u2019s nothing to learn from them,\u201d said Trump in an interview with the Associated Press on Wednesday.  \u201cNow, I hope it gets finished soon. And if it gets finished soon, I put it out immediately because there\u2019s nothing there. But until you get finished, you won\u2019t,\u201d said Trump. There is no IRS rule stating that people undergoing an audit cannot release tax returns.  On Tuesday, the 2012 Republican nominee Mitt Romney slammed Trump\u2019s refusal to release the forms as a \u201cdisqualifying\u201d offense. \u201cThere is only one logical explanation for Mr Trump\u2019s refusal to release his returns: there is a bombshell in them,\u201d wrote Romney in a Facebook post. It\u2019s not a requirement for presidential candidates to release their tax returns, although it has become the norm. When Bernie Sanders took months to release his latest tax return, the Clinton campaign used it against him when he queried her on the release of transcripts from her paid speeches to Goldman Sachs.",
+  "webTitle": "Clinton attacks Trump on tax returns: 'Why doesn't he want to release them?'",
+  "webPublicationDate": "2016-05-12T15:15:27Z",
+  "webUrl": "https://www.theguardian.com/us-news/2016/may/12/hillary-clinton-donald-trump-tax-return",
+  "keyword": [
+    {
+      "webTitle": "Hillary Clinton",
+      "id": "us-news/hillary-clinton",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Donald Trump",
+      "id": "us-news/donaldtrump",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US elections 2016",
+      "id": "us-news/us-elections-2016",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US politics",
+      "id": "us-news/us-politics",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US taxation",
+      "id": "us-news/us-taxation",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Amber Jamieson",
+      "id": "profile/amber-jamieson"
+    }
+  ],
+  "guardianId": "us-news/2016/may/12/hillary-clinton-donald-trump-tax-return"
+}

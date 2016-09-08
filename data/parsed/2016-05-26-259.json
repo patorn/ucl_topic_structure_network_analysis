@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/26/uk-economy-grew-at-04-ons-confirms",
+  "id": "2016-05-26-259",
+  "sectionId": "business",
+  "body": "Britain\u2019s economy grew at 0.4% in the first three months of the year, despite a slump in manufacturing and construction output that has dragged down GDP growth over the last year. Tumbling business investment, which recorded its first annual fall in three years, also restricted growth and fuelled concerns that businesses are holding back on plans to expand ahead of the EU referendum. The economy only expanded in the first quarter after increases in business services and government spending, especially on the NHS, and a surge in consumer spending, according to the second estimate of GDP by the Office for National Statistics. The figures, which confirm an earlier estimate that growth slowed down from 0.6% in the last quarter of 2015, will be leapt on by the Treasury as another sign of the uncertainty surrounding the Brexit debate affecting business confidence and investment.   Related: UK economy dragged back by weak business investment and trade \u2013 live    Most worryingly, business investment was estimated to have fallen by 0.5% in the first quarter as companies shelved plans to buy new equipment and build new offices and factory space. Household consumption, by contrast, increased by 0.7% on the previous quarter. Most economists blamed uncertainty over the referendum\u2019s outcome, weak overseas growth and financial market volatility for a slowdown that has been accelerating since last summer. Chris Williamson, chief economist of financial data provider Markit, said the UK economy presented a veneer of good health that masked \u201can unbalanced economy and a slowing pace of expansion, with the annual rate of growth slipping to the weakest for almost three years\u201d. Howard Archer, chief economist at IHS Global Insight, said: \u201cNot only did GDP growth slow in the first quarter, but it was entirely dependent on the services sector on the output side and heavily reliant on consumer spending on the expenditure side, which will fuel concern over an unbalanced economy.\u201d Williamson said he was concerned that the pace of economic growth this coming year could easily slow further from last year\u2019s 2.2% expansion. He said the chances were growing that the Bank of England would be forced to shelve plans for a first interest rate rise since the financial crisis, leaving base rates at the record low of 0.5% well into 2017.",
+  "webTitle": "UK economy grew at 0.4%, ONS confirms",
+  "webPublicationDate": "2016-05-26T09:41:22Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/26/uk-economy-grew-at-04-ons-confirms",
+  "keyword": [
+    {
+      "webTitle": "Economic growth (GDP)",
+      "id": "business/economicgrowth",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economic recovery",
+      "id": "business/economic-recovery",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Office for National Statistics",
+      "id": "uk/office-for-national-statistics",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Consumer spending",
+      "id": "business/consumerspending",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Phillip Inman",
+      "id": "profile/phillipinman"
+    }
+  ],
+  "guardianId": "business/2016/may/26/uk-economy-grew-at-04-ons-confirms"
+}

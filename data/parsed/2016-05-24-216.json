@@ -1,0 +1,64 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/24/mps-sound-alarm-british-troops-use-malaria-drug-lariam",
+  "id": "2016-05-24-216",
+  "sectionId": "uk-news",
+  "body": "Lariam, an anti-malarial drug that can have severe psychological side-effects, should be prescribed to British troops only as a last resort in a very limited number of cases, MPs have said. The risks associated with the drug were deemed to be so great that military personnel threw them away rather than take them, the Commons defence committee heard. Roche, manufacturer of the drug, issues a \u201cprescriber checklist\u201d asking whether the patient has ever suffered neuropsychological conditions. However, military personnel might hide any such conditions fearing that they could jeopardise their careers, a report released on Tuesday says. It adds that, though Roche has laid down stringent conditions that must be met if Lariam (also known as mefloquine) is to be prescribed safely there was \u201cvery strong anecdotal evidence that such conditions have been ignored in dispensing it to large numbers of troops about to be deployed\u201d. The MPs continue: \u201cThere is neither the need, nor any justification for continuing to issue this medication to service personnel except when the three conditions \u2026 above have been met.\u201d These are that the drug should be prescribed \u201conly to those who are unable to tolerate any of the available alternatives; only after a face-to-face individual risk assessment has been conducted; and only after the patient has been made aware of the alternatives and has been given the choice between Lariam and another suitable anti-malarial drug\u201d. Julian Lewis, chairman of the defence committee, said: \u201cIt seems quite clear that not only is the MoD [Ministry of Defence] unable to follow the manufacturer\u2019s guidelines for prescribing the drug in all instances, but a number of troops discard their Lariam rather than risk its potentially dangerous side-effects.\u201d Most of the time it was simply impossible to carry out individual assessments because \u201ca sudden, mass deployment of hundreds of troops is necessary\u201d. The law firm Hilary Meredith said it had been contacted by 470 former service personnel who were prescribed the drug and suffered from a range of mental health issues and psychological side-effects, including hallucinations, severe depression, sleep deprivation and anxiety. Former army commando Grant Evatt, a director of the firm, said: \u201cLike thousands of other troops, I took anti-malarial drugs \u2026 we had no idea of the potential side-effects.\u201d Tuesday\u2019s report says at least 17,368 British military personnel were prescribed Lariam at least once between 2007 and 2015, while 104,000 were prescribed different drugs. Chloroquine and proguanil travel packs account for 75% of MoD stocks of anti-malarial drugs. Though troops in other European countries are offered Lariam, malarone and doxycycline are preferred.  Vice-admiral Alasdair Walker, surgeon general of the British army, told BBC Radio 4\u2019s Today programme the forces would continue to use larium despite the concerns raised. \u201cWe have a duty to protect our personnel from malaria, we welcome the committee\u2019s conclusion that in same cases larium will be an appropriate third-place drug,\u201d he said.  \u201cLet me put things in perspective though, there are 190m cases of malaria a year, half a million people die from malaria and in the British military, despite the fact we send people to high-malaria areas, we\u2019ve only had one death in 1992, so in the last 25 years we\u2019ve had one death. So we are taking this seriously.  \u201cAll these drugs, unfortunately, like many other drugs for other conditions, have side-effects so for some people it\u2019s not appropriate to take doxycycline or malarone and in these situations where they\u2019re liable to be exposed to malaria, then we reserve the right to use meflaquin \u2013 Lariam \u2013 where appropriate with the recommendations that Roche, the drug company, make.\u201d  Reminded that Roche recommends thorough interviews with prospective users of larium, the vice-admiral said: \u201cThe policy I\u2019m driving with all my primary care staff, the GPs that prescribe this, is to make sure there\u2019s a proper risk assessment made of the people before they deploy and the informed consent to take the drug is there.  \u201cThe committee did say with certain circumstances, well-controlled, Lariam could be prescribed and we would not take that drug out of our armamentarium, it\u2019s an effective anti-malarial.\u201d",
+  "webTitle": "MPs say malaria drug Lariam should only be used by UK troops as 'last resort'",
+  "webPublicationDate": "2016-05-24T10:55:34Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/24/mps-sound-alarm-british-troops-use-malaria-drug-lariam",
+  "keyword": [
+    {
+      "webTitle": "Military",
+      "id": "uk/military",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Malaria",
+      "id": "society/malaria",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Defence policy",
+      "id": "politics/defence",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Richard Norton-Taylor",
+      "id": "profile/richardnortontaylor"
+    },
+    {
+      "webTitle": "Jamie Grierson",
+      "id": "profile/jamie-grierson"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/24/mps-sound-alarm-british-troops-use-malaria-drug-lariam"
+}

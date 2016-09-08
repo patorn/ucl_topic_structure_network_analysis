@@ -1,0 +1,84 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/17/study-finds-400m-meals-worth-edible-food-wasted-each-year-wrap",
+  "id": "2016-05-17-188",
+  "sectionId": "environment",
+  "body": "More than 400m meals\u2019 worth of edible food waste in the UK grocery supply chain could be redistributed to feed hungry people each year, according to a government-funded report. Just 18% of the 270,000 tonnes of potentially edible food waste produced last year was redistributed to businesses or charities for use in food banks, according to analysis by the Waste & Resources Action Programme (Wrap). The government\u2019s waste advisory body claims its study is the most comprehensive review of surplus food and food waste yet, offering insight into how the 1.1m tonnes of avoidable food waste is being generated through the analysis of 11 manufacturing sub-sectors. It found five of these sectors \u2013 dairy products; meat, poultry and fish; ambient products; fresh fruit and vegetable processing; and bakery, cake and cereals \u2013 together trigger about 80% of avoidable food waste in manufacturing. Wrap has produced a range of resources for food manufacturers and retailers signed up to the voluntary Courtauld 2025 agreement. This involves companies including Tesco, Sainsbury\u2019s and Unilever pledging to reduce the resource intensity of the UK\u2019s food and drink sector by 20% over the next nine years.   Related: Supermarkets pledge to cut food waste 20% by 2025    \u201cToday\u2019s report, which uses new and more robust methodologies, gives us the clearest indication yet of where, and why, food surpluses and waste occur,\u201d said Dr Richard Swannell, the director of Wrap.  \u201cThrough a combination of prevention, redistribution to people and diversion to animal feed, the grocery supply chain could, in the next 10 years, almost halve its avoidable food waste from 2009, when we first started work in this area. This will significantly contribute to delivering the Courtauld 2025 food waste prevention target.\u201d Surplus food redistribution charity FareShare welcomed the report but said it estimated that as much as 400,000 tonnes of good, surplus food could be redistributed each year.  \u201cWrap\u2019s report confirms what FareShare has been saying for some time: that hundreds of thousands of tonnes of good, surplus food could be saved from waste each year, and redistributed to charities to feed vulnerable people,\u201d said the FareShare chief executive, Lindsay Boswell.  \u201cFareShare\u2019s experience suggests that Wrap\u2019s figures are actually understated, and that as much as 400,000 tonnes of good, in-date surplus food could be redistributed to feed people each year.\u201d  The online supermarket Ocado has thrown its weight behind the drive to cut food waste, pledging produce from cancelled orders to the Real Junk Food Project \u2013 a network of cafes that take delivery of food while it is still useable.  Suzanne Westlake, head of corporate responsibility at Ocado, said: \u201cWe believe we are the first UK retailer to send customer-cancelled orders (including fresh food with products with long sell-by dates) straight to charity. Our collaboration with TRJFP ensures we can help anyone and everyone benefit from nutritious and delicious meals.\u201d",
+  "webTitle": "Study finds 400m meals' worth of edible food wasted each year",
+  "webPublicationDate": "2016-05-17T11:27:48Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/17/study-finds-400m-meals-worth-edible-food-wasted-each-year-wrap",
+  "keyword": [
+    {
+      "webTitle": "Food",
+      "id": "environment/food",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Waste",
+      "id": "environment/waste",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Food banks",
+      "id": "society/food-banks",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Supermarkets",
+      "id": "business/supermarkets",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Retail industry",
+      "id": "business/retail",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Food & drink",
+      "id": "lifeandstyle/food-and-drink",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Rebecca Smithers",
+      "id": "profile/rebeccasmithers"
+    }
+  ],
+  "guardianId": "environment/2016/may/17/study-finds-400m-meals-worth-edible-food-wasted-each-year-wrap"
+}

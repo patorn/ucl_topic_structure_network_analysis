@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/15/erik-satie-piano-works-olga-scheps-review",
+  "id": "2016-05-15-166",
+  "sectionId": "music",
+  "body": "Erik Satie (1866-1925) occupies a unique place in the musical pantheon, eschewing all artifice and show, stripping his compositions back to the bare essentials and creating a world of calm and order (he called it \u201cmusic without sauerkraut\u201d). His Trois Gymnop\u00e9dies (1888) and Six Gnossiennes (1889-97) are popular examples of his style, played here with unremarkable simplicity (for there is no other way to play them) by the Russian-born pianist Olga Scheps. More interesting are the Trois Sarabandes (1887), particularly the example in F minor, made almost entirely of a luminous, graceful chord progression. Scheps conjures this otherworld with admirable poise but, given the material, the temperature of this recording rarely rises above blood level.",
+  "webTitle": "Satie: Piano Works CD review \u2013 admirable poise",
+  "webPublicationDate": "2016-05-15T07:15:00Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/15/erik-satie-piano-works-olga-scheps-review",
+  "keyword": [
+    {
+      "webTitle": "Classical music",
+      "id": "music/classicalmusicandopera",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Stephen Pritchard",
+      "id": "profile/stephenpritchard"
+    }
+  ],
+  "guardianId": "music/2016/may/15/erik-satie-piano-works-olga-scheps-review"
+}

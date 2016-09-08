@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/23/horse-racing-tips-tuesday-24-may",
+  "id": "2016-05-23-104",
+  "sectionId": "sport",
+  "body": "Hexham 2.00 Another Bill 2.30 Generous Chief 3.00 Double Accord 3.30 Seventeen Black 4.00 Maz Majecc 4.30 Next Hight 5.00 Darsi Dancer 5.30 Tish Hall   Related: BHA in silent mode as high-stakes Jim Best appeal hearing looms    Southwell 5.25 Tees Components Max 5.55 Hit The Headlines 6.30 Toviere 7.00 Sanaija 7.35 Proofreader 8.05 Carrigkerry 8.35 Black Sam  Wetherby 5.40 Dubai Knights 6.10 Miramonte Dancer 6.45 Udontdodou 7.15 Just Be Lucky 7.50 Winterval 8.20 Torch 8.50 Solid Justice (nb)  Wolverhampton 2.15 Whispering Wolf 2.45 Minminwin 3.15 Evenlode 3.45 Clumber Street 4.15 Scarpeta 4.45 Bayan Kasirga (nap) 5.15 Ballard Down 5.45 Ferryview Place",
+  "webTitle": "Horse racing tips: Tuesday 24 May",
+  "webPublicationDate": "2016-05-23T16:16:20Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/23/horse-racing-tips-tuesday-24-may",
+  "keyword": [
+    {
+      "webTitle": "Horse racing tips",
+      "id": "sport/horse-racing-tips",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Horse racing",
+      "id": "sport/horse-racing",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Chris Cook",
+      "id": "profile/chriscook"
+    }
+  ],
+  "guardianId": "sport/2016/may/23/horse-racing-tips-tuesday-24-may"
+}

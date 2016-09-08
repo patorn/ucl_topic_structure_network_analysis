@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/travel/2016/may/11/montreal-travel-tips-competition",
+  "id": "2016-05-11-181",
+  "sectionId": "travel",
+  "body": "Have you been to the so-called \u2018Paris of Canada\u2019? If so, we\u2019d love to hear your personal recommendations. If you\u2019ve discovered a cheerful guesthouse, a revealing excursion, a backstreet museum or a curious day trip, let us know. Send us your tips via GuardianWitness including as much detail as you can in around 100 words (along with website, menu details and prices etc, if possible). The best tips will appear in print in next weekend\u2019s Travel section and the winner, chosen by Tom Hall of Lonely Planet, will receive a \u00a3200 hotel voucher from Hotels.com, allowing you to stay in more than 260,000 places worldwide. Submit your tip by clicking the blue button and using the text tab. You\u2019re welcome to add a photo if you own the copyright to it \u2013 but it\u2019s the text we\u2019ll be judging. Terms and conditions Closes 18 May 10am GMT \u2022 GuardianWitness is the home of user-generated content on the Guardian. Contribute your video, pictures and stories, and browse news, reviews and creations submitted by others. Posts will be reviewed prior to publication on GuardianWitness, and the best pieces will feature on the Guardian site.",
+  "webTitle": "Montreal: send in your travel tips and win a \u00a3200 hotel voucher",
+  "webPublicationDate": "2016-05-11T14:06:09Z",
+  "webUrl": "https://www.theguardian.com/travel/2016/may/11/montreal-travel-tips-competition",
+  "keyword": [
+    {
+      "webTitle": "Montreal holidays",
+      "id": "travel/montreal",
+      "sectionId": "travel",
+      "sectionName": "Travel"
+    },
+    {
+      "webTitle": "Canada holidays",
+      "id": "travel/canada",
+      "sectionId": "travel",
+      "sectionName": "Travel"
+    },
+    {
+      "webTitle": "North and Central America holidays",
+      "id": "travel/northandcentralamerica",
+      "sectionId": "travel",
+      "sectionName": "Travel"
+    },
+    {
+      "webTitle": "Travel",
+      "id": "travel/travel",
+      "sectionId": "travel",
+      "sectionName": "Travel"
+    },
+    {
+      "webTitle": "User",
+      "id": "community/community",
+      "sectionId": "community",
+      "sectionName": "Community"
+    },
+    {
+      "webTitle": "Users' travel advice",
+      "id": "travel/userstraveladvice",
+      "sectionId": "travel",
+      "sectionName": "Travel"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "The Guardian",
+      "id": "profile/theguardian"
+    }
+  ],
+  "guardianId": "travel/2016/may/11/montreal-travel-tips-competition"
+}

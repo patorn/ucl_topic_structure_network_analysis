@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/books/booksblog/2016/may/16/man-booker-international-prize-celebration-translation",
+  "id": "2016-05-16-314",
+  "sectionId": "books",
+  "body": "On Monday evening, the inaugural winners of the new Man Booker International prize will be named, rewarding the best translated novel of\u00a0the year, a high-profile acclamation with a generous prize pot split evenly between translator and original author. And as part of this welcome focus, the MBIP has commissioned research from Nielsen into how the increasing number of works of translated literature actually sell. The headline data is\u00a0still only partial, but promising: in the past 15 years, while the overall fiction market has stagnated, translated fiction sales have apparently increased by 96%. And today\u2019s translations actually sell on average better than non-translations. But should we really be surprised? All too often we translators discuss \u201ctranslated fiction\u201d as though it appeals only to a discerning but limited readership. A niche interest. Yet what we\u2019re really talking about is every book from all of continental Europe and Latin America, from much of Africa and most of Asia. That\u2019s quite some niche. Personally, I\u2019ve never believed that readers are scared of translations. (As a child I joyfully read the Asterix books with no sense of there being a terrifying obstruction between us.) And over the last decade or so, I\u2019ve certainly been aware of a move towards the mainstream. The number of books published in translation has crept up, according to a report from Literature Across Frontiers; and the visibility of translated books, and of translators themselves, has improved dramatically \u2013 from Karl Ove Knausgaard to Elena Ferrante. In part we can thank a decade of effective cultural activism, of fearless publishers, dynamic translators and single-minded cultural organisations fighting hard for attention, but this has been coupled with a general improvement in our audiences\u2019 willingness to look culturally outward. Scandinavian crime novels are now no scarier (in\u00a0commercial terms, I mean) than Scottish crime novels. Time for us to stop worrying?",
+  "webTitle": "The Man Booker International prize: a celebration of translation",
+  "webPublicationDate": "2016-05-16T07:00:29Z",
+  "webUrl": "https://www.theguardian.com/books/booksblog/2016/may/16/man-booker-international-prize-celebration-translation",
+  "keyword": [
+    {
+      "webTitle": "Fiction in translation",
+      "id": "books/fiction-in-translation",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Fiction",
+      "id": "books/fiction",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Books",
+      "id": "books/books",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Man Booker International prize",
+      "id": "books/man-booker-international-prize",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Awards and prizes",
+      "id": "culture/awards-and-prizes",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Daniel Hahn",
+      "id": "profile/daniel-hahn"
+    }
+  ],
+  "guardianId": "books/booksblog/2016/may/16/man-booker-international-prize-celebration-translation"
+}

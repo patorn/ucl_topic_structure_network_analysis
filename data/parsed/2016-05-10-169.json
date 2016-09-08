@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/10/headlines-exaggerated-climate-link-to-sinking-of-pacific-islands",
+  "id": "2016-05-10-169",
+  "sectionId": "environment",
+  "body": "Links between climate change and the sinking of five islands in the Pacific Ocean have been exaggerated, the author of a widely reported new study has said. The report, published on Friday, tracked the shapeshifting of 33 reef islands in the Solomon Islands between 1947 and 2014. It found that five had been washed away completely and six more had been severely eroded. The study blamed the loss on a combination of sea-level rise and high wave energy. Many media outlets, including the Guardian, jumped to the conclusion that the islands were lost to climate change. But this largely misinterprets the science, according to the study\u2019s author, Dr Simon Albert. \u201cAll these headlines are certainly pushing things a bit towards the \u2018climate change has made islands vanish\u2019 angle. I would prefer slightly more moderate titles that focus on sea-level rise being the driver rather than simply \u2018climate change\u2019,\u201d Albert told the Guardian. The major misunderstanding stems from the conflation of sea-level rise with climate change. As a scientifically robust and potentially destructive articulation of climate change, sea-level rise has become almost synonymous with the warming of the planet. However, as Albert\u2019s paper points out, the ocean has been rising in the Solomon Islands at 7mm per year, more than double the global average. Since the 1990s, trade winds in the Pacific have been particularly intense. This has been driven partly by global warming and partly by climatic cycles - in particular the Pacific Decadal Oscillation. \u201cThese trade winds have basically pushed water up into western Pacific and have driven these exceptionally high rates of [sea-level rise] in the Solomons,\u201d said Albert. \u201cThe trade winds are partly a natural cycle but also the recent intensification is related to atmospheric warming.\u201d The proportion of the extra rise driven by climate change was not considered by Albert\u2019s study.  Areas of the Pacific where seas are rising at closer to the global average have not yet experienced the same loss of land as the Solomon Islands. A few studies, based on comparing aerial photos of islands from world war two with current satellite images, have thus far have been inconclusive. There is even a suggestion that atolls in the central Pacific are getting bigger. The loss of land in the Pacific is a totemic image of climate change. Residents of low-lying nations see incursions of the sea where it did not use to be and blame the burning of fossil fuels. This study shows that the issue is more complex than this. But it also contains a dire warning. By the second half of this century the sea-level rise across the Pacific will be close to the rate observed in the Solomon Islands in recent decades. Albert\u2019s team also observed a disturbing trend of wave energy increasing along with local sea-level rise, meaning islands exposed to high seas were trounced into oblivion.  In this respect, the drowning of these lands is a window into the future. For the first time, we can see clearly that the amount of sea-level rise we expect from climate change will overwhelm entire landscapes. \u201cThe key aspect I stand by is that these observations from the Solomons are a warning of things to come irrespective of if climate change alone caused it or a range of factors,\u201d said Albert. It appears that in some cases journalists did not contact the researchers and instead quoted from a comment piece the authors wrote on The Conversation website. \u201cThis is the first scientific evidence,\u201d said the authors, \u201cthat confirms the numerous anecdotal accounts from across the Pacific of the dramatic impacts of climate change on coastlines and people.\u201d This was used to justify erroneous headlines. Albert told the Guardian: \u201cI understand why these more dramatic titles are used and it does help bring attention to the issue that I firmly believe will become a major issue for the islands in the second half if this century from climate change.\u201d",
+  "webTitle": "Headlines 'exaggerated' climate link to sinking of Pacific islands",
+  "webPublicationDate": "2016-05-10T12:50:23Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/10/headlines-exaggerated-climate-link-to-sinking-of-pacific-islands",
+  "keyword": [
+    {
+      "webTitle": "Sea level",
+      "id": "environment/sea-level",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Oceans",
+      "id": "environment/oceans",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Climate change",
+      "id": "environment/climate-change",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Solomon Islands",
+      "id": "world/solomonislands",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Asia Pacific",
+      "id": "world/asia-pacific",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Karl Mathiesen",
+      "id": "profile/karl-mathiesen"
+    }
+  ],
+  "guardianId": "environment/2016/may/10/headlines-exaggerated-climate-link-to-sinking-of-pacific-islands"
+}

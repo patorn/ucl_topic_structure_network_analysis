@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/19/bayer-gm-foods-monsato-talks-deal",
+  "id": "2016-05-19-151",
+  "sectionId": "business",
+  "body": "The German drugs and chemicals group Bayer has pounced on Monsanto, the world\u2019s biggest seed company, with an unsolicited takeover offer likely to be worth more than $40bn (\u00a327bn). Bayer, which invented aspirin in the 19th century, said executives from both companies had met to \u201cprivately discuss a negotiated acquisition of Monsanto Company\u201d to create a \u201cleading integrated agriculture business\u201d. Combining their operations would create a giant business making drugs such as Yasmin birth control pills, pesticides and seeds for genetically modified crops.    Related: Bayer revises position to propose extra protections for bees from pesticides    Monsanto confirmed an unsolicited takeover proposal from Bayer and said the company\u2019s board was reviewing the offer with its financial and legal advisers. Monsanto, based in St Louis, Missouri, has a market value of $42bn. Last year, the company failed in an attempt to buy Swiss pesticides company Syngenta for $47bn; it has since itself become a takeover target, with global crop prices falling. German chemicals company BASF is also known to be interested. Prof John Colley of Warwick Business School said: \u201cMonsanto certainly do not want to be bought by a European business. However, shareholders always have their price. No doubt Monsanto will reject the bid, but it will need to convince its shareholders that it has seriously considered the offer. A higher bid is likely.  \u201cDemand is poor for agribusiness products currently due to low commodity prices. Overcapacity has led to poor performance and lower share prices, in turn providing opportunities for mergers.\u201d Syngenta agreed to be bought by the state-backed China National Chemical Corporation in February. The $43bn deal, the largest foreign acquisition by a Chinese company, is being scrutinised by US regulators amid concerns about the security of the US food supply. A deal between Bayer and Monsanto could also raise antitrust fears in the US, because there is overlap between their seeds businesses, particularly soybeans, cotton and canola. Monsanto is thought to have approached Bayer earlier this year about buying or forming a joint venture for its crop science division. Phillip Tunney, the head of the UK chemical sector group at law firm Eversheds, said: \u201cThis is just the latest development in a series of consolidations in the agrichemicals sector, which has seen some pretty eyewatering numbers involved. It will be interesting to see how any combined company would deal with antitrust issues, which are likely to be significant, and whether Bayer would undertake any divestments to help fund the acquisition.\u201d",
+  "webTitle": "Bayer in talks to buy GM food company Monsanto",
+  "webPublicationDate": "2016-05-19T14:29:12Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/19/bayer-gm-foods-monsato-talks-deal",
+  "keyword": [
+    {
+      "webTitle": "Bayer",
+      "id": "business/bayer",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Pharmaceuticals industry",
+      "id": "business/pharmaceuticals-industry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "GM",
+      "id": "environment/gm",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Mergers and acquisitions",
+      "id": "business/mergers-and-acquisitions",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Farming",
+      "id": "environment/farming",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Julia Kollewe",
+      "id": "profile/juliakollewe"
+    }
+  ],
+  "guardianId": "business/2016/may/19/bayer-gm-foods-monsato-talks-deal"
+}

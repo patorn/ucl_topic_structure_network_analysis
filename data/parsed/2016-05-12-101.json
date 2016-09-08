@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/12/egypt-hidden-chambers-tutankhamun-tomb-nefertiti",
+  "id": "2016-05-12-101",
+  "sectionId": "culture",
+  "body": "The world of archaeology was electrified last year by the news that Tutankhamun\u2019s tomb could contain hidden chambers possibly containing the remains and riches of Queen Nefertiti. It was a story that seemed to have everything: false walls, buried treasure, at least one mummy \u2013 and new hope for Egypt\u2019s ailing tourist industry.    Related: Tutankhamun's secret? Experts hope new chambers could contain tomb of Nefertiti    There was just one problem: the announcement now seems to be unfounded. But scientists say the evidence, based on new research, is being suppressed by the government in Cairo. The announcement in November by the then minister of antiquities, Mamdouh Eldamaty, that he was \u201c90% positive\u201d that an earlier radar scan of the tomb had revealed an unexplored chamber, galvanised worldwide excitement, and seemed to add weight to the theory of a British Egyptologist, Richard Reeves, that the tomb was also the intact burial site of Nefertiti, widely believed to be Tutankhamun\u2019s stepmother and who may have preceded him as pharaoh. A second scan was carried out this year using advanced ground-penetrating radar technology and was organised by the National Geographical Society (NGS), which said it sent the report to the Egyptian ministry of antiquities.      A 3,300-year-old limestone bust of Queen Nefertiti. Photograph: Robert Michael/AFP/Getty    However, the ministry has not revealed the findings, raising suspicions that they disprove the original claim, and triggering political infighting in Cairo. Eldamaty was replaced in March. Dean Goodman, a California-based geophysicist who analysed the data from the new scan, said he was unable to comment due to a non-disclosure agreement with NGS. But he was earlier quoted by the National Geographic website as saying that no hollow chamber had been found. \u201cIf we had a void, we should have a strong reflection,\u201d he said. \u201cBut it just doesn\u2019t exist. Radar data can often be subjective. But at this particular site, it\u2019s not. It\u2019s nice at such an important site to have clear, convincing results.\u201d An NGS spokeswoman said: \u201cNational Geographic scans and Goodman\u2019s review of them were shared with the Egyptian ministry of antiquities. Any questions about the National Geographic scan results should be directed to the ministry.\u201d However, there was no answer on Thursday at the ministry\u2019s press office telephone number, and an email bounced back with an automated message saying the email address was no longer valid. There has been no response to a request for comment from Reeves, a senior Egyptologist at the University of Arizona.     King Tutankhamun in his burial chamber in the Valley of the Kings. Photograph: Khaled Desouki/AFP/Getty Images    Lawrence Conyers, an anthropology professor at the University of Denver and the author of Ground-Penetrating Radar for Archaeology, said: \u201cNational Geographic came in and collected two sets of data and they used the used all the newest equipment with the right antenna. They first did a scan of a wall where they knew there was a void space behind it and used that as a model, so they knew what they were looking for. They did multiple scans of every single wall, and from what I understand, there is absolutely no indication of a void space.\u201d A scientist familiar with the controversy said: \u201cMy understanding is that the Egyptians are in a state of denial about this. They are freaking out, and it has become politically toxic. When you\u2019re the in the middle of a situation in which people are being purged because of their position on this, then scientists should back off and let the politics take its course. We have left the realm of science.\u201d The initial optimism about finding hidden chambers in the tomb was fuelled by a radar scan performed by a veteran Japanese specialist, Hirokatsu Watanabe. Those findings are under scrutiny, particularly as Watanabe has refused to share the raw data upon which he based his conclusions. He told the National Geographic website at a conference in Cairo that after more than 40 years in the field, he has customised his equipment to such a degree that its data is unreadable to others. \u201cWhen someone says that they want to check the data, I am so sad,\u201d he said. But he expressed no doubts about his results: \u201cI trust my data completely.\u201d",
+  "webTitle": "Egypt 'suppressing truth' over hidden chambers in Tutankhamun\u2019s tomb",
+  "webPublicationDate": "2016-05-12T17:13:49Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/12/egypt-hidden-chambers-tutankhamun-tomb-nefertiti",
+  "keyword": [
+    {
+      "webTitle": "Tutankhamun",
+      "id": "culture/tutankhamun",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Egypt",
+      "id": "world/egypt",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Egyptology",
+      "id": "science/egyptology",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Africa",
+      "id": "world/africa",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Middle East and North Africa",
+      "id": "world/middleeast",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Archaeology",
+      "id": "science/archaeology",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Julian Borger",
+      "id": "profile/julianborger"
+    }
+  ],
+  "guardianId": "world/2016/may/12/egypt-hidden-chambers-tutankhamun-tomb-nefertiti"
+}

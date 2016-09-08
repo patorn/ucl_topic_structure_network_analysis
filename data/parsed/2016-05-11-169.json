@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/11/facebook-censorship-news-feed-trending-topics",
+  "id": "2016-05-11-169",
+  "sectionId": "technology",
+  "body": "Bad news: Facebook is censoring the internet every day, warping your understanding of the world around you to benefit its corporate interests, and fundamentally changing the media landscape in a potentially apocalyptic fashion. Good news: that has little to nothing to do with the fact that the human curators of its trending topics feature are a bit sniffy about linking to Breitbart News. The most surprising thing about Facebook\u2019s trending stories isn\u2019t that the human editors behind them occasionally exercise their own judgement in which stories they do or don\u2019t link to; it\u2019s that even with humans working directly on the feature, it\u2019s still awful. The output of the feature is so bad that I and many others assumed it must be entirely algorithmic: how else would you end up with bizarre gnomic statements like this, taken verbatim from the \u201cscience and technology\u201d section of my feed today:    Facebook is a hotbed of censorship. Just try to post a picture of Aboriginal women in traditional dress    \u201cQuebec, Canada: Parts of Province Experience Snowfall, Report Says\u201d But no. Facebook has an entire team of writers working on these statements, according to a report from Gizmodo, and those writers are apparently encouraged to focus on mainstream news sites such as the BBC and CNN over fringe right-wing outlets like Breitbart or Newsmax. Facebook, for its part, denies censoring trending topics, saying that it wouldn\u2019t even be \u201ctechnically feasible\u201d to do what the whistleblower alleged. That hasn\u2019t stopped outrage at the report reaching the highest levels: Republican Senator John Thune spoke out on Tuesday, asking the site to explain itself. If Thune is outraged about stories not appearing on trending topics \u2013 a small sidebar which has an unclear influence on web traffic, fails to shape discussion, and is buried on mobile devices \u2013 wait until he finds out about the news feed. The jewel in Facebook\u2019s crown is a hotbed of censorship. Don\u2019t believe me? Try to post a picture of Aboriginal women in traditional dress \u2013 that is, topless \u2013 on your Facebook feed and see how long it lasts. The company\u2019s moderation team is notorious for its heavy-handed approach to topics like nudity, even as it also gets slated by governments worldwide for not removing and reporting content glorifying terrorism rapidly enough. But being a community moderator at Facebook is a thankless task. The work, often outsourced to companies like Manila-based contractor TaskUs, is performed with little remuneration or training. And even the best-paid highly skilled employees would have trouble drawing a consistent plan of action out of Facebook\u2019s vague attempts at drawing up community standards.     Facebook\u2019s news feed was born in 2006, when the social network was growing into a global phenomenon. Photograph: Justin Sullivan/Getty Images    Say what you like about moderation, though: at least you can see it happening. What seems so disturbing about the alteration of trending topics is that the sites which were kept off the list had no way of knowing that they had even had a chance. There\u2019s no reports feeding back why a curator decided to place or leave a story. It\u2019s an opaque system. Except, of course, that we can speak to former curators of trending topics to find out what they did and didn\u2019t post. With the news feed, there\u2019s no such luck. The algorithm that drives it makes just as many editorial choices as the trending topic curators, but you can\u2019t interview it to ask why. It will never be fired and decide to speak out about its decisions under the cloak of anonymity. Instead, it just sits there, day in day out, totally dictating the content seen by more than a billion users of the biggest social network in the world.    These decisions don\u2019t feel outrageous, because Facebook sells them under the veneer of neutrality    Perhaps because of that, the majority of Facebook users don\u2019t even realise that the news feed is edited at all. A 2015 study suggested that more than 60% of Facebook users are entirely unaware of any algorithmic curation on Facebook at all: \u201cThey believed every single story from their friends and followed pages appeared in their news feed\u201d, the authors wrote. The news feed algorithm takes in so many signals when deciding what should be promoted and what should be buried that it\u2019s likely the case that there is no one person at Facebook who can list them all. But we know some choices the algorithm makes: it promotes live video as much as possible, and pre-recorded video almost as heavily \u2013 although in both cases, only if the video is delivered through Facebook\u2019s own platform. It pushes articles that you spend a long time reading, as well as links posted by your closest friends, over the alternative. If you run a business page on the site, it will show your posts to a tiny fraction of people who\u2019ve subscribed, and then ask for cash to show it to anyone else. These decisions don\u2019t feel outrageous, because Facebook sells them under the veneer of neutrality. Articles with a longer read time aren\u2019t shown because Facebook made an editorial decision that you shouldn\u2019t read short pieces; instead it\u2019s because \u201cthe time people choose to spend reading or watching content they clicked on from news feed is an important signal that the story was interesting to them\u201d. And so Facebook promotes stories with a high read time, because it wants the news feed to be full of \u201cinteresting\u201d stories. You could, of course, argue that the decision to focus on interesting stories, as opposed to important, or pleasing, or humorous ones is itself an editorial decision. But that argument probably wouldn\u2019t be very interesting. So no one would read it, because it wouldn\u2019t show up on Facebook. Oh well.  Facebook launches facial recognition app in Europe (without facial recognition)",
+  "webTitle": "Angry about Facebook censorship? Wait until you hear about the news feed",
+  "webPublicationDate": "2016-05-11T14:37:32Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/11/facebook-censorship-news-feed-trending-topics",
+  "keyword": [
+    {
+      "webTitle": "Facebook",
+      "id": "technology/facebook",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Social networking",
+      "id": "media/socialnetworking",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "News agencies",
+      "id": "media/news-agencies",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Censorship",
+      "id": "world/censorship",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Newspapers & magazines",
+      "id": "media/pressandpublishing",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Alex Hern",
+      "id": "profile/alex-hern"
+    }
+  ],
+  "guardianId": "technology/2016/may/11/facebook-censorship-news-feed-trending-topics"
+}

@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/20/five-best-uk-films",
+  "id": "2016-05-20-189",
+  "sectionId": "film",
+  "body": "1: Heart Of A Dog (PG) (Laurie Anderson, 2015, Fra/US) 76 mins             The death of her dog sets in motion a rich, free-ranging essay from Anderson, which touches on matters profound (death, dreams, data storage, storytelling), personal (some astounding childhood incidents) and trivial (teaching her dog to play piano). The imagery is fluid and dreamlike but, as you\u2019d expect, it\u2019s as much an aural experience as a visual one, thanks to Anderson\u2019s mellifluous narration and hypnotic soundscapes. 2: Everybody Wants Some!! (15) (Richard Linklater, 2016, US) 117 mins            Linklater\u2019s spiritual sequel to Boyhood finds much to write home about before term\u2019s even started at a 1980s frat house. These amiable jocks spar with each other in whatever field they can find \u2013 repartee, ping pong, bong-smoking, sexual bravado, handlebar-moustache size \u2013 never truly questioning how their masculine bonding might look from the outside. The characters are vivid, the observation shrewd and the overall tone warm and affectionate. 3: Mustang (15) (Deniz Gamze Erg\u00fcven, 2015, Fra/Ger/Tur/Qat) 97 mins            Girlhood is literally a prison in this assured, Oscar-nominated drama, centred on five orphaned sisters in Turkey who are barricaded in their home and cut off from their former carefree lives. 4: Green Room (18) (Jeremy Saulnier, 2015, US) 95 mins            An out-of-town gig at a skinhead club turns into a life-or-death siege in this expert thriller, somewhere along the lines of a backstage Assault On Precinct 13, but packed with nasty surprises \u2013 not least Patrick Stewart as the baddie-in-chief. 5: Sing Street (12A) (John Carney, 2016, Ire/UK/US) 106 mins            The Once director bashes out an unpretentious, three-chord coming-of-ager, in which a lovestruck Dublin teenager starts a band to get a girl. Musically and stylistically it\u2019s a nostalgia trip back to the mid-1980s, with some agreeable new tracks of its own, but there\u2019s also a dose of family strife to add some shade.",
+  "webTitle": "Five of the best\u2026 films out in the UK",
+  "webPublicationDate": "2016-05-20T12:00:09Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/20/five-best-uk-films",
+  "keyword": [
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Green Room",
+      "id": "film/green-room",
+      "sectionId": "film",
+      "sectionName": "Film"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Steve Rose",
+      "id": "profile/steverose"
+    }
+  ],
+  "guardianId": "film/2016/may/20/five-best-uk-films"
+}

@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/26/anthony-davis-bonus-all-nba-teams",
+  "id": "2016-05-26-31",
+  "sectionId": "sport",
+  "body": "New Orleans Pelicans star Anthony Davis missed out on a $25m windfall on Thursday when he failed to make this year\u2019s All-NBA teams. Davis was a first-team All-NBA selection last year, but was limited to just 61 games this season because of shoulder and knee injuries, and didn\u2019t receive enough votes for inclusion, meaning the clause in his contract that entitles him to a bonus will not be activated.   Related: Stephen Curry, the Warriors and the struggle to stay superhuman    Davis\u2019s injuries, which both required surgery, will keep him out of this summer\u2019s Olympics. NBA MVP Steph Curry was a unanimous pick on the first team, and was joined by LeBron James, Russell Westbrook, Kawhi Leonard and DeAndre Jordan. James earned the honor for the 10th time and ninth year consecutively. Kevin Durant, Draymond Green, DaMarcus Cousins, Chris Paul and Damian Lillard made up the second team, while Paul George, LaMarcus Aldridge, Andre Drummond, Klay Thompson and Kyle Lowry were in the third team. The NBA\u2019s \u201cDerrick Rose rule\u201d states that a player on a rookie contract who is voted an All-Star starter twice, voted to any of the three All-NBA teams twice, or wins a regular-season MVP award is eligible to make 30% of the league\u2019s cap amount instead of 25%. Lillard\u2019s selection will earn him an estimated $13m extra over the life of the five-year deal he signed with Portland last season. Curry helped Golden State to a 73-9 regular-season record, the best in NBA history. He led the league in scoring (30.1 points per game) and averaged 6.7 assists and a career-high 5.4 rebounds. He also made an NBA-record 402 three-pointers. The All-NBA team has been selected in every year of the league\u2019s existence, dating back to its inaugural season in 1946.",
+  "webTitle": "Anthony Davis misses out on $25m after All-NBA team snub",
+  "webPublicationDate": "2016-05-26T21:12:22Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/26/anthony-davis-bonus-all-nba-teams",
+  "keyword": [
+    {
+      "webTitle": "New Orleans Pelicans",
+      "id": "sport/new-orleans-hornets",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "NBA",
+      "id": "sport/nba",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "US sports",
+      "id": "sport/us-sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "sport/2016/may/26/anthony-davis-bonus-all-nba-teams"
+}

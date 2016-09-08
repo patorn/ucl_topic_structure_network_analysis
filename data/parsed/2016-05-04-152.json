@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/04/bbc-john-whittingdale-impartiality",
+  "id": "2016-05-04-152",
+  "sectionId": "media",
+  "body": "John Whittingdale has said the BBC\u2019s approach to impartiality drives him \u201cinsane\u201d and joked about abolishing the corporation in a talk at Cambridge University\u2019s Conservative Association.  In a marked departure from careful public statements made ahead of the publication of a white paper on the next BBC charter, the culture secretary also indicated his commitment to hand part of the licence fee to outside organisations to make programming such as children\u2019s TV, arts coverage and local news. \u201cThere is a case for having some plurality, so that the decision as to what programmes are commissioned isn\u2019t exclusively taken by the small group of commissioning editors at the BBC,\u201d he said.   Related: Government could ban BBC from showing top shows at peak times    Director general Tony Hall last week sought reassurances from the chancellor, George Osborne, that so-called \u201ctop-slicing\u201d would not take place, having considered the prospect ruled out under the funding agreement struck with the Treasury last year.  The comments, which were first reported by Cambridge University\u2019s student newspaper Varsity and verified by Broadcast, were made at an event last Friday, in which he described the BBC as \u201ca market intervention of around \u00a34bn by government\u201d. They reveal Whittingdale\u2019s dissatisfaction with the way the BBC handles complaints over impartiality. He told the association that \u201csometimes they will drive me insane\u201d and confirmed he would strip responsibility for handling complaints from the BBC Trust.  The pro-Brexit minister added that the corporation \u201cfinds it difficult to take seriously people who have a different view of the world\u201d and \u201chas always regarded people who want to leave Europe as faintly mad [and] it has generally been in favour of spending public money rather than those who want to see lower taxes\u201d.  He also jokingly said of the BBC\u2019s charter, which runs out at the end of 2017, \u201cif we don\u2019t renew it, it may be that the BBC will cease to exist, which is occasionally a tempting prospect\u201d.",
+  "webTitle": "BBC's demise is 'tempting prospect', jokes John Whittingdale",
+  "webPublicationDate": "2016-05-04T14:30:14Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/04/bbc-john-whittingdale-impartiality",
+  "keyword": [
+    {
+      "webTitle": "BBC",
+      "id": "media/bbc",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Television industry",
+      "id": "media/television",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "John Whittingdale",
+      "id": "politics/john-whittingdale",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jasper Jackson",
+      "id": "profile/jasper-jackson"
+    }
+  ],
+  "guardianId": "media/2016/may/04/bbc-john-whittingdale-impartiality"
+}

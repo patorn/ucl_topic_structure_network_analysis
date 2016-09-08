@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/30/bbc-concert-orchestra-martin-yates-review-dorchester-abbey",
+  "id": "2016-05-30-91",
+  "sectionId": "music",
+  "body": "Alongside the obligatory singing of Parry\u2019s Jerusalem, and music by a couple of the usual suspects, Delius and Coleridge-Taylor, there were three world premieres in the opening concert of this year\u2019s English Music festival, which was given by the BBC Concert Orchestra, conducted by Martin Yates. Only one of those novelties, though, was really new, and that was also the most interesting of the three. David Matthews\u2019 Norfolk March began as an exercise in musical archaeology, an attempt to reconstruct Vaughan Williams\u2019 lost Norfolk Rhapsody No 3, using the folk tunes that he is known to have incorporated and following a detailed programme note written for the 1907 premiere.  Matthews\u2019 piece begins as totally plausible VW pastiche, but then takes a much darker, more dissonant turn, boiling up into an Ives-like concatenation of ideas before subsiding to an uneasy close. The rest, though very decently played by the BBCCO, was less consequential.  Paul Lewis\u2019s An Optimistic Overture, composed for a competition in 1971 but never performed until now, was efficient enough, but the major disappointment was the substantial Vaughan Williams premiere. The Fat Knight was intended as a suite of orchestral extracts from his opera Sir John in Love, but only got as far as a short score. Yates has now faithfully orchestrated the piece \u2013 perhaps a bit too faithfully, as the seven movements last 50 minutes yet convey little of the opera\u2019s dramatic substance. It\u2019s at least 15 minutes too long and, as I remember it from the 2006 ENO staging, there\u2019s a bit more to Sir John in Love than a potpourri of folk tunes.  \u2022 The English Music festival continues until 30 May.",
+  "webTitle": "BBC Concert Orchestra/Yates review \u2013 a potpourri of premieres and folk tunes",
+  "webPublicationDate": "2016-05-30T14:17:01Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/30/bbc-concert-orchestra-martin-yates-review-dorchester-abbey",
+  "keyword": [
+    {
+      "webTitle": "Classical music",
+      "id": "music/classicalmusicandopera",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Music festivals",
+      "id": "music/music-festivals",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Festivals",
+      "id": "culture/festivals",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Andrew Clements",
+      "id": "profile/andrewclements"
+    }
+  ],
+  "guardianId": "music/2016/may/30/bbc-concert-orchestra-martin-yates-review-dorchester-abbey"
+}

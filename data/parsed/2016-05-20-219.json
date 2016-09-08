@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/20/giro-d-italia-mascot-wolf-banned-farmers",
+  "id": "2016-05-20-219",
+  "sectionId": "sport",
+  "body": "The Giro d\u2019Italia\u2019s fluffy wolf mascot will be banned from appearing when the race enters France next week after protests from a farmers\u2019 group who complained his presence would be \u201cpure provocation\u201d. Lupo Wolfie, who became the Giro\u2019s mascot last year, was due to accompany the race when it enters the Hautes-Alpes department in south-eastern France for stages 19 and 20 next week.   Related: Andr\u00e9 Greipel powers to third stage win of Giro d\u2019Italia as Jungels keeps lead    However, his proposed presence has provoked outrage among Jeunes Agriculteurs 05 \u2013 a union that defends the interests of local farmers under the age of 35 \u2013 because they say it is mocking the number of attacks they have suffered on their livestock in recent months. \u201cThe display of such a mascot in the midst of our pastures, which is supported by most environmental groups, is pure provocation that is not humanly acceptable to the farmers,\u201d said a statement form the group. \u201cFarmers are tired of seeing the wolf only presented to public opinion as a nice soft toy.\u201d Their request has been agreed to by organisers, who decided to replace the previous mascot Girbecco \u2013 a mountain goat sporting the race\u2019s famous pink jersey \u2013 after a run of six years. His predecessor was Ghiro, a giant rat who has been described as a wobbly-eyed cross between Don Corleone and Master Splinter.",
+  "webTitle": "Giro\u2019s cuddly wolf mascot banned from France after farmers\u2019 protests",
+  "webPublicationDate": "2016-05-20T11:10:01Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/20/giro-d-italia-mascot-wolf-banned-farmers",
+  "keyword": [
+    {
+      "webTitle": "Giro d'Italia",
+      "id": "sport/giro-d-italia",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Cycling",
+      "id": "sport/cycling",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "sport/2016/may/20/giro-d-italia-mascot-wolf-banned-farmers"
+}

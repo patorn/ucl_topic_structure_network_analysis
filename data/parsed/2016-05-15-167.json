@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/15/lotti-crucifixus-syred-consort-ben-palmer-review",
+  "id": "2016-05-15-167",
+  "sectionId": "music",
+  "body": "The plangent dissonances of Antonio Lotti\u2019s setting of the Crucifixus are well known to choral singers: here the scholar Ben Byram-Wigfield has put it back in a complete mass setting, which turns out to be a curious concoction partly by Lotti (1667-1740) and partly, adapting his music, possibly by his pupil Jan Dismas Zelenka. Both here and in another G minor Credo, Lotti\u2019s music is strongly profiled, solidly baroque, with an especially expressive fugue at the end of the Gloria, then re-used in the Benedictus. There are a good number of first recordings here, driven well by Ben Palmer, though the soloists are not all equal to Lotti\u2019s extravagant demands.",
+  "webTitle": "Lotti: Crucifixus CD review \u2013 extravagant baroque demands",
+  "webPublicationDate": "2016-05-15T07:05:00Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/15/lotti-crucifixus-syred-consort-ben-palmer-review",
+  "keyword": [
+    {
+      "webTitle": "Classical music",
+      "id": "music/classicalmusicandopera",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Choral music",
+      "id": "music/choral-music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Nicholas Kenyon",
+      "id": "profile/nicholas-kenyon"
+    }
+  ],
+  "guardianId": "music/2016/may/15/lotti-crucifixus-syred-consort-ben-palmer-review"
+}

@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/08/tony-murena-indifference-album-review",
+  "id": "2016-05-08-178",
+  "sectionId": "music",
+  "body": "Making a fusion of jazz and other idioms is nothing new. In the 1930s, the accordionist Tony Murena\u2019s hybrid of American jazz and French musette vied for popularity with the music of Django Reinhardt and St\u00e9phane Grappelli. A virtuoso of the instrument, he toured major concert halls throughout Europe and South America. Listening to him today, you sometimes wish he\u2019d take it easy on the virtuosity and give music more of a chance, but it\u2019s impressive nevertheless. He sounds happier with triple time than the four-in-a-bar of swing, but among these 27 short tracks there\u2019s the fastest version of Count Basie\u2019s Jumpin\u2019 at the Woodside I\u2019ve ever heard. Just a curiosity now, perhaps, but fun.         Tony Murena \u2013 Indiff\u00e9rence (audio)",
+  "webTitle": "Tony Murena: Indiff\u00e9rence review \u2013 a curiosity from the 1930s",
+  "webPublicationDate": "2016-05-08T07:00:00Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/08/tony-murena-indifference-album-review",
+  "keyword": [
+    {
+      "webTitle": "Jazz",
+      "id": "music/jazz",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Dave Gelly",
+      "id": "profile/dave-gelly"
+    }
+  ],
+  "guardianId": "music/2016/may/08/tony-murena-indifference-album-review"
+}

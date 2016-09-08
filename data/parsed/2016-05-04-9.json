@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/04/nyquist-kentucky-derby-favorite-no13-post",
+  "id": "2016-05-04-9",
+  "sectionId": "sport",
+  "body": "Nyquist will run out of the No13 post in Saturday\u2019s 142nd running of the Kentucky Derby and is favored to become the eighth undefeated horse to win America\u2019s most famous thoroughbred race. The bay colt, owned by J Paul Reddam and trained by Doug O\u2019Neill, was installed as the 3-1 morning-line favorite at Wednesday\u2019s draw. Exaggerator, who drew the No11 post, is the the second choice at 8-1. Creator, Gun Runner and Mohaymen are joint third favorites at 10-1, breaking from the No3, No5 and No14 posts, respectively. Unbeaten in seven career starts, Nyquist emerged from prep season as the dominant three-year-old, a status confirmed with his win in the Grade I Florida Derby over the also-unbeaten Mohaymen at Gulfstream Park earlier in April.  The son of King Mo will try to become the eighth horse to enter the Derby undefeated and win it, joining Big Brown (2008), Barbaro (2006), Smarty Jones (2004), Seattle Slew (1977), Majestic Prince (1969), Morvich (1922) and Regret (1915). Four horses have won from the No13 post since the introduction of a starting gate at Churchill Downs in 1930, most recently Smarty Jones. The post time for the 142nd running of the Kentucky Derby is 6.34pm ET.",
+  "webTitle": "Early Kentucky Derby favorite Nyquist draws No13 post",
+  "webPublicationDate": "2016-05-04T22:54:20Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/04/nyquist-kentucky-derby-favorite-no13-post",
+  "keyword": [
+    {
+      "webTitle": "Kentucky Derby",
+      "id": "sport/kentucky-derby",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "US sports",
+      "id": "sport/us-sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Kentucky",
+      "id": "us-news/kentucky",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Bryan Armen Graham",
+      "id": "profile/bryan-armen-graham"
+    }
+  ],
+  "guardianId": "sport/2016/may/04/nyquist-kentucky-derby-favorite-no13-post"
+}

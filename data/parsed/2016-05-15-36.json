@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/15/eu-citizens-uk-brexit-uncertainty-immigration-status-referendum",
+  "id": "2016-05-15-36",
+  "sectionId": "politics",
+  "body": "Three million EU citizens living in the UK face uncertainty about whether they will be able to stay in the country in the event of Britain leaving the EU, a Home Office minister has said. Lord Keen of Elie, the government\u2019s home affairs spokesman in the House of Lords, said in a response to a question from a fellow peer that the process for leaving the EU was unprecedented and there is \u201ca great deal of uncertainty about how it would work\u201d. He did not explain how the immigration status of EU citizens would change in the event of a vote to leave. Elie, who is also the advocate general for Scotland, had been asked whether EU citizens would automatically be entitled to remain in the UK and whether there were any contingency plans to defend legal challenges if they were not. \u201cUK citizens get the right to live and work in the other 27 member states from our membership of the EU. If the UK voted to leave the EU, the government would do all it could to secure a positive outcome for the country, but there would be no requirement under EU law for these rights to be maintained,\u201d Elie said. The reply raises the prospect that some EU citizens could be asked to leave or be removed at some point after the UK withdraws.     Boris Johnson and Labour MP Gisela Stuart campaigning for Vote Leave in Charlestown, Cornwall, on 11 May. Photograph: Stefan Rousseau/PA    Asked by the Guardian last week whether he could guarantee EU citizens would be allowed to stay, Boris Johnson, the former London mayor and leading leave campaigner, said everyone who was already in the UK would have the right to remain. Gisela Stuart, the chair of the Vote Leave campaign, said: \u201cYou have got the Vienna convention, which guarantees the rights of existing citizens and existing arrangements.\u201d The Vienna convention protects the acquired rights of individuals in situations of treaty change. However, in a joint letter to the FT last month several thinktanks and groups called for the campaigns to clarify their thinking on the situation of EU citizens in the UK and UK citizens in the EU. The Institute of Directors, Migration Watch, British Future, Open Europe, Policy Exchange, New Europeans, Migrant Voice and the Joint Council for the Welfare of Immigrants asked for all sides to agree that people who have already migrated either to or from the EU would not be affected by changes to the freedom of migration rules.   Related: The Guardian view on the referendum debate: from hype to hysteria | Editorial    \u201cVoters are in the dark as to what is at stake when they cast their votes on 23 June,\u201d Sunder Katwala, British Future director, said at the time. \u201cThere are principled, practical and legal reasons why all sides in the referendum can agree to a common-sense consensus that any future changes should not apply retrospectively to people already here.\u201d There are still unanswered questions about whether EU citizens in the UK would automatically have the right to stay, whether they would have to apply for leave to remain, how they would be affected if they left the country but wanted to return and how the process would be organised. Some leave campaigners dismissed the government\u2019s position as \u201cpart of Project Fear\u201d. Peter Bone, a Conservative MP and co-founder of leave campaign group Grassroots Out, told the PoliticsHome website: \u201cClearly any EU citizen that is legally here if we come out of the EU would absolutely have the right to remain here. Any other suggestion is just absurd. \u201cIt is a scare story, full stop. It just shows how desperate the government and the remain campaign are.\u201d",
+  "webTitle": "EU citizens in UK face Brexit uncertainty",
+  "webPublicationDate": "2016-05-15T19:33:15Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/15/eu-citizens-uk-brexit-uncertainty-immigration-status-referendum",
+  "keyword": [
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Immigration and asylum",
+      "id": "uk/immigration",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Rowena Mason",
+      "id": "profile/rowena-mason"
+    }
+  ],
+  "guardianId": "politics/2016/may/15/eu-citizens-uk-brexit-uncertainty-immigration-status-referendum"
+}

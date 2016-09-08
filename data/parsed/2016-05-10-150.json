@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/10/leave-eu-condemned-xenophobic-donald-trump-video",
+  "id": "2016-05-10-150",
+  "sectionId": "politics",
+  "body": "One of the leading groups campaigning for Britain to leave the EU has been accused of xenophobia after it published a video narrated by Donald Trump that appeared to compare immigrants to a \u201cvicious snake\u201d. The video was promoted by Leave.EU \u2013 which is funded by Ukip\u2019s biggest donor, Arron Banks, and is supported by Nigel Farage \u2013 alongside a message saying: \u201cDonald Trump\u2019s take on immigration \u2026 Vote to Leave the vicious snake that is the EU on June 23\u201d.   Related: Iain Duncan Smith says Turkey is 'on EU ballot paper'    The video is soundtracked by Trump, the presumptive Republican nominee for president, reading the lyrics of a song called Vicious Snake, about a woman who takes in a snake that fatally bites her. Trump\u2019s voice, and ominous music, is played over footage of migrants rushing over a wall, and crowds in France, Greece and Hungary. The video, which was posted on Facebook on Monday, was immediately condemned by leading remain campaigners. Labour\u2019s Chuka Umunna, the Liberal Democrat leader, Tim Farron, and the Tory MP Nicholas Soames, have co-signed a letter urging the official Vote Leave campaign to press for the video\u2019s withdrawal.         Click to watch the video posted on Facebook by Leave.EU    \u201cI am writing to urge you to publicly condemn the latest Leave.EU video and join me in calling for it to be withdrawn,\u201d the letter says. \u201cIf you do not, people will conclude that Vote Leave is complicit in a campaign that is increasingly inflammatory in tone. \u201cDepicting whole nationalities negatively to a Donald Trump voice-over \u2013 a man whose immigration policy is to \u2018build a wall\u2019 \u2013 is surely beneath us all \u2026 \u201cBorder control and the economic implications of immigration are rightly central to this debate over Britain and Europe, but this early and ugly descent in to xenophobia must be stopped.\u201d The Trump video row is not the first time leave campaigners have been criticised over videos about immigration. Ukip was accused of \u201cbaseless scaremongering\u201d after it used a party political broadcast on the BBC to warn of the dangers of Turkey joining the EU, highlighting its Muslim population and claiming 15 million of its citizens could migrate to the UK. The advert, which aired in February, provoked a backlash from pro-EU campaigners and MPs, as well as allegations of Islamophobia from Twitter users, some of whom said they were planning to report the party to Ofcom. That four-minute broadcast warned of the number of \u201cIslamic imam schools\u201d in Turkey, highlighted the shrinking number of Christians, and showed a succession of images of minarets and women wearing headscarves.",
+  "webTitle": "Leave.EU condemned for 'xenophobic' Donald Trump video",
+  "webPublicationDate": "2016-05-10T13:54:48Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/10/leave-eu-condemned-xenophobic-donald-trump-video",
+  "keyword": [
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Donald Trump",
+      "id": "us-news/donaldtrump",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Migration",
+      "id": "world/migration",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Rowena Mason",
+      "id": "profile/rowena-mason"
+    }
+  ],
+  "guardianId": "politics/2016/may/10/leave-eu-condemned-xenophobic-donald-trump-video"
+}

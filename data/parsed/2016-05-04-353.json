@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/04/middle-nowhere",
+  "id": "2016-05-04-353",
+  "sectionId": "environment",
+  "body": "High up the valley a patch of white looks as if there have been snowflakes blowing across the hills, even in bright sunshine. It turns out to be flowers on the surface of a puddle, a kind of layby to the stream running alongside the track.  The white flowers are a kind of water crowfoot, one of a group of amphibious buttercups with little white star flowers and rounded, lobed, leaves above the water and feathery fronds below. The flowers look so slight, as ephemeral as spring snow, yet they must be tough as old boots to survive up here. The road from Llanarmon Dyffryn Ceiriog in the Ceiriog Valley heads uphill through Swch Cae Rhiw and becomes an ancient track to a high pass. For eyes grown used to the owlish myopia of woods, the vast sweep of open moorland and sky is both exhilarating and disorienting.    Related: The Pontfadog oak was the oldest of the old, revered, loved \u2026 and now mourned    When people talk about the \u201cmiddle of nowhere\u201d, this is what they have in mind, Snout field hill (according to my translator). There are few trees \u2013 gaunt still, and silvered smooth by the weather \u2013 down in the ravine where the brook pours and pools like beer. Up on the rounded heathery hills is a vastness that sweeps away the familiarity of detail to the unaccustomed viewer. And yet, this \u201cnowhere\u201d has such a powerfully spiritual presence. Once more acclimatised, things that are at first overlooked because of the huge scale of the landscape gradually come into focus as intimately significant. Meadow pipits on an old, lichened, fencepost, spores forming on sphagnum moss, a cluster of ruined walls \u2013 all that remain of sheep folds and dwellings abandoned a long time ago.  Earthworks mark the boundaries of a land once much more lived in, worked in, fought over, loved. Little else remains of its history but a kind of instinct, the track up the valley and the sound of running water. In the puddle of water crowfoot flowers something moves. Among the plants wriggle scores of tadpoles, dark, sperm-like becomings of life in a truly liminal world between air and water.",
+  "webTitle": "Floating crowfoot toughs it out with the frogs",
+  "webPublicationDate": "2016-05-04T04:30:18Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/04/middle-nowhere",
+  "keyword": [
+    {
+      "webTitle": "Plants",
+      "id": "environment/plants",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Spring",
+      "id": "environment/spring",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Birds",
+      "id": "environment/birds",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Wildlife",
+      "id": "environment/wildlife",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Animals",
+      "id": "world/animals",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Rural affairs",
+      "id": "uk/ruralaffairs",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Paul Evans",
+      "id": "profile/paulevans"
+    }
+  ],
+  "guardianId": "environment/2016/may/04/middle-nowhere"
+}

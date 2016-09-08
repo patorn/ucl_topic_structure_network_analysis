@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/17/horse-racing-tips-wednesday-18-may",
+  "id": "2016-05-17-141",
+  "sectionId": "sport",
+  "body": "Ayr 1.30 Dalton 2.00 Dalalah 2.35 Duncan Of Scotland 3.10 Funding Deficit 3.45 Nice Vintage (nb) 4.20 Maleficent Queen (nap) 4.55 Anonymous Lady 5.30 Ghostly Arc Kempton 5.55 I\u2019m Harry 6.25 Tarboosh 6.55 Magical Forest 7.25 Higher Power 7.55 Important Point 8.25 Choral Clan  8.55 Only Ten Per Cent  Bath  1.50 Pack It In 2.20 Saint Helena 2.55 Girling 3.30 Blenheim Warrior 4.05 Captain George 4.40 The Nazca Lines 5.15 Zeeoneandonly 5.50 Evening Starlight Southwell 5.40 Mustmeetalady 6.15 Such A Legend 6.45 Happy Diva 7.15 Red Infantry 7.45 Court Baloo 8.15 Vinegar Hill 8.45 Sandymount Warwick 2.10 Midnight Tour 2.45 Presenting Lisa 3.20 Ready Token 3.55 The Tourard Man 4.30 Ink Master 5.05 Samtu 5.35 River Wylde   Related: John Gosden expects Aidan O\u2019Brien to be mob-handed in the Derby",
+  "webTitle": "Horse racing tips: Wednesday 18 May",
+  "webPublicationDate": "2016-05-17T14:13:21Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/17/horse-racing-tips-wednesday-18-may",
+  "keyword": [
+    {
+      "webTitle": "Horse racing tips",
+      "id": "sport/horse-racing-tips",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Horse racing",
+      "id": "sport/horse-racing",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Greg Wood",
+      "id": "profile/gregwood"
+    }
+  ],
+  "guardianId": "sport/2016/may/17/horse-racing-tips-wednesday-18-may"
+}

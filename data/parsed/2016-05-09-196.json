@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/09/german-tv-adevrt-england-euro-2016",
+  "id": "2016-05-09-196",
+  "sectionId": "football",
+  "body": "Lufthansa\u2019s advert for Euro 2016 has poked fun at England\u2019s supporters ahead of this summer\u2019s tournament in France.   Related: Italy midfielder Marco Verratti out of Euro 2016 due to groin surgery    The advert begins with two well-dressed supporters sporting England scarves as they wait in the departure lounge of an airport. \u201cFlight\u2019s cancelled,\u201d says one. \u201cThey\u2019ve rebooked us on \u2026 Lufthansa.\u201d \u201cLufthansa?\u201d replies the other. \u201cWe\u2019re flying with the Germans?!\u201d         Lufthansa advert    The younger man is then shown seated on the plane in front of a traditional Bavarian \u201coompah band\u201d and a young supporter in a Germany shirt who brandishes four fingers \u2013 perhaps in reference to Germany\u2019s 4-1 victory over England at the 2010 World Cup or possibly their four World Cup wins. But he soon realises it has all just been a bad dream as he awakes to be served a meal and a cold beer by the flight attendant, although the young Germany fan is still taunting him from the seat behind.",
+  "webTitle": "German TV advert for Euro 2016 pokes fun at England supporters",
+  "webPublicationDate": "2016-05-09T12:40:12Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/09/german-tv-adevrt-england-euro-2016",
+  "keyword": [
+    {
+      "webTitle": "Euro 2016",
+      "id": "football/euro-2016",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Germany",
+      "id": "football/germany",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "England",
+      "id": "football/england",
+      "sectionId": "football",
+      "sectionName": "Football"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "football/2016/may/09/german-tv-adevrt-england-euro-2016"
+}

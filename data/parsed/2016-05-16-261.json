@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/money/2016/may/16/do-you-shop-online-tell-us-about-your-spending-habits",
+  "id": "2016-05-16-261",
+  "sectionId": "money",
+  "body": "Online shopping is changing how, what and when we buy. It\u2019s also impacting the way we interact and how we behave. We\u2019d like to find out more about how your shopping habits have changed, and what impact they\u2019ve had on your life. More men than women buy online, but the gap is closing according to the ONS. The percentage of men purchasing online has increased from 57% in 2008 to 77% in 2015 whilst the percentage of women purchasing online increased from 49% in 2008 to 75% in 2015. The demise of high street stalwart BHS and a slump in the number of people visiting high streets and shopping centres are evidence that shopping preferences are changing. Online shopping, increasingly done on mobile phones, is also directly responsible for the number of delivery vans \u2013 40,000 \u2013 on Britain\u2019s road. We\u2019d like to understand more about how shopping habits are changing. Do you buy online, or do you still prefer to face-to-face shopping? Have you noticed you\u2019re spending more online than you would if shopping on the high street? Share your experiences with us and we\u2019ll feature a selection in a feature.",
+  "webTitle": "Do you shop online? Tell us about your spending habits",
+  "webPublicationDate": "2016-05-16T10:12:17Z",
+  "webUrl": "https://www.theguardian.com/money/2016/may/16/do-you-shop-online-tell-us-about-your-spending-habits",
+  "keyword": [
+    {
+      "webTitle": "Online shopping",
+      "id": "money/online-shopping",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Retail industry",
+      "id": "business/retail",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian readers",
+      "id": "profile/guardian-readers"
+    }
+  ],
+  "guardianId": "money/2016/may/16/do-you-shop-online-tell-us-about-your-spending-habits"
+}

@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/australia-news/2016/may/16/antidepressant-use-soars-despite-findings-effectiveness-is-lower-than-believed",
+  "id": "2016-05-16-362",
+  "sectionId": "australia-news",
+  "body": "Antidepressants are less effective than previously thought, yet use of the drugs has doubled among Australians over the past 16 years, a review published in the Medical Journal of Australia on Monday found. The authors of the paper are urging doctors to prescribe other treatments for depression in combination with antidepressant medications, especially for children, with growing evidence that the drugs on their own are not always effective. The authors of the paper, from Orygen \u2013 the National Centre of Excellence in Youth Mental Health at the University of Melbourne, reviewed unpublished drug trials from pharmaceutical companies around the world as well as existing, published research.   Related: Immigration detainees four times more likely to suffer severe mental distress    They found taking antidepressants alone was ineffective for up to 40% of patients. In youth, they found for every 10 treated with medication rather than placebo, one extra youth responded than would have with a placebo. One in every 112 youth treated experienced suicidal thoughts and behaviours that they wouldn\u2019t have experienced on the placebo. \u201cThe use of antidepressants has continued to rise despite accumulating evidence that they are not as effective as was previously thought,\u201d the paper says. \u201cEarlier studies had reported much larger effect sizes for the medications, in part driven by the influences of the pharmaceutical industry on selective publishing of positive results and the substitution of outcome measures to report ambiguous findings as positive. Revelations of these publication strategies have done significant damage to the reputation of the medications and to the pharmaceutical companies who make and market them.\u201d Perhaps the most important factor contributing to the decline in effectiveness of antidepressants is the increasing rate of response to placebo, which is particularly high in young people, the authors wrote. For reasons researchers don\u2019t yet know, the proportion of patients responding to placebo has increased steadily over the past two decades, with the placebo effect a complicated phenomenon that is still little understood. The lead author of the paper, Dr Christopher Davey, emphasised that antidepressant medications still had an important role in the treatment of moderate to severe depression. But the drugs should be prescribed as part of an overall treatment plan that also included psychotherapy and lifestyle strategies to be effective, he said.  \u201cWe are not arguing that people should stop taking their medication, or that the medications are being over-prescribed,\u201d Davey said. \u201cBut they are being used too often by themselves without considering other components and we point out that antidepressants are just one treatment among a number. Unfortunately, the debate gets a bit polarised, with people arguing whether for or against medication, but it\u2019s not as simple as that.\u201d   Related: Australia's poorly applied drug policy wastes $320m a year: study    Other treatments for depression on their own also had only modest effects, with psychotherapies such as cognitive behavioural therapy and interpersonal psychotherapy similarly showing declining effectiveness in more recently published trials. Psychiatrist and national mental health commissioner Prof Ian Hickie said that, along with medications and psychotherapy, there were other treatments patients should consider adding to their regime, such as apps that monitored sleep and diet, and self-care strategies such as exercise and meditation. However, he added that changing lifestyle factors alone was usually not enough to successfully treat depression. \u201cThere\u2019s a big difference between controlled clinical trials and sorting out what works for individual people,\u201d Hickie said. \u201cWe have no way of predicting who will respond to treatments for depression in advance. For many of those with mild to moderate episodes, or for children, then the appropriate [way] forward is to try non-medication strategies first. But if you respond to an antidepressant then you\u2019ve responded and the issue then is how to prevent further episodes in future. \u201cThat\u2019s where other things like self-monitoring and self-care and psychotherapy fit in for many people. There is always a danger of getting stuck in the acute treatment debate rather than the best treatment for the long-term course of depression.\u201d Hickie also emphasised the importance of the continued expansion of youth mental health services, such as the national youth mental health foundation, headspace.",
+  "webTitle": "Antidepressant use soars despite findings effectiveness is lower than believed",
+  "webPublicationDate": "2016-05-16T03:27:52Z",
+  "webUrl": "https://www.theguardian.com/australia-news/2016/may/16/antidepressant-use-soars-despite-findings-effectiveness-is-lower-than-believed",
+  "keyword": [
+    {
+      "webTitle": "Health (Australia)",
+      "id": "australia-news/health",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Drugs",
+      "id": "science/drugs",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Melbourne",
+      "id": "australia-news/melbourne",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Mental health",
+      "id": "society/mental-health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Melissa Davey",
+      "id": "profile/melissa-davey"
+    }
+  ],
+  "guardianId": "australia-news/2016/may/16/antidepressant-use-soars-despite-findings-effectiveness-is-lower-than-believed"
+}

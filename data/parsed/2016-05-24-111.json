@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/24/arsenal-premier-league-100m-premier-league",
+  "id": "2016-05-24-111",
+  "sectionId": "football",
+  "body": "Arsenal became the first club in history to receive more than \u00a3100m from the Premier League last season, according to figures released on Tuesday. Despite finishing as runners-up to Leicester City, Ars\u00e8ne Wenger\u2019s side were featured live on television in 27 different matches \u2013 12 more than Claudio Ranieri\u2019s title winners. That meant Arsenal\u2019s total earnings from the Premier League amounted to a staggering \u00a3100,952,257, including \u201cfacility fees\u201d of almost \u00a321.5m, prize money of \u00a323.6m for finishing second and almost \u00a355m for domestic and overseas TV rights and commercial deals.    Arsenal become 1st club to break \u00a3100m barrier from Premier League income. Will be close to \u00a3160m next season. pic.twitter.com/EzJQMLUvsF\u2014 Martyn Ziegler (@martynziegler) May 24, 2016    Under the rules of the Premier League for the 2015-16 season, each club is guaranteed a slice of the \u00a3400m pot for domestic TV deals and a further \u00a3600m for overseas rights. Despite winning the league by 10 points from Arsenal, Leicester\u2019s overall income from the Premier League was just over \u00a393.2m \u2013 behind Tottenham, Manchester City and Manchester United in the overall total. That was mainly down to the fact only 15 of Leicester\u2019s matches were shown live, with a total of eight teams surpassing that total including the relegated Newcastle United. Despite earning only \u00a31.2m in prize money for finishing bottom, Aston Villa still banked \u00a366.6m for the season and will be guaranteed parachute payments of about \u00a390m over the next three seasons.",
+  "webTitle": "Arsenal become first club to top \u00a3100m mark in Premier League payments",
+  "webPublicationDate": "2016-05-24T15:08:59Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/24/arsenal-premier-league-100m-premier-league",
+  "keyword": [
+    {
+      "webTitle": "Premier League",
+      "id": "football/premierleague",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Arsenal",
+      "id": "football/arsenal",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Leicester City",
+      "id": "football/leicestercity",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Manchester City",
+      "id": "football/manchestercity",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Manchester United",
+      "id": "football/manchester-united",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Tottenham Hotspur",
+      "id": "football/tottenham-hotspur",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ed Aarons",
+      "id": "profile/ed-aarons"
+    }
+  ],
+  "guardianId": "football/2016/may/24/arsenal-premier-league-100m-premier-league"
+}

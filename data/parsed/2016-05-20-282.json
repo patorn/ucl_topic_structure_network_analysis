@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/20/ryanair-eu-referendum-ad-police-vote-leave-brexit",
+  "id": "2016-05-20-282",
+  "sectionId": "media",
+  "body": "Police are investigating a complaint from the Vote Leave campaign that a Ryanair ad offering cheap flights to expats who want to vote to remain in the European Union breaches bribery laws. The Ryanair \u201cBrexit special\u201d says overseas voters can \u201cfly home to vote \u2018remain\u2019\u201d from \u20ac19.99 on the day of the referendum, 23 June, or the day before, 22 June.   Brexit explained: airfares   Vote Leave campaign director Dominic Cummings described the offer as \u201ccorrupt\u201d and alleged it broke referendum rules and section 1 of the Bribery Act 2010. Ryanair owner Michael O\u2019Leary, a prominent backer of the remain campaign, said the complaint was \u201cdesperate\u201d and in response extended the airline\u2019s offer by a further 24 hours on Friday. In a two-page complaint to Met police commissioner Sir Bernard Hogan-Howe, Cummings said: \u201cBy its discount on flights on the day before, and the day of the referendum, Ryanair is paying the expense, in part, of provision to voters in order to influence them to vote in the referendum. \u201cThis appears to be corrupt, since the company is offering discounts on the commercial rate to customers with the sole aim of ensuring that they vote and vote to remain in the European Union.\u201d   Related: Sun editor defends 'Queen backs Brexit' headline as watchdog rules it inaccurate    Scotland Yard confirmed it had received the correspondence and said it would consider its contents and respond in due course. O\u2019Leary, who this week appeared alongside chancellor, George Osborne, Vince Cable and Ed Balls, arguing that air fares would increase if the UK voted to leave the EU. said: \u201cVote Leave must be getting really desperate if they are now objecting to low fare air travel for British citizens. \u201cRyanair\u2019s Fly Home to Vote Remain seat sale ... fully complies with Ryanair\u2019s policy of lowering the cost of air travel to/from the UK. Cummings asked Hogan-Howe to \u201cinvestigate this matter with the utmost expedition\u201d and compared the offer to a pub next to a polling station offering cut-price drinks to people who voted a certain way. He said the law should not allow the \u201cdemocratic process to be gravely undermined by the wealth, power and influence of multinational companied which have a direct financial interest in preserving the corrupt regulatory system of the EU\u201d. About 5.5 million British citizens are estimated to live outside the UK, with at least 1.2 million of these living in other EU countries, but only a fraction are on the electoral roll.  Anyone who was registered in a UK constituency during the past 15 years is entitled to vote in British elections, but half of British expats are not aware of this fact.",
+  "webTitle": "Ryanair's EU referendum ad investigated by police",
+  "webPublicationDate": "2016-05-20T08:23:11Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/20/ryanair-eu-referendum-ad-police-vote-leave-brexit",
+  "keyword": [
+    {
+      "webTitle": "Advertising",
+      "id": "media/advertising",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Marketing & PR",
+      "id": "media/marketingandpr",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Ryanair",
+      "id": "business/ryanair",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "John Plunkett",
+      "id": "profile/johnplunkett"
+    }
+  ],
+  "guardianId": "media/2016/may/20/ryanair-eu-referendum-ad-police-vote-leave-brexit"
+}

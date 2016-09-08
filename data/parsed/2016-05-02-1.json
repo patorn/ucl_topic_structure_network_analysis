@@ -1,0 +1,114 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/03/activists-launch-fresh-court-challenge-over-carmichael-coalmine",
+  "id": "2016-05-02-1",
+  "sectionId": "environment",
+  "body": "A landmark case pitting the Great Barrier Reef against Adani\u2019s proposed Carmichael coalmine begins in the federal court on Tuesday. The Australian Conservation Foundation (ACF) is arguing that environment minister Greg Hunt unlawfully approved the mine in central Queensland, which would be the largest in Australia. They will argue the emissions released when the coal from the mine is burned will put the world heritage values of the Great Barrier Reef at risk by exacerbating climate change.   Related: Great Barrier Reef: new chapter opens in the fight to save natural wonder from mining    The case begins in Brisbane amid the worst bleaching event the Great Barrier Reef has ever experienced, with 93% of the reefs seeing damage \u2013 something directly caused by climate change. Scientists warned last week that the bleaching event was made 175 times more likely because of climate change, and the conditions that caused it would be commonplace in less than 20 years, putting the continued existence of the reef in doubt. When the minister approves a project under the Environmental Protection and Biodiversity Conservation (EPBC) Act, he must act consistently with Australia\u2019s obligations under the world heritage convention. That requires Australia do everything it can to protect the \u201coutstanding universal values\u201d of world heritage areas, including the Great Barrier Reef. \u201cIf the Carmichael mine is allowed to proceed its coal will produce 128.4m tonnes of CO2 per year at peak production, contributing to the world\u2019s climate problem,\u201d said ACF\u2019s chief executive Kelly O\u2019Shanassy out the front of the court in Queensland. Environmental approvals of mines usually consider the emissions caused in the production of the coal \u2013 from the fuel burned by trucks and the electricity used by the equipment. But in the past they have not considered the impact of the greenhouse gasses released when the coal itself is burned.  The ACF\u2019s case will test the section of the federal environment law that requires the minister to act consistently with Australia\u2019s obligations under the world heritage convention. If successful, the case will have ramifications beyond the Carmichael mine or even the Great Barrier Reef. It could have implications for any fossil fuel development, and require the minister to consider the effect of the burned fuel on any world heritage area \u2013 like the forests in Tasmania, for example.   Related: Tasmania's bushfires: a human-made calamity on par with the razing of Palmyra's temples    \u201cThis is the first case of its kind to be heard in Australia,\u201d said O\u2019Shanassy. \u201cThe court will be asked to examine a section of Australia\u2019s national environment law that has never before been tested in court. If this case is successful it will strengthen climate change considerations and world heritage protection in Australian law.\u201d The hearing at the federal court in Brisbane is expected to go for two days. Hunt and Adani will be represented.",
+  "webTitle": "Activists launch fresh court challenge over Carmichael coalmine",
+  "webPublicationDate": "2016-05-02T23:48:52Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/03/activists-launch-fresh-court-challenge-over-carmichael-coalmine",
+  "keyword": [
+    {
+      "webTitle": "Carmichael coalmine",
+      "id": "environment/carmichael-coalmine",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Adani Group",
+      "id": "business/adani-group",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Queensland",
+      "id": "australia-news/queensland",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Mining",
+      "id": "environment/mining",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Climate change",
+      "id": "environment/climate-change",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Coal",
+      "id": "environment/coal",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Brisbane",
+      "id": "australia-news/brisbane",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Coral",
+      "id": "environment/coral",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Great Barrier Reef",
+      "id": "environment/great-barrier-reef",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Energy",
+      "id": "environment/energy",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Fossil fuels",
+      "id": "environment/fossil-fuels",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Oceans",
+      "id": "environment/oceans",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Australian law",
+      "id": "australia-news/australian-law",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Michael Slezak",
+      "id": "profile/michael-slezak"
+    }
+  ],
+  "guardianId": "environment/2016/may/03/activists-launch-fresh-court-challenge-over-carmichael-coalmine"
+}

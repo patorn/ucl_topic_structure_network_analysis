@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/science/blog/2016/may/17/why-psychedelics-could-be-a-new-class-of-antidepressant-psilocybin",
+  "id": "2016-05-17-105",
+  "sectionId": "science",
+  "body": "Clinical depression causes misery for hundreds of millions of people worldwide. Around one in five patients fail to respond to any treatment and even among those who do recover, relapse rates are high and get progressively worse with each successive episode.  The most widely used class of antidepressants, the selective serotonin reuptake inhibitors (SSRIs), can lift some people out of severe depression and help them stay well, but they don\u2019t work for everyone, and among the many side-effects are anxiety, weight gain and sexual dysfunction. Since the SSRIs became available in the 1980s no new class of drugs has emerged, so the news that there may already be a more effective type of antidepressant in existence that is safe and well tolerated is tantalising. The catch is that to possess or supply these chemicals runs the risk of an unlimited fine or prison sentence. What scientific evidence would convince governments to reclassify psychedelics so they could be used for therapeutic purposes? For now, there is a lack of results from large, randomised-controlled clinical trials, but small studies are providing a strong theoretical basis for the claim that these drugs qualify as a new class of antidepressant. Whether that\u2019s enough to get them reclassified is another question. In the 1950s and 60s, before the ban came into force, psychiatrists were beginning to explore their usefulness for treating anxiety, depression and addiction. Only recently has this research re-started, with pilot studies hinting that the psychedelics psilocybin (the active ingredient of magic mushrooms) and ayahuasca may have profound antidepressant effects. In the latest, published in The Lancet Psychiatry on Tuesday [pdf], 12 patients with treatment-resistant depression were given two doses of psilocybin one week apart. A week after the treatment, eight patients were completely free of depressive symptoms. Five were still in remission three months later. The drug was well tolerated and there were no unexpected adverse events. In February, a similar study was published in which 17 patients with recurrent depression took a single dose of the hallucinogenic brew ayahuasca. Immediately before, and at weekly intervals up to three weeks later, they filled out standard questionnaires to assess the severity of their depression. During the hallucinogenic experience their brains were scanned using photon emission tomography (PET), which revealed increased blood flow in regions involved in the regulation of mood and emotions. There were significant improvements in their mean depression scores that began 80 minutes after the dose and lasted at least three weeks. Vomiting was the only adverse effect, experienced by around half of the patients shortly after taking the drug. The common biochemical factor underlying the effects on the brain of psychedelics is that they bind to the 5-HT2A serotonin receptor. Molecules that activate this receptor are known to stimulate production of a nerve growth factor called BDNF (brain-derived neurotrophic factor) and enhance the efficiency of signalling between nerve cells. The acute effects of LSD on brain activity were graphically demonstrated in an fMRI study published last month which showed how networks of regions that usually operate independently became more functionally interconnected \u2013 they started talking to each other \u2013 while connectivity within another network associated with mind-wandering and the sense of self, called the default mode network, broke down. A similar study of the brains of people who had taken psilocybin, published in 2012, also revealed disruption in communication between principal nodes of the default mode network. This may be key to the antidepressant potential of psychedelics, because this network is overactive in people who are prone to depression and is thought to be responsible for the excessive self-referential thought and rumination that characterises the condition.            Tripping on LSD could unlock child-like creativity     The long-term effects of sustained psychedelic use on the brain are largely unknown, but research published last year found structural changes among people who were regular users of ayahuasca. The study used MRI to scan the brains of 22 people who had consumed it at least 50 times in the previous two years. It found an inverse correlation between the thickness of the posterior cingulate cortex, which is a key hub of the default mode network, and the intensity and duration of ayahuasca use. In other words, this part of the brain was thinner in heavier users. Conversely, an adjacent brain region involved in attention and emotion regulation called the anterior cingulate cortex, which suppresses activity in the default mode network, was thicker.  This is where the evidence that psychedelics qualify as a new class of antidepressant drugs starts to get really interesting, because breaking the dominance of the default mode network may also be what underpins the success of psychotherapies for treating depression. These include cognitive behavioural therapy (CBT) and mindfulness-based cognitive therapy (MBCT), which aim to help patients \u201cdecenter\u201d their thinking, identifying less with their thoughts and emotions. This psychological change of perspective has close parallels with the more dramatic \u201cego dissolution\u201d that happens during a psychedelic experience. Suppressing activity in the default mode network may be what unites the two. In fact, psychedelics may accomplish in hours what could take months of CBT or mindfulness practice to achieve. A study published in November last year found significant improvements in people\u2019s decentering abilities and other key goals of mindfulness practice in the 24 hours after they ingested ayahuasca. There is no evidence that psychedelic drugs are addictive (in fact, they have shown promise as treatments for addiction [pdf]). David Nutt, professor of psychopharmacology at Imperial College, London, and a former drugs adviser to the UK government, believes it\u2019s high time we brought psychedelics in from the cold. Speaking at the Royal Society in London, at an event to celebrate last month\u2019s LSD brain-imaging results, he said: \u201cPsychedelics, used responsibly and with proper caution, would be for psychiatry what the microscope has been for biology and medicine or the telescope is for astronomy.\u201d That\u2019s a bold claim. But if large, randomised-controlled clinical trials of psilocybin and ayahuasca fulfil their early antidepressant promise, he may well be proved correct. James Kingsland is the author of Siddhartha\u2019s Brain: Unlocking the Ancient Science of Enlightenment, which will be available in paperback from 1 June. He writes the blog Plastic Brain and on Twitter he is @JamesAKingsland. \u2022 This article was amended on 18 May 2016. An earlier version said that David Nutt is professor of psychopharmacology at University College London, rather than Imperial College.",
+  "webTitle": "Why psychedelics could be a new class of antidepressant",
+  "webPublicationDate": "2016-05-17T15:38:21Z",
+  "webUrl": "https://www.theguardian.com/science/blog/2016/may/17/why-psychedelics-could-be-a-new-class-of-antidepressant-psilocybin",
+  "keyword": [
+    {
+      "webTitle": "Drugs",
+      "id": "society/drugs",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Drugs",
+      "id": "science/drugs",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Depression",
+      "id": "society/depression",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Medical research",
+      "id": "science/medical-research",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Psychology",
+      "id": "science/psychology",
+      "sectionId": "science",
+      "sectionName": "Science"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "James Kingsland",
+      "id": "profile/james-kingsland"
+    }
+  ],
+  "guardianId": "science/blog/2016/may/17/why-psychedelics-could-be-a-new-class-of-antidepressant-psilocybin"
+}

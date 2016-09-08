@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/11/fossil-fuel-register-shows-more-than-a-third-of-australia-earmarked-for-coal-or-gas",
+  "id": "2016-05-10-40",
+  "sectionId": "environment",
+  "body": "More than a third of Australia\u2019s landmass is earmarked for coal or gas, according to a new analysis and interactive map commissioned by the community group Lock the Gate. No single register of fossil fuel exploration and extraction licences and applications exists so, commissioned by Lock the Gate, Energy Resources Insights gathered spatial information on land earmarked for fossil fuels from state and federal regulators.   Related: Dozens arrested as anti-fossil fuel protesters join Australian coal blockade    Combined, the fossil fuel claims cover 37% of the landmass, as well as significant portions off the coast. \u201cWe think that when every day Australians see the degree to which the country is covered in coal and gas leases people will be very surprised,\u201d said Phil Laird, national coordinator with Lock the Gate. But for people on the ground \u2013 farmers like Laird \u2013 it was an even bigger deal. \u201cIt means they don\u2019t have certainty over their land.\u201d Currently, landholders don\u2019t have the legal right to deny gas exploration and extraction on their land. \u201cAnyone who has coal seam gas on their land in Queensland knows just how invasive it can be,\u201d Laird said. The data reveals that the Northern Territory leads the way, with 84.9% of its landmass covered in a fossil fuel tenement. South Australia is next with 61.4% of its land covered. Queensland has 29.9% and New South wales has 8.8%. Lock the Gate is releasing the map as part of the launch of its #Water4Life campaign, which it hopes will put the impact of coal and gas on the national agenda during the federal election. Laird said the map shows the vital water sources that are at risk from the fossil fuel industry. They include drinking water for Sydney, groundwater resources for Perth, the Mereenie sandstone aquifer, which provides the water supply for Alice Springs, and the vast Great Artesian Basin that crosses boundaries in Queensland, NSW and South Australia. \u201cWe want to see these precious water resources protected in no-go zones for coal and gas mining,\u201d Laird said. He said the group was calling on all politicians to commit to including all fracking in the \u201cwater trigger\u201d, which would mean shale gas applications would need to be approved federally by the environment minister under the Environmental Protection And Biodiversity Conservation Act, rather than under weaker state legislation.   Related: Activists launch fresh court challenge over Carmichael coalmine    Laird said the group was also calling for protection of important agricultural lands, with \u201cnew laws that implement the national food plan and measures to ensure coal and gas mining is not allowed to put our food security at risk\u201d. \u201cIt\u2019s also time that people and communities were put ahead of multinational mining giants, with the creation of a national environment protection authority to prevent dangerous pollution from coal and gas mining causing negative health impacts,\u201d he said. Laird also called for a federal anti-corruption commission so that any corruption could be stamped out. The interactive map allows users to zoom into any area of Australia and examine either coal or oil and gas tenements. By hovering over the block of land, users can see which company has the claim and what sort of claim it is. Users can also flick switches to view active gas wells and coal mines. Laird said the tool would be expanded so users can take photos of gas leaks or other problems with their phones and immediately add them to the map.",
+  "webTitle": "Fossil fuel register shows more than a third of Australia earmarked for coal or gas",
+  "webPublicationDate": "2016-05-10T20:27:48Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/11/fossil-fuel-register-shows-more-than-a-third-of-australia-earmarked-for-coal-or-gas",
+  "keyword": [
+    {
+      "webTitle": "Fossil fuels",
+      "id": "environment/fossil-fuels",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Energy",
+      "id": "environment/energy",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Coal",
+      "id": "environment/coal",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Gas",
+      "id": "business/gas",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Mining",
+      "id": "business/mining",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Michael Slezak",
+      "id": "profile/michael-slezak"
+    }
+  ],
+  "guardianId": "environment/2016/may/11/fossil-fuel-register-shows-more-than-a-third-of-australia-earmarked-for-coal-or-gas"
+}

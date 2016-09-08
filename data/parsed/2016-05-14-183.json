@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://content.guardianapis.com/money/2016/may/14/national-trust-membership",
+  "id": "2016-05-14-183",
+  "sectionId": "money",
+  "body": "Every week a Guardian Money reader submits a question, and it\u2019s up to you to help him or her out \u2013 a selection of the best answers will appear in next Saturday\u2019s paper. This week\u2019s question: Last year we bought discounted National Trust membership at what was our only visit of the year. Now it wants \u00a3111 to renew. I want to support the charity but my husband says we should just \u201cpay as we go\u201d. Will it be money well spent? Do you have a problem readers could solve? Email your suggestions to money@theguardian.com or write to us at Money, The Guardian, Kings Place, 90 York Way, London N1 9GU.",
+  "webTitle": "How can I convince my husband to renew our National Trust membership?",
+  "webPublicationDate": "2016-05-14T06:00:29Z",
+  "webUrl": "https://www.theguardian.com/money/2016/may/14/national-trust-membership",
+  "keyword": [
+    {
+      "webTitle": "The National Trust",
+      "id": "uk/national-trust",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Consumer affairs",
+      "id": "money/consumer-affairs",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    }
+  ],
+  "authors": [],
+  "guardianId": "money/2016/may/14/national-trust-membership"
+}

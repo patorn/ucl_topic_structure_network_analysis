@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/03/chopin-piano-concerto-no-1-grigory-sokolov-munich-philharmonic-1978",
+  "id": "2016-05-03-144",
+  "sectionId": "music",
+  "body": "Wow! What does a reissue of a 1978 LP (lasting only 43 minutes) of a much recorded concerto have to offer? But the pianist is the maverick Grigory Sokolov, who has recently become the connoisseur\u2019s pianist of choice, and is soon to give a recital at the Salzburg festival. Make allowances for the slightly opaque orchestral sound and what we hear is a miraculous soloist playing Chopin with crystalline purity. It\u2019s a daringly slow performance, especially in the middle movement where Perahia, Ax and Barenboim all come in under 10 minutes but Sokolov stretches it to nearly 12. Every note sings and the phrases are wonderfully shaped: unforgettable.",
+  "webTitle": "Chopin: Piano Concerto No 1 review \u2013 reissue from a miraculous soloist",
+  "webPublicationDate": "2016-05-03T15:00:00Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/03/chopin-piano-concerto-no-1-grigory-sokolov-munich-philharmonic-1978",
+  "keyword": [
+    {
+      "webTitle": "Classical music",
+      "id": "music/classicalmusicandopera",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Nicholas Kenyon",
+      "id": "profile/nicholas-kenyon"
+    }
+  ],
+  "guardianId": "music/2016/may/03/chopin-piano-concerto-no-1-grigory-sokolov-munich-philharmonic-1978"
+}

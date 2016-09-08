@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/18/zika-virus-spread-europe-coming-months-world-health-organisation",
+  "id": "2016-05-18-214",
+  "sectionId": "world",
+  "body": "The Zika virus is expected to spread in Europe within the next few months, the World Health Organisation has said, although it has classified the risk of an outbreak at low to moderate. First seen in Brazil last year, the mosquito-borne virus has been detected in more than 50 countries and has been linked to thousands of cases of microcephaly, a rare birth defect marked by unusually small head size.  WHO Europe, which made the assessment, said the risk should not be underestimated. It is highest on the island of Madeira and the Black Sea coast of Russia and Georgia, where the Aedes aegypti mosquitoes that are responsible for most of the infections are indigenous. But the risk is still considered moderate in 18 countries where a different mosquito, Aedes albopictus, breeds. Although this mosquito is not as efficient at spreading the virus as Aedes aegypti, it has been shown to be a potential transmitter of the virus in Africa, Mexico and in lab experiments. France is the most likely to have a Zika outbreak among those countries with a moderate risk, because of factors including the density of its urban population, WHO Europe said. It is followed by Italy, Malta, Croatia, Israel, Spain, Monaco, San Marino, Turkey, Greece, Switzerland, Bulgaria, Romania, Slovenia, Georgia, Albania, Bosnia and Herzegovina, and Montenegro. The risk in the UK is low.   WHO map   The WHO assessment concerns the likelihood of the virus spreading in late spring to summer if nothing is done to stop it. It is based on the presence of Zika virus-transmitting mosquitoes, a suitable climate for establishment of mosquitoes, a history of transmission of dengue or chikungunya, ship and flight connections, population density and urbanisation.  But it also considered the capacity of countries in Europe to respond \u2013 and most would do so efficiently and fast. Because of that, it classifies the Europe-wide risk as low to moderate.  \u201cThe new evidence published today tells us that there is a risk of spread of Zika virus disease in the European region and that this risk varies from country to country,\u201d Dr Zsuzsanna Jakab, WHO regional director for Europe.  \u201cWith this risk assessment, we at WHO want to inform and target preparedness work in each European country based on its level of risk. We call particularly on countries at higher risk to strengthen their national capacities and prioritise the activities that will prevent a large Zika outbreak.\u201d  WHO based its assessment of how well countries would respond on their answers to a questionnaire. The results suggested that 79% \u2013 41 states out of 51 in the European region plus Lichtenstein \u2013 have good or very good capacity although on specific issues there was substantial variation.  Russia and Georgia already deal with mosquito-borne diseases such as malaria, said WHO officials. Asked whether they were engaging with WHO on the issue of Zika, Dr Nedret Emiroglu, who heads WHO Europe\u2019s division of communicable diseases and health security, said: \u201cWe are in close touch with them.\u201d they and Madeira have been invited to a meeting in Portugal in June to discuss the control of Zika across the region. Countries with a high or moderate risk are being urged to take stronger measures to stop the spread of mosquitoes and reduce their numbers, including encouraging communities to get rid of pooled water that can form a breeding ground. Health professionals should be trained and equipped to detect Zika infection and report it within 24 hours. Pregnant women should be enabled to protect themselves from infection, including through sexual transmission. In February, the WHO declared a global health emergency over the Zika virus.",
+  "webTitle": "Zika virus could spread to Europe in coming months, says WHO",
+  "webPublicationDate": "2016-05-18T11:17:37Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/18/zika-virus-spread-europe-coming-months-world-health-organisation",
+  "keyword": [
+    {
+      "webTitle": "Zika virus",
+      "id": "world/zika-virus",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "World Health Organisation",
+      "id": "world/world-health-organisation",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Health policy",
+      "id": "politics/health",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Sarah Boseley",
+      "id": "profile/sarahboseley"
+    }
+  ],
+  "guardianId": "world/2016/may/18/zika-virus-spread-europe-coming-months-world-health-organisation"
+}

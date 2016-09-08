@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/10/borat-director-luke-owen-wilson-prison-comedy",
+  "id": "2016-05-10-130",
+  "sectionId": "film",
+  "body": "Larry Charles, director of Sacha Baron Cohen comedies Borat, Br\u00fcno and The Dictator, will team up with Owen and Luke Wilson for an untitled prison comedy. According to the Hollywood Reporter, the film, which is set to start shooting this summer, will star Luke Wilson as a lawyer who receives a life sentence after being falsely accused of a bank robbery. A cellmate, played by Martin Lawrence, advises him to wed a seemingly sweet woman on the outside. But when he is released, he struggles with the fact that he is now married to someone he doesn\u2019t know.    Related: Andrea Hubert meets Larry Charles, the director of the documentary Religulous    Owen Wilson will play his lawyer and Olivia Munn will also star as a local TV anchor. The script was written by Luke Wilson with Buck Ritchey. As well as his work with Baron Cohen, Charles has also worked on TV shows such as Entourage and Curb Your Enthusiasm. Luke Wilson was last seen in Adam Sandler\u2019s Netflix comedy western The Ridiculous 6 and has a number of projects coming up, including space thriller Approaching the Unknown and Cameron Crowe\u2019s TV comedy Roadies. Owen Wilson was in this year\u2019s comedy sequel Zoolander 2 and will next star alongside Ed Helms in Bastards.",
+  "webTitle": "Borat director locked into Luke and Owen Wilson prison comedy",
+  "webPublicationDate": "2016-05-10T15:17:28Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/10/borat-director-luke-owen-wilson-prison-comedy",
+  "keyword": [
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Owen Wilson",
+      "id": "film/owenwilson",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Comedy",
+      "id": "film/comedy",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Comedy",
+      "id": "culture/comedy",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Borat",
+      "id": "film/borat",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Bruno",
+      "id": "film/bruno",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "The Dictator",
+      "id": "film/the-dictator",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Benjamin Lee",
+      "id": "profile/benjamin-lee-film"
+    }
+  ],
+  "guardianId": "film/2016/may/10/borat-director-luke-owen-wilson-prison-comedy"
+}

@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/us-news/2016/may/05/sophie-cruz-pope-us-immigration-white-house-cinco-de-mayo",
+  "id": "2016-05-05-43",
+  "sectionId": "us-news",
+  "body": "The spirit of Pope Francis\u2019s politically charged US visit returned to Washington on Thursday, as the White House invited back the little girl who became a symbol of Vatican intervention in the immigration debate.   Related: Francis and Sophie's secret: girl who hugged pope delivers immigration plea    Sophie Cruz captured headlines around the world in September, when the California-born six-year-old ran from behind barriers on the National Mall to deliver a letter to the pontiff, calling on him to help prevent her parents from being deported. \u201cI want to tell you that my heart is sad,\u201d Sophie told him, reciting to the Guardian from memory the letter she had memorized in Spanish and English, just before she met the pope.  \u201cI would like to ask you to speak with the president and the Congress in legalizing my parents because every day I am scared that one day they will take them away from me.\u201d  Back then, she travelled with her father Ra\u00fal and other immigration activists lobbying to save Dapa (Deferred Action for Parents of Americans) \u2013 a program to defer deportation for the undocumented parents of US citizens that has been held up in court. But just as her parents were left behind the crowd barrier in September, when a security guard hoisted her up to hug the pope, Cruz was expected to attend the White House Cinco de Mayo celebrations on Thursday without them. Ra\u00fal and Zoyla Cruz were unable to pass background checks needed to enter the White House, according to the Washington Post, because they do not have social security numbers. Instead, Sophie was expected to be accompanied by film-maker Paola Mendoza, whose documentary about the family, Free Like the Birds, premiered at the Tribeca film festival last month. Sophie was recently hoisted in front of a microphone by her father in front of a crowd of 5,000 immigrants, families, and supporters in front of the supreme court. With Donald Trump\u2019s nomination thrusting immigration back into the political spotlight, many fear families like the Cruzes would be devastated if the Obama administration failed to secure the legal status of Dapa before he leaves office. The White House did not respond to requests for information about who else was attending its Cinco de Mayo reception, which marks the anniversary of the Mexican army\u2019s victory over the French at the Battle of Puebla and is seen as a reminder of Mexican-American ties.",
+  "webTitle": "Girl who wrote to the pope about immigration to revisit White House",
+  "webPublicationDate": "2016-05-05T19:52:36Z",
+  "webUrl": "https://www.theguardian.com/us-news/2016/may/05/sophie-cruz-pope-us-immigration-white-house-cinco-de-mayo",
+  "keyword": [
+    {
+      "webTitle": "US immigration",
+      "id": "us-news/usimmigration",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Pope Francis",
+      "id": "world/pope-francis",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Vatican",
+      "id": "world/vatican",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Catholicism",
+      "id": "world/catholicism",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Religion",
+      "id": "world/religion",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "The papacy",
+      "id": "world/the-papacy",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "US politics",
+      "id": "us-news/us-politics",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Dan Roberts",
+      "id": "profile/dan-roberts"
+    }
+  ],
+  "guardianId": "us-news/2016/may/05/sophie-cruz-pope-us-immigration-white-house-cinco-de-mayo"
+}

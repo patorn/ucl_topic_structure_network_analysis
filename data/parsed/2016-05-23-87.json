@@ -1,0 +1,76 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/23/ryanair-to-cut-fares-by-as-much-as-12-percent-price-war",
+  "id": "2016-05-23-87",
+  "sectionId": "business",
+  "body": "Holidaymakers could find themselves bagging a cheaper seat on the plane this summer after Ryanair announced it would cut air fares by an average 7%, raising the prospect of a further price war between airlines. The Irish no-frills carrier said it would drop fares to keep its planes full, with demand hit by economic uncertainty and terror attacks, as lower fuel costs cut the cost of flying. Ryanair, Europe\u2019s biggest airline by passenger numbers, expects prices to drop by around 5-7% this summer, and as much as 12% in winter. Chief executive Michael O\u2019Leary said that fares would be lower primarily because of extra supply of seats, in Ryanair\u2019s fleet and others, while lower oil prices were filtering through to cut costs. The airline has taken delivery of 41 new 737s from Boeing in the last year with a further 52 coming this year, as it looks to grow passenger numbers to more than 100m. \u201cIt\u2019s good, because customers are going to get lower air fares and it also puts downwards pressure on our competitors.\u201d According to the International Air Transport Association, fares to and from European destinations had already fallen 11.4% in the first three months of 2016 compared with the same period last year. Britain\u2019s largest carrier, easyJet, said earlier this month it had cut fares to lure wary passengers. The Ryanair boss\u2019s outlook suggests competition will be fierce and fares will remain low, as analysts predict other carriers likely to follow suit. Robin Byde at Cantor Fitzgerald said: \u201cRyanair is a major player in many of the markets and airports it flies to. If it cuts prices, other airlines will have to respond to that.\u201d O\u2019Leary vowed: \u201cIf there is a fare war in Europe, then Ryanair will be the winner.\u201d A euro billionaire, O\u2019Leary imposed a pay freeze on middle and senior management and vowed costs would continue to fall, as the airline reported net profits up 43% to \u20ac1.24bn (\u00a3960m) for 2015-16. Hedging to buy oil at lower oil prices means that the airline\u2019s fuel bill will be \u20ac200m lower next year, while new aircraft with more seats and better fuel consumption will also cut costs significantly, O\u2019Leary added. The terrorist attacks in Brussels and Paris, as well as air traffic control strikes in France, also pushed fares down with fewer people looking to travel in the aftermath. O\u2019Leary said the EgyptAir disaster, in which a passenger jet with 66 people aboard crashed into the sea between Paris and Cairo last week, had also affected bookings: \u201cIt has already had an affect on business, bookings were weak on Thursday, Friday, Saturday. We respond by lowering fares and bookings return to normal, but at lower prices.\u201d O\u2019Leary said the impact would be felt in fares for three to five months, but he did not expect any new security procedures even if terrorism was behind the latest air disaster. He said Ryanair, which only flies to Morocco in North Africa, had conducted its own audits of airport security, alongside European and Irish audits, and revealed that the airline had been concerned about the safety of airports in Egypt where it had been considering opening routes. \u201cWe had certain concerns about some of the airports in North Africa that we don\u2019t fly to but have been in discussions about. There were concerns expressed at the Egyptian airports, but the Egyptians have significantly improved the state of security at their airports. Meanwhile, O\u2019Leary repeated his support for Britain staying in the EU and defended Ryanair\u2019s offer of cheap fares for expats to fly home to vote for UK\u2019s continued membership. Police are investigating Ryanair\u2019s \u201cBrexit special\u201d ad after the Vote Leave campaign claimed it broke the Bribery Act by offering discounts in exchange for votes. \u201cThe leave side have so run out of ideas that the best they can come up with is reporting me to the Metropolitan police,\u201d he said. \u201cNow they believe that Ryanair offering lower fares to UK customers is somehow endangering democracy in the UK,\u201d O\u2019Leary said.  He said the airline would be extending its referendum seat sale, adding: \u201cWe want to thank them sincerely for the two days of additional PR we got out of it.\u201d",
+  "webTitle": "Ryanair fares cut could prompt price war",
+  "webPublicationDate": "2016-05-23T17:10:46Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/23/ryanair-to-cut-fares-by-as-much-as-12-percent-price-war",
+  "keyword": [
+    {
+      "webTitle": "Ryanair",
+      "id": "business/ryanair",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Airline industry",
+      "id": "business/theairlineindustry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Ireland",
+      "id": "world/ireland",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Flights",
+      "id": "travel/flights",
+      "sectionId": "travel",
+      "sectionName": "Travel"
+    },
+    {
+      "webTitle": "Travel",
+      "id": "travel/travel",
+      "sectionId": "travel",
+      "sectionName": "Travel"
+    },
+    {
+      "webTitle": "easyJet",
+      "id": "business/easyjet",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Michael O'Leary",
+      "id": "business/michael-oleary",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Gwyn Topham",
+      "id": "profile/gwyntopham"
+    },
+    {
+      "webTitle": "Sean Farrell",
+      "id": "profile/sean-farrell"
+    }
+  ],
+  "guardianId": "business/2016/may/23/ryanair-to-cut-fares-by-as-much-as-12-percent-price-war"
+}

@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/03/pirate-bay-founder-adblock-plus-flattr-plus-peter-sunde",
+  "id": "2016-05-03-226",
+  "sectionId": "media",
+  "body": "The Pirate Bay founder Peter Sunde is teaming up with the creators of the world\u2019s most popular adblocker to give web users a way to make small donations for articles, music and videos they enjoy. The tie-up between Sunde\u2019s startup Flattr and AdBlock Plus maker Eyeo, Flattr Plus is designed to solve a problem the companies claim has been present since the web\u2019s invention 27 years ago. Rather than requiring users to allocate donations manually, Flattr Plus will automatically assign payments from a pool set by a user based on how much the use a particular site.    Related: Fears of adblocking \u2018epidemic\u2019 as report forecasts almost 15m UK users next year    The companies said the aim was to reach 10 million users each paying about $5 (\u00a33.41) a month by 2017, at which point they say they would be able to pay out around $500m to publishers. Flattr and Adblock will take a cut of around 10%.  Adblock Plus head of operations and communications Ben Williams said the 10 million user figure was \u201cambitious\u201d but \u201cnot so far fetched\u201d given Adblock Plus already had 500 million users who could be encouraged to sign up.  He added that the idea was an attempt to find a \u201cholistic solution\u201d that complemented Adblock\u2019s existing service.  Williams said: \u201cPeople forget a lot of times that the web was established as an information sharing platform. A public good. Advertising came second. Some of the early founders of the web tossed around the idea of having some direct way for users to fund content.\u201d \u201cWhat happened in place was advertising people, even adblockers, we all had the false impression that advertising is what pays for content online.\u201d  Eventually, Williams said, the plan was to integrate Flattr Plus into the Adblock software.  Though the new service promise an easy way for publishers to get paid directly by their readers, many will treat the initiative with caution in part because of the people behind it. Sunde\u2019s background with Pirate Bay made him a bugbear for anyone trying to make money from content such as films and music, and AdBlock has taken on a similar role for digital publishers by helping readers block the ads that many rely on to fund their work. Flattr was founded in 2010, and claims to have paid 30,000 \u201ccreators\u201d. Shortly after launch it stepped in to provide a way for people to donate to Wikileaks after Visa, Mastercard and PayPal froze access to its funds.          Flattr promotional video    Along with his co-founders, Sunde was imprisoned in Sweden for setting up and running Pirate Bay, which was one of the most popular ways for people to find films, TV shows music and computer games to download illegally. Sunde has since distanced himself from the site. Writing when ThePirateBay.org went offline following a police raid in late 2014, he welcomed its disappearance, saying he had \u201cnot been a fan of what The Pirate Bay has become\u201d. However, although the original site has remained offline, numerous copies have sprung up faster than authorities can get them eliminated.",
+  "webTitle": "Pirate Bay founder and Adblock maker offer web users a way to pay publishers",
+  "webPublicationDate": "2016-05-03T11:15:48Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/03/pirate-bay-founder-adblock-plus-flattr-plus-peter-sunde",
+  "keyword": [
+    {
+      "webTitle": "Adblocking",
+      "id": "media/ad-blocking",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Advertising",
+      "id": "media/advertising",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Digital media",
+      "id": "media/digital-media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Pirate Bay",
+      "id": "technology/pirate-bay",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Internet",
+      "id": "technology/internet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Filesharing",
+      "id": "technology/file-sharing",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jasper Jackson",
+      "id": "profile/jasper-jackson"
+    }
+  ],
+  "guardianId": "media/2016/may/03/pirate-bay-founder-adblock-plus-flattr-plus-peter-sunde"
+}

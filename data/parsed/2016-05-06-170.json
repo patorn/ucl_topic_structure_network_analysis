@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/06/ilkay-gundogan-borussia-dortmund-ruled-out-manchester-city",
+  "id": "2016-05-06-170",
+  "sectionId": "football",
+  "body": "The Borussia Dortmund midfielder Ilkay G\u00fcndogan will miss Euro 2016 after suffering a dislocated kneecap in training, the club has confirmed.   Related: Leicester\u2019s title win: when our writers realised they had got it wrong     The 25-year-old, who has been earmarked by the incoming Manchester City manager Pep Guardiola as a potential target for this summer\u2019s transfer window, will also miss the DFB-Pokal final against Bayern Munich at the end of the month.    Saison- und EM-Aus! @Guendogan8 hat sich im Mannschaftstraining die Kniescheibe ausgerenkt. \ud83d\ude14\ud83d\ude14\ud83d\ude14 pic.twitter.com/mFwA1dX26g\u2014 Borussia Dortmund (@BVB) May 6, 2016    \u201cSeason end and Euro out. G\u00fcndogan dislocated his knee cap in training,\u201d Dortmund said on Twitter. \u201cGet well soon.\u201d Dortmund are five points behind leaders Bayern Munich with two matches left to play in the Bundesliga and have an outside chance at the title.",
+  "webTitle": "Manchester City target Ilkay G\u00fcndogan ruled out of Euro 2016",
+  "webPublicationDate": "2016-05-06T12:55:41Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/06/ilkay-gundogan-borussia-dortmund-ruled-out-manchester-city",
+  "keyword": [
+    {
+      "webTitle": "Borussia Dortmund",
+      "id": "football/borussiadortmund",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Manchester City",
+      "id": "football/manchestercity",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Germany",
+      "id": "football/germany",
+      "sectionId": "football",
+      "sectionName": "Football"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "football/2016/may/06/ilkay-gundogan-borussia-dortmund-ruled-out-manchester-city"
+}

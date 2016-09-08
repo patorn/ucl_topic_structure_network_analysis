@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/10/channel-4-chair-charles-gurassa-privatisation",
+  "id": "2016-05-10-207",
+  "sectionId": "media",
+  "body": "Charles Gurassa, the new chairman of Channel 4, said that continued uncertainty about its future was \u201cnot helpful\u201d, in comments that could be regarded as critical of the government\u2019s handling of the state-owned broadcaster\u2019s possible privatisation. Addressing his first press conference to launch the channel\u2019s annual report, Gurassa urged the government to make up its mind after further leaks on Tuesday suggested that partial privatisation was still on the cards as well as a move outside London. \u201cFrom a Channel 4 perspective what is not helpful is prolonged uncertainty,\u201d he said, adding that news that the government was considering privatisation of the commercially funded broadcaster first emerged as long ago as last autumn. Prolonged uncertainty is not good for any organisation, it\u2019s not good for staff, business partners or advertisers who are all asking the same questions you\u2019re asking, what is going to happen. My encouragement to government is you have the information, we will happily engage on any options that you will consider, but it will be good to get to a position where we can move on and be clear.\u201d   Related: Government drops full Channel 4 privatisation \u2013\u00a0but may sell off stake    He refused to discuss the merits of a partial privatisation as the government had not even spoken of these plans. \u201cThe government is said to be looking at various options ... we don\u2019t really know what it means.\u201d Appointed earlier this year, Gurassa\u2019s previous involvement in privatisations had led to speculation that he might have been brought in specifically to sell off the channel. However, in answer to questions, he offered support for the broadcaster\u2019s existing structure, which he described as a \u201cvery good model\u201d. He described Channel 4 as \u201ca brilliant organisation for attracting private capital\u201d. Speaking about mooted plans to sell off the broadcaster\u2019s landmark headquarters in central London, he pointed out that with \u00a3250m in reserves the group\u2019s finances were in good shape.  The Channel 4 chief executive, David Abraham, declined to comment on reports that the broadcaster could be made to move north, saying that it had already expanded its operations in Manchester and Glasgow. Channel 4 is to present new investment plans before the end of this year.",
+  "webTitle": "Channel 4 chairman: prolonged uncertainty is not helpful",
+  "webPublicationDate": "2016-05-10T11:03:04Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/10/channel-4-chair-charles-gurassa-privatisation",
+  "keyword": [
+    {
+      "webTitle": "Channel 4",
+      "id": "media/channel4",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Channel 4's future",
+      "id": "media/channel-4-future-privatisation",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Television industry",
+      "id": "media/television",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jane Martinson",
+      "id": "profile/janemartinson"
+    }
+  ],
+  "guardianId": "media/2016/may/10/channel-4-chair-charles-gurassa-privatisation"
+}

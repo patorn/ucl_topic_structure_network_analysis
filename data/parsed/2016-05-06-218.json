@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/06/igor-levit-review-wigmore-hall-london",
+  "id": "2016-05-06-218",
+  "sectionId": "music",
+  "body": "Igor Levit\u2019s latest London recital seemed more like an earnest lecture on the subject of Bach and Busoni than a programme to be enjoyed. Though he\u2019s still in his 20s, Levit has already shown his partiality for the great monoliths of the piano repertory \u2013 his most recent CD brought together three massive sets of variations, including Bach\u2019s Goldberg, Beethoven\u2019s Diabelli and Frederic Rzewski\u2019s The People United.   Related: Bach: Goldberg Variations; Beethoven: Diabelli Variations; Rzewski The People United CD review     So it was only a matter of time before Levit got round to one of the 20th century\u2019s piano monuments, the Fantasia Contrappuntistica, Busoni\u2019s grand homage to Bach, which began as an attempt to complete the final, unfinished number in The Art of Fugue, but steadily grew out of all proportion.  Yet the thrill that came in recital and on disc from hearing Levit negotiate such huge musical edifices with utter assurance and clear-sighted intelligence was missing here. He certainly played the rambling piece with cool aplomb, commandingly delivering the thunderous climaxes that Busoni seems to conjure out of thin air, and negotiating the piece\u2019s fierce technical challenges without a blemish. But never for one moment did the performance convey the sense of why he rates the piece so highly as to give over half a recital to it, or communicate why an audience today should devote time to it either.  Perhaps it might have come across as more convincing in a less didactic context than Levit gave it. Here it was prefaced by three pieces from The Art of Fugue, while the recital began with a historical curiosity, the D minor Passacaglia by Johann Caspar Kerll, published in 1686, which in some of its expressive ways prefigures what Bach did in his greatest keyboard works half a century later. After that came some Bach, with the three-part Ricercare from The Musical Offering. It was inevitably followed by a first taste of Busoni, in the shape of the Fantasia after J S Bach, a patchwork of Bach worked into a tribute to Busoni\u2019s father that was completed a year before work began on the Fantasia Contrappuntistica. It was, altogether, a bit indigestible.",
+  "webTitle": "Igor Levit review \u2013 earnest, commanding, but lacking in thrill",
+  "webPublicationDate": "2016-05-06T11:26:37Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/06/igor-levit-review-wigmore-hall-london",
+  "keyword": [
+    {
+      "webTitle": "Classical music",
+      "id": "music/classicalmusicandopera",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "JS Bach",
+      "id": "music/jsbach",
+      "sectionId": "music",
+      "sectionName": "Music"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Andrew Clements",
+      "id": "profile/andrewclements"
+    }
+  ],
+  "guardianId": "music/2016/may/06/igor-levit-review-wigmore-hall-london"
+}

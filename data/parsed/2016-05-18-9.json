@@ -1,0 +1,84 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/19/rents-property-values-drop-after-brexit-landlords-house-prices-eu-referendum",
+  "id": "2016-05-18-9",
+  "sectionId": "politics",
+  "body": "Rent bills are likely to fall if Britain exits the EU and property will become more affordable to first-time buyers, according to the bodies that represent the UK\u2019s estate agents and landlords. The National Association of Estate Agents (NAEA) and the Association of Residential Letting Agents (Arla) said that Brexit would cut levels of immigration and depress future price rises, leaving the average UK house worth \u00a32,300 less in 2018, and \u00a37,500 less in London.    Guardian explained: referendum and the economy   In forecasts likely to be seized upon by leave campaigners, the group estimates that the population of the UK will be 1 million less than projected by 2026 if Brexit takes place, cutting the demand for buy-to-let properties.  \u201cLower immigration would mean less people looking for accommodation which would lessen the demand and, potentially, the upward pressures on housing prices, especially in those regions popular with EU migrants,\u201d said the report.  \u201cLower immigration would also impact rental prices. UK residents born in other EU countries are far more likely to be private renters. Therefore if fewer EU nationals move to the UK in the long term there may be a noticeable impact on demand levels.\u201d It said an out vote \u201ccould provide first-time buyers with breathing space as demand for housing eases off\u201d. But it warned that Brexit would also hit the construction industry hard, jeopardising plans to build more houses.    Related: Sun editor defends 'Queen backs Brexit' headline as watchdog rules it inaccurate    Mark Hayward, the managing director of the NAEA, said: \u201cAn out vote could mean that in 10 years\u2019 time we\u2019d find ourselves with a severe skills shortage of construction workers. So even if we then had planning permission, investment and materials to build more housing, we simply wouldn\u2019t have the resource to put the bricks and mortar together. It has the potential to have a very damaging effect on the future housing market.\u201d One in 20 workers in Britain\u2019s construction industry were born in non-UK EU countries, said the NAEA, and they are vital in filling the skills gap.  The NAEA and Arla, which together have about 15,000 members, have refused to endorse either the remain or leave camps, saying that their members are split on the issue.      A vote to leave the EU could result in the average price of a property in London being \u00a37,500 less by 2018, report says. Photograph: Yui Mok/PA    The forecast that Brexit will result in lower house prices follows similar warnings by the International Monetary Fund. Last week, Christine Lagarde, the IMF\u2019s managing director, warned that quitting the EU would result in \u201csharp falls\u201d in house prices and on stock markets.  The London property market would be particularly affected by Brexit, according to the NAEA/Arla report. It said that in 2013, 17% of overseas buyers in London\u2019s prime property market were EU nationals.  \u201cThe impact of the market uncertainty is especially pronounced in the London market as property in the capital has often been considered a safe haven investment ... and London may lose that status if it enters an extensive period of figuring out its economic and political standing post-EU membership,\u201d the report said.    Related: Vote Leave claims Brexit would give Scotland more domestic powers    But David Cox, the head of Arla, said tenants should not get too excited about rent falls, as buy-to-let landlords may quit the market en masse following a vote in favour of Brexit.  \u201cThe fact that rent costs would face downward pressure is both a blessing and a curse. While renters should face fair and reasonable prices, landlords need to be able to at least break even on any outgoings they have, such as a mortgage. If demand eases to such an extent that landlords cannot recuperate costs, we\u2019ll likely see a mass exit from the market, which would then just have the opposite effect on demand as supply falls \u2013 and we\u2019d be back to square one.\u201d  Commercial property in London has already been hit by uncertainty over a Brexit vote. Over the past week M&G, Standard Life and Henderson have all changed the pricing basis of their commercial property funds, which has the effect of cutting values by 5-6%, following large outflows.  Guy Stephens, of wealth managers Rowan Dartington Signature, said: \u201cInvestors are withdrawing from the sector, not in anticipation of imminent recession, but more as trepidation sets in ahead of [a potential] Brexit.  \u201cWho would want to commit to a longer-term construction project when the economic outlook could change dramatically if we choose to leave the EU? In addition, there may be voids in prime office locations in London from businesses engaged in financial services or, at the very least, investors will become cautious of tenant demand should we choose to exit.\u201d",
+  "webTitle": "Rents and property values would drop after Brexit, say landlords",
+  "webPublicationDate": "2016-05-18T23:01:09Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/19/rents-property-values-drop-after-brexit-landlords-house-prices-eu-referendum",
+  "keyword": [
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Property",
+      "id": "money/property",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Renting property",
+      "id": "money/renting",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "House prices",
+      "id": "money/houseprices",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Patrick Collinson",
+      "id": "profile/patrickcollinson"
+    }
+  ],
+  "guardianId": "politics/2016/may/19/rents-property-values-drop-after-brexit-landlords-house-prices-eu-referendum"
+}

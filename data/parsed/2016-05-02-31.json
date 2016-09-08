@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/tv-and-radio/2016/may/02/eurovision-us-television-first-time",
+  "id": "2016-05-02-31",
+  "sectionId": "tv-and-radio",
+  "body": "The Eurovision song contest will be broadcast in the US for the first time later this month, its organizers announced on Monday.  The European Broadcasting Union said that it had reached a deal with Logo, a cable network best known for LGBT-themed programming that is part of Viacom group. Only the final round of the contest, which will air on 14 May, will be broadcast in the US.   Related: Romania kicked out of Eurovision after failing to pay debt    \u201cWe are thrilled that the world\u2019s biggest entertainment show is being broadcast live in one of the biggest TV markets for the very first time,\u201d Jon Ola Sand, executive supervisor of the contest, said in a statement. \u201cThe Eurovision Song Contest is now a truly global phenomenon and we are extremely happy that US viewers now get to join those all over Europe, Australia and Asia in experiencing the Grand Final of world\u2019s longest running annual TV music competition on 14 May.\u201d           Ukraine\u2019s Eurovision entry is song about Russian repression    The broadcast will also be streamed via the LogoTV app and website. According to the statement, nearly 50m US homes have access to Logo.    Related: Conchita Wurst: \u2018I used to go to kindergarten in a skirt\u2019    Last year, Sweden\u2019s Man Zelmerlow won the grand final. As tradition demands, Zelmerlow will host this year\u2019s semifinals and final competition, which will be held in Stockholm, Sweden. The contest is currently in its 61st year. This year\u2019s theme is \u201cCome Together\u201d.  In 2015, 197 million people tuned in to watch the final round. About 44.8% of them were 15 to 24 years old. Last year\u2019s contest was hosted by Eurovision\u2019s 2014 winner, Conchita Wurst, Austrian artist and drag queen.  Since her victory in 2014, Wurst has become an icon and a spokesperson for an LGBT community. \u201cIt\u2019s just unbelievable that nearly every gay human being knows who I am now \u2013 that\u2019s overwhelming,\u201d she told the Guardian after her win.  According to EBU, the most successful Eurovision song contest winner was the Swedish pop band Abba, which won in 1974.",
+  "webTitle": "Eurovision song contest comes to US television for the first time",
+  "webPublicationDate": "2016-05-02T20:48:29Z",
+  "webUrl": "https://www.theguardian.com/tv-and-radio/2016/may/02/eurovision-us-television-first-time",
+  "keyword": [
+    {
+      "webTitle": "Eurovision",
+      "id": "tv-and-radio/eurovision",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "US television",
+      "id": "tv-and-radio/us-television",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Television & radio",
+      "id": "tv-and-radio/tv-and-radio",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jana Kasperkevic",
+      "id": "profile/jana-kasperkevic"
+    }
+  ],
+  "guardianId": "tv-and-radio/2016/may/02/eurovision-us-television-first-time"
+}

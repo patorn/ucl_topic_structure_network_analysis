@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/10/roma-turn-down-chelsea-bid-radja-nainggolan",
+  "id": "2016-05-10-200",
+  "sectionId": "football",
+  "body": "Roma have rejected Chelsea\u2019s bid of \u00a323m plus performance-related bonuses for the midfielder Radja Nainggolan. Antonio Conte has made the 28-year-old Belgium international his top priority this summer but Roma are reluctant to lose one of their best players.   Related: Leicester City target Sporting\u2019s \u00a325m Islam Slimani to bolster forward line    The Roma president, James Pallotta, wants at least \u00a332m for Nainggolan but said this week that most of all he would like to keep both the Belgian and Roma\u2019s other in-demand midfielder, Miralem Pjanic. \u201cI have already said that we will not sell Pjanic and Nainggolan,\u201d Pallotta told Gazzetta dello Sport after the 3-0 win against Chievo at the weekend. \u201cI would like to see them continue playing for Roma.\u201d Conte is also keen to explore the possibility of bringing the Roma centre-back Kostas Manolas to Stamford Bridge. The Greek international, whose contract has three years to run, was close to joining Chelsea in 2015 but Roma pulled out of the deal as they could not find a replacement for him.",
+  "webTitle": "Roma turn down Chelsea\u2019s \u00a323m bid for Radja Nainggolan",
+  "webPublicationDate": "2016-05-10T11:30:04Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/10/roma-turn-down-chelsea-bid-radja-nainggolan",
+  "keyword": [
+    {
+      "webTitle": "Chelsea",
+      "id": "football/chelsea",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Transfer window",
+      "id": "football/transfer-window",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Fabrizio Romano",
+      "id": "profile/fabrizio-romano"
+    }
+  ],
+  "guardianId": "football/2016/may/10/roma-turn-down-chelsea-bid-radja-nainggolan"
+}

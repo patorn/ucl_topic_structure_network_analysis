@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/06/uk-car-registrations-highest-level-13-years",
+  "id": "2016-05-06-253",
+  "sectionId": "business",
+  "body": "The number of new cars registered in April hit its highest level for 13 years, but the motor industry has warned that uncertainty over Brexit is acting as a drag on sales. Some 189,505 cars were registered during the month, up 2% on the same month last year and the highest number recorded for April since 2003, said the Society of Motor Manufacturers and Traders (SMMT).   Related: UK records highest monthly car sales in almost 20 years    The rise means the UK car market is up 4.4% in the year to date compared to last year, largely thanks to a bumper March when more than 518,000 cars were registered, the second best performance on record. The ongoing increase, a trend the SMMT said was partly down to a plethora of car loan deals, puts the UK on course to beat the 2015 annual record of 2.63m car registrations. But the SMMT chief executive, Mike Hawes, said while the steady rise was a sign of consumer confidence, uncertainty over Britain\u2019s future in the European Union was constraining demand. \u201cConsumer confidence remains high as buyers continue to capitalise on attractive finance deals, although this could be affected by political and economic uncertainty in the coming months,\u201d said Hawes. His view was backed up by separate car sales figures that showed sales grew more substantially in the rest of western Europe, with an 8% rise to 1.2m in April according to data from the industry analysts LMC Automotive. Sales in Spain and Italy rose 21.2% and 11.5% respectively, while Germany recorded an 8.4% rise. The UK\u2019s more modest rise was partly thanks to the increasing popularity of cars that run on alternative fuels, a category that grew by more than a quarter as buyers sought to reduce emissions and running costs. Petrol car registrations rose by 3.4%, while diesel vehicles saw a slight 0.6% decline in registrations. The strongest growth came in the fleet sector, which includes vehicles bought by firms such as taxi companies and delivery services, where new registrations rose by 6.1%. The rise, coupled with a 2.8% increase in the number of cars registered by other types of business, wiped out a 2.5% fall in cars registered by private individuals. The Ford Fiesta was the most popular car among Britons in April with 7,913 registrations, followed by the Volkswagen Golf on 5,645 and the Ford Focus with 5,562.",
+  "webTitle": "UK car registrations hit highest April level for 13 years",
+  "webPublicationDate": "2016-05-06T10:14:55Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/06/uk-car-registrations-highest-level-13-years",
+  "keyword": [
+    {
+      "webTitle": "Automotive industry",
+      "id": "business/automotive-industry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Rob Davies",
+      "id": "profile/rob-davies"
+    }
+  ],
+  "guardianId": "business/2016/may/06/uk-car-registrations-highest-level-13-years"
+}

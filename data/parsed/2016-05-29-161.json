@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/29/leyla-mccalla-day-for-hunter-day-for-prey-review-chocolate-drops",
+  "id": "2016-05-29-161",
+  "sectionId": "music",
+  "body": "Very few singers have the qualities that 30-year-old Leyla McCalla brings to this, her second solo album. The former Carolina Chocolate Drop has an unmannered style and a melodic voice that can seem like an extension of her cello playing. She also brings the resonance of history. Born in New York to Haitian parents (and human rights activists), she now lives in New Orleans, a cultural diaspora reflected in a mix of original and traditional songs delivered in English, French and Creole. The arrangements are simple \u2013 banjo, fiddle, guitar, cello \u2013 but the results often intense. Rhiannon Giddens duets on the beautiful Haitian Manman, and guitarist Marc Ribot rocks out on Peze Caf\u00e9. A delight.",
+  "webTitle": "Leyla McCalla: A Day for the Hunter, A Day for the Prey review \u2013 a delight",
+  "webPublicationDate": "2016-05-29T07:00:00Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/29/leyla-mccalla-day-for-hunter-day-for-prey-review-chocolate-drops",
+  "keyword": [
+    {
+      "webTitle": "World music",
+      "id": "music/worldmusic",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Folk music",
+      "id": "music/folk",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Neil Spencer",
+      "id": "profile/neilspencer"
+    }
+  ],
+  "guardianId": "music/2016/may/29/leyla-mccalla-day-for-hunter-day-for-prey-review-chocolate-drops"
+}

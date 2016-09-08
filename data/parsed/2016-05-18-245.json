@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/18/gambling-ad-christ-crucifixion-banned",
+  "id": "2016-05-18-245",
+  "sectionId": "media",
+  "body": "A gambling ad featuring a hand nailed to a piece of wood that ran over Easter has been banned for mocking the crucifixion of Jesus and the Christian religion. Gambling company Boylesports emailed a promotion to punters that showed a hand nailed to a piece of wood against a desert scene with the strapline \u201cnailed on bonus\u201d. Its text read: \u201cIn memory of the dearly departed JC, we are offering you a sacrilecious [sic] bonus this Easter weekend ... So don\u2019t just sit there gorging your own body weight in chocolate, that\u2019s disrespectful. Get on Boylesports Gaming and get your nailed on bonus.\u201d   Related: EE gets rival Three\u2019s multimillion-pound Muppet ad banned    The promotional offer ran for most of the Easter period from Good Friday to 27 March. One recipient of the email lodged a complaint with the Advertising Standards Authority that the ad was offensive and mocked the Christian religion. Boylesports tried to play the link with Jesus Christ down, saying that there was no religious symbolism in the ad and that crucifixion per se was a \u201ccommon practice\u201d in Christ\u2019s time. The ASA rejected Boylesports\u2019 argument, saying the ad was clearly not a reference to a \u201cgeneric\u201d crucifixion, but directly to that of Jesus Christ. It said that the timing of the ad at Easter, the \u201cjokey\u201d language and making light of the subject of the crucifixion was likely to cause serious offence to some readers. \u201cWe considered the offence was likely to be particularly strongly felt by those of the Christian faith at Easter, when the imagery would have a particularly strong resonance,\u201d said the ASA. \u201cWe considered that the ad was likely to cause serious offence and concluded that it was therefore in breach of the [advertising] code.\u201d",
+  "webTitle": "Gambling ad banned for mocking Christ's crucifixion",
+  "webPublicationDate": "2016-05-18T10:05:21Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/18/gambling-ad-christ-crucifixion-banned",
+  "keyword": [
+    {
+      "webTitle": "Advertising Standards Authority",
+      "id": "media/asa",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Advertising",
+      "id": "media/advertising",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Christianity",
+      "id": "world/christianity",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Religion",
+      "id": "world/religion",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Mark Sweney",
+      "id": "profile/marksweney"
+    }
+  ],
+  "guardianId": "media/2016/may/18/gambling-ad-christ-crucifixion-banned"
+}

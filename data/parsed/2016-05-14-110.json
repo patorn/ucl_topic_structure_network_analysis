@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/14/labour-struggling-attract-working-class-voters-analysis-fabian-society",
+  "id": "2016-05-14-110",
+  "sectionId": "politics",
+  "body": "Labour\u2019s performance in the recent council elections suggests that the party is struggling to attract the working-class voters who traditionally formed the core of its support, according to a detailed analysis of the results. A report for the Fabian Society by the political analyst Lewis Baston examines voting patterns in the marginal constituencies that Labour would have to win to achieve a parliamentary majority. Baston\u2019s analysis shows that Labour performed well in what he calls \u201cthe most modern bits of England\u201d and badly in its heartlands.   Related: The Guardian view on England\u2019s local elections: the map\u2019s unchanged, but mayors could move things | Editorial    Turnout in local elections tends to be much lower than at general elections, and they are often fought on purely local issues, but regional patterns can help give pointers as to a party\u2019s appeal for different groups of voters. Labour lost a net 18 council seats once all the votes were counted and drew ahead of the Conservatives on the projected national share of the vote by 1 percentage point \u2013 a better result than many experts predicted. Baston finds that despite the deep divide within the parliamentary Labour party between the leftwing leadership of Jeremy Corbyn and centrist \u201cBlairite\u201d MPs, the party\u2019s best showing was in areas where New Labour succeeded. \u201cThe best Labour results were in some of the most modern bits of England, in London and its hinterland. Swindon, Milton Keynes, Reading and Crawley, and the leafy London suburbs, are what used to be regarded as classic New Labour territory, but now seem oddly fond of new old Labour,\u201d he said. \u201cA more traditional socialist appeal seems to go over better with these voters than with the traditional working class.\u201d By contrast, voters switched to the Conservatives in areas where Labour needs to win seats to secure a majority in 2020, such as Nuneaton and Cannock Chase, compared with the 2012 local elections. \u201cWeakness in crucial types of constituencies in 2016, such as unpretentious Midlands towns (Nuneaton, Cannock) and big city suburbs (Bury, Bolton) is ominous, while stronger showings were in affluent seats that are either already Labour or require large swings to be sustained through to May 2020,\u201d Baston said. Comparing the results in marginal constituencies with the 2015 general election, Labour saw its share of the vote improve by 3.3% in the south, and 2.2% in the Midlands, but in the north, it declined by 1.8%. Corbyn said in the aftermath of the elections that instead of losing scores of council seats, as predicted, we \u201chung on and we grew support in a lot of places\u201d. But MPs sceptical about his leadership are looking for evidence that he can extend the party\u2019s reach into new areas to chart the course back to power.           Jeremy Corbyn: \u2018Labour hung on and grew support in a lot of places\u2019    Baston said that in the past, a 1 percentage point lead on the national share of the vote had not been enough to put oppositions on course to win the following general election. The report found that substantial leads for opposition parties a year after a general election tended to lead to a change in government in the subsequent general election. It noted that large shares of the national vote for Labour under John Smith in 1993 and the Conservatives under Cameron in 2006 were followed by their gaining power four years later. However, Baston said, smaller opposition leads in local elections, such as those secured by Corbyn last week and Ed Miliband in 2011, had in the past failed to be converted into general election success. \u201cLabour\u2019s performance in 2016 was squarely in line with what one might expect a year into a parliament where the opposition is not going to win the general election,\u201d he said. Andrew Harrop, the Fabian Society general secretary, said: \u201cThe results may not have been a disaster for Labour, but there is no sign that Jeremy Corbyn will do any better than Ed Miliband in winning the sorts of seats which Labour needs to govern. With the party moving neither forwards nor backwards, Labour is no closer to resolving its internal conflicts. These results simply kick the can down the road.\u201d",
+  "webTitle": "Labour is struggling to attract working-class voters, analysis finds",
+  "webPublicationDate": "2016-05-14T12:49:18Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/14/labour-struggling-attract-working-class-voters-analysis-fabian-society",
+  "keyword": [
+    {
+      "webTitle": "Labour",
+      "id": "politics/labour",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Local elections",
+      "id": "politics/local-elections",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Local government",
+      "id": "society/localgovernment",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Local politics",
+      "id": "politics/localgovernment",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "London",
+      "id": "uk/london",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "North of England",
+      "id": "uk-news/north-of-england",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Jeremy Corbyn",
+      "id": "politics/jeremy-corbyn",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Heather Stewart",
+      "id": "profile/heatherstewart"
+    }
+  ],
+  "guardianId": "politics/2016/may/14/labour-struggling-attract-working-class-voters-analysis-fabian-society"
+}

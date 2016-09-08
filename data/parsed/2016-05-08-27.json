@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/08/pollutionwatch-europes-problem-diesel-cars",
+  "id": "2016-05-08-27",
+  "sectionId": "environment",
+  "body": "New UK government tests confirm that diesel cars produce a lot more air pollution in real-world driving when compared with the legal tests. Those sold since 2009 emitted six times more nitrogen oxides, on average.  Compared with the stricter standards applied to petrol cars, the average diesel sold between 2009 and 2015 emitted 19 times more nitrogen oxides. In 2014, more than half of new cars in Europe were diesel, so solving our air pollution problems will not be easy. The Airuse project highlighted the role of taxation in car buying choice. All European countries, except the UK, have lower tax on diesel fuel compared with petrol.    Related: How ozone attacks our food    Unsurprisingly, diesel tends to dominate car sales in countries where the fuel is most favoured by taxation: Luxembourg, Belgium, Portugal, Spain, France and Greece \u2013 where the ending of a ban on diesel cars in Athens and Thessaloniki in 2011 led to a boom in sales. India recently removed subsidies on diesel, but there is no sign of an end to the European tax incentives. Airuse also highlighted how the geography of the Mediterranean affects its air pollution, with shipping, dry dusty soils and dense city centres adding to the problems from a high proportion of diesel cars. The UK and other countries surrounding the North Sea and the Channel form one of Europe\u2019s most densely populated areas.  It also contains Europe\u2019s only two mega-cities \u2013 London and Paris \u2013 which are separated by less than 350km. This makes action on traffic pollution the key to cleaning the air over our region.",
+  "webTitle": "Europe's problem with diesel cars",
+  "webPublicationDate": "2016-05-08T20:30:17Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/08/pollutionwatch-europes-problem-diesel-cars",
+  "keyword": [
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Transport policy",
+      "id": "politics/transport",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Road transport",
+      "id": "world/road-transport",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Gary Fuller",
+      "id": "profile/gary-fuller"
+    }
+  ],
+  "guardianId": "environment/2016/may/08/pollutionwatch-europes-problem-diesel-cars"
+}

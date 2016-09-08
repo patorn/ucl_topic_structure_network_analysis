@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/16/what-do-germans-think-of-boris-johnsons-eu-hitler-comparison",
+  "id": "2016-05-16-292",
+  "sectionId": "politics",
+  "body": "Boris Johnson has been criticised for hitting a new low in the referendum campaign after he claimed the EU has the same goal as Hitler in trying to create a political superstate in Europe.   Related: Boris Johnson has pressed the big red button marked \u2018Hitler\u2019. Watch out | Matthew d\u2019Ancona    In fresh Tory divisions over the referendum, the former London mayor drew criticism from remain campaigners for saying the EU and the Nazi dictator had the same aim of political union in Europe even though they used \u201cdifferent methods\u201d. In an interview with the Sunday Telegraph, Johnson, seen as the de facto leader of the leave campaign, said the past 2,000 years of European history had been dominated by doomed attempts to unify the continent under a single government to recreate the \u201cgolden age\u201d of the Romans. If you\u2019re German we\u2019d like to hear what you think. Do you find Johnson\u2019s words offensive or just rhetoric? You can share your views by filling in our form below. We\u2019ll feature some of your contributions in our ongoing reporting.",
+  "webTitle": "What do Germans think of Boris Johnson's EU-Hitler comparison?",
+  "webPublicationDate": "2016-05-16T08:34:50Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/16/what-do-germans-think-of-boris-johnsons-eu-hitler-comparison",
+  "keyword": [
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Boris Johnson",
+      "id": "politics/boris",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian readers",
+      "id": "profile/guardian-readers"
+    }
+  ],
+  "guardianId": "politics/2016/may/16/what-do-germans-think-of-boris-johnsons-eu-hitler-comparison"
+}

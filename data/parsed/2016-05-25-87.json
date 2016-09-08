@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/science/animal-magic/2016/may/25/size-matters-meerkats-keep-tabs-on-rivals-growth-and-eat-to-compete",
+  "id": "2016-05-25-87",
+  "sectionId": "science",
+  "body": "\u201cUnfairness bothers children greatly.\u201d This quotation comes from Karen Joy Fowler\u2019s 2014 novel We Are All Completely Beside Ourselves and it comes to mind on an almost daily basis as I struggle to manage the tensions between my two pre-teen boys. It is also a sentiment that appears to apply to meerkats, according to a nifty little study out today.  Meerkats live in groups, with a single dominant pair monopolizing reproduction. The non-reproductive individuals - other adults, a bunch of juveniles that may span several generations and a rabble of pups - must wait for the opportunity to breed. With age and body mass influencing a subordinate\u2019s position in the queue for reproduction, it would make sense if individuals were sensitive to their own body weight and to that of their rivals.  The latest study to come out of the long-running, University of Cambridge-led Kalahari Meerkat Project explores this prediction with an experiment. Working with habituated meerkats in the Kuruman River Reserve on the outskirts of the Kalahari Desert, the zoologists identified same-sex littermates and gave the lighter individual \u2013 the \u201cchallenger\u201d \u2013 a boost to its body mass by feeding it half a boiled egg twice a day for three months. At the halfway point, challengers had put on significantly more weight than age-matched control meerkats from other litters. The \u201cchallenged\u201d meerkats were quick to respond, eating more and growing significantly faster than controls (though not as fast as their egg-fueled rivals). When the researchers analysed the data for the second half of the experiment, there was no longer a significant difference between the \u201cchallenged\u201d meerkats and controls, \u201csuggesting that challenged individuals may not be capable of sustaining accelerated growth over extended periods.\u201d It seems likely that the experiment resulted in the challengers jostling the challenged meerkats behind them in the queue for reproduction. Profoundly unfair.      It\u2019s a long, hard slog to become a dominant meerkat Photograph: Mattias Klum/Getty Images/National Geographic    Given this competition between subordinates to grow themselves to the head of the queue, the researchers asked what happens to body mass when an individual attains dominance. It shoots up, they found. This sudden increase was most pronounced when the next meerkat in line was of comparable size. The mechanism for this change is probably not down to food intake (which didn\u2019t change much), but is \u201cprobably associated with the sudden lifting of reproductive suppression and a re-orientation of life-history strategy.\u201d  I was one of the first volunteers on this project, now more than 20 years ago. Some of the data in this paper come from that time, testimony to the value of long-term field studies. The results, conclude Elise Huchard and her colleagues in this week\u2019s Nature, \u201csuggest that competitive growth may represent an important component of the developmental strategy of individuals.\u201d It\u2019s probably a phenomenon that occurs in other social species, they argue, \u201cincluding domestic mammals, non-human primates and humans.\u201d It certainly happens in my house.  Huchard, E. et al. Competitive growth in a cooperative mammal. Nature 10.1038/nature17986",
+  "webTitle": "Compare the meerkat? Meerkats watch rivals\u2019 growth and eat to compete",
+  "webPublicationDate": "2016-05-25T17:00:02Z",
+  "webUrl": "https://www.theguardian.com/science/animal-magic/2016/may/25/size-matters-meerkats-keep-tabs-on-rivals-growth-and-eat-to-compete",
+  "keyword": [
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Zoology",
+      "id": "science/zoology",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Evolution",
+      "id": "science/evolution",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Biology",
+      "id": "science/biology",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Animal behaviour",
+      "id": "science/animalbehaviour",
+      "sectionId": "science",
+      "sectionName": "Science"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Henry Nicholls",
+      "id": "profile/henry-nicholls"
+    }
+  ],
+  "guardianId": "science/animal-magic/2016/may/25/size-matters-meerkats-keep-tabs-on-rivals-growth-and-eat-to-compete"
+}

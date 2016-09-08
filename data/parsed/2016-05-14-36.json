@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/14/saracens-european-kings-racing-92-premiership",
+  "id": "2016-05-14-36",
+  "sectionId": "sport",
+  "body": "Saracens celebrated winning the European Cup for the first time after downing Racing 92 21-9 in a penalty shootout in Lyon, but not too hard because their players have their gaze on a double. \u201cIt is awesome to be European champions,\u201d said the England No8, Billy Vunipola, after his team became the first Premiership side to achieve the feat since Wasps in 2007. \u201cIt takes a massive amount to win this trophy but our minds are already on next week and the Premiership play\u2011offs. The final was a real arm wrestle and we made fewer mistakes than them. Owen Farrell held his nerve and our experience pulled us through.\u201d Saracens, who host Leicester in Saturday\u2019s semi-final, lost the Heineken Cup final to Toulon two years ago. \u201cWe learned a lot from that defeat,\u201d said the Saracens director of rugby, Mark McCall. \u201cToulon kept us at arm\u2019s length and we did that today to Racing. Owen ran the game cleverly and smartly and it was a brilliant team effort. We showed how we have grown in two years and if we remain humble and hungry, more days like this lie ahead.\u201d Farrell scored all his side\u2019s 21 points. \u201cIt was a slog all the way through the game with two good teams going for it in difficult conditions,\u201d said Farrell. \u201cWe played some smart rugby and it got us through what was a massive occasion. I spoke to Dan Carter at the end and congratulated him on his outstanding performances this year.\u201d The Racing captain, Dimitri Szarzewski, said it was not a gamble to play a clearly unfit Carter. \u201cHe was not 100% but we though we could get 40 or 50 minutes from him to provide momentum. It was not a risk and we lost because we were not up to the challenge collectively. We were not dominated by Saracens but our discipline was not good enough.\u201d",
+  "webTitle": "Saracens: \u2018Awesome to be European kings\u2026 now for the Premiership\u2019",
+  "webPublicationDate": "2016-05-14T22:08:09Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/14/saracens-european-kings-racing-92-premiership",
+  "keyword": [
+    {
+      "webTitle": "Saracens",
+      "id": "sport/saracens",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Racing 92",
+      "id": "sport/racing-metro-92",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Owen Farrell",
+      "id": "sport/owen-farrell",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "European Rugby Champions Cup",
+      "id": "sport/european-rugby-champions-cup",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Rugby union",
+      "id": "sport/rugby-union",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Paul Rees",
+      "id": "profile/paulrees"
+    }
+  ],
+  "guardianId": "sport/2016/may/14/saracens-european-kings-racing-92-premiership"
+}

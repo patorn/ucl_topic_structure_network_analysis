@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/02/former-socceroos-and-west-ham-captain-lucas-neill-declared-bankrupt",
+  "id": "2016-05-02-260",
+  "sectionId": "football",
+  "body": "The former Socceroos captain and English Premier League defender Lucas Neill has been declared bankrupt in the UK. The London-based insolvency firm Begbies Traynor was appointed trustees to the bankruptcy last week.   Related: Football Federation Australia to investigate flares at A-League grand final    \u201cMr Neill is due to be interviewed when he returns to the UK in the coming weeks, at which point the trustees will be able to obtain the background information required to determine the full scale of Mr Neill\u2019s debts,\u201d Dale Hernon of Begbies Traynor said in a statement. \u201cAt this early stage of proceedings, it is currently unclear to what extent any funds will be recovered.\u201d  The 38-year-old former West Ham captain earned a reported $40 million across two decades in high-level football, appearing for teams such as Millwall, Blackburn Rovers, Everton and Galatasaray, while earning 96 caps for Australia and leading his country. According to a Daily Telegraph report, Neill had been involved in a number of high-profile investments during his playing career, including a US property portfolio and a coaching business in Sydney. Administrators say it will be some time until their investigations into Neill\u2019s finances are complete, perhaps months, and that it is too early to establish the full extent of his debts.",
+  "webTitle": "Former Socceroos and West Ham captain Lucas Neill declared bankrupt",
+  "webPublicationDate": "2016-05-02T03:29:37Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/02/former-socceroos-and-west-ham-captain-lucas-neill-declared-bankrupt",
+  "keyword": [
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Australia sport",
+      "id": "sport/australia-sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Australia",
+      "id": "football/australia",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "football/2016/may/02/former-socceroos-and-west-ham-captain-lucas-neill-declared-bankrupt"
+}

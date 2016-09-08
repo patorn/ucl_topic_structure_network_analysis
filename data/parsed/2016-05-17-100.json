@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/17/eu-referendum-boris-johnson-accuses-pm-of-collusion-with-top-business-chiefs",
+  "id": "2016-05-17-100",
+  "sectionId": "politics",
+  "body": "Boris Johnson has accused David Cameron of \u201cwhat looks like collusion\u201d with big business leaders to win their support for the remain campaign in exchange for favourable consideration in the awarding of government contracts. Commenting on a leaked letter from the chief executive of Serco to the prime minister, which referred to discussions over how to persuade firms to voice their support for staying in the EU, Johnson said: \u201cI think it\u2019s important that we look at what\u2019s really going on.   Brexit explained: Guardian view   \u201cWhen you have what looks like collusion between the government and big remain-backing businesses, it seems to be suggesting that in exchange for support for remain there\u2019s consideration given to the awarding of lavish public sector contracts. I think we need a full explanation of that without delay.\u201d Johnson had earlier described the correspondence between the Serco CEO, Rupert Soames, and the prime minister, which took place while Cameron\u2019s negotiations over a new EU deal were still going on, as \u201cthe biggest stitch-up since the Bayeux tapestry\u201d, adding: \u201cIt makes us look like a banana republic.\u201d In the letter, obtained by the Daily Mail and dated 8 February, Soames writes: \u201cThank you for a very useful meeting last week. There were two points I thought I might follow up on. The first is how to mobilise corporates to look carefully at the risks Brexit represents. \u201cI am working with Peter Chadlington and Stuart Rose (the head of Britain Stronger in Europe) with a view to contacting FTSE 500 companies who have annual reports due for publication before June and persuading them that they should include Brexit in the list of key risks.\u201d The former London mayor was speaking on Tuesday during a visit to an aluminium processing plant in Staffordshire, where he burned a cheque for \u00a3350m in the plant\u2019s blast furnace to symbolise the amount of money the leave campaign says Britain pays the EU every week. Describing the prime minister\u2019s negotiations for an improved EU deal as a \u201cfiction\u201d and a \u201cmime\u201d, Johnson told reporters: \u201cThere was no real change to the treaties, no fundamental, far-reaching reform of the kind we were promised.\u201d Johnson also responded to remarks made by Cameron on Tuesday in which he said Abu Bakr al-Baghdadi, the leader of Isis, was probably in favour of Britain leaving the EU. \u201cYou might argue that it was a bit much to start comparing people who are arguing for freedom in this country, free restoration of democracy, to say that our allies are Putin and Daesh [Isis]. I think that\u2019s a bit much, frankly.\u201d",
+  "webTitle": "EU referendum: Boris Johnson accuses PM of 'collusion' with top business chiefs",
+  "webPublicationDate": "2016-05-17T15:51:12Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/17/eu-referendum-boris-johnson-accuses-pm-of-collusion-with-top-business-chiefs",
+  "keyword": [
+    {
+      "webTitle": "Boris Johnson",
+      "id": "politics/boris",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "David Cameron",
+      "id": "politics/davidcameron",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Esther Addley",
+      "id": "profile/estheraddley"
+    }
+  ],
+  "guardianId": "politics/2016/may/17/eu-referendum-boris-johnson-accuses-pm-of-collusion-with-top-business-chiefs"
+}

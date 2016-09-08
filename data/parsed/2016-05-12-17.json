@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/12/kill-command-review-superior-sci-fi-action-thriller",
+  "id": "2016-05-12-17",
+  "sectionId": "film",
+  "body": "Steven Gomez is a visual effects supervisor who has graduated to writing and directing his first full-length feature. It\u2019s a sci-fi action thriller whose borrowings are very plain, but it\u2019s decent and watchable nonetheless, with an interesting central character premise.  Reprising much of the style and hardware of Terminator and Robocop, Gomez gives us the story of some US Marines who in the future are \u2019coptered to a remote location for training. With them is a young civilian observer called Mills (Vanessa Kirby) who is part android, having been \u201ccured\u201d of paralysis as a child by a sinister corporation that implanted in her head new software and artificially created brain matter: this is the same tech that runs the battle drones she is there to inspect. The exercise takes a terrible turn. The soldiers realise they themselves are lab rats in a combat experiment \u2013 and whose side is Mills on, anyway? Gamers will have a bit of deja vu watching this, but it is a well managed movie with some cool, controlled performances among the detonations.",
+  "webTitle": "Kill Command review \u2013 superior sci-fi action thriller",
+  "webPublicationDate": "2016-05-12T21:30:09Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/12/kill-command-review-superior-sci-fi-action-thriller",
+  "keyword": [
+    {
+      "webTitle": "Science fiction and fantasy",
+      "id": "film/sciencefictionandfantasy",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Drama",
+      "id": "film/drama",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Action and adventure",
+      "id": "film/actionandadventure",
+      "sectionId": "film",
+      "sectionName": "Film"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Peter Bradshaw",
+      "id": "profile/peterbradshaw"
+    }
+  ],
+  "guardianId": "film/2016/may/12/kill-command-review-superior-sci-fi-action-thriller"
+}

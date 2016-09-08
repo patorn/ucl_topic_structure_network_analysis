@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/24/superhero-marvel-dc-comics-graham-jules-court",
+  "id": "2016-05-24-35",
+  "sectionId": "books",
+  "body": "It seemed like far from an even fight at first glance \u2013 with the multibillion dollar forces behind Batman, Superman and Captain America in one corner and a small scale British entrepreneur on the other. But after a two-and-a-half-year wrangle with Graham Jules, it is the combined might of the comic book giants Marvel and DC who have raised a white flag after initially claiming that using the word superhero would cause confusion and dilute their brand. Jules, a 48-year-old who runs a firm setting up pop-up shops and is studying law, had been about to publish his self-help manual Business Zero to Superhero in 2014, when he got a warning letter from the two companies. The Londoner fought back and, at one point, rejected an offer of \u201ca couple of thousand\u201d to change his book title. Now, the publishers have backed down and admitted defeat four days before a planned hearing at the Intellectual Property Office in London. Jules, who runs a firm setting up pop-up shops, had compiled his entire case without legal aid using a single textbook about intellectual property law. Tristan Sherliker, an associate solicitor at the intellectual property law firm EIP, described the cases as a \u201cclassic David v Goliath\u201d battle. DC and Marvel have a history of stopping others from using \u201csuperhero\u201d according to Sherliker. \u201cJust because a word is in the dictionary doesn\u2019t mean it can\u2019t be part of a brand: just think of the global value of the Apple brand,\u201d said Sherliker.  \u201cBut it will be surprising for people to learn that two huge comic book publishers, normally competitors, have united to \u2018own\u2019 this word and avoid others from using it.\u201d \u2022 This article was amended on 8 June 2016 to clarify the reasons put forward by Marvel and DC for opposing Jules\u2019s use of the word \u201csuperhero\u201d.",
+  "webTitle": "Real-life superhero? Marvel and DC comics back down against Londoner",
+  "webPublicationDate": "2016-05-24T19:06:12Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/24/superhero-marvel-dc-comics-graham-jules-court",
+  "keyword": [
+    {
+      "webTitle": "Comics and graphic novels",
+      "id": "books/comics",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "London",
+      "id": "uk/london",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Marvel",
+      "id": "culture/marvel",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "DC Comics",
+      "id": "books/dc-comics",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Books",
+      "id": "books/books",
+      "sectionId": "books",
+      "sectionName": "Books"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ben Quinn",
+      "id": "profile/benquinn"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/24/superhero-marvel-dc-comics-graham-jules-court"
+}

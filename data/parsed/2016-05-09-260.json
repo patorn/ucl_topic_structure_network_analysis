@@ -1,0 +1,84 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/09/spotify-stream-radiohead-album-a-moon-shaped-pool",
+  "id": "2016-05-09-260",
+  "sectionId": "music",
+  "body": "Spotify has said it hopes to stream Radiohead\u2019s new album, A Moon Shaped Pool, as soon as it can. A Moon Shaped Pool, the Oxford band\u2019s ninth album, was released on Sunday 8 May and is currently available through Apple Music and Tidal.    Related: Radiohead: A Moon Shaped Pool review \u2013 something they've never achieved before    Should it eventually appear on Spotify, it would mark a turning point in the relationship between the group and the service. Radiohead singer Thom Yorke has long been a vocal critic of Spotify, branding it \u201cthe last desperate fart of a dying corpse\u201d. He added: \u201cI feel like as musicians we need to fight the Spotify thing. I feel that in some ways what\u2019s happening in the mainstream is the last gasp of the old industry. Once that does finally die, which it will, something else will happen.\u201d  In 2013, Yorke and Radiohead producer Nigel Godrich removed their music from the service, with Godrich claiming: \u201cThe reason is that new artists get paid fuck all with this model. It\u2019s an equation that just doesn\u2019t work.\u201d Yorke added: \u201cMake no mistake, new artists you discover on #Spotify will not get paid. Meanwhile, shareholders will shortly be rolling in it.\u201d  Since then, however, the relationship seems to have improved. Both of Radiohead\u2019s teaser tracks for the album were available to hear on Spotify. A Spotify rep told Billboard: \u201cRadiohead\u2019s new singles Burn the Witch and Daydreaming are already available on Spotify, and we look forward to making the rest of A Moon Shaped Pool available on Spotify as soon as we can.\u201d",
+  "webTitle": "Spotify hopes to stream new Radiohead album soon",
+  "webPublicationDate": "2016-05-09T09:19:01Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/09/spotify-stream-radiohead-album-a-moon-shaped-pool",
+  "keyword": [
+    {
+      "webTitle": "Radiohead",
+      "id": "music/radiohead",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Pop and rock",
+      "id": "music/popandrock",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Spotify",
+      "id": "technology/spotify",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Music industry",
+      "id": "business/musicindustry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Digital music and audio",
+      "id": "technology/digital-music-and-audio",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Internet",
+      "id": "technology/internet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian music",
+      "id": "profile/guardianmusic"
+    }
+  ],
+  "guardianId": "music/2016/may/09/spotify-stream-radiohead-album-a-moon-shaped-pool"
+}

@@ -1,0 +1,30 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/07/teenage-girl-killed-in-manchester-car-crash-altrincham",
+  "id": "2016-05-07-104",
+  "sectionId": "uk-news",
+  "body": "A teenage girl has died after a car hit a brick wall at high speed in Greater Manchester, police confirmed. Police attending the crash on Manchester Road, near the junction with Stamford Brook Road in Altrincham, just before 11am on Saturday found a 45-year-old man and an 11-year-old girl in the black Toyota Auris. Both were taken to hospital with unknown injuries. A second girl, believed to be in her early teens, was pronounced dead at the scene. Police said on Saturday afternoon an initial report that two boys had fled the scene before officers arrived was based on incorrect information and they were not searching for any other passengers.  It is not known whether the occupants of the car were related.    An ambulance, paramedics and police are at the scene. Officers are taking images of the wreckage. pic.twitter.com/IZhL5wHw8E\u2014 Katie Butler (@KatieButlerMEN) May 7, 2016    Insp Paul Rowe of Greater Manchester police said: \u201cOur thoughts are with the girl\u2019s family at this devastating time. We are at the very earliest stages in this investigation, however our specialist officers will be offering our complete support to them. We are also appealing for anyone who saw the collision to get in touch with police so we can find out what caused this tragedy.\u201d Anyone with any information should contact police on 101 or via the independent charity Crimestoppers anonymously on 0800 555 111. Manchester Road remains closed in both directions while officers investigate.",
+  "webTitle": "Teenage girl killed in Greater Manchester car crash",
+  "webPublicationDate": "2016-05-07T12:39:31Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/07/teenage-girl-killed-in-manchester-car-crash-altrincham",
+  "keyword": [
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Greater Manchester",
+      "id": "uk/greater-manchester",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Chris Johnston",
+      "id": "profile/chris-johnston"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/07/teenage-girl-killed-in-manchester-car-crash-altrincham"
+}

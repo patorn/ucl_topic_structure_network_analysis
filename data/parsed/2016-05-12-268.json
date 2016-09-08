@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/society/2016/may/12/nhs-worst-performance-hospital-targets-emergency-patients",
+  "id": "2016-05-12-268",
+  "sectionId": "society",
+  "body": "The NHS has recorded its worst performance for the third month in a row, with hospitals missing key targets to treat A&E patients and those waiting for planned operations as well as people suspected to have cancer.  During March hospitals struggled to cope with an increase in demand for care while ambulance services also failed to reach record numbers of patients quickly enough after a 999 call.  The grim statistics prompted renewed concern for the hundreds of thousands of patients who face unusually long delays for care they need and calls for more money for the NHS.  Hospitals in England posted the worst figures for A&E treatment since records began in August 2010. They admitted, transferred or discharged just 87.3% of patients within the required four hours \u2013 well below the target of 95%.  The 10 NHS regional ambulance services in England responded to just 66.5% of the most urgent 999 calls for help, called Red 1 calls, within eight minutes. That is far short of the 75% target they are meant to hit and is the 10th month in a row in which they have not met the standard.  Their performance was even worse \u2013 the worst on record \u2013 for Red 2 calls, which are also life-threatening, such as for a stroke. Ambulance services managed to reach just 58% of such patients, again against a target of 75%.  The appalling figures for March mean that the NHS\u2019s performance in 2015-16 as a whole was the worst it has ever recorded over a full year. The service failed to meet the four-hour A&E target for the second year running, treating just 87.9% of those in hospital-based A&Es within that time.  Ambulance services also breached all their key response time targets during 2015-16 as a whole for the second year running, while delayed transfers of care \u2013 when patients could not be discharged, often because social care support was not available \u2013 also hit a five-year high last year, the official figures show.  NHS bosses will also be worried that the number of people on the waiting list for non-urgent care in hospital, usually an elective operation, hit 3.5 million in March. It has not been as high since January 2008, a figure that prompted the then Labour government to introduce the 18-week waiting-time target.  NHS England said March had been \u201cparticularly busy\u201d for A&E units. It blamed a late spike in flu for part of the pressure it faced but also the strikes undertaken by junior doctors.  \u201cWhile emergency admissions over the past year are up by a relatively modest 2% and inpatient bed days are stable, March was particularly busy with more than 2 million treated in A&E, compounded by the effects of the delayed flu spike in March. We also saw the effects of delayed care and industrial action beginning to show up in the figures,\u201d said Richard Barker, its interim national director of commissioning operations and information.  NHS England stressed that, despite the huge strain A&E units are under, 50% of patients are still assessed in 10 minutes and 90% within an hour and that 50% are treated in one hour and 90% in two and a half hours, with 50% discharged within two and a half hours. The average time until a patient leaves an emergency department is 154 minutes, it added. Clare Marx, the president of the Royal College of Surgeons, voiced concern that hospitals also posted the grimmest ever set of figures for patients who should have received planned care within 18 weeks, such as those needing a new hip or knee, hernia repair or cataract removal.  The NHS only managed to treat 91.5% of 1,251,312 such patients in March within that time, just below the 92% target. That was the worst performance since records began in April 2012.  \u201cIt is worrying that the NHS has again missed its waiting times target. It is extremely distressing for patients if their operation is delayed, especially if they are in pain or immobile.  \u201cWe welcome the extra money the government promised in the Comprehensive Spending Review, but we still need a long-term plan to address the growing number of patients needing surgery, as well as a political consensus on how best to fund social care,\u201d said Marx.   The number of hospital bed days lost because beds were taken up by patients who were medically fit to leave but could not be safely discharged was also up hugely year-on-year in March to 169,928, compared to the 140,390 bed days lost to \u201cdelayed transfers of care\u201d in the same month the previous year.   \u201cWe are also concerned by the 11.4% increase in one year in the number of patients who have been delayed from being discharged from hospital, when they were ready to go home,\u201d Marx added. \u201cThis problem is increasing due to social care or district nursing services not being immediately available for vulnerable patients in their home. We believe the underfunding of social care has contributed to this significantly.\u201d Heidi Alexander, the shadow health secretary, said: \u201cThis is Black Thursday for the NHS. These figures show an NHS in constant crisis and there appears to be no sign of things getting any better. \u201cJeremy Hunt might have been the longest serving heath secretary, but on his watch patients are waiting longer than ever before to be treated in A&E.  \u201cThe reality is that this deepening crisis is a direct result of the Tories\u2019 failed policies. People are finding it harder to see their GP and cuts to social care have left hundreds of thousands of older people without the support they need to live at home independently. This is leaving many people with no choice but to go to A&E.\u201d",
+  "webTitle": "NHS records worst performance for third month in a row",
+  "webPublicationDate": "2016-05-12T10:42:57Z",
+  "webUrl": "https://www.theguardian.com/society/2016/may/12/nhs-worst-performance-hospital-targets-emergency-patients",
+  "keyword": [
+    {
+      "webTitle": "NHS",
+      "id": "society/nhs",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Denis Campbell",
+      "id": "profile/deniscampbell"
+    }
+  ],
+  "guardianId": "society/2016/may/12/nhs-worst-performance-hospital-targets-emergency-patients"
+}

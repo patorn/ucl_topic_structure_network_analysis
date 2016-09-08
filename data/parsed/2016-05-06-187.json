@@ -1,0 +1,30 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/06/five-best-new-films",
+  "id": "2016-05-06-187",
+  "sectionId": "film",
+  "body": "1: Son Of Saul (15) (L\u00e1szl\u00f3 Nemes, 2015, Hun) 107 mins            This Oscar-winning Hungarian drama conveys the unimaginable horror of the Holocaust by limiting its focus to a single subject, a Jewish concentration camp assistant (Geza Rohrig). We follow his stricken face as he searches for a rabbi to bury his murdered son, glimpsing atrocities in the margins. An unforgettable experience. 2: Captain America: Civil War (12A) (Anthony & Joe Russo, 2016, US) 147 mins            After Batman v Superman, a superhero smackdown that\u2019s altogether jollier, but more substantial, too. Chris Evans\u2019s Captain and Robert Downey Jr\u2019s Iron Man are our team leaders as the Avengers disassemble due to political unrest. An enticing Top Trumps of Marvel characters (including new entries Black Panther and Tom Harris\u2019s Spider-Man) line up alongside them. 3: Heaven Knows What (18) (Ben & Joshua Safdie, 2014, US) 95 mins            An authentic, artfully captured portrait of addiction, cast with non-actors and drawn from experience. Arielle Holmes plays a semi-autobiographical role as a New York waif hollowed out by heroin and destructive relationships. We\u2019re swept away with her on a wash of minimal synth music and trauma. 4: Evolution (15)  (Lucile Hadzihalilovic, 2015, Fra/Bel/Spa) 82 mins            One of the strangest places cinema will take you this year: an isolated community composed solely of boys and women, preoccupied with medical procedures and sea creatures. Something is very wrong, but what? The discovery of a dead body sets off a chain of questions, but don\u2019t expect any easy answers. Beautifully shot, it\u2019s an entrancing, occasionally horrifying experience. 5: The Jungle Book (PG) (Jon Favreau, 2016, US) 106 mins            Disney\u2019s makeover of its family favourite is an evolutionary leap forward, both in its spectacular photo-real animation and its fresh take on Kipling\u2019s stories. It all serves to put our man-cub hero on a more equitable footing with his fellow forest-dwellers, voiced by a starry cast including Idris Elba and Lupita Nyong\u2019o.",
+  "webTitle": "Five of the best\u2026 films out now in the UK",
+  "webPublicationDate": "2016-05-06T12:00:26Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/06/five-best-new-films",
+  "keyword": [
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Steve Rose",
+      "id": "profile/steverose"
+    }
+  ],
+  "guardianId": "film/2016/may/06/five-best-new-films"
+}

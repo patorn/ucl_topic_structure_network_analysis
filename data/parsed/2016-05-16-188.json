@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/16/hsbc-job-losses-840-it-staff-uk",
+  "id": "2016-05-16-188",
+  "sectionId": "business",
+  "body": "HSBC has prompted union anger after it began laying off 840 IT workers as part of a \u00a35bn cost-cutting move that will shift UK computer services operations to Poland, China and India. The outsourcing deal, which will shed 595 jobs in Sheffield and a further 245 posts lost in London, Leeds and Birmingham, is the first big tranche of redundancies under a restructuring plan that will eliminate 8,000 British jobs by the end of next year. HSBC said the relocation of IT jobs was part of its \u201clarge and ongoing IT investment to build a global world-class IT infrastructure\u201d that would still leave the UK playing a central role in HSBC\u2019s global IT and \u201cemploying several thousand highly skilled professionals\u201d. Last year HSBC said the reshaping of the bank, which is Europe\u2019s largest, was necessary to improve profitability and increase the annual dividend.  However, unions said it was devastating for experienced IT staff to be told they must train overseas recruits before their jobs were transferred abroad and workers were made redundant. Most of the staff affected were being informed about the cuts on Monday with all the UK jobs to disappear by the end of this year. Dominic Hook, Unite\u2019s national officer for finance, accused HSBC of fostering a \u201ccynical race to the bottom\u201d after its decision to offshore IT jobs. He said: \u201cHSBC\u2019s decision to axe so many IT jobs is as ruthless as it is reckless. For almost a year staff have been left in the dark about their futures, only to be told that before being shown the door they\u2019re expected to train someone in India or China who will do their job for less money. It\u2019s a deeply cynical move by a bank which wants to be an \u2018employer of choice\u2019.  \u201cOffshoring IT jobs to so-called \u2018low-cost economies\u2019 is extremely short-sighted. As IT glitches across the banks continue to prove, it is ultimately the customers who will suffer the consequences.\u201d HSBC has had a torrid time since the 2008 banking crash, with a series of scandals leading to millions of pounds in fines and prompted it to consider shifting its HQ from London for Hong Kong. Profits have recovered, though regulatory demands for the bank to maintain higher reserves combined with volatile markets have restricted its ability to maintain a solid recovery. Profits at HSBC fell in the first three months of 2016, raising questions among investors about its promise to raise the value of the dividend.  Pretax profits fell in the first three months of the year by 14% to $6.1bn (\u00a34.2bn), which the bank described as \u201ca resilient performance despite challenging market conditions\u201d. If currency movements and other one-off items were excluded, profits tumbled by 18% to $5.4bn. The bank announced its three-year restructuring plan last year, designed to pare back its sprawling global network by shutting underperforming businesses to improve earnings hurt by high compliance costs, fines and low interest rates. The restructuring will eventually eliminate one job in five around the world and around one-sixth of jobs in Britain. As part of the cost cutting, a hiring and pay freeze across the bank\u2019s global operations was also imposed until the end of the year, although it has continued to pay hundreds of staff more than \u00a31m a year. When the restructuring plan was announced, the chief executive, Stuart Gulliver, said most of the job losses in Britain would come from staff leaving on their own accord. HSBC has 47,000 workers in the UK at the end of December 2015, according to its most recent annual report.  John Hackett, chief operating officer of HSBC UK, sought to reassure staff that the bank was \u201ccommitted to supporting employees through this process\u201d. However, he said it was clear for the last year the bank was aiming to achieve significant cost reductions by the end of 2017.  \u201cAs part of a global relocation exercise, around 840 non-customer-facing IT roles will transfer from the UK to other sites around the world by the end of March 2017. The UK will continue to play an important role in HSBC\u2019s global IT infrastructure, employing several thousand IT professionals,\u201d he said.",
+  "webTitle": "HSBC starts laying off 840 IT staff in UK",
+  "webPublicationDate": "2016-05-16T13:01:28Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/16/hsbc-job-losses-840-it-staff-uk",
+  "keyword": [
+    {
+      "webTitle": "HSBC",
+      "id": "business/hsbcholdings",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Banking",
+      "id": "business/banking",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Job losses",
+      "id": "business/job-losses",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Trade unions",
+      "id": "politics/tradeunions",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Phillip Inman",
+      "id": "profile/phillipinman"
+    }
+  ],
+  "guardianId": "business/2016/may/16/hsbc-job-losses-840-it-staff-uk"
+}

@@ -1,0 +1,144 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/29/cia-ex-boss-secretive-spooks-tolerated-in-uk-more-than-in-us",
+  "id": "2016-05-29-17",
+  "sectionId": "world",
+  "body": "British people are not demanding more transparency from the intelligence services as loudly as Americans, the former director of the US National Security Agency (NSA) and CIA has said. Michael Hayden played a pivotal, leading role in American intelligence until he was replaced as director of the CIA shortly into the presidency of Barack Obama. In a wide-ranging talk on the fourth day of the Hay festival, Hayden addressed CIA torture, targeted killings, what he thinks about Edward Snowden and how Facebook is perhaps a greater threat to privacy than government. Hayden said the security services were changing faster in the US than the UK. \u201cYou as a population are far more tolerant of aggressive action on the part of your intelligence services than we are in the United States,\u201d he said.   Related: Future of national security whistleblowing at stake in US inquiry    The US intelligence services would not have validation from the American people unless there was a certain amount of knowledge, an increased transparency, he said. Hayden talked about the tensions between the need to know and the need to protect. In his newlypublished book Hayden calls Snowden naive and narcissistic and says he wanted to put him on a \u201ckill list\u201d.  On the next page he said Snowden \u201chighlighted the need for a broad cultural shift\u201d in terms of transparency and what constitutes consent. On Sunday he said there was no contradiction between the two assertions. \u201cThe 2% of what Snowden revealed that had to do with privacy accelerated a necessary conversation. The other 98% was about how the US and foreign governments collected legitimate material \u2026 that was incredibly damaging.\u201d The privacy revelations quickened a conversation which had \u201chit the beach\u201d in the US but it \u201chas not hit the beach here in Great Britain\u201d. Hayden was asked about how much information we give to social media companies and whether the public is naive in trusting Mark Zuckerberg and Facebook more than the NSA. \u201cI have my views on that,\u201d he joked. \u201cYour habits are all geared to protecting privacy against the government because that was always the traditional threat. That is no longer the pattern, it is the private sector \u2026 we are going through a cultural adjustment. \u201cWith regard to the 21st-century definition of reasonable privacy, Mark Zuckerberg is probably going to have a greater influence on that than your or my government because of the rules we will embed inside his Facebook applications.\u201d On \u201cenhanced interrogation techniques\u201d or torture \u2013 which could include waterboarding \u2013 Hayden said he personally authorised it only once and it did not, he admitted, work.  But he added the \u201csuite\u201d of usable techniques had been reduced from 13 to six and the interrogator believed he would have got information if that had not been the case. \u201cWas it doomed to failure or was it a failure because we did not do enough?\u201d Targeted killings were justified, Hayden said, because the US believed it was at war. The UK, he said, referring to the killing of \u201cJihadi John\u201d, has now \u201cjoined the queue\u201d. Hayden said he believed Islam was going through the crisis that Christianity went through in the 17th century as it was in an internal crisis. \u201cWe are not the target, we are collateral damage. What has happened in Paris, in Brussels \u2026 is spillage.\u201d Hayden also touched on Donald Trump, whose pronouncements, he said, had damaged US security.  \u201cThe jihadist narrative is that there is undying enmity between Islam and the modern world so when Trump says they all hate us, he\u2019s using their narrative \u2026 he\u2019s feeding their recruitment video.\u201d",
+  "webTitle": "CIA ex-boss: secretive spooks tolerated in UK more than in US",
+  "webPublicationDate": "2016-05-29T20:49:42Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/29/cia-ex-boss-secretive-spooks-tolerated-in-uk-more-than-in-us",
+  "keyword": [
+    {
+      "webTitle": "Surveillance",
+      "id": "world/surveillance",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Hay festival",
+      "id": "books/guardian-hay-festival",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Edward Snowden",
+      "id": "us-news/edward-snowden",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "CIA",
+      "id": "us-news/cia",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "NSA",
+      "id": "us-news/nsa",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "MI5",
+      "id": "uk/mi5",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "MI6",
+      "id": "uk/mi6",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Books",
+      "id": "books/books",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "UK security and counter-terrorism",
+      "id": "uk/uksecurity",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Festivals",
+      "id": "culture/festivals",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Privacy",
+      "id": "world/privacy",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Internet",
+      "id": "technology/internet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Facebook",
+      "id": "technology/facebook",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Social networking",
+      "id": "media/socialnetworking",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Mark Zuckerberg",
+      "id": "technology/mark-zuckerberg",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Mark Brown",
+      "id": "profile/markbrown"
+    }
+  ],
+  "guardianId": "world/2016/may/29/cia-ex-boss-secretive-spooks-tolerated-in-uk-more-than-in-us"
+}

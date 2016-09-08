@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/15/horse-racing-tips-monday",
+  "id": "2016-05-15-65",
+  "sectionId": "sport",
+  "body": "Brighton  2.10 Al Sailiyag 2.40 Mister Sunshine 3.15 Upavon (nap) 3.45 Michael\u2019s Mount 4.20 Owners Day 4.55 Let There Be Light 5.30 Bunbury Kempton  2.00 Cultivator 2.30 Maid Of Milan 3.00 Mountain Eagle 3.35 Vivas 4.05 Gowanauthat 4.40 Sandgate  Leicester  6.10 Alwalaa 6.40 Mountain Rescue 7.10 Balducci 7.40 Princess Momoka 8.10 Bell Heather 8.40 Blakeney Point (nb) Redcar  1.50 Dalton 2.20 Show Palace 2.50 Owaseyf 3.25 My Lucille 3.55 Grand Beauty 4.30 Dark Comman 5.05 Archimento 5.35 Falcon\u2019s Fire Windsor  6.00 Fear Or Favour 6.30 Tiggaliscious 7.00 Legendary Lunch 7.30 Snow Pixie 8.00 Cape Discovery 8.30 Udontdodou",
+  "webTitle": "Horse racing tips: Monday 16 May",
+  "webPublicationDate": "2016-05-15T16:15:11Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/15/horse-racing-tips-monday",
+  "keyword": [
+    {
+      "webTitle": "Horse racing tips",
+      "id": "sport/horse-racing-tips",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Horse racing",
+      "id": "sport/horse-racing",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Chris Cook",
+      "id": "profile/chriscook"
+    }
+  ],
+  "guardianId": "sport/2016/may/15/horse-racing-tips-monday"
+}

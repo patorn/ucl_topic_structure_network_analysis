@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/20/monsanto-weedkiller-faces-recall-from-europes-shops-after-eu-fail-to-agree-deal",
+  "id": "2016-05-20-267",
+  "sectionId": "environment",
+  "body": "Bestselling weedkillers by Monsanto, Dow and Syngenta could be removed from shops across Europe by July, after an EU committee failed for a second time to agree on a new license for its core ingredient, glyphosate. The issue has divided EU nations, academics and the World Health Organisation (WHO) itself. One WHO agency found it to be \u201cprobably carcinogenic to humans\u201d while another ruled that glyphosate was unlikely to pose any health risk to humans, in an assessment shaded by conflict of interests allegations earlier this week. EU officials say that while there could be a voluntary grace period of six-12 months, unless a compromise can be found, the product\u2019s license will be allowed to expire on 30 June. One told the Guardian that after its proposal to cutting the authorisation to nine years was rejected, the bloc was now in \u201cuncharted territory\u201d with no clear path to a deal that could reach consensus.  \u201cOur position is clear,\u201d he said. \u201cIf we can reach a qualified majority on a text we will go ahead. Otherwise, we have to leave the authorisation to expire and on 30 June  member states will need to start withdrawing products containing glyphosate from the market.\u201d Glyphosate is Europe\u2019s most widely used weedkiller, and its parent RoundUp herbicide accounts for a third of Monsanto\u2019s total earnings.  The compound is routinely \u2013 but not exclusively \u2013 used on crops that have been genetically engineered to resist it. Several studies have linked blanket spraying with damage to surrounding flora, fauna and the entire food chain.  But the commission moved to relicense it last November, after a crucial European food safety authority (Efsa) report declared it unlikely to cause cancer, although that paper sparked controversy. Philip Miller, Monsanto\u2019s vice president of global regulatory affairs, condemned the EU\u2019s failure to reapprove glyphosate as \u201cscientifically unwarranted\u201d and \u201can unprecedented deviation from the EU\u2019s legislative framework\u201d. Writing in a blog post, he said: \u201cThis delay undermines the credibility of the European regulatory process and threatens to put European farmers and the European agriculture and chemical industries at a competitive disadvantage.\u201d Richard Garnett, the head of Monsanto\u2019s regulatory affairs unit said that the situation was \u201cdiscriminatory, disproportionate and wholly unjustified\u201d. The US agri-giant is currently the subject of a takeover bid by the German chemicals multinational, Bayer.  Under bloc rules, the commission could now go to an appeals committee but this would have the same balance of countries as the standing committee that has now twice failed to take a decision.  It could also go over the heads of the EU states and independently reauthorise glyphosate as a draft measure. The EU president Jean-Claude Juncker has said that he opposes doing this and officials doubt it will happen, although the procedure has been used to approve GM crops for import. A short-term license might also be possible. Glyphosate is so ubiquitous that its residues are commonly found in breads, beers and human bodies. More than 99% of people in one recent German survey were found to have traces of the compound in their urine, 75% of them at levels five times the safe limit for water or above.  But the very definition of a safe limit for chemicals such as glyphosate is contested, and linked to a broader regulatory divide between the US\u2019s risk-based approach which errs towards product approvals where doubt cannot be quantified, and the EU\u2019s hazard-based approach, which leans towards a precautionary principle in such situations. Dr Paul Neve, a weed biologist at Rothamsted Research, argued that glyphosate was a critical component of current crop protection strategies. \u201cDecisions on future glyphosate registration have to take full account of the economic and environmental consequences across farms, both nationally and within the EU,\u201d he said.  The National Farming Union\u2019s vice president Guy Smith added: \u201cIt is essential that farmers and the environment are given every chance to thrive and I very much urge member state experts to listen to the scientific advice, and re-authorise glyphosate.\u201d  However, after 1.4 million people signed a petition calling for glyphosate to be banned, campaign groups welcomed today\u2019s vote as a sign that citizen concerns were being listened to. Pascal Vollenweider, the campaign director of Avaaz, which organised the poll, said: \u201cGovernments are beginning to understand that their citizens refuse to be treated as lab rats. Monsanto and other chemical giants are used to getting their way, but public pressure has forced politicians to stand firm behind the precautionary principle.\u201d  In the EU standing committee which failed to take a decision today, the UK strongly backed a new license for glyphosate. Germany abstained, along with Sweden and Italy. Opposition to the relicensing is thought to have been led by France, which has banned the substance.",
+  "webTitle": "Monsanto weedkiller faces recall from Europe's shops after EU fail to agree deal",
+  "webPublicationDate": "2016-05-20T09:09:49Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/20/monsanto-weedkiller-faces-recall-from-europes-shops-after-eu-fail-to-agree-deal",
+  "keyword": [
+    {
+      "webTitle": "Herbicides",
+      "id": "environment/herbicides",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Farming",
+      "id": "environment/farming",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Food",
+      "id": "environment/food",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "GM",
+      "id": "environment/gm",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Pesticides",
+      "id": "environment/pesticides",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Arthur Neslen",
+      "id": "profile/arthurneslen"
+    }
+  ],
+  "guardianId": "environment/2016/may/20/monsanto-weedkiller-faces-recall-from-europes-shops-after-eu-fail-to-agree-deal"
+}

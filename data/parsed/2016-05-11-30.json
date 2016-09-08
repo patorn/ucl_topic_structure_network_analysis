@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/11/workplace-injury-illness-online-labor-department",
+  "id": "2016-05-11-30",
+  "sectionId": "business",
+  "body": "Workers and the public will for the first time be able to go online to see details of employee injuries and illnesses \u2013 for instance, the number of broken ribs or amputations - at tens of thousands of American workplaces, under a new Labor Department rule announced on Thursday.   Related: US businesses attack new labor rule aimed at curbing union-busting tactics    The Labor Department\u2019s Occupational Safety and Health Administration (OSHA) announced a final rule that will require many employers to send OSHA injury and illness data that the agency will then post online. OSHA officials said the rule aims to create more transparency to help workers, companies, the public and the government know more about workplace injuries and to pressure businesses to do more to reduce job-related injuries Business groups were quick to attack the new rule, saying it was an unwelcome new employer mandate and also posed the risk of public embarrassment. David Michaels, OSHA\u2019s director, asserted that the new rule placed little additional burden on companies. \u201cEmployers don\u2019t have to do anything else than send us data that they\u2019re already collecting,\u201d he said. Rosario Palmieri, a vice-president with the National Association of Manufacturers, said that while companies pride themselves on creating safer workplaces, \u201cthis regulation will lead to the unfair and unnecessary public shaming\u201d of many businesses. \u201cThis,\u201d he added in a statement, \u201cis a misguided attempt at transparency that sacrifices employee and employer privacy.\u201d OSHA officials said the new rule was inspired by the teachings of behavioral economics. Just as restaurants have sought to improve their health and cleanliness records when cities began giving out letter grades, Michaels said, employers will do more to reduce workplace injuries and illnesses once the agency begins posting injury information about specific companies. \u201cWe will now make public all this information and try to do it in a way that really encourages employees to take action to reduce injuries,\u201d Michaels said. \u201cMaking information public affects behavior. If you\u2019re looking for a new job, you might want to work at an establishment where you don\u2019t have a high likelihood of being injured.\u201d As an example, he mentioned two nursing homes several miles apart in North Carolina \u2013 one with an injury rate five times greater than the other. At one home, one in nine workers get injured per year, at the other, one in 45 workers get injured. Under current rules, employers must keep a log of work-related injuries and illness, and those logs can be viewed by employees and the occasional OSHA inspector who visits. With the new rule, workplaces with 250 or more employees in \u201chigh-hazard industries\u201d must electronically send OSHA detailed injury and illness information. High-hazard industries include construction, manufacturing, grocery stores, freight trucking, waste collection, hospitals and nursing homes.  With this information, OSHA might, for instance, post online that at a 500-employee factory, two employees suffered broken arms and three amputated fingers during the previous year. Or OSHA might post that at a hospital with 300 employees, three workers contracted hepatitis B and two slipped a disc while lifting patients. \u201cCurrently, little or no information about worker injuries and illnesses at individual employers is made public or available to OSHA,\u201d the agency said.  The new rules will require 34,000 \u201chigh hazard\u201d workplaces with 250 or more employees to send OSHA information, and the agency will post the names of those workplaces and list the specific injuries \u2013 first removing any information that might personally identify individuals. Some 432,000 workplaces with 20 to 249 employees in high-hazard industries will be required to report considerably less \u2013 just the total number of injuries and illnesses and the total number of hours worked at that establishment the previous year. Associated Builders and Contractors, a nationwide association of construction companies, attacked the new rule. Greg Sizemore, its vice-president for health and safety, said, \u201cOSHA has exceeded its authority by forcing companies to reveal confidential business details to the public\u201d Sizemore also criticized the agency for disseminating \u201cdata to the public that fails to show the complete narrative of a company\u2019s safety record\u201d.  The new requirements will be phased in over two years, with the first set of data to be sent to OSHA by July 2017. The new rule makes it easier for workers to report injuries and illnesses and gives workers additional remedies if employers illegally retaliate against them for reporting or seeking to report injuries. Michaels said the new rule will aid many employers by enabling them to compare their safety records with other employers, and thereby help them develop benchmarks to strive for. Richard Trumka, president of the AFL-CIO, the main US union federation, praised OSHA\u2019s move. \u201cThe new OSHA injury reporting rules will bring workplace injury and illness reporting into the 21st century and provide important new protections to workers who report injuries,\u201d he said in a statement. \u201cUntil now, most workplace injury records have only been available at the workplace, making it impossible to know which employers have bad or good injury records.\u201d",
+  "webTitle": "Public to get online access to US workplaces' injury and illness records",
+  "webPublicationDate": "2016-05-11T21:07:50Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/11/workplace-injury-illness-online-labor-department",
+  "keyword": [
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US unions",
+      "id": "us-news/us-unions",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US work & careers",
+      "id": "money/work-careers-us",
+      "sectionId": "money",
+      "sectionName": "Money"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Steven Greenhouse",
+      "id": "profile/steven-greenhouse"
+    }
+  ],
+  "guardianId": "business/2016/may/11/workplace-injury-illness-online-labor-department"
+}

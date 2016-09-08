@@ -1,0 +1,67 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/03/hs2-should-be-run-by-the-french",
+  "id": "2016-05-03-52",
+  "sectionId": "uk-news",
+  "body": "Has Jeremy Heywood been given a poisoned chalice to review HS2 (HS2 budget scrutinised by head of civil service, 3\u00a0May)? It has almost become an article of religious railway faith that HS2 must be good for Britain, whatever the cost. Never mind how else the money could be spent \u2013 on housing, schools, hospitals etc \u2013 nor the operating subsidy HS2 will need. As many of our rail services are operated by French, Dutch and German companies, perhaps as with Hinkley Point, the government might invite French state-owned SNCF to build HS2 at an affordable cost? At least SNCF has a track record with the first European high speed line in 1981, and now a network of over 2,000km, with a new line opening in 2017 to Bordeaux \u2013 same length as London to Manchester \u2013 costing 20% of HS2.Professor LJS LesleyLiverpool  \u2022 Join the debate \u2013 email guardian.letters@theguardian.com",
+  "webTitle": "HS2 should be run by the French | Letters",
+  "webPublicationDate": "2016-05-03T18:52:02Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/03/hs2-should-be-run-by-the-french",
+  "keyword": [
+    {
+      "webTitle": "HS2",
+      "id": "uk/hs2",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Rail transport",
+      "id": "uk/rail-transport",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Transport policy",
+      "id": "politics/transport",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Transport",
+      "id": "uk/transport",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "France",
+      "id": "world/france",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [],
+  "guardianId": "uk-news/2016/may/03/hs2-should-be-run-by-the-french"
+}

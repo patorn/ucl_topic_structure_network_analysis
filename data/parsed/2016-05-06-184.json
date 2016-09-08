@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/06/thomas-cook-cabin-crew-strike-threat-may-half-term-school-holiday",
+  "id": "2016-05-06-184",
+  "sectionId": "business",
+  "body": "Thomas Cook cabin crew are voting on possible strike action during the May half-term school holiday in a dispute over health and safety after changes to their rest breaks.  Cabin crew will be allowed one 20-minute break over 12 hours, according to Unite, Britain\u2019s largest union, and more than 1,000 cabin crew have begun voting in a ballot for industrial action.  Unite said there were mounting concerns that cabin crew were being pushed to the limit in an attempt to maximise profits, putting passenger safety at risk. It accused the travel company of a \u201crepeated refusal to agree to talks and reach a sensible negotiated solution\u201d.  A Thomas Cook spokesperson said: \u201cWe would like to reassure our customers that nothing matters more to us than safety. It\u2019s regrettable the union has chosen this path because the crew rest procedure, which includes monitoring all crew rest on all flights, was introduced with the agreement of the union. It also meets the regulations of industry experts the Civil Aviation Authority and does not compromise on safety. \u201cWe have offered to meet union representatives and the message we hear directly from our crew is that they\u2019re looking forward to a great summer of flying customers on holiday.\u201d The ballot of staff who work on flights to popular tourist destinations from 10 airports across the UK closes on 25 May, and could lead to industrial action taking place during half term. Cabin crew typically work shifts of 10-15 hours and up to 60 hours a week. Shifts include pre-flight preparations, safety and security checks, boarding, inflight service of headsets, drinks, food, duty-free sales and other promotions. The union said staff were previously entitled to a 20-minute break every six hours. Thomas Cook has introduced an Airshoppen service. This additional inflight service allows passengers to order goods online before their flights and have them delivered to their seats. It involves cabin crew sorting and bagging orders before takeoff and collecting payment during the flight. The service could take up to two hours to deliver, Unite said. The union\u2019s national officer, Oliver Richardson, said: \u201cOur members are deeply concerned about the impact these changes to rest breaks are having on inflight safety. Fatigue is a major contributory factor to accidents and slower response times when there is an incident.  \u201cThe primary purpose of cabin crew is the safety of passengers, but instead Thomas Cook seems intent on working them to the bone to extract as much money as possible out of passengers at the expense of safety.\u201d",
+  "webTitle": "Thomas Cook faces strike threat during May half-term holiday",
+  "webPublicationDate": "2016-05-06T12:03:45Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/06/thomas-cook-cabin-crew-strike-threat-may-half-term-school-holiday",
+  "keyword": [
+    {
+      "webTitle": "Thomas Cook",
+      "id": "business/thomascookgroup",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Travel & leisure",
+      "id": "business/travelleisure",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Travel",
+      "id": "travel/travel",
+      "sectionId": "travel",
+      "sectionName": "Travel"
+    },
+    {
+      "webTitle": "Flights",
+      "id": "travel/flights",
+      "sectionId": "travel",
+      "sectionName": "Travel"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Julia Kollewe",
+      "id": "profile/juliakollewe"
+    }
+  ],
+  "guardianId": "business/2016/may/06/thomas-cook-cabin-crew-strike-threat-may-half-term-school-holiday"
+}

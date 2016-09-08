@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/17/land-securities-sells-11bn-of-uk-assets-brexit-risk",
+  "id": "2016-05-17-145",
+  "sectionId": "business",
+  "body": "Britain\u2019s biggest listed property developer has sold more than \u00a31bn of its assets in the UK because of growing risks to the market, which it has said includes the chance of the country voting to leave the EU next month.  Land Securities, which best known for the \u201cWalkie Talkie\u201d building in the City of London, sold off \u00a31.1bn assets in the six months to the end of March as it saw \u201cwider economic and political uncertainty increasing\u201d.    Related: EU referendum: barrage of grim forecasts takes aim at our homes    Rob Noel, its chief executive, said: \u201cAs risk has been rising outside the business, we have been reducing risk inside the business.\u201d  He said Brexit would lead to \u201cfalling rental values and a reduction in construction commitments, particularly in London. So an exit could be painful for the property industry and those it supports.\u201d But Noel added that the company was in \u201cterrific shape\u201d before the referendum on 23 June. The group\u2019s asset disposals in London included Thomas More Square, a business estate near the City; the Holborn Gate office building and Haymarket House, a building with offices and shops in the West End. It also sold off several retail and leisure assets around the country. Land Securities said the asset sales reduced its loan-to-value ratio to 22%, down from 28.5% a year ago and its lowest level in many years.  The company made a pre-tax profit of \u00a31.3bn, down 45%, but revenue profit, which excludes valuation movements and one-off items, rose 10% to \u00a3362m. Its net asset value, a key measure for property companies, increased 10.3% to \u00a314.82 a share in the year to 31 March.  The group raised its dividend by 9.9% to 35p. Its shares rose 3.2% to \u00a311.75.",
+  "webTitle": "Land Securities sells \u00a31.1bn of UK assets over Brexit risk",
+  "webPublicationDate": "2016-05-17T13:59:45Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/17/land-securities-sells-11bn-of-uk-assets-brexit-risk",
+  "keyword": [
+    {
+      "webTitle": "Land Securities",
+      "id": "business/land-securities",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Real estate",
+      "id": "business/realestate",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Construction industry",
+      "id": "business/construction",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Julia Kollewe",
+      "id": "profile/juliakollewe"
+    }
+  ],
+  "guardianId": "business/2016/may/17/land-securities-sells-11bn-of-uk-assets-brexit-risk"
+}

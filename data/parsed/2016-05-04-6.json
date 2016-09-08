@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/05/oil-giants-should-ditch-high-cost-projects-thinktank-says",
+  "id": "2016-05-04-6",
+  "sectionId": "business",
+  "body": "Shell, BP and five other top oil companies could raise their collective stock market value by up to $140bn (\u00a397bn) if they set new strategies based on ensuring global warming is held to a 2C (4F) rise above pre-industrial levels, a new report claims on Thursday. These leading energy companies including Exxon Mobil should ditch high-cost projects in deep water and Canadian tar sands to concentrate on cheaper schemes that make money at low crude prices, says the report, Sense and Sensitivity, by the Carbon Tracker Initiative. The report follows shareholder resolutions calling on oil companies to undertake \u201cstress tests\u201d on operations in the face of stronger carbon regulation and weakening fossil fuel demand as countries move to lower-carbon economies. \u201cA simple carbon sensitivity analysis shows that oil majors pursuing volume at all costs can deliver lower shareholder value than a more disciplined approach. That is why financial regulators need to make 2C stress tests standard practice for the energy sector to help avoid companies wasting capital,\u201d said James Leaton, research director at Carbon Tracker, a non-profit financial thinktank.  Shell and others have been criticised by environmentalists for setting allegedly unrealistic goals for their oil and gas output that could only be realised with the Earth\u2019s temperatures rising by as much as a further 4C.  The industry argues it is always trying to lower its carbon emissions while at the same time meeting the needs of a growing world population and helping to alleviate fuel poverty. The new Carbon Tracker analysis compares a business-as-usual value of the oil companies with one where only those lower-cost projects are needed to satisfy a reduced need for their products. \u201cIn a 2C world, the major oil and gas companies will need to manage declining demand for oil. However, this can still prove to be a value\u00ad-add proposition if they simply avoid developing high-cost, high-carbon projects,\u201d said Mark Fulton, a former Deutche Bank analyst who is now an adviser to Carbon Tracker and co\u2010author of the new report.  The analysis came as Shell reported first quarter profits down 83% to $800m and promised to speed up cost-cutting in the light of its acquisition of BG and a continued slump in oil prices.",
+  "webTitle": "Oil giants should ditch high-cost projects, thinktank says",
+  "webPublicationDate": "2016-05-04T23:01:35Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/05/oil-giants-should-ditch-high-cost-projects-thinktank-says",
+  "keyword": [
+    {
+      "webTitle": "Royal Dutch Shell",
+      "id": "business/royaldutchshell",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "BP",
+      "id": "business/bp",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Exxon Mobil",
+      "id": "business/exxonmobil",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Oil",
+      "id": "business/oil",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Energy industry",
+      "id": "business/energy-industry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Oil and gas companies",
+      "id": "business/oilandgascompanies",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Climate change",
+      "id": "environment/climate-change",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Terry Macalister",
+      "id": "profile/terrymacalister"
+    }
+  ],
+  "guardianId": "business/2016/may/05/oil-giants-should-ditch-high-cost-projects-thinktank-says"
+}

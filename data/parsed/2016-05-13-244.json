@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/us-news/2016/may/13/chicago-midway-airport-queue-video-goes-viral",
+  "id": "2016-05-13-244",
+  "sectionId": "us-news",
+  "body": "A video showing an extremely long security queue at Chicago Midway airport has gone viral, after travellers complained of having to wait up to two hours. The clip, which has been viewed more than 600,000 times in a day, was filmed by a passenger who became increasingly frustrated. For two minutes, he followed the security line all the way to what appears to be an exit.         Warning: video contains strong language at end    While ABC 7 Chicago reported that the queue was about an hour long, social media users said it was double that, with one saying it went as far as to the car park. According to ABC 7, queues were reduced to normal by about 10pm on Thursday.    This morning #Chicago #midwayairport #TSA #security lines were so long, as far as to the parking garage pic.twitter.com/UpGRVNcsIz\u2014 Mirko Pintar (@mp754) May 6, 2016    Last week, the US Transportation Security Administration (TSA) warned of delays owing to a shortage of staff.  Gary Rasicot, the TSA chief of operations, told the New York Times: \u201cWe are probably not at the staffing level we would like to be to address the volume. This is why we are talking about people getting to the airport a little earlier than planned.\u201d     The queue stretches out of sight. Photograph: Youtube",
+  "webTitle": "'Two-hour' Chicago airport queue video goes viral",
+  "webPublicationDate": "2016-05-13T10:12:40Z",
+  "webUrl": "https://www.theguardian.com/us-news/2016/may/13/chicago-midway-airport-queue-video-goes-viral",
+  "keyword": [
+    {
+      "webTitle": "Chicago",
+      "id": "us-news/chicago",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Air transport",
+      "id": "world/air-transport",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Nadia Khomami",
+      "id": "profile/nadia-khomami"
+    }
+  ],
+  "guardianId": "us-news/2016/may/13/chicago-midway-airport-queue-video-goes-viral"
+}

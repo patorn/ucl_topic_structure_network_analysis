@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/23/brexit-longer-waiting-times-for-new-medicines-drugs-medical-devices-warn-experts",
+  "id": "2016-05-23-147",
+  "sectionId": "politics",
+  "body": "Leaving the EU could mean it takes several months longer for new drugs and medical devices to become available in the UK, and reduce Britain\u2019s influence in how such products are regulated, experts have warned. At present, the European Medicines Agency (EMA), which approves new medicines and medical devices across Europe is based in London.   Brexit explained: NHS and Brexit   But speaking at a press conference in London, a group of scientists have warned that, should Brexit go ahead, the EMA would relocate to mainland Europe, potentially leaving Britain without a voice when it comes to how medical products are regulated. \u201cThere is no question about it, if we were to leave the European Union, the EMA would go,\u201d said Sir Michael Rawlins, chair of the UK\u2019s Medicines and Healthcare Products Regulatory Agency (MHRA). The MHRA plays a key role in regulation, conducting around 40% of the scientific evaluations used by the EMA to approve new products. The scientists also raised concerns that Brexit could mean that pharmaceutical companies may have to re-register large numbers of drugs for the UK market. What\u2019s more, the MHRA is not in a position to take on the burden of regulation should the approval of drugs in the UK no longer be down to the EMA, they add. \u201cWe\u2019d have to enlarge ourselves hugely because we\u2019d have to evaluate all new drugs,\u201d said Rawlins. \u201cNot only that, but I don\u2019t know how it would be paid for,\u201d he added, pointing out that companies would expect to pay far less to have a drug approved for the UK alone: currently approval in one EU country means a new drug or device can be used across Europe.   Related: EU membership accelerates medical innovation and protects patients    \u201cIf we do leave we need to be very aware of the size of the UK market and the attractiveness of Britain outside of Europe in our industry,\u201d said Melanie Lee, chief scientific officer of the pharmaceutical company BTG plc. \u201cWe are 3% of the global market, whereas if we are with the EU we are 27% of the global market.\u201d  There are also concerns that Brexit would make it more difficult to monitor side-effects from new drugs and devices, and that it could take longer for new products to appear on the market in the UK. \u201cIf you look at what happens in those countries that aren\u2019t part of the EU, on average it takes longer to get new medicines approved,\u201d said Patrick Vallance, president of pharmaceutical research and development at GlaxoSmithKline. \u201cOn average it is 157 days longer for Switzerland, and on average it takes Canada 140 days longer\u201d. \u201cWe are in an era now of an unprecedented upswing in the potential to make new medicines - the pipelines are fuller across industry, there are cures coming through that there haven\u2019t really been in the past, the last thing anyone needs in the middle of that is massive regulatory uncertainty,\u201d he added.   Related: Why I am wrong about Brexit, and you are too    Simon Wessely, chair of psychological medicine at King\u2019s College London and a founder member of Healthier in the EU, believes that with many healthcare issues common to the global stage, there is little benefit to severing ties with Europe. \u201cIf we look at the threats that we have from bugs - whether there is resistance to antibiotics or not - from climate change, from pollution, from tobacco smuggling, from all of these things, we can do everything we possibly can to set our own house in order,\u201d he said. \u201cBut unless we act on an EU scale and ultimately a global scale as well, it will be all for nothing.\u201d But Matthew Elliott, Vote Leave chief executive, said: \u201cThe EU has proven that it is no friend of science. The clinical trials directive was devastating for cancer research, increasing costs and delaying the start of trials. After we vote leave, we can invest some of the \u00a3350 million we send to the EU every week in science to ensure that the UK continues to lead the field in groundbreaking medical research.\u201d",
+  "webTitle": "Brexit could lead to longer waiting times for new medicines, warn experts",
+  "webPublicationDate": "2016-05-23T14:32:20Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/23/brexit-longer-waiting-times-for-new-medicines-drugs-medical-devices-warn-experts",
+  "keyword": [
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Drugs",
+      "id": "science/drugs",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Pharmaceuticals industry",
+      "id": "business/pharmaceuticals-industry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Nicola Davis",
+      "id": "profile/nicola-davis"
+    }
+  ],
+  "guardianId": "politics/2016/may/23/brexit-longer-waiting-times-for-new-medicines-drugs-medical-devices-warn-experts"
+}

@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/29/early-computers-design-apple-docubyte-photography",
+  "id": "2016-05-29-119",
+  "sectionId": "technology",
+  "body": "\u201cDials and buttons, knobs and switches; they\u2019re very charming,\u201d says James Ball, the digital art director behind a new photography series called Guide to Computing, which celebrates early computers. Ball, who works under the pseudonym Docubyte, began the project after developing a fascination and affection for such retro devices. \u201cIt\u2019s rare now to find any machine that you can touch and interact with,\u201d he says. \u201cComputers now are all touch screens, slick and super-slim.\u201d Ball feels that computers that pre-date the Apple era aren\u2019t widely considered to be design pieces, and his nostalgia for this earlier, more \u201cnaive\u201d aesthetic led him to seek out and photograph a range of machines that date from the latter half of the 20th century, representing them as if they were new and desirable products.     Harwell Dekatron: This enormous, still functional machine predates the use of punch cards. Photograph: docubyte/INK    After shooting the machines, which he largely found in the Science Museum in London, the Dresden Technical Collections and the National Museum of Computing at Bletchley Park, Ball painstakingly enhanced the images with the help of his colleagues at INK studio to make the computers look new. \u201cThe retouching is quite important to the piece\u201d, he says, taking as an example the Pilot ACE, an early 1950s computer designed by Alan Turing, now in a state of semi-disrepair. \u201cThere are no colour photographs of it when it was new, so in a way we were making a new history, presenting the past in a new context.\u201d     ICL 7500: the user command console that accompanied a range of popular, British-designed mainframe computers during the 1970s and 1980s. Photograph: docubyte/INK    Among the eye-catching machines in the series is the Harwell Dekatron, a two-metre tall, 2.5 tonne monster from 1951 which is the world\u2019s oldest functioning computer, and the Control Data 6600 from the 1960s, often called the first \u201csupercomputer\u201d. \u201cThey look nice,\u201d says Ball, \u201cbut I\u2019d still like to do a comprehensive, quite nerdy book which is actually a guide to computing history.\u201d With an air of affectionate poignancy, he points out that each of his images, rendered as a jpeg, is about 5mb in size \u2013 larger than any file that the individual computers could sustain. \u201cWithout sounding woefully pretentious,\u201d he says, \u201cthey\u2019re beautiful in their obsolescence.\u201d     CDC 6600: Designed by the \u2018father of supercomputing\u2019 Seymour Cray and first used in the Cern laboratory in 1965. It was the fastest computer for many years, humiliating its IBM rivals. Photograph: docubyte/INK",
+  "webTitle": "Early computers as objets d\u2019art",
+  "webPublicationDate": "2016-05-29T09:30:00Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/29/early-computers-design-apple-docubyte-photography",
+  "keyword": [
+    {
+      "webTitle": "Computing",
+      "id": "technology/computing",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Photography",
+      "id": "technology/photography",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Alan Turing",
+      "id": "science/alan-turing",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Kit Buchan",
+      "id": "profile/kit-buchan"
+    }
+  ],
+  "guardianId": "technology/2016/may/29/early-computers-design-apple-docubyte-photography"
+}

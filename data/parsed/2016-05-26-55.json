@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/26/minuscule-valley-of-the-lost-ants-review-thomas-szabo-helene-giraud",
+  "id": "2016-05-26-55",
+  "sectionId": "film",
+  "body": "Invoking storytelling and cinematic traditions that are more than a century old, yet deploying the most sophisticated technology to create its hyper-realist textures, this wonderful French cartoon is entirely dialogue free. In a world made by inserting CGI insect characters into a real landscape, a ladybird gets separated from its family and falls in with a friendly army of black ants. A rival army of other red ants are the baddies, and communication is conveyed through peeps, growls, squawks, farts and antennae gestures while music does the rest. Somehow, directors Thomas Szabo and H\u00e9l\u00e8ne Giraud imbue the characters with so much expressiveness that the story is mesmerising throughout.",
+  "webTitle": "Minuscule: Valley of the Lost Ants review \u2013 mesmerising dialogue-free cartoon",
+  "webPublicationDate": "2016-05-26T20:15:12Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/26/minuscule-valley-of-the-lost-ants-review-thomas-szabo-helene-giraud",
+  "keyword": [
+    {
+      "webTitle": "Animation",
+      "id": "film/animation",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Family",
+      "id": "film/family",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Insects",
+      "id": "environment/insects",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Leslie Felperin",
+      "id": "profile/lesliefelperin"
+    }
+  ],
+  "guardianId": "film/2016/may/26/minuscule-valley-of-the-lost-ants-review-thomas-szabo-helene-giraud"
+}

@@ -1,0 +1,84 @@
+{
+  "apiUrl": "https://content.guardianapis.com/cities/2016/may/04/london-tube-maps-underground-reimagined-alternative-in-pictures",
+  "id": "2016-05-04-227",
+  "sectionId": "cities",
+  "body": "Cost of living. This map reveals the average monthly cost of renting a one-bedroom flat at every stop on the London Underground network. Hyde Park is the most expensive at \u00a32,920m, and Hatton Cross comes in cheapest at \u00a3324. Photograph: Thrillist       One day in the life of the Tube. This visualisation shows 562,145 journeys on the network, from a 5% sample of Oyster-card journeys during a week in 2009. One coloured dot equals one person: direction of travel and use stands out particularly during rush hour.      Geographically accurate. This map shows the accurate layout of the tube network, and the real distances between each stop. Photograph: Transport for London       Life expectancy. In the Lives on the Line project, academics at UCL have mapped the average length of life of residents at each tube stop on the Underground network. See the full version here. Photograph: James Cheshire           Disabled use. The Centre for Advanced Spatial Analysis at the Bartlett, UCL used TfL data of Disabled Freedom Pass Card journeys to create real-time visualisations of tube use by disabled people.       Art nouveau. A map produced in the style of Glaswegian architect and designer Charles Rennie Mackintosh. The map displays the Underground network as it would have been at the time of his death in 1928. Photograph: Max Roberts       The tube in 3D. Brazilian web developer Bruno Imbrizi has used publicly available data from TfL to create this three-dimensional visualisation of the tube system, with each dot representing a station. View the interactive version here. Photograph: Bruno Imbrizi       Everything in one map. Created by cartographer Franklin Jarrier, this map combines detailed track diagrams with the geographical layout of the entire network, showing every platform, line and interchange. Photograph: Franklin Jarrier       The Night Tube. Despite various initial launch dates, the most recent being January 2016, strike action means the after-hours service \u2013 which currently runs in cities like Berlin, Sydney and Copenhagen \u2013 has been delayed. The Night Tube map, released by TfL, simply used a normal tube map and removed the lines not included \u2013 but Max Roberts has created this new, contextualised version. Photograph: Max Roberts       London plays New York. The London Underground in the style of the Big Apple\u2019s subway map from 1972. Photograph: Max Roberts       The future, as seen in 2004. Twelve years ago, based on developments in the pipeline, TfL created a map of what the transport network would look like in 2016. It looks relatively the same as the real thing today, with the major difference being Crossrail, which has faced several delays since this optimistic map was published. Photograph: Transport for London       London in 60 seconds. Simon Rogers created a one-minute whirlwind tour of the growth of the city\u2019s transport system, marking each rail and tube station by their opening dates.      The pedestrian tube. This map shows the time on foot between each station. The shortest gap is the 300 metres between Leicester Square and Covent Garden ... which even TfL recommends you walk. Photograph: Transport for London",
+  "webTitle": "London, reimagined: alternative tube maps \u2013 in pictures",
+  "webPublicationDate": "2016-05-04T11:15:54Z",
+  "webUrl": "https://www.theguardian.com/cities/2016/may/04/london-tube-maps-underground-reimagined-alternative-in-pictures",
+  "keyword": [
+    {
+      "webTitle": "Cities",
+      "id": "cities/cities",
+      "sectionId": "cities",
+      "sectionName": "Cities"
+    },
+    {
+      "webTitle": "Maps",
+      "id": "travel/travel-maps",
+      "sectionId": "travel",
+      "sectionName": "Travel"
+    },
+    {
+      "webTitle": "Transport",
+      "id": "uk/transport",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "London",
+      "id": "uk/london",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Travel",
+      "id": "travel/travel",
+      "sectionId": "travel",
+      "sectionName": "Travel"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Mayoral elections",
+      "id": "politics/mayoral-elections",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "London mayoral election 2016",
+      "id": "politics/london-mayoral-election-2016",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Art and design",
+      "id": "artanddesign/artanddesign",
+      "sectionId": "artanddesign",
+      "sectionName": "Art and design"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Athlyn Cathcart-Keays",
+      "id": "profile/athlyn-cathcart-keays"
+    }
+  ],
+  "guardianId": "cities/2016/may/04/london-tube-maps-underground-reimagined-alternative-in-pictures"
+}

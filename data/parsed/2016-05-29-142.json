@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/28/lightning-strikes-over-paris-leave-several-injured",
+  "id": "2016-05-29-142",
+  "sectionId": "world",
+  "body": "One man has died and scores of people been injured, including children, as lightning strikes hit several parts of Europe, including a park in Paris and a football pitch in Germany. A bolt of lightning killed a man hiking in mountains in south-west Poland on Saturday. Storm lightning injured three others in the same region, and a 61-year-old man drowned in flash flooding. In Germany, more than 30 people were taken to hospital in the western village of Hoppst\u00e4dten when lightning struck at the end of a junior football match. Three adults were seriously injured, including the referee who was hit directly and had to be resuscitated before being airlifted to hospital. Eleven people, including eight children, were injured when lightning struck as they were celebrating a birthday party in a park in north-west Paris. The children, aged between seven and eight years old, took shelter beneath a tree when the storm broke. A hospital spokesman said one child remained in a serious condition. Officials said the situation would have been much worse if an off-duty firefighter, Pascal Gremillot, who happened to be close by, had not been able to quickly administer first aid and heart massages. Eric Moulin, Paris fire service spokesman, said the group had rushed under a tree to shelter when it began to rain. \u201cIt was while they were heading for shelter, when they were still near a tree, that the lightning fell,\u201d he said. Michel Daloz of weather agency Meteo-France said that between 100 and 200 people are struck by lightning every year in the country, killing between 10 and 20 people. Storm alerts had been issued for several regions across France on Saturday, warning of the possibility of violent weather \u2013 but Paris was not on the list. Witnesses to the German lightning strike reported that it happened without warning. \u201cThere was no rain and the sky wasn\u2019t dark,\u201d a police spokesman said. Twenty-nine children, aged between nine and 11, were taken to hospital for tests but later released officials said.  German weather experts issued storm alerts for the country\u2019s west and south. Storm Elvira had already caused torrential rain, hail and flooding in some areas. In Rhineland-Palatinate, the region where Hoppst\u00e4dten is located, bad weather caused a train to derail on Friday, but there were no injuries. Weather experts said the storms were the result of a very \u201cunstable\u201d atmosphere over mainland north-west Europe. At the same time the air higher up in the atmosphere was becoming colder, creating a very \u201cunstable\u201d atmosphere.  Further storms are forecast over south and east Germany, the Czech Republic and Poland on Sunday.",
+  "webTitle": "Lightning strikes kill man in Poland and injure dozens across Europe",
+  "webPublicationDate": "2016-05-29T07:14:50Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/28/lightning-strikes-over-paris-leave-several-injured",
+  "keyword": [
+    {
+      "webTitle": "France",
+      "id": "world/france",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "David Connett",
+      "id": "profile/davidconnett"
+    }
+  ],
+  "guardianId": "world/2016/may/28/lightning-strikes-over-paris-leave-several-injured"
+}

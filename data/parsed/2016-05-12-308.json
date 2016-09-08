@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/12/talktalk-profits-halve-hack-cyber-attack",
+  "id": "2016-05-12-308",
+  "sectionId": "business",
+  "body": "TalkTalk profits more than halved following a cyber-attack in which the personal details of thousands of customers were hacked. The telecoms company was hit with \u00a342m in costs when almost 157,000 customers were affected by the attack in October last year. Almost one in 10 of those customers had their bank account numbers and sort codes accessed. Pre-tax profit fell to \u00a314m in the year to 31 March, from \u00a332m a year earlier. The share price was up just over 1% at 274p on Thursday afternoon.  TalkTalk insisted it \u201crecovered strongly\u201d in the fourth quarter following the attack, after losing 95,000 customers in the third quarter as a direct result of the hacking. Dido Harding, its chief executive, said: \u201cThe business bounced back strongly in the final quarter following the cyber-attack in October.  \u201cWe recorded our lowest ever churn and stabilised the broadband base, testimony to the speed with which customer sentiment towards TalkTalk has recovered, the success of our greater focus on existing customers, and the growing benefits of our simplification programme. \u201cWe take security incredibly seriously; we thought we took it very seriously before. We have brought forward spending on security.\u201d TalkTalk maintained its guidance for underlying earnings in the 2017 financial year of \u00a3320m-\u00a3360m. The board recommended a final dividend of 10.58p a share, taking the full-year dividend to 15.87p, up 15% compared with the previous year. Steve Clayton, head of equity research at Hargreaves Lansdown, said: \u201cTalkTalk had a torrid year, grabbing the headlines for all the wrong reasons after the cyber-attack that was initially thought to have seen significant amounts of customer data stolen, but which turned out to be of a far smaller scale than first feared. \u201c[The company is] sounding confident about the future, but at the same time, suggesting that profits will be low in the first half of the current financial year, with the money flooding in in the second half.  \u201cThe shares have recovered well from the lows they reached after the cyber-attack. If TalkTalk can deliver on its cost savings plans, and continue to increase its quad-play customer base, then there could be an attractive level of income on offer ... but there is little margin for error, given the low level of dividend cover.\u201d",
+  "webTitle": "TalkTalk profits halve after cyber-attack",
+  "webPublicationDate": "2016-05-12T08:42:23Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/12/talktalk-profits-halve-hack-cyber-attack",
+  "keyword": [
+    {
+      "webTitle": "TalkTalk",
+      "id": "business/talk-talk-telecom",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Cybercrime",
+      "id": "technology/cybercrime",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Internet",
+      "id": "technology/internet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Telecommunications industry",
+      "id": "business/telecoms",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Hacking",
+      "id": "technology/hacking",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Angela Monaghan",
+      "id": "profile/angela-monaghan"
+    }
+  ],
+  "guardianId": "business/2016/may/12/talktalk-profits-halve-hack-cyber-attack"
+}

@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/11/government-resists-lords-calls-vote-bbc-white-paper",
+  "id": "2016-05-11-123",
+  "sectionId": "media",
+  "body": "The government has resisted calls in the House of Lords for a vote to be held on its controversial white paper on the future of the BBC when it is published on Thursday. Former Tory party chairman Norman Fowler and Labour peer Waheed Alli, one of the brains behind Channel 4\u2019s Big Breakfast, were among those calling for a vote on the government\u2019s proposals for the corporation.   Related: Salaries of top BBC stars will be made public under government plans    Lucy Neville-Rolfe, the parliamentary under secretary of state for culture, said there were no plans for a vote although the plans would be debated in both houses of parliament. Lady Neville-Rolfe was given the backing of another Tory peer, former BBC chairman Michael Grade, who said a vote would be unprecedented and a threat to the BBC\u2019s independence. \u201cI wonder if my noble friend shares my confusion,\u201d said Lord Grade. \u201cThere are many people who support the editorial independence of the BBC and yet at the same time they wish to see votes in parliament on the future of the BBC. \u201cI think those two things are entirely incompatible. One of the underpinnings of the independence of the BBC is there is never a vote on the BBC in either house.\u201d Lord Fowler said it was important that parliament was given \u201cnot only the opportunity to debate [the government\u2019s proposals] but also to vote on them rather than the decision being left solely with government ministers\u201d. Lord Alli added that the government had \u201c24 hours to think about it\u201d. The two peers, along with the Liberal Democrat Anthony Lester, will table a private members bill in the House of Lords next month if their concerns over the white paper are not met.   Related: The BBC\u2019s uncertain future | Letters    Neville-Rolfe said: \u201cWe will certainly debate it. I think the precise arrangements are a matter for the usual channels.\u201d She said ensuring the independence of the BBC was \u201cclose to our hearts\u201d. Labour peer Ray Collins said: \u201cThe pre-briefing over the last weeks has been extremely unhelpful. It makes me wonder whether the strategy is to make it sound so awful that the not so bad outcome sounds acceptable.\u201d",
+  "webTitle": "Government resists lords' calls for vote on BBC white paper",
+  "webPublicationDate": "2016-05-11T16:25:44Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/11/government-resists-lords-calls-vote-bbc-white-paper",
+  "keyword": [
+    {
+      "webTitle": "BBC",
+      "id": "media/bbc",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Television industry",
+      "id": "media/television",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Waheed Alli",
+      "id": "media/waheed-alli",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "House of Lords",
+      "id": "politics/lords",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "John Plunkett",
+      "id": "profile/johnplunkett"
+    }
+  ],
+  "guardianId": "media/2016/may/11/government-resists-lords-calls-vote-bbc-white-paper"
+}

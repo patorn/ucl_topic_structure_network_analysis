@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/02/football-federation-australia-to-investigate-flares-at-a-league-grand-final",
+  "id": "2016-05-02-272",
+  "sectionId": "football",
+  "body": "Defeated A-League grand finalists Western Sydney Wanderers face a nervous wait to hear of any possible sanctions after Football Federation Australia vowed to investigate the ignition of flares in Wanderers\u2019 supporter bays before and during Sunday\u2019s match at Adelaide Oval.   Related: Western Sydney facing points deduction after flares lit at A-League grand final    Two flares were let off, one before kick-off and one just after Pablo Sanchez scored Adelaide United\u2019s third goal late in the game, effectively sealing the result and securing a first A-League title for the club. \u201cIt\u2019s certainly something we\u2019ll need to look at, because we\u2019ve said very clearly over the last few months that flares are not on,\u201d FFA boss David Gallop said in Canberra on Monday. \u201cIt is something in the wash-up today and over the next few days we do need to have a look at.\u201d Wanderers were handed a $50,000 fine for the unruly behaviour of their fans in February this year. The club was also hit by a three-point deduction, which was suspended for a period of 12 months. The latest indiscretion raises the possibility of Wanderers beginning next season on minus-three points. Adelaide won the grand final 3-1, thanks to goals from Bruce Kamau, Isaias and Sanchez.",
+  "webTitle": "Football Federation Australia to investigate flares at A-League grand final",
+  "webPublicationDate": "2016-05-02T01:08:26Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/02/football-federation-australia-to-investigate-flares-at-a-league-grand-final",
+  "keyword": [
+    {
+      "webTitle": "A-League",
+      "id": "football/a-league",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Western Sydney Wanderers",
+      "id": "football/western-sydney-wanderers",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Australia sport",
+      "id": "sport/australia-sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "football/2016/may/02/football-federation-australia-to-investigate-flares-at-a-league-grand-final"
+}

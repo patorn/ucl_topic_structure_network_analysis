@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/16/hereford-parade-bull-hawkesbury-ronaldo-wembley-fa-vase-final",
+  "id": "2016-05-16-227",
+  "sectionId": "football",
+  "body": "Hereford FC have been granted permission by the Football Association to parade their mascot \u2013 a prize bull called Hawkesbury Ronaldo \u2013 in front of their fans at Wembley before the FA Vase final on Sunday.   Related: Hereford FC planning to parade a bull at Wembley before historic FA Vase final    Following a \u2018huge amount of detailed preparatory work\u2019 and a meeting between club and FA representatives at Wembley last Thursday, Hereford FC \u2013 founded in 2015 after Hereford United were wound up the year before \u2013 it has been agreed that Ronaldo will make his way pitchside at 11.10am and be paraded for half an hour. \u2018I have to be honest, when this idea was first mooted I was not confident we would succeed with our proposal,\u201d said Hereford FC\u2019s chairman, Jon Hale. \u201cTherefore I am absolutely delighted that the FA and Wembley Stadium have agreed to our request and I know seeing Ronaldo gracing such a iconic venue will be a proud moment for every Herefordian. \u201cI\u2019d like to thank everyone who has played a part in making this happen \u2013 it is only going to make what will be a special day even more remarkable.\u201d The FA Vase final against Morpeth Town will be the first trip to Wembley for either of Hereford\u2019s incarnations, and was sealed with a 3-1 aggregate semi-final victory over another phoenix club, Salisbury FC. Their opponents are members of the Northern Football League. Hereford FC, known as the Bulls, won the Midland League Premier Division \u2013 the ninth tier of the English league system. Hawkesbury Ronaldo, sporting Real Madrid and Manchester United scarves, was paraded at Edgar Street before the club\u2019s first league match, against Dunkirk last August.",
+  "webTitle": "Hereford FC cleared to parade bull called Hawkesbury Ronaldo at Wembley",
+  "webPublicationDate": "2016-05-16T11:24:45Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/16/hereford-parade-bull-hawkesbury-ronaldo-wembley-fa-vase-final",
+  "keyword": [
+    {
+      "webTitle": "Hereford",
+      "id": "football/hereford",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Wembley stadium",
+      "id": "football/wembley-stadium",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "football/2016/may/16/hereford-parade-bull-hawkesbury-ronaldo-wembley-fa-vase-final"
+}

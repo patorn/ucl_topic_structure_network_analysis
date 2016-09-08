@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/commentisfree/2016/may/26/cancer-deadly-black-treatment-race-economics",
+  "id": "2016-05-26-238",
+  "sectionId": "commentisfree",
+  "body": "Next month, Joe Biden will convene cancer experts, donors and patients for the \u201cNational Cancer Moonshot Summit\u201d. The vice-president\u2019s son Beau died of brain cancer a year ago. It\u2019s a well-meaning effort to better the lives of Americans, but fails to recognize that cancer is not one disease but hundreds. To prevent cancer deaths we\u2019ll need different plans of attack based not just on the type of cancer, but also the population affected. We\u2019ll score the biggest (not to mention most cost-effective) wins against cancer not through scientific study, but by finally recognizing and addressing socioeconomic inequities in this country.    Who and what we care about biases the questions we ask and our medical knowledge    Almost two-thirds of my colleagues acknowledge that patients receive poorer quality healthcare due to their race or ethnicity.  Lung cancer \u2013 the leading cause of cancer death in this country \u2013 is more deadly to African Americans than white people, especially in the midwest and south. Colorectal cancer \u2013 not only the third most common cause of cancer among Americans, but also highly preventable if routine screening is applied \u2013 is especially deadly for African Americans in the south. Half the disparity comes down to late diagnosis. Liver cancer \u2013 which is growing in importance due to higher rates of hepatitis C among baby boomers \u2013 is also more likely to kill black people than white people. Liver cancers tend to be detected later among black people, when the tumors are bigger and patients are worse candidates for lifesaving liver transplants. There are many reasons for these differences: biology, smoking rates, environmental exposures (eg radon), socioeconomics, insurance status, access to healthcare and quality of treatment provided. It\u2019s not just about getting screened \u2013 a patient needs to have access and take the next steps to stop cancer early. Other factors \u2013 like having transportation to doctors\u2019 offices and care for children and elderly or sick relatives during medical appointments \u2013 can make all the difference for cancer outcomes. Insurance coverage remains a major driver of racial disparities in cancer deaths. Efforts to block the Affordable Care Act (aka Obamacare), and in particular Medicaid expansion, have spelled disaster for minorities. People of color, especially black and Hispanic people, are twice as likely to still be uninsured. Even when poor patients \u2013 more commonly minorities \u2013 get insurance, they have far more limited access to care. Other medical conditions that are risk factors for cancer \u2013 like hepatitis B and obesity \u2013 are more common among African Americans. But at the same time, hepatitis C and alcohol and drug abuse are more common among white people. Many of our screening guidelines are based on population averages, but that one-size-fits-all approach comes at the expense of minorities. Take the case of breast cancer, the second most common cause of cancer among American women after lung cancer. Many breast cancer advocates were incensed when the US preventive services taskforce (USPTF) recommended women undergo routine mammograms starting not until 50, and then only every two years. Previously, the USPTF had recommended yearly screening starting at age 40. USPSTF guidelines determine what many insurance companies will cover. Many women bristled at the idea that their insurance company might block them from getting a mammogram before they turned 50, even if they were willing to undergo more invasive testing (including biopsies) for something found on mammogram that turned out not to be cancer. The guidelines were so controversial that Congress amended the Affordable Care Act to make sure that insurance companies would still cover annual mammograms starting at age 40. But lost in the debate is what these guidelines mean for women of color. Most of what we know about breast cancer screening is based on studies of white European women. We don\u2019t actually know much about breast cancer screening among African American women. But we do know that they\u2019re more likely than white women in this country to die of breast cancer. We don\u2019t know all the reasons for this difference, but biology does play a role. African American women tend to have more aggressive, rapidly growing forms of breast cancer, especially young black women; those under 35 are twice as likely as white women the same age to get breast cancer. African American women have a higher rate of BRCA1 and BRCA2 mutations \u2013 Angelina Jolie, who underwent double mastectomy to avoid breast cancer, is a BRCA1 carrier \u2013 than white women. It\u2019s harder to detect breast cancer in younger women because they have denser breast tissue, so any race-specific recommendations would need to consider the utility of earlier ultrasounds and MRIs, not just mammograms, among young African American women. Our research and guidelines are rigged to protect older white women. We haven\u2019t done the research to know whether earlier or more frequent screening of black women would help bring down breast cancer deaths. Who and what we care about biases the questions we ask and our medical knowledge, much as it does the media\u2019s coverage of drug addiction or lead in Flint, Michigan\u2019s water supply. In west Philadelphia \u2013 70% black and with the highest breast cancer death rates in the area \u2013 some doctors have chosen to ignore the USPTF guidelines. \u201cIt\u2019s dangerous,\u201d said Dr Marisa Weiss, director of Lankenau Health\u2019s breast cancer screening program. \u201cThe very group of women who are more likely to get breast cancer early are going to miss their opportunity for early detection.\u201d Women of color are also less likely, when they do get a mammogram, to get one at an academic medical center, which is more likely to have specialists and technology better at detecting cancer in younger women. The National Association for the Advancement of Colored People plans to discuss breast cancer disparities at its July convention. While I don\u2019t believe most of my colleagues and I are swayed by an individual\u2019s race or ethnicity when caring for patients, I think we all face structural racism. We can take pride in providing the best care possible based on what\u2019s available to our patients and us, but at the same time accept and enable racial disparities. Through our silence, collective inaction and submission to systemic injustice, we are complicit.",
+  "webTitle": "Why cancer is more deadly if you're black | Celine Gounder",
+  "webPublicationDate": "2016-05-26T11:00:10Z",
+  "webUrl": "https://www.theguardian.com/commentisfree/2016/may/26/cancer-deadly-black-treatment-race-economics",
+  "keyword": [
+    {
+      "webTitle": "Cancer",
+      "id": "society/cancer",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Race issues",
+      "id": "world/race",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US healthcare",
+      "id": "us-news/healthcare",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Celine Gounder",
+      "id": "profile/celine-gounder"
+    }
+  ],
+  "guardianId": "commentisfree/2016/may/26/cancer-deadly-black-treatment-race-economics"
+}

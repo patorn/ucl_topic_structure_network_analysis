@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/06/south-yorkshire-interim-police-chief-welcomes-orgreave-inquiry",
+  "id": "2016-05-06-251",
+  "sectionId": "uk-news",
+  "body": "A major step has been taken towards an inquiry into the tactics of South Yorkshire police at the 1984 Orgreave confrontation with striking miners, and alleged perjury by officers in collapsed prosecutions a year later, after the force\u2019s acting chief said he would welcome it. Dave Jones, the newly appointed interim chief constable of the force, which is reeling after the verdicts in the Hillsborough inquests last week, said in a statement: \u201cThe Hillsborough inquests have brought into sharp focus the need to understand and confront the past and give people the opportunity to explore the circumstances of such significant events. \u201cI would therefore welcome an appropriate independent assessment of Orgreave, accepting that the way in which this is delivered is a matter for the home secretary.\u201d   Related: SNP win stops short of majority as Scottish Labour finishes third    Since December, Theresa May has been considering a legal submission from the Orgreave Truth and Justice Campaign calling for an inquiry into the allegedly planned and excessive police violence against miners at Orgreave, and the alleged fabrication of evidence to prosecute 95 men for rioting, which collapsed. Calls for an inquiry into Orgreave have grown since the jury at the inquests into the deaths of 96 football fans at Hillsborough in 1989 determined that they were unlawfully killed. It rejected South Yorkshire police\u2019s 27-year campaign, which continued in the case made at the inquests, to blame the disaster on the fans. Last Wednesday in parliament, the day after the Hillsborough verdicts, the shadow home secretary, Andy Burnham, called on May to hold an inquiry into Orgreave, arguing that the facts surrounding the South Yorkshire police culture that led to the Hillsborough disaster, and alleged coverup afterwards, could not be fully known without one. A review of the Orgreave prosecution court papers by the Independent Police Complaints Commission reported last June that there was evidence of excessive violence by police officers, a false narrative from police exaggerating violence by miners, perjury by officers giving evidence to prosecute the arrested men, and an apparent coverup of that perjury by senior officers.  However, the IPCC decided it could not hold a full investigation because of the passage of time and lack of adequate resources. It is currently running its biggest ever investigation, into possible perjury, perverting the course of justice and misconduct in a public office by South Yorkshire police officers after the Hillsborough disaster. Several of the most senior officers at South Yorkshire police were in their posts during both the Orgreave and Hillsborough operations, headed by the chief constable, Peter Wright, who led the force\u2019s campaign to blame innocent Liverpool supporters for the latter.",
+  "webTitle": "South Yorkshire interim police chief welcomes Orgreave inquiry",
+  "webPublicationDate": "2016-05-06T10:17:52Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/06/south-yorkshire-interim-police-chief-welcomes-orgreave-inquiry",
+  "keyword": [
+    {
+      "webTitle": "Police",
+      "id": "uk/police",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Yorkshire",
+      "id": "uk-news/yorkshire",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "David Conn",
+      "id": "profile/davidconn"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/06/south-yorkshire-interim-police-chief-welcomes-orgreave-inquiry"
+}

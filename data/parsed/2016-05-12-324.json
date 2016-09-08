@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/us-news/2016/may/11/mitt-romney-donald-trump-tax-returns-bombshell",
+  "id": "2016-05-12-324",
+  "sectionId": "us-news",
+  "body": "Donald Trump\u2019s refusal to release his tax returns is \u201cdisqualifying\u201d for a presidential candidate, his predecessor as Republican nominee Mitt Romney has said. \u201cThere is only one logical explanation for Mr Trump\u2019s refusal to release his returns: there is a bombshell in them,\u201d Romney wrote. \u201cGiven Mr Trump\u2019s equanimity with other flaws in his history, we can only assume it\u2019s a bombshell of unusual size.\u201d       Trump said in an interview with the Associated Press on Wednesday that he would not overrule legal advice not to publicly disclose his tax returns before an audit is complete - including if the audit is not completed before November\u2019s election.  Although not legally required of presidential candidates, the release of tax returns has been considered the norm for party nominees since Gerald Ford released a copy of his tax returns in 1976. Trump has previously declared in a presidential debate that he would release his tax information, and shrugged off delays as due to the inherent complexity of his personal fortune.   Related: Trump and Clinton share Delaware tax 'loophole' address with 285,000 firms    \u201cI have very big tax returns,\u201d Trump told NBC\u2019s Meet the Press on Sunday. \u201cI\u2019m sure you\u2019ve seen the picture where the returns are literally from the floor to up to here. They\u2019re extremely complex.\u201d There are no laws prohibiting tax returns under audit from being released. Richard Nixon released his own taxes under audit in 1973. \u201cIt is disqualifying for a modern-day presidential nominee to refuse to release tax returns to the voters, especially one who has not been subject to public scrutiny in either military or public service,\u201d Romney wrote. \u201cTax returns provide the public with its sole confirmation of the veracity of a candidate\u2019s representations regarding charities, priorities, wealth, tax conformance, and conflicts of interest.\u201d He added: \u201cMr Trump says he is being audited. So? There is nothing that prevents releasing tax returns that are being audited. Further, he could release returns for the years immediately prior to the years under audit.\u201d Romney stated: \u201cWhile not a likely circumstance, the potential for hidden inappropriate associations with foreign entities, criminal organizations, or other unsavory groups is simply too great a risk to ignore for someone who is seeking to become commander-in-chief.\u201d Romney himself was criticized during the 2012 campaign for initially refusing to release his own returns, and then, upon their release, for not releasing any before the year 2010. Trump sought to temper the row with a tweet: \u201cIn interview I told @AP that my taxes are under routine audit and I would release my tax returns when audit is complete, not after election!\u201d",
+  "webTitle": "Donald Trump's refusal to release tax returns 'disqualifying' says Mitt Romney",
+  "webPublicationDate": "2016-05-12T07:46:41Z",
+  "webUrl": "https://www.theguardian.com/us-news/2016/may/11/mitt-romney-donald-trump-tax-returns-bombshell",
+  "keyword": [
+    {
+      "webTitle": "Donald Trump",
+      "id": "us-news/donaldtrump",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Mitt Romney",
+      "id": "us-news/mittromney",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US elections 2016",
+      "id": "us-news/us-elections-2016",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US politics",
+      "id": "us-news/us-politics",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Scott Bixby",
+      "id": "profile/scott-bixby"
+    }
+  ],
+  "guardianId": "us-news/2016/may/11/mitt-romney-donald-trump-tax-returns-bombshell"
+}

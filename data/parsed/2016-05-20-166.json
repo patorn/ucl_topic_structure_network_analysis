@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/20/wayne-rooney-x-men-manchester-united",
+  "id": "2016-05-20-166",
+  "sectionId": "football",
+  "body": "As Manchester United captain, Wayne Rooney can reasonably be expected to do anything for the team \u2013 and that appears to extend beyond football. Rooney has appeared in a bizarre teaser for the X-Men: Apocalypse movie, which was released in the UK on Wednesday. The short film, promoted on United\u2019s social media channels, shows a group of characters looking for \u201ca group of mutants to help us defeat Apocalypse\u201d, in particular seeking one with \u201cintensity and incredible focus\u201d.    Anything for the team you say, @WayneRooney? Good luck! #XMenApocalypse https://t.co/ym1XtMansq\u2014 Manchester United (@ManUtd) May 20, 2016    The camera lands on Rooney, who is summoned to the battlefield and replies: \u201cAnything for the team.\u201d Rooney\u2019s preparedness for the task is perhaps in doubt \u2013 \u201cApoca-who?\u201d he asks after being briefed. The number of things United will not do for commercial exposure certainly appears to be dwindling. Three of their mascots at Tuesday\u2019s win over Bournemouth had their faces painted blue in another promotion for the movie, and that is only the tip of a formidable iceberg. Rooney will have to make do with the more prosaic surroundings on Saturday when a game of football breaks out at Wembley.",
+  "webTitle": "\u2018Anything for the team\u2019 \u2013 Wayne Rooney\u2019s bizarre X-Men teaser",
+  "webPublicationDate": "2016-05-20T12:55:41Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/20/wayne-rooney-x-men-manchester-united",
+  "keyword": [
+    {
+      "webTitle": "Wayne Rooney",
+      "id": "football/wayne-rooney",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Manchester United",
+      "id": "football/manchester-united",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "X-Men: Apocalypse",
+      "id": "film/x-men-apocalypse",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "football/2016/may/20/wayne-rooney-x-men-manchester-united"
+}

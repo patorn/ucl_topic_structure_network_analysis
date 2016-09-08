@@ -1,0 +1,82 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/23/iain-duncan-smith-sajid-javid-told-me-privately-he-backed-brexit",
+  "id": "2016-05-23-183",
+  "sectionId": "politics",
+  "body": "Iain Duncan Smith has been accused of making up a claim that the business secretary, Sajid Javid, secretly backs leaving the EU.   Brexit explained: businesses   A source close to Javid suggested Duncan Smith was lying when he told the BBC on Monday that the business secretary had revealed to him that he was in favour of Brexit. \u201cIt is simply not true. Sajid Javid has said no such thing either in private or public,\u201d the source said.  It is the latest spat between the camps of senior Tories, who have accused each other of untrustworthiness and mendacity over the EU referendum.  Boris Johnson and David Cameron, as well as Iain Duncan Smith and George Osborne, have crossed swords in recent days as hostilities between senior Conservatives intensifies a month before the poll. The new row was sparked when Duncan Smith said he was deeply disappointed in Javid for campaigning to stay in the EU when the business secretary had personally told him he backed Brexit. Duncan Smith rounded on Javid for backing a new Treasury forecast of a recession if Britain votes to leave the European Union. \u201cI\u2019m deeply disappointed in him \u2026 having privately said how much he wanted the UK to leave the European Union he is now on defending this terrible report,\u201d Duncan Smith told BBC Radio 4\u2019s Today programme.  Asked to clarify whether Javid had privately told Duncan Smith that he wanted Britain to leave the EU, Smith said: \u201cHe has, yup.\u201d Javid has always been clear about his Euroscepticism, but said earlier this year that the economic conditions were not currently right for leaving. Asked on Monday about comments he made in November, when he claimed the costs of staying in the EU outweighed the benefits, the business secretary said: \u201cAt that time no one knew what the final deal would be that we would have. Look what has been achieved in this renegotiation. We are far better off being part of this market.\u201d He also said the latest analysis by the Treasury to be published later showed there would be an \u201cimmediate and profound economic shock\u201d, if Britain left the EU.  He added: \u201cWithin two years there would be a recession. The central scenario shows a 3.6% contraction in GDP, higher inflation, house prices 10% lower than they would have otherwise have been and, I think most worryingly of all, a loss of over 500,000 jobs. It will make our country poorer and we have to understand that if that\u2019s the way the country is going to vote.\u201d Asked why the report had not taken account of the positive sides of leaving the EU, Javid said: \u201cIt is up to the leave campaign to show what that positive scenario is.\u201d Duncan Smith seized on this comment as a \u201chell of an admission\u201d. He said: \u201cHe said that is not our job to produce the upside, that\u2019s for those who want to leave. Now hang on a second that makes this report categorically unfair and biased as a Treasury report.\u201d The former work and pensions secretary said the Treasury could not be trusted to produce accurate forecasts. He said: \u201cThe same Treasury, at the time we were in the ERM [Exchange Rate Mechanism] \u2013 when we were under pressure to leave the ERM \u2013 said if we left it would be a disaster. Short-term inflation would rise, rates would increase, the economy would shrink. When we left the ERM none of that happened. We grew, inflation came down, and actually we created more jobs. So they cannot forecast short-term successfully, they have never managed to do it.\u201d Asked to acknowledge the economic downsides of leaving the EU, Duncan Smith said: \u201cI don\u2019t think that downside exists for the UK.\u201d The fresh row comes after David Cameron\u2019s former strategy guru Steve Hilton claimed the EU was a \u201csecretive\u201d and \u201cimpenetrable\u201d organisation that did not work to Britain\u2019s advantage.  Writing in the Daily Mail, Hilton said the EU was \u201canti-enterprise\u201d, \u201canti-market\u201d and \u201canti-trade\u201d. He added: \u201cI believe it is the ideal and idealistic choice for our times: taking back power from arrogant, unaccountable, hubristic elites and putting it where it belongs \u2013 in people\u2019s hands.\u201d Responding to Hilton\u2019s article, Javid said: \u201cSteve is entitled to his view \u2026 the central issue here is that economically, we are far better off being part of this single market \u2026 Now you have the Bank of England, the IMF [International Monetary Fund], the OECD [Organisation for Economic Co-operation and Development], the London School of Economics, the OBR [Office for Budget Responsibility], the IFS [Institute for Fiscal Studies], every one of our allies, every one of our trading partners and that is not a conspiracy, that\u2019s a consensus about what would happen if we left the EU.\u201d",
+  "webTitle": "Duncan Smith's claim that Sajid Javid backs Brexit 'simply not true'",
+  "webPublicationDate": "2016-05-23T12:04:20Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/23/iain-duncan-smith-sajid-javid-told-me-privately-he-backed-brexit",
+  "keyword": [
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Iain Duncan Smith",
+      "id": "politics/iain-duncan-smith",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Sajid Javid",
+      "id": "politics/sajid-javid",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Conservatives",
+      "id": "politics/conservatives",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Matthew Weaver",
+      "id": "profile/matthewweaver"
+    },
+    {
+      "webTitle": "Rowena Mason",
+      "id": "profile/rowena-mason"
+    }
+  ],
+  "guardianId": "politics/2016/may/23/iain-duncan-smith-sajid-javid-told-me-privately-he-backed-brexit"
+}

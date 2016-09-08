@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/money/2016/may/15/travel-insurance-holiday-europe",
+  "id": "2016-05-15-199",
+  "sectionId": "money",
+  "body": "Almost one in four people do not take out travel insurance for their holidays, according to new research, with young people less likely to pay for the safety net when they go abroad. The reluctance to take out insurance is more pronounced among those who travel within Europe, with more than one-third saying they do not bother. The figures have emerged from a study by York-based healthcare provider Benenden of 1,000 people, which shows that one in 10 have previously needed hospital treatment when abroad. Figures from the Association of British Insurers (ABI) reveal that travel insurers paid out \u00a3370m in 591,000 claims last year. Benenden\u2019s survey found 23% of people don\u2019t take out travel insurance when they go abroad, rising to 34% for trips in Europe. Among young people aged between 18 and 24, 28% do not take out insurance. The study also shows a lack of knowledge among some travellers about the European health insurance card, which gives people the right to access state healthcare during stays in other European Economic Area countries and Switzerland. One-third of those surveyed said they did not know the card was free. Meanwhile, most (82%) of those surveyed didn\u2019t know that the emergency number to ring in Europe was 112. Price comparison website Gocompare.com last week warned travellers that if they did decide to take out cover before they went abroad in the summer, they should ensure they had the right policy. \u201cIf something unexpected happens to spoil your trip \u2013 such as your flight being cancelled or you needing hospital treatment \u2013 the last thing you want is to have your insurance claim rejected,\u201d says Alex Edwards, of Gocompare.com. \u201cMake sure you read the policy wording so you understand what is and isn\u2019t covered. Be honest when applying for cover and when submitting a claim. Withholding information on your medical history, for example, may mean that you are not fully insured and could leave you picking up a hefty hospital bill. This way, you will have the best possible chance of success if you are unlucky enough to need to make a claim.\u201d",
+  "webTitle": "One in four travellers don\u2019t bother taking out insurance, research shows",
+  "webPublicationDate": "2016-05-15T06:00:17Z",
+  "webUrl": "https://www.theguardian.com/money/2016/may/15/travel-insurance-holiday-europe",
+  "keyword": [
+    {
+      "webTitle": "Travel insurance",
+      "id": "money/travelinsurance",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Insurance",
+      "id": "money/insurance",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Consumer affairs",
+      "id": "money/consumer-affairs",
+      "sectionId": "money",
+      "sectionName": "Money"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Shane Hickey",
+      "id": "profile/shane-hickey"
+    }
+  ],
+  "guardianId": "money/2016/may/15/travel-insurance-holiday-europe"
+}

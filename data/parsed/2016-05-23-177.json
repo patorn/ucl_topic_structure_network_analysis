@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/23/fruit-ninja-film-announced-halfbrick-studios",
+  "id": "2016-05-23-177",
+  "sectionId": "film",
+  "body": "Mobile phone game Fruit Ninja is to follow The Angry Birds Movie into cinemas, in a move sparked by the latter\u2019s impressive box-office results. According to the Hollywood Reporter, Halfbrick Studios, the makers of the popular smartphone fruit-slicing game, have partnered with Hansel & Gretel: Witch Hunters producer Tripp Vinson to create \u201ca live-action family comedy\u201d inspired by the game. Few details of the proposed project have emerged, other than that the script is due to be written by JP Lavin and Chad Damiani, previously responsible for the as-yet-unproduced crime romance Kamikaze Love, which appeared on the 2007 Black List of most-liked screenplays. Fruit Ninja is one of the most popular phone games of all time, registering over a billion downloads and second only to Candy Crush on the list of most popular iOS games. The Angry Birds Movie registered a solid $39m at the US box office on its first weekend on release on 20 May, contributing to over $150m so far, worldwide.",
+  "webTitle": "Slice of the action: smartphone game Fruit Ninja to be made into film",
+  "webPublicationDate": "2016-05-23T12:33:19Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/23/fruit-ninja-film-announced-halfbrick-studios",
+  "keyword": [
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Games",
+      "id": "technology/games",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Mobile",
+      "id": "technology/mobile",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Angry Birds",
+      "id": "technology/angry-birds",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Andrew Pulver",
+      "id": "profile/andrewpulver"
+    }
+  ],
+  "guardianId": "film/2016/may/23/fruit-ninja-film-announced-halfbrick-studios"
+}

@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/26/alice-through-the-looking-glass-review",
+  "id": "2016-05-26-15",
+  "sectionId": "film",
+  "body": "A boisterous turn from Helena Bonham Carter as the pugnacious Red Queen saves this Alice sequel from flatlining utterly. Using only the title and some characters from Lewis Carroll\u2019s own 1871 sequel \u2013 in fact called Through the Looking Glass, and What Alice Found There \u2013 this new movie is just machine-tooled CGI fantasy fare. We start in the real world, where Alice (Mia Wasikowska) is a daring sea captain who is threatened with betrayal by the corporate landlubbers who own her ship. So she escapes through a mirror in the proprietor\u2019s mansion and finds herself slap bang in Wonderland again.            Tim Burton on Alice Through the Looking Glass \u2013 video interview    Johnny Depp\u2019s tiresome Mad Hatter is brought back for a starring role: Alice must reunite and reconcile him with his family. His hat-making dad is played by Rhys Ifans, and the Mad Hatter\u2019s own name is sanitised, as his \u201cmadness\u201d is the adorable craziness of creativity, as opposed to the mercury poisoning from fumes in the hat-making process, which in Carroll\u2019s day famously undermined the sanity of British milliners. There\u2019s a bit of sub-Wicked origin myth-making for the relationship of the Red Queen and the White Queen (Anne Hathaway). Sacha Baron Cohen plays a new character called Time, with a guttural Werner Herzog accent. I\u2019d pay about 10/6 for this in today\u2019s money.",
+  "webTitle": "Alice Through the Looking Glass review \u2013 large as life and twice as phoney",
+  "webPublicationDate": "2016-05-26T22:00:14Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/26/alice-through-the-looking-glass-review",
+  "keyword": [
+    {
+      "webTitle": "Alice Through the Looking Glass",
+      "id": "film/alice-through-the-looking-glass",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Mia Wasikowska",
+      "id": "film/mia-wasikowska",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Johnny Depp",
+      "id": "film/johnnydepp",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Anne Hathaway",
+      "id": "film/anne-hathaway",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Helena Bonham Carter",
+      "id": "film/helena-bonham-carter",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Family",
+      "id": "film/family",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Drama",
+      "id": "film/drama",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Lewis Carroll",
+      "id": "books/lewiscarroll",
+      "sectionId": "books",
+      "sectionName": "Books"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Peter Bradshaw",
+      "id": "profile/peterbradshaw"
+    }
+  ],
+  "guardianId": "film/2016/may/26/alice-through-the-looking-glass-review"
+}

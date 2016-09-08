@@ -1,0 +1,88 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/16/bbc-netflix-rival-itv-nbc-universal",
+  "id": "2016-05-16-285",
+  "sectionId": "media",
+  "body": "BBC plans to launch a homegrown rival to Netflix and Amazon Prime are a step closer to reality after the government gave it the green light to launch a new paid-for subscription service. Corporation chiefs have held talks with potential partners including ITV and NBC Universal, owner of the producer of shows including Downton Abbey, about launching a new subscription streaming service, as revealed by the Guardian in March. Early indications are that it would charge viewers to watch BBC programmes after the 30-day window in which they are currently available to watch for free on the iPlayer has expired.   Related: BBC and ITV in talks to launch a Netflix-style streaming service    It may also include some original content \u2013 the BBC already premieres a small selection of comedies, drama and documentaries on the iPlayer \u2013 but the bulk of the material would already have been shown on the BBC. Talks with commercial partners suggest its scope would go beyond BBC programmes, however, creating a UK-based global rival to take on House of Cards broadcaster Netflix and Amazon Prime, which will air The Grand Tour, the new motoring show with former Top Gear presenters Jeremy Clarkson, James May and Richard Hammond, later this year. Currently, viewers who want to watch a BBC programme beyond the iPlayer window can choose to download it from the recently launched BBC Store. Older BBC content can be accessed on a variety of other platforms including DVDs and pay-TV service UKTV, as well as Amazon Prime and Netflix, which has the rights to shows such as Top Gear. Last week\u2019s government white paper on the future of the BBC said it \u201cwelcomes the BBC\u2019s commitment to develop and test some form of additional subscription services\u201d. It said it would be up to the BBC to \u201cset to the scope of these plans\u201d but the government said it was \u201cclear that this would be for additional services only\u201d. \u201cLicence fee payers will not be asked to pay for \u2018top-up\u2019 services for anything they currently get,\u201d it added. Culture secretary John Whittingdale told the Telegraph: \u201cWe\u2019re moving into a different world where more and more content is going to be made available on demand. Collaboration with other broadcasters and other production companies we think is important. If they want to explore that kind of thing, we\u2019d encourage them.  \u201cThere may come a moment in the future where all television is delivered online, and if you do that it becomes a more realistic practical possibility if you wanted to move towards an element of voluntary subscription, which is why the BBC, who see the way the world is changing, have said: \u2018Yeah we will just see for the online provision, whether or not there might be a case for additional new content being delivered on a subscription service, via the iPlayer.\u2019 \u201cThat\u2019s something they\u2019re going to look at. It was their suggestion, and they have said they will draw up the scope of the trial.\u201d The BBC has traditionally been wary of introducing subscription services in the UK, which many would regard as signalling the death knell of the \u00a3145.50 licence fee, and any new service would have to pass a number of regulatory hurdles. BBC strategy chief James Purnell said two years ago that any move to introduce \u201csubscription payments for its services would lead to \u2018first and second class\u2019 licence fee payers and cost \u00a3500m to implement\u201d. The BBC white paper also signalled that the government would act to close the \u00a3150m iPlayer \u201cloophole\u201d where people can currently watch BBC content for free on-demand if they do not have a TV.",
+  "webTitle": "BBC gets green light to launch Netflix rival",
+  "webPublicationDate": "2016-05-16T09:12:57Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/16/bbc-netflix-rival-itv-nbc-universal",
+  "keyword": [
+    {
+      "webTitle": "BBC",
+      "id": "media/bbc",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Online TV",
+      "id": "media/online-tv",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Netflix",
+      "id": "media/netflix",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "ITV channel",
+      "id": "media/itv1",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "NBC Universal",
+      "id": "media/nbc-universal",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Television industry",
+      "id": "media/television",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Digital media",
+      "id": "media/digital-media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Internet",
+      "id": "technology/internet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "John Plunkett",
+      "id": "profile/johnplunkett"
+    },
+    {
+      "webTitle": "Mark Sweney",
+      "id": "profile/marksweney"
+    }
+  ],
+  "guardianId": "media/2016/may/16/bbc-netflix-rival-itv-nbc-universal"
+}

@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/04/uk-construction-sector-sees-slowest-expansion-since-mid-2013",
+  "id": "2016-05-04-250",
+  "sectionId": "business",
+  "body": "A boom in office building in London has failed to prevent Britain\u2019s construction industry from reporting its worst month in almost three years in April.   Related: Brexit jitters set to weigh on foreign demand for London office space    Firms blamed the decline on a lack of new orders that stemmed from the weaker outlook for the UK economy as a whole. It follows a slump in manufacturing last month that has alarmed economists and fuelled speculation that GDP growth will slow further after dipping to 0.4% in the first quarter. The government is likely to come under pressure to react to the downturn in construction, especially after a run of figures in recent months showing that housebuilders are one of the worst affected groups. George Osborne promised a building boom to tackle the UK\u2019s housing shortage in his 2015 autumn statement, but since then the strength of the sector has begun to wane.   Related: UK manufacturing sector suffers worst month in three years    The seasonally adjusted Markit/Cips construction purchasing managers\u2019 index (PMI) registered 52 in April \u2013 a number over 50 represents growth \u2013 and that reading marked three years of sustained output growth across the construction sector.  However, Markit, which compiled the survey, said the latest reading was down from 54.2 in March and said April represented the slowest expansion of business activity in the sector since mid-2013.  Tim Moore, a senior economist at Markit, said hopes that a slowing of activity in the first quarter would be temporary had now been dashed. \u201cStalling new order volumes not only set the scene for further weakness ahead, but are already weighing on staff hiring and input buying across the construction sector,\u201d he said. \u201cSofter growth forecasts for the UK economy alongside uncertainty ahead of the EU referendum appear to have provided reasons for clients to delay major spending decisions until the fog has lifted.\u201d He added that the reluctance of housebuilders to develop new plots was one of the biggest drags on future growth. \u201cApril\u2019s survey highlighted one of the weakest rises in housing activity since early-2013, suggesting that greater caution in this sub-sector is adding to the sluggish growth conditions seen across the wider construction industry,\u201d he said. The Construction Products Association, which represents suppliers to the industry, recently downgraded its growth forecasts, but only marginally, and it still expects growth to be double the 1.8% forecast for the UK economy. Howard Archer, chief economist at IHS Global Insight, said the support for housebuilders promised by the chancellor was much needed. He said the chancellor needed to move quickly to implement plans to double the housing budget to more than \u00a32bn a year and to build 400,000 affordable homes by the end of the decade. He said: \u201cThe government will be particularly disappointed to see housebuilding growth could only rise modestly in April having almost ground to a halt in March (when it was at its weakest level since January 2013) \u2013 given that it is looking to address the UK\u2019s acute housing shortage.\u201d",
+  "webTitle": "UK construction sector reports slowest expansion since mid-2013",
+  "webPublicationDate": "2016-05-04T10:21:46Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/04/uk-construction-sector-sees-slowest-expansion-since-mid-2013",
+  "keyword": [
+    {
+      "webTitle": "Construction industry",
+      "id": "business/construction",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economic growth (GDP)",
+      "id": "business/economicgrowth",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Housing market",
+      "id": "business/housingmarket",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Phillip Inman",
+      "id": "profile/phillipinman"
+    }
+  ],
+  "guardianId": "business/2016/may/04/uk-construction-sector-sees-slowest-expansion-since-mid-2013"
+}

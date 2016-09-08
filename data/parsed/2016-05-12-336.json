@@ -1,0 +1,55 @@
+{
+  "apiUrl": "https://content.guardianapis.com/books/booksblog/2016/may/12/sci-fi-media-coverage-dominated-by-men-survey-shows",
+  "id": "2016-05-12-336",
+  "sectionId": "books",
+  "body": "In early 2011, the American group Vida published the first iteration of its now-annual Vida Count, finding a striking gender imbalance in literary press coverage. Far more books reviewed in the previous year were by men than women; most of the reviewers were men.  Vida focused, understandably, on the best known general literary journals. As the editor of a magazine devoted to science fiction and fantasy \u2013 genres that tend to be covered only infrequently by, say, the LRB, but which have their own active critical culture \u2013 I wanted to know what the situation looked like in my corner of the literary world. The result was the Strange Horizons SF Count, now in its sixth year. You can find this year\u2019s full analysis on our site, in an interactive format with nifty data visualisation by EG Cosh, and with details of our methodology (and caveats). The short version is that it\u2019s not all bad news. It\u2019s just mostly bad news. In most SF magazines, most of the reviews are written by men and most of the books covered are by men We looked at 18 magazines this year. Only five reviewed at least as many books by women or non-binary (WNB) writers as books by men. In 11, the ratio of books by men to books by WNB was 2:1 or greater. In all but six, at least 60% of the reviews were written by men.     Reviews by gender Illustration: EG Cosh/Niall Harrison, Strange Horizons    And yet, that\u2019s nothing compared to how white the field is Forget 50%: last year, 10 of the 18 magazines we looked at didn\u2019t even manage to give 10% of their review coverage to books by writers of colour. Seven of them had no reviewers of colour at all.     Map of reviews by race Illustration: EG Cosh/Niall Harrison, Strange Horizons    Trying to establish a baseline is complicated One of the immediate questions people ask is: how do our results reflect the pool of what is available to be reviewed? We look at data collected from Locus, which runs a \u201cbooks received\u201d column every month that is the closest approximation we know (for the US and UK) of all the SF and fantasy that is published. Over the last few years, we estimate that about 55% of books received by Locus have been by men \u2013 a little higher in the UK, a little lower in the US. So while there\u2019s room for improvement, there is no excuse for the gender balance to be as skewed as what we\u2019re seeing. The story for race is more complex. Our estimate from Locus is that less than 5% of the SF and fantasy books published are by writers of colour. That is scandalously low, and certainly doesn\u2019t make life easier for review venues. But it\u2019s worth noting that it also represents almost 200 books \u2013 enough to fully occupy all but one of the magazines we surveyed for a whole year. The most diverse publications are often the smallest The venues most likely to review books by WNB writers were The Cascadia Subduction Zone (80% of reviews), Romantic Times (57%) and Lightspeed (57%).  The venues most likely to review books by writers of colour were Lightspeed (50%), The Cascadia Subduction Zone (35%) and Strange Horizons (22%).  The venues with the highest proportion of WNB reviewers were Romantic Times (91%), The Cascadia Subduction Zone (88%), and Tor.com (63%).  And the publications with the highest proportion of reviewers of colour were Lightspeed (67%), The Cascadia Subduction Zone (41%), and Tor.com (22%). If your takeaway from that list is that The Cascadia Subduction Zone sounds really interesting, you\u2019re not wrong \u2013 it\u2019s a wonderful journal filled with thoughtful and insightful criticism. The problem is, it\u2019s only published four times a year, and it only reviews 20-30 books each year \u2013 which is roughly what Locus reviews each month. Overall, things are improving \u2026 slowly     Changes over time Illustration: EG Cosh/Niall Harrison, Strange Horizons    When you look at each venue individually, there\u2019s a lot of noise in the SF Count data, a lot of year-to-year changes. However, when we started the SF Count in 2011, across all the publications surveyed, WNB writers received about 30% of reviews, and wrote about 30% of reviews. This year, both numbers were up to just over 40%. For writers of colour, the baseline is lower and the improvement is smaller \u2013 up from about 5% to about 10% \u2013 but it is still there. What\u2019s next? The SF Count results don\u2019t exist in isolation. From the all-male Arthur C Clarke award shortlist of a few years ago (which was, incidentally, also all-white), to the running culture wars surrounding the Hugo awards, and back up to the publishing imprints themselves, there\u2019s an awful lot of work to be done to make SF and fantasy a more representative literary space. But the contention behind the SF Count is that reviews matter: which books gets talked about matters, and who gets to talk about them matters. If you want to hear about, or from, other voices, why not ask your favourite magazine what they\u2019re doing about it?",
+  "webTitle": "Sci-fi media coverage dominated by men, survey shows",
+  "webPublicationDate": "2016-05-12T07:00:22Z",
+  "webUrl": "https://www.theguardian.com/books/booksblog/2016/may/12/sci-fi-media-coverage-dominated-by-men-survey-shows",
+  "keyword": [
+    {
+      "webTitle": "Science fiction",
+      "id": "books/science-fiction",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Books",
+      "id": "books/books",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Fiction",
+      "id": "books/fiction",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Literary criticism",
+      "id": "books/literary-criticism",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Feminism",
+      "id": "world/feminism",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    }
+  ],
+  "authors": [],
+  "guardianId": "books/booksblog/2016/may/12/sci-fi-media-coverage-dominated-by-men-survey-shows"
+}

@@ -1,0 +1,84 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/19/google-io-2016-what-you-need-to-know-from-allo-to-daydream",
+  "id": "2016-05-19-235",
+  "sectionId": "technology",
+  "body": "Google I/O is the biggest date in the firm\u2019s calendar: it\u2019s the conference where it gets everyone together in one big room (actually, this year it was a tent) in California to reveal all the cool stuff it has been working on. This year was more focused than most. It\u2019s the first I/O since the company restructured itself into Alphabet, hiving off the wilder projects such as Google Glass, self-driving cars and life-extension research into other subsidiaries. Gone are the days of livestreaming a parachute jumper wearing Google Glass from the I/O stage. But that doesn\u2019t mean the company wasn\u2019t trying to impress with more down-to-earth revelations. Google Home Leading the pack was the company\u2019s latest foray into the connected home business: Google Home. A direct competitor to Amazon\u2019s Echo, Home is a small cylindrical speaker that you place on your coffee table and instruct to listen to everything you say. Think of a turbo-charged, always-present version of Siri or Google Now and you\u2019re most of the way there. It can answer questions, play music and (if you have any smart home gadgets installed) control your house. It might sound creepy, and that was the reaction that many had when Amazon launched the Echo in 2014. But 18 months on and the Echo has been surprisingly popular, selling an estimated 3m smart speakers since its US-only launch. Google Assistant Where Home is the physical manifestation Google\u2019s desire to build your always-on digital butler, Assistant is its digital counterpart. It says it\u2019s an \u201corder of magnitude\u201d smarter than its competitors, such as Siri and Alexa (the intelligence behind the Echo speakers), but such claims are tricky to judge. Sundar Pichai, the company\u2019s chief executive, demonstrated one use case: asking Assistant what movie he and his wife should see. Building up the complexity, he added that they wanted to bring the kids, and then asked how good one choice, Disney\u2019s Jungle Book, was. Assistant responded with the film\u2019s rating on Rotten Tomatoes. (In case you\u2019re curious: it\u2019s very good.) Google Allo     Google CEO Sundar Pichai speaks during Google I/O 2016. Photograph: Justin Sullivan/Getty Images    Not apparently named after an 80s British sitcom, Allo is Google\u2019s newest messaging platform. It comes with some baggage: the company still has an entirely separate platform, Hangouts, which is built in to Android phones, as well as a number of lesser-used predecessors including Gchat and the now-defunct Wave. But Allo also represents a fresh start for Google, allowing the company to offer end-to-end encryption for the first time. That decision will throw it headfirst into conflict with the FBI, standing alongside Apple and Facebook against the US government\u2019s desire to read the text messages of criminal suspects.   Related: Google Allo: new messaging app is latest to fight FBI over encryption    It\u2019s still less secure than iMessage or WhatsApp, however, requiring users to actively opt-in to end-to-end encryption through an \u201cincognito mode\u201d. But security isn\u2019t the main selling point of Allo. Instead, that\u2019s the built-in chatbots, including Google Assistant itself: Allo users will be able to use Assistant to find extra information or send auto-generated replies. Impressively, it can even parse images, leading to the (perhaps overly specific) suggestion of \u201cNice Bernese mountain dog\u201d as one such reply. Duo Why stop at one messaging app? Duo is Google\u2019s take on FaceTime, letting users chat face-to-face, mobile-to-mobile. That\u2019s something Hangouts already does, but unlike Hangouts, Duo is mobile-only and tied to your phone number, not your Google account.     Erik Kay introduces Allo and Duo during the Google I/O 2016 developers conference in Mountain View, California. Photograph: Stephen Lam/Reuters    One interesting feature Duo offers is \u201cKnock Knock\u201d, which shows a video preview of you before your recipient even picks up the call \u2013 akin to looking through the peephole of your front door before pretending you aren\u2019t in when your weird neighbour\u2019s knocking. Instant Apps If you\u2019re worried all these apps will fill up your phone or take years to download, Google has its own answer for you: Instant Apps. This is a new feature, which will arrive with the next version of Android, N. It lets you load up the part of an app that you need just from clicking a link. For example, a Buzzfeed video can play in the Buzzfeed app even if you haven\u2019t installed it, while someone shopping for a camera can buy it using B&H Photo\u2019s mobile app rather than their website. For users, it\u2019ll be seamless, and Google\u2019s promising that it won\u2019t be too much work for developers either. Daydream Never afraid of duplicating itself (see: all its messaging apps), Google is launching a new virtual reality platform called Daydream. Built on top of Android N, Daydream is essentially Android for VR: it\u2019ll offer users a home screen from which to access apps. Among them will be Google stalwarts including the Play store, YouTube and Photos.   Related: Google Assistant takes on Amazon and Apple to be the ultimate digital butler    Google already has a VR platform, Cardboard, but that\u2019s a deliberately limited beast, designed to let users trial a VR-lite experience through nothing more than their existing smartphone and a piece of laser-cut cardboard. Daydream, by contrast, looks built for purpose-made VR headsets, and will probably end up competing head-to-head with the likes of the Gear VR, a Samsung/Oculus co-creation.     Clay Bavor introduces Daydream during the Google I/O 2016 developers conference in Mountain View, California. Photograph: Stephen Lam/Reuters    \u2026 and finally Google didn\u2019t actually save the most surprising thing for last \u2013 that\u2019s an Apple thing \u2013 but alongside the reveal of Daydream came a second announcement: the company has created a VR headset. Sort of. Android remains an area where Google prefers to work through third-party manufacturers, rather than building its own kit. Therefore, the Daydream headset it showed off on stage won\u2019t be available to buy in stores. Instead, it\u2019s a reference design, intended to show manufacturers who want to build their own Daydream sets what sort of features they\u2019ll be expected to provide. But Google\u2019s Nexus phones started off as reference devices, and now you can buy them direct from Google. So who knows what\u2019s to come?",
+  "webTitle": "Google I/O 2016: from Allo to Daydream, what you need to know",
+  "webPublicationDate": "2016-05-19T10:42:43Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/19/google-io-2016-what-you-need-to-know-from-allo-to-daydream",
+  "keyword": [
+    {
+      "webTitle": "Google",
+      "id": "technology/google",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Virtual reality",
+      "id": "technology/virtual-reality",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Android",
+      "id": "technology/android",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Apps",
+      "id": "technology/apps",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Alphabet",
+      "id": "technology/alphabet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Software",
+      "id": "technology/software",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Mobile phones",
+      "id": "technology/mobilephones",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "California",
+      "id": "us-news/california",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Alex Hern",
+      "id": "profile/alex-hern"
+    }
+  ],
+  "guardianId": "technology/2016/may/19/google-io-2016-what-you-need-to-know-from-allo-to-daydream"
+}

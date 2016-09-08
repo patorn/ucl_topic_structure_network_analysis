@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/law/2016/may/17/almost-half-solicitors-england-wales-women-bame-lawyers-black-background",
+  "id": "2016-05-17-307",
+  "sectionId": "law",
+  "body": "Almost half of all solicitors in England and Wales are women and almost a fifth are from non-white backgrounds, according to the latest figures. Research compiled by the Solicitors Regulation Authority (SRA) and released on Tuesday shows that the profession has made progress towards greater diversity, although its record is patchy. There are more than 9,000 law firms in England and Wales employing about 170,000 people. Female solicitors now make up 47% of the profession while 18% come from black, Asian and minority ethnic backgrounds. Within the BAME category, there is significant underrepresentation of those from a black backgrounds \u2013 2% \u2013 while Asian groups, at 12%, are overrepresented compared with the general population. BAME lawyer are twice as likely to work in smaller firms than larger ones. More than half the profession, 53%, is made up of lawyers who are the first generation from their family to attend university. A disproportionately high number, 22%, attended fee paying schools. Those who identified themselves as having a disability, 3% of solicitors, are under-represented in the legal workforce. Although women account for about half of all lawyers, only 33% of partners in law firms are female and many of those are in smaller companies.  Paul Philip, the SRA\u2019s chief executive, said: \u201cEncouraging diversity in legal services is not about ticking boxes. It is of course the right thing to do, but it also helps to make sure the sector is as competitive as possible. There should not be any barriers stopping the best people \u2013 whatever their background \u2013 thriving in law.\u201d",
+  "webTitle": "Almost half of solicitors in England and Wales are women, study shows",
+  "webPublicationDate": "2016-05-17T06:01:35Z",
+  "webUrl": "https://www.theguardian.com/law/2016/may/17/almost-half-solicitors-england-wales-women-bame-lawyers-black-background",
+  "keyword": [
+    {
+      "webTitle": "Solicitors",
+      "id": "law/solicitors",
+      "sectionId": "law",
+      "sectionName": "Law"
+    },
+    {
+      "webTitle": "Equality",
+      "id": "society/equality",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Law",
+      "id": "law/law",
+      "sectionId": "law",
+      "sectionName": "Law"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Owen Bowcott",
+      "id": "profile/owenbowcott"
+    }
+  ],
+  "guardianId": "law/2016/may/17/almost-half-solicitors-england-wales-women-bame-lawyers-black-background"
+}

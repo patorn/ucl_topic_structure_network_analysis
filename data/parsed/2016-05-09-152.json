@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/society/2016/may/09/barnet-council-chief-andrew-travers-steps-down-election-blunder",
+  "id": "2016-05-09-152",
+  "sectionId": "society",
+  "body": "The chief executive of Barnet council has left his post after an election-day blunder resulted in many people in the north London borough being unable to vote. Andrew Travers has left Barnet council by \u201cmutual agreement\u201d following the fiasco on 5 May, in which thousands of names were missing from electoral lists at the north London authority\u2019s 155 polling stations. Many residents attempting to vote in the mayoral and London assembly elections were turned away, including the chief rabbi, Ephraim Mirvis. Mirvis was unable to vote and is yet to receive an apology.   The council has been unable to say how many of the 236,196 registered voters were turned away. It has launched an investigation into what went wrong and to ensure arrangements for the EU referendum in June are appropriate. A council spokesman said: \u201cFollowing the events during the morning of Thursday\u2019s elections it has been decided, by mutual agreement, that Andrew Travers, chief executive, will leave the council.\u201d The Electoral Commission has said an election would only be held again if the result was challenged by a constituent after voting closed. The commission said any legal challenge had to be raised with the Royal Courts of Justice within 21 days. Travers, who was in the post for three-and-half years, said: \u201cI have enjoyed my time at Barnet and I believe the changes we have put in place and the continued programme of growth and transformation will enable the borough to continue to thrive.\u201d  The deputy chief executive, John Hooton, will take over until a new council boss is found.  The Barnet council leader, Richard Cornelius, said: \u201cAndrew has overseen Barnet council during a significant period of challenge and opportunity, delivering changes to services to ensure we get the best value for the taxpayer and securing the council\u2019s financial position. He leaves with my thanks and best wishes.\u201d",
+  "webTitle": "Barnet council chief steps down after election blunder",
+  "webPublicationDate": "2016-05-09T14:28:56Z",
+  "webUrl": "https://www.theguardian.com/society/2016/may/09/barnet-council-chief-andrew-travers-steps-down-election-blunder",
+  "keyword": [
+    {
+      "webTitle": "Local government",
+      "id": "society/localgovernment",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Local elections",
+      "id": "politics/local-elections",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Local politics",
+      "id": "politics/localgovernment",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "London",
+      "id": "uk/london",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jamie Grierson",
+      "id": "profile/jamie-grierson"
+    }
+  ],
+  "guardianId": "society/2016/may/09/barnet-council-chief-andrew-travers-steps-down-election-blunder"
+}

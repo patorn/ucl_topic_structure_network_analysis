@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/money/2016/may/11/gumtree-lost-deposit",
+  "id": "2016-05-11-361",
+  "sectionId": "money",
+  "body": "We bought our eight-year-old daughter an entry-level motocross motorcycle on Gumtree so she could learn to ride. As part of the purchase agreement we paid \u00a3100 deposit, but when we called to arrange a collection the seller told us he had sold the bike to someone else and wouldn\u2019t give us our deposit back. As I have written confirmation from the seller that the deposit had been paid, I attempted to start legal action by using the government\u2019s \u201cMoney Claim Online\u201d service. Unlike eBay, Gumtree does not list sellers\u2019 details and I was told that, due to data protection, it could not provide these unless I submitted a formal request from a solicitor. I asked a solicitor friend to send the request informally. He did so and provided his legal credentials but Gumtree refused to accept this. The seller deliberately misrepresented their actions and is now being protected by Gumtree which is hiding behind data protection. DB, London The Data Protection Act does allow companies to disclose personal information to third parties when a crime has been committed, but it\u2019s up to the company to decide whether or not to do so and, although formal form-filling is not a legal requirement, the Act suggests that firms request this to protect themselves. Gumtree tells me that it accepts forms filled out by police, as well as solicitors, although finding an officer with the time for penmanship is likely to be a challenge. \u201cIn this instance, the process was not completed by the proper representative and the data was not shared,\u201d it says. It points out that it warns customers to view items before paying, and to avoid money transfers. \u201cWe are totally committed to keeping the site as safe as possible, and will always assist in a criminal investigation. We work closely with the police and other law enforcement to help secure convictions.\u201d You can complain to the Information Commissioner\u2019s Office if you feel that Gumtree has acted unfairly, but, frankly, the chances of recouping your money through the courts is negligible. Even if you win, the defendant may not pay up and the court fee will take a chunk out of any award. If the deposit was paid by credit card you can make a claim via the card issuer under Section 75 of the Consumer Credit Act. If it was by debit card you may get your money back via chargeback. If you need help email Anna Tims at your.problems@observer.co.uk or write to Your Problems, The Observer, Kings Place, 90 York Way, London N1 9GU. Include an address and phone number.",
+  "webTitle": "Up a gumtree when I lost my \u00a3100 deposit on a bike",
+  "webPublicationDate": "2016-05-11T06:00:04Z",
+  "webUrl": "https://www.theguardian.com/money/2016/may/11/gumtree-lost-deposit",
+  "keyword": [
+    {
+      "webTitle": "Consumer rights",
+      "id": "money/consumer-rights-money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Consumer affairs",
+      "id": "money/consumer-affairs",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Anna Tims",
+      "id": "profile/annatims"
+    }
+  ],
+  "guardianId": "money/2016/may/11/gumtree-lost-deposit"
+}

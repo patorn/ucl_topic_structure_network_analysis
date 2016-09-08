@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media-network/2016/may/04/data-londoners-fitness-olympic-park-tfl-strava",
+  "id": "2016-05-04-272",
+  "sectionId": "media-network",
+  "body": "As the UK faces an obesity epidemic, fitness experts believe open data can play a vital part in getting the nation off the couch and into exercise. The belief is fitness is due its \u201cUber moment\u201d, where booking a tennis court or fitness activity is as simple as pressing a button on a smartphone.  A fledgling service that aims to make this happen will be launched by London Sport in time for the Rio Olympics this summer. The sporting body was set up to deliver on Boris Johnson\u2019s policy of making London the fittest city in the world by encouraging a million Londoners to get more active. Its CEO, Peter Fitzboydon, believes connecting sporting capacity with demand is crucial to achieving this goal. \u201cIf you want to help people get fit, you\u2019ve got to release the data on how they can access opportunities to be active,\u201d he says. \u201cEveryone\u2019s come across the situation where they want to have a game of squash or tennis with a friend but they\u2019re not sure how to book it. If you find the number for your local leisure centre and it\u2019s booked, you\u2019re not sure what the options are. But if you have an online service and an app that gives you availability and, if there isn\u2019t a slot, tells you where else you could book at the press of a button, that would open up so many more opportunities to get fit.\u201d Olympic standard So far only the Olympic Park is on board, agreeing to open up booking information and availability information to the new site. However, at Imin.co, a startup which will be powering the data on the new London Sport site, co-founder Nishal Desai believes there is cause for optimism. His company has been set up to be a repository of open data through which leisure centres and sports clubs can make booking information available to the public.  To that end, the company has set up Openactive, an open data project that fitness data owners are invited to join so their calendars can be openly shared. \u201cWe\u2019re at the early stages of getting an open data standard so leisure centres and clubs across the country can make their booking information available,\u201d says Desai. \u201cWe\u2019re having lots of very good discussions with leisure centre groups but they\u2019re not all set up to make their data available at the moment. That\u2019s why we\u2019re establishing a standard which many boroughs are telling us they\u2019ll ensure will be written in to future contracts to ensure centres have to open their data up.\u201d Desai believes this release of data will fuel many websites and apps that will make booking an activity far easier by either offering available sessions or suggesting viable nearby alternatives if there is no availability. The intention is that Imin will be the source of data these multiple apps can tap into to power their services. On the right route The power of open data in fitness is already being explored by running and cycling app Strava. It allows people to plan cycle and running routes, which can also be shared on social media sites. When users sign up for the free app, they give permission for their anonymised data to be pooled. The result is freely available statistics on cycling and running in major cities as well as \u201cheat\u201d maps that help people plan better routes, according to popularity, as well as inform local authorities where people are cycling and exercising the most, as Gareth Nettleton, vice-president of marketing at Strava, explains. \u201cWe have millions of routes logged all around the world so when we combine them we can provide a really useful service to cyclists and runners,\u201d he says. \u201cThey can look at the most popular routes and so incorporate them in to their plans. We\u2019ve also got details about climbs which cyclists can check to see if they want to incorporate. You might know your area really well but we can provide suggested routes nearly anywhere in the world.\u201d This open data is not only of use in encouraging cyclists and joggers to try new routes, via the free app, it is also being licensed by local transport bodies to help them plan through Strava\u2019s Metro service. \u201cWe\u2019re in the early days of working with TfL to show them where people are cycling the most,\u201d Nettleton says. \u201cI suspect we\u2019ll be able to help them plan cycle routes around where cyclists are going but also where they\u2019re avoiding. I, for example, avoid the Elephant and Castle huge roundabout in London because it\u2019s massive and, to me, it appears dangerous.  \u201cIf we can show that, we might be able to help TfL decide how to plan cycle routes around it. We\u2019ll also probably be able to show them where cyclists go when roads are closed or so they can fully understand the impact of road works. That\u2019s what we\u2019ve been doing for Brisbane in Australia, they\u2019ve been using our data to plan better cycle routes for the past three years.\u201d It is by freeing up the data of what happens when we exercise as well as where and when there are opportunities to exercise that open data experts believe fitness levels will increase. By showing people how, where and when they can get fitter, there will be that extra nudge to get couch potatoes on their local tennis courts or pounding the streets on a popular, scenic route. To get weekly news analysis, job alerts and event notifications direct to your inbox, sign up free for Media & Tech Network membership. All Guardian Media & Tech Network content is editorially independent except for pieces labelled \u201cPaid for by\u201d \u2013 find out more here.",
+  "webTitle": "Can data help a million Londoners get fit?",
+  "webPublicationDate": "2016-05-04T09:20:41Z",
+  "webUrl": "https://www.theguardian.com/media-network/2016/may/04/data-londoners-fitness-olympic-park-tfl-strava",
+  "keyword": [
+    {
+      "webTitle": "Media & Tech Network",
+      "id": "media-network/media-network",
+      "sectionId": "media-network",
+      "sectionName": "Media Network"
+    },
+    {
+      "webTitle": "Fitness",
+      "id": "lifeandstyle/fitness",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Cycling",
+      "id": "lifeandstyle/cycling",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Sean Hargrave",
+      "id": "profile/seanhargrave"
+    }
+  ],
+  "guardianId": "media-network/2016/may/04/data-londoners-fitness-olympic-park-tfl-strava"
+}

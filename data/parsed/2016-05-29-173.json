@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/29/sustainable-energy-iceland-geothermal-plant",
+  "id": "2016-05-29-173",
+  "sectionId": "environment",
+  "body": "Thanks to its position on a volatile section of the Mid-Atlantic ridge, Iceland is a world leader in the the use of geothermal energy, and of the six geothermal power plants in Iceland, Hellishei\u00f0i (pronounced \u201chet-li-shay-thee\u201d) is the newest and largest. Fully operational since 2010, it sits on the mossy slopes of the Hengill volcano in the south-west of the country; a green and placid-looking landscape that belies the turbulent geological activity rumbling beneath it. To access the potential energy under the surface, wells are drilled thousands of metres into the ground, penetrating reservoirs of pressurised water. Heated by the Earth\u2019s energy, this water can be more than 300C in temperature, and when released it boils up from the well, turning partly to steam on its way. At Hellishei\u00f0i, the steam is separated from the water to power some of the plant\u2019s seven turbines, while the remaining water is further depressurised to create more steam, used to power other turbines. At its maximum output the station can produce 303MW of electricity, making it one of the three largest single geothermal power stations in the world.      \u201cYou don\u2019t see a 300MW geothermal power station very often,\u201d says Marta R\u00f3s Karlsd\u00f3ttir, managing director of natural resources at ON Power, the publicly owned energy company that runs Hellishei\u00f0i. \u201cIt\u2019s big, but it\u2019s also state of the art and very efficient.\u201d What makes Hellishei\u00f0i particularly innovative is that, as well as electricity, it produces a hot water supply for the city of Reykjavik. Once the steam has been extracted, the remaining geothermal water is diverted to a heat exchanger, where it is used to heat up a supply of fresh, mains water. \u201cWe have a 26km pipeline down to Reykjavik,\u201d says Karlsd\u00f3ttir, \u201ctransporting hot water at around 80C.\u201d The natural incline of the mountain means the water travels naturally, and the pipe is so well insulated that it arrives in the city having only lost a degree or so in temperature. The thick billows of steam notwithstanding, it is almost hard to believe that Hellishei\u00f0i is a power station at all, resembling as it does a modern art gallery or conference centre. The station is open to the public, with guided tours, educational installations and even a souvenir shop. \u201cFrom the exhibition you can look over the turbine hall and hear the roar of the turbines,\u201d says Karlsd\u00f3ttir, \u201cnothing is burning, there\u2019s no mess, and we have walking paths all over the mountain.\u201d According to Karlsd\u00f3ttir, a major proportion of the plant\u2019s thousands of annual visitors are British schoolchildren, witnessing a vision of clean, sustainable power dramatically different from the murky, fossilised industry they are used to.",
+  "webTitle": "Sustainable energy: inside Iceland\u2019s geothermal power plant",
+  "webPublicationDate": "2016-05-29T06:30:26Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/29/sustainable-energy-iceland-geothermal-plant",
+  "keyword": [
+    {
+      "webTitle": "Geothermal energy",
+      "id": "environment/geothermal",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Energy",
+      "id": "environment/energy",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Sustainable development",
+      "id": "environment/sustainable-development",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Energy",
+      "id": "technology/energy",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Kit Buchan",
+      "id": "profile/kit-buchan"
+    }
+  ],
+  "guardianId": "environment/2016/may/29/sustainable-energy-iceland-geothermal-plant"
+}

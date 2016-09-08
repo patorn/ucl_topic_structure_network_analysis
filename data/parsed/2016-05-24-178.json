@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/24/sky-news-to-close-us-version-of-website",
+  "id": "2016-05-24-178",
+  "sectionId": "media",
+  "body": "Sky News is to shut the US version of its website as it looks to focus on its UK operation. The US site was launched four years ago to help build the Sky News brand in North America by tailoring stories directly to local readers. Sky has decided to shut the US site, which attracts just 514,000 visits a month according to SimilarWeb, in favour of building the core site.  \u201cOur focus is on serving our core customers in the UK which means we can no longer support a separate website to serve an American domestic audience,\u201d said a Sky News spokesman.  \u201cWe will of course continue to cover all the big stories from the United States, not least the race for the White House this year, and other stories from America will still feature prominently on our website and apps.\u201d The flagship skynews.com site receives more than 20 million visits a month, making it the 18th most popular UK-based news site according to SimilarWeb.  About 12% of that traffic is from US web users who seem to prefer visiting the UK site rather than the tailored US version.",
+  "webTitle": "Sky News to close US version of website",
+  "webPublicationDate": "2016-05-24T12:18:11Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/24/sky-news-to-close-us-version-of-website",
+  "keyword": [
+    {
+      "webTitle": "Sky News",
+      "id": "media/sky-news",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "TV news",
+      "id": "media/tvnews",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Television industry",
+      "id": "media/television",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Digital media",
+      "id": "media/digital-media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Mark Sweney",
+      "id": "profile/marksweney"
+    }
+  ],
+  "guardianId": "media/2016/may/24/sky-news-to-close-us-version-of-website"
+}

@@ -1,0 +1,43 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/13/manchester-united-bournemouth-match-preview",
+  "id": "2016-05-13-109",
+  "sectionId": "football",
+  "body": "The question for Manchester United fans is simple and painful: how did it come to needing to beat Bournemouth and Manchester City to lose at Swansea to qualify for the Champions League? This is the barest of requirements for the United behemoth and expect Louis van Gaal\u2019s job to be severely scrutinised should they end the season, as they begin Sunday as favourites to do, outside the top four. Jamie Jackson Kick-off Sunday 3pm  Venue Old Trafford Last season n/a Live Sky Sports 1 Referee Jonathan Moss This season G24, Y74, R6, 3.58 cards per game Odds H 2-5 A 8-1 D 4-1 Manchester United Subs from Romero, Borthwick-Jackson, Riley, Poole, Weir, Love, McNair, Varela, Depay, Herrera, Young, Jones, Fosu-Mensah, Mata Doubtful None Injured Keane (pelvis, unknown), Shaw (broken leg, Jun), Schweinsteiger (knee, Jun), Januzaj (knock, 21 May), Darmian (ankle, 21 May) Suspended Fellaini (last of three) Form LWWDWL Discipline Y64 R1 Leading scorer Martial 11 Bournemouth Subs from Federici, Wiggins, O\u2019Kane, Murray, Gosling, MacDonald, Iturbe, Afobe, Pugh, Ritchie, Grabban Doubtful None Injured Distin (back, Aug), Smith (hernia, Aug), Mings (knee, Sep), Rantie (knock, unknown) Suspended None Form LWLLLD Discipline Y52 R1 Leading scorer King 6",
+  "webTitle": "Manchester United v Bournemouth: match preview",
+  "webPublicationDate": "2016-05-13T15:52:57Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/13/manchester-united-bournemouth-match-preview",
+  "keyword": [
+    {
+      "webTitle": "Manchester United",
+      "id": "football/manchester-united",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Bournemouth",
+      "id": "football/bournemouth",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Premier League",
+      "id": "football/premierleague",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [],
+  "guardianId": "football/2016/may/13/manchester-united-bournemouth-match-preview"
+}

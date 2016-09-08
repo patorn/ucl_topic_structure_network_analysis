@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/09/uk-government-accused-of-pursuing-gimmicks-to-tackle-air-pollution",
+  "id": "2016-05-09-136",
+  "sectionId": "environment",
+  "body": "Lawyers have accused the government of pursuing gimmicks to tackle illegal air pollution, after it emerged experts were asked to examine whether high-tech paint could fix the problem. After losing a legal battle over pollution in the supreme court last year, the environment department last year announced plans for five clean air zones which will not affect nine in 10 vehicles. But in their search for solutions, officials also commissioned a study by scientists into whether a type of paint could effectively reduce nitrogen dioxide (NO2), a toxic gas produced by diesel vehicles linked to thousands of premature deaths in London alone each year.  The Department for the Environment, Food and Rural Affairs (Defra) said it was unable to provide a figure for the cost of the study because the group that produced it is paid an annual fee for a series of reports. When exposed to sunlight, titanium dioxide in the paint converts NO2 to a nitrate bound to the surface, which can then be washed off. But the report by the Air Quality Expert Group concluded that the paint would not make a dent in the UK\u2019s pollution problem. \u201cTaken as a whole, there is little current evidence to suggest the widespread use of photocatalytic surfaces will reduce ambient concentrations of NO2,\u201d the team of experts from King\u2019s College London, University of York and the University of Leeds found after analysing field trials.  The problem, they said, was that the volumes of air that would make contact with the surfaces was not enough to have a significant impact on NO2 levels, which are in breach of European limits in dozens of cities including London, Birmingham, Manchester, Cardiff and Edinburgh. Even worse, using such paint could have unwanted side effects. \u201cFurthermore, there is a risk that these materials will result in the production of other undesirable species such as nitrous acid and formaldehyde, which can have wider impacts on atmospheric chemistry as well as adverse health impacts,\u201d the authors wrote in the report, which was quietly published in April. Such an approach was much harder than tackling emissions at the tailpipe, they said. \u201cCompared with emissions source control, reducing emissions once diluted in the atmosphere is challenging.\u201d Alan Andrews, a lawyer at ClientEarth, which won the supreme court case and is taking the government to court again, said: \u201cResearch should be focused on cutting air pollution at source, not on gimmicks which seek to treat the symptoms but not the causes of Britain\u2019s air pollution crisis. The government is desperately trying to avoid tackling dirty diesel vehicles, which is why we\u2019re taking them back to court over their failure to clean up our air.\u201d MPs, green groups and thinktanks have proposed a range of measures to tackle \u201cpublic health emergency\u201d of air pollution, including a scrappage scheme for diesel cars, more clean air zones and greener public transport. Paint has not featured in the debate so far. A Defra spokeswoman said the government was not looking at pursuing paint as part of its air quality plans. \u201cThe point of the report was to give us a better understanding of all available options to reduce nitrogen oxides (NOx) [which include NO2],\u201d a spokeswoman said. Parts of the UK are forecast to suffer moderate air pollution this week, although it is expected to largely clear by Friday.",
+  "webTitle": "UK government accused of pursuing 'gimmicks' to tackle air pollution",
+  "webPublicationDate": "2016-05-09T15:10:53Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/09/uk-government-accused-of-pursuing-gimmicks-to-tackle-air-pollution",
+  "keyword": [
+    {
+      "webTitle": "Pollution",
+      "id": "environment/pollution",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Travel and transport",
+      "id": "environment/travel-and-transport",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Adam Vaughan",
+      "id": "profile/adam-vaughan"
+    }
+  ],
+  "guardianId": "environment/2016/may/09/uk-government-accused-of-pursuing-gimmicks-to-tackle-air-pollution"
+}

@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/08/roberto-martinez-matthew-pennington-everton",
+  "id": "2016-05-08-10",
+  "sectionId": "football",
+  "body": "Roberto Mart\u00ednez\u2019s future at Everton appears increasingly bleak and issued a damning assessment of his team\u2019s latest woeful performance byhe admitting that Matthew Pennington, a 21-year-old academy graduate who was recently recalled from a loan spell at Walsall, was the only player to emerge from the 3-1 defeat at Leicester with his reputation intact.   Related: Leicester City lift Premier League trophy after 3-1 win against Everton \u2013 as it happened    \u201cWe played last week and we had all the attributes you need to win a football game,\u201d Mart\u00ednez said. \u201cSaturday is a contrasting performance, we got caught up into what was a celebration for the home team and we didn\u2019t look ready. \u201cA young player who could maybe have been caught by the occasion was Matty Pennington and he was the only player who played with intent, with meaning and desire and it is a shame no one else on the pitch could match that focus.\u201d",
+  "webTitle": "Roberto Mart\u00ednez criticises Everton team but praises Matthew Pennington",
+  "webPublicationDate": "2016-05-08T21:43:00Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/08/roberto-martinez-matthew-pennington-everton",
+  "keyword": [
+    {
+      "webTitle": "Roberto Mart\u00ednez",
+      "id": "football/roberto-martinez",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Everton",
+      "id": "football/everton",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Leicester City",
+      "id": "football/leicestercity",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Premier League",
+      "id": "football/premierleague",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Stuart James",
+      "id": "profile/stuartjames"
+    }
+  ],
+  "guardianId": "football/2016/may/08/roberto-martinez-matthew-pennington-everton"
+}

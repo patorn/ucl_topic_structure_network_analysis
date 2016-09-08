@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/australia-news/2016/may/05/cardiotocograph-failures-led-to-deaths-of-three-babies-victorian-coroner-finds",
+  "id": "2016-05-05-308",
+  "sectionId": "australia-news",
+  "body": "A failure to identify and respond to abnormal heartbeat readings from a cardiotocograph machine contributed to the death of three babies shortly after their births at Bacchus Marsh hospital in Melbourne\u2019s west, a coroner has found. The finding follows a review completed in October into the deaths of 10 babies at the hospital between 2013 and 2014, which found seven of the deaths could have been avoided. The board of the Djerriwarrh health services was sacked after the review found a higher than normal number of babies had died, more than twice the number that would have been expected at a service that managed low-risk births. In November the new CEO of Djerriwarrh, Andrew Freeman, wrote to the coroner about three of the babies who died, identified only as babies M, E, and Z to protect the privacy of their families. Each child was their parents\u2019 first and all were girls. \u201cIn all three cases it was considered that there may have been a failure on the part of the attending midwives to identify and respond to abnormal cardiotocograph traces,\u201d Freeman wrote. \u201cIt is possible that had the CTG traces been actioned, the deaths of the babies might have been prevented.  \u201cThe deaths would not have been expected if the care and management of the mothers\u2019 labours had been different and, in particular, the abnormal cardiotocograph traces actioned.\u201d   Related: Victoria abortion protest laws take effect after being fast-tracked by government    The coroner, Jacqui Hawkins, found this to be true. She accepted evidence from medical experts that there was a significant delay in delivering all three babies due to misinterpretation and mismanagement of the cardiotocograph readings in the hours before the births. A cardiotocograph records the fetal heartbeat and uterine contractions during labour. However, while the management of labour and birth of the babies was suboptimal, Hawkins could not say what the outcome would have been had the babies been delivered earlier.  \u201cI am satisfied that Djerriwarrh has learnt some valuable lessons from being exposed to the Consultative Council on Obstetric and Paediatric Mortality and Morbidity review and the Department of Health and Human Services investigations that occurred during 2013 and 2014,\u201d she wrote in her findings. \u201cThe remedial actions that have been and are being implemented by Djerriwarrh as a result of these investigations are thorough and achievable.\u201d She added that improvements had since been made at the hospital, including intensive staff training programs, weekly maternity unit meetings, increased clinical reviews and weekly cardiotocograph review meetings. \u201cGiven all of the improvements made, I believe the community should now have confidence that the shortcomings identified have been addressed by Djerriwarrh,\u201d Hawkins said. The Australian Health Practitioner Regulation Agency (AHPRA) last year apologised for the length of the investigation into a long-serving doctor at the health service who was first a subject of a complaint in 2013 because of concerns about his care of a mother after the stillbirth of her baby. The doctor surrendered his medical registration of his own accord in October and AHPRA investigations are continuing.",
+  "webTitle": "Cardiotocograph failures led to deaths of three babies, Victorian coroner finds",
+  "webPublicationDate": "2016-05-05T06:42:35Z",
+  "webUrl": "https://www.theguardian.com/australia-news/2016/may/05/cardiotocograph-failures-led-to-deaths-of-three-babies-victorian-coroner-finds",
+  "keyword": [
+    {
+      "webTitle": "Victoria (news)",
+      "id": "australia-news/victoria--news-",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Health (Australia)",
+      "id": "australia-news/health",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Melissa Davey",
+      "id": "profile/melissa-davey"
+    }
+  ],
+  "guardianId": "australia-news/2016/may/05/cardiotocograph-failures-led-to-deaths-of-three-babies-victorian-coroner-finds"
+}

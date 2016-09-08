@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/29/the-daughter-review-sam-neill",
+  "id": "2016-05-29-169",
+  "sectionId": "film",
+  "body": "Very loosely based on Henrik Ibsen\u2019s play The Wild Duck, this solid drama is transposed to contemporary Australia and a community blighted by a dying logging industry. Christian (Paul Schneider) returns home to attend the marriage of his father (Geoffrey Rush), but in doing so unearths a long-buried secret that has ramifications for the family of his best friend, Oliver (Ewen Leslie). The sense of communities rent apart by spectres from the past is reminiscent of the work of Ray Lawrence, the director of Lantana and Jindabyne. And it\u2019s perhaps no coincidence that director Simon Stone appeared as an actor in the latter. Other influences include Terrence Malick, particularly in the use of sound and the way fragments of dialogue bleed across scenes. The melodrama of the third act is mitigated by the quality of the performances. Sam Neill is particularly fine, as is Odessa Young as the eponymous daughter.",
+  "webTitle": "The Daughter review \u2013 small-town Australia haunted by the past",
+  "webPublicationDate": "2016-05-29T06:59:00Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/29/the-daughter-review-sam-neill",
+  "keyword": [
+    {
+      "webTitle": "Drama",
+      "id": "film/drama",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Sam Neill",
+      "id": "film/sam-neill",
+      "sectionId": "film",
+      "sectionName": "Film"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Wendy Ide",
+      "id": "profile/wendy-ide"
+    }
+  ],
+  "guardianId": "film/2016/may/29/the-daughter-review-sam-neill"
+}

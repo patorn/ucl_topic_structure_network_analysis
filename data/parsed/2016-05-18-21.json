@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/18/nfl-quarterback-tim-tebow-book-october-2016",
+  "id": "2016-05-18-21",
+  "sectionId": "sport",
+  "body": "The former NFL quarterback Tim Tebow will publish a new book in October \u2013 and it promises to lift the lid on how to navigate \u201clife\u2019s storms\u201d. Shaken: Discovering Your True Identity in the Midst of Life\u2019s Storms, by Tim Tebow, will be published by Waterbrook, a Christian imprint of the Crown Publishing Group, later this year, the company confirmed to the Associated Press on Tuesday. Tebow, 28, will write about how to handle success and disappointment \u2013 and how to maintain perspective \u201cwhen your dreams do not go as planned.\u201d WaterBrook said it also plans a companion Bible study. Tebow, a former Heisman Trophy winner at the University of Florida, was drafted by the Broncos to much fanfare in 2010, and led his team to the playoffs in 2011. But he was deemed surplus to requirements after Denver signed Peyton Manning, and struggled to find a starting spot during stints with the Jets, the Patriots and the Eagles. He was released by Philadelphia last year and it seems he\u2019s planning for life after the NFL. Tebow, a prominent Christian, became known beyond the NFL for his signature pre-game pose: head bowed, kneeling as if in prayer, arm resting on the one bent knee. Tebow was awarded the stamp to \u201cTebowing\u201d after winning a legal battle with two fans who wanted to trademark the name. His memoir Through My Eyes was a bestseller in 2011.",
+  "webTitle": "Former NFL quarterback Tim Tebow to publish book on 'life's storms'",
+  "webPublicationDate": "2016-05-18T21:43:51Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/18/nfl-quarterback-tim-tebow-book-october-2016",
+  "keyword": [
+    {
+      "webTitle": "Tim Tebow",
+      "id": "sport/tim-tebow",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Denver Broncos",
+      "id": "sport/denver-broncos",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "NFL",
+      "id": "sport/nfl",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "US sports",
+      "id": "sport/us-sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "sport/2016/may/18/nfl-quarterback-tim-tebow-book-october-2016"
+}

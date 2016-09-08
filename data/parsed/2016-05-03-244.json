@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/03/tim-cook-iphone-model-upgrade",
+  "id": "2016-05-03-244",
+  "sectionId": "technology",
+  "body": "Apple\u2019s chief executive, Tim Cook, has attempted to assuage fears over the company\u2019s fall in earnings, saying that the dip in stock price was a \u201chuge overreaction\u201d and that forthcoming iPhones will make people look back and ask \u201chow did I live without this?\u201d Cook described the 26% year-on-year drop in revenues Apple suffered last quarter and the trouble in China which caused the billionaire investor Carl Icahn to sell his entire stake in the company as \u201cshort-term turbulence\u201d. Talking to Jim Cramer on CNBC\u2019s Mad Money, he said: \u201cWhat we\u2019re seeing is that people are upgrading at a lower rate than they did last year, but still higher than the year before. So we had this abnormally high upgrade rate last year as people bought into the iPhone 6.\u201d The iPhone 6 brought with it a change in screen size and design for the flagship smartphone, expanding to 4.7in for the iPhone 6 and 5.5in for the iPhone 6 Plus, Apple\u2019s first smartphone with a screen larger than 4in. But Apple has been accused of failing to offer a compelling reason to upgrade with the 2015 iPhone 6S and 6S Plus.   Related: A brief guide to everything that\u2019s annoying about Apple    \u2018How did I live without this?\u2019 \u201cWe have great innovation in the pipeline, like new iPhones that will incent you and other people that have iPhones today to upgrade to new iPhones,\u201d said Cook. \u201cWe are going to give you things that you can\u2019t live without, that you just don\u2019t even know you need today. You will look back and wonder: \u2018How did I live without this?\u2019\u201d Cook, who admitted that the company was secretive and \u201cdidn\u2019t talk about futures\u201d as some others do, would not be drawn on what the anticipated iPhone 7 would contain. LG recently unveiled a fingerprint scanner that can work through a glass screen, without the need for dedicated button, which has long been expected to be Apple\u2019s end-goal for its Touch ID fingerprint scanner. Whether that technology, which is expected to appear in phones towards the end of 2016 or the beginning of 2017, will be included in the iPhone 7 is unknown. Apple has also faced criticism over its Watch, which has failed to meet expectations, despite being the number-one selling smartwatch in the world with 13m sold in 2015, according to research firm IDC, and a further 14m expected this year. Cook was bullish, saying the company was still in \u201clearning mode\u201d and that its goal was to slowly establish the category. The iPod or iPhone weren\u2019t seen as overnight successes Cook said: \u201cIf you look all the things Apple has done over time, at the time that they were done they are rarely ever seen like they were in retrospect. \u201cI think the watch will be like that too. If you look at iPod it wasn\u2019t viewed as a success, but today it\u2019s viewed as an overnight success. The iPhone was the same way. People were writing about it not having a physical keyboard, obviously no one would want it. \u201cIn a few years we will look back and people will say, \u2018how could I ever have thought about not wearing this watch\u2019, because it will be doing so much for you. Then it will be viewed as an overnight success.\u201d Cook also addressed concerns that the iPhone had finished its growth and that it was entering a plateau, saying that what is seen in the US is not representative of the rest of the world. \u201cEventually everyone in the world will have a smartphone, but penetration is around 40% so there is a long way to go. In the short term, the iPhone upgrade rate affects all countries, including China. But the switcher rate is up to nearly 40%. \u201cWhat that says is that the market doesn\u2019t need to be growing hugely for Apple to grow. If we can get switchers we can grow.\u201d  Are slow iPhone sales just a blip or is Apple starting to struggle? 40 years of Apple \u2013 in pictures",
+  "webTitle": "Tim Cook: iPhones that will drive people to upgrade are on their way",
+  "webPublicationDate": "2016-05-03T10:53:39Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/03/tim-cook-iphone-model-upgrade",
+  "keyword": [
+    {
+      "webTitle": "Apple",
+      "id": "technology/apple",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Tim Cook",
+      "id": "technology/tim-cook",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Smartphones",
+      "id": "technology/smartphones",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "iPhone",
+      "id": "technology/iphone",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Apple Watch",
+      "id": "technology/apple-watch",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Smartwatches",
+      "id": "technology/smartwatches",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Wearable technology",
+      "id": "technology/wearable-technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Mobile phones",
+      "id": "technology/mobilephones",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Samuel Gibbs",
+      "id": "profile/samuel-gibbs"
+    }
+  ],
+  "guardianId": "technology/2016/may/03/tim-cook-iphone-model-upgrade"
+}

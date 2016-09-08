@@ -1,0 +1,37 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/07/nyquist-wins-kentucky-derby",
+  "id": "2016-05-07-2",
+  "sectionId": "sport",
+  "body": "Nyquist won the Kentucky Derby by one and a quarter lengths on Saturday, improving to 8-0 in his career as the fourth consecutive favorite to win the race. Ridden by Mario Gutierrez, Nyquist ran one and a quarter miles in 2:01.31. The 3-year-old colt became the eighth unbeaten winner in the race\u2019s 142-year history. He paid $6.60, $4.80 and $3.60 as the 2-1 favorite in the full field of 20 horses. Nyquist delivered a second Derby win for Gutierrez, trainer Doug O\u2019Neill and owner J Paul Reddam. They were the team behind 2012 Derby and Preakness winner I\u2019ll Have Another. Exaggerator returned $5.40 and $4.20, while Gun Runner was another three lengths back in third and paid $6 to show. Nyquist enjoyed a perfect trip over the Churchill Downs dirt in front of 167,227, the second-largest crowd in Derby history. The colt broke well out of the 13th post and showed some early speed getting away from the gate. Gutierrez eased Nyquist back to let speedster Danzing Candy take the lead going into the chaotic first turn. Nyquist stayed just off the lead and Gutierrez kept him in the clear, steering him to the outside on the final turn. Nyquist and Gun Runner overtook tiring leader Danzing Candy at the top of the stretch. Gun Runner was only in front briefly before Nyquist showed a strong finishing kick. He put away Gun Runner and sped to the finish line, with Exaggerator closing but never threatening after coming from well back. Mohaymen finished fourth and Suddenbreakingnews was fifth. A year ago, American Pharoah won the Derby, launching his run to the sport\u2019s first Triple Crown in 37 years. Now Nyquist is the only horse in position to replicate the feat. Destin was sixth, followed by Brody\u2019s Cause, Mo Tom, Lani and Mor Spirit, trained by Bob Baffert, who guided American Pharoah last year. My Man Sam was 11th, followed by Tom\u2019s Ready, Creator, Outwork, Danzing Candy, Trojan Nation, Oscar Nominated, Majesto and Whitmore. Shagaf didn\u2019t finish.",
+  "webTitle": "Nyquist produces brilliant run to win Kentucky Derby",
+  "webPublicationDate": "2016-05-07T23:53:18Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/07/nyquist-wins-kentucky-derby",
+  "keyword": [
+    {
+      "webTitle": "Kentucky Derby",
+      "id": "sport/kentucky-derby",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "US sports",
+      "id": "sport/us-sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Horse racing",
+      "id": "sport/horse-racing",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [],
+  "guardianId": "sport/2016/may/07/nyquist-wins-kentucky-derby"
+}

@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/16/bearded-vulture-spotted-west-country-lammergeier-first-time-uk",
+  "id": "2016-05-16-106",
+  "sectionId": "environment",
+  "body": "A spectacular bearded vulture, believed to be the first recorded in the UK, has been spotted soaring over the Severn estuary and moorland in Devon. If it is confirmed that the vulture, also known as the lammergeier or ossifrage, is a wild bird, it will be the first of its species to be found in Britain and the sightings have already caused ornithologists to rush to the west country hoping for a glimpse.  The lammergeier was filmed on the Welsh side of the Second Severn Crossing at the end of last week, perched on rocks then flying off toward the bridge.  It is believed the same bird was seen last weekend over Dartmoor in Devon about 100 miles away. Though already a sizeable bird, the specimen is thought to be a juvenile. Adults can boast a wingspan of almost three metres (9.8ft). Josh Jones, news manager at BirdGuides, said the sighting was very exciting. \u201cI think we\u2019re going to have a lot of people wanting to take a look,\u201d he said. \u201cThis is special bird and we could get monster crowds.\u201d  The same bird is believed to have been spotted in Belgium earlier this month. Some lammergeier have been released in the Alps as part of reintroduction programmes but those birds have dyed feathers so can be easily recognised. There were no obviously dyed feathers \u2013 or rings \u2013 on the Severn vulture which suggests it could be a genuinely wild bird. Young lammergeier do travel large distances.  The bearded vulture eats mainly carrion and lives and breeds on crags in high mountains in southern Europe, the Caucasus, Africa, the Indian subcontinent and Tibet. A posting on the Gwent Birding website relating to the sighting near the Severn estuary reads: \u201cLammergeier at Sudbrook, Gwent on Thursday 12th May. Seen to fly east, then circle and head west. Possibly/probably the bird seen in Belgium on 9th May. No obvious signs of bleached flight feathers (as per at least some reintroduced birds), colour marks, etc.\u201d",
+  "webTitle": "Spectacular bearded vulture spotted for first time in UK",
+  "webPublicationDate": "2016-05-16T17:09:31Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/16/bearded-vulture-spotted-west-country-lammergeier-first-time-uk",
+  "keyword": [
+    {
+      "webTitle": "Birds",
+      "id": "environment/birds",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Animals",
+      "id": "world/animals",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Wildlife",
+      "id": "environment/wildlife",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Steven Morris",
+      "id": "profile/stevenmorris"
+    }
+  ],
+  "guardianId": "environment/2016/may/16/bearded-vulture-spotted-west-country-lammergeier-first-time-uk"
+}

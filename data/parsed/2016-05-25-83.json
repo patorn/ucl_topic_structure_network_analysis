@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/25/kermit-washington-nba-fraud-charges-charity",
+  "id": "2016-05-25-83",
+  "sectionId": "sport",
+  "body": "Kermit Washington, the NBA journeyman best known for breaking Rudy Tomjanovich\u2019s jaw with a devastating punch during a Lakers-Rockets game in 1977, has been arrested and charged with defrauding charity donors and diverting the proceeds for his own personal gain. Washington, 64, been charged with interfering with the internal revenue laws, conspiring to commit wire fraud, obstruction of justice and aggravated identity theft. He was arrested on Tuesday in Los Angeles. He faces more than 40 years in prison if convicted, and could be fined up to $1m. Prosecutors say Washington diverted the proceeds of Project Charity Africa \u2013 set up to help disadvantaged families and children there \u2013 to purchase gifts and vacations for himself and cover personal expenses. Washington had claimed 100% of the proceeds would be donated to Africa. \u201cIndividuals who use charitable organizations to defraud donors and evade tax obligations inflict substantial harm on every US taxpayer and cause untold damage to well-intentioned charitable endeavors,\u201d acting assistant attorney general Caroline Ciraolo said in statement. \u201cThe Department (of Justice) is committed to identifying those engaged in such criminal conduct and holding them accountable.\u201d Prosecutors allege that along with diverting funds for his own gain, Washington filed false income tax documents between 2010 and 2013. Washington played 15 years in the NBA, with the Lakers, Celtics, Clippers, Trail Blazers and Warriors. He was suspended for 60 days without pay and fined $10,000 for the punch, which shattered Tomjanovich\u2019s jaw and face and inflicted life-threatening head injuries. Tomjanovich spent five months on the sidelines before making a recovery, although he was never the same player again. A defensive forward at 6ft 8in, Washington was known for his rebounding ability, and was selected for the NBA All-Star Game in 1980.",
+  "webTitle": "Ex-NBA player Kermit Washington charged with defrauding charity donors",
+  "webPublicationDate": "2016-05-25T17:06:50Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/25/kermit-washington-nba-fraud-charges-charity",
+  "keyword": [
+    {
+      "webTitle": "NBA",
+      "id": "sport/nba",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "US crime",
+      "id": "us-news/us-crime",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US sports",
+      "id": "sport/us-sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Portland Trail Blazers",
+      "id": "sport/portland-trail-blazers",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "sport/2016/may/25/kermit-washington-nba-fraud-charges-charity"
+}

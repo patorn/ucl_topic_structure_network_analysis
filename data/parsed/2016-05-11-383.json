@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/10/female-emojis-google-equality",
+  "id": "2016-05-11-383",
+  "sectionId": "technology",
+  "body": "Google employees have proposed a new set of emojis aimed at promoting gender equality in the workplace, including cartoon female engineers, chemists, plumbers and farmers.  The Google team presented the designs of 13 new emojis on Tuesday at the Unicode Consortium, a Silicon Valley not-for-profit group that runs an \u201cemoji subcommittee\u201d overseeing the creation of new emojis. \u201cNo matter where you look, women are gaining visibility and recognition as never before,\u201d the four Google workers wrote in their proposal. \u201cIsn\u2019t it time that emoji also reflect the reality that women play a key role in every walk of life and in every profession?\u201d  As emojis have exploded in popularity in recent years, there have been ongoing debates about diversity in the available images, prompting the creation of more racially diverse faces as well as same-sex emojis.     Of the 92% of online consumers who use emojis, 78% of frequent users are women, compared to 60% of men. Photograph: from unicode.org website    Given that millions of people across the globe use emojis as an \u201cimportant means of communication\u201d and that \u201cwomen under 30 are most the frequent emoji users by far\u201d, the Google proposal said \u201cit\u2019s not surprising that women and men are increasingly vocal about the need for more accurate female representation in emoji professions\u201d. Jeremy Burge, the founder of both the online resource Emojipedia and World Emoji Day, as well as a member of the Unicode Consortium\u2019s Emoji Subcommittee, told the Guardian that the proposal from Google was well-written and \u201cpragmatic from an encoding point of view\u201d, meaning that it could be implemented fairly quickly. \u201cIf something like this were adopted, it could be put on phones this year, rather than waiting 12 to 18 months for Unicode 10. ... The pitch from Google is basically \u2018if we want to do this, and sooner than mid-2017, this proposal would allow that.\u201d Burge was in favour of the proposal. \u201cIt\u2019s pretty clear that female-oriented professions are under-represented in emoji, and this approach is a clever way to address the issue now, rather than pushing it down the line.\u201d He said he expected more would be known about the outcome by the meeting of the Unicode Technical Committee in August.  Of the 92% of online consumers who use emojis, 78% of frequent users are women, compared to 60% of men, according to the report. There have also been growing concerns about sexism and stereotypes that female emojis can promote. Last month, first lady Michelle Obama tweeted that she \u201cwould love to see a girl studying emoji\u201d, the Google proposal noted. The Google team chose professions for its proposal based on labor data and the increasing interest in gender equality in science, technology, engineering and math. Ultimately, they came up with a list that included jobs in farming, manufacturing, healthcare, technology, business, education, food service and music. The team said it hopes the adoption of their emojis will be rapid: \u201cGiven the urgency to improve the representation of women in emoji, we recommend standardizing these characters as quickly as possible.\u201d Elle Hunt contributed reporting.",
+  "webTitle": "Google proposes new set of female emojis to promote equality",
+  "webPublicationDate": "2016-05-11T01:56:04Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/10/female-emojis-google-equality",
+  "keyword": [
+    {
+      "webTitle": "Google",
+      "id": "technology/google",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Emoji",
+      "id": "technology/emoji",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Sam Levin",
+      "id": "profile/sam-levin"
+    }
+  ],
+  "guardianId": "technology/2016/may/10/female-emojis-google-equality"
+}

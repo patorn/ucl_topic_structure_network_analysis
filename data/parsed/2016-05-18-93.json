@@ -1,0 +1,102 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/18/european-commission-spain-portugal-budget-deficits-pierre-moscovici",
+  "id": "2016-05-18-93",
+  "sectionId": "business",
+  "body": "The European commission has avoided handing a propaganda weapon to those campaigning for Britain to leave the EU by delaying a decision on disciplinary action against Spain and Portugal for breaking budget rules until after the EU referendum. Brussels said the postponement of possible action, which could include fines, was due to the general election in Spain on 26 June, three days after the referendum on Britain\u2019s EU membership. The announcement by Pierre Moscovici, the European commissioner for economic affairs, that the two countries \u2013 which were badly affected by the eurozone crisis \u2013 would be given more time to repair their public finances will also be a relief to David Cameron. The prime minister has been buoyed by recent polls suggesting that the remain campaign is pulling ahead in the referendum battle, but is keen that potential punishments for countries breaking EU fiscal rules, along with decisions on other potentially toxic topics such as Greece\u2019s debt and migration, should be delayed for just over a month. Following an intervention from Jean-Claude Juncker, the EC president, Moscovici told a news conference in Brussels that the commission did not consider that this was the right moment economically or politically to get tough. The inability of Spain\u2019s caretaker government to take budget decisions ahead of the election justified putting off a decision until early July, he said. Instead, Brussels said it wanted to see further action to reduce borrowing, adding that it would review the positions of Portugal and Spain in early July. They have both failed to reduce their budget deficits below the limit of 3% of national output demanded by the EC. Brussels also granted Italy the maximum flexibility under EU fiscal discipline procedures in response to demands from Rome to be given more space to revive anaemic growth and cope with the cost of taking in refugees.  The respite for Spain and Portugal may prove brief, since hardline eurozone countries, led by Germany, are insisting that enforcement action be taken in early July. In theory, the commission could fine the two countries up to 0.2% of their GDP for breaking the rules. Spain was set a target to reduce its budget deficit to 4.2% of GDP in 2015, but is on course for a 5.1% shortfall. Portugal\u2019s 2.7% of GDP target will be breached by 1.7 percentage points. Moscovici cited the Spanish election and the fact that a caretaker government was unable to make decisions on the budget among the factors in the decision to defer action.  \u201cWe are proposing new deadlines for both countries to correct their excessive deficits,\u201d he said. \u201cWe propose that each country receives one extra year and one extra year only. The new deadline for Portugal will be 2016, and for Spain, 2017.\u201d  Carsten Brzeski, an economist at ING, said the decision on Spain made technical sense, since a new government in Madrid would be needed to implement any possible recommendations from the commission. \u201cAt the same time, however, this decision also has a slight air of avoiding a political clash during the election campaign, as [the] Spanish prime minister, [Mariano] Rajoy, has recently caught attention with promises to cut taxes after the elections. \u201cAt the current juncture, with most eurozone countries desperately trying to revive growth and tackle unemployment, today\u2019s decision was in our view the right decision. It is not always a bad thing if barking dogs don\u2019t bite.\u201d",
+  "webTitle": "European commission delays decision on Spain and Portugal deficits",
+  "webPublicationDate": "2016-05-18T16:46:25Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/18/european-commission-spain-portugal-budget-deficits-pierre-moscovici",
+  "keyword": [
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "European commission",
+      "id": "world/european-commission",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Eurozone",
+      "id": "business/eurozone",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Jean-Claude Juncker",
+      "id": "world/jean-claude-juncker",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Spain",
+      "id": "world/spain",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Portugal",
+      "id": "world/portugal",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Larry Elliott",
+      "id": "profile/larryelliott"
+    }
+  ],
+  "guardianId": "business/2016/may/18/european-commission-spain-portugal-budget-deficits-pierre-moscovici"
+}

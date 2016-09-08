@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/26/the-price-of-desire-review-biopic-of-architect-eileen-gray-fails-to-build-interest",
+  "id": "2016-05-26-50",
+  "sectionId": "film",
+  "body": "A biopic of the architect and furniture designer Eileen Gray (1878-1976), The Price of Desire will be screening at some venues as part of a double bill with Gray Matters, a documentary about the polymath Irish designer. This docudrama taking on her life, loves and career highlights is sometimes borderline risible, but even so, one can\u2019t but fail to be impressed it got made at all, given the subject is really mostly of interest to design geeks and those fascinated by intellectual property law.             Orla Brady, limited in emotional range, stars as Gray, while the even more wooden Francesco Scianna plays her lover Jean Badovici, and Alanis Morissette wafts through quickly as Gray\u2019s other big love Marisa Damia. Vincent Perez is, however, a bit of a hoot hamming it up in high-waisted, 1930s bathing suits as Gray\u2019s friend turned nemesis, Le Corbusier, who vandalises her Villa E-1027 on the Cote d\u2019Azur with murals that lead many to think erroneously that he designed the building. Somehow the tacky piano score amplifies the ineptitude of Mary McGuckian\u2019s direction, but even so one can\u2019t fail to be impressed by a scene where Brady\u2019s Gray literally dances about architecture, proving that it really is possible. (The line, \u201cwriting about music is like dancing about architecture,\u201d has been attributed to many over the years).",
+  "webTitle": "The Price of Desire review \u2013 biopic of architect Eileen Gray fails to build interest",
+  "webPublicationDate": "2016-05-26T20:30:12Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/26/the-price-of-desire-review-biopic-of-architect-eileen-gray-fails-to-build-interest",
+  "keyword": [
+    {
+      "webTitle": "Biopics",
+      "id": "film/biopics",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Architecture",
+      "id": "artanddesign/architecture",
+      "sectionId": "artanddesign",
+      "sectionName": "Art and design"
+    },
+    {
+      "webTitle": "Art and design",
+      "id": "artanddesign/artanddesign",
+      "sectionId": "artanddesign",
+      "sectionName": "Art and design"
+    },
+    {
+      "webTitle": "Alanis Morissette",
+      "id": "music/alanis-morissette",
+      "sectionId": "music",
+      "sectionName": "Music"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Leslie Felperin",
+      "id": "profile/lesliefelperin"
+    }
+  ],
+  "guardianId": "film/2016/may/26/the-price-of-desire-review-biopic-of-architect-eileen-gray-fails-to-build-interest"
+}

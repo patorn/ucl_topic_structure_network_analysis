@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/10/wildlife-officers-search-for-rare-whale-stranded-on-victorian-beach",
+  "id": "2016-05-10-330",
+  "sectionId": "environment",
+  "body": "Wildlife officers are trying to find a small and rare whale that was found stranded at a Victorian beach on Monday evening, however their search efforts are being hampered by severe weather and dangerous swells. The adult whale, about 2.5m long, was found at Logans Beach in Victoria\u2019s south-west and rescuers believe it to be either a pygmy sperm whale or a dwarf sperm whale.  The whale was refloated but immediately stranded itself again. When rescuers returned to the beach to continue their rescue efforts on Tuesday morning, the whale could not be found.    Related: Mammal on Victorian beach thought to be rare dwarf sperm whale    A spokesman for the Department of Environment, Land, Water and Planning told Guardian Australia the search was made difficult by high winds, rough swells and high tides. If the whale is located, department wildlife officers will work with Melbourne Zoo and Melbourne Museum to decided the best course of action.  A senior wildlife emergencies project officer said the team\u2019s strategy would be to stabilise the whale in shallow water so that a veterinary examination could occur. \u201cThe fact that the whale re-stranded itself may be an indicator that the whale is not healthy and its stranding was not accidental,\u201d she said.  \u201cThese species of small sperm whale are distinguishable only on close examination and are very rarely seen. Unusually, there has been recent strandings of these species on the Victorian coast in recent months, for unknown reasons.\u201d People are advised to keep away from the area due to safety risks posed by the rough conditions. Last week, a whale believed to be a rare dwarf sperm whale was found dead, washed up on Lake Tyers beach in Gippsland, about 330km east of Melbourne. Genetic testing and a study of the animal\u2019s bone structure is now taking place to confirm the species. Sightings of pygmy and dwarf sperm whales are extremely rare because the animals live in deep-sea chasms at the edge of continental shelfs, with only six physical records of dwarf sperm whales mentioned in the 150-year history of the Atlas of Living Australia. All were incomplete specimens.",
+  "webTitle": "Wildlife officers search for rare whale stranded on Victorian beach",
+  "webPublicationDate": "2016-05-10T02:30:46Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/10/wildlife-officers-search-for-rare-whale-stranded-on-victorian-beach",
+  "keyword": [
+    {
+      "webTitle": "Whales",
+      "id": "environment/whales",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Victoria (news)",
+      "id": "australia-news/victoria--news-",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Wildlife",
+      "id": "environment/wildlife",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Marine life",
+      "id": "environment/marine-life",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Melissa Davey",
+      "id": "profile/melissa-davey"
+    }
+  ],
+  "guardianId": "environment/2016/may/10/wildlife-officers-search-for-rare-whale-stranded-on-victorian-beach"
+}

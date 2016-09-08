@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/29/alice-through-looking-glass-review-johnny-depp",
+  "id": "2016-05-29-167",
+  "sectionId": "film",
+  "body": "It\u2019s hard to think of a movie franchise that is less in tune with the spirit of the source material than Disney\u2019s effects-bludgeoning, action onslaught adaptations of Lewis Carroll\u2019s whimsical Alice stories. This sequel to Tim Burton\u2019s megabucks first film has a new director \u2013 James Bobin takes over and Burton produces \u2013 but it refers more to Alice\u2019s first big screen outing than it does to anything in Carroll\u2019s books. Despite the fact that Alice (Mia Wasikowska) is now a sea captain who can escape pirate pursuers by stunt piloting a three-masted sailing ship over a sand bank, the forces of patriarchy in Victorian England are still out to oppress her. As with the last film, Alice escapes to \u201cUnderland\u201d, where she finds the Hatter (Johnny Depp, looking as though he fell head first into a Mac counter) in the grip of a morbid depression. To save him, she must steal the chronosphere from Time (Sacha Baron Cohen, responsible for the film\u2019s funniest moments) and travel back to meddle with the past. A blitzkrieg of digital effects and a kind of HG Wells meets Hogwarts aesthetic is not enough to distract from the fact that the storytelling is all smoke and\u00a0mirrors and very little in the way of heart.",
+  "webTitle": "Alice Through the Looking Glass review \u2013 HG Wells meets Hogwarts",
+  "webPublicationDate": "2016-05-29T07:00:00Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/29/alice-through-looking-glass-review-johnny-depp",
+  "keyword": [
+    {
+      "webTitle": "Alice Through the Looking Glass",
+      "id": "film/alice-through-the-looking-glass",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Family",
+      "id": "film/family",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Johnny Depp",
+      "id": "film/johnnydepp",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Sacha Baron Cohen",
+      "id": "film/sachabaroncohen",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Mia Wasikowska",
+      "id": "film/mia-wasikowska",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Wendy Ide",
+      "id": "profile/wendy-ide"
+    }
+  ],
+  "guardianId": "film/2016/may/29/alice-through-looking-glass-review-johnny-depp"
+}

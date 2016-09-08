@@ -1,0 +1,108 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/13/eu-referendum-imf-grim-forecasts-brexit-uk-house-prices",
+  "id": "2016-05-13-240",
+  "sectionId": "business",
+  "body": "Different location, same story. On Thursday, it was Mark Carney sitting in Threadneedle Street issuing a warning from the Bank of England about the perils of Brexit. Less than 24 hours later it was Christine Lagarde, the managing director of the International Monetary Fund, delivering the same message. The approach being taken by the government to the referendum appears similar to tactics adopted by the British high command on the western front during the first world war: soften up the enemy with a constant and ferocious pounding. Opinion polls suggest the pounding is having only a limited effect, with the Brexiteers snug in their positions and largely oblivious to the ordnance being rained down on them. The government\u2019s hope is that eventually the war of attrition will pay off, as perhaps it might. Lagarde certainly went for what she sees as a soft spot in the enemy\u2019s defences \u2013 the risk that a no vote on 23 June could lead to a crash in house prices. This is a cunning tactic. While there is scant evidence that the British public is moved by the difference between the Swiss model, the Norwegian model or the WTO model when it comes to Britain\u2019s post-EU trading arrangements, the threat to house prices is a different matter altogether.   Related: IMF: Brexit would send shockwaves through UK economy - business live    Interestingly, the IMF makes clear that in the absence of the referendum it would be a bit concerned about the UK economy. It highlighted all the familiar problems \u2013 consumers running down savings, dismal productivity growth and a whopping trade deficit \u2013 and said they had got worse in the last year. A vote to leave the EU, it added, would \u201ccrystalise\u201d some of these risks. It suggests that a top priority for the government should be to increase infrastructure spending.",
+  "webTitle": "EU referendum: barrage of grim forecasts takes aim at our homes",
+  "webPublicationDate": "2016-05-13T10:16:04Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/13/eu-referendum-imf-grim-forecasts-brexit-uk-house-prices",
+  "keyword": [
+    {
+      "webTitle": "Housing market",
+      "id": "business/housingmarket",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "International Monetary Fund (IMF)",
+      "id": "business/imf",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Economic growth (GDP)",
+      "id": "business/economicgrowth",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "House prices",
+      "id": "money/houseprices",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Property",
+      "id": "money/property",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Real estate",
+      "id": "business/realestate",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Larry Elliott",
+      "id": "profile/larryelliott"
+    }
+  ],
+  "guardianId": "business/2016/may/13/eu-referendum-imf-grim-forecasts-brexit-uk-house-prices"
+}

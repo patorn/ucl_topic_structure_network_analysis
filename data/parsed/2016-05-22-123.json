@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/travel/2016/may/22/royal-geographical-society-campaign-reveal-secret-britain",
+  "id": "2016-05-22-123",
+  "sectionId": "travel",
+  "body": "The Royal Geographical Society has launched an ambitious new project to encourage the public to discover the hidden stories behind the UK\u2019s environment, and some of its special, secret places.  Discovering Britain consists of a national network of free walks, trails and viewpoints designed to help answer \u201cthose nagging questions everyone has about quirks in the landscape\u201d. These include mysteries such as what happened to London\u2019s rivers? Why does Belfast\u2019s clocktower lean? And what is the \u201cwhite lie\u201d surrounding the Seven Sisters cliffs in East Sussex? The society has spent more than five years building up the network of urban, rural and coastal walks, adding many more shorter trails and viewpoints during the last year in the run up to the launch.  Hopes for the project include the idea that, by exploring the hidden stories behind Britain\u2019s landscapes, it will encourage us to consider not only how they have been created, but the forces that will shape their future.  More than 200 walks, trails and viewpoints are available to download, covering every region of the UK, from cities and country to the coast. The self-led walks range from one to eight miles, so there are activities to fit everyone\u2019s mobility. \u201cWe\u2019re hoping to engage as many people as possible with the UK\u2019s diverse landscapes, and the stories they tell about our changing environments, society and economy,\u201d says society president, broadcaster and writer Nicholas Crane. \u201cFrom mysterious lines along mountainsides and missing rivers, to the secrets hidden behind fake houses, (Discovering Britain\u2019s) walks and viewpoints encourage everyone to learn more about our remarkable landscapes.\u201d",
+  "webTitle": "Royal Geographical Society launches campaign to reveal secret Britain",
+  "webPublicationDate": "2016-05-22T09:00:38Z",
+  "webUrl": "https://www.theguardian.com/travel/2016/may/22/royal-geographical-society-campaign-reveal-secret-britain",
+  "keyword": [
+    {
+      "webTitle": "Walking holidays",
+      "id": "travel/walkingholidays",
+      "sectionId": "travel",
+      "sectionName": "Travel"
+    },
+    {
+      "webTitle": "United Kingdom holidays",
+      "id": "travel/uk",
+      "sectionId": "travel",
+      "sectionName": "Travel"
+    },
+    {
+      "webTitle": "Day trips",
+      "id": "travel/day-trips",
+      "sectionId": "travel",
+      "sectionName": "Travel"
+    },
+    {
+      "webTitle": "Heritage",
+      "id": "travel/heritage",
+      "sectionId": "travel",
+      "sectionName": "Travel"
+    },
+    {
+      "webTitle": "Travel",
+      "id": "travel/travel",
+      "sectionId": "travel",
+      "sectionName": "Travel"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Will Coldwell",
+      "id": "profile/will-coldwell"
+    }
+  ],
+  "guardianId": "travel/2016/may/22/royal-geographical-society-campaign-reveal-secret-britain"
+}

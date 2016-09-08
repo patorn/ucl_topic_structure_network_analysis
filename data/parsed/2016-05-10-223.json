@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/10/delivery-driver-shot-dead-in-belfast-had-been-targeted-twice-before",
+  "id": "2016-05-10-223",
+  "sectionId": "uk-news",
+  "body": "A delivery driver shot dead in Belfast was targeted by gunmen twice before, it has emerged. Dan Murray was gunned down as he delivered food to a house in Lady Street in the Divis area of west Belfast at about 10pm on Monday. It was the third shooting in the city in 24 hours. Earlier on Monday a 17-year-old was found in the New Lodge area of north Belfast with gunshot wounds to his legs.  Just hours earlier, a man in his 20s was also shot and wounded in the New Lodge area. Security sources said on Tuesday Murray had been shot before in the Falls Road area and on Antrim Road in north Belfast. The first minister, Arlene Foster, and the deputy first minister, Martin McGuinness, issued a joint statement condemning the murder of the Murray, who was in his 50s. Speaking before political negotiations to form a new power-sharing government in Belfast, Foster and McGuinness said the shootings over the past few days were \u201cbarbaric and wrong\u201d. The Sinn F\u00e9in MP for West Belfast, Paul Maskey, said he believed \u201ccriminal gangs\u201d were carrying out armed actions in his constituency. \u201cThey need to be removed from our streets and anybody who has information, I believe, has a duty to come forward with that and give it to the police,\u201d he said.",
+  "webTitle": "Delivery driver shot dead in Belfast had been targeted twice before",
+  "webPublicationDate": "2016-05-10T10:44:25Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/10/delivery-driver-shot-dead-in-belfast-had-been-targeted-twice-before",
+  "keyword": [
+    {
+      "webTitle": "Northern Ireland",
+      "id": "uk/northernireland",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Gun crime",
+      "id": "world/gun-crime",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Crime",
+      "id": "uk/ukcrime",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Henry McDonald",
+      "id": "profile/henrymcdonald"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/10/delivery-driver-shot-dead-in-belfast-had-been-targeted-twice-before"
+}

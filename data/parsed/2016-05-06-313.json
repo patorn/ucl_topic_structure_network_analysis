@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/commentisfree/2016/may/06/everything-you-need-to-know-about-the-australian-election-brought-to-you-by-snitty-the-cassowary",
+  "id": "2016-05-06-313",
+  "sectionId": "commentisfree",
+  "body": "Everything you need to know about the Australian election brought to you by Snitty the Cassowary",
+  "webTitle": "Everything you need to know about the Australian election with Snitty the Cassowary | First Dog on the Moon",
+  "webPublicationDate": "2016-05-06T06:44:18Z",
+  "webUrl": "https://www.theguardian.com/commentisfree/2016/may/06/everything-you-need-to-know-about-the-australian-election-brought-to-you-by-snitty-the-cassowary",
+  "keyword": [
+    {
+      "webTitle": "Australian election 2016",
+      "id": "australia-news/australian-election-2016",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australian politics",
+      "id": "australia-news/australian-politics",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "First Dog on the Moon",
+      "id": "profile/first-dog-on-the-moon"
+    }
+  ],
+  "guardianId": "commentisfree/2016/may/06/everything-you-need-to-know-about-the-australian-election-brought-to-you-by-snitty-the-cassowary"
+}

@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/travel/2016/may/25/ibiza-travel-tips-competition",
+  "id": "2016-05-25-127",
+  "sectionId": "travel",
+  "body": "It needn\u2019t be a throbbing superclub or a glossy beach-bar; we\u2019d like to hear your tips about secret caves, mountain treks, museums, hotels or any other individual treasures you\u2019ve found on your travels to Ibiza. Send us your specific tips via GuardianWitness including as much detail as you can in around 100 words (along with website, menu details and prices etc, if possible). The best tips will appear in print in next weekend\u2019s Travel section and the winner, chosen by Tom Hall of Lonely Planet, will receive a \u00a3200 hotel voucher from Hotels.com, allowing you to stay in more than 260,000 places worldwide. Submit your tip by clicking the blue button and using the text tab. You\u2019re welcome to add a photo if you own the copyright to it \u2013 but it\u2019s the text we\u2019ll be judging. Terms and conditions Closes 1 June 10am GMT \u2022 GuardianWitness is the home of user-generated content on the Guardian. Contribute your video, pictures and stories, and browse news, reviews and creations submitted by others. Posts will be reviewed prior to publication on GuardianWitness, and the best pieces will feature on the Guardian site.",
+  "webTitle": "Love Ibiza? Send us your travel tips and win a \u00a3200 hotel voucher",
+  "webPublicationDate": "2016-05-25T14:39:31Z",
+  "webUrl": "https://www.theguardian.com/travel/2016/may/25/ibiza-travel-tips-competition",
+  "keyword": [
+    {
+      "webTitle": "Ibiza holidays",
+      "id": "travel/ibiza",
+      "sectionId": "travel",
+      "sectionName": "Travel"
+    },
+    {
+      "webTitle": "Travel",
+      "id": "travel/travel",
+      "sectionId": "travel",
+      "sectionName": "Travel"
+    },
+    {
+      "webTitle": "User",
+      "id": "community/community",
+      "sectionId": "community",
+      "sectionName": "Community"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "The Guardian",
+      "id": "profile/theguardian"
+    }
+  ],
+  "guardianId": "travel/2016/may/25/ibiza-travel-tips-competition"
+}

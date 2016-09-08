@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/money/2016/may/09/freehold-garage-south-west-london-fetches-auction-hammersmith-fulham",
+  "id": "2016-05-09-77",
+  "sectionId": "money",
+  "body": "The London property market may have come off the boil but the sale of a former garage for \u00a3466,000 \u2013 \u00a3182,000 more than the average UK house price \u2013 suggests it is still simmering in some parts of the capital. Up for auction at a guide price of \u00a3250,000, the 18ft x 35ft site, described by Savills in the catalogue as a vacant freehold garage, was sold for nearly double that after furious bidding on Monday.  According to the latest figures from the Office for National Statistics that is \u00a358,000 more than the average property price in London and far above the average \u00a3283,700 recorded across the country.  The site, which was bought in 2009 with four other buildings and land for a combined \u00a32.5m, seems to have been used for storage but it has planning permission for a small two-bedroom house over three floors.    Related: For rent: a one-bedroom London garage flat for \u00a3850pm    Its location has driven up the price \u2013 it is just off Fulham Palace Road in Hammersmith, where a two-bedroom flat in a new development is being marketed for \u00a3799,950. House prices in the south-west London borough of Hammersmith and Fulham average more than \u00a3830,000.  Henry Pryor, a buying agent, said he suspected the plot had been bought by someone who wanted to live there. \u201cThis is the sort of site that professional and amateur builders crave. A clutch of aspiring Kevin McClouds will have been bidding up the price faster than the professional builders could suck their teeth at the levels it reached. There is no real margin for a developer to make a profit and in the current market there are few who would be brave enough to bid strongly enough. \u201cWill the Fulham market pay \u00a31.25m for a completed two-bed house here? Unlikely, I suspect, so my money is on a vanity project. Let\u2019s hope Kevin is free to film it \u2013 in this market it could be a car crash if they don\u2019t get their budget right first time.\u201d  But not every seller was satisfied. In the same auction a three-bedroom former council flat in Covent Garden, central London, did not sell after failing to reach its reserve price. It was listed for a guide price of \u00a3975,000 and bidding reached \u00a3990,000 but the auctioneer said this was not enough for it to be sold. A nearby former council flat in Covent Garden sold for \u00a31.2m in August 2015.",
+  "webTitle": "Former garage in south-west London fetches \u00a3466,000 at auction",
+  "webPublicationDate": "2016-05-09T17:42:57Z",
+  "webUrl": "https://www.theguardian.com/money/2016/may/09/freehold-garage-south-west-london-fetches-auction-hammersmith-fulham",
+  "keyword": [
+    {
+      "webTitle": "Property",
+      "id": "money/property",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "House prices",
+      "id": "money/houseprices",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "London",
+      "id": "uk/london",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Hilary Osborne",
+      "id": "profile/hilaryosborne"
+    }
+  ],
+  "guardianId": "money/2016/may/09/freehold-garage-south-west-london-fetches-auction-hammersmith-fulham"
+}

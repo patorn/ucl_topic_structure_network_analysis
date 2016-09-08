@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/society/2016/may/20/nhs-deficit-ballooned-understaffing-agency-health",
+  "id": "2016-05-20-234",
+  "sectionId": "society",
+  "body": "Why are NHS finances in such a mess? The biggest reason is staffing \u2013 or, to be more precise, understaffing. The NHS in England is struggling with a serious and growing lack of personnel, especially nurses and some specialist doctors. This is forcing hospital trusts to spend unprecedented amounts of money on locums, especially those supplied by employment agencies, many of which charge what have been described by the NHS England chief executive, Simon Stevens, and the health secretary, Jeremy Hunt, as \u201crip-off\u201d rates.   Related: NHS in England reveals \u00a32.45bn record deficit    The mark-ups these agencies charge takes money away from frontline care. Barts health trust in London \u2013 the largest in the NHS \u2013 spent about \u00a380m on agency staff in 2015-16, roughly \u00a330m of which was profit for the agencies. The sharp increase in the bill for agency staff mirrors almost exactly the dramatic decline in the health service\u2019s finances. These personnel cost the NHS \u00a32.5bn in 2013-14, rising to \u00a33.3bn in 2014-15. The bill for 2015-16 was expected to hit \u00a34bn, but new caps on trusts\u2019 agency staff spending, introduced by Hunt last year, brought that down to \u00a33.7bn \u2013 a saving of \u00a3300m, but still astronomical. There has also been a crackdown on the use of management consultants. Most trusts have hired extra staff, and increasingly rely on agency workers to fill rotas and wards to standards recommended by Robert Francis\u2019s official report into the Mid Staffordshire hospital scandal,which identified a lack of nurses as a key reason for inadequate care at the trust. However, Francis\u2019s report was published amid the longest period of austerity in the 67-year history of the NHS, with its 1% annual real-terms budget increases far below the 4% year-on-year rise it had been used to. NHS leaders, organisations representing doctors and health thinktanks, such as the King\u2019s Fund, argue that the NHS is woefully underfundedto care for an ageing population and increasing numbers of patients with long-term conditions, such as diabetes, heart problems, depression or breathing problems.",
+  "webTitle": "Why has the NHS deficit ballooned? One word: understaffing",
+  "webPublicationDate": "2016-05-20T10:56:58Z",
+  "webUrl": "https://www.theguardian.com/society/2016/may/20/nhs-deficit-ballooned-understaffing-agency-health",
+  "keyword": [
+    {
+      "webTitle": "NHS",
+      "id": "society/nhs",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Health policy",
+      "id": "politics/health",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Public services policy",
+      "id": "society/policy",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Conservatives",
+      "id": "politics/conservatives",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Austerity",
+      "id": "business/austerity",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Denis Campbell",
+      "id": "profile/deniscampbell"
+    }
+  ],
+  "guardianId": "society/2016/may/20/nhs-deficit-ballooned-understaffing-agency-health"
+}

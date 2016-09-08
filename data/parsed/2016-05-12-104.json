@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/12/ons-short-term-migration-explains-national-insurance-gap",
+  "id": "2016-05-12-104",
+  "sectionId": "uk-news",
+  "body": "A claimed \u201cmissing million\u201d long-term EU immigrants to Britain have been proved to be a phantom army, according to a special analysis by the Office for National Statistics (ONS) on a key issue in the run-up to the EU referendum. The mystery gap between the number of EU migrants who came to live in Britain over the last five years and the number of national insurance numbers issued to EU nationals has fuelled the highly emotive debate over immigration at the centre of the European referendum battle. It has led to front-page accusations of a government cover-up from the Sun, Mail and Telegraph, with Boris Johnson and Nigel Farage claiming there has been a conspiracy to \u201cdeliberately keep voters in the dark\u201d over the true scale of European migration to Britain. But the ONS analysis has conclusively shown that no such cover-up has taken place. Instead the official statisticians say short-term migration \u2013 EU citizens coming to work or study in Britain for less than a year and sometimes for as little as a month \u2013 largely accounts for the recent gaps between the official net migration figures for long-term immigrants to Britain and the number of national insurance numbers issued to EU nationals. They say that in the year to the end of June 2014, long-term migration by EU citizens was 223,000 while short-term migration was 251,000 \u2013 giving a total of 474,000. In the same period, 421,000 national insurance numbers were given to EU citizens.   Graph of EU migration and NI data   At the same time the Treasury released fresh figures showing that recent EU migrants more than pay their way in Britain. The HMRC figures for EU migrants who have arrived in Britain over the last four years show they paid \u00a32.54bn more in income tax and national insurance than they received in tax credits or child benefit in 2013-14. Eurosceptics were hoping the ONS inquiry would lead to \u201ca bombshell report\u201d and the official migration figures being declared unreliable.   Related: BBC, ITV and migration spark shadows of outrage in Westminster    But an ONS note on the 1.2m difference over the last five years between the two sets of official figures firmly rejected that view. It concluded that the international passenger survey on which the migration figures were based remained the best source of information for measuring long-term migration. The ONS analysis said differences between the figures for those coming from Romania and Bulgaria appeared to be particularly high in the two years since migration restrictions were lifted. \u201cHowever, a significant proportion of those people issued with a national insurance number have since been active on our tax and benefit systems for less than 12 months, suggesting that the difference between these two figures can be largely attributed to short-term migration of 12 months or less,\u201d it concluded. The ONS said national insurance registration data was not a good measure of long-term migrants \u2013 those who come for periods of more than one year \u2013 but did provide a valuable source of information to highlight emerging changes in the patterns of migration. The official statisticians said fundamental differences in definitions between the different kinds of data meant it was not possible to provide a simple accounting-type reconciliation of the differences between the two types of figures. Data from HMRC also published on Thursday showed that about a million EU nationals who had arrived over the past four years had \u201cactive\u201d national insurance numbers \u2013 they paid tax, national insurance or collected in-work benefits including tax credits and child benefit. This compared with 2.4m national insurance numbers issued to EU nationals over the past five years. Glen Watson, deputy national statistician for population and public policy, said that while national insurance numbers were a valuable source to highlight emerging trends, \u201cwe are confident the international passenger survey remains the best available way of measuring long-term migration to the UK\u201d. \u201cNational insurance number registrations are not a good indicator of long-term migration. This research shows that many people who register for national insurance stay in the UK for less than a year, which is the minimum stay for a long-term migrant according to the internationally recognised definition,\u201d he said. Watson added that the number of short-term migrants coming to the UK to work or study had been rising recently, but that it was necessary to consider short-term migrants leaving as well to get the full picture.   Related: EU migrants have no negative effect on UK wages, says LSE    The last set of short-term migration figures showed the number of short-term migrants in Britain at any one time was 101,000 in June 2013, while there were 155,000 British citizens living or working abroad for less than 12 months at the same time. For every 10 overseas migrants working or studying for a few months in Britain there are 15 Britons working or studying abroad, including in Europe. Leave campaigners, including Johnson, Priti Patel and John Redwood tried to move the debate on to the ONS figure of 251,000 EU short-term migrants \u2013 a figure published every year \u2013 who had also come to Britain in 2014. Johnson claimed they were putting public services under huge pressure. But as the former Conservative immigration minister Damian Green pointed out, these short-term migrants \u201cinclude 27,000 teachers, 28,000 care workers and 60,000 seasonal workers in the farming industry who do tremendous things for this country, both in our public services and in the private sector\u201d. The ONS had \u201cbust the myth that these national insurance numbers expose something about the immigration system,\u201d Green added. The former senior government economist Jonathan Portes, who had uncovered the gap between the figures, said he welcomed the ONS conclusion that most of it was accounted for by a very large rise in short-term migration in recent years. The next round in the battle over European immigration will take place next week when new figures are published on the number of foreign workers in Britain and again on 26 May when the last set of quarterly migration figures are published before the referendum.",
+  "webTitle": "ONS analysis disproves 'missing million of migrants' accusations",
+  "webPublicationDate": "2016-05-12T17:09:19Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/12/ons-short-term-migration-explains-national-insurance-gap",
+  "keyword": [
+    {
+      "webTitle": "Immigration and asylum",
+      "id": "uk/immigration",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Migration",
+      "id": "world/migration",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Alan Travis",
+      "id": "profile/alantravis"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/12/ons-short-term-migration-explains-national-insurance-gap"
+}

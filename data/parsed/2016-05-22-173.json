@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/22/ariana-grande-dangerous-woman-review",
+  "id": "2016-05-22-173",
+  "sectionId": "music",
+  "body": "While Ariana Grande\u2019s second album, 2014\u2019s My Everything, was a commercial success, it also felt like she\u2019d lost her identity, her debut\u2019s pristine, retro R&B lost in the pop melee. Dangerous Woman is a refinement of her sound, shifting from the low-slung groove of the title track and Moonlight\u2019s jazzy refrain, to the throbbing electro of new single Into You and the pulsating, Future-assisted Everyday. Elsewhere, she tries her hand at disco (the lustful Greedy), 90s house (Be Alright) and even finds time to bring Macy Gray out of retirement on the dramatic Leave Me Lonely. Held together by Grande\u2019s skyscraping voice, Dangerous Woman throws a lot at the wall and, brilliantly, most of it sticks.",
+  "webTitle": "Ariana Grande: Dangerous Woman review \u2013 a refinement of her sound",
+  "webPublicationDate": "2016-05-22T07:00:36Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/22/ariana-grande-dangerous-woman-review",
+  "keyword": [
+    {
+      "webTitle": "Ariana Grande",
+      "id": "music/ariana-grande",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Pop and rock",
+      "id": "music/popandrock",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Michael Cragg",
+      "id": "profile/michaelcragg"
+    }
+  ],
+  "guardianId": "music/2016/may/22/ariana-grande-dangerous-woman-review"
+}

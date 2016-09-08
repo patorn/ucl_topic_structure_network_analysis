@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/21/gifs-giving-football-ronaldinho-basketball-surfing",
+  "id": "2016-05-21-141",
+  "sectionId": "sport",
+  "body": "Flipper       One for the cameras       Dodgeball meets baseball       Headers and volleys       Old balance       Throwing a dummy       He just felt like running       Self service       Never in doubt",
+  "webTitle": "The gifs that keep on giving: Ronaldinho, a perfect backflip and rugby running",
+  "webPublicationDate": "2016-05-21T08:45:08Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/21/gifs-giving-football-ronaldinho-basketball-surfing",
+  "keyword": [
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "US sports",
+      "id": "sport/us-sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Baseball",
+      "id": "sport/baseball",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Basketball",
+      "id": "sport/basketball",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Ronaldinho",
+      "id": "football/ronaldinho",
+      "sectionId": "football",
+      "sectionName": "Football"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Paul Campbell",
+      "id": "profile/paul-campbell"
+    }
+  ],
+  "guardianId": "sport/2016/may/21/gifs-giving-football-ronaldinho-basketball-surfing"
+}

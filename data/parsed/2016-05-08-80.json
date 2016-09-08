@@ -1,0 +1,102 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/08/offshore-finance-emerging-countries-russia-david-cameron-summit",
+  "id": "2016-05-08-80",
+  "sectionId": "business",
+  "body": "More than $12tn (\u00a38tn) has been siphoned out of Russia, China and other emerging economies into the secretive world of offshore finance, new research has revealed, as David Cameron prepares to host world leaders for an anti-corruption summit. A detailed 18-month research project has uncovered a sharp increase in the capital flowing offshore from developing countries, in particular Russia and China.   Related: David Cameron under pressure to end tax haven secrecy    The analysis, carried out by Columbia University professor James S Henry for the Tax Justice Network, shows that by the end of 2014, $1.3tn of assets from Russia were sitting offshore. The figures, which came from compiling and cross-checking data from global institutions including the International Monetary Fund and the United Nations, follow the Panama Papers revelations of global, systemic tax avoidance. Chinese citizens have $1.2tn stashed away in tax havens, once estimates for Hong Kong and Macau are included. Malaysia, Thailand and Indonesia \u2013 all of which have seen high-profile corruption scandals in recent years \u2013 also come high on the list of the worst-affected countries. Henry, a former chief economist at consultancy McKinsey, told the Guardian his research underlined the fact that tax-dodging was not the only motivation for using tax havens \u2013 criminals and kleptocrats also made prolific use of their services to keep their wealth secret and their money safe.  He said the list of users of offshore jurisdictions was like the cantina scene in Star Wars, where a motley group of unsavoury intergalactic characters is assembled. Henry said: \u201cIt\u2019s like the Star Wars scene: you have the tax dodgers in one corner, the arms dealers in another, the kleptocrats over here. There\u2019s also those using tax havens for money laundering, or fraud.\u201d Oil-rich countries including Nigeria and Angola feature as key sources of offshore funds, the research finds, as do Brazil and Argentina. Henry said the owners of this hidden capital were often so keen to secure secrecy and avoid their wealth being appropriated back home, that they were willing to accept paltry financial returns rather than investing it in ways that might promote economic development. Charging just 1% tax on this mountain of offshore wealth would yield more than $120bn a year, almost equivalent to the entire $131bn global aid budget. The TJN is urging Cameron to push for agreement on a series of issues at anti-corruption summit on Thursday, including a tougher crackdown on the banks, lawyers and other professionals who facilitate financial secrecy and an obligation on all politicians to make their personal financial situation transparent. The project is an update, for developing countries, on 2012 research which showed that, worldwide, more than $20tn was stashed away offshore. Henry said the number of tax havens had continued to increase over the period he studied, despite growing public pressure for action. On average, he said, the offshore capital belonging to developing countries had increased at 8% a year since 2010; 9% a year for China and Russia, perhaps because of fears of economic and political instability. \u201cPeople are voting with their feet,\u201d he said.  The prime minister published a summary of his tax affairs last month, after the Panama Papers leaks revealed that his father had set up an investment fund, Blairmore, based in the offshore jurisdiction of Panama. Henry argued that when senior figures in authoritarian states such as China use tax havens to guard their money safely, they were effectively free-riding on the legal and financial systems of other countries. \u201cAll of these felons and kleptocrats are, in a way, essentially dependent on the rule of law when it comes to protecting their money,\u201d he said. He said it was not just exotic locations such as the Cayman Islands where money could effectively be hidden, but also some US states, such as Delaware, where it is possible for foreign investors to start up and run a company without making clear its ultimate ownership \u2013 something all UK firms will have to do from later this year.",
+  "webTitle": "Offshore finance: more than $12tn siphoned out of emerging countries",
+  "webPublicationDate": "2016-05-08T15:55:18Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/08/offshore-finance-emerging-countries-russia-david-cameron-summit",
+  "keyword": [
+    {
+      "webTitle": "Tax avoidance",
+      "id": "business/taxavoidance",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Tax havens",
+      "id": "world/tax-havens",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Russia",
+      "id": "world/russia",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "China",
+      "id": "world/china",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "David Cameron",
+      "id": "politics/davidcameron",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Asia Pacific",
+      "id": "world/asia-pacific",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Corporate governance",
+      "id": "business/corporate-governance",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Transparency",
+      "id": "global-development/transparency-and-development",
+      "sectionId": "global-development",
+      "sectionName": "Global development"
+    },
+    {
+      "webTitle": "Global development",
+      "id": "global-development/global-development",
+      "sectionId": "global-development",
+      "sectionName": "Global development"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Heather Stewart",
+      "id": "profile/heatherstewart"
+    }
+  ],
+  "guardianId": "business/2016/may/08/offshore-finance-emerging-countries-russia-david-cameron-summit"
+}

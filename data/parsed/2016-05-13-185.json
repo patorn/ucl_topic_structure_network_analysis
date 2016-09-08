@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/13/five-of-the-best-gigs-this-week",
+  "id": "2016-05-13-185",
+  "sectionId": "music",
+  "body": "1: Brian Wilson  It is 50 years since one of the most iconic albums in pop history was released. Unfortunately, Herb Alpert & The Tijuana Brass will not be re-forming to run through classics from What Now My Love, so we\u2019ll have to make do with Brian Wilson playing Pet Sounds instead. The former Beach Boy probably won\u2019t have too much to contribute himself, but his band will no doubt cover for him with heavenly harmonies and exceptionally good vibe(ration)s.   Bristol, Sun; Birmingham, Tue; Cardiff, Wed; London, Fri; touring to 1 Jun  2: Thomas Cohen  Cohen\u2019s debut album is decidedly less sunny than Wilson\u2019s magnum opus. Bloom Forever might be built on sturdy songwriting that recalls the 70s masters, but lyrically it documents the death of Cohen\u2019s wife Peaches Geldof. In doing so, he forces the listener to visit uncomfortable places; these dates promise to be a bracing experience.   Bristol, Sun; London, Mon; The Great Escape, Brighton, Thu; touring to 22 May  3: Katy B  Katy B\u2019s second album Little Red was a bit of a disappointment \u2013 too reliant on sluggish ballads and personality-free synthpop. Luckily, she\u2019s had the chance to rectify that on third album Honey, teaming up with adventurous producers such as Floating Points and Four Tet, and guesting with Novelist. To make especially sure things go off, this homecoming show has Lady Leshurr and Ray BLK on the bill.   O2 Academy Brixton, SW9, Sat  4: Bat For Lashes  Dressing up in your best wedding attire might not be everyone\u2019s idea of a pre-gig ritual, but Natasha Khan\u2019s decision to introduce a dress code should ensure that her latest shows for new album The Bride will stand out from whoever\u2019s playing at, say, Camden\u2019s Barfly that night.   Brighton, Sat; London, Mon  5: Father John Misty  \u201cA real weird time\u201d is how Father John Misty has described his shows. Expect the musings on love that make up last year\u2019s I Love You, Honeybear, to surface, along with sardonic jokes and some rock star acrobatics.   Gateshead, Sat; Nottingham, Sun; Bristol, Tue; London, Wed to Fri; touring to 21 May",
+  "webTitle": "Five of the best\u2026 gigs this week",
+  "webPublicationDate": "2016-05-13T12:00:15Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/13/five-of-the-best-gigs-this-week",
+  "keyword": [
+    {
+      "webTitle": "Pop and rock",
+      "id": "music/popandrock",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Tim Jonze",
+      "id": "profile/timjonze"
+    }
+  ],
+  "guardianId": "music/2016/may/13/five-of-the-best-gigs-this-week"
+}

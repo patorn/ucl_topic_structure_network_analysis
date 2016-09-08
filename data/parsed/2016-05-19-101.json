@@ -1,0 +1,84 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/19/humans-damaging-the-environment-faster-than-it-can-recover-report-finds",
+  "id": "2016-05-19-101",
+  "sectionId": "environment",
+  "body": "Degradation of the world\u2019s natural resources by humans is rapidly outpacing the planet\u2019s ability to absorb the damage, meaning the rate of deterioration is increasing globally, the most comprehensive environmental study ever undertaken by the UN has found. The study, which involved 1,203 scientists, hundreds of scientific institutions and more than 160 governments brought together by the UN Environment Programme (UNEP), concludes that without radical action the level of prosperity that millions of people in the developed world count on will be impossible to maintain or extend to poorer countries. Water scarcity is the scourge of some of the poorest regions on Earth, the study found, leaving developing countries increasingly unable to feed themselves, and causing hardship for millions of people. There appears little prospect of this dire situation being remedied, according to the UN, without radical action being taken. Water sources are under increasing threat from population growth, climate change, rapid urbanisation, rising levels of consumption, and the degradation of lands that previously provided a natural replenishment of water resources. The study is intended as an aid to the world\u2019s efforts to combat climate change and other environmental threats, as it highlights the difficulties of improving the lives of people in developing countries and tackling global warming, while food resources come under continuing pressure. UNEP found the rate of damage to the natural environment was increasing globally, despite concerted efforts to persuade governments to take measures to improve the condition of vital natural resources, such as water, land and the seas. \u201cIf current trends continue, and the world fails to enact solutions that improve patterns of production and consumption, if we fail to use natural resources sustainably, then the state of the world\u2019s environment will continue to decline,\u201d warned Achim Steiner, executive director of UNEP. He said the tools for improving the environment for millions of people existed in developed countries but were in danger of not being used. The study, using decades of scientific data, found that basic measures to tackle some of the key causes of environmental damage were still not being taken. These included measures to reduce air pollution, such as changes to vehicles; the damage to marine eco-systems, which can have a huge effect on fish stocks on which hundreds of millions of people depend; and the degradation of land when modern agricultural methods were pursued without regard to the longer-term consequences. Despite the recent global agreement on cutting greenhouse gas emissions, signed in Paris last December, global carbon output continues to rise. The report argues this will put a long-term strain on the ability of developing economies to feed their own people as the result of changes such as increased droughts and floods. Climate change is exacerbated by the emissions of greenhouse gases from agriculture, including the leaching of nitrous oxide \u2013 a powerful greenhouse gas \u2013 from run-off emissions and incorrectly stored animal manure. These sources increased by more than a quarter between 2000 and 2010, the report found. Other problem areas identified in the report included glaciers in the Andes, which provide vital water resources for tens of millions of people, but which are shrinking as the climate warms. In rich countries, these problems have built up over decades and centuries while economic growth was pursued at the expense of the environment. Subsequent efforts to remedy the environment have met with partial success. But in developing countries, the path of future development has more potential to change, which has encouraged international institutions to devise more sustainable growth pathways that are supposed both to alleviate poverty and preserve the environment. If they follow the same pattern of growth, then the danger of irreparable environmental damage will intensify, the study\u2019s authors conclude.  They recommend an increased awareness of the environmental impact of development. For instance, exploiting water resources can be made more sustainable by recycling water where possible, and changing agriculture so that wasteful methods of irrigation are replaced by more efficient ones. Developing countries should also change their methods of dealing with waste, the report found, so as to protect clean water sources and prevent the burning of solid waste in landfill dumps.",
+  "webTitle": "Humans damaging the environment faster than it can recover, UN finds",
+  "webPublicationDate": "2016-05-19T16:56:32Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/19/humans-damaging-the-environment-faster-than-it-can-recover-report-finds",
+  "keyword": [
+    {
+      "webTitle": "Sustainable development",
+      "id": "environment/sustainable-development",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Climate change",
+      "id": "environment/climate-change",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Water",
+      "id": "environment/water",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Food",
+      "id": "environment/food",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Fishing",
+      "id": "environment/fishing",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Conservation",
+      "id": "environment/conservation",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Marine life",
+      "id": "environment/marine-life",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "United Nations",
+      "id": "world/unitednations",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Global development",
+      "id": "global-development/global-development",
+      "sectionId": "global-development",
+      "sectionName": "Global development"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Fiona Harvey",
+      "id": "profile/fiona-harvey"
+    }
+  ],
+  "guardianId": "environment/2016/may/19/humans-damaging-the-environment-faster-than-it-can-recover-report-finds"
+}

@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/21/steph-curry-elbow-injury-status-warriors-thunder",
+  "id": "2016-05-21-90",
+  "sectionId": "sport",
+  "body": "Stephen Curry insists he\u2019s fine, despite suffering an uncomfortable elbow injury in the Warriors\u2019 Game 2 victory over the Oklahoma City Thunder on Wednesday. Curry dived into the crowd in pursuit of a loose ball durin the game at Oracle Arena, resulting in a bump on his elbow that he said looked like \u201ca tennis ball.\u201d On Friday, during practice, Curry said of his latest injury: \u201cOh, it\u2019s fine. Swelling went down, so no worries.\u201d Curry was wearing a shooting sleeve on the elbow, describing its purpose as \u201cjust compression to make sure I can get shots up and not have any swelling.\u201d \u201cIt\u2019s sore, just because of the impact, but the spot it\u2019s at doesn\u2019t affect the range of motion, so I can shoot and dribble and do all I need to do,\u201d he said. \u201cIt\u2019s uncomfortable, but it\u2019s not necessarily painful.\u201d Many critics noted the lack of help Curry received when he barreled into the home crowd. When asked about the sequence, Curry said, \u201cI saw it once. Not a lot of help. That\u2019s all I\u2019ll say.\u201d He then joked: \u201cI wanted to do a crowd-surfing kind of deal. They weren\u2019t ready.\u201d One fan was seen taking a picture of Curry when he was on the ground. Curry said: \u201cI need that picture. That\u2019d be something to remember. I\u2019m kind of disappointed he took that moment to document it, if you will.\u201d Curry said: \u201cIt was kind of dangerous, but I don\u2019t know how you can play hard, do what you do in those situations, 50-50 balls or whatever with any doubt in your mind.\u201d The Warriors play the Thunder in Game 3 on Sunday, and Curry said he hopes to heal up in that time. He has missed six playoff games so far, thanks to knee and ankle injuries sustained against the Rockets. \u201cI\u2019m doing all right, nothing to really worry about,\u201d Curry said. \u201cIt\u2019s nice to have three days in between to get your body right.\u201d Curry said of his inury: \u201cThat\u2019s severe, the way it looked during the game. These are, from what I hear, very common injuries. You land on something, hard surface, or get bumped \u2013 elbow, hip, knee \u2013 they tend to kind of swell up. They don\u2019t cause any problems mechanically or what not. I can still use my arm, do what I need to do. It just looks ugly and is a little uncomfortable. That\u2019s it.\u201d",
+  "webTitle": "Warriors star Steph Curry says elbow injury 'nothing to worry about'",
+  "webPublicationDate": "2016-05-21T14:01:09Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/21/steph-curry-elbow-injury-status-warriors-thunder",
+  "keyword": [
+    {
+      "webTitle": "Stephen Curry",
+      "id": "sport/stephen-curry",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Golden State Warriors",
+      "id": "sport/golden-state-warriors",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "NBA",
+      "id": "sport/nba",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Oklahoma City Thunder",
+      "id": "sport/oklahoma-city-thunder",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "US sports",
+      "id": "sport/us-sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "sport/2016/may/21/steph-curry-elbow-injury-status-warriors-thunder"
+}

@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/us-news/2016/may/27/black-lives-matter-louisiana-hate-crimes",
+  "id": "2016-05-27-43",
+  "sectionId": "us-news",
+  "body": "Louisiana has become the first state to pass a \u201cBlue Lives Matter\u201d statute, adding police officers and firefighters to the list of protected groups with enhanced penalties for hate crimes against them. The bill is part of a clear backlash against the Black Lives Matter movement provoked by police shootings of unarmed African American teenagers.   Related: FBI data showing drop in police deaths undermines 'war on cops' theory    The Democratic governor of the state, John Bel Edwards, whose brother and father both served as law enforcement officers, signed the legislation into law on Thursday, saying police officers were \u201ctrue heroes and deserve every protection that we can give them\u201d.  \u201cThe overarching message is that hate crimes will not be tolerated in Louisiana,\u201d he said. HB 953 expands Louisiana\u2019s existing list of groups protected against hate crimes on grounds of race, age, gender, religion, color, creed, disability, sexual orientation, national origin or ancestry. It adds law enforcement officers, firefighters and emergency paramedics, providing for an increased penalty of five years in prison and up to a $5,000 fine for anyone who commits a felony hate crime against them. The enacting of the legislation immediately prompted criticism from legal analysts and campaigners aligned to Black Lives Matter, who pointed out that Louisiana already has some of the toughest sentences in the country for assault on police officers \u2013 including the death penalty. The state is one of at least 37 in the country that impose enhanced sentences for attacks on police, irrespective of motive. In a statement put out before the bill was enacted, the New Orleans chapter of the activist network Black Youth Project 100 said the legislation was part of a \u201cmalicious trend\u201d designed to squander the gains of the civil rights movement \u201cby police officers scrambling to avoid criticism from their constituents\u201d. Official statistics show that fatal shootings of police officers have decreased steadily from a peak of about 127 annually in the 1970s to 41 in 2015. Last year\u2019s tally was the lowest in 12 years. By contrast, the Guardian\u2019s interactive project on police shootings, The Counted, found that 1,146 people were killed by police in the US in 2015. Black people were more than twice as likely as white people to be shot and killed by police. The backlash to Black Lives Matter is continuing to spread across the country. Five other states have attempted \u201cBlue Lives Matter\u201d bills, though none so far has come to fruition. In Congress, the House of Representatives and Senate have similar legislation under debate. Pat Toomey, a Republican senator for Pennsylvania, has proposed a \u201cThin Blue Line Act\u201d that would add prison time as an aggravating circumstance to the sentence of anyone targeting and killing a police officer.         Senator Pat Toomey discusses his proposed Thin Blue Line Act.    In a statement describing his bill posted on YouTube, Toomey articulates it specifically as a riposte to the Black Lives Matter movement.  \u201cPolice lives matter,\u201d he says. \u201cI am sick and tired of this narrative across this country we are hearing from so many political figures that somehow the police are systemically a bunch of racist rogues.  \u201cThe fact is the vast majority of police are honest hardworking men and women who don\u2019t have a racist bone in their body and yet they\u2019re being targeted.\u201d But anti-discrimination campaigns fear that such legislation could paradoxically weaken protections for vulnerable groups. The Louisiana law is the first time that professional bodies such as law enforcers and firefighters have been added to a list of protected groups that have hitherto been restricted to inherent characteristics of the individual \u2013 such as their faith, sexuality, race or disability. Allison Goodman of the Louisiana branch of the Anti-Defamation League warned that the law was a departure from the traditional understanding of hate crime protection.  Speaking to the Advocate, she said: \u201cProving the bias intent for a hate crime for law enforcement or first responders is very different than proving it for someone who is Jewish or gay or black.\u201d",
+  "webTitle": "Louisiana passes 'Blue Lives Matter' statute for hate crimes against police",
+  "webPublicationDate": "2016-05-27T18:00:33Z",
+  "webUrl": "https://www.theguardian.com/us-news/2016/may/27/black-lives-matter-louisiana-hate-crimes",
+  "keyword": [
+    {
+      "webTitle": "US policing",
+      "id": "us-news/us-police",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Louisiana",
+      "id": "us-news/louisiana",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US domestic policy",
+      "id": "us-news/usdomesticpolicy",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US crime",
+      "id": "us-news/us-crime",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ed Pilkington",
+      "id": "profile/edpilkington"
+    }
+  ],
+  "guardianId": "us-news/2016/may/27/black-lives-matter-louisiana-hate-crimes"
+}

@@ -1,0 +1,67 @@
+{
+  "apiUrl": "https://content.guardianapis.com/commentisfree/2016/may/08/congo-rangers-wildlife-gorillas-war",
+  "id": "2016-05-07-26",
+  "sectionId": "commentisfree",
+  "body": "A ranger in Virunga national park has a 44% chance of suffering a violent death during their career, the highest rate of service deaths for any national park in the world. Yet, of the 34 rangers who have lost their lives since I was appointed as Virunga\u2019s warden in 2008, 27 were killed protecting civilians and not the park\u2019s wildlife. Over the years, a ranger\u2019s responsibility \u2013 they are required to uphold the law across Congo\u2019s vast wilderness areas \u2013 has stretched them beyond the traditional function of protecting wildlife. Instead, Virunga\u2019s rangers have been placed at the frontline of a deeply complex conflict which has been described by Oxfam as the greatest human tragedy since the second world war, and which has led to the deaths of more than six million civilians. The UN panel of experts on the Democratic Republic of Congo has characterised this war as a process fuelled by the trafficking of Congo\u2019s vast biological and mineral resources, which funds the activities of more than 60 armed militias. These include resources such as charcoal from the forests, fish from the lakes, and land and oil. These are all resources associated with Virunga national park and coveted by 12 of the most violent armed militias who reside in or around the park. Virunga\u2019s rangers have had to develop an elaborate strategy aimed primarily at restoring the rule of law and protecting communities, and then building an alternative economy, known as the Virunga Alliance. This alliance relies on the principles of good governance and focuses on the interests of the poorest and most vulnerable as it restores and protects the fragile ecosystems. A defining characteristic of Congo\u2019s rangers has been their persistence in protecting civilians as well as the park\u2019s remarkable wildlife. In recent years, the mountain gorillas \u2013 Virunga\u2019s most famous and most vulnerable resident \u2013 have doubled in numbers. More recently, the rangers\u2019 efforts have led abductions to drop from around 18 a month to none in the past two months. As the park\u2019s ecosystem begins to rebuild itself in Virunga, so do its economies, with the prospect of 80,000 to 100,000 new jobs in conflict-affected communities.",
+  "webTitle": "\u2018Congo\u2019s park rangers protect people and ecosystems as war rages all around\u2019",
+  "webPublicationDate": "2016-05-07T23:04:06Z",
+  "webUrl": "https://www.theguardian.com/commentisfree/2016/may/08/congo-rangers-wildlife-gorillas-war",
+  "keyword": [
+    {
+      "webTitle": "Illegal wildlife trade",
+      "id": "environment/illegal-wildlife-trade",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Democratic Republic of the Congo",
+      "id": "world/congo",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Conservation",
+      "id": "environment/conservation",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Wildlife",
+      "id": "environment/wildlife",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Africa",
+      "id": "world/africa",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Natural resources and development",
+      "id": "global-development/natural-resources-and-development",
+      "sectionId": "global-development",
+      "sectionName": "Global development"
+    },
+    {
+      "webTitle": "Global development",
+      "id": "global-development/global-development",
+      "sectionId": "global-development",
+      "sectionName": "Global development"
+    }
+  ],
+  "authors": [],
+  "guardianId": "commentisfree/2016/may/08/congo-rangers-wildlife-gorillas-war"
+}

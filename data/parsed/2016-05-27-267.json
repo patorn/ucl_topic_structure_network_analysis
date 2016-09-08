@@ -1,0 +1,162 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/greenslade/2016/may/27/suddenly-national-newspapers-are-heading-for-that-print-cliff-fall",
+  "id": "2016-05-27-267",
+  "sectionId": "media",
+  "body": "I am in Ireland to address the Irish Press Council\u2019s annual general meeting in a lecture entitled \u201cHave newspapers got a future?\u201d My theme is that they have no future. Declining circulation figures tell us that people are switching week by week from print to screen. It is simply a matter of time before it becomes unprofitable to continue publishing newsprint papers. Sales aside, the main problem has been the gradual retreat by the major funders of the press: advertisers. Publishers of local and regional titles have been facing that drama for several years. Nationals, however, have done better... until now. The news that one of the strongest publishing companies, Daily Mail & General Trust, had to issue a warning to investors after its newspaper division reported a 29% fall in profits should be seen as a landmark moment. It was largely due to a 13% decline in print ad revenues at its titles - Daily Mail, Mail on Sunday and Metro - over a six-month period (with worse likely to follow).  There was some compensation in the growth of digital advertising at Mail Online, up to very healthy \u00a344m, which must be seen in the context of the Mail\u2019s print advertising of \u00a380m.   Related: Silicon Valley\u2019s hoover leaves newspapers hunting for profit    DMGT\u2019s drama comes against the gloom of announcements by other national publishers, incuding the Telegraph Media Group, Trinity Mirror, and Guardian Media Group. And it follows soon after the print closure of the Independent.  Despite all the prior warnings, a harsh reality has suddenly kicked in. We are in the midst of a crisis. John Gapper, writing in the Financial Times, did not exaggerate in remarking that \u201cFleet Street is following Britain\u2019s regional papers and US metropolitan ones in being hollowed out.\u201d As he pointed out, his own paper warned staff last month of \u201cdaunting trading conditions in 2016\u201d. The EU referendum may have had a negative impact, but its effect has been marginal. The trend could not be clearer: advertisers have taken flight.  It confirms what we have long known: the newspaper industry\u2019s business model is wrecked. The inevitable result will be cost-cutting on an even greater scale than has been apparent for the past decade. And don\u2019t be fooled by the apparent success of the free titles, such as Metro and the London Evening Standard. Despite their high distribution figures, 1.35m and 900,000 respectively, the profit margins are slight. Without shared overheads, I doubt they would survive as stand-alone enterprises. It is time to recognise that the whole UK newspaper industry is heading for a cliff fall, that tipping point when there is no hope of a reversal of fortune. It does not mean the immediate closure of papers because the lesson from regional owners is that it is possible to continue publication through cost-cutting. Papers can be produced with skeleton editorial staffs. Indeed, Richard Desmond has been doing that at the Daily and Sunday Express and Daily Star for several years.  Space in newsprint papers can be filled. The end result is something that looks like a paper, but the content lacks any real value. It is not journalism. It is pointless material without any public benefit. Keep in mind the scenario outlined by Nick Davies in Flat Earth News about \u201cchurnalism\u201d, a mixture of agency stories and PR-generated \u201coven-ready copy\u201d. It will get much worse as newsroom numbers are reduced.  Local paper publishers think it\u2019s magic that they can produce papers on such slim staffs. I think it\u2019s tragic because they are treating their audiences to a fake product.  And, of course, readers gradually catch on and stop buying. The cynical management of decline - maximising profits while reducing the quality of the output - is a vicious circle. Regional paper cutbacks have cut staffs to such a low level that they are unable to cover courts and council meetings. Instead, the owners have have gone cap in hand to the government and forced the BBC to fund 150 reporters to provide the public service journalism they have turned their backs on. It is doubtful if this will make any difference to the eventual outcome: the end of newsprint. The oddity is that we have been aware of this end game since the dawn of the digital revolution. But too many publishers and editors have been in denial. The latest fall in advertising revenue across the industry is a loud wake-up call.",
+  "webTitle": "Suddenly, national newspapers are heading for that print cliff fall",
+  "webPublicationDate": "2016-05-27T07:14:21Z",
+  "webUrl": "https://www.theguardian.com/media/greenslade/2016/may/27/suddenly-national-newspapers-are-heading-for-that-print-cliff-fall",
+  "keyword": [
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers",
+      "id": "media/newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media business",
+      "id": "media/mediabusiness",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Advertising",
+      "id": "media/advertising",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers & magazines",
+      "id": "media/pressandpublishing",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "National newspapers",
+      "id": "media/national-newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Regional & local newspapers",
+      "id": "media/local-newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Daily Mail & General Trust",
+      "id": "media/dmgt",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Daily Mail",
+      "id": "media/dailymail",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Mail Online",
+      "id": "media/mail-online",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Financial Times",
+      "id": "media/financialtimes",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Telegraph Media Group",
+      "id": "media/telegraphmediagroup",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Trinity Mirror",
+      "id": "media/trinity-mirror",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Guardian Media Group",
+      "id": "media/guardianmediagroup",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "The Guardian",
+      "id": "media/theguardian",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Internet",
+      "id": "technology/internet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Digital media",
+      "id": "media/digital-media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Richard Desmond",
+      "id": "media/richard-desmond",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Daily Express",
+      "id": "media/dailyexpress",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Sunday Express",
+      "id": "media/sundayexpress",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Daily Star",
+      "id": "media/dailystar",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Metro",
+      "id": "media/metro",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "London Evening Standard",
+      "id": "media/london-evening-standard",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "BBC",
+      "id": "media/bbc",
+      "sectionId": "media",
+      "sectionName": "Media"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Roy Greenslade",
+      "id": "profile/roygreenslade"
+    }
+  ],
+  "guardianId": "media/greenslade/2016/may/27/suddenly-national-newspapers-are-heading-for-that-print-cliff-fall"
+}

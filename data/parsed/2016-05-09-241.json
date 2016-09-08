@@ -1,0 +1,84 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/09/idris-elba-jessica-chastain-mollys-game-aaron-sorkin",
+  "id": "2016-05-09-241",
+  "sectionId": "film",
+  "body": "Idris Elba will star opposite Jessica Chastain in Aaron Sorkin\u2019s directing debut Molly\u2019s Game, the true story of a poker organiser whose illegal high-stakes games drew Hollywood glitterati such as Leonardo DiCaprio, Ben Affleck and Matt Damon, according to the Hollywood Reporter. Chastain has signed up to play Molly Bloom, dubbed the \u201cpoker princess\u201d, a former skier who spent eight years running exclusive games for high-end clientele until she was arrested by the FBI in 2014. Elba will play Bloom\u2019s lawyer, who learns that there\u2019s much more to his client than tabloid newspaper reports have led the public to believe.   Related: Aaron Sorkin to make directorial debut with poker drama Molly's Game    \u201cThe casting of Jessica and Idris in the two lead roles is any film-maker\u2019s dream come true,\u201d said Sorkin in a statement. \u201cThey\u2019re two of the greatest actors of their generation, paired for the first time, and their chemistry will be electric.\u201d Bloom became embroiled in the world of high-stakes gambling after decamping to California when she failed to qualify as an Olympic skier \u2013 she was the No 3 ranked mogul competitor in north America at the age of 21. After waitressing in Los Angeles, she began to host poker matches at the famous Viper Room club, but got in trouble with the law after demanding a share of the pot rather than tips. Bloom was sentenced to a year\u2019s probation and a fine of $1,000 in June 2014. Her memoir Molly\u2019s Game was optioned by Sorkin\u2019s producing partner Mark Gordon the same year. In the book, Bloom is kind about Affleck, DiCaprio and Damon, but describes Spider-Man star Tobey Maguire as a moody player and poor tipper.",
+  "webTitle": "Idris Elba joins Aaron Sorkin's table for poker biopic Molly's Game",
+  "webPublicationDate": "2016-05-09T10:30:09Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/09/idris-elba-jessica-chastain-mollys-game-aaron-sorkin",
+  "keyword": [
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Aaron Sorkin",
+      "id": "culture/aaron-sorkin",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Idris Elba",
+      "id": "culture/idris-elba",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Jessica Chastain",
+      "id": "film/jessica-chastain",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Biopics",
+      "id": "film/biopics",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Poker",
+      "id": "sport/poker",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "US crime",
+      "id": "us-news/us-crime",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ben Child",
+      "id": "profile/benchild"
+    }
+  ],
+  "guardianId": "film/2016/may/09/idris-elba-jessica-chastain-mollys-game-aaron-sorkin"
+}

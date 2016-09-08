@@ -1,0 +1,82 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/30/kent-rescue-people-could-die-in-channel-says-ex-borders-chief",
+  "id": "2016-05-30-138",
+  "sectionId": "uk-news",
+  "body": "The former independent chief inspector of borders and immigration has said lives could be lost in the Channel unless more boats are deployed to patrol for migrants trying to reach the UK. John Vine raised concerns that the UK may be seeing the start of a new trend of people smuggling across the Channel after 18 Albanians \u2013 including a woman and two children \u2013 and two British people were rescued off the coast of Kent on Saturday night. Vine said he had raised the issue of migrants crossing the Channel with the Home Office when he was chief inspector of borders and immigration but this failed to result in \u201csufficient resources\u201d being devoted to it. \u201cIn the context of small ports, we just don\u2019t know the extent of this,\u201d he told BBC Radio 4 on Monday. \u201cBut I think it is reasonable to assume that this is something that might have been happening and if this is now the start of a new trend we certainly need to gather the intelligence and the resources to nip it in the bud.\u201d He said he found the issue \u201cwasn\u2019t a major priority\u201d when he raised concerns in the past. \u201cThat is entirely reasonable: if an organisation has limited resources, it has to prioritise where its enforcement activity is,\u201d Vine said. \u201cBut clearly if this is now the start of something new, then really that \u2026 needs to be reassessed and resources need to be put in. \u201cWe have seen the tragedies that have occurred in the Mediterranean. \u201cI am not a nautical person but I would have thought crossing the Channel \u2013 with all the hazards in terms of cross-Channel traffic as well as the weather and the sea conditions \u2013 are going to mean there is an equal chance of people losing their lives unless this is stopped.\u201d The incident may have political ramifications in the EU referendum as Brexit campaigners claim leaving is the only way to control migration, while the remain campaign argues that the French may not be as keen to maintain a secure border in the event of Britain exiting the bloc. Damian Collins, a Conservative MP for Folkestone and Hythe, said he thought there were sufficient resources to patrol the border but it must be kept under review. \u201cAt the moment, it\u2019s a risk we\u2019re aware of and additional resources have been committed to fight it,\u201d he said. But Nigel Farage, the Ukip leader, claims the UK is \u201clikely to find the English Channel becoming a mortuary as economic migrants take to its unpredictable waters in unseaworthy vessels\u201d unless those who have made it to Kent are returned to France. \u201cIt is essential that a clear message is sent that no migrant arriving on our shores by boat is allowed leave to remain,\u201d he said.  \u201cWe have all seen the horrors of the Mediterranean, with thousands crossing and hundreds dying. We cannot allow that to happen off the shores of Kent and Sussex. We could see a migrant crisis coming to the shores of UK if we remain in the European Union. \u201cOnly by wresting control of our immigration system from the European Union will we be able to create a fair, equitable, immigration system. We must not make the same mistake as the EU has done over the Mediterranean situation.\u201d  The UK Coastguard received a call for assistance just off the coast of Dymchurch in Kent at 11.40pm on Saturday. A search and rescue helicopter was deployed as well as lifeboats and coastguard rescue teams.   Migrants rescued from the English Channel   The rigid-hulled inflatable boat, with 20 people on board, was found at 2am and the matter was handed over to the Border Force. It has been reported the people on board had alerted their families in Calais, who raised the alarm with the French authorities. A Home Office spokesman confirmed a woman and two children were on board. He added that a second vessel, believed to be linked to the inflatable that got into trouble, was discovered on the beach at Dymchurch. The spokesman said: \u201cA total of 20 people were picked up in a search-and-rescue operation. Eighteen were Albanian, and two were British. There was one woman, and two minors. They were taken to Dover and are currently being interviewed by Border Force officers.\u201d On Tuesday, 17 Albanians and a British man wanted on suspicion of murder in Spain were detained after a catamaran arrived at Chichester marina in West Sussex. The 55-year-old man, who was the subject of a European arrest warrant, was also detained on suspicion of facilitating illegal immigration while the 17 Albanian men were held on suspicion of entering the UK illegally. The Albanians have been detained pending Home Office consideration of their cases.",
+  "webTitle": "Kent rescue: people could die in Channel, says ex-borders chief",
+  "webPublicationDate": "2016-05-30T10:25:45Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/30/kent-rescue-people-could-die-in-channel-says-ex-borders-chief",
+  "keyword": [
+    {
+      "webTitle": "Immigration and asylum",
+      "id": "uk/immigration",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Migration",
+      "id": "world/migration",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Refugees",
+      "id": "world/refugees",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jamie Grierson",
+      "id": "profile/jamie-grierson"
+    },
+    {
+      "webTitle": "Rowena Mason",
+      "id": "profile/rowena-mason"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/30/kent-rescue-people-could-die-in-channel-says-ex-borders-chief"
+}

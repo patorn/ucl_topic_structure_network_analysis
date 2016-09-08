@@ -1,0 +1,64 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/18/sharing-economy-pew-survey-airbnb-uber",
+  "id": "2016-05-19-337",
+  "sectionId": "technology",
+  "body": "Liberals love Uber and Airbnb so much, they\u2019re embracing conservative values \u2013 at least when it comes to regulating the sharing economy, according to a new survey from Pew.  The poll \u2013 the first major survey on shared, collaborative, and on-demand services \u2013 found that the vast majority of Americans are not using ride-hailing and home-sharing services. But those that do are more likely to be opposed to regulating them, even if they identify as Democrats or liberals. Just 15% of American adults have used a ride-hail app, such as Uber or Lyft, and just 11% have used a home-sharing service, such as Airbnb or VRBO. Other gig economy companies that offer on-demand delivery of groceries, home errands, or short-term rentals of products, are used by 2-6% of Americans. \u201cUsage is most prominent among the types of people who are already highly connected,\u201d said Aaron Smith, the author of the report, which was based on a survey of 4,787 adults.     Liberals who aren\u2019t expected to be anti-regulation feel fairly strongly that the companies should follow their own rules  Aaron Smith, report author     Those tech-savvy users tend to be young, highly educated, affluent, urban \u2013 and politically liberal. Ride-hail users are twice as likely to identify as Democrats than as Republicans (65% to 33%), while home-share similarly tilts to the left (60% Democratic; 38% Republican).  But that liberal tendency does not translate into how customers view one of the more controversial topics faced by state and local governments today: whether or not to regulate these new companies in the same manner as traditional taxi and hotel companies, which must follow strict rules on car insurance, provide access to customers with disabilities, and pay local hotel taxes.  \u201cUser views on regulatory aspects of this industry in the case of Republicans play out in exactly the way you expect them to because they tend to be anti-regulation and anti-taxes,\u201d said Smith. \u201cBut it was fairly interesting to us to see that liberals who aren\u2019t expected to be anti-regulation and anti-tax feel fairly strongly that the companies should be able to follow their own rules.\u201d    Related: Uber and Lyft pull out of Austin after locals vote against self-regulation    A majority of ride-hail users (57%) and home-share users (56%) who are familiar with the issue are opposed to making ride-hail and home-share companies follow strict regulations. Two-thirds (66%) of ride-hail users think of the drivers as independent contractors rather than employees \u2013 a designation that allows Uber, Lyft, and other gig economy companies to avoid providing workers with benefits such as minimum wage, overtime pay, health insurance, and workers compensation.  \u201cThe clear preference for a light regulatory approach among partisans in all camps is striking,\u201d writes the report\u2019s author regarding rules for ride-hailing. It remains unclear what the political implications of these dynamics will be as city councils and state legislatures across the country attempt to get a grip on Uber and Airbnb.  The companies have used their billion-dollar war chests to effectively mobilize users against regulations in some cities.  Last November, voters in famously liberal San Francisco rejected a ballot initiative that aimed to strictly regulate short-term rentals, after Airbnb pumped more than $8m into the campaign to defeat it. And New York City mayor Bill DeBlasio backed off a plan to curb Uber in July 2015 in the face of a flood of anger from the company\u2019s user base.  But voters in Austin, Texas rejected a nearly $9m campaign by Uber and Lyft to repeal regulations on ride-sharing in the city earlier this month.  The study also found an interesting racial disparity in users of home-share services that does not exist among ride-hail users \u2013 13% of white Americans have used home-share services, compared to just 5% of blacks and 9% of Latinos. In recent weeks, Airbnb users have spoken out on social media about their experiences of racial discrimination on the site, which requires users to post a profile picture. A 2015 study by Harvard Business School researchers found evidence of \u201cwidespread discrimination against African-American guests\u201d by Airbnb hosts.",
+  "webTitle": "Left-leaning users veer right on regulating Uber and Airbnb, study finds",
+  "webPublicationDate": "2016-05-19T04:01:15Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/18/sharing-economy-pew-survey-airbnb-uber",
+  "keyword": [
+    {
+      "webTitle": "Uber",
+      "id": "technology/uber",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Airbnb",
+      "id": "technology/airbnb",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology startups",
+      "id": "technology/startups",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Internet",
+      "id": "technology/internet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology sector",
+      "id": "business/technology",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Nellie Bowles",
+      "id": "profile/nellie-bowles"
+    },
+    {
+      "webTitle": "Julia Carrie Wong",
+      "id": "profile/julia-carrie-wong"
+    }
+  ],
+  "guardianId": "technology/2016/may/18/sharing-economy-pew-survey-airbnb-uber"
+}

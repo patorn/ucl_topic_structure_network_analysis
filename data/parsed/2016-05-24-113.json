@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/24/unreliable-car-emissions-tests-harming-fight-against-air-pollution-expert-says",
+  "id": "2016-05-24-113",
+  "sectionId": "environment",
+  "body": "The growing gulf between laboratory tests and real world air pollution from cars is hampering efforts to cut the toxic air that kills millions of people a year worldwide, a leading expert has warned. The UN admitted on Tuesday that the global response to air pollution is not up to scratch, after it was revealed last week by the World Health Organisation (WHO) that harmful airborne particulates had risen by 8% in cities around the world. Better vehicle emissions standards are seen as a crucial way to cut that pollution. Since the VW emissions scandal, campaigners and governments have raised concerns about the sometimes huge discrepancies between emissions in lab tests compared to those on the road. \u201cMost worrying is [that] the gap between what we find in the lab and on the ground is growing,\u201d Rob de Jong, a transport expert at the UN Environment Programme, said at an environmental summit of more than 170 countries in Nairobi. \u201cLaboratory test results are increasingly unreliable or not reflective of vehicles. This gap is very worrisome because it\u2019s eating away at the progress we are making.\u201d A recent UK government test of 37 diesel vehicles showed 97% emitted more nitrogen oxide pollution than the official limit, with many producing at least six times the limit. But de Jong said that he did not think the sort of deliberate cheating undertaken by VW \u2013 separate to the gap between test results and the real world \u2013 was widespread among carmakers. \u201cThe majority I think are still in line with what is asked of them,\u201d he said. A new UN report, published on Tuesday, identified cleaner cooking stoves, better vehicle standards, greater use of renewable energy for power generation, more electric cars, public transport and controls on waste burning as key ways to cut air pollution, which is estimated to cause more than 7 million premature deaths annually. \u201cThere is a global and increasing pandemic. The global response is not yet up to speed to turn that increase into a decrease,\u201d said de Jong, of the 8% rise in pollution reported by the WHO. \u201cWherever you live on this planet, air quality is something that needs our attention,\u201d said Achim Steiner, Unep\u2019s executive director, who added that the WHO data was a reminder that many cities and regions fail to even measure air pollution, let alone tackle it. Steiner announced that UNEP was installing seven low-cost air pollution monitors in Nairobi, where it is headquartered, developed with technology companies around the world, which will cost less than $2,000 each rather than the $100,000 for a similar, conventional monitoring station.  The Guardian\u2019s travel and accommodation was paid for by the UN.",
+  "webTitle": "Unreliable car emissions tests harming fight against air pollution, expert says",
+  "webPublicationDate": "2016-05-24T15:06:49Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/24/unreliable-car-emissions-tests-harming-fight-against-air-pollution-expert-says",
+  "keyword": [
+    {
+      "webTitle": "Pollution",
+      "id": "environment/pollution",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Travel and transport",
+      "id": "environment/travel-and-transport",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Greenhouse gas emissions",
+      "id": "environment/carbon-emissions",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Automotive industry",
+      "id": "business/automotive-industry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Volkswagen (VW)",
+      "id": "business/vw-volkswagen",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Adam Vaughan",
+      "id": "profile/adam-vaughan"
+    }
+  ],
+  "guardianId": "environment/2016/may/24/unreliable-car-emissions-tests-harming-fight-against-air-pollution-expert-says"
+}

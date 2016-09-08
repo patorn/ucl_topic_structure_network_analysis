@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/10/roy-hodgson-delays-england-squad-euro-2016",
+  "id": "2016-05-10-84",
+  "sectionId": "football",
+  "body": "Roy Hodgson has delayed naming his England squad for Euro 2016 until Monday. The manager was due to reveal the 23-man party on Thursday but had decided to wait until after the final Premier League matches of the season. Those games take place on Sunday and the delay diminishes the chance of a player being named in the squad and having to withdraw because of injury. Arsenal\u2019s Danny Welbeck, who would have gone to the finals in France, has been ruled out of the tournament after sustaining a knee injury at Manchester City on Sunday. The forward faces several months out and may require surgery.",
+  "webTitle": "Roy Hodgson delays naming England\u2019s Euro 2016 squad until Monday",
+  "webPublicationDate": "2016-05-10T17:34:26Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/10/roy-hodgson-delays-england-squad-euro-2016",
+  "keyword": [
+    {
+      "webTitle": "England",
+      "id": "football/england",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Roy Hodgson",
+      "id": "football/roy-hodgson",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Euro 2016",
+      "id": "football/euro-2016",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "football/2016/may/10/roy-hodgson-delays-england-squad-euro-2016"
+}

@@ -1,0 +1,102 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/16/uk-poverty-rates-office-for-national-statistics",
+  "id": "2016-05-16-102",
+  "sectionId": "business",
+  "body": "One in three people have experienced poverty in recent years, according to figures that underline the precarious nature of work in Britain. Anti-poverty campaigners welcomed news that the proportion of people experiencing long-term, or persistent, poverty had declined to one of the lowest rates in the EU. But they highlighted Britons\u2019 relatively high chances of falling into poverty as the latest evidence that a preponderance of low-paying and low-skilled jobs left many families at risk of hardship. The Office for National Statistics said in 2014 6.5% of the UK population was in persistent poverty, amounting to approximately 3.9 million people. That was the lowest rate since comparable records began in 2008.  The UK has the third lowest rate in the EU for persistent poverty, defined as experiencing relative low income \u2013 less than 60% of median household income \u2013 in the current year, as well as at least two of the three preceding years.   Persistent poverty rates   But the ONS figures also showed a relatively high turnover of people in and out of poverty compared with other EU countries. As a result, a high proportion of people had suffered hardship for at least a short period. Between 2011 and 2014, 32.5% of the UK population experienced relative income poverty at least once. David Cameron said \u201can all-out assault on poverty\u201d would be at the centre of his second term as prime minister. But he has been criticised for changes to benefits that risk increasing working poverty. Julia Unwin, chief executive of the Joseph Rowntree Foundation, said the figures showed the government must do more to increase social mobility and job security. \u201cThe ONS figures lay bare the true scale of the challenge if an \u2018all-out assault on poverty\u2019 is to be successful,\u201d she said. \u201cThe government has been taking steps to secure a more prosperous society with lower levels of poverty. But these alone are not enough to provide a route out of hardship and fulfil David Cameron\u2019s pledge to truly transform the life chances of the country\u2019s worst off people and places.\u201d The figures on relatively low persistent poverty were seized on by the government as evidence its efforts were paying off. \u201cThe government is determined to tackle poverty and its causes, particularly through work. That\u2019s why we\u2019ve introduced reforms such as the new \u201cnational living wage\u201d, the extension of free childcare to 30 hours and increases to the personal allowance,\u201d said a spokesman. Figures on overall poverty were less flattering for the UK. The ONS noted previously released figures showing that the UK\u2019s overall poverty rate \u2013 the proportion of the population at risk of poverty in the current year \u2013 was 16.8% in 2014, the 12th highest in the EU.    Overall poverty rates   The figures on the risk of people falling into poverty and the chances of them escaping it chimed with other evidence of low job security in the UK. Between 2010 and 2013, 7.8% of the UK population entered poverty for the first time. Only Ireland and Greece in the EU had higher entry rates. The UK\u2019s exit rate from poverty was 48.6%, second only to Denmark in the EU. The ONS said: \u201cThis means that, in the UK, the chances of getting into poverty are relatively high, but the chances of getting out of poverty are also high.\u201d That pattern will intensify scrutiny of what lies beneath the UK\u2019s relatively strong recovery in employment in recent years. Labour market experts emphasise that record high employment has failed to usher in a corresponding recovery in wage growth. Some of that is explained by the fact many of the jobs being created are in low-paying, low-skilled work where there is little prospect of promotion. Conor D\u2019Arcy, a policy analyst at the Resolution Foundation thinktank, said the figures in part reflected the fact job tenure was relatively short in the UK.  The figures also echoed the thinktank\u2019s findings that people in the UK struggle to escape low pay. A Resolution Foundation investigation last year found that over a 10-year period, just one in four low-paid workers managed to move on to consistently higher wages. \u201cThere\u2019s a real need for employers to help their staff progress,\u201d said D\u2019Arcy. The Trades Union Congress said the relatively high chance of falling into poverty in the UK was a longstanding trend. \u201cWe have a long history of what is called \u2018rubber band\u2019 or recurrent poverty \u2013 lots of people who bounce between being and not quite being poor,\u201d said Richard Exell, the TUC\u2019s senior labour market analyst. \u201cThere are long-term institutional factors including weak trade unions, low collective bargaining coverage, an economy that has large numbers of people at the bottom end of the skills range and a lack of vocational training.\u201d The ONS also noted that some people were significantly more at risk of enduring poverty than others. The persistent poverty rate was higher for women than for men and it was higher for single-person households than those with two adults. Education also played a role, and two in five people who left school without any formal qualifications experienced poverty at least once between 2011 and 2014, the ONS said. That compared with one in five of those with a degree or higher.",
+  "webTitle": "A third of people in the UK have experienced poverty in recent years",
+  "webPublicationDate": "2016-05-16T17:21:50Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/16/uk-poverty-rates-office-for-national-statistics",
+  "keyword": [
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Poverty",
+      "id": "society/poverty",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Social exclusion",
+      "id": "society/socialexclusion",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Pay",
+      "id": "money/pay",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Family finances",
+      "id": "money/family-finances",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Work & careers",
+      "id": "money/work-and-careers",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Office for National Statistics",
+      "id": "uk/office-for-national-statistics",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "National living wage",
+      "id": "business/national-living-wage",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Living wage",
+      "id": "society/living-wage",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Minimum wage",
+      "id": "society/minimum-wage",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Social trends",
+      "id": "society/social-trends",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Katie Allen",
+      "id": "profile/katieallen"
+    }
+  ],
+  "guardianId": "business/2016/may/16/uk-poverty-rates-office-for-national-statistics"
+}

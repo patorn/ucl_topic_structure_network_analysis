@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/20/police-criticised-for-sand-sculpture-of-victim-cornwall-perranporth-beach",
+  "id": "2016-05-20-206",
+  "sectionId": "uk-news",
+  "body": "It seemed like a good idea at the time. The sculpture of the murder victim, sprawled on a Cornish beach surrounded by crime scene tape, was skilful enough to win a team from Devon and Cornwall police first prize in a beach games competition. But not everyone has seen the funny side of the figure created on Perranporth beach: a voluptuous woman with seaweed for hair and the supposed murder weapon sticking out of her back \u2013 a green plastic beach spade.    #devonandcornwall #police team won the tug of war and the sandcastle competition at yesterday's #CornwallBeachGames pic.twitter.com/6fKy8pOJzz\u2014 Truro Police (@PoliceTruro) May 14, 2016    When the team tweeted a gleeful picture and messages boasting of their victory the response was swift. \u201cHow inappropriate can you get? Shame on them,\u201d one tweet said. A local councillor, Hanna Toms, said: \u201cIt missed the mark for me. I think it is in poor taste. Some people would have seen it and it may have reminded them of past experiences. This is a coastal community and people will have lost loved ones in the sea.\u201d She added that portraying the victim as a curvy woman was \u201cunhelpful\u201d. Despite others on Twitter describing the sculpture as \u201charmless fun\u201d, the police issued an apology. A spokesman said: \u201cThe sand sculpture competition was entered in good faith and no staff have meant to cause any offence. \u201cThe event was a great success for all those involved, and if any offence has been caused by the nature of the sculpture, this was never intended and we apologise for that.\u201d",
+  "webTitle": "Cornwall police criticised for 'murder victim' sand sculpture",
+  "webPublicationDate": "2016-05-20T11:33:21Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/20/police-criticised-for-sand-sculpture-of-victim-cornwall-perranporth-beach",
+  "keyword": [
+    {
+      "webTitle": "Cornwall",
+      "id": "uk-news/cornwall",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Police",
+      "id": "uk/police",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Maev Kennedy",
+      "id": "profile/maevkennedy"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/20/police-criticised-for-sand-sculpture-of-victim-cornwall-perranporth-beach"
+}

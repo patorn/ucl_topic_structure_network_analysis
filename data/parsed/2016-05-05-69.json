@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/05/jarlath-henderson-hearts-broken-heads-turned-review",
+  "id": "2016-05-05-69",
+  "sectionId": "music",
+  "body": "Jarlath Henderson is a multi-instrumentalist and singer from Tyrone who moved to Scotland to study medicine and became one of the heroes of the new Celtic folk scene. He is best known as a remarkable player of uilleann pipes and whistles, but his debut solo album is a revelation. He also plays flute and guitar, and revives traditional songs with no-nonsense, respectful vocals that are matched against subtle, bravely original arrangements. So the murder ballad Young Edmund in the Lowlands Low is treated with a wash of electronic drone effects, along with fiddle and pipes, while the 17th-century ballad The Slighted Lover is updated with jazz-edged piano and brass, and Jason Singh adds \u201cbeat-boxing and vocal soundscapes\u201d to an epic treatment of The Mountain Streams Where the Moorcocks Crow, which ends with fine uilleann pipe work. One of the most powerful and inventive folk albums of the year.         Watch promotional video for Hearts Broken, Heads Turned",
+  "webTitle": "Jarlath Henderson: Hearts Broken, Heads Turned review \u2013 one of the year's best folk albums",
+  "webPublicationDate": "2016-05-05T18:30:01Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/05/jarlath-henderson-hearts-broken-heads-turned-review",
+  "keyword": [
+    {
+      "webTitle": "World music",
+      "id": "music/worldmusic",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Folk music",
+      "id": "music/folk",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Robin Denselow",
+      "id": "profile/robindenselow"
+    }
+  ],
+  "guardianId": "music/2016/may/05/jarlath-henderson-hearts-broken-heads-turned-review"
+}

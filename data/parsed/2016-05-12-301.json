@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/12/gold-demand-soars-strongest-first-quarter-on-record",
+  "id": "2016-05-12-301",
+  "sectionId": "business",
+  "body": "Demand for gold soared at the start of the year, the strongest first quarter on record, the World Gold Council (WGC) has said. It predicted that negative interest rates, global uncertainty and a good monsoon season in India would bolster buying further in coming months. Demand surged 21% between January and March, as negative interest rates in Japan and Europe, which have led to rock-bottom savings rates, slower global growth and stock market turbulence drove investors to bullion, seen as the ultimate safe haven.  The WGC\u2019s report [pdf] noted that China\u2019s devaluation of the yuan had fuelled fears over the country\u2019s economic health and the impact on the global economy, and that the pace of US interest rate rises was widely expected to slow. Inflows into exchange-traded funds, which track the spot price of gold, reached a seven-year high, close to levels last seen during the Great Recession when the sovereign debt crisis was in full swing. The dollar price of gold rose 17% during the first quarter \u2013 its best performance in almost three decades. Financial institutions were the main driver, but retail investors were also out in force, looking to gold to diversify their investments and protect their wealth. Buying by central banks dipped, however, and demand for jewellery fell due to the price rises and strikes in India.     Key changes. Photograph: World Gold Council    Demand by US investors jumped 55% in the first quarter from a year earlier and Europe remained one of the biggest markets for gold investments, powered by Germany. In China, the world\u2019s biggest consumer of gold, demand grew by 5%, boosted by buying of bars and coins for Chinese New Year. Demand in India, the second-largest gold consumer, slumped 39% in response to the price rally but is expected to rise as much as 10% over the year as a whole.  India\u2019s jewellery market virtually ground to a halt in March when jewellers reacted to government tax rises with widespread strikes. But a good monsoon season \u2013 with extra rain forecast between June and September \u2013 should boost farmers\u2019 earnings, which have been hurt by severe drought in recent months. Two-thirds of India\u2019s gold demand comes from villages, where jewellery is traditionally bought as an investment. Demand in the UK edged up 1%. Adrian Ash, head of research at BullionVault, the world\u2019s largest online gold exchange, said: \u201cQ1 looked very much like a crisis for the UK when viewed both through gold prices (+20% in GBP) and through gold demand \u2013 the strongest number of new UK users at BullionVault in three years. The urgency to buy gold has since eased back as sterling steadies on the foreign exchange market.\u201d Even so, interest remains strong, he said, with the number of new UK users on the exchange 22% higher so far this year, compared with the same period in 2015, and gold priced in sterling holding near two-and-a-half-year highs.",
+  "webTitle": "Gold demand soars 21% in strongest first quarter on record",
+  "webPublicationDate": "2016-05-12T08:59:27Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/12/gold-demand-soars-strongest-first-quarter-on-record",
+  "keyword": [
+    {
+      "webTitle": "Gold",
+      "id": "business/gold",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Commodities",
+      "id": "business/commodities",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "India",
+      "id": "world/india",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "South and Central Asia",
+      "id": "world/south-and-central-asia",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Julia Kollewe",
+      "id": "profile/juliakollewe"
+    }
+  ],
+  "guardianId": "business/2016/may/12/gold-demand-soars-strongest-first-quarter-on-record"
+}

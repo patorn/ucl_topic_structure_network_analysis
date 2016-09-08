@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/14/pfizer-us-state-executions-lethal-drug-ban-fears",
+  "id": "2016-05-14-100",
+  "sectionId": "world",
+  "body": "Human rights groups have welcomed news that pharmaceutical firm Pfizer is to block the sale of its drugs in the US to perform executions, but warned that legally dubious alternatives could take their place. All companies licensed by the US government to manufacture drugs for state executions have now blocked their use in lethal injections. Pfizer\u2019s withdrawal follows a campaign targeting pharmaceutical companies and their shareholders. The company said: \u201cPfizer makes its products to enhance and save the lives of the patients we serve. Consistent with these values, Pfizer strongly objects to the use of its products as lethal injections for capital punishment.\u201d In 2010, the Observer revealed that British companies had been secretly supplying the US with lethal injection drugs, triggering calls for an export ban. In 2011, investment firm Unipension sold its shares in a drug company because its pentobarbital was being used in US executions. A Danish doctors\u2019 pension fund has also campaigned strongly on the issue. But according to Maya Foa, director of human rights group Reprieve, which campaigns against the death penalty, the pharmaceutical industry itself was also sympathetic to their views. \u201cPfizer\u2019s actions cement the pharmaceutical industry\u2019s opposition to the misuse of medicines,\u201d Foa said. \u201cThe drugs companies never wanted their medicines used in executions. Their position has always been \u2018we make these medicines to save lives, please don\u2019t use them in executions\u2019. It\u2019s bad to have your product associated with death.\u201d Despite this, more than 1,000 people have been executed by lethal injection in the US since 1977. Reprieve claims that because these drugs are administered in experimental dosages by wardens who are not medically trained, executions are frequently botched. Pfizer\u2019s decision will have little immediate impact on the number of executions in the US, which has slowed in recent years as the pharmaceutical industry has blocked use of its drugs. In 2016 there have been 14 executions in the US. There were six in Texas, five in Georgia and one each in Alabama, Florida and Missouri. Last year, there were 28 executions in six states. Several states have been forced to suspend executions. Ohio, which last executed an inmate in January 2014, has more than two dozen prisoners on death row \u2013 with set execution dates \u2013 but no access to lethal drugs. The impasse has seen laws passed permitting older methods of execution. Last year, Utah approved the use of firing squads if drugs were not available. Oklahoma has approved nitrogen gas. In 2014, Tennessee passed a law allowing the use of the electric chair. Virginia is debating a similar bill. Some states have resorted to using compound drugs that are not approved by the federal government. Reprieve said executions using these compounds had been responsible for a number of \u201cdisastrous, drawn-out executions\u201d. US states have tried to get drugs from Indian pharmaceutical companies that are not licensed by the Federal Drug Administration. Texas obtains its pentobarbital from a supplier whose identity it is fighting to keep confidential. Foa warned there was likely to be an increase in such methods unless the US authorities clamped down. \u201cThere\u2019s been a pattern of lawlessness and states have been getting away with it for a while.\u201d",
+  "webTitle": "Pfizer\u2019s lethal injection drug ban raises fears of alternative execution methods in US",
+  "webPublicationDate": "2016-05-14T14:40:28Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/14/pfizer-us-state-executions-lethal-drug-ban-fears",
+  "keyword": [
+    {
+      "webTitle": "Capital punishment",
+      "id": "world/capital-punishment",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Pfizer",
+      "id": "business/pfizer",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Pharmaceuticals industry",
+      "id": "business/pharmaceuticals-industry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Human rights",
+      "id": "law/human-rights",
+      "sectionId": "law",
+      "sectionName": "Law"
+    },
+    {
+      "webTitle": "Law",
+      "id": "law/law",
+      "sectionId": "law",
+      "sectionName": "Law"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jamie Doward",
+      "id": "profile/jamiedoward"
+    }
+  ],
+  "guardianId": "world/2016/may/14/pfizer-us-state-executions-lethal-drug-ban-fears"
+}

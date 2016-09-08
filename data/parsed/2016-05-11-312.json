@@ -1,0 +1,76 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/11/britain-less-safe-outside-eu-former-mi5-chief-eliza-manningham-buller",
+  "id": "2016-05-11-312",
+  "sectionId": "politics",
+  "body": "The battle between Britain\u2019s former intelligence chiefs over membership of the European Union intensified with the intervention on Wednesday of former chief of MI5 Eliza Manningham-Buller, who said the country\u2019s security would be seriously undermined by leaving.  Manningham-Buller, who was head of the domestic intelligence service between 2002 and 2007, lined up with her successor, Sir Jonathan Evans, and the former head of MI6 Sir John Sawers in support of remaining in Europe and at odds with another former MI6 chief, Sir Richard Dearlove. She went further than Sawers and Evans in her criticism of claims by Eurosceptics that the UK would be safer outside the UK, describing these as \u201cnonsensical and spurious\u201d. In a speech at London\u2019s main foreign affairs thinktank Chatham House, she ran through a list of threats she saw facing the UK and Europe, from Islamist terrorism to Vladimir Putin. \u201cNow is absolutely not the time to back away from the European Union,\u201d she said. She said intelligence sharing between the UK agencies and their European counterparts would continue even if the UK was outside the EU, but expressed concerns that the UK\u2019s influence would wane if it was no longer part of the major European forums. \u201cTo leave would present real risks to our security and safety,\u201d she said. The main argument of those favouring exit from Europe is that the UK benefits chiefly in terms of intelligence-gathering from its close relationship with the US and receives relatively little from European agencies. She said it was in the UK\u2019s interests to have good relations with both. Manningham-Buller, who sits in the Lords as a non-partisan member, said she felt an obligation to speak out in response of claims made about security. \u201cI can\u2019t remain silent in a Brexit debate where the leave campaign are making an entirely spurious and nonsensical claim that we would be safer out I was particularly provoked by the intervention of one junior minister who claimed without any foundation whatsoever that in the EU we do not have the freedom to form our own alliances or share intelligence with whom we wish.\u201d She said this was untrue and decisions about which countries the UK shared intelligence with and how much remained entirely a matter for MI5, MI6 and the surveillance agency GCHQ, which were all independent of the EU. She did not name the Conservative minister.  By being inside the EU, the UK would benefit from being able to raise the standards of some of the weaker intelligence agencies, she said.  Earlier, speaking on BBC Radio 4\u2019s Today programme, Manningham-Buller said: \u201cI\u2019m sticking to what I know about. I believe strongly that we would be significantly less safe outside [the EU] because of all the networks, the relationships, the policy exchanges, the determining on data sets, things like fingerprinting, things like European arrest warrant, things like joint research on explosive detections on arms and so on. We are not going to be able to influence that if we are out.\u201d Asked about Dearlove\u2019s claim that Britain provides more intelligence to Europe than it gets back, she said: \u201cRichard is talking from 11 years ago. I don\u2019t think that is necessarily still the case. I believe we get a substantial amount of intelligence from Europe.\u201d",
+  "webTitle": "Leaving EU would undermine Britain's security \u2013 ex-MI5 chief",
+  "webPublicationDate": "2016-05-11T08:35:00Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/11/britain-less-safe-outside-eu-former-mi5-chief-eliza-manningham-buller",
+  "keyword": [
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "UK security and counter-terrorism",
+      "id": "uk/uksecurity",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Counter-terrorism policy",
+      "id": "politics/terrorism",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "MI5",
+      "id": "uk/mi5",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ewen MacAskill",
+      "id": "profile/ewenmacaskill"
+    },
+    {
+      "webTitle": "Matthew Weaver",
+      "id": "profile/matthewweaver"
+    }
+  ],
+  "guardianId": "politics/2016/may/11/britain-less-safe-outside-eu-former-mi5-chief-eliza-manningham-buller"
+}

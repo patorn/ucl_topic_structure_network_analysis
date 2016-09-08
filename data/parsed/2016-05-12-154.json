@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/books/2016/may/12/kate-mosse-european-literature-festival-brexit",
+  "id": "2016-05-12-154",
+  "sectionId": "books",
+  "body": "The bestselling novelist Kate Mosse has warned that \u201cwe stand at the moment in Europe in perilous times\u201d as she opened a celebration of European literature at the British Library on Wednesday night. As the UK stands on the brink of the EU referendum in June, Mosse spoke of how some politicians are encouraging people \u201cwho have been neighbours for years \u2026 to see ourselves only as people in conflict rather than \u2026 all Europeans. We all have connections and love and long shared common histories and goals and stories that go all the way back to the earliest words written. \u201cThere are many, for whatever reason, who would like to emphasise the things that separate us, whether we are men or women, whether we are white, black, whatever colour that we define ourselves as, whatever ethnicity we are, wherever we were born, whatever language we speak, whatever religion we follow or none,\u201d said Mosse, author of the thriller Labyrinth, set in south-west France. In England, particularly, \u201cthe fundamental building blocks of this country you could say come from the nature of translation,\u201d according to Mosse, who pointed to the Magna Carta, \u201cwritten in Latin not translated into English until the middle of the 16th century\u201d, and the King James Bible, which finally appeared in English in 1611. \u201cSo all of us here, wherever we come from, have grown up with this sense of other voices, other languages, in our head. But sometimes we forget that,\u201d said Mosse. The novelist was speaking as part of the European literature festival, opening a British Library event celebrating these books, where Rosie Goldsmith interviewed the authors Gabriela Babnik, Alek Popov, Dorthe Nors, Burhan S\u00f6nmez, Jaap Robben and Peter Verhelst. Mosse spoke of how literature can break down barriers, paraphrasing Shelley\u2019s 1821 essay A Defence of Poetry to call writers, rather than just poets, \u201cthe unacknowledged legislators of the world\u201d. And she said that although translation has risen in prominence over the last decades \u2013 a new report from the Man Booker International prize found this week that sales have almost doubled over the last 15 years in the UK \u2013 things have not changed enough. She urged her audience to read contemporary writers in translation as well as the classics, also calling for more works to be translated \u201cso we can continue to think about what connects us \u2026 what makes us the people, as Shelley said, who can change the world, change the narrative of the way sometimes it goes. \u201cThose of us who are relatively limited in our language in that we speak maybe only one or two or three, how much we would miss without the incredible efforts of the publishers, the translators, the agents in all the countries who make sure we get the opportunity to share voices that would otherwise be closed to us,\u201d said Mosse, also echoing the late American poet Adrienne Rich in The Dream of a Common Language. \u201c[Rich] didn\u2019t mean that everyone should speak the same language or read the same language but that we should celebrate every language to draw the fact together that the way that we feel is the same, our hearts beat the same, regardless of the words that come out of our mouths or the things we hear in our heads.\u201d",
+  "webTitle": "Kate Mosse speaks up for European literature in face of Brexit",
+  "webPublicationDate": "2016-05-12T15:04:11Z",
+  "webUrl": "https://www.theguardian.com/books/2016/may/12/kate-mosse-european-literature-festival-brexit",
+  "keyword": [
+    {
+      "webTitle": "Kate Mosse",
+      "id": "books/kate-mosse",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Fiction in translation",
+      "id": "books/fiction-in-translation",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Books",
+      "id": "books/books",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Fiction",
+      "id": "books/fiction",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Alison Flood",
+      "id": "profile/alisonflood"
+    }
+  ],
+  "guardianId": "books/2016/may/12/kate-mosse-european-literature-festival-brexit"
+}

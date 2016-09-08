@@ -1,0 +1,84 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/03/bbc-thatcher-dead-sheep-eu-referendum-geoffrey-howe",
+  "id": "2016-05-03-117",
+  "sectionId": "media",
+  "body": "On the day of Geoffrey Howe\u2019s memorial, Monkey hears that Dead Sheep, the play written by ITV\u2019s Tonight reporter Jonathan Maitland about the former chancellor\u2019s savaging of Margaret Thatcher in his resignation speech, may be made into a BBC film. A reading of the play \u2013 described by the Guardian\u2019s Michael Billington as \u201cextremely entertaining\u201d \u2013 went down well at the corporation and producers are now in talks to raise funding. At Howe\u2019s service in Westminster, attended by his widow Elspeth, David Cameron, George Osborne and John Major among others, Michael Heseltine reminded people of how dismissive the anti-European Thatcher could sometimes be towards Howe \u2013 something highlighted in Maitland\u2019s play. Given Howe resigned over Thatcher\u2019s policy towards Europe, saying, \u201cthe European enterprise is not and should not be seen \u2026 as some kind of zero-sum game ...\u201d Monkey reckons he would have been amused to hear that the touring version of Dead Sheep is playing in Birmingham the week the Tory party conference takes place there. Ewe couldn\u2019t make it up.",
+  "webTitle": "BBC flocks to Thatcher drama Dead Sheep as EU referendum looms",
+  "webPublicationDate": "2016-05-03T16:01:38Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/03/bbc-thatcher-dead-sheep-eu-referendum-geoffrey-howe",
+  "keyword": [
+    {
+      "webTitle": "BBC",
+      "id": "media/bbc",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Television industry",
+      "id": "media/television",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Drama",
+      "id": "tv-and-radio/drama",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Television",
+      "id": "culture/television",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Television & radio",
+      "id": "tv-and-radio/tv-and-radio",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Margaret Thatcher",
+      "id": "politics/margaretthatcher",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Geoffrey Howe",
+      "id": "politics/geoffrey-howe",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Monkey",
+      "id": "profile/monkey"
+    }
+  ],
+  "guardianId": "media/2016/may/03/bbc-thatcher-dead-sheep-eu-referendum-geoffrey-howe"
+}

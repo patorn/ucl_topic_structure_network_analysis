@@ -1,0 +1,85 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/greenslade/2016/may/06/us-magazine-editor-pledges-to-expose-british-celebrities-privacy",
+  "id": "2016-05-06-249",
+  "sectionId": "media",
+  "body": "The editor of a US tabloid has pledged to continue exposing celebrities who have used legal gagging orders to prevent British newspapers from reporting on their private lives. This pledge has been reported by the Daily Telegraph and, in slightly different form, by the Daily Mail, and both report that the secrets of 15 celebrities could be exposed.  According to the Telegraph, \u201ceven the name of the US tabloid, and of its editor, cannot be published in England and Wales\u201d because it might lead readers to the coverage and therefore breach the injunctions. The American publication has so far named two people covered by injunctions: a celebrity known as PJS who was allegedly involved in an extra-marital threesome; and an actor accused of paying for sex with an escort. The woman has been widely named as Helen Wood. She is reported, by the Daily Star, as being \u201cmortified\u201d by the story resurfacing some five years after the actor obtained the injunction. Others could well be mortified in coming months because the Telegraph quoted the editor as saying that his magazine \u201cwill continue to pursue stories in Britain\u201d because \u201cwe believe our readers have the right to know about the professional and personal lives of these types of celebrities... \u201cThe notion that a celebrity can seek an injunction to prohibit material from being published in traditional media when it is available in new media is ridiculous.\u201d On the basis of the editor\u2019s statements, the Mail reported that \u201ca string of celebrities hiding sordid secrets\u201d face being unmasked in the coming months. Outside the jurisdiction of the English courts, it appears that the injunctions cannot bite. Media lawyer Mark Stephens, of solicitors Howard Kennedy, is quoted as saying: \u201cWhat the Americans have done, for better or worse, is democratised knowledge. \u2018Anyone [who has] a global reputation - as does this actor, the sports stars or any of the others - is going to have to learn to deal with the fact that different parts of the world put different emphases on the rights of free expression versus privacy.\u201d The Mail also quoted Bob Satchwell, executive director of the Society of Editors: \u201cInjunctions are a 19th century remedy which just don\u2019t work in the 21st century. The more they happen, the more they bring our courts into disrepute because they are simply granting orders which they cannot enforce.\u201d",
+  "webTitle": "US magazine editor pledges to expose British celebrities' privacy",
+  "webPublicationDate": "2016-05-06T10:21:38Z",
+  "webUrl": "https://www.theguardian.com/media/greenslade/2016/may/06/us-magazine-editor-pledges-to-expose-british-celebrities-privacy",
+  "keyword": [
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media law",
+      "id": "media/medialaw",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Law",
+      "id": "law/law",
+      "sectionId": "law",
+      "sectionName": "Law"
+    },
+    {
+      "webTitle": "Privacy & the media",
+      "id": "media/privacy",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Privacy",
+      "id": "world/privacy",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Daily Telegraph",
+      "id": "media/dailytelegraph",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Daily Mail",
+      "id": "media/dailymail",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Daily Star",
+      "id": "media/dailystar",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers",
+      "id": "media/newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "National newspapers",
+      "id": "media/national-newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [],
+  "guardianId": "media/greenslade/2016/may/06/us-magazine-editor-pledges-to-expose-british-celebrities-privacy"
+}

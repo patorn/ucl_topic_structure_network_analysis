@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/06/how-forest-management-helps-lay-the-conditions-for-wildfires",
+  "id": "2016-05-06-113",
+  "sectionId": "environment",
+  "body": "By dousing small, regular fires, forest managers are creating the conditions for cataclysmic events, scientists have said. Fires in temperate forests are generally increasing in size and area. This is partly because of climate change. Fire seasons in many parts of the world are getting longer and drier.  But equally important in the temperate forests of Australia, North America and the Mediterranean is the way in which we manage fire and forests, said the University of Michigan\u2019s Paige Fischer. These woodlands have evolved to burn lightly and consistently. In British Columbia, the trees tell the story. Blackened rings in their cores show the trees have been singed every 10 to 40 years. Then around the end of the 19th century, with the spread of human settlement and active suppression of fires, the burning stops. \u201cFor most of the last 100 years the main method of fire management has been suppression. This has been effective at reducing fire in many regions,\u201d said US Department of Agriculture senior scientist, Tom Spies. In temperate forests where fire has been quashed, the understory grows thick and tall. Flames that are usually restricted to the ground, use that vegetation as a bridge to jump into the flammable treetops. When this occurs, the amount of available fuel increases exponentially. Add in a climate with greater extremes of heat and drought and you have the recipe for a firestorm. Globally \u201ccountless billions\u201d are spent stopping forests from burning, according to a recent report. In Canada, where fires are currently ripping through Alberta\u2019s boreal forests causing the evacuation of the town of Fort McMurray, the annual costs range between $0.39bn (\u00a30.27bn) and $0.78bn. In the US, appropriations for firefighting rose from $0.6bn to $3bn between 1995 and 2014 and the budget is consistently blown. \u201cIt\u2019s clear that fires are now completely defying our control, no matter how much investment we make in our fire fighting capacity,\u201d said Fischer. She says a \u201chuge short term investment\u201d in fuel reduction is necessary for a long-term gain to stabilise the forests. At its root, the problem is sociological. Generally people do not like fire of any kind. Controlled fuel reduction burns are unpopular because they create smoke pollution and pose a risk if they escape. Allowing fires to burn naturally is similarly unacceptable. Even in remote areas, some resource managers believe burning good wood represents a waste. The result is that fire, as integral to the forest\u2019s life cycle as rainfall, is chased from the woods and the fuel builds up. \u201cWe may have been lulled into a false sense of our ability to control nature during the mid 20th century when climate was cooler and less prone to drought,\u201d said Spies. \u201cThe other big difference between the 1940s and today is that there are many more people who have settled in fire-prone environments. Fire is returning to many landscapes and increasing \u2013 humans are now more likely to be in the way.\u201d David Bowman, a fire scientist at the University of Tasmania, said: \u201cGlobally we have been feeding the monster and now the monster is feeding itself. Slaying this monster will be difficult.\u201d  \u201cMany communities are blissfully unaware of the existential risk they face from wildfire, erroneously believing fire is an improbable once-in-a-lifetime event,\u201d Bowman said in a recent op-ed. Mechanical thinning of the understory around homes is now being conducted in Canada, and Bowman called on Australian fire services to similarly stop water bombing and start trimming. The Australian National University\u2019s David Lindenmayer said that indiscriminate fuel reduction burns have \u201clittle or no effect on protecting property assets\u201d but can impact on biodiversity. \u201cOur property loss research shows that it should be done close to houses and frequently,\u201d he said. The current fires in Alberta are unlikely to have been exacerbated by suppression, said Spies. Boreal forests differ from the temperate forests further south in that they have a longer fire cycle, lots of fuel and tend to burn intensely. But their occurrence in the normally wet month of May is highly unusual and \u201cconsistent with what we expect from human-caused climate change\u201d, according to a local scientist.",
+  "webTitle": "How forest management helps lay the conditions for wildfires | Karl Mathiesen",
+  "webPublicationDate": "2016-05-06T15:02:16Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/06/how-forest-management-helps-lay-the-conditions-for-wildfires",
+  "keyword": [
+    {
+      "webTitle": "Trees and forests",
+      "id": "environment/forests",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Wildfires",
+      "id": "world/wildfires",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Natural disasters and extreme weather",
+      "id": "world/natural-disasters",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Canada",
+      "id": "world/canada",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Americas",
+      "id": "world/americas",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Karl Mathiesen",
+      "id": "profile/karl-mathiesen"
+    }
+  ],
+  "guardianId": "environment/2016/may/06/how-forest-management-helps-lay-the-conditions-for-wildfires"
+}

@@ -1,0 +1,84 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/16/average-asking-price-first-time-buyer-home-buy-to-let-stamp-duty",
+  "id": "2016-05-15-5",
+  "sectionId": "business",
+  "body": "The average asking price of a typical first-time buyer home leapt by 6.2% in a month after buy-to-let investors rushed to buy properties before last month\u2019s stamp duty increase, according to figures on Monday. The average for properties coming on to the market in England and Wales with two bedrooms or fewer was \u00a311,298 higher in May than in April, at \u00a3194,224, according to data from the property website Rightmove. The figures, based on properties listed during the month, showed that across the UK the average price of a first-time buyer property had risen by 11.4% since May 2015.    Related: Brexit would prompt stock market and house price crash, says IMF    In hotspots such as Croydon, Dartford and Luton \u2013 all towns within easy commuting distance of central London \u2013 asking prices were up by more than 18% over the year. The figures do not include inner-London homes. The website said strong demand from investors keen to buy before the introduction of the surcharge on second homes had caused a \u201cproperty drought\u201d at the lower end of the market, putting upwards pressure on prices for those homes that were being made available. However, Rightmove\u2019s director, Miles Shipside, said: \u201cIt remains to be seen if these prices can be achieved and there may be some over pricing in the market. It is also a reflection of better quality property coming to market in this sector which is now targeting owner-occupiers rather than landlords.\u201d In Llandudno, north Wales, prices were down by 7.5% year-on-year and in Darlington, north-east England, they dropped by 3%. Across all property types, Rightmove said average asking prices had increased by 0.4% over the month to an average of \u00a3308,151. Prices were down on the previous month in London, the north-west and the north-east, but in all other regions sellers appeared more confident than in April. The stamp duty increase came into effect on 1 April after being unveiled in November\u2019s autumn statement. Second homes now attract a three percentage point surcharge, adding \u00a36,000 to the upfront cost of a \u00a3200,000 property. Figures from HM Revenue and Customs showed a spike in purchases before the change, with 161,990 sales of \u00a340,000 or more registered during March.    Related: Average price of London home almost doubles to \u00a3600,625 since 2009    There are signs that landlords are still willing to buy, but are focusing their attention on the cheaper end of the market. Paul Milson at estate agents Leaders in Epsom, Surrey, said: \u201cDespite the increase in stamp duty, investors are still keen to purchase one-bedroom flats because they make good long-term investments due to their higher yields, potential for capital gains and consistently high demand from tenants.  \u201cHowever, supply of two-bedroom flats is currently good across the board and prices for these appear to have peaked.\u201d Research by estate agents Countrywide showed the average price paid by investors fell by 8.3% in April, from \u00a3194,000 to \u00a3178,000. Stamp duty on the cheaper property would now be \u00a36,400 - \u00a3800 lower than on March\u2019s average price.  Countrywide said investors in London paid an average of \u00a3365,000 in April v \u00a3436,000 in March, attracting a stamp duty bill of \u00a319,200 rather than \u00a324,880.  Johnny Morris, its research director, said: \u201cRather than being dissuaded by the new 3% charge it seems that landlords are already adjusting their behaviour. In response to the extra purchasing costs many are choosing to buy cheaper homes that offer a higher yield and of course a lower stamp duty bill.\u201d He said there were early signs that first-time buyer numbers were increasing, but added: \u201cIt\u2019s too early to tell whether this is simply the after effects of the stamp duty rush or the start of a longer term trend.\u201d",
+  "webTitle": "Average asking price for first-time buyer home jumps 6.2% in a month",
+  "webPublicationDate": "2016-05-15T23:01:19Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/16/average-asking-price-first-time-buyer-home-buy-to-let-stamp-duty",
+  "keyword": [
+    {
+      "webTitle": "Housing market",
+      "id": "business/housingmarket",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "House prices",
+      "id": "money/houseprices",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "First-time buyers",
+      "id": "money/firsttimebuyers",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Stamp duty",
+      "id": "money/stampduty",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Buying to let",
+      "id": "money/buying-to-let",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Real estate",
+      "id": "business/realestate",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Property",
+      "id": "money/property",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Tax",
+      "id": "money/tax",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Hilary Osborne",
+      "id": "profile/hilaryosborne"
+    }
+  ],
+  "guardianId": "business/2016/may/16/average-asking-price-first-time-buyer-home-buy-to-let-stamp-duty"
+}

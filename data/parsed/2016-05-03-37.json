@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/03/instagram-comment-bug-10-year-old-hacking-finland-reward",
+  "id": "2016-05-03-37",
+  "sectionId": "technology",
+  "body": "Facebook founder Mark Zuckerberg didn\u2019t even begin to learn programming until he got a tutor at 11 years old \u2013 so he may have met his match in a 10-year-old Finnish schoolboy who has received a $10,000 bounty from Facebook after finding a vulnerability in Instagram\u2019s code. Instagram, which was bought by Facebook in 2012 for $1bn, is part of the Facebook \u201cbug bounty\u201d program, created in 2011, under which people who spot chinks in Facebook\u2019s digital armour are given a reward.  The program has paid upwards of $4.3m to more than 800 people who have spotted bugs in the social network\u2019s programming, a spokesperson for Instagram said.  While reports from teenagers are not uncommon, at 10, the Finn is the youngest person ever to receive the bounty. The bug allowed other people\u2019s comments to be deleted, though not in bulk, and was reported and fixed in February. The reward was paid out in March. The 10-year-old has been interested in coding and video games for two years, according to the Helsinki-based newspaper Iltalehti, which first reported the story. He has a twin brother, and the two have been learning together. He became interested in information security \u2013 which he said would be his \u201cdream job\u201d \u2013 and honed his craft using instructional videos on YouTube. \u201cI tested whether the comments section of Instagram can handle harmful code. Turns out it can\u2019t. I noticed that I can delete other people\u2019s comments from there,\u201d the young hacker told Iltalehti. \u201cI could have deleted anyone\u2019s \u2013 like Justin Bieber\u2019s for example \u2013 comments.\u201d His classmates were \u201csurprised and astonished\u201d by the reward, according to Iltalehi, and his father, Marko, told the paper that it had come as \u201ca total surprise that [my son] has gone this far with it\u201d. \u201cFor me all this is social media gibberish \u2013 [it\u2019s all] Greek [to me],\u201d he added. And what does a 10-year-old do with $10,000? He reportedly plans to buy a football and a new bicycle.  Translation from Finnish by Kati Laakso",
+  "webTitle": "Ten-year-old receives $10,000 reward for finding Instagram bug",
+  "webPublicationDate": "2016-05-03T19:27:33Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/03/instagram-comment-bug-10-year-old-hacking-finland-reward",
+  "keyword": [
+    {
+      "webTitle": "Instagram",
+      "id": "technology/instagram",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Facebook",
+      "id": "technology/facebook",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Hacking",
+      "id": "technology/hacking",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Data and computer security",
+      "id": "technology/data-computer-security",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Computing",
+      "id": "technology/computing",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Finland",
+      "id": "world/finland",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Nicky Woolf",
+      "id": "profile/nicky-woolf"
+    }
+  ],
+  "guardianId": "technology/2016/may/03/instagram-comment-bug-10-year-old-hacking-finland-reward"
+}

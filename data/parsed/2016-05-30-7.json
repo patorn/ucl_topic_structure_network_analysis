@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/31/deloitte-highest-ever-proportion-female-partners",
+  "id": "2016-05-30-7",
+  "sectionId": "business",
+  "body": "Deloitte has named its highest-ever proportion of female partners in the accountancy firm\u2019s annual round of promotions but the pool of senior employees is still more than 80% male. The \u2018big four\u2019 accountant said 24 of 80 new partners in its UK business, which includes offices in Switzerland, are female. The figure means that 30% of the prized positions went to women, up on last year\u2018s 29% and just 20% in 2014.  But while the proportion of new female partners has been increasing, Deloitte is still a long way off gender parity. This year\u2019s intake means that just 16% of the 1,054 partners in the firm\u2019s UK division are female, a slight increase on 15% before the latest batch of promotions. Deloitte says that just 10% of new partners are not white, below the 13% of the population who identified as being non-white in the 2011 census. But 10% represents an improvement, given that the existing group of partners is only 4% non-white. David Sproul, the chief executive and senior partner, hailed the firm\u2019s progress on gender diversity, saying: \u201cWe have seen a second consecutive year of strong female representation amongst Deloitte\u2019s new partners.\u201d But he admitted that the company had further to go to close the gender gap among partners: \u201cAchieving greater gender diversity is a clear business imperative and these promotions evidence the success of the range of initiatives we have put in place.\u201d Sproul pointed to company initiatives such as its return-to-work programme aimed at recruiting women who have been out of the workplace for two years or more. He said the scheme was likely to \u201cfurther boost our pipeline of future partner candidates\u201d. More than half of the participants on last year\u2019s return-to-work scheme accepted a job with the company and the programme has been expanded to 20 women this year. Deloitte has also backed programmes designed to make working hours more flexible and started using mobile phone games to test the aptitude of job applicants, a process it says makes its recruitment process more egalitarian by removing \u201cunconscious bias\u201d.",
+  "webTitle": "Deloitte names highest-ever proportion of female partners",
+  "webPublicationDate": "2016-05-30T23:01:17Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/31/deloitte-highest-ever-proportion-female-partners",
+  "keyword": [
+    {
+      "webTitle": "Deloitte",
+      "id": "business/deloitte",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Accountancy",
+      "id": "business/accountancy",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Financial sector",
+      "id": "business/financial-sector",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Equality",
+      "id": "society/equality",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Gender",
+      "id": "world/gender",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Women in the boardroom",
+      "id": "business/women-in-the-boardroom",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Rob Davies",
+      "id": "profile/rob-davies"
+    }
+  ],
+  "guardianId": "business/2016/may/31/deloitte-highest-ever-proportion-female-partners"
+}

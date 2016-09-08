@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/voluntary-sector-network/2016/may/23/tap-dogs-charity-fundraisers-contactless-donations",
+  "id": "2016-05-23-238",
+  "sectionId": "voluntary-sector-network",
+  "body": "As Britain moves closer to becoming a cashless society \u2013 with debit cards and contactless payments now accounting for more than half of all payments \u2013 one animal charity is looking to make the most of it. The Blue Cross has recruited a new squad of dogs to roam around fundraising events in jackets with contactless payment readers attached. By tapping a dog\u2019s coat with a debit or credit card, members of the public will instantly donate \u00a32 to the charity.  For more news, opinions and ideas about the voluntary sector, join our community \u2013 it\u2019s free!",
+  "webTitle": "Tap dogs: four-legged charity fundraisers with a difference",
+  "webPublicationDate": "2016-05-23T09:58:54Z",
+  "webUrl": "https://www.theguardian.com/voluntary-sector-network/2016/may/23/tap-dogs-charity-fundraisers-contactless-donations",
+  "keyword": [
+    {
+      "webTitle": "Fundraising",
+      "id": "voluntary-sector-network/fundraising",
+      "sectionId": "voluntary-sector-network",
+      "sectionName": "Voluntary Sector Network"
+    },
+    {
+      "webTitle": "Voluntary Sector Network",
+      "id": "voluntary-sector-network/voluntary-sector-network",
+      "sectionId": "voluntary-sector-network",
+      "sectionName": "Voluntary Sector Network"
+    },
+    {
+      "webTitle": "Voluntary sector network blog",
+      "id": "voluntary-sector-network/voluntary-sector-network-blog",
+      "sectionId": "voluntary-sector-network",
+      "sectionName": "Voluntary Sector Network"
+    },
+    {
+      "webTitle": "Finance",
+      "id": "voluntary-sector-network/finance",
+      "sectionId": "voluntary-sector-network",
+      "sectionName": "Voluntary Sector Network"
+    },
+    {
+      "webTitle": "Animals",
+      "id": "world/animals",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Charities",
+      "id": "society/charities",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Voluntary sector",
+      "id": "society/voluntarysector",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Contactless payments",
+      "id": "money/contactless-payments",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Charitable giving",
+      "id": "money/charitable-giving",
+      "sectionId": "money",
+      "sectionName": "Money"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Aimee Meade",
+      "id": "profile/aimee-meade"
+    }
+  ],
+  "guardianId": "voluntary-sector-network/2016/may/23/tap-dogs-charity-fundraisers-contactless-donations"
+}

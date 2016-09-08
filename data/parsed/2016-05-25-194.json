@@ -1,0 +1,84 @@
+{
+  "apiUrl": "https://content.guardianapis.com/books/2016/may/25/stephen-king-joins-hundreds-of-authors-petitioning-against-donald-trump-colm-toibin-lydia-davis",
+  "id": "2016-05-25-194",
+  "sectionId": "books",
+  "body": "Hundreds of authors including Stephen King, Colm T\u00f3ib\u00edn, Lydia Davis and Geraldine Brooks have signed a statement in which they \u201coppose, unequivocally, the candidacy of Donald J Trump for the presidency of the United States\u201d. Launched on Tuesday by the writers Mark Slouka and Andrew Altschul, already signed by more than 450 authors, the statement has now been posted on website ipetitions and has won more than 6,000 signatories, spanning some of the biggest names in US literature, from Pulitzer winners Jennifer Egan, Brooks and Junot D\u00edaz to bestselling and acclaimed writers including Amy Tan, Anita Shreve, Michael Chabon, Dave Eggers, Cheryl Strayed and Curtis Sittenfeld.   Related: Lionel Shriver: Donald Trump's too far-fetched for fiction    Pitched as an \u201copen letter to our fellow Americans\u201d, the statement sees the writers affirming their belief \u201cthat any democracy worthy of the name rests on pluralism, welcomes principled disagreement, and achieves consensus through reasoned debate\u201d, and that \u201cAmerican history, despite periods of nativism and bigotry, has from the first been a grand experiment in bringing people of different backgrounds together, not pitting them against one another\u201d. They write \u201cthat knowledge, experience, flexibility, and historical awareness are indispensable in a leader\u201d, and that \u201cneither wealth nor celebrity qualifies anyone to speak for the United States, to lead its military, to maintain its alliances, or to represent its people\u201d. \u201cBecause the rise of a political candidate who deliberately appeals to the basest and most violent elements in society, who encourages aggression among his followers, shouts down opponents, intimidates dissenters, and denigrates women and minorities, demands, from each of us, an immediate and forceful response. For all these reasons, we, the undersigned, as a matter of conscience, oppose, unequivocally, the candidacy of Donald J Trump for the presidency of the United States,\u201d the writers conclude.   Related: JK Rowling defends Donald Trump's right to be 'offensive and bigoted'    On Facebook, Slouka said that he and Altschul first wrote a statement of principles about 10 days previously, \u201cout of desperation to do/say something about the rise of Donald J Trump\u201d. After receiving an \u201coverwhelming\u201d response from \u201chousehold names and non-household names alike\u201d, they went public with it on Tuesday. \u201cI actually believe that Trump\u2019s presumptive nomination represents a potential pivot point for this nation. A tricky pivot point. Hopefully, you agree,\u201d wrote Slouka, urging others to sign the statement.",
+  "webTitle": "Stephen King joins hundreds of authors petitioning against Donald Trump",
+  "webPublicationDate": "2016-05-25T11:20:49Z",
+  "webUrl": "https://www.theguardian.com/books/2016/may/25/stephen-king-joins-hundreds-of-authors-petitioning-against-donald-trump-colm-toibin-lydia-davis",
+  "keyword": [
+    {
+      "webTitle": "Books",
+      "id": "books/books",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Donald Trump",
+      "id": "us-news/donaldtrump",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Stephen King",
+      "id": "books/stephenking",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Colm T\u00f3ib\u00edn",
+      "id": "books/colmtoibin",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Jennifer Egan",
+      "id": "books/jennifer-egan",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Dave Eggers",
+      "id": "books/dave-eggers",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Michael Chabon",
+      "id": "books/michael-chabon",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "E-petitions",
+      "id": "politics/e-petitions",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Geraldine Brooks",
+      "id": "books/geraldine-brooks",
+      "sectionId": "books",
+      "sectionName": "Books"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Alison Flood",
+      "id": "profile/alisonflood"
+    }
+  ],
+  "guardianId": "books/2016/may/25/stephen-king-joins-hundreds-of-authors-petitioning-against-donald-trump-colm-toibin-lydia-davis"
+}

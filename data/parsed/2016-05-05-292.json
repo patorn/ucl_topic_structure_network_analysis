@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/05/radioheads-burn-the-witch-may-be-critique-of-refugee-crisis-says-animator",
+  "id": "2016-05-05-292",
+  "sectionId": "music",
+  "body": "The animator of Radiohead\u2019s Camberwick-Green-meets-The-Wicker-Man video for Burn the Witch has suggested the clip might have been a commentary on Europe\u2019s refugee crisis. In an interview with Billboard, Virpi Kettu said the band may have wanted to increase awareness of the issue, especially \u201cthe blaming of different people \u2026 the blaming of Muslims\u201d that leads people to want to metaphorically \u201cburn the witch\u201d.   Related: Radiohead: Burn the Witch review \u2013 a return the world might have hoped for    Kettu also referred to the postcard sent to Radiohead fans bearing the words: \u201cWe know where you live,\u201d which she suggested reflected the insecurity promoted by politicians demanding a clampdown on the movement of refugees. However, Radiohead \u2013 never ones to be second-guessed \u2013 appear to be damping down speculation. Billboard\u2019s interview with Kettu is headed with a disclaimer insisting: \u201cThe opinions expressed in this article about Burn the Witch do not necessarily reflect those of the band, the video\u2019s director or any of the band\u2019s representatives.\u201d As of Thursday morning, the Burn the Witch video \u2013 launched at 4pm BST on Tuesday \u2013 had chalked up more than 6.6m views on YouTube. Using animation in the style of the Trumptonshire trilogy, the children\u2019s animations made between 1966 and 1969 and set in an all-white, happy rural England, the video portrays a community where paranoia and rage go hand in hand with bucolic peace \u2013 the clip ends, seemingly, with an outsider being burned alive in a giant wicker man.            Kettu said the clip took two weeks to make from start to finish, with the team producing an average of 30 seconds of animation per day, compared with the 12 seconds that was typical when she worked at Aardman. She only learned the video had been released on Tuesday, the same time as the rest of the world.",
+  "webTitle": "Radiohead's Burn the Witch may be critique of refugee crisis, says animator",
+  "webPublicationDate": "2016-05-05T07:41:32Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/05/radioheads-burn-the-witch-may-be-critique-of-refugee-crisis-says-animator",
+  "keyword": [
+    {
+      "webTitle": "Radiohead",
+      "id": "music/radiohead",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Pop and rock",
+      "id": "music/popandrock",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Refugees",
+      "id": "world/refugees",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Migration",
+      "id": "world/migration",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian music",
+      "id": "profile/guardianmusic"
+    }
+  ],
+  "guardianId": "music/2016/may/05/radioheads-burn-the-witch-may-be-critique-of-refugee-crisis-says-animator"
+}

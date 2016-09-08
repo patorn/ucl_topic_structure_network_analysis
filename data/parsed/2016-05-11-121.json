@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/us-news/2016/may/11/walter-scott-shooting-officer-michael-slager-federal-charges",
+  "id": "2016-05-11-121",
+  "sectionId": "us-news",
+  "body": "Michael Slager, the former North Charleston police officer who fatally shot Walter Scott, an unarmed African American man, in South Carolina, has been indicted on federal charges by a grand jury. The white 34-year-old, who joined the North Charleston police department in 2010, already faces a state murder charge, but the federal indictment, a rarity in officer-involved deaths, provides authorities with another avenue of achieving a conviction.  The three federal charges, first reported by the Post and Courier after court documents were unsealed on Wednesday morning, include a charge tied to the deprivation of civil rights under the colour of law, a federal statute which prevents \u201cthe deprivation of any rights, privileges or immunities secured or protected by the constitution or laws of the United States\u201d.  Slager is also charged with using a firearm in a violent crime and obstruction of justice, with the indictment stating he \u201cknowingly misled\u201d investigators examining the shooting.  Scott, 50, was shot five times from behind in April 2015, after Slager had pulled him over for having a broken tail light. The shooting was captured on cellphone video by an eyewitness, Feidin Santana, and shows Scott was running away at the time he was shot.  L Chris Stewart, an attorney for the Scott family, welcomed the new charges.  \u201cThis rare federal indictment reconfirms the fact that Walter Scott did not die in vain. His family is pleased that the federal government has taken this almost unprecedented action and hopes that this will serve as a turning point in police brutality cases,\u201d Stewart said in a statement. Slager was arraigned in federal court on Wednesday afternoon. If convicted, he faces a maximum sentence of life in prison and a potential $250,000 fine, the justice department said in a statement. The former officer was allowed to remain out on bail under house arrest, after the brief court appearance. Following the arraignment hearing, Slager\u2019s lawyers described the charges as \u201cvery extreme\u201d.  \u201cIt really feels as if officer Slager is carrying the burden of many past cases that were handled differently,\u201d said attorney Andrew Savage in a statement. \u201cNeedless to say, today\u2019s indictment is very concerning to Michael.\u201d  Slager\u2019s state trial for murder is due to begin in October.   slager indictment",
+  "webTitle": "Walter Scott shooting: former South Carolina officer faces federal charges",
+  "webPublicationDate": "2016-05-11T16:28:33Z",
+  "webUrl": "https://www.theguardian.com/us-news/2016/may/11/walter-scott-shooting-officer-michael-slager-federal-charges",
+  "keyword": [
+    {
+      "webTitle": "Walter Scott shooting",
+      "id": "us-news/walter-scott-shooting",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "South Carolina",
+      "id": "us-news/south-carolina",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US policing",
+      "id": "us-news/us-police",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Oliver Laughland",
+      "id": "profile/laughland-oliver"
+    }
+  ],
+  "guardianId": "us-news/2016/may/11/walter-scott-shooting-officer-michael-slager-federal-charges"
+}

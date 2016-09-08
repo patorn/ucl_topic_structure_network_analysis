@@ -1,0 +1,84 @@
+{
+  "apiUrl": "https://content.guardianapis.com/society/2016/may/17/doctors-should-prescribe-gardening-for-patients-more-often-says-report",
+  "id": "2016-05-17-77",
+  "sectionId": "society",
+  "body": "Doctors should prescribe gardening far more often for patients with cancer, dementia and mental health problems, the NHS has been urged in a new report. Outdoor spaces including gardens can reduce social isolation among older people as well as help patients recover and manage conditions such as dementia, according to the influential King\u2019s Fund health thinktank. Jane Ellison, the public health minister, backed the plan, which could see GPs in particular advising patients to spend more time outside as a way of alleviating their symptoms. \u201c[Gardening] is profoundly good for you \u2026 [it] is a great way of keeping people active, of keeping them outside and keeping their sense of wellbeing very high,\u201d she said. \u201cThere are things we can do around physical activity in particular that bring immediate payback ... I\u2019m trying to put this right across the agenda of dementia and cancer.\u201d Parts of the country are already investing in this more social approach to health at primary care level and in some places, such as the Bromley by Bow Centre in London, GPs are already prescribing gardening. Such schemes have been proven to reduce patients\u2019 need to see a GP or attend A&E, enhance wellbeing and even promote better sleep. Schemes that use this type of social prescribing focus on mental health and wellbeing as much as physical health, including through reducing social isolation and strengthening community bonds.  \u201cSocial prescribing schemes, by their nature, vary considerably but generally provide a way for GPs and other primary care professionals to offer or signpost to non-clinical referral options instead of, or alongside, clinical ones,\u201d says the report\u2019s author, David Buck. Up to 20% of GPs\u2019 time is spent on problems with social causes, and social prescribing could be a way to manage increasing demands on the NHS, including pressures on GPs\u2019 time. In Lambeth in London, a group of patients, doctors, nurses and local residents have created a network of food-growing gardens in 11 GP surgeries and other sites, including King\u2019s College hospital, where patients learn how to grow food, which is then sold to the hospital to feed patients. Horatio\u2019s Garden, a national charity, has designed gardens at Salisbury hospital to help in the rehabilitation of spinal injury patients, meanwhile. And, outside spaces and gardens can be important elements in improving end-of-life care for the half a million people who die in England each year, half of whom die in hospital. Dementia patients can benefit from being near a garden and one study cited in the report found a 19% reduction in violence in patients staying in garden sites and a sevenfold increase in violence in the non-garden sites during a year. Many studies suggest that a garden changes how residents, staff and visitors interact in the long term and can help people reconnect with their past interests.  Gardens can also reduce levels of depression, loneliness, anxiety and stress, help improve older people\u2019s balance, and have benefits for a range of conditions including heart disease and obesity, the report, commissioned by the National Gardens Scheme (NGS), shows. Mary Berry, president of the NGS, said: \u201cI have long been aware of the therapeutic benefits of gardening \u2013 you don\u2019t need pills so get out in the garden and enjoy it. It\u2019s essential ... \u201d At a time when the health service, local government and social care are under severe pressure to cut costs, commissioning inexpensive and effective methods of treatment is seen as an simple way of improving the nation\u2019s health. Ellison added that it was important to be sensible and pragmatic in the way evidence is used. \u201cFor me, there is a different evidential bar in something like social prescribing for people to get out doing gardening than there is for a vastly expensive new cancer drug.\u201d  George Plumptre, chief executive of the National Gardens Scheme, said that this report was the first to pull together all the evidence showing the benefits of gardening for physical and mental health.  He said: \u201cThis could be, in the future, a really important plank for public health policy. There are enormous benefits on offer. For the first time, we\u2019ve got some clear recommendations for policy \u2026 Active gardeners all know it\u2019s good for you but what we haven\u2019t been able to do is make that quantum leap to public policy.\u201d",
+  "webTitle": "Doctors should prescribe gardening for patients more often, says report",
+  "webPublicationDate": "2016-05-17T17:15:33Z",
+  "webUrl": "https://www.theguardian.com/society/2016/may/17/doctors-should-prescribe-gardening-for-patients-more-often-says-report",
+  "keyword": [
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Gardens",
+      "id": "lifeandstyle/gardens",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Dementia",
+      "id": "society/dementia",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Doctors",
+      "id": "society/doctors",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "NHS",
+      "id": "society/nhs",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Cancer",
+      "id": "society/cancer",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "GPs",
+      "id": "society/gps",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Mary Berry",
+      "id": "culture/mary-berry",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Mental health",
+      "id": "society/mental-health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Sarah Johnson",
+      "id": "profile/sarah-johnson"
+    }
+  ],
+  "guardianId": "society/2016/may/17/doctors-should-prescribe-gardening-for-patients-more-often-says-report"
+}

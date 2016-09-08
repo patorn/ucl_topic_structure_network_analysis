@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/us-news/2016/may/26/fbi-intelligence-senate-bill-warrants-data-access",
+  "id": "2016-05-26-5",
+  "sectionId": "us-news",
+  "body": "Two US senators have warned that a new bill would vastly expand the FBI\u2019s warrantless access to Americans\u2019 online records. Although the text of the 2017 intelligence authorization bill is not yet available to the public, two members of the Senate intelligence committee have said the bill could expand the remit of a nonjudicial subpoena called a National Security Letter (NSLs) to acquire Americans\u2019 email records, chat or messaging accounts, account login records, browser histories and social-media service usage.  While NSLs typically apply to phone or banking records and email addresses, the bill, which cleared the Senate intelligence panel on Tuesday by a 14-1 vote, appears to change the scope of the longstanding term \u201celectronic communications transaction records\u201d. Senator Ron Wyden criticized the change as a sweeping expansion of warrantless surveillance. \u201cWhile this bill does not clearly define \u2018electronic communication transaction records\u2019, this term could easily be read to encompass records of whom individuals exchange emails with and when, as well as their login history, IP addresses, and internet browsing history,\u201d Wyden, a Democrat from Oregon who voted against the bill, told the Guardian. Wyden\u2019s colleague on the panel, Democrat Martin Heinrich of New Mexico, said in a Thursday statement that the measure represents \u201ca massive expansion of government surveillance that lacks independent oversight and potentially gives the FBI access to Americans\u2019 email and browser histories with little more than the approval of a manager in the field\u201d. Heinrich voted for the bill because of its other provisions. His office said he would seek to remove the NSL expansion when it comes to the Senate floor.  \u201cThe FBI has not made a convincing case that it needs any process other than the one that already exists, especially one that freely allows the FBI access to law-abiding Americans\u2019 emails and web activity,\u201d Henrich said. Obscure before the 9/11 attacks, the FBI has come to rely significantly on NSLs, which come exclusively from the executive branch, and not with a judge\u2019s approval. They are served not to the targets of investigation but to communications providers or banks, and come with gag orders preventing the recipient from disclosing anything about them.   A 2014 panel advising Barack Obama on surveillance found the FBI typically issues an average of 60 NSLs each day, or 21,900 annually, up from 8,500 in 2000. The office of the director of national intelligence and the justice department recently reported that the FBI issued 12,870 NSLs in 2015, representing 48,642 warrantless requests for information.  Last year, a recipient of an NSL won a decade-long fight to disclose aspects of the subpoena his web-hosting company received. The NSL served to Nicholas Merrill in 2004 included demands for cellular location information and \u201cany other information which you consider to be an electronic communication transactional record\u201d \u2013 an indication that the phraseology in the fiscal 2017 intelligence bill has direct NSL precedent.  In Senate testimony earlier this year, FBI Director James Comey said that a \u201ctypo\u201d in a 1993 statute concerning electronic communications transaction records was leading \u201csome companies\u201d to resist providing the FBI with \u201cordinary transaction records that we can get in most contexts with a non-court order\u201d. He called a legislative fix a high legislative priority for the bureau.  A statement released by the Senate panel\u2019s leadership, Republican Richard Burr of North Carolina and Democrat Dianne Feinstein of California, after the bill passed the committee on Tuesday did not include information on the bill\u2019s changes to the NSL scope.  Burr spokeswoman Rebecca Watkins indicated a public version bill would be released as early as next week.  \u201cCommittee members have three working days to submit supplemental, minority, or additional views to the committee. The resulting report will be made public after member comments are compiled, as has been consistently the process for the Senate intelligence committee,\u201d Watkins told the Guardian.",
+  "webTitle": "Bill would expand FBI's warrantless access to online records, senators warn",
+  "webPublicationDate": "2016-05-26T23:19:47Z",
+  "webUrl": "https://www.theguardian.com/us-news/2016/may/26/fbi-intelligence-senate-bill-warrants-data-access",
+  "keyword": [
+    {
+      "webTitle": "FBI",
+      "id": "us-news/fbi",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US Senate",
+      "id": "us-news/us-senate",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "James Comey",
+      "id": "us-news/james-comey",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Spencer Ackerman",
+      "id": "profile/spencerackerman"
+    }
+  ],
+  "guardianId": "us-news/2016/may/26/fbi-intelligence-senate-bill-warrants-data-access"
+}

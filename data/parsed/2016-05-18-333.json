@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/society/2016/may/18/queens-speech-tackle-homelessness-rough-sleeping-wales-scotland",
+  "id": "2016-05-18-333",
+  "sectionId": "society",
+  "body": "The Queen\u2019s speech today offers a chance for the government to take the lead on tackling the homelessness crisis, by introducing a homelessness bill rather than simply opine that the rough sleeping rates are too high and Something Must Be Done. The most recent rough sleeping statistics report a total of 3,569 people sleeping on the streets in England in autumn 2015: up 825 (30%) from the total of 2,744 the previous year. In the autumn statement, George Osborne, pledged \u00a310m to help councils tackle rough sleeping: local councillors across England and homelessness charities warned this was a drop in the ocean compared to the cuts councils had faced, and did little to alter the conditions homeless people find themselves in. Demand for temporary accommodation provided by councils has risen from people made homeless because they can\u2019t afford to pay private landlords\u2019 rents, which have increased drastically in many cities including London, Bristol, Manchester and Oxford. Yet tenants\u2019 wages are stagnant and they are subject to stricter benefit conditions and even sanctions. But to counter demand for housing, thanks to the Localism Act 2011, local authorities are now allowed to make it more difficult for people to apply for housing services. A person has to have lived in the area for at least three years and has to have been evicted to qualify. For some councils, this becomes gatekeeping \u2013 refusing to accept someone\u2019s homeless status to keep numbers low.   Related: Welsh law shows that early support prevents homelessness | Kate Murray    Even if councils do accept their duty to house \u201cpriority need\u201d homeless people who meet a strict eligibility threshold (which usually excludes single people by prioritising households with children): where do people go? Local authorities are struggling to build homes, and now will be forced by new rules to sell \u201chigh value\u201d council homes. Homelessness and the housing market don\u2019t exist independently: the conditions of housing in the UK are more acute for people at risk of homelessness than they have been for decades. With less social housing available, vulnerable people are forced to rent in the private sector, where landlords are more likely to evict swiftly if you end up in arrears, or refuse point blank to let a room or flat to you if you can\u2019t provide references, proof of income and several months\u2019 rent upfront. In Wales and Scotland, however, homelessness has dropped, because the devolved administrations accepted that an approach that offered help only when people were already homeless was likely to see people slip through the net. Scotland scrapped \u201cpriority need\u201d rules from December 2012, while Wales went further in April 2014 and introduced a duty on councils to prevent homelessness. The legislation works because it puts people first, rather than attempting to limit the number of people designated as needing help, and because councils are funded to deliver preventative services with a \u00a35.6m implementation fund in Wales. Ministers are reportedly considering implementing a prevention duty for English councils in today\u2019s bill. Whether it will provide additional funding that the Treasury will sign off, remains to be seen. The single biggest cause of homelessness in England is now private landlords ending assured shorthold tenancies, leaving nowhere for turfed-out tenants to go: sticking-plaster solutions once people find themselves bedding down in shop doorways aren\u2019t likely to result in long-term housing for the thousands of people on the streets. To tackle this the government has to: accept a duty to prevent homelessness rather than refusing to help until crisis point; accept that homelessness is a symptom of a wider problem, with the housing market dominated by private renting that focuses on economic gain; and house everyone who needs housing, rather than attempting to force a triage system on lives and households that results in young families stuck in temporary accommodation for months, and single homeless people falling through the gaps in care and remaining on the street. The problem is that these solutions cost a little more in the short term. In the long term, however, housing someone at risk of homelessness involves a small outlay that prevents costs incurred by councils, police and the NHS if homelessness becomes entrenched and rough sleepers become the responsibility of multiple services. If the Queen\u2019s speech pledged full support to anyone facing homelessness in England, it would be a massive step forward: instead we are likely to see another small bung of cash promised in a similar manner to the autumn statement\u2019s announcement, given to councils who have lost more funding than Osborne is willing to redress, to grab a quick headline without denting the problem.",
+  "webTitle": "Will new bill prevent homelessness in England? | Dawn Foster",
+  "webPublicationDate": "2016-05-18T06:00:21Z",
+  "webUrl": "https://www.theguardian.com/society/2016/may/18/queens-speech-tackle-homelessness-rough-sleeping-wales-scotland",
+  "keyword": [
+    {
+      "webTitle": "Homelessness",
+      "id": "society/homelessness",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Housing",
+      "id": "society/housing",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Social exclusion",
+      "id": "society/socialexclusion",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Social housing",
+      "id": "society/social-housing",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Communities",
+      "id": "society/communities",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Wales",
+      "id": "uk/wales",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Scotland",
+      "id": "uk/scotland",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Dawn Foster",
+      "id": "profile/dawn-foster"
+    }
+  ],
+  "guardianId": "society/2016/may/18/queens-speech-tackle-homelessness-rough-sleeping-wales-scotland"
+}

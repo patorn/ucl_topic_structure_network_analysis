@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/04/next-consumer-demand-sales-weather",
+  "id": "2016-05-04-187",
+  "sectionId": "business",
+  "body": "Here is Next\u2019s considered opinion on the current state of consumer demand, derived from a detailed analysis of its own trading in the past six weeks: \u201cDunno, guv, we only sell clothes and stuff.\u201d The chief executive, Lord Wolfson, didn\u2019t put it like that, of course. Instead there was a worthy discourse on the effect of weather (cold in March and April versus last year\u2019s hot Easter) on recent weeks\u2019 weak sales followed by a confession that the real problem may just be that consumers are spending less.   Related: Next warns on sales and profits as cold weather chills spring ranges    Amid the uncertainty, Next reckons its sales this year could fall by 3.5% but might rise by the same percentage. Put another way, pre-tax profits could decrease 8.9% to \u00a3748m or could improve 3.7% to \u00a3852m. The odd part is the market regarded this finger-in-the-air exercise as mildly reassuring \u2013 Next\u2019s shares rose 5%. In a sense, though, it is. Widening the range of possible profit outcomes from \u00a374m in March to \u00a3104m is unusual, but the key conclusion is surely that Next doesn\u2019t expect to come apart at the seams, whatever happens. The low-end profit figure of \u00a3748m is hardly a disaster. Not all retailers could confidently claim to be so resilient, especially if it\u2019s true that consumer confidence has turned down. In the long term, Next faces the problem of combating competitors who seem to have learned and copied all its best online distribution and logistics tricks. An upgrade is required for the online and catalogue Directory business, as Next admits. The short-term headaches, though, seem more irritating than painful.",
+  "webTitle": "Next's view of consumer demand: dunno, guv",
+  "webPublicationDate": "2016-05-04T12:52:12Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/04/next-consumer-demand-sales-weather",
+  "keyword": [
+    {
+      "webTitle": "Next",
+      "id": "business/next",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Retail industry",
+      "id": "business/retail",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Nils Pratley",
+      "id": "profile/nilspratley"
+    }
+  ],
+  "guardianId": "business/2016/may/04/next-consumer-demand-sales-weather"
+}

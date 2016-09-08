@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/01/drake-views-album-review-more-sharp-introspection",
+  "id": "2016-05-01-167",
+  "sectionId": "music",
+  "body": "Drake is probably the premier male artist of the selfie generation, making a career out of revelatory introspection mixed with a rapper\u2019s reflex high dudgeon. The Toronto-themed Views follows last year\u2019s hit mixtape with more Auto-Tuned post-mortems on Drake\u2019s convoluted love life, balanced out by slightly more routine hip-hop swagger. Although tracks like One Dance, Controlla or the Rihanna duet, Too Good, throw in feelgood island vibes, the latter\u2019s verses find the two sometime lovers miscommunicating (being lost for words is something of a theme on Views); ultimately nothing here really out-pops last year\u2019s dulcet hit, Hotline Bling, included as a bonus track. As ever, though, the detail \u2013 both lyrical and producerly \u2013 is pin-sharp. Keep the Family Close finds Drake neglecting close relationships, while the slow jam Redemption checks in on ex-girlfriends, seemingly by name.",
+  "webTitle": "Drake: Views review \u2013 more sharp introspection",
+  "webPublicationDate": "2016-05-01T07:00:48Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/01/drake-views-album-review-more-sharp-introspection",
+  "keyword": [
+    {
+      "webTitle": "Drake",
+      "id": "music/drake",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Rap",
+      "id": "music/rap",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Hip-hop",
+      "id": "music/hip-hop",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Kitty Empire",
+      "id": "profile/kittyempire"
+    }
+  ],
+  "guardianId": "music/2016/may/01/drake-views-album-review-more-sharp-introspection"
+}

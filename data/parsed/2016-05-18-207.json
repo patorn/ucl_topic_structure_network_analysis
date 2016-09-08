@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/18/ipcc-launches-inquiry-into-collapse-of-gang-case",
+  "id": "2016-05-18-207",
+  "sectionId": "politics",
+  "body": "The police watchdog is to examine a flawed investigation of an alleged gang-rape at a university ball that collapsed as the trial of four young men accused of the crime was about to start.   Earlier this month a senior judge criticised a police detective and the Crown Prosecution Service for their handling of the case.   The Independent Police Complaints Commission (IPCC) said it would now look at issues concerning the police investigation and the disclosure of evidence in preparation for the trial.   Following the collapse of the case, the judge, Jamie Tabor QC, said the investigating officer, DC Ben Lewis of Gloucestershire police, had got too close to the complainant and did not understand his job properly.  Tabor said the officer and the CPS had to bear responsibility for not disclosing \u201cgame-changing\u201d material to the defence teams of the men who were due to stand trial.  The four men, three of them students and one a promising jockey, had been accused of involvement in the gang-rape of a young woman at an annual college ball at the Royal Agricultural University in Cirencester, Gloucestershire, in May 2014.  She claimed she had been subjected to violence, including strangulation, and that some of it had been filmed and sent by one of the men to friends via social media.  The trial had been due to begin at Gloucester crown court but at the last moment the prosecution offered no evidence and the four defendants were cleared.  After the case collapsed, the defendants\u2019 legal team accused police in court of \u201ccherry-picking\u201d evidence supportive of the prosecution\u2019s case and \u201cairbrushing out of the picture\u201d anything that could have helped the men.  In a statement the IPCC said: \u201cThe circumstances of a criminal investigation conducted by Gloucestershire constabulary, which was unable to proceed to trial due to issues raised during legal proceedings, will be examined by the Independent Police Complaints Commission.  \u201cIn March 2016, on the first day of the trial, the prosecution announced that they would offer no evidence, and four male defendants who were accused of rape were acquitted. Three of the men were students at the Royal Agricultural University in Cirencester. \u201cIssues have been raised concerning the police investigation and the disclosure of evidence in preparation for the trial. The matter was referred to the IPCC and we have decided an independent investigation is appropriate. \u201cThe IPCC will carefully examine the actions of the officers involved during both the investigation and the pre-trial process.\u201d The students Thady Duff, Leo Mahon and Patrick Foster, all 22, and jockey James Martin, 20, were cleared of rape.",
+  "webTitle": "IPCC launches inquiry into collapse of gang-rape case",
+  "webPublicationDate": "2016-05-18T11:33:22Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/18/ipcc-launches-inquiry-into-collapse-of-gang-case",
+  "keyword": [
+    {
+      "webTitle": "Independent Police Complaints Commission",
+      "id": "politics/ipcc",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Police",
+      "id": "uk/police",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Crown Prosecution Service",
+      "id": "law/crown-prosecution-service",
+      "sectionId": "law",
+      "sectionName": "Law"
+    },
+    {
+      "webTitle": "Law",
+      "id": "law/law",
+      "sectionId": "law",
+      "sectionName": "Law"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Steven Morris",
+      "id": "profile/stevenmorris"
+    }
+  ],
+  "guardianId": "politics/2016/may/18/ipcc-launches-inquiry-into-collapse-of-gang-case"
+}

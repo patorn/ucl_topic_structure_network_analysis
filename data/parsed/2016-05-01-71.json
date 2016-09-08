@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/01/horse-racing-tips-monday",
+  "id": "2016-05-01-71",
+  "sectionId": "sport",
+  "body": "Bath  1.55 John Joiner 2.30 Notnowsam 3.05 Mutahaady 3.40 Molten Lava 4.15 Kafoo 4.50 Wharane 5.25 Kuriosa Beverley  1.45 Hestina 2.20 Volta Do Mar 2.55 Laughton 3.30 Jacbequick (nb) 4.05 Hulcolt 4.40 Oak Bluffs 5.15 Affectionate Lady 5.50 Fine Example Kempton  2.10 Mr Kite 2.45 Monsieur Gibraltar 3.20 Boy In A Bentley 3.55 Bob Tucker 4.25 Panis Angelicus 5.00 Planetoid 5.35 Dunraven Storm 6.05 Brotherly Company Warwick  12.30 Marquis Of Carabas 1.00 Miss Spent 1.30 Oficial Ben 2.00 The Big Dipper 2.35 Master Of The Game 3.10 Dispour 3.45 Hallingham 4.20 Kayf Charmer Windsor  1.40 Harrison Stickle 2.15 Kinglami 2.50 Morando 3.25 Silk Cravat 4.00 Somethingthrilling 4.35 Harold Lloyd 5.10 Walpole (nap) 5.10 Lapilli",
+  "webTitle": "Horse racing tips: Monday 2 May",
+  "webPublicationDate": "2016-05-01T17:05:00Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/01/horse-racing-tips-monday",
+  "keyword": [
+    {
+      "webTitle": "Horse racing tips",
+      "id": "sport/horse-racing-tips",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Horse racing",
+      "id": "sport/horse-racing",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Chris Cook",
+      "id": "profile/chriscook"
+    }
+  ],
+  "guardianId": "sport/2016/may/01/horse-racing-tips-monday"
+}

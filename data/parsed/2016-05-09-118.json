@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/09/adblock-plus-100-million-devices-adblocking-software",
+  "id": "2016-05-09-118",
+  "sectionId": "media",
+  "body": "The makers of Adblock Plus claim their software is being used on more than 100 million devices around the world.    Related: Pirate Bay founder and Adblock maker offer web users a way to pay publishers    Till Faida, founder of Adblock maker, Eyeo, told a TechCrunch conference in New York on Monday that the company had racked up more than 100 million active installations. The figure does not translate directly to users, as people may be using the software on more than one device. However, it suggests the company is far and away the market leader and highlights the growing popularity of adblocking software. The company described usage in countries \u201cwhere adblocking is well known\u201d \u2013 such as France and Germany \u2013 as relatively stable, but hinted that rates of adoption were faster in the UK and the US. A survey by KPMG found that 44% of UK adults were planning to use an adblocker in the next six months. The growth of adblocking is creating problems for online publishers, who rely on advertising, as it means there is a growing proportion of their audience from which they cannot make money.  Eyeo\u2019s approach to adblocking has proved especially controversial as the company operates an \u201cacceptable ads\u201d programme, which charges larger publishers and advertising companies a fee to be able show users ads the company has decided users will find less annoying.  The approach has been described as a \u201cprotection racket\u201d by John Whittingdale, the UK culture secretary, and \u201cextortion\u201d by Mark Thompson, chief executive of the New York Times.",
+  "webTitle": "Adblock Plus 'on more than 100 million devices'",
+  "webPublicationDate": "2016-05-09T15:59:56Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/09/adblock-plus-100-million-devices-adblocking-software",
+  "keyword": [
+    {
+      "webTitle": "Adblocking",
+      "id": "media/ad-blocking",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Advertising",
+      "id": "media/advertising",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Digital media",
+      "id": "media/digital-media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jasper Jackson",
+      "id": "profile/jasper-jackson"
+    }
+  ],
+  "guardianId": "media/2016/may/09/adblock-plus-100-million-devices-adblocking-software"
+}

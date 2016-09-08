@@ -1,0 +1,96 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/greenslade/2016/may/18/the-queen-brexit-and-the-sun-did-the-lady-protest-too-much",
+  "id": "2016-05-18-310",
+  "sectionId": "media",
+  "body": "So, as has been widely expected, the Sun has been censured by the press regulator for its headline \u201cQueen backs Brexit\u201d.  And, also as expected, the paper\u2019s editor, Tony Gallagher, has rejected the decision by the Independent Press Standards Organisation (Ipso). The problem for Gallagher was using the term \u201cBrexit\u201d because, at the time the Queen is said to have spouted her anti-European Union views, it had not been coined. Indeed, at that time, the government had not even arranged the EU referendum. How then could the Queen have backed a British pull-out from the EU? Clearly, that was the logic applied by Ipso\u2019s complaints committee. Although the Sun believes that the Palace amended its original complaint from one about the story to one about the headline, I am assured this was not the case.*  Royal aides appear to have realised the poential implications of taking issue with a story with a double source (even if the people were anonymised).  But Gallagher wasn\u2019t happy about the headline ruling. In his Radio 4 Today programme interview, he was unrepentant. He relied on the fact that his Brexit headlined was qualified by a sub-head referring to it being a \u201cbombshell claim\u201d.  That interview was interesting. He managed to make clear his rejection of Ipso\u2019s ruling while embracing his paper\u2019s membership of Ipso. He also took the opportunity to stress that he knew more than he published, that the sources were impeccable and that he would do it all over again. \u201cIn all conscience,\u201d he said, \u201cwe don\u2019t accept we made a mistake.\u201d Gallagher stopped well short of being critical of Ipso and of self-regulation and shrugged off the paper\u2019s previous ruling (about the inaccuracy of its \u201c1 in 5 Brit Muslims\u2019 sympathy for jihadis\u201d story). Gallagher\u2019s careful answers were similar to the measured tone of  his paper\u2019s editorial, in which the Sun reiterated its belief that the Queen does back Brexit. It thought it \u201cfair enough\u201d to have published both the original story and the headline. \u201cWe stand by all of it\u201d, said the Sun, and continued:   \u201cWe respect Ipso and understand why the Queen complained. She was furious at the claim she had taken sides in a political dispute. But the idea she keeps all her thoughts to herself is nonsense.\u201d  In conclusion, the Sun advanced a familiar \u201cright to know\u201d and \u201cpublic interest\u201d justification for its story:  \u201cA newspaper wouldn\u2019t be a newspaper if it got wind of such views \u0097 so clearly in the public\u2019s interest to read \u0097and didn\u2019t publish them.\u201d   It published Ipso\u2019s verdict across the bottom of page 2, \u201cIpso rules against Sun\u2019s Queen headline\u201d, as it is required to do under the rules of its contract with the regulator.  Ipso\u2019s critics will argue that the paper, having been found \u201cguilty\u201d of running an inaccurate front page headline, should have been forced to run the ruling on page 1. But it did carry a page 1 trail (and I understand the size of the typeface was agreeable to Ipso). Note also the reality of this whole affair. Whether or not the headline was justified and whether or not the story was entirely accurate, is there anyone across Britain who doesn\u2019t now believe that the Queen is none too happy with Britain\u2019s membership of the European Union?  The Sun appears to have reflected the truth of the Queen\u2019s covert political viewpoint. That may not have been the case if the Palace had failed to make an official complaint. I wonder, on reflection, if the monarch\u2019s advisers got it wrong. Surely, the lady did protest too much?  *This paragraph was amended at 10am in the light of new and further information.",
+  "webTitle": "The Queen, Brexit and the Sun: did the lady protest too much?",
+  "webPublicationDate": "2016-05-18T07:18:22Z",
+  "webUrl": "https://www.theguardian.com/media/greenslade/2016/may/18/the-queen-brexit-and-the-sun-did-the-lady-protest-too-much",
+  "keyword": [
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "The Sun",
+      "id": "media/sun",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Rupert Murdoch",
+      "id": "media/rupert-murdoch",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "The Queen",
+      "id": "uk/queen",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Tony Gallagher",
+      "id": "media/tony-gallagher",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Ipso",
+      "id": "media/ipso",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Press regulation",
+      "id": "media/press-regulation",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "National newspapers",
+      "id": "media/national-newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers",
+      "id": "media/newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Monarchy",
+      "id": "uk/monarchy",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Roy Greenslade",
+      "id": "profile/roygreenslade"
+    }
+  ],
+  "guardianId": "media/greenslade/2016/may/18/the-queen-brexit-and-the-sun-did-the-lady-protest-too-much"
+}

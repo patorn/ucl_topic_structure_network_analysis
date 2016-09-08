@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/15/casablanca-actor-madeleine-lebeau-dies-in-spain-at-92",
+  "id": "2016-05-15-64",
+  "sectionId": "film",
+  "body": "Madeleine LeBeau, the last surviving cast member of Casablanca, whose tear-stained face framed in closeup while La Marseillaise played became a defining image of resistance during the second world war, has died aged 92. LeBeau, who played Yvonne in the 1942 film, died in Spain on 1 May from complications following a broken thigh bone, her stepson, filmmaker Carlo Alberto Pinelli, told the Hollywood Reporter. LeBeau was able to draw on her own experience fleeing the Nazis when she was cast along with her husband, Marcel Dalio, in the Oscar-winning movie. Dalio played casino croupier Emil and LeBeau featured as the scorned lover of Humphrey Bogart\u2019s Rick Blaine. When cast aside by the world-weary nightclub owner, Yvonne becomes involved with one of the Nazi soldiers occupying Morocco. But once she hears the rousing chorus of La Marseillaise sung by defiant drinkers in the nightclub bar, she repents her dalliance with the enemy and joins their song. Born near Paris in 1923, LeBeau fled France with Dalio just days before the Nazis swept into Paris in 1940. The couple feared for their lives after Dalio\u2019s image was used on a Nazi propaganda poster as an example of how to spot Jewish-looking features. They made their way to California and, thanks in part to Dalio\u2019s connections in Hollywood, LeBeau was signed up to the Warner Brothers studio. She landed parts in Hold Back the Dawn in 1941 and Gentleman Jim in 1942. In 1942 the pair were cast in Casablanca. LeBeau\u2019s marriage to Dalio fell apart during the making of the film; he divorced her citing desertion and Warners ended her contract soon after. Although no longer backed by a major studio, she won roles in two more Hollywood films: Paris After Dark (1943) and Music for Millions (1944). When the war was over she returned to Europe and in 1963 starred in Fellini\u2019s 8\u00bd (1963).",
+  "webTitle": "Casablanca actor Madeleine LeBeau dies in Spain aged 92",
+  "webPublicationDate": "2016-05-15T16:34:27Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/15/casablanca-actor-madeleine-lebeau-dies-in-spain-at-92",
+  "keyword": [
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Casablanca",
+      "id": "film/casablanca",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Spain",
+      "id": "world/spain",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Warner Bros",
+      "id": "film/warner-bros",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Film industry",
+      "id": "film/film-industry",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ruth McKee",
+      "id": "profile/ruth-mckee"
+    }
+  ],
+  "guardianId": "film/2016/may/15/casablanca-actor-madeleine-lebeau-dies-in-spain-at-92"
+}

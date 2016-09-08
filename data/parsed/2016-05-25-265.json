@@ -1,0 +1,90 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/greenslade/2016/may/25/us-act-aimed-at-curbing-impunity-for-journalist-murderers",
+  "id": "2016-05-25-265",
+  "sectionId": "media",
+  "body": "The United States is on the verge of creating a law with the potential to curb one of the great injustices faced by journalists across the world: impunity. It is estimated that 90% of the murders of journalists around the globe go unpunished. Many are never properly investigated. Few culprits, even when known, are prosecuted.  In some cases, it is governments that are either responsible for the murders, usually at arm\u2019s length, or guilty of failing to institute proper inquiries. Now there is hope of what the New York-based Committee to Protect Journalists (CPJ) calls partial redress through a proposed US law, the Global Magnitsky Human Rights Accountability Act. The bill, which was passed by the Senate last year, has just been approved by the House of Representatives\u2019 foreign affairs committee. If passed by the House itself, it will go to President Barack Obama to be signed into law. It would allow the US government to take action against non-Americans who are deemed to have grossly violated human rights by freezing their assets and banning visas.  The act would be an expansion of the 2012 Magnitsky Act, which applies exclusively to Russians. Both are named after Russian lawyer Sergei Magnitsky, who died in a Moscow prison in 2009.  Before his arrest, on charges of fraud, Magnitsky had exposed large-scale official corruption. More than three dozen people are now on the so-called \u201cMagnitsky list,\u201d including two named in connection with the 2004 murder of Forbes magazine editor Paul Klebnikov in Moscow. The act\u2019s main architect is William Browder, a friend and colleague of Magnitsky. He told CPJ in an interview in 2014 that the act\u2019s sanctions \u201cmay not be real justice for crimes like torture and murder, but they are far better than absolute impunity, which is what is happening in most places today.\u201d The CPJ has catalogued 275 unsolved murders of journalists over the past decade, according to Elisabeth Witchel, who launched organisation\u2019s global campaign against impunity. She writes: \u201cObstacles to justice range from direct political interference to weak institutions. Many of those known to have murdered journalists, or suspected of having murdered them, are figures who hold power in their communities, by wealth, political office, or both.\u201d She cites a statement by Frank La Rue, the former UN special rapporteur for freedom of expression, who called impunity \u201can invitation to kill not one more, but to kill many more.\u201d  Some journalists who are wrongfully imprisoned, or violently assaulted, aer aware that their persecutors remain at large. A global Magnitsky Act, argues Witchel, \u201ccould offer precious recourse to these victims.\u201d She accepts that \u201cthere is some distance to go before the global Magnitsky bill becomes law and cases can be submitted for consideration.\u201d She also concedes that \u201cit will be difficult to provide the evidence the bill requires, in part due to the conditions that allow impunity to thrive in the first place.\u201d| Witchel concludes: \u201cSanctions cannot replace justice; they cannot bring security and dignity to victims, colleagues and family members like a trial and appropriate sentencing. But they might deter attacks on journalists and other human rights violations.\u201d One other possibility is that the act will inspire other countries to pass similar laws. A Magnitsky act is now on the political agenda in Canada. Members of the European parliament have called for similar sanctions on Russians. As for Britain, Browder wrote an open letter to prime minister David Cameron in the Guardian in January this year about the government\u2019s failure to punish Russia\u2019s president, Vladimir Putin, and senior members of his regime for the murder of Alexander Litvinenko. He wrote:   \u201cYou have argued that you can\u2019t take more action because you need to deal with Russia on the issue of Syria. That assumes there are only two choices: doing nothing or breaking relations.  But there are actions which would send Putin a stern message and allow you to continue to talk to Russia on important geopolitical issues. The main tool you have is imposing visa sanctions and assets freezes on top Russian government officials who bear responsibility for the Litvinenko attack.\u201d  In other words, Browder was urging a Magnitsky-style response.  Sources: Elisabeth Witchel, CPJ consultant/Bill Browder",
+  "webTitle": "US act aimed at curbing impunity for murderers of journalists",
+  "webPublicationDate": "2016-05-25T07:33:01Z",
+  "webUrl": "https://www.theguardian.com/media/greenslade/2016/may/25/us-act-aimed-at-curbing-impunity-for-journalist-murderers",
+  "keyword": [
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Journalist safety",
+      "id": "media/journalist-safety",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Human rights",
+      "id": "law/human-rights",
+      "sectionId": "law",
+      "sectionName": "Law"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Press freedom",
+      "id": "media/press-freedom",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Barack Obama",
+      "id": "us-news/barack-obama",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Law",
+      "id": "law/law",
+      "sectionId": "law",
+      "sectionName": "Law"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Russia",
+      "id": "world/russia",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Alexander Litvinenko",
+      "id": "world/alexander-litvinenko",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Vladimir Putin",
+      "id": "world/vladimir-putin",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Freedom of speech",
+      "id": "world/freedom-of-speech",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Roy Greenslade",
+      "id": "profile/roygreenslade"
+    }
+  ],
+  "guardianId": "media/greenslade/2016/may/25/us-act-aimed-at-curbing-impunity-for-journalist-murderers"
+}

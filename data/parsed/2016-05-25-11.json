@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/25/yaya-toure-rejects-offers-30m-chinese-clubs-shanghai-sipg-jiangsu-suning",
+  "id": "2016-05-25-11",
+  "sectionId": "football",
+  "body": "Manchester City\u2019s Yaya Tour\u00e9 has rejected offers of \u00a330m from each of the Chinese clubs, Shanghai SIPG and Jiangsu Suning, with the Ivorian also not interested in joining Internazionale, who continue to monitor him. The midfielder\u2019s first choice is to continue playing in the Premier League and he is open to staying at Manchester City. Tour\u00e9 has one year remaining on terms worth \u00a3220,000 a week with incentives. Pep Guardiola takes over on 1\u00a0July and, despite the Spaniard countenancing his sale to City from Barcelona six years ago, Tour\u00e9 has no issues with him. Despite turning 33 last month, the midfielder believes he can continue at the highest level for the foreseeable future. His elder brother, Kolo, is 35 and played regularly for Liverpool last season, including starting the Europa League final this month. This has furthered Tour\u00e9\u2019s determination to extend his career for as long as possible.",
+  "webTitle": "Yaya Tour\u00e9 rejects offers of \u00a330m from two Chinese clubs",
+  "webPublicationDate": "2016-05-25T22:15:25Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/25/yaya-toure-rejects-offers-30m-chinese-clubs-shanghai-sipg-jiangsu-suning",
+  "keyword": [
+    {
+      "webTitle": "Yaya Tour\u00e9",
+      "id": "football/yaya-toure",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Manchester City",
+      "id": "football/manchestercity",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jamie Jackson",
+      "id": "profile/jamiejackson"
+    }
+  ],
+  "guardianId": "football/2016/may/25/yaya-toure-rejects-offers-30m-chinese-clubs-shanghai-sipg-jiangsu-suning"
+}

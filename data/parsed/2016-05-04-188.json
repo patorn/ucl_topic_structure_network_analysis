@@ -1,0 +1,84 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/04/cameron-challenges-corbyn-links-antisemitic-extremists",
+  "id": "2016-05-04-188",
+  "sectionId": "politics",
+  "body": "David Cameron has used prime minister\u2019s questions to relentlessly challenge the Labour leader, Jeremy Corbyn, over his links to extremist groups with antisemitic views. The prime minister turned the weekly session on its head as he ignored Corbyn\u2019s questions about domestic policy and instead demanded four times that he withdraw remarks relating to Hamas and Hezbollah.   Related: Cameron v Corbyn PMQs verdict: wretched 17 minutes for Corbyn    \u201cI\u2019m afraid he is going to have to do this one more time,\u201d Cameron said, in front of cheering Conservative MPs, who will hope the attack can maximise the party\u2019s chances in tomorrow\u2019s elections. \u201cHe referred to Hamas and Hezbollah as his friends \u2013 are they your friends or not?  \u201cBecause those organisations in their constitutions believe in persecuting and killing Jews, they are antisemitic organisations, they are racist organisations, he must stand up and say they are not his friends.\u201d Corbyn repeatedly responded by saying Labour was an anti-racist party that would not tolerate antisemitism, but failed to directly withdraw his previous comments about Hamas and Hezbollah. Instead, he said that he did not approve of either organisation, adding: \u201cAnyone who commits racist acts or is antisemitic is not a friend of mine.\u201d On the eve of the mayoralty elections in London, Cameron also laid into the Labour candidate, Sadiq Khan, who he accused of a \u201cpattern of behaviour\u201d in sharing platforms with individuals with extremist views. \u201cHe shared a platform with Sajil Shahid, the man who trained the ringleader of the 7/7 attacks and accused the US of bringing 9/11 on themselves. He shared a platform with an extremist who called for Jews to be drowned in the ocean.\u201d Shahid has reportedly called for violence against British troops and run a training camp in Pakistan where known terrorists learned how to make bombs and fire rocket-propelled grenades.  One of his \u201cgraduates\u201d was said to be Mohammad Sidique Khan, who led the gang of four suicide bombers on the deadliest terrorist attack ever committed in Britain on 7 July 2005. Corbyn hit back, accusing Cameron of smearing Khan, and pointing out that Sulaiman Ghani, who the prime minister previously highlighted as an extremist with links to the Labour mayoral hopeful, had also been pictured with the Conservative candidate, Zac Goldsmith. Cameron said Khan had appeared with Ghani nine times, and said he was a man who described women as subservient to men and who expressed unsavoury views about gay people.  Cameron\u2019s attack came after Corbyn became engulfed in an antisemitism crisis after his close political ally, Ken Livingstone, made controversial remarks about Hitler and Israel that resulted in him being suspended from the party. The Labour leader, who was accused of failing to act quickly enough in suspending his friend, set up an inquiry into antisemitism led by the former Liberty director Shami Chakrabarti.",
+  "webTitle": "PM challenges Jeremy Corbyn over links to antisemitic extremists",
+  "webPublicationDate": "2016-05-04T12:50:07Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/04/cameron-challenges-corbyn-links-antisemitic-extremists",
+  "keyword": [
+    {
+      "webTitle": "Jeremy Corbyn",
+      "id": "politics/jeremy-corbyn",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Labour",
+      "id": "politics/labour",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "David Cameron",
+      "id": "politics/davidcameron",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Judaism",
+      "id": "world/judaism",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Conservatives",
+      "id": "politics/conservatives",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Race issues",
+      "id": "world/race",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Hamas",
+      "id": "world/hamas",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Hezbollah",
+      "id": "world/hezbollah",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Religion",
+      "id": "world/religion",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Anushka Asthana",
+      "id": "profile/anushkaasthana"
+    }
+  ],
+  "guardianId": "politics/2016/may/04/cameron-challenges-corbyn-links-antisemitic-extremists"
+}

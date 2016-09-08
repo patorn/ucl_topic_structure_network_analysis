@@ -1,0 +1,55 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sustainable-business/2016/may/13/geeky-image-girls-tech-industry-stereotypes-hinder-equality",
+  "id": "2016-05-13-321",
+  "sectionId": "sustainable-business",
+  "body": "For women in the tech industry, working in teams dominated by male colleagues can be a lonely experience. Studies into unconscious bias are gradually having an impact, with larger tech companies such as Google now sharing data on its workforce diversity and hiring processes. This move towards transparency is encouraging, but if tech firms really want to address the gender imbalance, the problem needs to be tackled much earlier. Up to GCSE level in UK schools, girls are just as likely as boys to study science, technology, engineering and maths (Stem), but for A-levels and beyond female representation falls [pdf]. It\u2019s not that girls aren\u2019t good at these subjects. In fact, in 2014 a higher proportion of females achieved better A*- C combined grades than males in all Stem subjects at A-level.   Related: Educating Britain's young people for the next industrial revolution    Nobody believes we teach literacy to children so we can churn out professional authors. However with computer science, a misconception exists that its sole aim is to produce a workforce of programmers. This only alienates teenage girls who already have a negative idea of what it is to be a \u201ccomputer geek\u201d.  The loss of career prospects is likely to grow in the future too. The digital tech industry grew 32% faster than the rest of the UK economy between 2010 and 2014 in a clear signal that future jobs will require fundamental computing skills and knowledge.  Every year, I would ask students in my year 8 class (12-13 year olds) to write down what they think it might be like to be a computer scientist. Answers included positive stereotypes such as high earnings and being smart, but the negative stereotypes most often put forward by the girls always outweighed the positive, such as being friendless, isolated and nerdy. In reality, computer science is a highly creative subject. It gives students a better understanding of the increasingly digital world around them and challenges notions of what\u2019s possible. It teaches a way of thinking that enables you to solve any problem that matters to you, whether that\u2019s communicating information about a product or tracking the number of endangered Siberian tigers. For the last decade, however, adults in education and the tech industry have failed to communicate the breadth and depth of the subject matter to girls. The result is that currently only 17% of UK jobs in computer science are held by women.  The good news is that teachers are gradually being given the tools to help increase the popularity of Stem education among girls. Grassroots organisations such as Computing At School are working to share good practice on inclusion and diversity with teachers across the UK. Campaign group WISE (Women in science, technology and engineering) has launched a careers initiative for schools that introduces girls to Stem jobs that match their strengths and aspirations. Businesses are also responding. Credit card company Capital One has partnered with Women Who Code to create a 10-week coding curriculum \u2013 called C1-Coders \u2013 that can be taught to teenagers by its employees on a volunteer basis. Network Rail has created the Could IT be you competition for women aged between 16 and 18 with a \u00a39,000 prize to be used for university tuition fees. Other businesses are trying to address the gender imbalance by making female role models more visible for young people. Lego released its first female scientist mini figure in 2013 and, as part of the Future Tech Girls initiative, recruitment company Empiric has curated a wall of inspiration for girls on work experience, with information on nearly 50 women working in tech and leadership. Examples include Ingrid Odegaard, co-founder of video conferencing service appear.in, and BBC technology reporter Kate Russell.    Related: Lego to launch female scientists series after online campaign     We need girls to grow up gaining Stem skills if tech companies are ever to reflect the people they serve \u2013 but while this change must happen at school level, that\u2019s not to say businesses today are off the hook.  While some tech giants are promoting diversity, small and medium businesses, which account for 60% of all private sector employment [pdf] in the UK, also have a responsibility to better promote themselves and their wide range of roles to help communicate that the sector isn\u2019t just about programming. For the tech industry as a whole, advancing diversity means going beyond just saying it needs more women. It should start highlighting the kinds of qualities that it needs in employees to help combat the stereotypes my classes associated with the sector - qualities like critical thinking, creativity, collaboration and curiosity.",
+  "webTitle": "Too geeky for girls? Tech industry stereotypes are hindering equality",
+  "webPublicationDate": "2016-05-13T05:00:05Z",
+  "webUrl": "https://www.theguardian.com/sustainable-business/2016/may/13/geeky-image-girls-tech-industry-stereotypes-hinder-equality",
+  "keyword": [
+    {
+      "webTitle": "Guardian sustainable business",
+      "id": "sustainable-business/sustainable-business",
+      "sectionId": "sustainable-business",
+      "sectionName": "Guardian Sustainable Business"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "The gender gap",
+      "id": "education/educationsgendergap",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Education",
+      "id": "education/education",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Science",
+      "id": "education/science",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Computer science and IT",
+      "id": "education/computerscienceandit",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Gender",
+      "id": "world/gender",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [],
+  "guardianId": "sustainable-business/2016/may/13/geeky-image-girls-tech-industry-stereotypes-hinder-equality"
+}

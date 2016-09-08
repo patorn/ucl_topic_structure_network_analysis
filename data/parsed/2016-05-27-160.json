@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/27/uk-statistics-chief-vote-leave-350m-figure-misleading",
+  "id": "2016-05-27-160",
+  "sectionId": "politics",
+  "body": "The UK\u2019s statistics watchdog has delivered a public rebuke to the Vote Leave campaign for continuing to claim that EU membership costs the UK \u00a3350m a week. Sir Andrew Dilnot, chair of the UK Statistics Authority, said he was disappointed that the lead Brexit campaign was continuing to make this claim and that it was \u201cmisleading and undermines trust in official statistics\u201d.   Brexit explained: campaign funds   Dilnot has previously described the claim as potentially misleading in correspondence with Vote Leave, but his latest reprimand \u2013 issued in the form of a statement on the authority\u2019s website \u2013 is stronger and reflects his frustration that Vote Leave is ignoring his concerns. In an unusual second intervention, he said: \u201cThe UK Statistics Authority is disappointed to note that there continue to be suggestions that the UK contributes \u00a3350m to the EU each week, and that this full amount could be spent elsewhere.   Related: The Guardian view on the Leave campaign: show some respect for truth | Editorial    \u201cAs we have made clear, the UK\u2019s contribution to the EU is paid after the application of the rebate. We have also pointed out that there are payments received by the UK public and private sectors that are relevant here. The continued use of a gross figure in contexts that imply it is a net figure is misleading and undermines trust in official statistics.\u201d The \u00a3350m-per-week claim is so central to Vote Leave\u2019s campaign that it has been plastered on the side of its battlebus. The slogan on the vehicle says the UK sends \u00a3350m a week to the EU and suggests: \u201cLet\u2019s fund our NHS instead.\u201d   Related: Does the EU really cost the UK \u00a3350m a week?    In the past, Dominic Cummings, Vote Leave\u2019s campaign director, has argued that \u00a3350m a week was actually an understatement because the UK\u2019s gross contribution to the EU in 2014 was equivalent to \u00a3367m a week. He has also argued that Vote Leave is entitled to ignore the rebate because the rebate is not guaranteed, and is only paid by agreement with other EU member states. Dilnot recently said that between 2010 and 2014 the UK\u2019s net contribution to the EU \u2013 ie taking into account money received back \u2013 was \u00a37.1bn annually. That is equivalent to \u00a3136m per week. But Cummings has also challenged this methodology, saying it does not include private sector contributions to the EU such as those that take the form of fines imposed by the European commission.",
+  "webTitle": "UK statistics chief says Vote Leave \u00a3350m figure is misleading",
+  "webPublicationDate": "2016-05-27T12:26:05Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/27/uk-statistics-chief-vote-leave-350m-figure-misleading",
+  "keyword": [
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Andrew Sparrow",
+      "id": "profile/andrewsparrow"
+    }
+  ],
+  "guardianId": "politics/2016/may/27/uk-statistics-chief-vote-leave-350m-figure-misleading"
+}

@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/27/gucci-mane-released-early-from-indiana-prison",
+  "id": "2016-05-27-231",
+  "sectionId": "music",
+  "body": "Gucci Mane has been released early from prison after serving a federal firearms sentence.  The 36-year-old rapper was due to be released in September but secured an early release after his lawyer, Drew Findling, filed a series of motions claiming that he hadn\u2019t received credit for previous time served.  Mane, whose real name is Radric Davis, had been imprisoned in the Federal Correctional Institution in Terre Haute, Indiana. In 2014 he pleaded guilty to aggravated assault for attacking a fan at an Atlanta nightclub. He was handed a sentence that ran concurrently with a 39-month federal sentence for possession of a firearm by a convicted felon. According to Findling: \u201cThe original computation didn\u2019t give him that credit. We had to file a series of motions. Ultimately, the judge signed an order acknowledging he was entitled to that credit. Then the bureau of prison immediately gave him that credit.\u201d He added: \u201cHe\u2019s trimmed. He\u2019s fit. He\u2019s very excited to go back to his life\u2019s calling, which is being a recording artist.\u201d",
+  "webTitle": "Gucci Mane released early from Indiana prison",
+  "webPublicationDate": "2016-05-27T09:40:41Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/27/gucci-mane-released-early-from-indiana-prison",
+  "keyword": [
+    {
+      "webTitle": "Rap",
+      "id": "music/rap",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Pop and rock",
+      "id": "music/popandrock",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Hip-hop",
+      "id": "music/hip-hop",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian music",
+      "id": "profile/guardianmusic"
+    }
+  ],
+  "guardianId": "music/2016/may/27/gucci-mane-released-early-from-indiana-prison"
+}

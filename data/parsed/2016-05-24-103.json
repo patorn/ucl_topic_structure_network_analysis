@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/money/2016/may/24/europeans-what-do-you-like-about-living-and-working-in-the-uk",
+  "id": "2016-05-24-103",
+  "sectionId": "money",
+  "body": "Ahead of the EU referendum economists have been scrutinising how jobs will be affected if the UK was to leave Europe, and what Brexit might mean for employment rights.   Related: Work after Brexit: the biggest winners and losers for UK jobs    There\u2019s been much said recently over the effect of a Brexit on UK jobs and industry. While economists say the two industries most likely to be scaled back if we leave the EU are the automative industry and financial services, leading to a loss of up to 950,000 jobs, others are more optimistic about our chances if we leave the European Union.  If you\u2019re an EU national we\u2019d like to hear all about your life in the UK. Why did you first come to the UK - for family or to work? What do you enjoy most about working and living here? Do you feel you\u2019ve contributed and what do you think a Remain or Leave result will mean for you? We\u2019d also like to hear about what you do for a living. How long have you been working in that position and why do you enjoy it? Whether you\u2019re a lawyer, a waiter, a cleaner or an engineer, regardless of which sector you work in you can share your stories with us by filling in our form below. We\u2019ll feature some of your contribution in our ongoing reporting.",
+  "webTitle": "Europeans: what do you like about living and working in the UK?",
+  "webPublicationDate": "2016-05-24T15:38:27Z",
+  "webUrl": "https://www.theguardian.com/money/2016/may/24/europeans-what-do-you-like-about-living-and-working-in-the-uk",
+  "keyword": [
+    {
+      "webTitle": "Work & careers",
+      "id": "money/work-and-careers",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian readers",
+      "id": "profile/guardian-readers"
+    }
+  ],
+  "guardianId": "money/2016/may/24/europeans-what-do-you-like-about-living-and-working-in-the-uk"
+}

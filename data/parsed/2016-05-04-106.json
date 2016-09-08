@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/04/mps-examining-bhs-collapse-offer-cooperate-investigators",
+  "id": "2016-05-04-106",
+  "sectionId": "business",
+  "body": "MPs looking into the demise of BHS have written to the insolvency regulator and the Serious Fraud Office offering to cooperate with their investigations. Frank Field, chairman of the work and pensions committee, told the SFO boss, David Green, that MPs wanted to \u201cshed light on what has happened to BHS and identify any regulatory, supervisory or legislative deficiencies\u201d with regard to pensions. He asked the SFO to advise if there were any concerns about MPs\u2019 activity and if they might hinder \u201cany future criminal prosecutions\u201d. The SFO is understood to be conducting preliminary inquiries into the activities of the group of entrepreneurs led by the former racing driver Dominic Chappell, who bought BHS for \u00a31 a year ago.   Related: Insolvency Service to investigate BHS's slump into administration    Less than a fortnight after it appointed administrators, BHS is already the subject of at least three inquiries, including an Insolvency Service investigation launched by the business secretary, Sajid Javid, on Tuesday and two by committees of MPs. The SFO has not confirmed or denied that it has begun an inquiry. Field also wrote to the Insolvency Service asking to be advised if its chief executive, Sarah Albon, had any concerns about the work and pensions committee\u2019s investigation. Javid asked the Insolvency Service to bring forward its investigation into BHS, urging the watchdog to consider the extent to which the conduct of the BHS directors led to its collapse into insolvency last week, putting 11,000 jobs at risk.  The investigation will not only look at the role of the directors at the time when administrators were called in, led by Chappell of Retail Acquisitions, but their predecessors, led by Sir Philip Green. The Insolvency Service normally waits for the conclusion of a final report by administrators before commencing any investigation into a company \u2013 a process likely to take three months. But the Department for Business, Innovation and Skills said the \u201cunique circumstances\u201d surrounding the BHS case meant Javid wanted to commence the investigation as soon as possible. The work and pensions committee inquiry will begin on Monday with evidence from the pensions regulator and the Pension Protection Fund, the industry-backed body that is likely to have to make up BHS\u2019s pension deficit of \u00a3571m.   Related: Select committee chief lashes out at Sir Philip Green over BHS sale    On Tuesday, Green agreed to appear before an unusual joint session of the business, innovation and skills select committee and the work and pensions select committee. He is expected to go to parliament in mid-June after the committees have taken evidence from other parties, including Chappell and the BHS pension trustees. However, the committees said they had no plans to call Green\u2019s wife, Tina, who was the ultimate owner of BHS, to appear. Retail Acquisitions extracted more than \u00a325m of payments, including professional fees and loan interest, from BHS in the year before it entered administration with debts of \u00a31.3bn. The Guardian has revealed that Chappell could be forced to return millions of pounds paid to his consortium during its controversial 13-month ownership of BHS. The legal director of BHS has written to Chappell asking him for \u00a350,000 that was not repaid after he moved \u00a31.5m from the retailer to an obscure corporate vehicle in the days before its collapse. Meanwhile, administrators are examining whether loans paid to Retail Acquisitions can be called in. Under Green\u2019s stewardship, more than \u00a3586m was extracted in dividends, rental payments and interest on loans by the Green family and other shareholders, including The Ivy restaurant owner, Richard Caring. Green has faced calls to give up his knighthood following BHS\u2019s demise.",
+  "webTitle": "MPs examining BHS offer to cooperate with investigators",
+  "webPublicationDate": "2016-05-04T16:18:46Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/04/mps-examining-bhs-collapse-offer-cooperate-investigators",
+  "keyword": [
+    {
+      "webTitle": "BHS",
+      "id": "business/bhs",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Retail industry",
+      "id": "business/retail",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Sajid Javid",
+      "id": "politics/sajid-javid",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Sir Philip Green",
+      "id": "business/philip-green",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Regulators",
+      "id": "business/regulators",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Frank Field",
+      "id": "politics/frank-field",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Sarah Butler",
+      "id": "profile/sarahbutler"
+    }
+  ],
+  "guardianId": "business/2016/may/04/mps-examining-bhs-collapse-offer-cooperate-investigators"
+}

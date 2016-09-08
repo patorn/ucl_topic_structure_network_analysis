@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/04/beyonce-chart-record-lemonade-top-100",
+  "id": "2016-05-04-287",
+  "sectionId": "music",
+  "body": "Beyonc\u00e9 has made Billboard Hot 100 history, as she becomes the first woman to have 12 tracks charting simultaneously in the rundown.  The songs make up Lemonade, her new album, which reaches the No 1 slot after selling 653,000 copies in the week ending 28 April, according to Nielsen Music. Her showing beats the record of Taylor Swift, who had 11 tracks in the top 100 at the same time in 2010, following the release of her album Speak Now.    Related: Beyonc\u00e9's Lemonade is about much more than Jay Z and infidelity | Ijeoma Oluo    Only one of Beyonc\u00e9\u2019s songs is currently in the top 10, however: Formation \u2013 which was released in February \u2013 sits at No 10, while Sorry, the most streamed track from Lemonade with 14.2m US streams, is at No 11, with Hold Up at No 13 and 6 Inch at No 18. The other titles are scattered throughout the top 70, with the James Blake collaboration Forward the lowest-charting at No 63. Her success also dominates this week\u2019s R&B/hip-hop chart, with all 12 tracks entering the top 30. Beyonc\u00e9 will have to go a little further to match her male rivals, however: Justin Bieber beat Drake and the Beatles for the Billboard Hot 100 record in 2015, with 17 songs charting simultaneously following the release of his album Purpose.           Trailer for Beyonc\u00e9\u2019s Lemonade album    Beyonc\u00e9\u2019s Lemonade arrived on 23 April, along with an hour-long film of the same name. The album was released exclusively via Tidal, the streaming service founded by her husband and rap mogul Jay Z, until 25 April, when it was made available to other digital retailers.",
+  "webTitle": "Beyonc\u00e9 breaks chart record as each track on Lemonade reaches top 100",
+  "webPublicationDate": "2016-05-04T08:41:15Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/04/beyonce-chart-record-lemonade-top-100",
+  "keyword": [
+    {
+      "webTitle": "Beyonc\u00e9",
+      "id": "music/beyonce",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Pop and rock",
+      "id": "music/popandrock",
+      "sectionId": "music",
+      "sectionName": "Music"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian music",
+      "id": "profile/guardianmusic"
+    }
+  ],
+  "guardianId": "music/2016/may/04/beyonce-chart-record-lemonade-top-100"
+}

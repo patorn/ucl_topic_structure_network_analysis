@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/lifeandstyle/2016/may/29/measure-your-faith-with-beer-and-maths",
+  "id": "2016-05-29-196",
+  "sectionId": "lifeandstyle",
+  "body": "How religious are you? To find out, answer these questions: 1) Bill can drink a barrel of beer in six days. Bert can drink a barrel of beer in 12 days (assume they\u2019re both really going for it). How long would it take them to drink a barrel together? 2) When it comes to maths, Jane is pretty average. In fact, on a recent test, her mark was both the 15th highest and the 15th lowest in the class. How many students are there in the class? 3) Ernie is a keen eBayer. He buys a rare comic for \u00a360, sells it for \u00a370, buys it back again for \u00a380, then finally sells it for \u00a390. What was his final profit? Of course your answers (see below) can\u2019t directly tell us anything about your own religious beliefs. But a recent study conducted in Canada found that atheists scored around 19% higher on such tests than people who identified as affiliated to a religion. The researchers also combined the findings of previous studies on this topic (more than 15,000 participants) into a meta-analysis, finding a significant, though modest, negative relationship between test performance and religious belief (0.18 on a scale from 0 to 1). These findings, on their own, don\u2019t necessarily suggest that religious people are less intelligent, but that they tend to have a thinking style that is more intuitive than analytical. Answers 4 days, 29 students, \u00a320 A fully referenced version of this article is available at benambridge.com. Order Psy-Q by\u00a0Ben Ambridge (Profile Books, \u00a38.99) for\u00a0\u00a36.99 at bookshop.theguardian.com",
+  "webTitle": "Measure your faith with beer and maths",
+  "webPublicationDate": "2016-05-29T05:00:25Z",
+  "webUrl": "https://www.theguardian.com/lifeandstyle/2016/may/29/measure-your-faith-with-beer-and-maths",
+  "keyword": [
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Religion",
+      "id": "world/religion",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Psychology",
+      "id": "science/psychology",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ben Ambridge",
+      "id": "profile/ben-ambridge"
+    }
+  ],
+  "guardianId": "lifeandstyle/2016/may/29/measure-your-faith-with-beer-and-maths"
+}

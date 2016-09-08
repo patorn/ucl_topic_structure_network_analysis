@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/23/weatherwatch-summer-content-before-dickensian-storm-charles-dickens",
+  "id": "2016-05-23-30",
+  "sectionId": "environment",
+  "body": "Barnaby and his mother have almost nothing, and Barnaby wants nothing, because he has his pet raven, Grip. \u201cA crust of bread and scrap of meat, with water from the brook or spring, sufficed for their repast. Barnaby\u2019s enjoyments were, to walk, and run, and leap, till he was tired; then to lie down in the long grass or by the growing corn, or in the shade of some tall tree, looking upwards at the light clouds as they floated over the blue surface of the sky, and listening to the lark as she poured out her brilliant song,\u201d wrote Charles Dickens in Barnaby Rudge, his 1841 novel of the Gordon Riots and the burning of Newgate in 1780.    Related: The weather according to Virginia Woolf    In this bleak story, there is an early summer idyll before the murderous climax. \u201cThere were wildflowers to pluck \u2013 the bright red poppy, the gentle harebell, the cowslip and the rose. There were birds to watch; fish; ants; worms; hares or rabbits as they darted across the distant pathway in the wood, and so were gone; millions of living things to have an interest in, and lie in wait for, and clap hands and shout in memory of, when they had disappeared.  \u201cIn default of these, or when they wearied, there was merry sunlight to hunt out, as it crept aslant through leaves and boughs of trees, and hid far down \u2013 deep, deep, in hollow places \u2013 like a silver pool, where nodding branches seemed to bathe and sport; sweet scents of summer air breathing over fields of bean and clover; the perfume of wet leaves or moss; the life of waving trees, and shadows always changing.\u201d",
+  "webTitle": "Summer of content before a Dickensian storm",
+  "webPublicationDate": "2016-05-23T20:30:24Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/23/weatherwatch-summer-content-before-dickensian-storm-charles-dickens",
+  "keyword": [
+    {
+      "webTitle": "Summer",
+      "id": "environment/summer",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Meteorology",
+      "id": "science/meteorology",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Books",
+      "id": "books/books",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Charles Dickens",
+      "id": "books/charlesdickens",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Wildlife",
+      "id": "environment/wildlife",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Tim Radford",
+      "id": "profile/timradford"
+    }
+  ],
+  "guardianId": "environment/2016/may/23/weatherwatch-summer-content-before-dickensian-storm-charles-dickens"
+}

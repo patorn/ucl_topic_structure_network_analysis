@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/20/london-taxi-maker-greener-cabs-hybrid-tx5",
+  "id": "2016-05-20-152",
+  "sectionId": "uk-news",
+  "body": "The Chinese firm that makes London\u2019s black cabs has raised $400m (\u00a3275m) to fund the development of a fleet of greener hybrid taxis ready to roll off the production line next year. Under measures introduced by the former mayor of London Boris Johnson, all London cabs must be capable of running with zero emissions from 2018 in an effort to clean the capital\u2019s air. Zhejiang Geely Holding Group, owner of the London Taxi Company, said it would be able to build 36,000 taxis a year for sale in the UK and around the world. It expects the first of the hybrid TX5 cabs, modelled on the classic 1958 FX5 built by Austin, to be ready for sale by the end of next year. The new model was first unveiled by China\u2019s president, Xi Jinping, during his state visit to the UK last October. \u201cWe\u2019re going to do a clean taxi not only for the UK market, but it\u2019s going to be a global product that we can definitely grow to help reduce emissions and provide a cleaner environment for everybody,\u201d said Geely\u2019s chief financial officer, Franki Li. Cabs made by the London Taxi Company are already exported to markets as diverse as Azerbaijan, Australia and several countries in the Middle East. Geely raised the money via the sale of a five-year \u201cgreen bond\u201d, which it said attracted six times more demand than it could satisfy. The bond carries an interest rate of 2.75%, which Geely said was the lowest coupon ever attached to a dollar-denominated bond issue by a Chinese car-maker. A low coupon signals investors\u2019 confidence that the money will be paid back. The cash will help fund the development and production of the TX5, to be manufactured in a new factory in Ansty, near Coventry, a region where black cabs have been made for decades. The company said it was spending about \u00a3300m on the research and production facility. Geely took ownership of the London Taxi Company in 2013 when it paid \u00a311m for the firm\u2019s previous owner Manganese Bronze after it collapsed into administration. The demise of Manganese Bronze followed the emergence of a fault with the steering box on some TX4 cabs, forcing 400 of them to be recalled. The faulty part was made by Geely, which owned 20% of Manganese Bronze before it bought the firm out of administration.",
+  "webTitle": "London taxi-maker raises $400m to develop greener cabs",
+  "webPublicationDate": "2016-05-20T13:30:35Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/20/london-taxi-maker-greener-cabs-hybrid-tx5",
+  "keyword": [
+    {
+      "webTitle": "Transport",
+      "id": "uk/transport",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Road transport",
+      "id": "world/road-transport",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Automotive industry",
+      "id": "business/automotive-industry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "London",
+      "id": "uk/london",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Rob Davies",
+      "id": "profile/rob-davies"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/20/london-taxi-maker-greener-cabs-hybrid-tx5"
+}

@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/04/bbc-hits-back-at-report-that-claims-it-doesnt-take-enough-risks",
+  "id": "2016-05-04-45",
+  "sectionId": "media",
+  "body": "A leaked BBC document has criticised a government report into the corporation\u2019s market impact by pointing out that making shows that are less successful and popular than Strictly Come Dancing would not be good for licence fee payers.  The BBC document suggests that the report commissioned by the government uses \u201cflawed\u201d analysis and \u201cquestionable\u201d assumptions that put commercial impact above the need of the audience. It goes so far as to suggest that the government report is simply a rehash of its rivals\u2019 views. \u201cMuch of the report\u2019s analysis seems to restate evidence included in ITV\u2019s and commercial radio\u2019s submissions to the charter review consultation.\u201d The Department for Culture, Media and Sport (DCMS) report, written by management consultants Oliver and Ohlbaum and published in March, was particularly critical of BBC1, which it said had become \u201cless innovative and less risk-taking\u201d.  In a speech in March following the publication of the report, culture secretary John Whittingdale called for a \u201cmore distinctive\u201d BBC. Over the weekend, the scheduling of hit shows such as Strictly and Great British Bake Off once again emerged as a bone of contention for providing overly competitive primetime programming. It was reported that Whittingdale would ban the BBC from going head to head with commercial rivals as part of the BBC charter review. Whittingdale is due to publish a white paper within weeks that will set out a tougher regime as part of a new royal charter to safeguard the service for another 11 years. A source at the BBC said the public would be deeply concerned if it were forced to move programmes such as Strictly Come Dancing, Doctor Who and Sherlock from primetime weekend slots. The BBC document, which is understood to have been sent to the DCMS ahead of next week\u2019s white paper on the corporation, disputed many of the Oliver and Ohlbaum findings, particularly on distinctiveness and market impact.  If adopted in a government white paper on charter renewal expected next week, the BBC would fail as a universal service, it states, going on to say that the BBC\u2019s weekly reach would fall from 97% currently to less than 90% if the proposals were adopted. This would not make a \u201csensible basis for policy decisions about the future of the BBC\u201d and its universal service, it concluded. The DCMS-commissioned report was particularly critical of BBC1. In its response, the BBC stated: \u201cThe facts do not support the report\u2019s claim that BBC One has become less distinctive. They demonstrate the opposite.\u201d Criticised for showing too much entertainment and not enough new shows during daytime, the BBC said the volume of entertainment on BBC TV had fallen from 1,249 hours to 1,139 hours since 2007, the start of the last charter period. In peaktime on BBC1, hours of entertainment fell from 183 hours to 167 in the seven years to 2014. It also found that BBC1\u2019s daytime schedule included 19 new titles compared with 11 on ITV. The government report published in March concluded that broadcasting fewer populist shows on channels such as BBC1 and Radio 1 could benefit commercial rivals by as much as \u00a3115m a year. The DCMS commissioned the assessment of the BBC\u2019s \u201cmarket impact and distinctiveness\u201d to help it make \u201cinformed choices\u201d about the way the BBC should operate in its next royal charter period from 2017, which suggests that it will influence the white paper.",
+  "webTitle": "BBC hits back at government report claiming it doesn't take enough risks",
+  "webPublicationDate": "2016-05-04T19:21:38Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/04/bbc-hits-back-at-report-that-claims-it-doesnt-take-enough-risks",
+  "keyword": [
+    {
+      "webTitle": "BBC1",
+      "id": "media/bbc1",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "BBC",
+      "id": "media/bbc",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Television industry",
+      "id": "media/television",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jane Martinson",
+      "id": "profile/janemartinson"
+    }
+  ],
+  "guardianId": "media/2016/may/04/bbc-hits-back-at-report-that-claims-it-doesnt-take-enough-risks"
+}

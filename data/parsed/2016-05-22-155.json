@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/22/john-williams-the-guitar-master-the-ultimate-collection-review",
+  "id": "2016-05-22-155",
+  "sectionId": "music",
+  "body": "John Williams has been a five-star artist for me since I heard him play the massive Bach D minor Chaconne on the guitar with total mastery, 40 years ago. The celebrations of Williams\u2019s 75th birthday have had us nostalgically recalling the optimistic time when through his advocacy classical music was everywhere, feeding into film scores, and a natural part of light entertainment television. This soft-edged compilation gathers his biggest film hits from The Deer Hunter, The Mission and Schindler\u2019s List, but they are woven in with brilliant arrangements of Falla, Albeniz, Satie and Bach \u2013 the E major Violin Partita\u2019s Prelude, done with exquisite good taste. A true master.",
+  "webTitle": "John Williams: The Guitar Master \u2013 The Ultimate Collection CD review \u2013 total mastery",
+  "webPublicationDate": "2016-05-22T07:09:36Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/22/john-williams-the-guitar-master-the-ultimate-collection-review",
+  "keyword": [
+    {
+      "webTitle": "Classical music",
+      "id": "music/classicalmusicandopera",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Nicholas Kenyon",
+      "id": "profile/nicholas-kenyon"
+    }
+  ],
+  "guardianId": "music/2016/may/22/john-williams-the-guitar-master-the-ultimate-collection-review"
+}

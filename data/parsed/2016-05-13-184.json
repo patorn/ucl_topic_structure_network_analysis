@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/13/five-of-the-best-films-out-now-in-the-uk",
+  "id": "2016-05-13-184",
+  "sectionId": "film",
+  "body": "1: Green Room (18)  (Jeremy Saulnier, 2015, US) 95 mins             This skilled siege thriller descends into horror when Anton Yelchin, Imogen Poots and co get holed up backstage at a lawless venue in the middle of nowhere, with Patrick Stewart and his neo-Nazi attack dogs baying for their blood. Be warned: the body count gets high.  2: Everybody Wants Some!!  (15) (Richard Linklater, 2016, US) 117 mins             America\u2019s official youth historian casts his mind back to college life circa 1980: a time when disco was giving way to punk and men were inclined to sport tiny shorts, cut-off sleeves and handlebar moustaches. The focus this time is the jocks for a change, a campus baseball team whose pre-term bonding rituals, skirt-chasing expeditions and incurable competitiveness make for some delightful character comedy.  3: Mustang (15)  (Deniz Gamze Erg\u00fcven, 2015, Fra/Ger/Tur/Qat) 97 mins             In contrast to idyllic American boyhood, Turkish girlhood is literally a form of house arrest here. Life changes overnight for five orphaned sisters: from carefree school days to a regimen of curfews, virginity inspections and arranged marriages. Seeing the fate of her elder siblings, youngest sister Lale treats the situation like a prison break, which brings a note of tension into an all-too-believable scenario.  4: Captain America: Civil War (12A)  (Anthony & Joe Russo, 2016, US) 147 mins             The Marvel stable lines up behind either Chris Evans\u2019s Captain or Robert Downey Jr\u2019s Iron Man for a superhero faceoff that lives up to expectations, and manages to touch on the real world in a way Batman v Superman didn\u2019t. The comic-book character-packed cast makes it feel like another Avengers sequel; Avengers Disassemble, perhaps.  5: Son Of Saul (15)  (L\u00e1szl\u00f3 Nemes, 2015, Hun) 107 mins            A Holocaust drama like no other, limiting its focus to a Jewish concentration-camp prisoner assisting the Nazis in the grimmest of tasks, while pursuing his own tragically futile agenda. We follow this stricken worker throughout, glimpsing the broader atrocities in the margins \u2013 but that is enough to communicate the full horror.",
+  "webTitle": "Five of the best\u2026 films out now in the UK",
+  "webPublicationDate": "2016-05-13T12:00:15Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/13/five-of-the-best-films-out-now-in-the-uk",
+  "keyword": [
+    {
+      "webTitle": "Anton Yelchin",
+      "id": "film/anton-yelchin",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Green Room",
+      "id": "film/green-room",
+      "sectionId": "film",
+      "sectionName": "Film"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Steve Rose",
+      "id": "profile/steverose"
+    }
+  ],
+  "guardianId": "film/2016/may/13/five-of-the-best-films-out-now-in-the-uk"
+}

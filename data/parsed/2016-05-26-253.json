@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/26/sack-race-record-managerial-dismissals",
+  "id": "2016-05-26-253",
+  "sectionId": "football",
+  "body": "The 2015-16 season saw more managers sacked by their clubs than any previous year since 1992, according to a report by the League Managers Association. The LMA\u2019s end of season statistics reveal that there were 70 \u201cmanager movements\u201d, of which 56 were dismissals and the rest resignations. The total surpassed the previous record of 53 set in 2001\u20132 \u2013 the year of the ITV Digital collapse \u2013 with 11 Premier League managers leaving their posts.   Related: Football League managers left high and dry by need for instant results | Jacob Steinberg    The statistics are boosted by the 18 dismissals in the Championship, although remarkably this was down by two on last season\u2019s record. Fourteen League One clubs also sacked their manager, falling to 13 in League Two.   2005-16   That means the average tenure for a manager has now fallen to 1.31 years \u2013 the second highest since 1992 behind 2014\u201115. But it is the total dismissals that is the most eye-catching, with nine more managers falling victim to the sack than the previous season. In League One, the average tenure for dismissed managers has dipped under one year for the first time, although it increased to above two years in the Premier League. Arsenal\u2019s Ars\u00e8ne Wenger remains the longest-serving manager in England having now spent almost 20 years in north London. Exeter\u2019s Paul Tisdale is second in the list while Eddie Howe, who only returned to Bournemouth for a second spell in October 2012, is now in the top 10.   Managerial dismissals by league",
+  "webTitle": "The sack race: 2015-16 season set new record for managerial dismissals",
+  "webPublicationDate": "2016-05-26T10:03:27Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/26/sack-race-record-managerial-dismissals",
+  "keyword": [
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Premier League",
+      "id": "football/premierleague",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Championship",
+      "id": "football/championship",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "League One",
+      "id": "football/leagueonefootball",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "League Two",
+      "id": "football/leaguetwofootball",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Ars\u00e8ne Wenger",
+      "id": "football/arsene-wenger",
+      "sectionId": "football",
+      "sectionName": "Football"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ed Aarons",
+      "id": "profile/ed-aarons"
+    }
+  ],
+  "guardianId": "football/2016/may/26/sack-race-record-managerial-dismissals"
+}

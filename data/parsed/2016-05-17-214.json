@@ -1,0 +1,96 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/greenslade/2016/may/17/reporter-exonerated-after-long-battle-with-metropolitan-police",
+  "id": "2016-05-17-214",
+  "sectionId": "media",
+  "body": "At last, the Metropolitan police have caved in by revoking the police information notice (PIN) wrongly issued to Croydon Advertiser reporter Gareth Davies. The Met and the Independent Police Complaints Commission (IPCC) have also agreed to pay the vast majority of the legal costs incurred by his paper\u2019s publishers, now Trinity Mirror (and previously Local World).  A Trinity Mirror spokesperson said the company was pleased with the settlement: \u201cThe police have revoked the PIN and Gareth will be provided with written confirmation of this.\u201d Even better, the statement said that the Met and IPCC will now \u201cwrite to the College of Policing to request a review of the guidance on using PINs with journalists.\u201d  This whole affair should never have happened in the first place and reflects badly on both the Met and the IPCC.  In April 2014, Davies was served with a \u2018prevention of harassment notice\u2019 ( PIN) by three police officers who turned up at the Croydon Advertiser\u2019s office after he had contacted a woman who was about to be sentenced for fraud. Davies, the paper\u2019s chief reporter, was amazed, as were his bosses. All he had done was approach Neelam Desai for comment about fresh allegations following her appearance in court. She had pleaded guilty to a series of offences including fraud, running a business while bankrupt and handling stolen goods. Davies called once at her home on 4 March in order to give her a right to reply to the allegations, and then sent her two emails in which detailed the accusations. She then made a complaint to the police about harassment. It resulted in a PIN being issued to Davies. But this bizarre decision by the police was compounded by what happened afterwards. First, the newspaper made a formal complaint to the Met, and was informed in a letter from an inspector that her \u201cinvestigation\u201d had concluded that Davies\u2019s approaches to Desai went \u201cbeyond what is reasonable\u201d. The letter, as I pointed out in February 2015, was full of ungrammatical drivel. Example:  \u201cMs Desai details various contacts made and also the affects (sic) this was having on her mental state for Police to ignore this on the grounds that the suspect for this was a Journalist would be bordering on neglect of duty. The warning is simply a warning to inform Mr Davies that his behaviour is not welcome and that he is advised to desist or there may be further investigation by Police which could result in an arrest.\u201d  In other words, a journalist was being threatened with arrest for doing his job. Then the case took another twist in June 2015 when the IPCC rejected the Advertiser\u2019s appeal against the PIN.  In his letter to the paper, the IPCC\u2019s casework manager, Paul Berry, said: \u201cThe evidence would suggest that the warning [to Davies] was properly issued and no misconduct concerns have been identified\u201d. I wrote at the time that the IPPC decision was \u201ca disgrace\u201d arguing that what Davies had done \u201cwas not harassment. It was journalism.\u201d The Advertiser\u2019s publisher, then Local World, sought a judicial review, which was granted. That high court hearing was set for this coming Friday (20 May) but, clearly, the Met and IPCC didn\u2019t fancy trying to explain themselves to a judge. Hence the settlement favourable to Local World\u2019s successor, Trinity Mirror. So, more than two years since Desai made her outrageous complaint, Davies and his paper have been exonerated. It has been yet another tawdry episode in the recent history of the police generally, and the Met in particular.",
+  "webTitle": "Reporter exonerated after long battle with Metropolitan police",
+  "webPublicationDate": "2016-05-17T10:40:18Z",
+  "webUrl": "https://www.theguardian.com/media/greenslade/2016/may/17/reporter-exonerated-after-long-battle-with-metropolitan-police",
+  "keyword": [
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Press freedom",
+      "id": "media/press-freedom",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Metropolitan police",
+      "id": "uk/metropolitan-police",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Independent Police Complaints Commission",
+      "id": "politics/ipcc",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Regional & local newspapers",
+      "id": "media/local-newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Trinity Mirror",
+      "id": "media/trinity-mirror",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "London",
+      "id": "uk/london",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Newspapers",
+      "id": "media/newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Local World",
+      "id": "media/local-world",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers & magazines",
+      "id": "media/pressandpublishing",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Police",
+      "id": "uk/police",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Roy Greenslade",
+      "id": "profile/roygreenslade"
+    }
+  ],
+  "guardianId": "media/greenslade/2016/may/17/reporter-exonerated-after-long-battle-with-metropolitan-police"
+}

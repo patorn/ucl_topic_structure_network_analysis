@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/commentisfree/2016/may/03/bitcoin-craig-wright-satoshi-nakamoto-blockchain-technology",
+  "id": "2016-05-03-168",
+  "sectionId": "commentisfree",
+  "body": "In November 2008, when Satoshi Nakamoto first announced his \u201cnew electronic cash system\u201d on an out-of-the-way mailing list for people with an interest in cryptography, he was pretty much ignored. Two days passed before he even got a reply. How attitudes would change. His invention was bitcoin and it would soon catch a collective nerve.   Related: Craig Wright: scepticism surrounds bitcoin inventor's identification    First to be struck by the bitcoin bug were the computer coders. It solved a problem that had stumped them for more than 30 years: how can I send cash directly to you over the internet, just as I would hand cash to you if you\u2019re standing next to me, without using a middle man? It was known as the problem of \u201cdouble spending\u201d. Here was the solution. Economists were smitten too. Here was an alternative to government currency, an open-source money system without the backing of the law, yet freely given value by the market. Activists, libertarians, anarchists and others who believe the reaction of governments to the financial crisis exacerbated the inequality we endure today loved it. Here was a money central banks couldn\u2019t print or \u201cquantitatively ease\u201d. Speculators adored this new digital asset class, which could make you rich overnight: at its peak, a bitcoin would be worth as much as an ounce of gold. Entrepreneurs saw the new opportunities it was creating. And the young loved it too: here was a form of wealth beyond the comprehension of the old, who seemed to own everything else. And we must add criminals to its devotees. An anonymous electronic cash system meant illegal goods, drugs especially, could now be bought and sold online. Behind it all was this anonymous figurehead, Nakamoto. But who the hell was he? The bigger bitcoin grew, the more people wanted to know. He has a Japanese name, a German email address and writes in almost impeccable British English. In the 80,000 words (more than a book\u2019s worth) he wrote online as bitcoin was developed, I found just one spelling mistake (ideological was spelt \u201cidealogical\u201d). At one stage he was estimated to have a net worth over a billion dollars. He was an immensely talented coder, a skilled mathematician and a meticulous writer, with an immense knowledge and ability in a wide range of subjects. He was also extremely practical. How could anybody with this much ability not be known to the world? He was even nominated for a Nobel prize.           Bitcoin: the fastest growing currency in the world - wideo    I wrote a book on bitcoin and became as obsessed as anyone. I concluded \u2013 wrongly, it now seems \u2013 that it was an American coder by the name of Nick Szabo. There was just too much evidence to ignore. Szabo had developed the immediate precursor to bitcoin, called bitgold; his and Nakamoto\u2019s writing styles were very similar; they kept the same working hours; the timing was right \u2013 Szabo was \u201cbetween projects\u201d; he had the required cultural background among a renegade band of 90s coders known as the Cypherpunks; and he was the only man alive I could find who had the talent and the specificity of knowledge to put something like bitcoin together. Nakamoto had a habit of leaving little Easter eggs. My favourite was the birthdate he left on his registration form at the P2P Foundation \u2013 5 April 1975. In 1933 that was the date President Roosevelt signed executive order 6102, which made it illegal for Americans to own gold. But Nakamoto gave the year of his birth as 1975 \u2013 the year it became legal for Americans to own gold again. If that all sounds too tenuous to be credible, you don\u2019t know Nakamoto. Yesterday Craig Wright, a computer programmer from Australia, confessed to being Nakamoto. Wright\u2019s was not a name that had been previously had much association with bitcoin. But last year emails were leaked that outed Nakamoto as Wright, working in collaboration with Dave Kleiman, an American forensic computer investigator who died in 2013. As soon as I read the story, everything slotted into place \u2013 for me at least. Neither Wright nor Kleiman could have done it alone, but between them they had the knowledge and skills. Wright was the ideas man, Kleiman did the heavy lifting.   Related: Is Blockchain the most important IT invention of our age? | John Naughton    From my own cursory analysis, Wright\u2019s writing and punctuation do not completely tally. Wright is more prone to errors than Nakamoto. But it seems the deskbound Kleiman, who\u2019d published numerous books, wrote most of Nakamoto\u2019s 80,000 words, while his Florida location tallies with the timing of Nakamoto\u2019s posts. One way to achieve further confirmation would be to compare Wright\u2019s C++ coding style to bitcoin\u2019s early development, but this is a skillset that is beyond my own. Doubts will always remain. My view is that it no longer matters, if it ever did. If we had known Nakamoto\u2019s identity from the onset, bitcoin could not have taken off to the same extent. But he left the project in 2011, when a bitcoin was worth just a few dollars (it is over $440 today), and the identity of those who put it together no longer has much bearing on its success. If Nakamoto were to dump all his coins on the market at once, there would be liquidity issues, but no more likely to happen than Bill Gates selling his Microsoft shares in one lump. In the grand scheme of things, what is perhaps more significant than bitcoin is the tech behind it. The blockchain \u2013 a corroboration system \u2013 has a myriad of potential applications that go way beyond an alternative cash system. Satoshi Nakamoto \u2013 Craig Wright, Dave Kleiman and collaborators (and I include Nick Szabo) \u2013 you have all given the world something wonderful, something that has changed many lives for the better and will go on to change many more. May you get the recognition you deserve, but may you also now be left to privately pursue your activities in peace.",
+  "webTitle": "The true fascination of bitcoin is not its mystery inventor | Dominic Frisby",
+  "webPublicationDate": "2016-05-03T13:36:33Z",
+  "webUrl": "https://www.theguardian.com/commentisfree/2016/may/03/bitcoin-craig-wright-satoshi-nakamoto-blockchain-technology",
+  "keyword": [
+    {
+      "webTitle": "Bitcoin",
+      "id": "technology/bitcoin",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Cryptocurrencies",
+      "id": "technology/cryptocurrencies",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "E-commerce",
+      "id": "technology/efinance",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Dominic Frisby",
+      "id": "profile/dominic-frisby"
+    }
+  ],
+  "guardianId": "commentisfree/2016/may/03/bitcoin-craig-wright-satoshi-nakamoto-blockchain-technology"
+}

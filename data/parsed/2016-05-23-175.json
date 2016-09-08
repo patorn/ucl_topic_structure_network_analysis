@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/23/post-brexit-economy-george-osborne-eu-referendum",
+  "id": "2016-05-23-175",
+  "sectionId": "politics",
+  "body": "With one month to go to the referendum, George Osborne is pulling out all the stops. The chancellor has a clear message: a vote to leave the EU is a vote for recession, a house price slump, soaring food prices and hundreds of thousands of lost jobs.  The chancellor has been shouting out numbers and lamenting the fate of the \u201cworking people of Britain who will pay the price if we leave the EU\u201d. He even talked about \u201cevidence\u201d Britain will spark its own downturn.  What evidence?  Let\u2019s be clear, all Osborne has are \u201cscenarios\u201d. At best, semi-educated guesses, pulled out of models that make a host of assumptions over what the post-Brexit future holds. Even the Treasury itself wants to emphasise that all this talk of shrinking GDP and rising prices is by no means a forecast. Rather, the latest doomsday scenario for post-Brexit Britain was just that: a scenario, not a forecast. Or rather two scenarios: shock and severe shock. The difference between scenarios and forecasts, in officials\u2019 eyes, is that scenarios analyse what would happen in the transition to a new regime \u2013 in this case a UK outside the EU trying to hammer out new trading relationships. A forecast is an estimate of what might happen in the future under the current regime.  The latter are something the Treasury used to do, before handing the baton to the independent Office for Budget Responsibility. That move has gone some way to shoring up the credibility of economic forecasts, but the brief history of the OBR so far suggests there is some way to go yet on accuracy. But the OBR is not alone, anyone who follows economic forecasts knows they rarely come true.   Economic impact of Brexit graph   But if forecasts should be taken with a pinch of salt, these so-called scenarios need the whole salt mine. That\u2019s because they have a key flaw: assumptions. A whole host of factors are guessed at, whether it\u2019s around moves in the pound on foreign exchanges or around consumer behaviour when it comes to shopping and house buying. In this particular exercise two key assumptions change everything. The Treasury\u2019s team of economists have told voters that inflation could shoot up, the pound drop 15% and the recession-hit economy might end up 6% smaller as a result of Brexit. But all of that is based on the assumption that fiscal and monetary policy remain unchanged. Seriously? The Bank of England would just stand back and let inflation shoot up? Policymakers, with the power to cut or raise interest rates, would just watch as growth slammed to a halt? It conjures up the image of an exhausted parent, looking on, arms folded and scolding the people of Britain: \u201cYou made your bed, you lie in it.\u201d In reality, the Bank has already said it could hold an emergency meeting if it needed to cut or raise rates. It has repeatedly emphasised that whatever action is needed to safeguard financial stability will be taken.  To be fair, the Bank has also made clear it would face a trade-off between opposing forces in the aftermath of a Brexit vote and so the Treasury\u2019s number crunchers cannot be expected to know if rates would rise, fall or remain steady. Nor can they know quite what other actions the Bank would take, such as more quantitative easing \u2013 where it cranks out electronic money to keep things moving. Similarly unbelievable is the idea that ministers would simply look on with silent horror as the Brexit nightmares foretold by George Osborne play out.  But not knowing quite what would happen in either government or at the Bank, the assumption has been made by Osborne\u2019s scenario-conjurers that nothing changes. That\u2019s understandable perhaps, but equally it\u2019s unbelievable.  The chancellor will be hoping that it\u2019s words such as recession that stick when voters head to the polls. But he is asking them to believe in a post-Brexit fantasy world.",
+  "webTitle": "Is George Osborne's post-Brexit forecast backed up with evidence?",
+  "webPublicationDate": "2016-05-23T12:50:12Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/23/post-brexit-economy-george-osborne-eu-referendum",
+  "keyword": [
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "George Osborne",
+      "id": "politics/georgeosborne",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Office for Budget Responsibility",
+      "id": "business/office-for-budget-responsibility",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economic policy",
+      "id": "politics/economy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Economic growth (GDP)",
+      "id": "business/economicgrowth",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Katie Allen",
+      "id": "profile/katieallen"
+    }
+  ],
+  "guardianId": "politics/2016/may/23/post-brexit-economy-george-osborne-eu-referendum"
+}

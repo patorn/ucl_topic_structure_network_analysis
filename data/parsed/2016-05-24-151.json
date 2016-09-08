@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/24/uk-retailers-expect-sales-to-fall-in-eu-referendum-month",
+  "id": "2016-05-24-151",
+  "sectionId": "business",
+  "body": "Britain\u2019s retailers are braced for June to be the worst trading month in more than three years as uncertainty over the outcome of the EU referendum weighs on consumers\u2019 appetites for spending. Retail businesses are planning to cut jobs and investment as fears about the state of the global economy add to their woes, according to the CBI. Rain Newton-Smith, the business group\u2019s director of economics, said: \u201cEven though low inflation is still boosting pay packets, retailers are continuing to operate in a tough environment, with strong price competition squeezing margins. \u201cWith a cloud of uncertainty hanging overhead, particularly from challenging global conditions and the outcome of the EU referendum, it is not surprising to see investment intentions deteriorating and business sentiment levelling off.\u201d Retailers are expecting sales to fall next month at the fastest rate since May 2013 and have sharply cut back on orders.  Of the 121 firms taking part in the CBI survey, 21% said they expected sales volumes to increase next month, while 26% expected them to fall. The resulting balance of -5% was the lowest since May 2013. Meanwhile investment intentions for the year ahead were at the lowest level since August 2013, with a balance of -13%. Samuel Tombs, chief UK economist at Pantheon Macroeconomics, said the caution was understandable. \u201cWith household real income growth slowing this year in response to rising inflation, slower job growth and tighter fiscal policy, we think retailers are right to prepare for choppier waters ahead.\u201d Trading in May had shown some improvement, with sales modestly higher than the same month last year. A total of 36% said sales volumes were up; 29% said they were down.  Growth was driven by an increase in sales of clothing, recreational goods and DIY products.",
+  "webTitle": "UK retailers expect sales to fall in EU referendum month",
+  "webPublicationDate": "2016-05-24T13:17:26Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/24/uk-retailers-expect-sales-to-fall-in-eu-referendum-month",
+  "keyword": [
+    {
+      "webTitle": "Retail industry",
+      "id": "business/retail",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Confederation of British Industry (CBI)",
+      "id": "business/cbi",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Angela Monaghan",
+      "id": "profile/angela-monaghan"
+    }
+  ],
+  "guardianId": "business/2016/may/24/uk-retailers-expect-sales-to-fall-in-eu-referendum-month"
+}

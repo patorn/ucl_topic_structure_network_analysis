@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/19/lib-dem-kirsty-williams-appointed-to-welsh-labour-led-cabinet",
+  "id": "2016-05-19-68",
+  "sectionId": "politics",
+  "body": "The sole Liberal Democrat elected to the Welsh assembly, Kirsty Williams, has been appointed education secretary in a new-look Labour-led government. Williams had led the Lib Dems in the assembly but suffered the bitter blow of seeing the party\u2019s presence cut from five seats to one. However, she has now been invited by the first minister, Carwyn Jones, to join his minority administration in Cardiff. It has been an interesting fortnight for Williams since election day. It was her vote in favour of Jones that stopped the leader of Plaid Cymru, Leanne Wood, becoming first minister with backing from the Tories and Ukip.  Williams then found herself \u2013 and Wood \u2013 being branded \u201cpolitical concubines\u201d by Ukip\u2019s new leader in the assembly, the former Tory MP Neil Hamilton, after a deal was hatched between Labour and Plaid that allowed Jones to remain first minister. Explaining his decision to appoint Williams as cabinet secretary for education, Jones said: \u201cKirsty has a wealth of experience and is one of the assembly\u2019s most able politicians.\u201d He said the appointment did not mean Labour had formed a coalition with the Lib Dems. But he added: \u201cThis is a new era for Welsh politics, and today\u2019s agreement reflects the need for Wales\u2019s progressive politicians to work together.\u201d  Labour won 29 of the 60 seats on the assembly \u2013 a better than expected performance but shy of an outright majority.  Williams said of her appointment: \u201cGovernment in Wales has entered a new era. Where there is common ground, we must have the confidence and ambition to work together for the good of its people.\u201d The Tories attacked the appointment. Its leader in Wales, Andrew RT Davies, said: \u201cThat Kirsty Williams is now joining Labour\u2019s magic roundabout, which she has spent the last five years railing against, is astounding and shows how elastic her principles really are.\u201d",
+  "webTitle": "Lib Dem Kirsty Williams appointed to Labour-led Welsh cabinet",
+  "webPublicationDate": "2016-05-19T18:07:22Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/19/lib-dem-kirsty-williams-appointed-to-welsh-labour-led-cabinet",
+  "keyword": [
+    {
+      "webTitle": "Welsh government",
+      "id": "politics/welsh-assembly-government",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Welsh politics",
+      "id": "politics/wales",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Liberal Democrats",
+      "id": "politics/liberaldemocrats",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Labour",
+      "id": "politics/labour",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Plaid Cymru",
+      "id": "politics/plaid-cymru",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Carwyn Jones",
+      "id": "politics/carwyn-jones",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Wales",
+      "id": "uk/wales",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Steven Morris",
+      "id": "profile/stevenmorris"
+    }
+  ],
+  "guardianId": "politics/2016/may/19/lib-dem-kirsty-williams-appointed-to-welsh-labour-led-cabinet"
+}

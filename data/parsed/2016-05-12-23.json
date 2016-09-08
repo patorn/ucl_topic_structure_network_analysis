@@ -1,0 +1,76 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/12/john-major-eu-leave-campaigners-risk-turning-into-ukip",
+  "id": "2016-05-12-23",
+  "sectionId": "politics",
+  "body": "Sir John Major will tell those leading the campaign for Britain to leave the EU that they risk morphing into Ukip through their heavy emphasis on immigration. In a speech on Friday that will be seen as a thinly veiled criticism of Boris Johnson, Michael Gove and other senior Tory leave supporters, the former prime minister will accuse the anti-EU camp of crossing the line with its arguments in a way that risks dividing communities. \u201cAs the \u2018leave\u2019 arguments implode one by one, some of the Brexit leaders morph into Ukip, and turn to their default position: immigration,\u201d Major will tell the Oxford Union in his first formal speech on the referendum. \u201cThis is their trump card. I urge them to take care. This is dangerous territory that, if handled carelessly, can open up long-term divisions in our society.\u201d The former premier, who is passionately pro-EU, will speak out a day after the Office for National Statistics said claims that there were a million more long-term immigrants from the EU than recorded in official statistics were false.  A supposed discrepancy between he number of EU migrants who came to live in Britain over the last five years and the number of national insurance numbers issued to EU nationals was accounted for by short-term migration \u2013 EU citizens coming to work or study in Britain for less than a year and sometimes for as little as a month.   EU migration and NI data   It has to led to front-page anti-EU accusations by the Sun, Mail and Telegraph of a government cover-up, with Johnson and Nigel Farage claiming there had been a conspiracy to \u201cdeliberately keep voters in the dark\u201d over the true scale of European migration to Britain. The ONS said that in the year to end-June 2014, long-term migration by EU citizens into the UK was 223,000 while short-term migration was another 251,000 \u2013 giving a total of 474,000. In the same period, 421,000 national insurance numbers were given to EU citizens.  In his speech, Major will say it is legitimate to raise concerns about the numbers arriving in Britain and insist that he does not want to silence debate, but he will urge his opponents to raise their arguments with \u201ccare, honesty and balance\u201d, \u201cnot in a manner that can raise fears or fuel prejudice\u201d.  He will add: \u201cThe leave campaign are crossing that boundary and I caution them not to do so. We must not let emotions be stirred by false fear, nor allow that false fear to impair our judgment on the future of the country.\u201d He will say that lots of people, including inside his party, have a desire to leave, driven by pride in their country, fear over immigration or ever closer union in Europe. But pro-EU campaigners must address those instincts and emotions, and debunk myths. Taking a more positive approach on immigration, he will say that excluding EU citizens could mean doctors or nursers, or social care workers, who are invaluable to British society. And he will argue that skilled builders or plumbers, or unskilled workers doing jobs that are \u201cunappealing to the British\u201d, would also be kept out. \u201cIn short, the people we could most easily keep out are the very people we most need.\u201d Matthew Elliott, the chief executive of Vote Leave, hit back, saying: \u201cThe only person creating false fear today is John Major with his ludicrous claims about the leave argument. Not surprising from a prime minister who gave away huge amounts of power when he was in charge and presided over the disaster that was the ERM [exchange rate mechanism].\u201d Senior figures at Vote Leave believe it is legitimate to have an honest debate about immigration and believe it is being done responsibly. How to tackle the debate has led to divisions among out campaigners, with some wanting to emphasise it more strongly as an issue. Eurosceptics were hoping the ONS inquiry would lead to \u201ca bombshell report\u201d and the official migration figures being declared unreliable. But an ONS note on the 1.2m difference over the last five years between the two sets of official figures firmly rejected that view. It concluded that the international passenger survey on which the migration figures were based remained the best source of information for measuring long-term migration. The next round in the battle over European immigration will take place next week when new figures are published on the number of foreign workers in Britain and again on 26 May, when the last set of quarterly migration figures are published before the referendum.",
+  "webTitle": "John Major: EU leave campaign at risk of \u2018divisive\u2019 immigration stance",
+  "webPublicationDate": "2016-05-12T21:07:12Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/12/john-major-eu-leave-campaigners-risk-turning-into-ukip",
+  "keyword": [
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Immigration and asylum",
+      "id": "uk/immigration",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Office for National Statistics",
+      "id": "uk/office-for-national-statistics",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Anushka Asthana",
+      "id": "profile/anushkaasthana"
+    },
+    {
+      "webTitle": "Alan Travis",
+      "id": "profile/alantravis"
+    }
+  ],
+  "guardianId": "politics/2016/may/12/john-major-eu-leave-campaigners-risk-turning-into-ukip"
+}

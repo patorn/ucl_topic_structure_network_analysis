@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/us-news/2016/may/12/police-shootings-bill-us-house-gwen-moore",
+  "id": "2016-05-12-2",
+  "sectionId": "us-news",
+  "body": "Police departments across the US would lose public funding if they fail to introduce tighter restrictions on when their officers may shoot at suspects under a new law proposed by a Democratic congresswoman. A bill due to be introduced in the House of Representatives on Thursday by Gwen Moore of Wisconsin would financially penalize any police chiefs who did not order and train their officers to do everything possible to avoid opening fire during confrontations with suspects. Announcing her proposal, Moore said that \u201ctoo many mothers have been forced to bury their children\u201d due to unjustified deadly incidents involving police. \u201cToo many young men and women in this country are unreasonably struck down by the very people who swore an oath to protect them,\u201d she said in a statement.           The Counted; how record every police killing in the United States    Moore said in an interview that she had been prompted to act by the findings of a Guardian investigation recording every death caused by police in the US, along with a Washington Post project counting fatal shootings by officers. The Guardian initiative, titled The Counted, recorded more than 1,100 deaths in 2015. \u201cIt would be different if this were a rare incident,\u201d Moore said. \u201cBut when you get into the 1,000 cases plus that you found, it\u2019s the kind of thing that really makes you think.\u201d Moore\u2019s proposal is unlikely to advance in the Republican-controlled House, which has declined to take up a series of related initiatives from Democrats amid a wave of protests set off by the unrest in Ferguson, Missouri, following the fatal police shooting of an unarmed black 18-year-old in August 2014. She said, however, that she was seeking Republican backers for her bill. Her plan, titled the Preventing Tragedies Between Police and Communities Act, demands that states and municipalities introduce laws or police department policy manuals that set out an \u201caffirmative duty\u201d for their police officers to employ de-escalation techniques \u201cwhenever possible\u201d, and to train them to \u201cuse the lowest level of force that is a possible and safe response to an identified threat\u201d. The bill calls for mandatory training in the use of non-lethal force alternatives along with \u201cverbal and physical tactics to minimize the need for the use of force, with an emphasis on communication, negotiation [and] de-escalation techniques\u201d.  It also requires training in crisis intervention tactics, which are aimed at calming confrontations with people enduring serious mental health problems. Mental health issues were reported in relation to 246 people killed by police in 2015 \u2013 more than one in every five cases in the Guardian database. Those authorities failing to implement de-escalation training within a year would lose 20% of the funding they receive under a US Department of Justice grant program that gives out about $280m a year to departments across the country. Authorities failing to introduce the \u201caffirmative duty\u201d would lose a further 15% of their funding. Surveys by the Police Executive Research Foundation (PERF) have found the average police cadet received 58 hours of training on using guns, 49 hours on defensive tactics, and only eight hours on de-escalation. Moore based her proposal on a report by PERF published earlier this year, which set out a series of \u201cguiding principles on use of force\u201d. Moore\u2019s bill would not create new federal law on when officers may shoot. Under a pair of landmark US supreme court decisions from the 1980s, police may use deadly force against a suspect they reasonably believe \u201cposes an immediate threat to the safety of the officers or others\u201d or, if the suspect is fleeing, \u201cthat the suspect poses a significant threat of death or serious physical injury to the officer or others\u201d. However, Moore\u2019s office lamented in a briefing document on Thursday that officers are frequently \u201ctrained more heavily on what is technically and legally allowed under the law\u201d than in techniques designed to de-escalate confrontations.",
+  "webTitle": "Police could lose public funds if officers aren't trained to best avoid shootings",
+  "webPublicationDate": "2016-05-12T23:44:03Z",
+  "webUrl": "https://www.theguardian.com/us-news/2016/may/12/police-shootings-bill-us-house-gwen-moore",
+  "keyword": [
+    {
+      "webTitle": "US policing",
+      "id": "us-news/us-police",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US politics",
+      "id": "us-news/us-politics",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jon Swaine",
+      "id": "profile/jon-swaine"
+    }
+  ],
+  "guardianId": "us-news/2016/may/12/police-shootings-bill-us-house-gwen-moore"
+}

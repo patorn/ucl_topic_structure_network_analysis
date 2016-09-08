@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/22/france-grants-asylum-syria-refugees-family",
+  "id": "2016-05-21-25",
+  "sectionId": "world",
+  "body": "Eight-year-old Houmam Al Elfi knew nothing of the politics of war, refugees and migration. He was too young to be sure why his family fled from their home in Homs, Syria, four years ago as the city was pounded to rubble, or what they were doing living in hiding in France. All he knew was he wanted to go to school. Today Houmam is attending lessons near B\u00e9ziers after a decision to expel the Al Elfi family was overturned when the plight of Malek, 41, Khaldieh, 32, and their children Hisham, 15, Fata, 12, and Houmam was highlighted by the Observer. Local campaigners who supported the family and raised a petition to halt their being thrown out of France were celebrating after the prefecture authorised the family to claim asylum in France. Khaldieh, who had suffered a miscarriage on the long journey into exile and was terrified of the French police finding them, could not hide her relief. \u201cIt\u2019s a wonderful decision for my family and I can only thank all those who supported us,\u201d she said. \u201cNow we want to have a normal life for our children, who have four years to catch up on. We have much to do to rebuild our lives here in France.\u201d She said the family was working hard to learn French. \u201cWe are all happy, especially the children who are back at their studies and will do their best to succeed.\u201d Lynda Scott, of the group Languedoc Solidarit\u00e9, which supported the Al Elfis, said: \u201cThe moment the family got the \u2018yes\u2019 decision from the prefecture, their mood changed completely. Before, there was pain, sadness, eyes with no light or hope in them. Now there\u2019s a spring in their step, a sense of what may be.",
+  "webTitle": "France grants asylum to family forced into hiding after fleeing Syria",
+  "webPublicationDate": "2016-05-21T23:03:26Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/22/france-grants-asylum-syria-refugees-family",
+  "keyword": [
+    {
+      "webTitle": "France",
+      "id": "world/france",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Refugees",
+      "id": "world/refugees",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Syria",
+      "id": "world/syria",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Middle East and North Africa",
+      "id": "world/middleeast",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Kim Willsher",
+      "id": "profile/kim-willsher"
+    }
+  ],
+  "guardianId": "world/2016/may/22/france-grants-asylum-syria-refugees-family"
+}

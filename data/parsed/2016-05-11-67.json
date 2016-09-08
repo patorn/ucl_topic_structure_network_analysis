@@ -1,0 +1,64 @@
+{
+  "apiUrl": "https://content.guardianapis.com/us-news/2016/may/11/donald-trump-hillary-clinton-relationship-political-debates-election-2016",
+  "id": "2016-05-11-67",
+  "sectionId": "us-news",
+  "body": "The US presidential election is dividing states \u2013 and bedrooms. Is your relationship split between presumptive Republican nominee Donald Trump and Hillary Clinton, the likely Democratic nominee? If so, we want to hear your stories about how presidential politics is affecting your marriage, relationship or household. We don\u2019t care about your age, sexual orientation or which gender supports which candidate.  Tell us a bit about yourself in the form below. Our reporters will reach out to those couples that we want to speak with to discuss the topic further. Don\u2019t worry: we\u2019ll keep your contact information strictly confidential and it will be only used in the event we want to speak with you further about this topic. Thank you for participating!",
+  "webTitle": "The Trump-Clinton household: is politics dividing your relationship?",
+  "webPublicationDate": "2016-05-11T18:37:25Z",
+  "webUrl": "https://www.theguardian.com/us-news/2016/may/11/donald-trump-hillary-clinton-relationship-political-debates-election-2016",
+  "keyword": [
+    {
+      "webTitle": "US elections 2016",
+      "id": "us-news/us-elections-2016",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US politics",
+      "id": "us-news/us-politics",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Hillary Clinton",
+      "id": "us-news/hillary-clinton",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Donald Trump",
+      "id": "us-news/donaldtrump",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Democrats",
+      "id": "us-news/democrats",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Republicans",
+      "id": "us-news/republicans",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Amber Jamieson",
+      "id": "profile/amber-jamieson"
+    },
+    {
+      "webTitle": "Jessica Lee",
+      "id": "profile/jessica-lee"
+    }
+  ],
+  "guardianId": "us-news/2016/may/11/donald-trump-hillary-clinton-relationship-political-debates-election-2016"
+}

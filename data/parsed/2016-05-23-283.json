@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/lifeandstyle/2016/may/23/fever-pitch-why-old-fashioned-infections-are-making-comeback",
+  "id": "2016-05-23-283",
+  "sectionId": "lifeandstyle",
+  "body": "The notice pinned to the door of my son\u2019s nursery in Bristol made me start: \u201cA child at this nursery has been diagnosed with scarlet fever.\u201d Googling the symptoms, I found images of peeling, strawberry-red tongues and blotchy rashes, but it was the name that really gave me the shivers. Charles Darwin lost two of his children to scarlet fever; it just seemed so, well, Victorian. A few days later, the nursery informed us of a second case. However, this localised outbreak is far from unique: as of 8 April, a total of 10,570 cases of scarlet fever had been reported to Public Health England since the season began in September 2015, up from 9,379 during the same period in 2014-15. Scarlet fever is not the only Victorian disease making a comeback. Thirty-four cases of gonorrhoea resistant to the antibiotic azithromycin were reported in England between November 2014 and April of this year. Fortunately, the bacterium remains sensitive to the other drug used in first line therapy, ceftriaxone. \u201cHowever, if azithromycin becomes ineffective against gonorrhoea, there is no \u2018second lock\u2019 to prevent or delay the emergence of ceftriaxone resistance, and gonorrhoea may become untreatable,\u201d Public Health England warned last month. Then there are the diseases against which most of us received childhood vaccinations \u2013 measles, whooping cough and tuberculosis \u2013 that have had outbreaks in recent years. What is going on? Broadly speaking, there are two reasons why such diseases are making a comeback: because the pathogens that cause them are constantly evolving; and because inadequate numbers of people are being vaccinated. Take the 2013 outbreak of measles in south-west Wales, which killed one man and hospitalised 88 people. \u201cMeasles is a very infectious virus, so you\u2019re relying on maintaining very high levels of immunisation within the population to stop it circulating,\u201d says Dr Matthew Snape, a paediatrician and vaccines expert at Oxford university hospitals NHS trust. In the wake of the MMR vaccine scare, uptake of the vaccine fell to only 67.5% in Swansea, compared with about 94% beforehand. Although they have become less common, infectious agents such as the virus that causes measles have not gone away. Once immunisation falls below a critical threshold within a population, \u201cherd immunity\u201d is lost and the virus is able to take hold and spread. The point at which this happens is unpredictable, but the more people who are immunised, the smaller the risk. Fortunately, in this case, a massive vaccination campaign managed to contain the outbreak. But, in the past four years, there has been a resurgence of whooping cough, another illness for which childhood vaccination is routine. According to figures released on 6 May, 4,190 laboratory-confirmed cases of whooping cough were reported to Public Health England last year, 24% more than in 2014 (although still fewer than the 9,367 cases reported in 2012 that led to the introduction of the whooping cough vaccine for pregnant women). Here, the increase is likely the result of several factors, says Dr Myron Christodoulides, a reader in molecular bacteriology and microbiology at the University of Southampton. \u201cIt could be due to reduced vaccine uptake, but the vaccine itself won\u2019t provide total protection, so new vaccines are probably needed,\u201d he says. In fact, emerging evidence suggests that the \u201cacellular\u201d whooping cough vaccine being offered in the UK is less effective than the older vaccine, which was phased out because the newer one has a lower rate of side-effects. However, if you\u2019re pregnant, the advice is still to get vaccinated, since whooping cough can be fatal to infants. As of November, just 62% of pregnant women received it. What about scarlet fever? It is caused by a bacterium called Streptococcus pyogenes, which is also responsible for strep throat and the skin infection impetigo, as well as more serious skin infections \u2013 particularly in elderly people \u2013 including flesh-eating disease. There has been an increase in streptococcal infections across Europe in the past 20 years, although the precise reason for this is unclear. \u201cIt may be that these bugs are increasing in virulence or returning to virulence that was common to the organisms that were circulating a century ago,\u201d says Christodoulides. Worrying as that may sound, the bacterium does respond to antibiotics and is rarely fatal these days. However, antibiotic-resistant strains are circulating in Hong Kong; it is possible they could make it over here. All of this is a reminder that our centuries-old battle with these bugs is far from over: they are still out there, and evolving all the time. Take tuberculosis, another major killer in Victorian times. There were 6,520 cases of TB in England during 2014 \u2013 a quarter of them in UK-born citizens \u2013 and it, too, is developing antibiotic resistance. \u201cIn South Africa, we have people living in the community with TB that we can\u2019t cure, because there are no drugs left. So, it is back to the Victorian age, really,\u201d says Ruth McNerney, a British TB expert at the University of Cape Town. In the UK, better general health and nutrition make it less likely that large numbers of people will succumb, even if multi-drug-resistant TB becomes commonplace. But TB is a silent infection; you can harbour it for many years without knowing it. The more people are exposed, the greater the risk to more vulnerable members of the community. Of course, all these cases are minor blips when you place them in historical context. In 1901, prior to the introduction of antibiotics and vaccines, 36% of all deaths and 52% of childhood deaths in England and Wales were the result of infectious diseases. Today, it is closer to 12%. \u201cWhen we think about the return of Victorian illnesses, one thing we need to bear in mind is that it is actually a relatively small number of cases that get media attention, because we\u2019re not used to seeing these diseases any more,\u201d says Snape. But we shouldn\u2019t become complacent, warns Christodoulides. \u201cIt is estimated that, if we don\u2019t tackle the increase in antibiotic and antimicrobial resistance, deaths from these bugs by 2050 might be in the region of 10 million a year worldwide \u2013 more than from cancer.\u201d",
+  "webTitle": "TB and scarlet fever: why Victorian diseases are making a comeback",
+  "webPublicationDate": "2016-05-23T07:10:06Z",
+  "webUrl": "https://www.theguardian.com/lifeandstyle/2016/may/23/fever-pitch-why-old-fashioned-infections-are-making-comeback",
+  "keyword": [
+    {
+      "webTitle": "Health & wellbeing",
+      "id": "lifeandstyle/health-and-wellbeing",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Infectious diseases",
+      "id": "science/infectiousdiseases",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Microbiology",
+      "id": "science/microbiology",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Medical research",
+      "id": "science/medical-research",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Linda Geddes",
+      "id": "profile/linda-geddes"
+    }
+  ],
+  "guardianId": "lifeandstyle/2016/may/23/fever-pitch-why-old-fashioned-infections-are-making-comeback"
+}

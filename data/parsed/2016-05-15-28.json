@@ -1,0 +1,43 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/15/california-bee-takeover-concord",
+  "id": "2016-05-15-28",
+  "sectionId": "environment",
+  "body": "A bee expert says a northern California neighborhood overtaken by a swarm of aggressive bees, which are suspected of killing two dogs and stinging several people, is considerably safer after the insects made it back to their cluster.  \u201cThese bees are a little off the wall. We\u2019ve been having Africanized bees moving into California for quite a few years up from South America,\u201d Norm Lott, of the Mount Diablo Beekeepers Association, told local KGO News. Lott told the East Bay Times he was called to the Concord neighborhood after an amateur beekeeper got rid of a hive, leaving the swarm of bees homeless and wandering the neighborhood. The amateur then tried to kill the bees with a poison spray, which apparently only aggravated the swarm. \u201cBy the time I got to the guy\u2019s door, I was inundated,\u201d Lott told the paper. He wore a bee suit to the resident\u2019s home but was stung through the zipper. \u201cI\u2019m stung all the time. It\u2019s not a big deal.\u201d   Related: 28% of US bees wiped out this winter, suggesting bigger environmental issues    Lott said Sunday very few bees were left flying around Saturday night.  The bees are blamed for killing two dachshunds. They also stung a child, a postal worker, news reporters and Lott. \u201cI feel like my whole head was buzzing. They were all over my hair,\u201d resident Maryia Piatraets told the local ABC affiliate. \u201cI had to get out my hairband and shake it out. They were covering my hair.\u201d Concord police Capt Chris Blakely said the problem was first reported Friday when an amateur beekeeper went to check on his backyard hives and bees attacked him. \u201cIt\u2019s OK to drive through the area with your windows up,\u201d Blakely had told SFGate on Saturday. \u201cBut we are telling people on foot to stay out of the area. The bees are swarming all around.\u201d Beekeepers said they could use pheromones to calm the bees and try to lure them back to their cluster at night, when they are naturally less aggressive and usually retreat to a colony. The swarm may have invaded a more peaceful hive, bred with its queen and then killed her, Lott said. The Associated Press contributed reporting",
+  "webTitle": "California town swarmed by angry bees safe again, says expert",
+  "webPublicationDate": "2016-05-15T20:27:16Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/15/california-bee-takeover-concord",
+  "keyword": [
+    {
+      "webTitle": "Bees",
+      "id": "environment/bees",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "California",
+      "id": "us-news/california",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Insects",
+      "id": "environment/insects",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [],
+  "guardianId": "environment/2016/may/15/california-bee-takeover-concord"
+}

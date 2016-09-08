@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/22/heart-of-a-dog-laurie-anderson-review-haunting",
+  "id": "2016-05-22-176",
+  "sectionId": "film",
+  "body": "Laurie Anderson\u2019s refractive musing on matters of life and death revisits the Tibetan Book of the Dead via her relationship with her beloved dog Lolabelle and the lost mother whom she worries she did not love. Animation and Super 8 footage lend personal texture to the documentary\u2019s dreamy, healing fragments, with Anderson\u2019s soothing narration providing poetic perspective on childhood trauma, the nature of storytelling, the transience of life and the release of love. Watching a small dog picking out accidental tunes on an electronic keyboard is a squealy delight, but it\u2019s the haunting recognition that (as David Foster Wallace wrote) \u201cevery love story is a ghost story\u201d that strikes the most affecting chord. Kierkegaard, Wittgenstein and 9/11 are all thrown into the mix with a lightness of touch at once ephemeral and profound.         Watch a trailer for Heart of a Dog.",
+  "webTitle": "Heart of a Dog review \u2013 portrait of the artist and her pooch",
+  "webPublicationDate": "2016-05-22T07:00:36Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/22/heart-of-a-dog-laurie-anderson-review-haunting",
+  "keyword": [
+    {
+      "webTitle": "Heart of a Dog",
+      "id": "film/heart-of-a-dog",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Documentary",
+      "id": "film/documentary",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Laurie Anderson",
+      "id": "music/laurie-anderson",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Dogs",
+      "id": "lifeandstyle/dogs",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Mark Kermode",
+      "id": "profile/markkermode"
+    }
+  ],
+  "guardianId": "film/2016/may/22/heart-of-a-dog-laurie-anderson-review-haunting"
+}

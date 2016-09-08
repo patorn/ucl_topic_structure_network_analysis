@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/16/church-of-england-sells-investments-fearing-market-slowdown",
+  "id": "2016-05-15-6",
+  "sectionId": "business",
+  "body": "The Church of England has said it fears a looming global economic slowdown with governments relatively powerless to shore up growth, as it revealed a decision to offload a portion of its substantial stock market holdings. The church commissioners, who manage the C of E\u2019s \u00a37bn investment fund, said they enjoyed market-beating returns of 8.2% last year but warned they would struggle to keep up that pace in future. Over the past 30 years the fund\u2019s average annual return has been 9.7%.  The first church estates commissioner, Sir Andreas Whittam Smith, said jittery global markets had prompted a decision in March to sell about \u00a3250m of the church\u2019s global share portfolio. That amounts to about 6% of its \u00a34bn equities holdings. Writing in the church commissioners\u2019 annual report, Whittam Smith highlighted the past 30 years\u2019 performance but added: \u201cUnfortunately, it may be harder in the future to achieve such a satisfactory performance. My message to the wider church is: don\u2019t count on it. \u201cThe nervousness of investors is explained by the feeling that governments have lost the power to reverse any slowdown in economic activity. In earlier times they would reduce interest rates, but now that rates hover around zero, that remedy is unavailable. And it\u2019s hard to believe that negative interest rates can provide the necessary boost, or that governments would let the supply of money expand. \u201cIn other words, the risk is that economic activity slows down across the world and remains stuck at a low level,\u201d concluded Whittam Smith, the founding editor of the Independent newspaper. The annual report noted that last year\u2019s returns on the investment fund, which helps pay for the church\u2019s work by topping up donations from churchgoers, meant it had outperformed the London stock market, which \u201ceked out a 1% rise in 2015\u201d. The C of E also has many non-stock market holdings, including land, forests and property. During turmoil on global markets the commissioners had increased their investment in areas \u201cthat are not subject to every twist and turn in stock market prices\u201d, Whittam Smith said. \u201cThis is why we increased our commitments with private equity managers during the year.\u201d The commissioners\u2019 private equity managers returned 20.2% during 2015 and the value of the church\u2019s \u00a32bn property portfolio was up by more than 14%. The commissioners continued to invest in forestry with two new holdings in Australia, bringing the total to nearly 120,000 acres, they said. The timberland and forestry portfolio delivered a return of 13% last year. The C of E has come under pressure in the past to offload particular investments to reflect its values, notably a commitment to tackling climate change. Last year, the church commissioners adopted a new climate change policy and took the decision to divest from tar sands oil and thermal coal \u2013 the first time they had ever imposed investment restrictions on environmental grounds.",
+  "webTitle": "Church of England sells investments fearing market slowdown",
+  "webPublicationDate": "2016-05-15T23:01:19Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/16/church-of-england-sells-investments-fearing-market-slowdown",
+  "keyword": [
+    {
+      "webTitle": "Stock markets",
+      "id": "business/stock-markets",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Global economy",
+      "id": "business/global-economy",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Anglicanism",
+      "id": "world/anglicanism",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Market turmoil",
+      "id": "business/marketturmoil",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Katie Allen",
+      "id": "profile/katieallen"
+    }
+  ],
+  "guardianId": "business/2016/may/16/church-of-england-sells-investments-fearing-market-slowdown"
+}

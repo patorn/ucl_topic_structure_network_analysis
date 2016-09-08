@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/science/life-and-physics/2016/may/09/and-were-off-cern-declares-start-of-2016-lhc-physics-season",
+  "id": "2016-05-09-100",
+  "sectionId": "science",
+  "body": "The superconducting magnets in a 27 km tunnel under Geneva and the Pays de Gex were switched on again in March, after which came some fine-tuning and preparatory studies, plus that incident with the   pigeon  pine marten. Now, the news we all wanted to hear from CERN Director for Accelerators and Technology, Fr\u00e9d\u00e9rick Bordry:  The LHC is running extremely well. We now have an ambitious goal for 2016, as we plan to around six times more data than in 2015.   Remember, more data means that the uncertainties due to statistical noise shrink, and any real signal of anything new and exciting stands out more clearly. In particular we would very much like to know whether this bump or maybe this one are actually new subatomic particles, like this one was, or whether they will fade away on closer inpection, like this one and many others have before them.   Related: Weasels in the Large Hadron Collider, and self-throwing dead cats    The start of the 2016 Physics Run is declared.  The energy is the same as last year \u2013 13 TeV (Tera-electronVolts), so in principle we have been here before. But while every increase in energy opens up more physics landscape \u2013 allows us to see smaller distances and heavier fundamental particles \u2013 last year we only got enough data for a quick fly-by. This time the aim is to do a proper survey. That\u2019s what Bordry\u2019s \u2018six times more\u2019 target will get us. Pardon me if this article sounds a little breathless. As Fabiola Gianotti, CERN Director General puts it:  The restart of the LHC always brings with it great emotion  In my case that is mostly excitement. It should be a good year; maybe, the best. The press release is here.     CERN video on the official restart of 13 TeV physics   Jon Butterworth\u2019s book Smashing Physics is available as \u201cMost Wanted Particle\u201d in Canada & the US and was shortlisted for the Royal Society Winton Prize for Science Books.",
+  "webTitle": "And we're off! CERN declares start of 2016 LHC physics season",
+  "webPublicationDate": "2016-05-09T16:34:21Z",
+  "webUrl": "https://www.theguardian.com/science/life-and-physics/2016/may/09/and-were-off-cern-declares-start-of-2016-lhc-physics-season",
+  "keyword": [
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Physics",
+      "id": "science/physics",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Particle physics",
+      "id": "science/particlephysics",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Cern",
+      "id": "science/cern",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Large Hadron Collider",
+      "id": "science/large-hadron-collider",
+      "sectionId": "science",
+      "sectionName": "Science"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jon Butterworth",
+      "id": "profile/jon-butterworth"
+    }
+  ],
+  "guardianId": "science/life-and-physics/2016/may/09/and-were-off-cern-declares-start-of-2016-lhc-physics-season"
+}

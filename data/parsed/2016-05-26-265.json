@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/26/leaving-eu-would-be-betrayal-of-british-values-says-sadiq-khan",
+  "id": "2016-05-26-265",
+  "sectionId": "politics",
+  "body": "Leaving the EU would be a betrayal of British values and send a message to the world that the country wants to stand alone, Sadiq Khan, the mayor of London, has said.  The senior Labour politician said the choice facing Britain was not just about the financial consequences of leaving but the kind of country the UK wanted to be.   Related: A chance to defeat bigotry: that\u2019s how to engage young people with the EU | Owen Jones     He said it was \u201cquintessentially British\u201d and part of our \u201cvalues, our character, and our open and outward-facing nature that we can\u2019t help but embrace our European neighbours\u201d. Khan said the leave campaign believed it had a \u201cmonopoly on patriotism\u201d, with a nostalgic vision of Britain being able to rule itself again, but the \u201ctrue patriotic case\u201d was to remain.  He said it was the right thing for our \u201cheart as well as for our head\u201d. In his speech in central London, Khan made clear he was separating his arguments from those of David Cameron and Conservative remain campaigners, who have been issuing dire warnings about the consequences of leaving.   Related: Nearly two-thirds of voters think UK will remain in EU, Ashcroft poll finds     He said Britain would survive outside the EU but it would be a weaker place.  Amid concerns in the remain camp about turnout among the young, Khan urged people to register to vote to make the right decision for their children and grandchildren.",
+  "webTitle": "Leaving EU would be betrayal of British values, says Sadiq Khan",
+  "webPublicationDate": "2016-05-26T09:27:43Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/26/leaving-eu-would-be-betrayal-of-british-values-says-sadiq-khan",
+  "keyword": [
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Sadiq Khan",
+      "id": "politics/sadiq-khan",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "London",
+      "id": "uk/london",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Rowena Mason",
+      "id": "profile/rowena-mason"
+    }
+  ],
+  "guardianId": "politics/2016/may/26/leaving-eu-would-be-betrayal-of-british-values-says-sadiq-khan"
+}

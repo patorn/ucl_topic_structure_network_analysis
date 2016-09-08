@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/17/what-is-the-queens-speech",
+  "id": "2016-05-17-47",
+  "sectionId": "politics",
+  "body": "The Queen\u2019s speech takes place annually and sets out the government\u2019s legislative programme for the forthcoming year. It coincides with the state opening of parliament.  The speech is always short and dull; it is little more than a list of bills coming up in the next 12 months. The speech is written by government ministers and civil servants and approved by the prime minister and cabinet.      The Queen attends the state opening of parliament. Photograph: Scott Barbour/Getty Images    The ceremony begins with the Queen travelling to the House of Lords by horse-drawn carriage. She delivers her speech from the throne in the Lords chamber to peers seated on their benches and to MPs standing by the door.  After the speech, the government releases some further detail of its plans. Generally there are few surprises because the proposals tend to have been previewed in speeches or white papers in the previous parliamentary session.  Governments are free to introduce new bills whenever they want, and it is likely that over the next 12 months the government will introduce some legislation not mentioned by Her Majesty. This year\u2019s Queen\u2019s speech is expected to include proposals for a crackdown on extremism, including plans to ban organisations and gag hate preachers; improvements to the care and prison systems; and a consultation on a new bill of rights.  Seasoned watchers of these things often look at the number of bills announced as a measure of the government\u2019s ambition for the parliament.       Another measure is the word count in her speech.",
+  "webTitle": "What is the Queen's speech?",
+  "webPublicationDate": "2016-05-17T18:41:49Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/17/what-is-the-queens-speech",
+  "keyword": [
+    {
+      "webTitle": "Queen's speech",
+      "id": "politics/queens-speech",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "House of Lords",
+      "id": "politics/lords",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "House of Commons",
+      "id": "politics/houseofcommons",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Andrew Sparrow",
+      "id": "profile/andrewsparrow"
+    }
+  ],
+  "guardianId": "politics/2016/may/17/what-is-the-queens-speech"
+}

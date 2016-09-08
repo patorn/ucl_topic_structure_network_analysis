@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/24/boris-johnson-eu-referendum-job-loss",
+  "id": "2016-05-24-323",
+  "sectionId": "politics",
+  "body": "Boris Johnson has dismissed as a \u201choax\u201d claims by the Treasury that 800,000 people would lose their jobs and that Britain would be plunged into a year-long recession following a a vote to leave the EU in June. Speaking to journalists during a day of campaigning in York, he said: \u201cThese types of prophecies are just not credible. You have to ask yourself why the government would call a referendum, giving people the great historic choice, if they thought that was the case. \u201cIt makes no sense at all. Nobody could conceivably take such a risk with this country, that\u2019s not in my view believable. I think that the whole thing is a hoax.\u201d   Guardian explained: in numbers   Johnson also said that George Osborne\u2019s dire warnings ran the risk of becoming self-fulfilling prophesies. \u201cWhat I would say is that my own feeling is that there is some risk now that the prophesies are so doom-laden that they are at risk of becoming self-fulfilling,\u201d he said. \u201cI am worried that they are starting to talk Britain down quite significantly. I don\u2019t think it\u2019s necessary.\u201d Earlier in the day, Johnson chastised a student in York for bringing eggs to target him as his Brexit roadshow arrived in the city. Sam Grigg, a 22-year-old University of York student from Swanseaslipped one into the pocket of a Vote Leave campaigner. Grigg had heckled Johnson, after he claimed that immigration had a catastrophic effect on hospital waiting lists and GP\u2019s surgeries, shouting: \u201cFund the NHS properly then, you scum.\u201d He had earlier being shouting that Johnson represented \u201ceverything that\u2019s wrong with politics in this country.\u201d Johnson responded by saying: \u201cThere\u2019s a young man here who had eggs he was going to throw at me, can you believe it? There are people hungry in this country, my friend. Don\u2019t waste those eggs.\u201d Grigg later insisted he never planned to throw the eggs and was protesting against Conservative party policy. In a brief speech, Johnson said the establishment was producing the most propaganda since 1992 \u201cwhen they said that we couldn\u2019t leave the European exchange rate mechanism\u201d.     George Osborne warned that 800,000 jobs could be lost after a vote to leave. Photograph: Daniel Leal-Olivas/PA    The former London mayor added: \u201cThey said it would be a disaster. They said interest rates would go up, they said it would be an economic catastrophe for the economy if we left the European exchange rate mechanism said. And what happened? It was a liberation for this economy.\u201d Johnson corrected a claim he made the other day that there was an EU directive on bananas. \u201cThe leave campaign got very angry and said I was wrong,\u201d he said. \u201cAnd I was wrong. There isn\u2019t one directive, there are four directives on bananas, including on the curvature of bananas.\u201d   Guardian explained: bananas   Touring a racing car factory in Leeds, Johnson told workers that he had previously \u201cmade up\u201d some of his journalism. Johnson confessed that he knew nothing about cars, despite serving as GQ\u2019s car reviewer for a time. He said: \u201cDo you know, I just always used to make it all up? I had to write this motoring column for GQ magazine and I always used to go on about \u2018crabbing pins\u2019 and the \u2018corn thruster\u2019. I never had the faintest idea.\u201d Asked later why anyone should believe his predictions that there would not be a recession in the event of a Brexit, given his self acknowledged admissions of making things up, he defended the GQ columns. \u201cThey were essentially an artistic and rhapsodic production of the joys of motoring. I was not, specifically not, hired by GQ to give a serious analysis of cars,\u201d he said. He said David Cameron himself had warned against \u201cscaremongering\u201d before coming out to stay in Europe: \u201cThe government\u2019s prognostications of doom have got to be seen in the light of what they\u2019ve said in the past \u2013 where the Treasury has repeatedly got things wrong \u2013 and in the light of the prime minister\u2019s much more credible assurances that upon a departure from the European Union we would readily do free trade deals around the world and that we have nothing to be afraid of.\u201d Johnson added: \u201cI see no evidence whatever there will be a recession, I really don\u2019t. It\u2019s totally made up and I think it\u2019s started to be excessively negative and I think they are in danger of talking this country down.\u201d",
+  "webTitle": "Treasury's Brexit job loss claim a hoax, says Boris Johnson",
+  "webPublicationDate": "2016-05-24T00:20:07Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/24/boris-johnson-eu-referendum-job-loss",
+  "keyword": [
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Boris Johnson",
+      "id": "politics/boris",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Economic policy",
+      "id": "politics/economy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Conservatives",
+      "id": "politics/conservatives",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Helen Pidd",
+      "id": "profile/helenpidd"
+    }
+  ],
+  "guardianId": "politics/2016/may/24/boris-johnson-eu-referendum-job-loss"
+}

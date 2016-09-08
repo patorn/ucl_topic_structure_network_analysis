@@ -1,0 +1,43 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/16/peaches-playlist-nicki-minaj-pj-harvey-and-more",
+  "id": "2016-05-16-198",
+  "sectionId": "music",
+  "body": "Diamanda Galas \u2013 Let My People Go This song both terrifies me and excites me! Galas has vocal and piano skills like no other. No one has interpreted the blues like this and no one ever will!            Sin\u00e9ad O\u2019Connor \u2013 Troy So vulnerable and emotional, so real and raw. Like most O\u2019Connor classics, it works without a real chorus and has a tense build up instead.             PJ Harvey \u2013 50 Foot Queenie (4-track demo version) This track makes me feel powerful and like I have a huge \u2026 guitar between my legs.       Nicki Minaj \u2013 Did It on Em Nicki Minaj rules over all other rappers! This song is so silly and brilliant. I love it and I wish I wrote this masterpiece.            Paula Temple \u2013 Gegen  She is the best techno producer in the game right now! Paula Temple also remixed the song Rub for my upcoming remix album Rub Remixed.             Cyndi Lauper \u2013 When You Were Mine Prince\u2019s great lyrics and Cyndi\u2019s insane vocals. It\u2019s tough to outdo Prince on his own song, but here, Cyndi Lauper\u2019s emotion is incredibly raw and unmatched.             Peaches\u2019 new album Rub Remixed is out 3 June via Kartel Music Group",
+  "webTitle": "Peaches' playlist: Nicki Minaj, PJ Harvey and more",
+  "webPublicationDate": "2016-05-16T12:42:26Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/16/peaches-playlist-nicki-minaj-pj-harvey-and-more",
+  "keyword": [
+    {
+      "webTitle": "Peaches",
+      "id": "music/peaches",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Playlists",
+      "id": "music/playlists",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Pop and rock",
+      "id": "music/popandrock",
+      "sectionId": "music",
+      "sectionName": "Music"
+    }
+  ],
+  "authors": [],
+  "guardianId": "music/2016/may/16/peaches-playlist-nicki-minaj-pj-harvey-and-more"
+}

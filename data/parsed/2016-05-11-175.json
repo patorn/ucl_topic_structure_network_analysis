@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/money/2016/may/11/rbs-and-natwest-to-stop-offering-mortgages-to-british-expats",
+  "id": "2016-05-11-175",
+  "sectionId": "money",
+  "body": "Royal Bank of Scotland and its NatWest arm have been accused of turning their backs on Britons living abroad after becoming the latest UK lenders to stop offering mortgages to expats. The banking brands did not give a reason for the change in policy, which means that from 19 May, applicants must be resident in the UK in order to be eligible for a mortgage with NatWest or RBS. However, some mortgage experts have claimed new European regulations on home loans which took effect on 21 March have meant more work for lenders, as they have added greater complexity to the process. NatWest and RBS said they would no longer offer mortgages to expats, which included those expat customers requesting additional borrowing. However, applications will still be considered from serving members of the armed forces, UK diplomats and UK consular staff. Mortgage broker Enness Private Clients said: \u201cIt is very disappointing to see yet another high street powerhouse turn its back on hard-working British expats.\u201d  It added: \u201cWe suspect this is as much a function of too much business coming its way as a result of the steady stream of lenders closing their doors \u2013 probably compounded by the effects of the European mortgage credit directive in March.\u201d Islay Robinson, chief executive of Enness, said that up until a few years ago all the big UK lenders offered expat mortgages, but since 2010-11 \u201cone by one they stopped\u201d. Some regional building societies have also pulled out of the market. Robinson said higher costs relating to processing and regulation may be a factor, but he added: \u201cThere is a big demand for expat mortgages.\u201d Many of the banks\u2019 international divisions still offer expat mortgages, as do many UK private banks and some building societies. Some have lists of countries they \u201cdo not support\u201d \u2013 for example, Guernsey-based Skipton International, part of Skipton building society, has a \u201crestricted country list\u201d that includes Australia, Russia and South Africa.",
+  "webTitle": "RBS and NatWest to stop offering mortgages to British expats",
+  "webPublicationDate": "2016-05-11T14:19:06Z",
+  "webUrl": "https://www.theguardian.com/money/2016/may/11/rbs-and-natwest-to-stop-offering-mortgages-to-british-expats",
+  "keyword": [
+    {
+      "webTitle": "Mortgages",
+      "id": "money/mortgages",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Property",
+      "id": "money/property",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Expat finance",
+      "id": "money/expat-finance",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Royal Bank of Scotland",
+      "id": "business/royalbankofscotlandgroup",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Banks and building societies",
+      "id": "money/banks",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Banking",
+      "id": "business/banking",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Rupert Jones",
+      "id": "profile/rupertjones"
+    }
+  ],
+  "guardianId": "money/2016/may/11/rbs-and-natwest-to-stop-offering-mortgages-to-british-expats"
+}

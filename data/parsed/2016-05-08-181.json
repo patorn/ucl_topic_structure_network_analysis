@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/08/great-moments-at-carnegie-hall-review-125-years",
+  "id": "2016-05-08-181",
+  "sectionId": "music",
+  "body": "This is exactly what it says: selected highlights from 125 years of performance history at New York\u2019s great concert hall, which opened on 5 May 1891. The choice may look like a box of bonbons \u2013 it is \u2013 but it\u2019s fascinating as a swift if slightly jerky gallop through performance styles and big stars of the past (mainly) half century. The earliest track, from 1943, is the last movement of Tchaikovsky\u2019s Piano Concerto No 1, conducted by Arturo Toscanini with Vladimir Horowitz as soloist. Other big names include Bernstein, Bolet, Van Cliburn, Richter, Menuhin, Fischer-Dieskau, Rostropovich. Sample them and, if the names are new to you, see what the fuss was about. Also available in a deluxe 43-CD box set.",
+  "webTitle": "Great Moments at Carnegie Hall review \u2013 a fascinating gallop through 125 years",
+  "webPublicationDate": "2016-05-08T06:59:00Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/08/great-moments-at-carnegie-hall-review-125-years",
+  "keyword": [
+    {
+      "webTitle": "Classical music",
+      "id": "music/classicalmusicandopera",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Fiona Maddocks",
+      "id": "profile/fiona-maddocks"
+    }
+  ],
+  "guardianId": "music/2016/may/08/great-moments-at-carnegie-hall-review-125-years"
+}

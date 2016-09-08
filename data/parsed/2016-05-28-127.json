@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/28/gifs-giving-rafa-nadal-tottenham-hotspur-serena-williams",
+  "id": "2016-05-28-127",
+  "sectionId": "sport",
+  "body": "Omnishambles       Trickster       Warming up the team       Warming up the crowd       A new idea for Wimbledon       A well deserved round of applause       Three pointer       Longboard dancing       Tweener       Teamwork       Nice save",
+  "webTitle": "The gifs that keep on giving: Rafa Nadal, Serena Williams, a ball boy and a dog",
+  "webPublicationDate": "2016-05-28T08:45:00Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/28/gifs-giving-rafa-nadal-tottenham-hotspur-serena-williams",
+  "keyword": [
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Tennis",
+      "id": "sport/tennis",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Rafael Nadal",
+      "id": "sport/rafaelnadal",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Serena Williams",
+      "id": "sport/serena-williams",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Dustin Brown",
+      "id": "sport/dustin-brown",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Tottenham Hotspur",
+      "id": "football/tottenham-hotspur",
+      "sectionId": "football",
+      "sectionName": "Football"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Paul Campbell",
+      "id": "profile/paul-campbell"
+    }
+  ],
+  "guardianId": "sport/2016/may/28/gifs-giving-rafa-nadal-tottenham-hotspur-serena-williams"
+}

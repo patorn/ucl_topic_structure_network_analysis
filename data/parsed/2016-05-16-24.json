@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/16/mark-zuckerberg-meet-trump-advisor-glenn-beck-conservative-republicans-facebook",
+  "id": "2016-05-16-24",
+  "sectionId": "technology",
+  "body": "Mark Zuckerberg, a critic of Donald Trump, now wants to make nice with his campaign and conservative media.  The feeling isn\u2019t entirely mutual.  The Facebook CEO will meet on Wednesday at his Silicon Valley headquarters with one of Trump\u2019s senior advisers, Barry Bennett, along with several influential conservatives including Glenn Beck, thinktank leaders, a Fox News host and a Republican digital media operative. The gathering was called in response to Republican outrage over a report that contractors for Zuckerberg\u2019s company were suppressing conservative articles from its \u201ctrending\u201d section.  At least one conservative organization invited told Facebook to take a hike. On Monday afternoon Breitbart News, widely seen as the most pro-Trump news outlet of the election, said the social media company had reached out but declared it had \u201czero interest in a Facebook photo-op\u201d. Breitbart editors, which rely heavily on Facebook traffic for their articles, said they were more interested in Zuckerberg doing a live interview with their technology editor \u201con the topic of free speech and Facebook\u2019s suppression of conservative media\u201d. Facebook\u2019s damage control efforts illustrate the challenge Zuckerberg faces as he seeks to become more involved in politics while continuing to grow Facebook into a global commons for people of all political stripes. Since the 2012 presidential election, Zuckerberg has taken an increased interest in public advocacy, particularly on America\u2019s immigration laws. At a developer conference last month, he lamented politicians who call for \u201cbuilding walls\u201d, perhaps the signature policy proposal of Trump\u2019s campaign.  Facebook has denied the allegation that it told contractors to suppress conservative news and no other media outlet has confirmed the story by Gizmodo \u2013 based on a single, unnamed source \u2013 that set off the controversy. Several people close to the company, who also declined to speak on record, argued that if bias was being inserted into the trending section, it came from Facebook\u2019s part-time news curators acting on their own.  Regardless, conservatives adopted the idea that Facebook is biased as the latest data point that mainstream media leans left. In the week since, the Republican party chairman, Reince Priebus, has accused Facebook of censorship and a leading Senate Republican has opened an inquiry.  As Facebook enters its second week of damage control, the veracity of the report arguably no longer matters. And to be sure, many conservatives remain active on Facebook. Beck, the popular radio host, first announced details of the meeting in a Sunday post on Zuckerberg\u2019s service.  \u201cI am trying to rearrange my schedule to see if I can make it,\u201d Beck wrote. \u201cIt would be interesting to look him in the eye as he explains and a win for all voices if we can come to a place of real trust with this powerful tool.\u201d As of Monday afternoon, the post had 6,500 \u201clikes\u201d or other reactions and 1,300 comments.  Other attendees include conservative digital media strategist Zac Moffatt, Fox News host Dana Perino and American Enterprise Institute president Arthur Brooks. In his Facebook post, Beck acknowledged the controversy also illustrates a tension in conservative doctrine. On the one hand, those on the right argue the news-entertainment complex attempts to censor their beliefs. On the other, they argue government has no right to tell private companies how to run their businesses.  \u201cIn fact, if he had the balls to tell me that he was courting me due to pressure groups I would disagree with his business plan but join him in the fight to make his own decisions with his company against the pressure groups,\u201d Beck wrote of the Facebook CEO. \u201cI will stand for any man\u2019s right to be truly free and run his business the way he sees fit.\u201d",
+  "webTitle": "Zuckerberg to meet Glenn Beck and Trump rep after Facebook news woes",
+  "webPublicationDate": "2016-05-16T21:39:24Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/16/mark-zuckerberg-meet-trump-advisor-glenn-beck-conservative-republicans-facebook",
+  "keyword": [
+    {
+      "webTitle": "Mark Zuckerberg",
+      "id": "technology/mark-zuckerberg",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Facebook",
+      "id": "technology/facebook",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Donald Trump",
+      "id": "us-news/donaldtrump",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US elections 2016",
+      "id": "us-news/us-elections-2016",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US politics",
+      "id": "us-news/us-politics",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Silicon Valley",
+      "id": "technology/silicon-valley",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Glenn Beck",
+      "id": "media/glenn-beck",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Republicans",
+      "id": "us-news/republicans",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Social networking",
+      "id": "media/socialnetworking",
+      "sectionId": "media",
+      "sectionName": "Media"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Danny Yadron",
+      "id": "profile/danny-yadron"
+    }
+  ],
+  "guardianId": "technology/2016/may/16/mark-zuckerberg-meet-trump-advisor-glenn-beck-conservative-republicans-facebook"
+}

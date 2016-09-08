@@ -1,0 +1,37 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/20/captain-america-civil-war-grosses-1bn-worldwide",
+  "id": "2016-05-20-23",
+  "sectionId": "film",
+  "body": "It\u2019s smashed its way to being the highest-grossing film of 2016 so far, and on Thursday the Marvel superhero extravaganza Captain America: Civil War passed another milestone, grossing $1bn at the worldwide box office. Variety reports that the film is now the fourth Marvel movie to make over $1bn, having taken $314m in America, after 14 days in cinemas, and $677m in the rest of the world, where it has been out for 23 days.   Related: Marvel's hulking haul: studio's films have grossed $10bn since 2008    Starring a bevy of superheroes played by actors including Paul Rudd, Robert Downey Jr, Scarlett Johansson, Don Cheadle and Tom Holland, the Captain America franchise has helped propel Marvel to a $10bn gross since the studio was relaunched in 2008 with a new raft of superhero movies, largely masterminded by producer Kevin Feige.  Captain America: Civil War still has some distance to go before it beats Marvel\u2019s champion The Avengers, which in 2012 became the first of the studio\u2019s movies to gross over $1bn. It went on to earn $1.5bn at the global box office and is the fifth-highest grossing film of all time. The No1 remains Avatar, which grossed $2.8bn.",
+  "webTitle": "Captain America: Civil War grosses $1bn worldwide",
+  "webPublicationDate": "2016-05-20T20:07:39Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/20/captain-america-civil-war-grosses-1bn-worldwide",
+  "keyword": [
+    {
+      "webTitle": "Captain America: Civil War",
+      "id": "film/captain-america-civil-war",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Marvel",
+      "id": "culture/marvel",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [],
+  "guardianId": "film/2016/may/20/captain-america-civil-war-grosses-1bn-worldwide"
+}

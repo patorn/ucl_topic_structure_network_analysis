@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/04/the-godfather-best-directed-film-francis-ford-coppola",
+  "id": "2016-05-04-263",
+  "sectionId": "film",
+  "body": "The Directors Guild of America has voted The Godfather to be the best-directed feature film of the last 80 years.   Related: Anne Frank gets the VR experience and Knight of Cups reviewed \u2013\u00a0the Dailies film podcast    Francis Ford Coppola\u2019s 1972 drama topped the list of 80 films compiled by more than 2,000 DGA members to celebrate the Guild\u2019s 80th anniversary. Coppola has two other high-ranking films in the countdown: The Godfather Part II in sixth place and Apocalypse Now in seventh.  Citizen Kane, Lawrence of Arabia, 2001: A Space Odyssey, Casablanca, Schindler\u2019s List and Gone With the Wind and Goodfellas make up the rest of the top 10. More recent films in the list include Birdman at 58 and Avatar at 55. Kathryn Bigelow\u2019s 2009 Oscar-winner The Hurt Locker, in 56th place, is the only film directed by a woman to be included.  Directors who have more than one film on the list include Steven Spielberg and Stanley Kubrick with five each, Alfred Hitchcock with four and Martin Scorsese and David Lean with three. The DGA said in an official statement: \u201cAs in any poll of this nature, there are bound to be choices you disagree with, and other films you would have included \u2013 that\u2019s part of the fun. But we think you\u2019ll find this list thought-provoking and a fitting tribute to the timeless work of our great directors.\u201d",
+  "webTitle": "One female director in DGA's poll of 80 best films",
+  "webPublicationDate": "2016-05-04T09:58:14Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/04/the-godfather-best-directed-film-francis-ford-coppola",
+  "keyword": [
+    {
+      "webTitle": "The Godfather",
+      "id": "film/the-godfather",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Francis Ford  Coppola",
+      "id": "film/francis-ford-coppola",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Martin Scorsese",
+      "id": "film/martinscorsese",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Stanley Kubrick",
+      "id": "film/stanleykubrick",
+      "sectionId": "film",
+      "sectionName": "Film"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Benjamin Lee",
+      "id": "profile/benjamin-lee-film"
+    }
+  ],
+  "guardianId": "film/2016/may/04/the-godfather-best-directed-film-francis-ford-coppola"
+}

@@ -1,0 +1,108 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/09/greece-financial-emergency-tragic-absurd-imf-debt-relief",
+  "id": "2016-05-09-120",
+  "sectionId": "business",
+  "body": "It\u2019s that time of year again. Greece is running out of money. There are violent protests in Athens. Eurozone finance ministers are gathering in Brussels in an \u201cemergency\u201d conclave to decide what to do next.  The International Monetary Fund has already made it clear what it thinks should happen. It says Europe should cut Greece some slack by easing the terms of its bailout agreement and offering a solid dose of debt relief. Christine Lagarde, the IMF\u2019s managing director, has said that if Germany and its allies in the Eurogroup of finance ministers insist on making unrealistic demands of Greece she will not risk any more of the fund\u2019s money.   Related: Greek crisis: no deal on debt relief expected today - live updates    This makes sense because it appears clear to all but the hardliners that the situation in Greece has become a mixture of the tragic and the absurd. Tragic, because the economy has shrunk by a quarter in the past eight years \u2013 equivalent to the contraction that the US suffered in the Great Depression \u2013 and the unemployment rate is 24.4%. Absurd because most of the \u20ac86bn (\u00a368bn) that has been earmarked for Greece \u2013 provided it pushes through a raft of demand-destroying measures \u2013 will go straight out again to pay the country\u2019s main creditors: the European Central Bank and the IMF. And with each bailout (this is the third since 2010), Greece\u2019s debt mountain gets bigger. There are three possible ways forward. One is to conclude that Greece needs to find a way of paying off the money it has borrowed, and so set stiff repayment terms. Under pressure last summer, when its banks were closed and the country was running out of cash, Greece agreed it would run a primary budget surplus (an excess of tax receipts over public spending once debt repayments have been excluded) of 3.5% of GDP by 2018 and in every year thereafter. Wolfgang Sch\u00e4uble, Germany\u2019s finance minister, says Greece should stick to its promises.   Greece debt graph   Lagarde says this is unworkable. Her argument is that very few European countries have a commitment to run primary budget surpluses of 3.5% in perpetuity and that Greece is not one of them. The IMF chief thinks the target is going to be difficult to achieve and will be counter-productive. She wants a second option: the target to be reduced to 1.5% of GDP and for Europe to offer relief on Greece\u2019s national debt, now running at 180% of GDP. The IMF thinks anything above 120% of GDP is unsustainable. Because it believes there is not the remotest possibility of Greece running such big budget surpluses, the IMF says it will only take part in the bailout if Athens agrees to contingent cuts worth a further \u20ac3.5bn that will be triggered if the fiscal targets are missed. Predictably enough, this has not gone down well either with the Syriza-led government, hanging on to power by its fingernails, or the Greek public.   Greek unemployment graph   That leads to the third option: Greece runs out of money and defaults. This was a situation only narrowly averted last summer and on his way into Monday\u2019s meeting, Austria\u2019s finance minister, Hans J\u00f6rg Schelling, said: \u201cI don\u2019t think anyone wants a repeat of summer 2015.\u201d Schelling spoke for many, including David Cameron, who could certainly do with Greece being out of the headlines for the next six weeks. Britain\u2019s referendum means that the eurozone has to act with unaccustomed speed and sort Greece out within a fortnight. Otherwise the issue will be parked until after 23 June and another long, hot summer will loom large.",
+  "webTitle": "Greece's latest financial emergency is both tragic and absurd",
+  "webPublicationDate": "2016-05-09T15:48:51Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/09/greece-financial-emergency-tragic-absurd-imf-debt-relief",
+  "keyword": [
+    {
+      "webTitle": "Eurozone crisis",
+      "id": "business/debt-crisis",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "International Monetary Fund (IMF)",
+      "id": "business/imf",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Christine Lagarde",
+      "id": "world/christine-lagarde",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Banking",
+      "id": "business/banking",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Euro",
+      "id": "business/euro",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Currencies",
+      "id": "business/currencies",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "European Central Bank",
+      "id": "business/european-central-bank",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "European banks",
+      "id": "business/europeanbanks",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Germany",
+      "id": "world/germany",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Greece",
+      "id": "world/greece",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Larry Elliott",
+      "id": "profile/larryelliott"
+    }
+  ],
+  "guardianId": "business/2016/may/09/greece-financial-emergency-tragic-absurd-imf-debt-relief"
+}

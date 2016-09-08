@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/greenslade/2016/may/17/gannett-increases-its-bid-to-865m-to-acquire-us-newspaper-rival",
+  "id": "2016-05-17-268",
+  "sectionId": "media",
+  "body": "US newspaper giant Gannett has increased its takeover bid for another big publisher, Tribune, after its first attempt was rebuffed.  Gannett, which owns the UK chain, Newsquest, raised its offer on Monday to about $475m (\u00a3327m), plus the assumption of $390m (\u00a3269m) in debt, Gannett lifted its initial bid of $12.25 (\u00a38.44) a share to $15 (\u00a310.3). It means the total offer has risen from $815m last month to about $865m. Gannett, publisher of USA Today, is the largest US newspaper company. Tribune, which publishes the Los Angeles Times and the Chicago Tribune plus a host of other titles, is the third-largest.  According to the Wall Street Journal\u2019s report on the matter, the \u201cnewfound aggressiveness\u201d by Gannett is part of a strategy employed by its chief executive, Bob Dickey, who is eager to transform the company into a \u201crapacious acquirer of vulnerable rivals.\u201d The article points out that Dickey has already acquired paid $280m to acquire the Journal media group\u2019s 15 daily papers. It quotes a person involved in the Journal deal as saying: \u201cBob has a mandate from his board to make Gannett a major player in the consolidation of this industry.\u201d The Journal article says that Dickey believes there is value in building a bigger network of brands that can share more costs and serve as a more powerful platform for advertisers both in print and online.  With its 107 daily titles, Gannett already the largest newspaper publisher by circulation in the US. Adding Tribune\u2019s stable would give it control of nearly 20% of a market. Sources: WSJ/New York Times",
+  "webTitle": "Gannett increases its bid to $865m to acquire US newspaper rival",
+  "webPublicationDate": "2016-05-17T08:30:05Z",
+  "webUrl": "https://www.theguardian.com/media/greenslade/2016/may/17/gannett-increases-its-bid-to-865m-to-acquire-us-newspaper-rival",
+  "keyword": [
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Gannett",
+      "id": "media/gannett",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "USA Today",
+      "id": "media/usa-today",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newsquest",
+      "id": "media/newsquest",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Los Angeles Times",
+      "id": "media/los-angeles-times",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers",
+      "id": "media/newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "US press and publishing",
+      "id": "media/us-press-publishing",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media business",
+      "id": "media/mediabusiness",
+      "sectionId": "media",
+      "sectionName": "Media"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Roy Greenslade",
+      "id": "profile/roygreenslade"
+    }
+  ],
+  "guardianId": "media/greenslade/2016/may/17/gannett-increases-its-bid-to-865m-to-acquire-us-newspaper-rival"
+}

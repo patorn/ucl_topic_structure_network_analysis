@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/09/rba-limits-on-negative-gearing-would-be-good-for-the-economy",
+  "id": "2016-05-09-314",
+  "sectionId": "business",
+  "body": "Reserve Bank officials have become unwitting players in the 2016 federal election after a freedom of information request revealed that they believe any policy which discourages negative gearing may be good for Australia\u2019s financial stability. The revelation contradicts the dire warnings of the Turnbull government that any changes to negative gearing would destroy confidence in the economy and send house prices plummeting.   Related: How negative gearing replaced the great Australian dream and distorted the economy | Greg Jericho    \u201cAny change which discourages negative gearing may be a good thing from an FS perspective,\u201d the RBA document says, with FS standing for financial stability. \u201cThe concessional rate of taxation of capital gains might encourage leverage speculation, particularly in combination with negative gearing provisions.\u201d The four-page document, which was posted on the RBA\u2019s website on 4 May, appears to have been heavily redacted and addresses issues in the Financial System Inquiry, which released its final report in December 2014. The document answers questions regarding possible implications from changing negative gearing and the capital gains tax discount. It is not clear who submitted the FoI request. The Labor party wants to limit negative gearing to new properties, and cut the capital gains tax discount from 50% to 25%, to make housing more affordable by slowing the pace of house price growth. The Grattan Institute has also proposed negative gearing changes, saying the CGT discount should be reduced from 50% to 25% and negatively geared investors should no longer be allowed to deduct losses on their investments from labour income. It believes house prices would be unlikely to fall by more than about 2% as a consequence. But the prime minster, Malcolm Turnbull, and the treasurer, Scott Morrison, have vigorously attacked such proposals. They have said such changes would \u201cdeliver a reckless trifecta of lower home values, higher rents and less investment\u201d. \u201cDriving down the value of the most important asset for most Australians is not a strategy for economic growth and enhanced prosperity,\u201d they have warned. Morrison has subsequently warned any changes would \u201ccrash\u201d confidence in the economy because by undermining property values. Turnbull has promised not to make any changes to negative gearing or the capital gain tax discount going into the election.  The FoI document shows that when asked if there could be any negative consequences from changes that make negative gearing less attractive to investors, RBA officials answered: \u201cPotential increase in rents? Large-scale sale of negatively geared properties? \u2013 though only if changes were not grandfathered.\u201d Turnbull has said rents would soar if Labor\u2019s negative gearing policy was introduced. The revelation comes as analysts predict the Reserve Bank could be forced to cut interest rates to 1% as it tries to engineer stronger prices and pull Australia out of a deflationary spiral. Despite reasonable economic growth, many experts now expect the RBA will cut again to 1.5% before spring and may even be forced as low as 1%. The lower rates would be a major boost for mortgage holders struggling with record household debt combined with stagnating earnings, but it would be bad news for the ranks of retirees and savers.",
+  "webTitle": "RBA: limits on negative gearing would be good for the economy",
+  "webPublicationDate": "2016-05-09T06:25:07Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/09/rba-limits-on-negative-gearing-would-be-good-for-the-economy",
+  "keyword": [
+    {
+      "webTitle": "Australian economy",
+      "id": "business/australia-economy",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Housing affordability",
+      "id": "australia-news/housing-affordability",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Reserve Bank of Australia",
+      "id": "australia-news/reserve-bank-of-australia",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Australian politics",
+      "id": "australia-news/australian-politics",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Gareth Hutchens",
+      "id": "profile/gareth-hutchens"
+    }
+  ],
+  "guardianId": "business/2016/may/09/rba-limits-on-negative-gearing-would-be-good-for-the-economy"
+}

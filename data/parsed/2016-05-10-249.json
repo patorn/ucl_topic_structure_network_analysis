@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/education/2016/may/10/how-is-sats-week-going-for-your-child",
+  "id": "2016-05-10-249",
+  "sectionId": "education",
+  "body": "It\u2019s the one time in the primary school calendar that brings terror and anticipation in equal measure: Sats week. This year\u2019s tests for year 6 pupils kicked off yesterday and the exams have not been without controversy, coming amid protests from parents who boycotted schools in response to the tests for year 2 pupils.   Related: Sats week: teachers' reactions day-by-day    So how has the week going so far? What have children said about the tests? We want to hear parents\u2019 views on Sats week, including everything from stories of nervous children to success stories or comments on whether there is still place for this form of assessment.  Share your thoughts and comments in the form below.",
+  "webTitle": "How is Sats week going for your child?",
+  "webPublicationDate": "2016-05-10T09:50:50Z",
+  "webUrl": "https://www.theguardian.com/education/2016/may/10/how-is-sats-week-going-for-your-child",
+  "keyword": [
+    {
+      "webTitle": "Education",
+      "id": "education/education",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Sats",
+      "id": "education/sats",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Schools",
+      "id": "education/schools",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Primary schools",
+      "id": "education/primary-schools",
+      "sectionId": "education",
+      "sectionName": "Education"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Sarah Marsh",
+      "id": "profile/sarah-marsh"
+    }
+  ],
+  "guardianId": "education/2016/may/10/how-is-sats-week-going-for-your-child"
+}

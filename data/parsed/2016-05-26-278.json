@@ -1,0 +1,90 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/26/paypal-co-founder-peter-thiel-admits-bankrolling-hulk-hogan-gawker-lawsuit",
+  "id": "2016-05-26-278",
+  "sectionId": "media",
+  "body": "Peter Thiel, the billionaire co-founder of PayPal, has admitted that he is the secret funder of Hulk Hogan\u2019s lawsuit against online news site Gawker. Hogan, whose real name is Terry Bollea, sued for invasion of privacy after Gawker published an excerpt of a leaked sex tape in 2012. In March this year, a Florida jury awarded Bollea $140m (\u00a395.1m) in damages against the media organisation. Unknown to the jury or public, Thiel had secretly bankrolled Bollea\u2019s legal case to the tune of about $10m. In 2007 Gawker had published a story revealing Thiel was gay. Publicly confirming his funding of the Bollea case after a report by Forbes, Thiel told the New York Times \u201cit\u2019s less about revenge and more about specific deterrence\u201d. The story about his own sexuality was one of many that Thiel describes as having \u201cruined people\u2019s lives for no reason\u201d, and drove him, he says, to help fund \u201cvictims\u201d of the site in mounting legal cases against Gawker. \u201cI saw Gawker pioneer a unique and incredibly damaging way of getting attention by bullying people even when there was no connection with the public interest. \u201cI can defend myself,\u201d he continued. \u201cMost of the people they attack are not people in my category. They usually attack less prominent, far less wealthy people that simply can\u2019t defend themselves \u2026 Even someone like Terry Bollea who is a millionaire and famous and a successful person didn\u2019t quite have the resources to do this alone.\u201d Thiel is a controversial figure, even among Silicon Valley billionaires. After making his name as a co-founder of PayPal, he went on to make his fortune as a venture capitalist, backing companies including Facebook in their early days. But alongside his business interests, Thiel is also known for his outlandish political views. He has funded movements hoping to build independent nations on boats in the Pacific; aiming to encourage students to drop out of university and start a company and advocating for reduced immigration to the US. He has also been a large donor to the Republican party, having financially supported Ron Paul\u2019s 2012 campaign. He will be one of Donald Trump\u2019s delegates to the Republican national congress if, as expected, the politician wins the California primary in two weeks\u2019 time. Thiel doesn\u2019t believe his political views clash with his attempt to \u201cdeter\u201d Gawker and others from publishing the stories they do. He told the New York Times: \u201cI refuse to believe that journalism means massive privacy violations. I think much more highly of journalists than that. It\u2019s precisely because I respect journalists that I do not believe they are endangered by fighting back against Gawker. He added: \u201cIt\u2019s not like it is some sort of speaking truth to power or something going on here. The way I\u2019ve thought about this is that Gawker has been a singularly terrible bully. In a way, if I didn\u2019t think Gawker was unique, I wouldn\u2019t have done any of this. If the entire media was more or less like this, this would be like trying to boil the ocean.\u201d Nick Denton, Gawker\u2019s founder, responded to Thiel by listing a number of the stories of undeniable news value that Gawker has broken over the years. \u201cJust because Peter Thiel is a Silicon Valley billionaire, his opinion does not trump our millions of readers who know us for routinely driving big news stories including Hillary Clinton\u2019s secret email account, Bill Cosby\u2019s history with women, the mayor of Toronto as a crack smoker, Tom Cruise\u2019s role within Scientology, the NFL cover-up of domestic abuse by players and just this month the hidden power of Facebook to determine the news you see.\u201d The latter story could merge with this one. On Tuesday, Facebook confirmed it would change how its Trending Topics work to avoid allegations of bias. But with Thiel, who sits on Facebook\u2019s board, sparking a new row over press freedom, Facebook may have to do more to convince a shaky media it is on their side.",
+  "webTitle": "PayPal co-founder Peter Thiel admits to bankrolling Hulk Hogan's Gawker lawsuit",
+  "webPublicationDate": "2016-05-26T08:40:56Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/26/paypal-co-founder-peter-thiel-admits-bankrolling-hulk-hogan-gawker-lawsuit",
+  "keyword": [
+    {
+      "webTitle": "Gawker Media",
+      "id": "media/gawker-media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Venture capital",
+      "id": "business/venture-capital",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Freedom of speech",
+      "id": "world/freedom-of-speech",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Florida",
+      "id": "us-news/florida",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Nick Denton",
+      "id": "media/nick-denton",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "PayPal",
+      "id": "technology/paypal",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Silicon Valley",
+      "id": "technology/silicon-valley",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Peter Thiel",
+      "id": "technology/peter-thiel",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Alex Hern",
+      "id": "profile/alex-hern"
+    }
+  ],
+  "guardianId": "media/2016/may/26/paypal-co-founder-peter-thiel-admits-bankrolling-hulk-hogan-gawker-lawsuit"
+}

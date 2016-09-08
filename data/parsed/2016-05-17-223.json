@@ -1,0 +1,96 @@
+{
+  "apiUrl": "https://content.guardianapis.com/healthcare-network/2016/may/17/economic-cost-of-mental-illness",
+  "id": "2016-05-17-223",
+  "sectionId": "healthcare-network",
+  "body": "Mental illness is estimated to cost the UK economy as much as \u00a3100bn a year in terms of healthcare, lost jobs, unemployment benefits, homelessness support, police time and prisoner places. Councils have a vital role in tackling the contributory factors to poor mental health, such as poverty, isolation and stigma, and in improving treatment through early intervention and peer support. Since 2012, local authorities have hosted health and wellbeing boards to coordinate NHS and council services. Their potential to help is huge but their effectiveness has been called into question. Stephen Dalton, chief executive of NHS Confederation\u2019s Mental Health Network, says: \u201cThere is very limited evidence of health and wellbeing boards making a difference locally when it comes to mental health.\u201d The independent commission on adult acute mental healthcare report, published in February and chaired by crossbench peer Nigel Crisp, highlighted the need for local government to ensure mental health receives equal priority and funding with physical health. It also called for better coordination between the boards and commissioners of mental health services and providers. Dalton believes boards should put mental health high on their agenda: \u201cThe picture is extremely patchy and in most parts of the country they\u2019re not really making any significant contribution at all, but they could do if they asked the right questions and used their powers of scrutiny.\u201d Havering borough councillor Gillian Ford, deputy chair of the Local Government Association\u2019s community wellbeing board, says that relationships with commissioners are improving after a shaky start; different ways of working and sharing data, as well as different budgets presented challenges. She says: \u201cThere have to be robust conversations with health providers as to how budgets are going to be drawn together to deliver integrated care and support.\u201d Against a background of austerity and cuts, prioritising mental health along with obesity, dementia, sexual health and other aspects of public health is nigh on impossible, says Ford. \u201cLocal authorities are doing their level best to deliver on all fronts. How far can you go with one pot of money?\u201d Despite the huge financial challenge, there are areas where health and wellbeing boards are making significant strides in addressing their local mental-health needs. One such area is Hertfordshire. Jim McManus, director of public health at the county council and a member of its health and wellbeing board, says: \u201cMental health has a significant burden of avoidable ill health and it is an area where we need to do a lot more in recovery and helping people support themselves. That will have benefits for them and also for public services and the economy.\u201d The authority carried out an assessment to look at mental health needs across the county. The health and wellbeing board built relationships with commissioners and together they set up programmes for suicide prevention, for developing mental health-trained champions in the workplace, and for getting as many people as possible to talk about mental health to destigmatise it. The key to their success, McManus says, was getting everyone from patients to professionals to members of the public to agree that mental health was a priority and to work together. In the West Midlands, former health minister Norman Lamb is leading a commission assessing the scale of poor mental health and wellbeing in the region, and its impact on public-sector services and the economy. The commission will review national and international research and best practice to establish what works best in addressing the effects of mental ill health. It seems in these areas, at least, that health and wellbeing boards are going some way to realising their potential. Dalton thinks the mounting pressure on council and health services will be the impetus for more boards to start planning services with commissioners and local people: \u201cThere\u2019s enormous potential,\u201d he says. \u201cTheir day will come but they have got to step up and be more serious.\u201d  Top tips to improve mental health How health and wellbeing boards can contribute to improved mental health:  Be clear about what you are trying to achieve Be practical  Be passionate \u2013 people care passionately about mental health and you will win over their service See mental health as a whole-system issue  Exercise scrutiny, ask questions and seek transparency around funding Make sure you understand the data around mental health incidents Identify your priorities  Make mental health someone\u2019s priority on the board for a clear strategy Understand the difference between promoting good mental health and early intervention  Join the Healthcare Professionals Network to read more pieces like this. And follow us on Twitter (@GdnHealthcare) to keep up with the latest healthcare news and views.",
+  "webTitle": "The cost of mental illness",
+  "webPublicationDate": "2016-05-17T10:30:00Z",
+  "webUrl": "https://www.theguardian.com/healthcare-network/2016/may/17/economic-cost-of-mental-illness",
+  "keyword": [
+    {
+      "webTitle": "Healthcare Network",
+      "id": "healthcare-network/healthcare-network",
+      "sectionId": "healthcare-network",
+      "sectionName": "Healthcare Professionals Network"
+    },
+    {
+      "webTitle": "Social Care Network",
+      "id": "social-care-network/social-care-network",
+      "sectionId": "social-care-network",
+      "sectionName": "Social Care Network"
+    },
+    {
+      "webTitle": "Mental health",
+      "id": "healthcare-network/mental-health",
+      "sectionId": "healthcare-network",
+      "sectionName": "Healthcare Professionals Network"
+    },
+    {
+      "webTitle": "Mental health",
+      "id": "society/mental-health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Policy",
+      "id": "social-care-network/policy",
+      "sectionId": "social-care-network",
+      "sectionName": "Social Care Network"
+    },
+    {
+      "webTitle": "Policy",
+      "id": "healthcare-network/policy",
+      "sectionId": "healthcare-network",
+      "sectionName": "Healthcare Professionals Network"
+    },
+    {
+      "webTitle": "Local government",
+      "id": "society/localgovernment",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "NHS",
+      "id": "society/nhs",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Public sector cuts",
+      "id": "society/public-sector-cuts",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Public finance",
+      "id": "society/public-finance",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Public services policy",
+      "id": "society/policy",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Sarah Johnson",
+      "id": "profile/sarah-johnson"
+    }
+  ],
+  "guardianId": "healthcare-network/2016/may/17/economic-cost-of-mental-illness"
+}

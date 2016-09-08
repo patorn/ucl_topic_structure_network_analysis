@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/05/snarky-puppy-culcha-vulcha-review",
+  "id": "2016-05-05-65",
+  "sectionId": "music",
+  "body": "As Snarky Puppy, the open-minded American jazz and funk collective, have evolved a riproaring live show from endless road life, they\u2019ve specialised in live albums. However, their fans worldwide need not fear that a first studio project in eight years might be a self-conscious affair: it\u2019s a delightful surprise to be handing five stars to a jazz-influenced venture with little explicit improv. The group have grasped a different improvising opportunity, juggling audaciously with the styles of jazz, world and popular music of the past half-century as if their typical riffs and themes were phrases in a shapely but ever-changing solo. Classic big-band horn riffs and jazz-funk synth licks seamlessly mix; Hermeto Pascoalian flutes flow into squelching bass guitar; Weather Report atmospherics and 80s-Miles grooves seamlessly segue, and the coolly Crusaders-like, guitar-choppy G\u00d8 ought to be a single. Jazzers might still balk at the high-concept planning, but it\u2019s remarkable how much polish has been applied without cramping the band\u2019s irrepressible creative energy.         Watch video for Snarky Puppy\u2019s Lingus (2014)",
+  "webTitle": "Snarky Puppy: Culcha Vulcha review \u2013 audacious, irrepressible creative energy",
+  "webPublicationDate": "2016-05-05T18:45:02Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/05/snarky-puppy-culcha-vulcha-review",
+  "keyword": [
+    {
+      "webTitle": "Jazz",
+      "id": "music/jazz",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "John Fordham",
+      "id": "profile/johnfordham"
+    }
+  ],
+  "guardianId": "music/2016/may/05/snarky-puppy-culcha-vulcha-review"
+}

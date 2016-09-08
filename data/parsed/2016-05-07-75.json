@@ -1,0 +1,25 @@
+{
+  "apiUrl": "https://content.guardianapis.com/us-news/2016/may/07/professor-flight-delay-terrorism-equation-american-airlines",
+  "id": "2016-05-07-75",
+  "sectionId": "us-news",
+  "body": "An economics professor says his flight was delayed because a fellow passenger thought the equations he was writing might be a sign he was a terrorist.  American Airlines confirmed on Saturday that a woman expressed suspicions about a University of Pennsylvania economics professor, Guido Menzio. She said she was too ill to take the Air Wisconsin-operated flight.  Menzio was flying from Philadelphia to Syracuse on Thursday to give a talk at Queen\u2019s University in Ontario, Canada. He was solving a differential equation, but said he was told the woman thought he might be a terrorist because of what he was writing. American spokesman Casey Norton said the crew followed protocol to take care of an ill passenger and then to investigate her allegations. They determined them to be non-credible, he said. On Facebook, Menzio recounted the \u201cunbelievable\u201d experience in the present tense. \u201cThe passenger sitting next to me calls the stewardess, passes her a note.\u201d  The plane, ready to take off, then returned to the gate and the passenger left. Menzio was then asked to disembark the plane and \u201cmet by some FBI looking man-in-black\u201d. \u201cThey ask me about my neighbor,\u201d he wrote. \u201cI tell them I noticed nothing strange. They tell me she thought I was a terrorist because I was writing strange things on a pad of paper. I laugh. I bring them back to the plane. I showed them my math.\u201d Menzio, who is Italian and has curly, dark hair, told the Associated Press he initially \u201cthought they were trying to get clues about her illness.\u201d \u201cInstead, they tell me that the woman was concerned that I was a terrorist because I was writing strage things on a pad of paper.\u201d He told the Washington Post that he was \u201ctreated respectfully throughout\u201d the process but remains perturbed by a system that \u201crelies on the input of people who may be completely clueless\u201d. Passenger fears have prompted a series of problems on airplanes in recent weeks. Last month an Iraqi student who was overheard talking with his uncle in Arabic was removed from a Southwest Airlines flight after a fellow passenger reported him, prompting anger from civil rights groups.",
+  "webTitle": "Professor: flight was delayed because my equations raised terror fears",
+  "webPublicationDate": "2016-05-07T17:19:50Z",
+  "webUrl": "https://www.theguardian.com/us-news/2016/may/07/professor-flight-delay-terrorism-equation-american-airlines",
+  "keyword": [
+    {
+      "webTitle": "Philadelphia",
+      "id": "us-news/philadelphia",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [],
+  "guardianId": "us-news/2016/may/07/professor-flight-delay-terrorism-equation-american-airlines"
+}

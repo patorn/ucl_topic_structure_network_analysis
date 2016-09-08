@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/commentisfree/2016/may/11/still-trying-to-figure-out-who-to-vote-for-use-snitty-the-psephological-cassowarys-vote-compass",
+  "id": "2016-05-11-330",
+  "sectionId": "commentisfree",
+  "body": "Still trying to figure out who to vote for? Use Snitty the Psephological Cassowary's Vote Compass!",
+  "webTitle": "Still trying to figure out who to vote for? Use Snitty's Vote Compass! | First Dog on the Moon",
+  "webPublicationDate": "2016-05-11T07:19:26Z",
+  "webUrl": "https://www.theguardian.com/commentisfree/2016/may/11/still-trying-to-figure-out-who-to-vote-for-use-snitty-the-psephological-cassowarys-vote-compass",
+  "keyword": [
+    {
+      "webTitle": "Australian election 2016",
+      "id": "australia-news/australian-election-2016",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australian politics",
+      "id": "australia-news/australian-politics",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Labor party",
+      "id": "australia-news/labor-party",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Liberal party",
+      "id": "australia-news/liberal-party",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australian Greens",
+      "id": "australia-news/australian-greens",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "First Dog on the Moon",
+      "id": "profile/first-dog-on-the-moon"
+    }
+  ],
+  "guardianId": "commentisfree/2016/may/11/still-trying-to-figure-out-who-to-vote-for-use-snitty-the-psephological-cassowarys-vote-compass"
+}

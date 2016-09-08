@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/08/bach-mass-in-b-minor-concerto-copenhagen-mortensen-review",
+  "id": "2016-05-08-175",
+  "sectionId": "music",
+  "body": "The sound world of Bach\u2019s last great Mass has changed radically in recent decades; one-to-a-part performance practice is, as conductor Lars Ulrik Mortensen puts it, \u201cchanging our entire notion of Bach\u2019s acoustic universe\u201d. This bold claim is amply proven in an account of dazzling transparency, dance-like rhythms and utter clarity. Sometimes the balance seems not quite right, for example when organ continuo dominates, but some superb ensemble numbers pit voices against virtuosic instruments so each seems to outdo the other in joyous exuberance. The five soloists complement each other well, and the addition of just five extra singers is all that is needed to explode Bach\u2019s universal vision into life.",
+  "webTitle": "JS Bach: Mass in B minor review \u2013 dazzling transparency",
+  "webPublicationDate": "2016-05-08T07:00:00Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/08/bach-mass-in-b-minor-concerto-copenhagen-mortensen-review",
+  "keyword": [
+    {
+      "webTitle": "JS Bach",
+      "id": "music/jsbach",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Classical music",
+      "id": "music/classicalmusicandopera",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Choral music",
+      "id": "music/choral-music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Nicholas Kenyon",
+      "id": "profile/nicholas-kenyon"
+    }
+  ],
+  "guardianId": "music/2016/may/08/bach-mass-in-b-minor-concerto-copenhagen-mortensen-review"
+}

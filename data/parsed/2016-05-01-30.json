@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/science/2016/may/01/how-bump-asteroid-off-course",
+  "id": "2016-05-01-30",
+  "sectionId": "science",
+  "body": "Roughly every other week a one-metre-wide asteroid impacts on Earth\u2019s atmosphere and creates a spectacular fireball. Meanwhile, every few decades a lump of rock the size of a double-decker bus comes our way, creating a small crater on the ground like the Russian Chelyabinsk event on 15 February 2013.  Asteroids that cause significant damage (football-field-sized rocks) slam into us every 5,000 years or so, and the real biggies \u2013 capable of causing global disaster \u2013 arrive every few million years. So what can we do when Earth ends up in the crosshairs of the next big one? One idea is to bump it off its course. And in 2022 scientists plan to test this idea, when the Didymos asteroid and its mini-satellite known as \u201cDidymoon\u201d will be passing relatively close to Earth.    Related: Asteroids and how to deflect them | Stuart Clark    The European Space Agency\u2019s Asteroid Impact Mission (Aim), launching in 2020, intends to measure how much Didymoon is nudged out of line when a micro-lander touches down on its surface. Preparations for the mission are in full swing, and last month scientists met at the European Geosciences Union general assembly in Vienna to discuss the plans. Bj\u00f6rn Grieger and Michael K\u00fcppers from the European Space Astronomy Centre in Spain have been working out how to measure the mass of the 163m-wide Didymoon, by watching how it wobbles.  Meanwhile, Olivier Barnouin and colleagues at the John Hopkins University in Baltimore have been investigating what an asteroid\u2019s shape can tell you about its history, with their models indicating that collisions tend to produce \u201cpotato-shaped\u201d asteroids, but that more spherical \u201ctop-shaped\u201d asteroids are possible too.",
+  "webTitle": "How to bump an asteroid off course",
+  "webPublicationDate": "2016-05-01T20:30:04Z",
+  "webUrl": "https://www.theguardian.com/science/2016/may/01/how-bump-asteroid-off-course",
+  "keyword": [
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Geology",
+      "id": "science/geology",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Asteroids",
+      "id": "science/asteroids",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Space",
+      "id": "science/space",
+      "sectionId": "science",
+      "sectionName": "Science"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Kate Ravilious",
+      "id": "profile/kate-ravilious"
+    }
+  ],
+  "guardianId": "science/2016/may/01/how-bump-asteroid-off-course"
+}

@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/science/2016/may/03/mysterious-tracks-on-mars-may-be-formed-by-boiling-water-study-shows",
+  "id": "2016-05-03-166",
+  "sectionId": "science",
+  "body": "Mysterious streaks that appear on the steep slopes of Mars may form when seeping water boils with such violence that it blasts dust off the ground. The seasonal tracks come into being in the summer months on Mars and grow for hundreds of metres down cliffs, gullies and crater walls, before they vanish again in the winter.   Related: A visual guide to water on Mars    Pictures taken from orbit have found evidence that the streaks are produced by flowing water, but with Mars so parched in modern times, scientists have struggled to explain why the features grow so large. To find out what might be happening on the planet, Marion Mass\u00e9 at the University of Nantes and her colleagues used an environmental chamber to mimic the low atmospheric pressure found on Mars. The thin shroud of gas that surrounds the red planet means that the atmospheric pressure on Mars is half a percent of that found on Earth. They showed that water seeping through sediments just beneath the surface boiled with such violence that it propelled dust grains off the ground and into small heaps that eventually collapsed in minor avalanches. Video footage from the experiments shows grains of sediment being flung millimetres into the air and landing nearby where they form ridges that grow higher and higher until they collapse and send material tumbling downhill. On Mars, the grains would fly higher and further and build up larger ridges before crumbling under their own weight.           Nasa: watery flows discovered on Mars \u2013 video    The process could play a role in the formation of streaks on Mars, said Mass\u00e9, whose study appears in Nature Geoscience. While water seeping through the sediment will turn the ground dark, the violent vaporisation blasts lightly-coloured dust off the surface, revealing darker ground underneath. All of which makes for much larger streaks. \u201cIf you have boiling water, jumping grains and these avalanches, you get something much, much bigger than with water alone,\u201d said Susan Conway, a co-author on the study. When the water freezes in the winter months, the streaks are covered over by the fine layer of dust that gradually builds up. The source of the water that makes the streaks is unclear. It may condense out of the Martian atmosphere as pure water, or rise up as salty brines from subsurface reservoirs. The scientists ran tests on both types of water, and found that pure water boiled more intensely and produced larger avalanches. Wouter Marra at the University of Utrecht said the rapid boiling of water just beneath the Martian surface could explain other geological features on the planet\u2019s surface.",
+  "webTitle": "Mysterious tracks on Mars may be formed by boiling water, study shows",
+  "webPublicationDate": "2016-05-03T13:43:18Z",
+  "webUrl": "https://www.theguardian.com/science/2016/may/03/mysterious-tracks-on-mars-may-be-formed-by-boiling-water-study-shows",
+  "keyword": [
+    {
+      "webTitle": "Mars",
+      "id": "science/mars",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Alien life",
+      "id": "science/alien-life",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Space",
+      "id": "science/space",
+      "sectionId": "science",
+      "sectionName": "Science"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ian Sample",
+      "id": "profile/iansample"
+    }
+  ],
+  "guardianId": "science/2016/may/03/mysterious-tracks-on-mars-may-be-formed-by-boiling-water-study-shows"
+}

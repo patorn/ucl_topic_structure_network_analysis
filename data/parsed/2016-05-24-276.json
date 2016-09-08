@@ -1,0 +1,144 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/greenslade/2016/may/24/even-the-pro-remain-newspapers-are-sceptical-about-osbornes-dossier",
+  "id": "2016-05-24-276",
+  "sectionId": "media",
+  "body": "Does anyone really believe George Osborne\u2019s warning that leaving the European Union would plunge Britain into instant recession, result in 820,000 job losses and force up the price of foreign holidays? Even a leading Remain campaigner, Scotland\u2019s first minister Nicola Sturgeon, thought such \u201cfear-based\u201d predictions were insulting to the intelligence of the electorate.  Sturgeon\u2019s statement was headlined in the Guardian, the Times and Metro. It was noticeable that the pro-European Union Daily Mirror appeared sceptical enough to give Boris Johnson\u2019s reaction - \u201cThese types of prophecies are not credible\u201d - top billing in its news report. And the Europhile Independent ran a piece that also questioned the claims: \u201cFive problems with the Treasury\u2019s economic analysis of the impact of Brexit\u201d. The pro-Brexit Daily Telegraph lamented that a \u201cproudly impartial civil service\u201d had produced a report that \u201ccould in no way be called open-minded.\u201d On its news page, the paper reported that the prime minister was facing threats of cabinet resignations and it quoted Johnson, who accused Cameron and Osborne of \u201cscaremongering\u201d. It was not alone in revealing the depth of the split within the Conservative party. The Daily Mail\u2019s splash, \u201cKnives out for Cameron\u201d, reported that \u201cdozens of Tory MPs are threatening to topple David Cameron\u201d following \u201cthe latest Brexit \u2018dodgy\u2019 dossier row.\u201d It said unnamed backbenchers were predicting a vote of no-confidence in their leader after the referendum vote. But it also quoted several named critics: former defence secretary Liam Fox, Commons leader Chris Grayling, former chancellors Lord Lawson and Lord Lamont, plus backbencher Bernard Jenkin. It also mentioned the tweet by the Tory MP for Yeovil, Marcus Fysh, who called the Treasury analysis \u201cspecious bollocks\u201d (though the paper used asterisks). That tweet was seized on by the Sun, which ran a poster-style front page headlined \u201cNever mind the b*!!**ks\u201d. It said a \u201cfurious Tory backlash\u201d over Osborne\u2019s \u201cdoomsday dossier on Brexit\u201d had taken the party to \u201cbreaking point\u201d, with two ministers threatening to quit.  But it was the Telegraph that carried news giving the greatest heart to the Remain campaign by leading its front page with the results of its opinion poll. The ORB survey put Remain on 55% and Leave on 42% among voters who say they will vote. Among all voters, the Remain campaign was favoured by 58%. According to the poll, there has been \u201ca collapse in support for Brexit\u201d, with older voters, Conservative supporters and men moving into the Remain camp. The paper carried an analysis of the poll result by Lynton Crosby, the Tory party strategist, in which he wrote that one of the largest shifts in voting intention has occurred among Tory voters.  In March, 60% were intending to vote Leave compared with 34% for Remain. Now the figures have moved to 57% as against 40%. Crosby concluded:   \u201cThe Remain campaign should view these advancements as affirmation that the focus and messaging of its campaign is working.  If Leave is to regain any lost ground, it must start paying attention to the numbers and capitalise on its strengths - its steadfast lead on immigration and the way uncontrolled immigration is seen more widely as a symbol of the country\u2019s loss of control of its sovereignty to Europe, coupled with the enthusiasm of their base.\u201d  The Sun\u2019s lengthy leading article preferred to point to the decision by Cameron\u2019s former aide, Steve Hilton, to back Brexit after saying \u201cmembership of the EU makes Britain literally ungovernable.\u201d It poured scorn on Osborne: \u201cEither the chancellor\u2019s forecasts are credible, in which case holding the vote is a monstrous act of negligence, or he doesn\u2019t believe them himself and is in the business of whipping up hysteria. No prizes for guessing which we go for.\u201d For the Sun, \u201cRemain\u2019s tactics have been a dark mix of fiction and fear plus a vicious smearing of their opponents.\u201d I think that final sentence would win an award for irony.",
+  "webTitle": "Even the pro-Remain newspapers are sceptical about Osborne's 'dossier'",
+  "webPublicationDate": "2016-05-24T07:42:11Z",
+  "webUrl": "https://www.theguardian.com/media/greenslade/2016/may/24/even-the-pro-remain-newspapers-are-sceptical-about-osbornes-dossier",
+  "keyword": [
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "National newspapers",
+      "id": "media/national-newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "David Cameron",
+      "id": "politics/davidcameron",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "George Osborne",
+      "id": "politics/georgeosborne",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Conservatives",
+      "id": "politics/conservatives",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Nicola Sturgeon",
+      "id": "politics/nicola-sturgeon",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Newspapers",
+      "id": "media/newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "The Guardian",
+      "id": "media/theguardian",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Daily Telegraph",
+      "id": "media/dailytelegraph",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "The Times",
+      "id": "media/thetimes",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "The Independent",
+      "id": "media/theindependent",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Daily Mail",
+      "id": "media/dailymail",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Daily Mirror",
+      "id": "media/daily-mirror",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "The Sun",
+      "id": "media/sun",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Metro",
+      "id": "media/metro",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Boris Johnson",
+      "id": "politics/boris",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Roy Greenslade",
+      "id": "profile/roygreenslade"
+    }
+  ],
+  "guardianId": "media/greenslade/2016/may/24/even-the-pro-remain-newspapers-are-sceptical-about-osbornes-dossier"
+}

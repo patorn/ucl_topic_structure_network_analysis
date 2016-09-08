@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/18/marks-and-spencer-abandons-plan-store-amsterdam",
+  "id": "2016-05-18-56",
+  "sectionId": "business",
+  "body": "Marks & Spencer has ditched plans to open a major store in Amsterdam less than two months after the exit of Marc Bolland, its Dutch former chief executive of six years. The retailer said it had sold a site on the Rokin shopping street in the city, which had been intended as M&S\u2019s second flagship store in the Netherlands, to Canadian department store group Hudson\u2019s Bay Company. A M&S spokeswoman said the sale of the store was not linked to Bolland\u2019s departure. \u201cThe plans have changed considerably since we first looked at the store and this has provoked interest from other parties. We\u2019ve accepted an offer we couldn\u2019t turn down as a result,\u201d she said.  M&S\u2019s decision not to open a flagship store in Amsterdam comes after the company closed six trial food stores on petrol forecourts, which were operated via an alliance with oil company BP, late last year because of poor sales. It currently operates two stores in the Netherlands: a flagship in The Hague and a food shop in Amsterdam. M&S said it remained committed to staying in the country, which it returned to in 2013 after a 13-year absence. Expansion into the Netherlands was part of an international drive led by Bolland, who was replaced by Steve Rowe last month.",
+  "webTitle": "M&S abandons plan to open flagship store in Amsterdam",
+  "webPublicationDate": "2016-05-18T18:24:07Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/18/marks-and-spencer-abandons-plan-store-amsterdam",
+  "keyword": [
+    {
+      "webTitle": "Marks & Spencer",
+      "id": "business/marksspencer",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Retail industry",
+      "id": "business/retail",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Netherlands",
+      "id": "world/netherlands",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Fashion",
+      "id": "fashion/fashion",
+      "sectionId": "fashion",
+      "sectionName": "Fashion"
+    },
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Sarah Butler",
+      "id": "profile/sarahbutler"
+    }
+  ],
+  "guardianId": "business/2016/may/18/marks-and-spencer-abandons-plan-store-amsterdam"
+}

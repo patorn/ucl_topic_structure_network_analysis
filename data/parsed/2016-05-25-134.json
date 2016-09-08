@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/25/un-expert-calls-for-tax-on-meat-production",
+  "id": "2016-05-25-134",
+  "sectionId": "environment",
+  "body": "Governments should tax meat production in order to stem the global rise in consumption and the environmental damage that goes with it, according to a UN expert. The world faces serious environmental problems if emerging economies such as China emulate Americans and Europeans in the amount of meat they eat, Prof Maarten Hajer, the lead author of a report into the impact of food production and the environment, told the UN environment assembly in Nairobi. \u201cIf we were all to copycat the way in which we feed ourselves in North America or Europe [with meat], the planet would be in deep trouble,\u201d he said. Hajer stopped short of calling for a tax on meat sold in supermarkets and shops, but he said people could be deterred from eating meat by increasing its price further up the supply chain. \u201cWe think it\u2019s better to price meats earlier in the chain, it\u2019s easier. It\u2019s sexier to tax it at the consumer level, but not as effective,\u201d said Hajer, a member of the International Resource Panel (IRP), which comprises 34 top scientists and 30 governments. The IRP report which was released on Wednesday predicts a 20% rise in chicken and dairy consumption, and 14% increase in pig and beef over the next 10 years. The authors called on governments to push their citizens to eat less meat to avoid the accompanying \u201cdisproportionate environmental costs\u201d, although the report itself does not advocate any policy options. It found that the food farmed and transported to feed 7 billion people is responsible for 24% of greenhouse gas emissions, and 60% of the loss of species around the world. \u201cThis report shows our current food system has to change because it\u2019s not sustainable,\u201d said Hajer. \u201cDealing with consumer choices is an extremely touchy issue, but you have to deal with it, because there will consequences,\u201d said Janez Poto\u010dnik, co-chair at the IRP and former EU environment commissioner. \u201cThe time is coming when we will not be able to sweep it any more under the carpet.\u201d Henk Westhoek, a co-author of the report, said it was not just governments that should encourage people to eat less meat on environmental grounds, but supermarkets and big food companies. \u201cOnce they provide better alternatives, not just in meat alternatives, but in menus, they would reduce meat consumption in western societies,\u201d he said. The report highlighted data that shows pig meat consumption rising significantly by 2020 in China, and a big increase in poultry consumption in Indonesia, the EU and North America. But overall meat consumption in sub-Saharan Africa is expected to stay static, along with India, where little growth is expected for cultural and religious reasons. The IPR laid out a series of recommendations for governments to make food production more sustainable, including less meat consumption, cutting out food waste and reconnecting city dwellers with the farms and places where their food is grown.",
+  "webTitle": "UN expert calls for tax on meat production",
+  "webPublicationDate": "2016-05-25T14:15:51Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/25/un-expert-calls-for-tax-on-meat-production",
+  "keyword": [
+    {
+      "webTitle": "The meat industry",
+      "id": "environment/meat-industry",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Food",
+      "id": "environment/food",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Food & drink",
+      "id": "lifeandstyle/food-and-drink",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Food & drink industry",
+      "id": "business/fooddrinks",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Farming",
+      "id": "environment/farming",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Adam Vaughan",
+      "id": "profile/adam-vaughan"
+    }
+  ],
+  "guardianId": "environment/2016/may/25/un-expert-calls-for-tax-on-meat-production"
+}

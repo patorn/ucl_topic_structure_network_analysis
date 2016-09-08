@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/22/space-echo-the-cosmic-sound-of-cabo-verde-review",
+  "id": "2016-05-22-158",
+  "sectionId": "music",
+  "body": "The Cape Verde islands are known for the sorrowful songs of the late \u201cbarefoot diva\u201d Ces\u00e1ria \u00c9vora, but the archipelago has spawned more sprightly genres, cross-pollinating its African and Portuguese ancestries. Drawn from the early 1980s, this compilation weaves an intriguing story in which traditional dances and instruments, especially accordion, acquired a futuristic approach bristling with guitars and synths. One reason for the electronic infusion was a 1968 shipwreck loaded with keyboards (Rhodes, Farfisa and the like), which were distributed to schools \u2013 hence the full subtitle of the compilation, The Mystery Behind the Cosmic Sound of Cabo Verde Finally Revealed. The result was a generation of synth-friendly musicians and a sound that\u00a0mixed African melody with rhythms that were by turns loping and frenetic. Classy pop archaeology.",
+  "webTitle": "Various: Space Echo: The Cosmic Sound of Cabo Verde review \u2013 classy pop archaeology",
+  "webPublicationDate": "2016-05-22T07:00:36Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/22/space-echo-the-cosmic-sound-of-cabo-verde-review",
+  "keyword": [
+    {
+      "webTitle": "World music",
+      "id": "music/worldmusic",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Neil Spencer",
+      "id": "profile/neilspencer"
+    }
+  ],
+  "guardianId": "music/2016/may/22/space-echo-the-cosmic-sound-of-cabo-verde-review"
+}

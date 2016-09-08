@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/27/five-of-the-best-classical",
+  "id": "2016-05-27-177",
+  "sectionId": "music",
+  "body": "1 Eugene Onegin Garsington Opera\u2019s new season begins with the greatest of Tchaikovsky\u2019s operas. Michael Boyd directs and Roderick Williams sings the title role for the first time. There are stagings of Rossini, Mozart and Haydn to come, too. Garsington Opera, nr High Wycombe, Fri, to 7 Jul 2 Wigmore Hall 115th anniversary Although 115 isn\u2019t an obvious landmark, the Wigmore Hall doesn\u2019t need much of an excuse to put together a starry event or three. Here we get a celebration of Schubert, Arcangelo play JS and JC Bach and the Jack Quartet combine medieval and modern. Wigmore Hall, W1, Tue to Thu 3 Duets In A Frame The London Sinfonietta\u2019s latest concert is packed with new works. All four pieces are premieres of some sort, and two of them \u2013 from Tom Coult and Harrison Birtwistle \u2013 have never been heard before. St John\u2019s Smith Square, SW1, Wed 4 La Voix Humaine The main operatic event of Cardiff\u2019s inaugural Festival of Voice is unexpectedly intimate: a staging by David Pountney of Poulenc\u2019s monodrama La Voix Humaine in a Penarth apartment, with soprano Claire Booth as the protagonist, and the piano accompaniment heard on tape. Secret location (book via Wales Millennium Centre), Cardiff, Fri to 11 Jun 5 The Music Of Silence Few pianists today have as wide a repertory as Steven Osborne. As well as bread-and-butter classics, he plays an eclectic range of contemporary music, including jazz. His latest recital pairs works by George Crumb and Morton Feldman. Milton Court Concert Hall, EC2, Tue",
+  "webTitle": "Five of the best... classical concerts",
+  "webPublicationDate": "2016-05-27T12:00:03Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/27/five-of-the-best-classical",
+  "keyword": [
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Classical music",
+      "id": "music/classicalmusicandopera",
+      "sectionId": "music",
+      "sectionName": "Music"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Andrew Clements",
+      "id": "profile/andrewclements"
+    }
+  ],
+  "guardianId": "music/2016/may/27/five-of-the-best-classical"
+}

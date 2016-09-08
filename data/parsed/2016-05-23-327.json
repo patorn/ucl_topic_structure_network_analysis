@@ -1,0 +1,43 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/23/nurofen-false-pain-claims-consumer-watchdog-appeals-inadequate-fine",
+  "id": "2016-05-23-327",
+  "sectionId": "business",
+  "body": "The consumer watchdog is appealing what it says is an inadequate fine imposed by the federal court against the makers of Nurofen over misplaced claims of targeted pain relief. The Australian Competition and Consumer Commission says Reckitt Benckiser should have been fined at least $6m, rather than the $1.7m imposed, because the company made millions from products it misleadingly claimed were tailored to treat specific pain. \u201cThe ACCC will submit to the full court of the federal court that $1.7m in penalties imposed on a company the size of Reckitt Benckiser does not act as an adequate deterrent and might be viewed as simply a cost of doing business,\u201d ACCC chairman Rod Sims said in a statement on Monday.   Related: Nurofen maker deserves $6m fine for false claims, court told    In December the federal court found the British company Reckitt Benckiser had engaged in \u201cmisleading conduct\u201d by representing that its Nurofen Specific Pain products targeted a type or area of pain despite being identical, and ordered they be removed from supermarket shelves within three months. Nurofen Back Pain, Nurofen Period Pain, Nurofen Migraine Pain and Nurofen Tension Headache all contain 342mg of ibuprofen lysine, and cost up to twice as much as its regular products. The specific-pain products were subsequently repackaged. \u201cThe Australian Nurofen Specific Pain Range was removed from retail shelves in Australia within three months, and replaced with interim packaging as agreed with the ACCC, which clearly disclosed to consumers that the products are equally effective for other forms of pain,\u201d a spokeswoman for Nurofen said last month. The description of Nurofen\u2019s \u201cgeneral pain\u201d products on its website now carries the disclaimer: \u201cAny of the four products shown on this page have the same ingredient and can be taken to provide effective temporary relief of pain and/or inflammation associated with either migraine, tension headache, back pain or period pain.\u201d",
+  "webTitle": "Nurofen false pain claims: consumer watchdog appeals 'inadequate' fine",
+  "webPublicationDate": "2016-05-23T02:03:31Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/23/nurofen-false-pain-claims-consumer-watchdog-appeals-inadequate-fine",
+  "keyword": [
+    {
+      "webTitle": "Reckitt Benckiser",
+      "id": "business/reckittbenckiser",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Health (Australia)",
+      "id": "australia-news/health",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Healthcare industry",
+      "id": "business/healthcare",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Drugs",
+      "id": "science/drugs",
+      "sectionId": "science",
+      "sectionName": "Science"
+    }
+  ],
+  "authors": [],
+  "guardianId": "business/2016/may/23/nurofen-false-pain-claims-consumer-watchdog-appeals-inadequate-fine"
+}

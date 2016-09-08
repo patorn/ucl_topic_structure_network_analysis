@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/17/reuters-to-open-sub-editing-hub-in-nottingham",
+  "id": "2016-05-17-109",
+  "sectionId": "media",
+  "body": "Reuters is to open a subediting hub in Nottingham to \u201cforge a more global\u201d approach to how it carries out production on its articles.  The new office 110 miles north of the world-spanning news organisation\u2019s London office will be up and running by the end of the year and will take a number of years to build up, according to an internal memo from regional editor Richard Mably.  The new centre will operate as a global hub for the company\u2019s operations across the world, currently located in London, Singapore and New York.  Explaining why Reuters had chosen Nottingham, Mably wrote: \u201cCentralising some of our desking resources in the UK will, over time, allow us to operate more efficiently and bring more consistency to our standards and operations.   Related: Reuters carries sponsorship of its US presidential coverage    \u201cThe UK is an ideal location for a global desk for a number of reasons, including readily available talent, time zones and language. Establishing the desk in Nottingham will give staff a more affordable alternative to the difficulties of living in London (and other editing centres).\u201d The memo also stresses no one will be forced to move, adding: \u201cWe realise that many of you will have concerns about the prospect of the company moving jobs outside the main hubs.  \u201cWe want to assure you that, in addition to this being a purely voluntary exercise, there will be no change in terms and conditions for UK-based staff volunteering to move. The company will also provide relocation support for UK-based staff who opt to move to Nottingham.\u201d It concludes: \u201cWe hope the desking operation in Nottingham centre\u2019s Chapel Quarter will be up and running by the end of 2016 and to grow into an exciting new hub.\u201d",
+  "webTitle": "Reuters to open global subediting hub in Nottingham",
+  "webPublicationDate": "2016-05-17T15:26:19Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/17/reuters-to-open-sub-editing-hub-in-nottingham",
+  "keyword": [
+    {
+      "webTitle": "Reuters",
+      "id": "media/reuters",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "News agencies",
+      "id": "media/news-agencies",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers & magazines",
+      "id": "media/pressandpublishing",
+      "sectionId": "media",
+      "sectionName": "Media"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jasper Jackson",
+      "id": "profile/jasper-jackson"
+    }
+  ],
+  "guardianId": "media/2016/may/17/reuters-to-open-sub-editing-hub-in-nottingham"
+}

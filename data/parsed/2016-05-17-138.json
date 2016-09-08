@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/17/canine-out-of-10-match-the-dog-to-the-movie-quiz",
+  "id": "2016-05-17-138",
+  "sectionId": "film",
+  "body": "Nil by Mouth\n       Layer Cake\n       Snatch\n       Trainspotting\n      \n     \n      \n       There's Something About Mary\n       Room \n       Silver Linings Playbook \n       San Andreas\n      \n     \n      \n       Bowfinger\n       Couples Retreat\n       Scary Movie 2\n       Spy Hard\n      \n     \n      \n       The Accidental Tourist\n       Shallow Hal\n       The Jerk\n       Moonstruck\n      \n     \n      \n       Suspiria\n       Don't Look Now\n       The Omen\n       Scanners\n      \n     \n      \n       The Campaign\n       The Artist\n       Movie 43\n       Zoolander 2\n      \n     \n      \n       The Family\n       Empire State\n       In Bruges\n       Only Lovers Left Alive\n      \n     \n      \n       Stand By Me\n       Gremlins\n       Lethal Weapon 2\n       The Lost Boys\n      \n     \n      \n       Tootsie\n       Short Circuit\n       Planes, Trains & Automobiles\n       The War of the Roses\n      \n     \n      \n       The Grapes of Wrath \n       Bringing Up Baby\n       High Sierra\n       Rebecca\n      \n    \n    Solutions\n    1:C, 2:B, 3:A, 4:C, 5:A, 6:A, 7:C, 8:A, 9:D, 10:B\n    Scores\n    \n     7 and above.Top dog\n     4 and above.That was ruff\n     0 and above.Beethoven's last",
+  "webTitle": "Canine out of 10? Match the dog to the movie \u2013 quiz",
+  "webPublicationDate": "2016-05-17T14:23:43Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/17/canine-out-of-10-match-the-dog-to-the-movie-quiz",
+  "keyword": [
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Dogs",
+      "id": "lifeandstyle/dogs",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Animals",
+      "id": "world/animals",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Pets",
+      "id": "lifeandstyle/pets",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Benjamin Lee",
+      "id": "profile/benjamin-lee-film"
+    }
+  ],
+  "guardianId": "film/2016/may/17/canine-out-of-10-match-the-dog-to-the-movie-quiz"
+}

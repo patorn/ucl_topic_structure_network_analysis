@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/23/black-bears-canada-wildfires-alberta-fort-mcmurray-food",
+  "id": "2016-05-23-97",
+  "sectionId": "world",
+  "body": "First came the wildfire; raging through the northern Alberta city of Fort McMurray and prompting the frenzied evacuation of more than 88,000 people.  Then came the bears.   Authorities say black bears have been roaming the evacuated city in greater numbers, disoriented by the destruction of their natural habitat and lured by the scent of garbage and rotting food in the city. \u201cWhat we\u2019ve got is tons of spoiling food inside houses in the heart of prime black bear range,\u201d Lee Foote, a conservation biologist at the University of Alberta, told Canadian broadcaster CTV News. \u201cYou couldn\u2019t create a better potential to attract black bears from a large area \u2026 and there are a lot of black bears in the area.\u201d The province of Alberta is home to an estimated 40,000 bears, many of which live in the boreal forests that surround Fort McMurray. The fire \u2013 which now covers more than 522,000 hectares \u2013 came just as black bears were emerging from their dens after six months of hibernation and finding ashes or dusty conditions where they would normally encounter food. A smorgasbord of tantalising scents \u2013 from rotting fish and meat to leftover casseroles \u2013 brought many of them into nearby Fort McMurray, where food-filled refrigerators and freezers now sit sweltering in homes often left without power. \u201cThey are smart and adaptive. They can smell food from kilometers away,\u201d Brendan Cox, a spokesman for the province\u2019s fish and wildlife enforcement branch told Reuters. \u201cJust as you and I go to the nearby grocery store, or our favourite restaurant, the bears continue to return to a particular food source.\u201d Officials have said residents may be able to return to the city as early as next week, one month after they hurriedly fled amid a thick blanket of heavy smoke and flames that licked the highways. Many of the bears are expected to leave the city when residents return, as black black bears are typically not aggressive and rarely attack humans. In the three weeks since the city\u2019s evacuation, though, some bears have become habituated to food sources in Fort McMurray, say conservationists. \u201cThis is going to be a different type of emboldened, entitled bear, if you will,\u201d said Foote. \u201cThey have had free rein of the place for a while, it\u2019s prime fattening-up season just out of hibernation, and it could be a problem.\u201d Wildlife officers are currently patrolling the city, setting traps at the first signs of bear habituation. At least four bears have been captured so far, two of which were released back into the wild. Two had to be euthanised over concerns that they could pose a threat to humans, wildlife officials told Reuters. \u201cOfficers feel the same distaste as members of the public feel for putting a bear down,\u201d said Cox.",
+  "webTitle": "Black bears flock to claim food in evacuated Fort McMurray homes",
+  "webPublicationDate": "2016-05-23T16:32:33Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/23/black-bears-canada-wildfires-alberta-fort-mcmurray-food",
+  "keyword": [
+    {
+      "webTitle": "Canada",
+      "id": "world/canada",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Animals",
+      "id": "world/animals",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Wildfires",
+      "id": "world/wildfires",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Americas",
+      "id": "world/americas",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ashifa Kassam",
+      "id": "profile/ashifa-kassam"
+    }
+  ],
+  "guardianId": "world/2016/may/23/black-bears-canada-wildfires-alberta-fort-mcmurray-food"
+}

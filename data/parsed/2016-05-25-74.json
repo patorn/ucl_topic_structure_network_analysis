@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/25/northern-ireland-forms-new-power-sharing-executive",
+  "id": "2016-05-25-74",
+  "sectionId": "politics",
+  "body": "Northern Ireland\u2019s power-sharing executive has been formed, with Sinn F\u00e9in and the Democratic Unionist party appointing an independent unionist as the region\u2019s new justice minister. The East Londonderry assembly member, Claire Sugden, will take up the justice portfolio, which the two big parties eschewed in order to avoid accusations of one community controlling the police and judicial system. Four DUP and three Sinn F\u00e9in members will share the other ministries at Stormont. Sugden, 29, a former member of the Ulster Unionist party, replaces the Alliance party leader, David Ford, as justice minister. The four DUP ministers are Simon Hamilton at economy, Peter Weir at education, Paul Givan at communities, and Michelle McIlveen at agriculture, environment and rural affairs. The Sinn F\u00e9in ministers are M\u00e1irt\u00edn \u00d3 Muilleoir at finance, Michelle O\u2019Neill at health, and Chris Hazzard at infrastructure.  On the appointment of Sugden, the Sinn F\u00e9in deputy first minister of Northern Ireland, Martin McGuinness, described her as a \u201cvery progressive young woman who clearly understands the need to be minister for everybody in our community\u201d.   Related: Arlene Foster hails DUP's performance in Northern Ireland assembly election    In a public display of unity with her Sinn F\u00e9in counterpart, the DUP first minister, Arlene Foster, said: \u201cMartin and I are delighted that Claire has agreed to be the new justice minister and we are very much looking forward to working with her. I hope she will be given the credit she deserves in stepping forward and taking on this ministry.\u201d Sugden\u2019s appointment to the justice portfolio was crucial to the survival of the fledgling power-sharing executive formed just weeks after the assembly elections. A failure to nominate a justice minister would likely have led to another election. However, Sugden\u2019s appointment was criticised by the Ulster Unionist party as a \u201ccorruption\u201d of the Good Friday agreement, as ministerial seats should be allocated on the basis of party strength.  Mike Nesbitt, the UUP leader, referred to a speech made by Sugden last year when she described Stormont\u2019s leaders as \u201cjokers\u201d in a falling \u201chouse of cards\u201d. \u201cWe are not in favour of this, because it is a corruption of the Good Friday agreement,\u201d he said. \u201cThe person who said, \u2018This house of cards is falling, and good will come of that only if the jokers at the top come crashing down too and do not get up again\u2019, is our new justice minister, who is propping them up again.\u201d    Related: Politics in Northern Ireland is changing forever as nationalism diversifies | Malachi O\u2019Doherty    Sugden said taking up the post was \u201cprobably the most difficult decision I have had in my life\u201d. She succeeded Ford after his party decided to enter opposition with the UUP and the nationalist Social Democratic and Labour party. The Alliance party\u2019s move to the opposition benches was the main reason for the delay in reconstituting the power-sharing regional government. Sugden\u2019s nomination could potentially pose political problems for Sinn F\u00e9in given that her appointment will be held up by hardline republican dissidents as evidence that the policing and judicial system is still controlled by a pro-union politician.",
+  "webTitle": "Northern Ireland forms new power-sharing executive",
+  "webPublicationDate": "2016-05-25T17:16:49Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/25/northern-ireland-forms-new-power-sharing-executive",
+  "keyword": [
+    {
+      "webTitle": "Northern Irish politics",
+      "id": "politics/northernireland",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Northern Ireland",
+      "id": "uk/northernireland",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Democratic Unionist party (DUP)",
+      "id": "politics/dup",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Sinn F\u00e9in",
+      "id": "politics/sinn-fein",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Martin McGuinness",
+      "id": "politics/martin-mcguinness",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Arlene Foster",
+      "id": "politics/arlene-foster",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Ulster Unionist Party (UUP)",
+      "id": "politics/uup",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "SDLP",
+      "id": "politics/sdlp",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Henry McDonald",
+      "id": "profile/henrymcdonald"
+    }
+  ],
+  "guardianId": "politics/2016/may/25/northern-ireland-forms-new-power-sharing-executive"
+}

@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/11/ignore-david-camerons-corruption-claims-judge-tells-jury-in-bribery-case",
+  "id": "2016-05-11-41",
+  "sectionId": "politics",
+  "body": "David Cameron almost derailed the trial of a businessman accused of taking bribes to secure a Nigerian banknote printing contract by describing the west African state as one of the most corrupt countries in the world. Lawyers for Peter Chapman, who was eventually convicted, asked the judge to dismiss a jury following the \u201cblanket\u201d press coverage of a conversation at Buckingham Palace where a TV crew\u2019s microphone picked up Cameron making the comments about Nigeria and Afghanistan to the Queen. While rejecting the application, the judge at Southwark crown court told the jury to ignore the prime minister\u2019s comments, which he described as a \u201cgross generalisation\u201d. Chapman bribed an official at Nigerian Security Printing and Minting Plc to secure the contract for Australian company Securency International Pty Ltd. The 54-year-old sent the money via a private company he used as a consultancy business to help agree oil contracts between Russia and the UK. He made payments totalling \u00a3136,000 between July 2007 and March 2009, the court was told.   Related: Buhari agrees Nigeria is corrupt, but how is he tackling it?    Before the jury returned their verdicts on Wednesday, Judge Michael Grieve told them: \u201cYou must try this case on the evidence before you in this court and nothing else.  \u201cI am doing so because of certain remarks made by the prime minister yesterday on the subject of corruption which have been widely reported by the press and other parts of the media.  \u201cYou must completely ignore anything you may have seen or heard or read about what the prime minister said. It was almost certainly a gross generalisation and certainly had no direct relevance to anyone involved in this case.\u201d The jury took more than 17 hours to find Chapman guilty of four counts of corruption by majority verdict and to clear him of two others. He will be sentenced on Thursday. The prime minister made the remarks before Thursday\u2019s anti-corruption summit, at which Nigeria\u2019s president, Muhammadu Buhari, will deliver a keynote address entitled: Why we must tackle corruption together. Cameron was overheard telling the monarch that \u201cleaders of some fantastically corrupt countries\u201d would be attending the meeting, before singling out the two nations. Buhari, who won elections last year vowing to fight corruption, has said he does not want an apology from Cameron but wants the return of the billions of pounds taken out of his country and sent to the UK.",
+  "webTitle": "Ignore David Cameron's corruption claims, judge tells jury in bribery case",
+  "webPublicationDate": "2016-05-11T20:31:49Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/11/ignore-david-camerons-corruption-claims-judge-tells-jury-in-bribery-case",
+  "keyword": [
+    {
+      "webTitle": "David Cameron",
+      "id": "politics/davidcameron",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Bribery Act",
+      "id": "law/bribery-act",
+      "sectionId": "law",
+      "sectionName": "Law"
+    },
+    {
+      "webTitle": "Law",
+      "id": "law/law",
+      "sectionId": "law",
+      "sectionName": "Law"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Nigeria",
+      "id": "world/nigeria",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Africa",
+      "id": "world/africa",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ben Quinn",
+      "id": "profile/benquinn"
+    }
+  ],
+  "guardianId": "politics/2016/may/11/ignore-david-camerons-corruption-claims-judge-tells-jury-in-bribery-case"
+}

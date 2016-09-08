@@ -1,0 +1,30 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/09/goalkeeper-dies-warm-up-cameroon",
+  "id": "2016-05-09-268",
+  "sectionId": "football",
+  "body": "A goalkeeper who collapsed during her warm-up before a match in Cameroon on Sunday has died, it has been confirmed.   Related: Patrick Ekeng: matches postponed and inquiry into death launched    Less than 48 hours after the death of Dinamo Bucharest\u2019s Patrick Ekeng from a suspected heart attack, Jeanine Christelle Djomnang was preparing to take part in Femina Stars\u2019s fixture against Louves of Minproff in the Cameroonian women\u2019s championship when she collapsed on the pitch. The 26-year-old was taken to the local hospital but pronounced dead on arrival. The Cameroon Football Federation (Fecafoot) later revealed that initial reports suggested Djomnang died of a heart attack but said it is now awaiting a formal medical report. A condolence book for both Djomanang and Ekeng has now been opened at Fecafoot\u2019s headquarters in Yaound\u00e9. The Romanian Football Federation (FRF) has postponed all football matches this weekend following the death of Ekeng on Friday, with local media reporting that an investigation had been launched.",
+  "webTitle": "Goalkeeper dies in warm-up before match in Cameroon",
+  "webPublicationDate": "2016-05-09T08:52:09Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/09/goalkeeper-dies-warm-up-cameroon",
+  "keyword": [
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "football/2016/may/09/goalkeeper-dies-warm-up-cameroon"
+}

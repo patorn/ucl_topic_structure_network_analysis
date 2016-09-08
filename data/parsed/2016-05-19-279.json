@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/19/uk-farmers-to-cut-antibiotic-use-to-combat-drug-resistance",
+  "id": "2016-05-19-279",
+  "sectionId": "environment",
+  "body": "A new taskforce to reduce the use of antibiotics in farming in the UK is being set up in response to government concerns on the growing resistance of diseases to antibiotic medicines. The alliance for the Responsible Use of Medicines in Agriculture (RUMA) said it would work with organisations including farming leaders, food companies and government to find ways to replace antibiotic use where possible, and reduce it where not. John FitzGerald, secretary general of RUMA, said: \u201cWe understand the ambition to develop long-term targets [on antibiotic use]. The industry has long recognised the beneficial role targets can play, but is acutely aware that inappropriate targets can also be counterproductive, and even lead to increased risk of resistance.\u201d He said the taskforce would \u201charness the expertise of specialists across different sectors\u201d, and try to identify effective goals that would protect animal welfare.   Related: England\u2019s chief medical officer warns of \u2018antibiotic apocalypse\u2019    The government has been conducting a review of antibiotic resistance, led by Jim O\u2019Neill. It has found increasing risks in the over-prescribing of antibiotics, both in human health and for farm animals, and has warned that increasing resistance risks making routine surgery, such as hip replacements, dangerous to patients. Antibiotic use in animal husbandry has often come under fire from campaigners, but has rarely been a focus of government intervention up to now. The O\u2019Neill review called for a raft of new measures, including a massive global public awareness campaign, improved hygiene, the reduction of the unnecessary use of antibiotics in agriculture, and improved surveillance of drug resistance in animals and humans. This will also include developing better methods of diagnosis for animal diseases, and promoting the use of alternatives to medication. Last year, the Guardian conducted a major investigation into antibiotic use in farming, and found that variants of the deadly superbug MRSA are now to be found among UK livestock herds. The Guardian also conducted tests on supermarket meat products, and found nine samples in 100 of pork products from major UK supermarket chains tested positive for livestock-associated MRSA. Livestock-associated MRSA has also been found to be present in UK hospitals. The bug generally causes skin infections in humans, which are not life-threatening, but in some cases \u2013 especially among older patients or those with lowered immune systems - it can be fatal. Denmark has struggled with the disease among its pig herds, and it has spread to farm workers and other people there. The Danish government last year set up a new strategy to deal with the problem, and the Danish environment minister told the Guardian that the scourge could be repeated in the UK if similarly strong measures are not taken here. Antibiotic use is frequently a feature of intensive farming, where animals are reared in close proximity over the course of their lives, often in large sheds, where if one animal contracts an infection the rest of the herd must often be treated as well. The government does not collate statistics on the details of how antibiotics are used on farms, leaving vets to prescribe them. FitzGerald said: \u201cThe Danish government invested heavily to allow its pig farmers to build new high-health premises. The Netherlands [after reducing its antibiotic use by nearly 60%] is now at approximately the same level of use as the UK. So we must look at how we develop the right goals for our sectors.\u201d",
+  "webTitle": "UK farmers to cut antibiotic use to combat drug resistance",
+  "webPublicationDate": "2016-05-19T08:49:54Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/19/uk-farmers-to-cut-antibiotic-use-to-combat-drug-resistance",
+  "keyword": [
+    {
+      "webTitle": "Farming",
+      "id": "environment/farming",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "The meat industry",
+      "id": "environment/meat-industry",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Antibiotics",
+      "id": "society/antibiotics",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Cattle",
+      "id": "business/cattles",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Food",
+      "id": "environment/food",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Fiona Harvey",
+      "id": "profile/fiona-harvey"
+    }
+  ],
+  "guardianId": "environment/2016/may/19/uk-farmers-to-cut-antibiotic-use-to-combat-drug-resistance"
+}

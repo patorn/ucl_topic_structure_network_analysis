@@ -1,0 +1,79 @@
+{
+  "apiUrl": "https://content.guardianapis.com/global-development/2016/may/14/big-pharma-cost-of-drugs-killing-us-how-can-we-foster-access-for-all",
+  "id": "2016-05-14-167",
+  "sectionId": "global-development",
+  "body": "Over the past year, high medicine prices have made the headlines. In the UK, two cancer treatments were dropped because they were deemed too expensive. A US Senate subcommittee criticised pharmaceutical company Gilead for charging $84,000 (\u00a357,000) for a full course of its new hepatitis C treatments and found that fostering broad, affordable access for other drugs was not a major concern for the firm. This is all without even mentioning the antics of everyone\u2019s favourite villain, the pharmaceutical entrepreneur Martin Shkreli, who was called the most hated man in America for hiking the price of Daraprim, a malaria drug. During the early days of the HIV-Aids crisis, this price problem was relegated to the developing world, where people could not afford the prices paid for antiretrovirals in wealthy countries. Now, however, the high cost of many medicines is just as alarming for rich countries.   Related: Big Pharma\u2019s worst nightmare | Sarah Boseley    High prices are also putting a strain on the global institutions created to assist the poorest countries with access. Gavi, a global alliance to support immunisation in the poorest countries, expects to spend about 25% of its budget over the next five years solely on the pneumococcal vaccine (PCV), the newest vaccine in its portfolio, which is currently produced only by GlaxoSmithKline and Pfizer. Newer vaccines are much more expensive than older ones, resulting in a 68-fold increase for the poorest countries in the cost of the full package of vaccines recommended by the WHO since 2001. Some countries simply cannot afford these vaccines. Spending so much on one product means diverting money from other life-saving vaccines as well as from essential projects aimed at systemic change, such as building rural clinics and training health workers. Yet these are things that help vulnerable and marginalised children. There are some signs of progress from within the industry. Last month, GSK announced a small voluntary reduction in the price of PCV for the poorest countries; increasing patent transparency; limiting enforcement of their patents in the very poorest countries; and pledging to license new cancer medicines to generic companies. These are all important steps and the company\u2019s leadership ought to be lauded, especially given the industry\u2019s long history of resistance to reductions in intellectual property rights. These actions, however, are still far from what\u2019s needed to make new medicines affordable. The poorest countries are not subject to the intellectual property laws that lead to higher prices, so in that sense GSK\u2019s announcement maintains the status quo. The initiative does not address high prices in wealthier countries, particularly those that are considered middle-income but where most of the world\u2019s poor people live. Companies can afford even greater reductions to ensure access. As the New Statesman recently reported, Pfizer and GSK made $6bn and $546m respectively on PCV in the last financial year alone.  Although these vaccines have been on the market for more than five years and both companies have already made a significant amount of money from them, GSK\u2019s reduction has been very small and Pfizer has not yet reduced its price at all.  Companies often argue that their prices take into account research and development costs and that they practise tiered pricing, which allows poorer countries to pay less, subsidised by higher prices in wealthy countries. However, the cost of R&D for these medicines and vaccines is never made public, making it hard to judge what prices are justified. There is a more fundamental question: is there a better system for creating incentives to produce life-saving medicines priced at a level that means they can reach everyone? The ability of governments to step in to control medicine prices is essential. By using internationally recognised tools to limit or tailor intellectual property laws to a country\u2019s health needs, governments can increase generic competition and reduce prices. These tools are, however, under constant threat from powerful governments and corporate actors who want to limit their use in many ways, such as through free trade agreements like the Trans-Pacific Partnership agreement, and, in some cases, through expanding intellectual property protections in poorer countries. Countries can also use the power they have as buyers, alone or collectively, to negotiate lower prices. This means, for example, Britain\u2019s National Institute for Health and Care Excellence and the NHS taking stronger lines on what they are willing to pay and supporting poorer countries to do likewise. Again, greater transparency would make doing this so much easier.     Activists protest in front of the offices of the Pharmaceutical Research and Manufacturers of America, on world Aids day 2015. Photograph: Mark Wilson/Getty Images    The solution requires reform of the way that medicines are priced so that investments in R&D are separated from what companies charge. Delinking, through alternative models such as providing prizes instead of patents, would allow generic competitors to enter the market immediately while maintaining the rewards necessary to spur innovation.  Research by Save the Children examines this and other potential solutions that would address which medicines are made, as well as high prices. Many of these would work not only in poorer countries, but also in wealthier ones. Voluntary initiatives by pharmaceutical companies, where they are improving access, should be recognised and replicated. But unless we start taking the problem of access to medicines more seriously, we\u2019ll keep treating the problem but never find a cure.  Mihir Mankad is a health policy adviser on access to medicines and vaccines at Save the Children. Save the Children has a five-year partnership with GSK and receives funding towards its activities",
+  "webTitle": "The cost of drugs is killing us. How can we foster access for all? | Mihir Mankad",
+  "webPublicationDate": "2016-05-14T08:00:31Z",
+  "webUrl": "https://www.theguardian.com/global-development/2016/may/14/big-pharma-cost-of-drugs-killing-us-how-can-we-foster-access-for-all",
+  "keyword": [
+    {
+      "webTitle": "Global development",
+      "id": "global-development/global-development",
+      "sectionId": "global-development",
+      "sectionName": "Global development"
+    },
+    {
+      "webTitle": "Vaccines and immunisation",
+      "id": "society/vaccines",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Drugs",
+      "id": "science/drugs",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Sustainable development goals",
+      "id": "global-development/sustainable-development-goals",
+      "sectionId": "global-development",
+      "sectionName": "Global development"
+    },
+    {
+      "webTitle": "Pharmaceuticals industry",
+      "id": "business/pharmaceuticals-industry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "GlaxoSmithKline",
+      "id": "business/glaxosmithkline",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Pfizer",
+      "id": "business/pfizer",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [],
+  "guardianId": "global-development/2016/may/14/big-pharma-cost-of-drugs-killing-us-how-can-we-foster-access-for-all"
+}

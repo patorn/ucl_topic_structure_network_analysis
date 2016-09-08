@@ -1,0 +1,43 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/02/israeli-military-detention-palestinian-journalist-omar-nazzal",
+  "id": "2016-05-02-42",
+  "sectionId": "world",
+  "body": "Israel\u2019s military has ordered a Palestinian journalist to be held for four months without charges or trial. The military said Omar Nazzal is being held in administrative detention on suspicion of \u201cunlawful activity\u201d for the Popular Front for the Liberation of Palestine, a PLO faction that has been labelled a terrorist organisation by Israel. His lawyer, Mahmoud Hassan, said he believes his client, a leading member of the Palestinian journalists\u2019 union, is being targeted because of his political activism. Hassan noted that under the system of administrative detention, the defence is not shown any alleged evidence against them.   Related: Palestinian ends 94-day hunger strike after Israel drops detention without charge    Nazzal, 53, has been in custody since he was seized at an Israeli-run crossing between the West Bank and Jordan last month, while traveling to a meeting of the European Federation of Journalists. The journalist headed Palestine Today, a TV station affiliated with the militant group Islamic Jihad, for five months, but quit earlier this year shortly before Israel shut the broadcaster down. He also had ties to the PFLP which in the past was involved in attacks on Israelis. Hassan denied his client was linked to violence, adding: \u201cThis arrest is a political arrest.\u201d Monday\u2019s court announcement comes on the eve of World Press Freedom Day, the lead-up to which Palestinians have been using to condemn Israel.  Hanan Ashrawi, a Palestinian political leader, on Monday urged immediate intervention to ensure Israel was \u201caccountable for the blatant and planned escalation against Palestinian media\u201d.  The journalists\u2019 union says that Israel is also holding in detention another 19 Palestinian journalists and students of journalism, one of them for more than 20 years.  The number of Palestinians in administrative detention reached 627 at the end of February, according to official prison service figures regularly published by the Israeli rights group B\u2019Tselem. Critics say Israel\u2019s large-scale use of the practice amounts to a violation of rules of due process. The number of administrative detainees has doubled since the start of the latest round of Israeli-Palestinian violence in September. Since the autumn, attacks by Palestinians have claimed the lives of 28 Israelis and two Americans, while about 200 Palestinians have been killed by Israeli security forces.",
+  "webTitle": "Israeli military orders detention of Palestinian journalist Omar Nazzal",
+  "webPublicationDate": "2016-05-02T19:33:45Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/02/israeli-military-detention-palestinian-journalist-omar-nazzal",
+  "keyword": [
+    {
+      "webTitle": "Israel",
+      "id": "world/israel",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Palestinian territories",
+      "id": "world/palestinian-territories",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Middle East and North Africa",
+      "id": "world/middleeast",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Press freedom",
+      "id": "media/press-freedom",
+      "sectionId": "media",
+      "sectionName": "Media"
+    }
+  ],
+  "authors": [],
+  "guardianId": "world/2016/may/02/israeli-military-detention-palestinian-journalist-omar-nazzal"
+}

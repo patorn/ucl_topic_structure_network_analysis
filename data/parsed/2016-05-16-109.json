@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/16/strawberry-fields-forever-national-living-wage-kill-off-uk-fruit-farming",
+  "id": "2016-05-16-109",
+  "sectionId": "business",
+  "body": "The British strawberry could become an \u201cunaffordable luxury\u201d, according to a leading hospitality company, which has warned that the \u201cnational living wage\u201d could wipe out nearly 60% of growers\u2019 profits in the coming year. More than 140,000 servings of strawberries and cream are expected to be sold during this year\u2019s Wimbledon fortnight \u2013 often heralded as the start of the British strawberry season \u2013  but hospitality consultants Beacon has warned that farms face a grim and financially unsustainable future after the new minimum wage was introduced in April.  Beacon, which represents about 2,000 independent businesses across the hospitality, leisure and care home markets as well as suppliers \u2013 including regional fresh produce businesses \u2013 said suppliers expect the price of strawberries to rise this year due to the pressure of the national living wage on UK farmers. Some are predicting the closure of British farms as strawberries become an unprofitable operation, replaced in supermarket by cheaper imports. The warning echoes a recent National Farmers\u2019 Union (NFU) report which revealed that the impact of the new minimum pay threshold could cost growers 58% of their profits immediately while over the next four years it could cost fresh food businesses up to 158% of current business profit, making strawberry growing completely unprofitable for British farmers without extra government support. It was a record-breaking year in 2015 for British strawberries, with sales topping \u00a3325m, comfortably beating the record of \u00a3275m in 2014. But Paul Connelly, managing director of Beacon, said: \u201cIt seems that strawberry fields may not be forever in the British countryside. Our suppliers are warning that the landscape of soft fruit farming and fresh produce is under threat with the possibility of cheaper foreign imports replacing British produce on supermarket shelves and on restaurant menus.\u201d  Connelly said the company was \u201cworking with our suppliers and customers to provide context to any price rises they might have to pass through and agree with the NFU in calling for the government, and the wider supply chain, to support our fresh produce farmers through these wage changes\u201d. The apparent crisis follows the ongoing milk price row, in which many dairy farmers were forced out of business after their margins were eroded by major retailers. Other fresh produce farmers would be affected by national living wage, Beacon said, with labour-intensive farming industries likely to suffer the most. Farmers of salad essentials including lettuce, cucumber, peppers and cherry tomatoes are particularly at risk from the new pay threshold, combined with rising production costs and aggressive supermarket price wars.  The NFU is urging the government to help reduce the impact of the national living wage on British horticulture and farming businesses.",
+  "webTitle": "Strawberry fields for ever? UK wage laws 'will kill off fruit farming'",
+  "webPublicationDate": "2016-05-16T17:07:28Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/16/strawberry-fields-forever-national-living-wage-kill-off-uk-fruit-farming",
+  "keyword": [
+    {
+      "webTitle": "Food & drink industry",
+      "id": "business/fooddrinks",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "National living wage",
+      "id": "business/national-living-wage",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Pay",
+      "id": "money/pay",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Family finances",
+      "id": "money/family-finances",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Fruit",
+      "id": "lifeandstyle/fruit",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Food & drink",
+      "id": "lifeandstyle/food-and-drink",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Rebecca Smithers",
+      "id": "profile/rebeccasmithers"
+    }
+  ],
+  "guardianId": "business/2016/may/16/strawberry-fields-forever-national-living-wage-kill-off-uk-fruit-farming"
+}

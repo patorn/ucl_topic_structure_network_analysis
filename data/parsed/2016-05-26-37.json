@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/26/abc-the-lexicon-of-love-ii-review-old-master-revisits-highs-of-heyday",
+  "id": "2016-05-26-37",
+  "sectionId": "music",
+  "body": "Making a sequel to a 34-year-old classic album is a mighty challenge, but Martin Fry\u2019s ABC have pulled it off. Lexicon of Love II has many of the characteristics of its illustrious 1982 predecessor: lush orchestrations, hurtling brass and synth stabs, and top-drawer pop songwriting. Viva Love and Ten Below Zero unashamedly \u2013 \u201cunapologetically\u201d as Fry puts it \u2013 hark back to Poison Arrow, The Look of Love et al. However, while the first Lexicon was the work of a wide-eyed young dreamer, these songs find Fry much older, wiser, and, most surprisingly, with an endearing line in self-mockery. There are songs about love and foolish ways \u2013 and even one about the band refusing to rehearse. Fry is not above an inspired howler \u2013 \u201cYour humble entertainer, here to serenade yer!\u201d \u2013 but this is the sound of an old master falling not far short of a standard that his youthful self set very high indeed.",
+  "webTitle": "ABC: The Lexicon of Love II review \u2013 old master revisits highs of heyday",
+  "webPublicationDate": "2016-05-26T21:00:13Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/26/abc-the-lexicon-of-love-ii-review-old-master-revisits-highs-of-heyday",
+  "keyword": [
+    {
+      "webTitle": "Pop and rock",
+      "id": "music/popandrock",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Dave Simpson",
+      "id": "profile/davesimpson"
+    }
+  ],
+  "guardianId": "music/2016/may/26/abc-the-lexicon-of-love-ii-review-old-master-revisits-highs-of-heyday"
+}

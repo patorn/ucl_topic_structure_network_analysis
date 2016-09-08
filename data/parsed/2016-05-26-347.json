@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/26/guided-missile-technology-being-used-by-australian-bowlers-in-preparation-for-ashes",
+  "id": "2016-05-26-347",
+  "sectionId": "sport",
+  "body": "Australia\u2019s fast bowlers will embark on their upcoming tour of Sri Lanka bolstered by technology more commonly used in military settings. Researchers have been able to develop a revolutionary algorithm using submarine and guided missile technology to reduce injuries and improve performance of the country\u2019s pacemen. The \u201ctorpedo technology\u201d is being used by the Australian team in preparations for the upcoming Sri Lanka tour and also its bid to reclaim the Ashes from England in 2017.   Related: Former Test player Alan Mullally convicted of fourth drink-driving offence    The algorithim was developed by sports scientists at Australian Catholic University\u2019s world-leading School of Exercise Science in response to the inadequacy of the current method of reporting of professional cricketers\u2019 workloads, which only takes into account the number of deliveries bowled and not the intensity and effort required to do so. Instead, the scientists have recommended in the British Journal of Sports Medicine that coaches use missile-guiding microtechnology implanted in newly-developed wearable devices, which would run the so-called \u201csmart algorithms\u201d. \u201cThe same technology is used to navigate submarines, guided missiles and spacecraft,\u201d co-author Dr Tim Gabbett said. Fellow sports scientist and researcher Dean McNamara said that once the algorithm detects a delivery, a measure of bowling intensity could be attached to that individual delivery using a \u201caccelerometer\u201d and gyroscope technology. \u201cTagging individual balls with an intensity measure provides both immediate analysis such as identifying effort balls, or potentially a drop in performance due to fatigue, or longer term workload analysis,\u201d McNamara said. \u201cMeasuring bowling intensity for individual balls or sessions provides context for the acute and chronic workload of the individual bowler, and ultimately the preparedness of the bowler for the maximal workload of the immediate competition.\u201d  The new technology aims to enhance the monitoring of Australia\u2019s fast bowlers not only for injury prevention, but also enhancing performance. The technology might also apply to baseball, rugby union, rugby league, tennis and AFL football. The researchers are already using the technologies to assist the Wales rugby union team in addition to Australian cricketers.",
+  "webTitle": "Guided missile technology being used by Australian bowlers in preparation for Ashes",
+  "webPublicationDate": "2016-05-26T00:46:45Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/26/guided-missile-technology-being-used-by-australian-bowlers-in-preparation-for-ashes",
+  "keyword": [
+    {
+      "webTitle": "Cricket",
+      "id": "sport/cricket",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Australia cricket team",
+      "id": "sport/australia-cricket-team",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Australia sport",
+      "id": "sport/australia-sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "sport/2016/may/26/guided-missile-technology-being-used-by-australian-bowlers-in-preparation-for-ashes"
+}

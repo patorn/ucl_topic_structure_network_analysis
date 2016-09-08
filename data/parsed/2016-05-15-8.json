@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/society/2016/may/16/dementia-myths-delaying-people-seeking-diagnosis-poll-alzheimers-society",
+  "id": "2016-05-15-8",
+  "sectionId": "society",
+  "body": "Many people would delay getting a diagnosis for potential dementia because they fear it would mean \u201clife is over\u201d, research by Alzheimer\u2019s Society suggests. A survey of more than 2,000 people found that six in 10 said they felt this way, while the same proportion believed it would mean no longer enjoying the things they used to. Separately, a poll of 1,000 GPs found that more than half (56%) had diagnosed someone with suspected dementia whose symptoms had been going on for at least seven months, while more than 10% said the symptoms had been going on for a year or more. Alzheimer\u2019s Society believes fears about a dementia diagnosis might put people off going to see a doctor, thereby denying patients the opportunity of getting the best treatment and support. Its chief executive, Jeremy Hughes, said: \u201cToo many people are in the dark about dementia \u2013 many feel that a dementia diagnosis means someone is immediately incapable of living a normal life, while myths and misunderstandings continue to contribute to the stigma and isolation that many people will feel.  \u201cWe know that dementia is the most feared health condition of our time and there\u2019s no question that it can have a profound and devastating impact on people, their family and friends \u2013 but getting a timely diagnosis will enable people with dementia to live as well as possible.\u201d     Alzheimer\u2019s Society believes fears about dementia might put people off going to see a doctor. Photograph: Alamy    About 225,000 will develop dementia this year in the UK, according to the charity. It said evidence shows that the earlier a person is diagnosed and accesses appropriate treatment, information and support, the better their chances of living well for longer.  But it said many myths still existed that might put people off from seeking a diagnosis. For example, a quarter of the 2,000 people polled thought that a dementia diagnosis would instantly mean having to stop going out for a walk on their own, while almost half thought they would have to stop driving a car immediately. Six in 10 thought they would personally struggle to join in conversations post-diagnosis and half worried that people would think they were \u201cmad\u201d. Alzheimer\u2019s Society released the research on Monday to coincide with the start of dementia awareness week. It is urging people who are diagnosed to contact the charity for help and support.  It estimates that there will be a million people with dementia in the UK by 2025, although research published last month suggests that the number of new cases in recent years has been fewer than previously predicted.",
+  "webTitle": "Dementia myths might be delaying people from getting treatment \u2013 poll",
+  "webPublicationDate": "2016-05-15T23:01:19Z",
+  "webUrl": "https://www.theguardian.com/society/2016/may/16/dementia-myths-delaying-people-seeking-diagnosis-poll-alzheimers-society",
+  "keyword": [
+    {
+      "webTitle": "Dementia",
+      "id": "society/dementia",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Mental health",
+      "id": "society/mental-health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Alzheimer's",
+      "id": "society/alzheimers",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Haroon Siddique",
+      "id": "profile/haroonsiddique"
+    }
+  ],
+  "guardianId": "society/2016/may/16/dementia-myths-delaying-people-seeking-diagnosis-poll-alzheimers-society"
+}

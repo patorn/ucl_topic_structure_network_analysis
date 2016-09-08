@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/21/tory-vote-mobile-online-polls-remain-ahead-leave",
+  "id": "2016-05-21-60",
+  "sectionId": "politics",
+  "body": "Opinium/ Observer poll   This has been the week when the polls \u2013 though not all of them \u2013 appeared to shift towards Remain. The scale of the move varied across the range of pollsters, but the big thing in all polling analysis is to look for the general direction of travel, paying particular attention to the fieldwork dates. The \u201cpoll of polls\u201d maintained by Professor John Curtice of Strathclyde University now has a 10% average lead for Remain after the undecided have been stripped out of the numbers for each survey. This has been helped by four new phone polls completed since last weekend, all of them with comfortable margins for Remain. The biggest, and the one that has had the most impact, was the margin of 18 points recorded in the London Evening Standard\u2019s Ipsos MORI poll. The Daily Telegraph ORB poll was not far behind on 15 points, the Guardian/ICM poll was at 8 points and ComRes for the Mail had 11 points \u2013 the latter being the only one where the gap was narrowing. One of the factors driving the change is that a number of pollsters are finding that more Conservative voters appear to be edging to support David Cameron\u2019s position rather than Boris Johnson\u2019s. Until last week, not many surveys had more Tory voters supporting Remain than Leave. A big question over all referendum polling is that the online polls have been showing a very different picture from those conducted by phone. This was highlighted in the Guardian/ICM poll when a separate test asking the same questions in the same manner online was completed at the same time. Instead of an 8-point Remain lead, the online survey had Leave leading by 4 points. Why this should be so is hard to say. It is argued on behalf of online polling that people feel able to give their true feelings when a live interviewer is not involved. Those supporting phone polls say that internet samples can be distorted because participants are more politically engaged.   Related: Tory EU referendum voters are switching to \u200b\u200bremain, says poll    The online/phone debate within the polling industry spilled out into a public Twitter spat after Peter Kellner, former president and one of the founders of the internet polling pioneers YouGov, went on record backing phone referendum polls. This drew a sharp response from Kellner\u2019s former colleague and now chief executive of YouGov, Stephan Shakespeare. YouGov also published details of its own split-mode test in support of its contention that phone poll samples include too many graduates \u2013 a segment that is markedly more pro-Remain. However, the gap between the two modes may be narrowing. The latest Observer online survey by Opinium has a Remain lead of 4 points, up from 1 point in late April. It is also the same margin as in last week\u2019s YouGov poll for the Times. Both these online pollsters, it might be noted, got the winning gap for Sadiq Khan in the London mayoral election exactly right. Referendums have a long history of shifting to the status quo the closer it gets to polling day. That happened in the 2011 alternative vote referendum; in the last vote on Britain\u2019s relationship with Europe, in 1975; and in the Scottish independence referendum in September 2014. The propensity of British voters not to support change has been seen, as well, in the 52 referendums in England on whether local authorities should switch to having an elected mayor. Only 16 have resulted in yes outcomes. Mike Smithson is a polling analyst and editor of PoliticalBetting.com",
+  "webTitle": "Polls show Tory voters are pushing Britain towards staying in EU",
+  "webPublicationDate": "2016-05-21T19:05:18Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/21/tory-vote-mobile-online-polls-remain-ahead-leave",
+  "keyword": [
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Conservatives",
+      "id": "politics/conservatives",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "David Cameron",
+      "id": "politics/davidcameron",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Boris Johnson",
+      "id": "politics/boris",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Mike Smithson",
+      "id": "profile/mike-smithson"
+    }
+  ],
+  "guardianId": "politics/2016/may/21/tory-vote-mobile-online-polls-remain-ahead-leave"
+}

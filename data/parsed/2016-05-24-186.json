@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/24/birmingham-childrens-services-run-trust-following-failures",
+  "id": "2016-05-24-186",
+  "sectionId": "uk-news",
+  "body": "Birmingham children\u2019s services department is to be taken out of council control, two years after an inspection found \u201cwidespread and serious failures\u201d that left children and young people at risk of harm. The department, which has been rated inadequate since 2008, is to be taken into a voluntary trust, which the council said would put social workers \u201cat its centre\u201d. In May 2014 Ofsted inspectors found that over a three-month period, the cases of 145 children were closed due to a lack of social workers.   Related: Failures that led to mother starving Khyra Ishaq to death 'beyond belief'    Failings by social workers and other child protection staff were also highlighted in a series of serious case reviews into the death of children, including Birmingham toddler Keanu Williams, a two-year-old boy who was beaten to death by his mother after months of horrific cruelty, and seven-year-old Khyra Ishaq, who was starved by her mother. In a statement on Tuesday the council said: \u201cAs part of Birmingham city council\u2019s improvement journey it is the intention to move to a new model of children\u2019s services \u2013 a voluntary trust. \u201cWe are now at the start of the third year of our agreed improvement journey plan and it is acknowledged by our children\u2019s services commissioner that expected progress has been made. Key to this has been putting families at the centre of social work. It is now the time to consider a model that has social workers at its centre.\u201d The move was welcomed by the Department for Education, which said that while Birmingham had improved, \u201cthis progress has not gone far enough, fast enough\u201d. A spokesman said: \u201cThe prime minister was clear that we cannot tolerate failure in children\u2019s services. That is why we are looking at the best next steps, including moving towards a voluntary trust.\u201d The details of exactly how the voluntary trust will operate have not yet been decided. Birmingham city council\u2019s cabinet has yet to formally approve the idea of transferring children\u2019s services.",
+  "webTitle": "Birmingham children's services to be run by trust following failures",
+  "webPublicationDate": "2016-05-24T11:58:34Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/24/birmingham-childrens-services-run-trust-following-failures",
+  "keyword": [
+    {
+      "webTitle": "Birmingham",
+      "id": "uk/birmingham",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Child protection",
+      "id": "society/childprotection",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Children",
+      "id": "society/children",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Social care",
+      "id": "society/social-care",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Local government",
+      "id": "society/localgovernment",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Helen Pidd",
+      "id": "profile/helenpidd"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/24/birmingham-childrens-services-run-trust-following-failures"
+}

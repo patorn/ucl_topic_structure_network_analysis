@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/04/google-deepmind-access-healthcare-data-patients",
+  "id": "2016-05-03-1",
+  "sectionId": "technology",
+  "body": "A company owned by Google has been given access to the healthcare data of up to 1.6 million patients from three hospitals run by a major London NHS trust. DeepMind, the tech giant\u2019s London-based company most famous for its innovative use of artificial intelligence, is being provided with the patient information as part of an agreement with the Royal Free NHS trust, which runs the Barnet, Chase Farm and Royal Free hospitals. It includes information about people who are HIV-positive as well as details of drug overdoses, abortions and patient data from the past five years, according to a report by the New Scientist. DeepMind announced in February that it was developing a software in partnership with NHS hospitals to alert staff to patients at risk of deterioration and death through kidney failure. The technology, which is run through a smartphone app, has the support of Lord Darzi, a surgeon and former health minister who is director of the Institute of Global Health Innovation at Imperial College London. However, the agreement on patient record sharing has caused concern among those who have already been concerned about Google\u2019s moves in the healthcare sector. A spokesperson for the Royal Free said patients would not be aware that data was being made available but it was encrypted and such an arrangement was standard practice.   Related: The superhero of artificial intelligence: can this genius keep it in check?    It said: \u201cOur arrangement with DeepMind is the standard NHS information-sharing agreement set out by NHS England\u2019s corporate information governance department and is the same as the other 1,500 agreements with third-party organisations that process NHS patient data. \u201cAs with all information sharing agreements with non-NHS organisations, patients can opt out of any data-sharing system by contacting the trust\u2019s data protection officer.\u201d Sam Smith, of the health data privacy group MedConfidential, told the New Scientist: \u201cThis is not just about kidney function. They\u2019re getting the full data.  \u201cWhat DeepMind is trying to do is build a generic algorithm that can do this for anything \u2013 anything you can do a test for. The big question is why they want it. This is a very rich data set. If you are someone who went to the A&E department, why is your data in this?\u201d Dominic King, a senior scientist at Google DeepMind, told the BBC that access to timely and relevant clinical data was essential for doctors and nurses. \u201cThis work focuses on acute kidney injuries that contribute to 40,000 deaths a year in the UK, many of which are preventable,\u201d he said. \u201cThe kidney specialists who have led this work are confident that the alerts our system generates will transform outcomes for their patients. For us to generate these alerts it is necessary for us to look at a range of tests taken at different time intervals.\u201d",
+  "webTitle": "Google given access to healthcare data of up to 1.6 million patients",
+  "webPublicationDate": "2016-05-03T23:34:03Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/04/google-deepmind-access-healthcare-data-patients",
+  "keyword": [
+    {
+      "webTitle": "Google",
+      "id": "technology/google",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "NHS",
+      "id": "society/nhs",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Data protection",
+      "id": "technology/data-protection",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Alphabet",
+      "id": "technology/alphabet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ben Quinn",
+      "id": "profile/benquinn"
+    }
+  ],
+  "guardianId": "technology/2016/may/04/google-deepmind-access-healthcare-data-patients"
+}

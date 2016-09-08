@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/12/bt-sport-champions-league-final-free-to-air-europa",
+  "id": "2016-05-12-272",
+  "sectionId": "media",
+  "body": "BT Sport is to show the Champions League final and Europa League final free-to-air in the wake of criticism for low viewing figures for their European coverage. The games will be available on Freeview channel 59, on BT.com, on BTSport.com or via the BT Sport YouTube channel (youtube.com/btsportofficial).   Related: Antoine Griezmann fires Atl\u00e9tico Madrid into final at Bayern\u2019s expense    The Champions League final on 28 May will be contested by Real Madrid and Atl\u00e9tico Madrid at Milan\u2019s San Siro stadium with Diego Simeone\u2019s side looking to avenge their 2014 defeat to their city rivals. Liverpool face Sevilla in an attempt to secure Champions League qualification with the Spaniards seeking a hat-trick of Europa League crowns in Basel. BT scored a major coup in 2013 when it saw off Sky to agree a \u00a3900m deal for exclusive live rights to European football\u2019s blue-riband club competition from 2015-16. In the deal BT agreed to pay Uefa \u00a3299m a season for three years for all 350 live matches in the Champions League and its sister tournament, the Europa League. John Petter, chief executive of BT Consumer, said: \u201cWe\u2019ve always said we wanted to give top-quality sport back to the people and making the Uefa Champions League and Europa League finals free to everyone in the UK does this in a big way. \u201cWe\u2019re also bringing BT Sport to a new generation of younger sports fans who view their entertainment online, through social media and on their mobile devices. \u201cWe plan to make these finals the most social sports broadcast ever, with lots of exciting content in the buildup and on the night across YouTube, Snapchat, Facebook, Instagram, Twitter and Vine.\u201d",
+  "webTitle": "BT Sport to show Champions League and Europa League finals free-to-air",
+  "webPublicationDate": "2016-05-12T10:37:09Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/12/bt-sport-champions-league-final-free-to-air-europa",
+  "keyword": [
+    {
+      "webTitle": "BT Sport",
+      "id": "media/bt-sport",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Champions League",
+      "id": "football/championsleague",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Europa League",
+      "id": "football/uefa-europa-league",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Real Madrid",
+      "id": "football/realmadrid",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Atl\u00e9tico Madrid",
+      "id": "football/atleticomadrid",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "media/2016/may/12/bt-sport-champions-league-final-free-to-air-europa"
+}

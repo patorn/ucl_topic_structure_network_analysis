@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/money/2016/may/21/ticket-touts-powerful-software-assist-widely-available",
+  "id": "2016-05-21-59",
+  "sectionId": "money",
+  "body": "Software that helps touts bypass the security systems of major ticketing companies and scoop up tickets at the expense of fans is easily available online \u2013 and even comes with YouTube videos to explain how to use it. Scrutiny of ticketing firms and touts has reached fever pitch ahead of a government-backed report into the industry due to be published this week. But efforts to clean up the market are being undermined by firms selling custom-made software designed to help touts get the tickets they want. One site, ticketbots.net, sells automated programs called \u201cbots\u201d that can search for and buy tickets from primary sites, such as Ticketmaster, as soon as they go on sale. The website, registered in Panama, did not return emailed requests for comment. But when the Observer posed as a customer, staff at the website wrote back within a few hours offering a \u201cbulk discount\u201d. The company also boasted that it could bypass the Captcha security system used by sites such as Ticketmaster. Captcha is a way of testing whether someone trying to buy a ticket is a human or a bot, for example by showing the user a gallery of pictures and asking them to place a tick next to all of those that depict, say, trees. But an employee of ticketbots.net said its bots were able to defeat this security protocol by enlisting real people to tick the right boxes. \u201cOur softwares already bypasses these picture Captchas using 3rd party CAPTCHA bypassing companies, who types the Captchas for you,\u201d ticketbots.net wrote in an email. The website also offers a vast array of other tools designed to boost the amount of tickets that touts are able to scoop up. One product description boasts: \u201cIn short, the bot grabs hundreds of tickets for multiple event simultaneously and let you choose cream tickets from them to buy with just a single click.\u201d Ticketbots.net even demonstrates how to use one of its bots in a YouTube video that shows how to get multiple tickets for comedian Kevin Hart at Wembley Arena. And the website offers \u201cPDF copiers\u201d, which can be used to copy the unique barcode on a ticket to produce counterfeit copies. According to ticketing expert Reg Walker, fraudsters can even copy the barcode from pictures that fans post on social media sites such as Facebook and Twitter. \u201cDo not post pictures of your tickets on social media,\u201d said Walker. \u201cSomeone will make a copy and when you go to the gig, you won\u2019t be able to get in if they got there first.\u201d   Related: How the ticket touts get away with bleeding fans dry    More than \u00a35m was lost to ticket fraud in 2015, up 55% on the previous year, according to figures released this weekend by the Local Government Association. Other products on offer on ticketbots.net include \u201cspinners\u201d, which automatically flip purchased tickets on to secondary websites, where they can be sold at a large mark-up. Buyers can also pay for \u201cdrop checkers\u201d, which automatically monitor ticketing sites for new events and pick up tickets automatically based on the users\u2019 preferences. Walker said that while the use of bots was not that common among UK touts, his ticket security firm, The Iridium Consultancy, had seen an increase in attacks from overseas. Michael Waterson, an economics professor from the University of Warwick, is due to publish his recommendations on measures to improve the ticketing industry at the end of this week.",
+  "webTitle": "Powerful software to assist ticket touts widely available online",
+  "webPublicationDate": "2016-05-21T19:06:45Z",
+  "webUrl": "https://www.theguardian.com/money/2016/may/21/ticket-touts-powerful-software-assist-widely-available",
+  "keyword": [
+    {
+      "webTitle": "Ticket prices",
+      "id": "money/ticket-prices",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Consumer affairs",
+      "id": "money/consumer-affairs",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "E-commerce",
+      "id": "technology/efinance",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Internet",
+      "id": "technology/internet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Rob Davies",
+      "id": "profile/rob-davies"
+    }
+  ],
+  "guardianId": "money/2016/may/21/ticket-touts-powerful-software-assist-widely-available"
+}

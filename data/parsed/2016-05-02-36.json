@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/02/blocking-highs-and-jet-stream-kinks",
+  "id": "2016-05-02-36",
+  "sectionId": "environment",
+  "body": "New studies suggest that the weather in far off Greenland, one of the fastest warming parts of the Earth, is affecting the rainfall patterns in Britain. This is linked to the extremely wet summers of 2007 and 2012. Sheffield University, checking data back to 1851, found that since the 1980s there has been an increase in the number of summer high pressure blocking systems that become anchored over this vast island ice sheet. The result has been to drag warm air over Greenland causing melting on a much-increased scale.   Related: Greenland sees record-smashing early ice sheet melt    This is bad news for sea level rise everywhere, but additionally for Britain, because it prevents storm systems from moving over Greenland and diverts them south across the Atlantic and across the UK. The warmer air carries more moisture, released when clouds rise over the land. Blocking highs also occur in December, which has a similarly destabilising effect on the climate. This happened this winter, moving warm air northwards over the Arctic, preventing sea ice forming as extensively as normal. Over time, this leads to less sea ice overall, speeding up Arctic warming. It is the temperature difference between the Arctic regions and the temperate Atlantic that drives the jet stream and brings constantly changing conditions to Britain. This wonderful variety of weather that has provided the nation with an ideal opening to any chitchat with strangers, and that does not appear likely to change any time soon.  But just for now, it might be wise to leave blocking highs over Greenland and kinks in the jet stream out of the conversation until you know people better.",
+  "webTitle": "Blocking highs and jet stream kinks",
+  "webPublicationDate": "2016-05-02T20:30:34Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/02/blocking-highs-and-jet-stream-kinks",
+  "keyword": [
+    {
+      "webTitle": "Climate change",
+      "id": "environment/climate-change",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Greenland",
+      "id": "world/greenland",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Arctic",
+      "id": "world/arctic",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Weather",
+      "id": "uk/weather",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Paul Brown",
+      "id": "profile/paulbrown"
+    }
+  ],
+  "guardianId": "environment/2016/may/02/blocking-highs-and-jet-stream-kinks"
+}

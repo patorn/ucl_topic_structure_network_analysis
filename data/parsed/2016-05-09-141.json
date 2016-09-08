@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/09/sky-news-john-mcandrew-director-of-content-to-leave",
+  "id": "2016-05-09-141",
+  "sectionId": "media",
+  "body": "Sky News director of content, John McAndrew, news chief John Ryley\u2019s right-hand man, is to leave the broadcaster after more than a decade. McAndrew is officially number three at Sky News, reporting to Ryley and Graham McWilliam, Sky\u2019s former corporate affairs director, who was named deputy head of Sky News last July.   Related: Peta Credlin joins Sky News as 2016 election campaign commentator    McAndrew, who left his role as editor of the BBC\u2019s Daily Politics to join Sky News in 2005, said he had been contemplating leaving the company following coverage of last year\u2019s general election. \u201cElections have always been significant markers in my career and I had a strong sense that it was a good time to make a change,\u201d said McAndrew, in an internal email to staff. He said he told Ryley of his intention to leave in the typical end-of-year chat between the two in December. He said Ryley had asked him to stay on to launch Sky News\u2019s Question Time rival, The Pledge, which debuted last month and to help oversee Sky News\u2019s coverage of the EU referendum in June. \u201cI have now had 11 incredibly rewarding years at Sky News and achieved things both on- and off-air that I am immensely proud of,\u201d said McAndrew. \u201cBut, like us all, I have ambitions, obligations and interests away from here that require more attention than I have been able to provide over the last few years. I am not planning to disappear from our industry, just take a bit of a break before embarking on something new.\u201d McAndrew said a full-time editor would soon be appointed to manage The Pledge.",
+  "webTitle": "Sky News top executive John McAndrew to leave after 11 years",
+  "webPublicationDate": "2016-05-09T14:53:32Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/09/sky-news-john-mcandrew-director-of-content-to-leave",
+  "keyword": [
+    {
+      "webTitle": "Sky News",
+      "id": "media/sky-news",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Sky plc",
+      "id": "media/bskyb",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "TV news",
+      "id": "media/tvnews",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Television industry",
+      "id": "media/television",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Mark Sweney",
+      "id": "profile/marksweney"
+    }
+  ],
+  "guardianId": "media/2016/may/09/sky-news-john-mcandrew-director-of-content-to-leave"
+}

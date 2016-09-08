@@ -1,0 +1,52 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/27/bbc-john-simpson-consultancy-website",
+  "id": "2016-05-27-115",
+  "sectionId": "media",
+  "body": "BBC world affairs editor John Simpson has scrapped plans to run a corporate consultancy business after the corporation said it would breach editorial guidelines. On Friday, Mail Online reported that Simpson\u2019s personal website was advertising the services of consultancy Simpson Associates, which promised to use the journalist\u2019s \u201cextensive network\u201d of contacts to \u201crespond seamlessly to our clients\u2019 needs\u201d. The article quoted an unnamed BBC journalist describing the work as an \u201cappalling breach of editorial policy guidelines\u201d. Simpson did not deny the existence of the website, but said he had not seen or approved its content, which he said had been made public in error.   Related: Newsnight deputy editor Neil Breakwell to join Vice News    Simpson said: \u201cThe supposed facts in the Mail\u2019s article are ludicrously inaccurate. I didn\u2019t write or see the entries on my website, which was a work in progress, and wasn\u2019t meant to go public. The idea that I am earning \u00a3800,000 a year is a wild fantasy.  \u201cTwo years ago I was given a new agreement which restricted me to 125 days a year with a commensurately deep cut in salary. I was given permission to work for any other organisation as long as it didn\u2019t contravene the BBC\u2019s guidelines, and I received an assurance that I could work for as long as I wanted. Throughout my long career I\u2019ve never once transgressed the BBC\u2019s guidelines.\u201d  Though the consultancy service outlined on the site were not necessarily representative of Simpson\u2019s plans, the BBC said he had agreed not to go ahead with the business.  A spokeswoman said: \u201cThis would have been considered commercial work that is not compatible with BBC editorial guidelines or John\u2019s role at the BBC as such John agrees he won\u2019t be taking these activities forward.\u201d The site, which advertised services in areas such as media relations and crisis management, was taken offline on Friday. Caches of the page show it was publicly available as long ago as 18 April. Simpson\u2019s Twitter account also retweeted a link to the site on Thursday with the comment \u201cI like my shiny new website\u201d, but the account is thought to be managed by someone else on behalf of Simpson. Simpson\u2019s agent and sister in law Gina Nelthorpe-Cowne claimed the description of Simpson Associates was written by an independent developer. She did not respond to questions about why the site had been up so long without Simpson\u2019s approval. Describing the services that were available from Simpson Associates, the site said: \u201cFor over 50 years John Simpson has been at the heart of breaking news all over the world. During that time he has built up an enviable network of international experts in the world of finance, commerce, risk management and assessment, communications and even couvert operations.\u201d \u201cThis exclusive international resource enables Simpson Associates to respond seamlessly to our clients\u2019 needs, wherever they are in the world.\u201d The site also boasted of \u201ca core network of crisis experts at our disposal\u201d and \u201ca global team of expert advisers that include former senior editors and correspondents\u201d. It continued: \u201cWe engage in strategic media outreach to assist clients in reaching their business goals: from broadening awareness, to positioning for a strategic shift, or laying the groundwork for corporate activity.\u201d",
+  "webTitle": "John Simpson scraps consultancy plans after BBC says they break rules",
+  "webPublicationDate": "2016-05-27T14:45:25Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/27/bbc-john-simpson-consultancy-website",
+  "keyword": [
+    {
+      "webTitle": "BBC",
+      "id": "media/bbc",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "TV news",
+      "id": "media/tvnews",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Television industry",
+      "id": "media/television",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jasper Jackson",
+      "id": "profile/jasper-jackson"
+    },
+    {
+      "webTitle": "Mark Sweney",
+      "id": "profile/marksweney"
+    }
+  ],
+  "guardianId": "media/2016/may/27/bbc-john-simpson-consultancy-website"
+}

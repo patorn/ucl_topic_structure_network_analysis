@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/02/adam-voges-middlesex-concussion-rose-bowl-hampshire-cricket",
+  "id": "2016-05-02-185",
+  "sectionId": "sport",
+  "body": "The Middlesex captain, Adam Voges, who suffered a suspected concussion at the Rose Bowl after being hit on the head by a throw while fielding against Hampshire, is to meet up with his team-mates on Monday after being released from hospital.     Middlesex tweet.   Middlesex tweeted: \u201cAdam saw the doctor yesterday who discharged him from hospital. He is feeling better today but still has a headache.       \u201cAdam will come over to see the rest of the team later today and we will continue to monitor him over the next few days.\u201d Voges was helped from the field by both physios and is to take no further part in the match. He was struck on the back of the head by a ball thrown by the substitute fielder Ollie Rayner and missed by the wicketkeeper, John Simpson. The Australian batsman fell straight to the floor before being taken to hospital. The Middlesex managing director of cricket Angus Fraser said: \u201cIt\u2019s a freak injury, as such, but when you see a cricket ball thrown around the field as much as you do, you wonder why it doesn\u2019t happen more often. They\u2019re hard things, cricket balls, and you\u2019re not always watching.\u201d Voges was felled by the blow, got to his feet again very slowly and was still disorientated afterwards. Fraser said: \u201cHe wasn\u2019t feeling very well in the dressing room. So we said \u2018let\u2019s get him to hospital to be checked over\u2019. \u201cHe wants to stay down here and be part of what\u2019s taking place, even though he can\u2019t do anything on the field.\u201d",
+  "webTitle": "Adam Voges back with Middlesex after concussion tests in hospital",
+  "webPublicationDate": "2016-05-02T10:07:00Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/02/adam-voges-middlesex-concussion-rose-bowl-hampshire-cricket",
+  "keyword": [
+    {
+      "webTitle": "Middlesex",
+      "id": "sport/middlesex",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Australia sport",
+      "id": "sport/australia-sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Cricket",
+      "id": "sport/cricket",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "sport/2016/may/02/adam-voges-middlesex-concussion-rose-bowl-hampshire-cricket"
+}

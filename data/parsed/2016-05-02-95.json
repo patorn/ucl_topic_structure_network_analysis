@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/society/2016/may/02/nhs-health-check-over-40s-marginal-benefits-study",
+  "id": "2016-05-02-95",
+  "sectionId": "society",
+  "body": "The NHS health check offered to everyone from the age of 40 is having little impact, according to research, preventing few heart attacks or strokes and failing to cut the numbers of people who smoke. The \u201chealth MOT\u201d offered every five years to people between 40 and 74 is intended to spot those at risk of cardiovascular disease and help them improve their lifestyle or get medication to keep them healthy. But a major study by Imperial College London, funded by the Department of Health, found that the scheme offers only marginal benefit for the estimated \u00a3165m it costs in payments to GPs for carrying out the checks. Researchers found that the programme succeeds in preventing just one heart attack or stroke for every 4,762 people who go for a check-up. GPs give them a cardiovascular risk score based on their blood pressure, body mass index (BMI), cholesterol, age, gender and other factors. Those at raised risk may be advised on their lifestyle, including diet and exercise and drinking habits or may be prescribed drugs such as statins to lower their cholesterol levels. Kiara Chang, lead author of the research from the School of Public Health at Imperial, said the findings question the initiative\u2019s effectiveness. \u201cCardiovascular disease is the leading cause of death across the world \u2013 and so we urgently need effective initiatives to tackle the condition. However, these findings suggest the NHS health check scheme offers very modest benefits,\u201d she said. Among a representative sample of 138,788 people who went for a health check between 2009 and 2013, the 10-year risk of cardiovascular disease was reduced by 0.21%, the study found. There were small decreases in blood pressure, cholesterol levels and BMI. Only 21% of people eligible for a health check went along at all, the study found. Statins were prescribed to 40% of people considered to be at high risk of cardiovascular disease. This suggests the programme does not meet national targets, said Chang. \u201cNot only are very few people attending the appointments, but the results suggest that among those who do undergo the check, the number of high-risk patients placed on statins is below national guidelines. The Nice [National Institute for Health and Care Excellence] guidance suggests all people deemed at high risk of cardiovascular disease should be considered for statins, and the Department of Health suggests 85% uptake of statins is required for the NHS health check programme to be cost-effective.\u201d Prof Azeem Majeed, principal investigator on the study which was published in the Canadian Medical Journal \u2013 there has been interest in Canada in starting a similar programme \u2013 said that further work was needed to establish why the benefits were so slim, as well as evaluating the most recent data from the scheme. The team also hoped to see whether certain sectors of the population would benefit from the checks more greatly than others. Majeed added: \u201cFor the NHS health check scheme to be effective, it needs to be better planned and implemented \u2013 our work will help highlight how this can be done. In future we plan to evaluate whether particular groups \u2013 for instance older patients \u2013 have greater health benefits from the check than younger patients. It would also be interesting to investigate the reasons why the health check produced such modest benefits. For instance, to evaluate the advice patients are given during the health check.\u201d The programme has been criticised before. In 2013, the Royal College of GPs said the checks were a waste of money and in 2012, research from the respected Cochrane group found they did not reduce deaths. However, a study by Queen Mary University this year said at least 2,500 people would have avoided a heart attack or stroke in the first five years of the programme.  Jamie Waterall, national lead for the health check at Public Health England, said: \u201cIt is important that we review all emerging evidence for this programme. PHE has an established expert group which will look at the findings of this study.  \u201cThe largest national evaluation of the programme shows that the NHS health check could have prevented 2,500 heart attacks and strokes in its first five years due to clinical treatments following the check. We know that more people could benefit from the check and we are working with local teams to deliver the best possible service.\u201d The British Heart Foundation took the view that even small improvements in the nation\u2019s health were better than nothing. \u201cThis important study suggests that the NHS health check programme is delivering some modest health gains in reducing people\u2019s risk of cardiovascular disease, which accounts for about a quarter of all deaths in the UK,\u201d said Dr Mike Knapton, associate medical director. \u201cHowever, we need to do more to improve the numbers of patients attending these health checks. We also need to ensure that all patients are given the best advice and treatment in the management of conditions such as high blood pressure and cholesterol if we are to significantly reduce the burden of preventable diseases.\u201d",
+  "webTitle": "NHS health check for over-40s has marginal benefits, says study",
+  "webPublicationDate": "2016-05-02T16:00:29Z",
+  "webUrl": "https://www.theguardian.com/society/2016/may/02/nhs-health-check-over-40s-marginal-benefits-study",
+  "keyword": [
+    {
+      "webTitle": "NHS",
+      "id": "society/nhs",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Health policy",
+      "id": "politics/health",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Public services policy",
+      "id": "society/policy",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Sarah Boseley",
+      "id": "profile/sarahboseley"
+    }
+  ],
+  "guardianId": "society/2016/may/02/nhs-health-check-over-40s-marginal-benefits-study"
+}

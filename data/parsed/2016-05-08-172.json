@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/books/2016/may/08/what-is-yours-is-not-yours-helen-oyeyemi-short-stories-review",
+  "id": "2016-05-08-172",
+  "sectionId": "books",
+  "body": "The stories in this enchanting new collection from Helen Oyeyemi, one of Granta\u2019s best young British novelists of 2013, are linked by recurring characters and themes. From Cambridge to Prague, through secret societies and gardens, an exclusive spa where dieters sleep themselves thin and a hotel no one ever checks out of, the breadth of Oyeyemi\u2019s imagination is impressive, teetering, as ever, on the edge of magical realism. Her use of fairytales, folklore and ghost stories is distinctly reminiscent of the work of Angela Carter, but the writer\u2019s messages here can be somewhat harder to decipher. Apt, then, that images of locks and keys \u2013 both actual and metaphorical \u2013 are threaded through each of the tales, reminding us that there\u2019s always more than meets the eye. Admittedly, some cast a less powerful spell than others, but as a rule any impenetrability is counterbalanced by inviting, luscious prose. What Is Yours Is Not Yours is published by Picador (\u00a314.99). Click here to order it for \u00a311.99",
+  "webTitle": "What Is Yours Is Not Yours review \u2013 spellbinding stories",
+  "webPublicationDate": "2016-05-08T07:00:00Z",
+  "webUrl": "https://www.theguardian.com/books/2016/may/08/what-is-yours-is-not-yours-helen-oyeyemi-short-stories-review",
+  "keyword": [
+    {
+      "webTitle": "Helen Oyeyemi",
+      "id": "books/helen-oyeyemi",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Short stories",
+      "id": "books/short-stories",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Fiction",
+      "id": "books/fiction",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Books",
+      "id": "books/books",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Lucy Scholes",
+      "id": "profile/lucy-scholes"
+    }
+  ],
+  "guardianId": "books/2016/may/08/what-is-yours-is-not-yours-helen-oyeyemi-short-stories-review"
+}

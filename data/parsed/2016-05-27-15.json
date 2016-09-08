@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/27/bayern-munich-robert-lewandowski-real-madrid-talks",
+  "id": "2016-05-27-15",
+  "sectionId": "football",
+  "body": "Robert Lewandowski\u2019s agent has revealed that the Bayern Munich striker has held talks with Real Madrid and could be interested in leaving the German champions this summer. The Poland international, who scored 30 league goals as Bayern claimed their fourth successive Bundesliga title, has been the subject of transfer speculation since failing to agree an extension to his contract in April. That is due to expire in 2019 and now his agent, Cezary Kucharski, has confirmed the Champions League finalists have made contact to discuss a potential move.   Related: Real Madrid\u2019s Gareth Bale: \u2018I\u2019ve improved, I have more variety\u2019    \u201cReal Madrid contacted us a few weeks ago, we listened to everything they said. It\u2019s a big and exciting club,\u201d Kucharski told the German news magazine Spiegel. \u201cWe have informed FC Bayern that we\u2019ve held talks with Madrid.\u201d Lewandowski, who is preparing for Poland\u2019s friendly games next week against Holland and Lithuania, added: \u201cContracts are not a holy relic in football. You can like this attitude or not but it\u2019s the truth. Sometimes you have to think about if it is meaningful to try out a new impulse.\u201d But with three years remaining on his current deal, any offer to prise Lewandowski away from Bayern will probably have to be in excess of \u00a350m, with reports in Germany suggesting that Real could propose a six-year-contract worth up to \u20ac25m (\u00a319m) a year.",
+  "webTitle": "Bayern Munich\u2019s Robert Lewandowski has held talks with Real Madrid",
+  "webPublicationDate": "2016-05-27T21:43:35Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/27/bayern-munich-robert-lewandowski-real-madrid-talks",
+  "keyword": [
+    {
+      "webTitle": "Bayern Munich",
+      "id": "football/bayernmunich",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Real Madrid",
+      "id": "football/realmadrid",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Transfer window",
+      "id": "football/transfer-window",
+      "sectionId": "football",
+      "sectionName": "Football"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ed Aarons",
+      "id": "profile/ed-aarons"
+    }
+  ],
+  "guardianId": "football/2016/may/27/bayern-munich-robert-lewandowski-real-madrid-talks"
+}

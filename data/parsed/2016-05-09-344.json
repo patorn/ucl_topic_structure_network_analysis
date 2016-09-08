@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/society/2016/may/09/nhs-mental-health-funding-is-still-lagging-behind-says-report",
+  "id": "2016-05-09-344",
+  "sectionId": "society",
+  "body": "Government pledges to put more money into mental health are being broken because the NHS is not passing the money on to the NHS trusts that treat patients, a new report has revealed. Care for people who need psychological help will suffer unless a chasm is bridged between ministerial promises and cash reaching the frontline, campaigners warn. The disparity also threatens to undermine the historic change in 2012 that compelled the NHS in England to give physical and mental health equal priority or \u201cparity of esteem\u201d. Although mental ill-health accounts for 28% of the total burden of disease, it gets just 13% of the NHS\u2019s budget. New research undertaken by NHS Providers and the Healthcare Financial Management Association, revealed on Monday, found that only half of the 32 mental health trusts they spoke to \u2013 55% of the total \u2013 had received a real-terms increase in their budgets in 2015-16. And only 25% said they expected NHS clinical commissioning groups (CCGs) to increase the value of their contracts for 2016-17, even though the 209 CCGs have seen an average 3.4% rise in their budgets this year.   Related: Mental health champion for UK schools axed after criticising government    Saffron Cordery, director of policy at NHS Providers, which represents hospital trusts, said: \u201cMental health services in this country have suffered from decades of underinvestment, with people experiencing mental health problems often getting worse care than those with physical problems. Despite pledges from the government to address this, our survey shows that promised funding simply isn\u2019t getting through to local mental health services.\u201d Since 2014, the government has announced an extra \u00a3600m for mental health and \u00a31.25bn from 2015 to 2020 for children and young people\u2019s mental health services, and another \u00a31bn in the taskforce report that was published in February. However, there are concerns that some of the monies involved will be double-counted.  \u201cThis report confirms that this Tory government has failed to deliver its pledge of increased funding for mental health services,\u201d said Luciana Berger, the shadow minister for mental health. \u201cAt a time of rising demand, staffing shortages and reports of widespread inadequate care, it is utterly appalling that half of mental health services did not receive the increase in their budgets they were promised.\u201d The research found widespread confusion among commissioners and providers of mental health care as to what services were covered by \u201cparity of esteem\u201d and how much money needed to be spent. In addition, 90% of trusts and 60% of CCGs did not think the extra \u00a31bn for mental health by 2020-21 recommended by NHS England\u2019s recent taskforce would be enough, especially given planned improvements, such as more prevention, better seven-day access to care for those experiencing a mental health crisis and expanded access to \u201ctalking therapies\u201d. \u201cThere seems to be a chasm between policy commitments made by government and the reality of what is happening on the frontline. Mental health trusts are facing more demand and pressure on their services, with the promised money not filtering through to them,\u201d said Cordery. \u201cWithout this, it is impossible for them to provide high-quality care and support for some of the most vulnerable people in our society.\u201d While trusts back the government\u2019s aim of reducing the disparity between mental and physical health, \u201cit is clear that we have a long way to go before this becomes reality\u201d, she said. The Cavendish Square Group, which represents the chief executives of London\u2019s 10 mental health providers, said that the proportion of CCGs\u2019 budgets that went to their trusts went down from 12% in 2014-15 to 11% in 2015-16, despite the pledges of extra spending. \u201cPoliticians cannot claim to be making parity a priority if they are not holding funders to account on investment in mental health services. They must step up and press on with a political will to get the promised funds \u2013 and more \u2013 to the frontlines. Parity of esteem is simple to advocate but challenging to achieve when funds do not match ambition,\u201d the group. Paul Farmer, the chief executive of the charity Mind, who chaired the recent NHS taskforce, said the report laid bare how mental health funding within the NHS had been surrounded by longstanding \u201cconfusion \u2026 with many questions over whether pots of money announced over recent years have reached frontline services\u201d. He added: \u201cThis year, we have been promised investment in services for children and young people, people experiencing psychosis for the first time, and pregnant women and new mums. This is the moment of truth for mental health services. It is time for the plans to become reality and result in real improvements to services.\u201d Mental health services will not improve unless the NHS and Department of Health were more transparent about funding and trusts received promised resources, Farmer warned. From this summer CCGs\u2019 spending on mental health will be one of the key indicators on a new \u201cscorecard\u201d designed to measure their performance. Alistair Burt, the community and social care minister at the Department of Health, told parliament in March that the government was still committed to achieving parity of esteem between mental and physical health.",
+  "webTitle": "NHS mental health funding is still lagging behind, says report",
+  "webPublicationDate": "2016-05-09T05:00:05Z",
+  "webUrl": "https://www.theguardian.com/society/2016/may/09/nhs-mental-health-funding-is-still-lagging-behind-says-report",
+  "keyword": [
+    {
+      "webTitle": "Mental health",
+      "id": "society/mental-health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "NHS",
+      "id": "society/nhs",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Health policy",
+      "id": "politics/health",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Public services policy",
+      "id": "society/policy",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Denis Campbell",
+      "id": "profile/deniscampbell"
+    }
+  ],
+  "guardianId": "society/2016/may/09/nhs-mental-health-funding-is-still-lagging-behind-says-report"
+}

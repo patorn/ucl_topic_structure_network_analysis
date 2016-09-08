@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/science/2016/may/03/gravitational-wave-scientists-win-2m-special-breakthrough-prize",
+  "id": "2016-05-03-239",
+  "sectionId": "science",
+  "body": "Mere months after they declared the discovery of gravitational waves, more than 1,000 physicists have been handed good reason to put their party hats back on and return to the champagne. The February observation of ripples in the fabric of spacetime, first postulated by Albert Einstein a century ago, has landed the researchers $3m (\u00a32.04m) in the shape of a prize backed by Silicon Valley entrepreneurs. Announced on Tuesday, the Special Breakthrough Prize in Fundamental Physics will be shared among the founders of the Laser Interferometer Gravitational-Wave Observatory (LIGO) group, Kip Thorne, Rainer Weiss, and Ronald Drever, and scores of physicists and engineers on the team. The three founders will divide $1m between them, with the remaining $2m (\u00a31.35m) shared equally among the 1,012 other researchers and engineers on the LIGO team, each of whom receives about $2000 (\u00a31350). The prizes will be awarded at a formal ceremony later this year. Thorne, professor of theoretical physics at California Institute of Technology, said it was a \u201cgreat pleasure\u201d to share the prize with the LIGO team, and spoke of his profound gratitude to the team \u201cfor pulling off this discovery so successfully.\u201d \u201cGravitational waves are a whole new way to explore the universe,\u201d he said. \u201cThey are the ideal tool for probing phenomena in which gravity is ultra strong, and space and time are strongly warped, such as colliding black holes and the universe\u2019s big bang birth.     LIGO co-founders Rainer Weiss, left, and Kip Thorne, right, hug on stage during a news conference to announce the detection of gravitational waves. Photograph: Andrew Harnik/AP    \u201cIt is likely, for example, that a great richness of weird phenomena occurred in the first fraction of a second after the universe was born. Gravitational waves are likely to reveal the details. For centuries into the future, gravitational waves will be used, hand in hand with electromagnetic waves, to explore the universe,\u201d he added. The LIGO team\u2019s observation of gravitational waves brought a 50-year search to a spectacular conclusion. Using twin instruments sensitive enough to detect distortions in spacetime as small as one thousandth the diameter of an atomic nucleus, they recorded the gravitational shudders released when two black holes spiralled ever closer together and ultimately collided in a violent merger.  Ed Witten, who chaired the prize selection committee, said: \u201cThings that seemed like science fiction when I was a graduate student are now real as a result of the LIGO observation of gravitational waves. Now that we are able to observe gravitational waves, there is no telling what we will find. It may be that the skies are full of \u201ccosmic strings\u201d that we can only observe because of their gravitational signal.\u201d Witten, a professor of mathematical physics at the Institute for Advanced Study in Princeton, has been described as a natural heir to Einstein, who lived out his years at the institute. Stephen Hawking, who won the Special Breakthrough Prize in 2013, said, \u201cThis discovery has huge significance: firstly, as evidence for general relativity and its predictions of black hole interactions, and secondly as the beginning of a new astronomy that will reveal the universe through a different medium.\u201d  The cash is the latest to be handed out by the Breakthrough Prize Foundation, an organisation backed by Silicon Valley entrepreneurs, including the Russian internet billionaire, Yuri Milner, Facebook\u2019s Mark Zuckerberg and Anne Wojcicki, the co-founder of 23andme. The foundation has handed out more than $160m to scientists since the prizes were established in 2012. The intention, Milner has said, is to raise the public profile of scientists, and turn them into the nerdy equivalent of rock stars. \u201cI am extremely pleased that the organisers of the Breakthrough prize have decided to honour the entire team of people that made the discovery,\u201d said Rainer Weiss at MIT. The doling out of prizes to scientists has been criticised by some researchers who feel the money could be better spent, but Weiss said the prizes could help convey complex science to the public. \u201cIf they are associated with a proper and easy-to-understand explanation of the science, they serve a wonderful purpose to bring everyone into the action,\u201d he said. That should not be understated, said Thorne. \u201cTheir greatest value, I think, is to raise public awareness of science and its remarkable achievements. And that is very important. Science is a crucial tool for the future of humanity and for solving today\u2019s societal problems; but science cannot achieve its potential unless the public understands and appreciates it. Prizes like this are an important part of that,\u201d he said. Neither Thorne nor Weiss shared their plans for spending the money. Ronald Drever, a Scottish scientist who co-founded LIGO, was said to be too ill with dementia to celebrate the discovery of gravitational waves with his colleagues. Last month, Milner and Stephen Hawking launched the Breakthrough Starshot, an ambitious space project that aims to solve the technological problems that stand in the way of hurling a tiny, lightweight probe to our nearest star, Alpha Centauri, 25 trillion miles away. \u201cI really hope that the Breakthrough Starshot idea will prove to be practical,\u201d said Witten. \u201cThere are a lot of technical obstacles to overcome. It probably sounds as far away as gravitational wave detection sounded when LIGO got started around 1970 or so. LIGO only became real because people were excited and worked hard and the US National Science Foundation was willing to make a huge and risky investment.\u201d",
+  "webTitle": "Gravitational wave scientists win $3m Special Breakthrough Prize",
+  "webPublicationDate": "2016-05-03T11:00:16Z",
+  "webUrl": "https://www.theguardian.com/science/2016/may/03/gravitational-wave-scientists-win-2m-special-breakthrough-prize",
+  "keyword": [
+    {
+      "webTitle": "Gravity",
+      "id": "science/gravity",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Physics",
+      "id": "science/physics",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Astronomy",
+      "id": "science/astronomy",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Space",
+      "id": "science/space",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Silicon Valley",
+      "id": "technology/silicon-valley",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ian Sample",
+      "id": "profile/iansample"
+    }
+  ],
+  "guardianId": "science/2016/may/03/gravitational-wave-scientists-win-2m-special-breakthrough-prize"
+}

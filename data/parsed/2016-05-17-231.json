@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/17/the-global-air-pollution-blindspot-affecting-1-billion-people",
+  "id": "2016-05-17-231",
+  "sectionId": "environment",
+  "body": "More than 1 billion people live in countries that do not monitor the air they breathe, according to data released by the World Health Organisation (WHO). Guardian analysis has revealed a great air pollution blindspot stretching the length of Africa, across large parts of the former Soviet Union, south-east Asia and the Caribbean. In 92 countries the monitoring equipment and staff needed to measure one of the world\u2019s most deadly pollutants - particulate matter (PM) - are simply not available. A further 33 countries, including Indonesia, Egypt and Russia monitor just one or two cities. Outdoor air pollution kills 3.3 million people each year and it is getting worse. Globally, pollution levels have risen by 8% in five years. But there are signs that it can be brought under control. According to the WHO, pollution is falling in many places where monitoring occurs, including a third of cities in low- and middle-income countries. Setting up stations to record pollution was the first step, said a WHO spokeswoman: \u201cThe cities which have invested in the capacity to regularly monitor and report the local air quality measurements have already demonstrated a commitment to starting to address air quality issues and public health.\u201d   Where is air pollution monitored? Where is air pollution monitored?   In those countries with no checks, citizens\u2019 lungs remain the only place where pollution is recorded. People may be acutely aware of the corrupted air, but without the evidence that global or national standards have been breached, there is little imperative for governments to act. The WHO data, made public last week, showed air pollution was a hallmark of global inequality. Where it is monitored, denizens of poor cities are almost twice as likely as the rich to be breathing bad air. Poverty is also a common theme. Of the world\u2019s poorest 50 countries by GDP per capita, 35 are not monitoring air in any of their cities. Because they are predominantly poor- to middle-income, unmonitored countries are very likely to have high air pollution in their cities, meaning the majority of city-dwellers in those places will be be unknowingly exposed to pollution that breaches WHO standards. The cost of setting up a single monitoring station is currently around $150,000-200,000, according to the UN Environment Programme. This does not include the ongoing staffing and maintenance costs. Although new technology may be significantly cheaper. In Africa, the world\u2019s poorest continent, just 10 out of 54 countries are doing any monitoring at all. Africa has just 1.3% of the cities where the WHO records air quality, despite having 16% of global population and cities set to set to triple in size in the next 50 years. But it is not only the poor who lack information - the poorly governed also live in the dark. The Economist Intelligence Unit\u2019s (EIU) democracy index labels 51 countries as \u201cauthoritarian\u201d. Of these, 36 do not monitor their air. Just five non-monitoring countries appear in the democratic top 50. In post-Soviet states, most of which rank as middle-income countries, barely any investment has been made in keeping tabs on the air. Across the vast expanse of Russia, with its thousand towns and cities, only Moscow records air quality.  Tiny Latvia boasts more monitoring stations than its former imperial master. Only the three Baltic states - Latvia, Lithuania and Estonia - have managed to implement thorough surveillance. Each of these rates above 7 out of 10 on the EIU index - Russia scores 3.31. Even in countries where democratic freedom is limited, public information about air pollution can force great change. In China, the public outcry that followed the release of air quality data by the US embassy at Beijing\u2019s forced the Communist party to make air a national priority. The consequent control measures, including a mass shutdown of coal power stations and steelworks, has lead to falling pollution in some of the worst-affected Chinese cities. The pressure has also encouraged more monitoring. In China, 210 cities are now monitored, compared to 111 just two years before. This fits with an improving trend across the world. In 2014, 1,622 cities were monitored. Now it\u2019s 2,974. With high costs associated with monitoring, it is necessary to target high-risk areas first. One satellite study found that 96% of west Africans live above the WHO guidelines. However satellite observations are notoriously inexact. Professor Randall Martin is head of the Spartan project, which operates a network of on-ground sites at which satellite measurements can be calibrated. \u201cSatellite remote sensing offers a global observation source to fill that monitoring gap,\u201d he said.  With these improvements, the blindspot is growing smaller. The number of cities monitored in Africa has doubled, with the notable addition of Nigeria. Africa\u2019s most populous country had no cities being recorded in 2014. Now it has 12, with the city of Onitsha named as the worst city in the world for PM10 (particles under 10 but above 2.5 microns in width) pollution.  Similarly, because of an expansion of monitoring in Iran, the city of Zabol has superseded Delhi as the city with the worst fine particle (PM2.5) pollution. With hundreds, perhaps thousands, more cities (including Lagos, Nigeria\u2019s largest conurbation) waiting for the fog to be lifted on their own air quality, it is unlikely these two will remain at the top for long.",
+  "webTitle": "The global air pollution 'blindspot' affecting 1 billion people",
+  "webPublicationDate": "2016-05-17T10:19:06Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/17/the-global-air-pollution-blindspot-affecting-1-billion-people",
+  "keyword": [
+    {
+      "webTitle": "Pollution",
+      "id": "environment/pollution",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "World Health Organisation",
+      "id": "world/world-health-organisation",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Global development",
+      "id": "global-development/global-development",
+      "sectionId": "global-development",
+      "sectionName": "Global development"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Karl Mathiesen",
+      "id": "profile/karl-mathiesen"
+    }
+  ],
+  "guardianId": "environment/2016/may/17/the-global-air-pollution-blindspot-affecting-1-billion-people"
+}

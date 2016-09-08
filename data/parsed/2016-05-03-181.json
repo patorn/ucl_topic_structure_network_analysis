@@ -1,0 +1,102 @@
+{
+  "apiUrl": "https://content.guardianapis.com/education/2016/may/03/sats-tests-parents-children-boycott-primary-school-exams",
+  "id": "2016-05-03-181",
+  "sectionId": "education",
+  "body": "Sporadic but vocal protests against the government\u2019s testing regime for primary school pupils have taken place across England, but accurate estimates of the number of people taking part are difficult to gauge. Despite suggestions that about 30,000 families were backing the boycott of Sats assessments for seven-year-old and 11-year-old pupils, schools in many parts of the country appeared unaffected, while others, including several in Brighton and parts of London, reported high numbers of absences.   Related: Are you taking part in today's 'kids' strike over Sats changes?    Some schools in Newcastle have seen substantial numbers of parents keeping their children out of school for the day as part of a loose nationwide coalition of parents organised through social media to take action against changes to key stage one assessments first announced last year. In Reading, few parents taking their children to primary schools appeared to have heard that the boycott was taking place.   Related: The rights and wrongs of testing 10-year-olds on modal verbs | Letters    The biggest public event appears to have been in Brighton, where the children\u2019s laureate, Chris Riddell, addressed hundreds of families at Preston Park in a demonstration organised by parents of children at several local primary schools. Riddell ridiculed claims by the education secretary, Nicky Morgan, that taking part in the strike would harm children\u2019s education, arguing instead that teaching them to question government policy was \u201can important lesson\u201d. \u201cMy feeling is there should be more trust in teachers and their ability to assess children at this age, rather than through testing,\u201d he said. \u201cThe children are being put under undue stress and my argument is what is the value of what comes from this testing. I think it is questionable.\u201d    #KidsStrike3rdMay What children think about SATS.Parents and children here in Endcliffe Park till 12.30.Come down. pic.twitter.com/K0k6T4x2he\u2014 samantha galbraith (@sgalbraith47) May 3, 2016    At Endcliffe Park in Sheffield, families gathered with banners reading \u201ctake a hammer to the grammar\u201d and \u201csharpening my subordinate claws\u201d in reference to the spelling, punctuation and grammar tests that critics say are too advanced for young pupils. At some events, parents protested not just at the tests, but against the government\u2019s desire to convert all maintained state schools into academies by 2022. Morgan continued to tell parents that taking part in the day-long boycott could harm their children\u2019s education. \u201cTo those who say we should let our children be creative, imaginative, and happy \u2013 of course I agree, both as a parent and as the education secretary. But I would ask them this \u2013 how creative can a child be if they struggle to understand the words on the page in front of them?\u201d she said. \u201cWhat are the limits placed on a child\u2019s imagination when they cannot write down their ideas for others to read? That is why the campaign being led by some of those who do not think we should set high expectations is so damaging.\u201d",
+  "webTitle": "Parents and children take part in boycott of primary school tests",
+  "webPublicationDate": "2016-05-03T12:58:52Z",
+  "webUrl": "https://www.theguardian.com/education/2016/may/03/sats-tests-parents-children-boycott-primary-school-exams",
+  "keyword": [
+    {
+      "webTitle": "Sats",
+      "id": "education/sats",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Primary schools",
+      "id": "education/primary-schools",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Schools",
+      "id": "education/schools",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Nicky Morgan",
+      "id": "politics/nicky-morgan",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Education",
+      "id": "education/education",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Brighton",
+      "id": "uk/brighton",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "London",
+      "id": "uk/london",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Newcastle",
+      "id": "uk/newcastle",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Reading",
+      "id": "uk-news/reading",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Sheffield",
+      "id": "uk/sheffield",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Chris Riddell",
+      "id": "books/chris-riddell",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Exams",
+      "id": "education/exams",
+      "sectionId": "education",
+      "sectionName": "Education"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Richard Adams",
+      "id": "profile/richardadams"
+    }
+  ],
+  "guardianId": "education/2016/may/03/sats-tests-parents-children-boycott-primary-school-exams"
+}

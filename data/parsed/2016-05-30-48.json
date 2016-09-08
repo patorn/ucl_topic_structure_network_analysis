@@ -1,0 +1,37 @@
+{
+  "apiUrl": "https://content.guardianapis.com/culture/2016/may/30/all-hail-our-15-minute-video-of-macbeth",
+  "id": "2016-05-30-48",
+  "sectionId": "culture",
+  "body": "So, a survey by the British Council revealed that \u201conly 58%\u201d of Britons said they understood Shakespeare\u2019s plays (To cut or not to cut, 28 May). 58%? That would be a landslide victory in any general election. So my 30-plus exhausting years teaching and enthusing kids about Shakespeare actually paid off. And as for cutting, my favourite memory is of a three-day project with a class, where one group built an Inverness castle from cardboard boxes beautifully painted, another group made puppets of the main characters and I rehearsed the third group, frenetically cutting as I went along. The result \u2013 a 15-minute video of Macbeth made on the last sunny afternoon. The production was both satisfying and hilarious. And the castle came in handy in lessons for years afterwards (many thanks to the art teacher).Susan CastlesWem, Shropshire \u2022 Join the debate \u2013 email guardian.letters@theguardian.com",
+  "webTitle": "All hail our 15-minute video of Macbeth | Letters",
+  "webPublicationDate": "2016-05-30T17:40:10Z",
+  "webUrl": "https://www.theguardian.com/culture/2016/may/30/all-hail-our-15-minute-video-of-macbeth",
+  "keyword": [
+    {
+      "webTitle": "William Shakespeare",
+      "id": "culture/shakespeare",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Schools",
+      "id": "education/schools",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Education",
+      "id": "education/education",
+      "sectionId": "education",
+      "sectionName": "Education"
+    }
+  ],
+  "authors": [],
+  "guardianId": "culture/2016/may/30/all-hail-our-15-minute-video-of-macbeth"
+}

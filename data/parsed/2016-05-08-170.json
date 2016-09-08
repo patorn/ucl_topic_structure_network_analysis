@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/08/kaytranada-99-9-album-review-hip-hop-chops",
+  "id": "2016-05-08-170",
+  "sectionId": "music",
+  "body": "The debut by name-to-drop Montreal producer Kaytranada (drop it thus: Kaytra-NAH-duh) is a millennial collection that flares its nostrils at genre. On paper, the Haitian-born Louis Celestin is a hip-hop-head turned remixer, gaining traction from reworking Janet Jackson. These slightly disjointed 15 tracks provide ample evidence of 360-degree skills, of house and funk steals, often undercut with the clattery skip of bass music. A woozy Anderson .Paak feature, Glowed Up, where beats fall a nanosecond out on purpose, is testament to hip-hop chops; there\u2019s also doses of post-Flying Lotus jazz, in the form of Weight Off (featuring BadBadNotGood). It\u2019s hard to keep up, then \u2013 but worth it.         Kaytranada featuring Anderson .Paak \u2013 Glowed Up",
+  "webTitle": "Kaytranada: 99.9% review \u2013 a testament to hip-hop chops",
+  "webPublicationDate": "2016-05-08T07:00:00Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/08/kaytranada-99-9-album-review-hip-hop-chops",
+  "keyword": [
+    {
+      "webTitle": "Hip-hop",
+      "id": "music/hip-hop",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Janet Jackson",
+      "id": "music/janet-jackson",
+      "sectionId": "music",
+      "sectionName": "Music"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Kitty Empire",
+      "id": "profile/kittyempire"
+    }
+  ],
+  "guardianId": "music/2016/may/08/kaytranada-99-9-album-review-hip-hop-chops"
+}

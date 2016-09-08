@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/20/kevin-spacey-donald-trump-disease-cannes",
+  "id": "2016-05-20-141",
+  "sectionId": "film",
+  "body": "Kevin Spacey has laid into Donald Trump during a standup routine at the Cannes film festival, calling the Republican presidential hopeful a \u201cdisease\u201d.  Performing at a event to raise money for Aids charities, Spacey opened his routine dressed as the late talk show host Johnny Carson. He told the audience that regular host, Sharon Stone, was unable to make it because she was fighting a disease, adding: \u201cThe name of the disease is Donald Trump.\u201d            Continued Spacey: \u201cForeign films contain two things Donald Trump hates the most: foreigners and reading.\u201d Warming to his theme, the actor said he could never \u201cvote for a candidate who wasn\u2019t in favour of separation of man and face,\u201d in a reference to Trump\u2019s chin. He added: \u201cDonald Trump would probably love it here, because there are so many casinos to bankrupt.\u201d Spacey, who made several costume changes, also  appeared dressed as Bill Clinton, telling the crowd he hadn\u2019t \u201dseen so many red carpets since I went to a swingers party,\u201d and adding: \u201cVote for [Hillary] and you\u2019ll get me.\u201d  Spacey also auctioned off a walk-on part in the hit Netflix series House of Cards, while in character as President Frank Underwood, for \u20ac500,000 (\u00a3385,000). A week-long stay for 12 guests at Leonardo DiCaprio\u2019s home in Palm Springs went for \u20ac300,000. Spacey joked: \u201cTonight you can bid on a stay at the Las Vegas home of Leonardo DiCaprio. It\u2019s something very special; only a few hundred Victoria\u2019s Secret models have had.\u201d He added: \u201cOrlando Bloom is gonna bid on that.\u201d",
+  "webTitle": "Kevin Spacey labels Donald Trump a 'disease'",
+  "webPublicationDate": "2016-05-20T13:53:19Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/20/kevin-spacey-donald-trump-disease-cannes",
+  "keyword": [
+    {
+      "webTitle": "Cannes 2016",
+      "id": "film/cannes-2016",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Cannes film festival",
+      "id": "film/cannesfilmfestival",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Festivals",
+      "id": "culture/festivals",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Kevin Spacey",
+      "id": "culture/kevinspacey",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Donald Trump",
+      "id": "us-news/donaldtrump",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ben Child",
+      "id": "profile/benchild"
+    }
+  ],
+  "guardianId": "film/2016/may/20/kevin-spacey-donald-trump-disease-cannes"
+}

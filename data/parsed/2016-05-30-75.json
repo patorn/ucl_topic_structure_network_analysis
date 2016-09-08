@@ -1,0 +1,84 @@
+{
+  "apiUrl": "https://content.guardianapis.com/us-news/2016/may/30/eric-holder-edward-snowden-nsa-leak-public-service",
+  "id": "2016-05-30-75",
+  "sectionId": "us-news",
+  "body": "The former US attorney general Eric Holder has said the National Security Agency whistleblower Edward Snowden performed a \u201cpublic service\u201d by starting a debate over government surveillance techniques.   Related: How the Pentagon punished NSA whistleblowers | Mark Hertsgaard    Speaking on a podcast hosted by David Axelrod, a former campaign strategist for Barack Obama, Holder emphasized, however, that Snowden must still be punished. \u201cWe can certainly argue about the way in which Snowden did what he did, but I think that he actually performed a public service by raising the debate that we engaged in and by the changes that we made,\u201d Holder said, in an hourlong discussion on The Axe Files. \u201cNow, I would say that doing what he did \u2013 and the way he did it \u2013 was inappropriate and illegal.\u201d In June 2013, in one of the biggest document leaks in American history, Snowden revealed to media outlets including the Guardian that the NSA conducted indiscriminate bulk surveillance of US citizens. The agency said this mass data collection had been kept secret in order to protect Americans.  Holder, who led the justice department during the document leak, said Snowden \u201charmed American interests\u201d by releasing the files.  \u201cI know there are ways in which certain of our agents were put at risk, relationships with other countries were harmed, our ability to keep the American people safe was compromised,\u201d Holder told Axelrod.  \u201cThere were all kinds of re-dos that had to be put in place as a result of what he did, and while those things were being done, we were blind in certain really critical areas. So what he did was not without consequence.\u201d Though Holder said Snowden should return to the US to face trial, he added that any judge who tried him should account for his contribution to the debate about mass surveillance.  \u201cI think in deciding what an appropriate sentence should be, I think a judge could take into account the usefulness of having had that national debate,\u201d Holder said.     I think that he actually performed a public service by raising the debate that we engaged in  Eric Holder on Edward Snowden     Snowden has said repeatedly that he would return to the US if he could get a fair trial.  \u201cBut, as I think you\u2019re quite familiar, the Espionage Act does not permit a public interest defense,\u201d Snowden told a University of Chicago event earlier this month. \u201cYou\u2019re not allowed to speak the word \u2018whistleblower\u2019 at trial.\u201d Snowden, who was a contractor for the NSA, has lived in Russia in the years following the leaks. Russia first granted him temporary asylum, then in 2014 gave him a three-year residency.  Snowden responded to Holder\u2019s comments on Twitter on Monday night.    2013: It's treason!2014: Maybe not, but it was reckless2015: Still, technically it was unlawful2016: It was a public service but2017:\u2014 Edward Snowden (@Snowden) May 30, 2016    The frontrunners in the 2016 presidential race, Hillary Clinton and Donald Trump, have said Snowden should be punished, though they disagree in how serious that punishment should be.  In a Democratic debate in October, Clinton said Snowden should return and be put on trial. Bernie Sanders, now the only other Democratic contender, agreed, though he said he thought Snowden \u201cplayed a very important role in educating the American public\u201d. In 2013, Trump implied that Snowden should be executed. In March, he said the US should get Snowden back from Russia because he is a spy. The Kremlin said it would not entertain such a plan.    People so often become honest and candid only once they leave government https://t.co/OY8NwXLFFa pic.twitter.com/4o58yrtTB2\u2014 Glenn Greenwald (@ggreenwald) May 30, 2016     Related: CIA ex-boss: secretive spooks tolerated in UK more than in US    Holder has shown some leniency toward Snowden before, but his use of the phrase \u201cpublic service\u201d turned heads.  In January 2014, Holder told an audience at the University of Virginia that the government could accept a plea deal with Snowden if he were to return to the US and plead guilty to criminal charges.  He reiterated the possibility of a plea deal last year, after stepping down from his post as the country\u2019s top law enforcement officer in April 2015 and returning to private practice with the Washington law firm Covington & Burling.  \u201cI certainly think there could be a basis for a resolution that everybody could ultimately be satisfied with,\u201d Holder told Yahoo News in July 2015. He added that the disclosures \u201cspurred a necessary debate\u201d.",
+  "webTitle": "Eric Holder says Edward Snowden performed 'public service' with NSA leak",
+  "webPublicationDate": "2016-05-30T15:56:19Z",
+  "webUrl": "https://www.theguardian.com/us-news/2016/may/30/eric-holder-edward-snowden-nsa-leak-public-service",
+  "keyword": [
+    {
+      "webTitle": "Edward Snowden",
+      "id": "us-news/edward-snowden",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "The NSA files",
+      "id": "us-news/the-nsa-files",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "NSA",
+      "id": "us-news/nsa",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US politics",
+      "id": "us-news/us-politics",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Eric Holder",
+      "id": "us-news/eric-holder",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "David Axelrod",
+      "id": "us-news/david-axelrod",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Obama administration",
+      "id": "us-news/obama-administration",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Surveillance",
+      "id": "world/surveillance",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Privacy",
+      "id": "world/privacy",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Amanda Holpuch",
+      "id": "profile/amanda-holpuch"
+    }
+  ],
+  "guardianId": "us-news/2016/may/30/eric-holder-edward-snowden-nsa-leak-public-service"
+}

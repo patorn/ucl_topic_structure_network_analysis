@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/14/venezuela-maduro-emergency-powers",
+  "id": "2016-05-14-66",
+  "sectionId": "world",
+  "body": "Venezuela\u2019s president, Nicol\u00e1s Maduro, has declared a state of emergency, hours after US intelligence officials warned that the South American country could be on the brink of disintegration. The powers Maduro obtains after Friday night\u2019s declaration allow him \u201cto stabilise our country, and confront all the international and national threats against our fatherland in this moment\u201d, the president said, but he did not detail how he intends to use them. The country is grappling with soaring inflation, a shrinking economy, chronic food shortages, and power cuts so bad that public servants have been put on a two-day week and the president personally urged women to stop blow-drying their hair to save electricity. In December the opposition won parliamentary elections by a landslide, and is now pushing for a referendum on recalling Maduro from office, allowed under Venezuela\u2019s constitution. The president has vowed to see out his term, due to end in 2019, but the two US intelligence officials told journalists in Washington that it looks increasingly unlikely Maduro can hold on to power, even if he staves off a recall vote. A leftwinger close to former President Hugo Ch\u00e1vez, the 53-year-old Maduro came to power after the founder of Venezuela\u2019s \u201cBolivarian revolution\u201d died of cancer. But he lacks Ch\u00e1vez\u2019s charisma or the oil bonzanza that funded his reforms. The former bus driver could be vulnerable to a \u201cpalace coup\u201d, from colleagues frustrated by his handling of Ch\u00e1vez\u2019s legacy, or an outright military grab for power, news agencies reported the unnamed officials as saying. Maduro\u2019s Friday night declaration of a 60-day state of emergency comes after a week that saw demonstrations for a recall vote escalate into violence, with protesters hurling stones and police firing teargas. His biggest problem is the economy, which contracted last year and is forecast to shrink by a further 8% this year. Inflation is already in triple digits and expected to soar over 700% this year, which could leave the government too cash-strapped to even pay for printing new money. As shortages of basic goods deepen, hours-long queues have become part of daily life for most Venezuelans, and looting is increasingly common, with mobs stealing flour, chicken and even underwear last week. Lengthy drought has created severe power shortages in a country heavily dependent on hydropower. Critics say mismanagement and lack of investment have exacerbated the problems. The government\u2019s efforts to manage the shortages have included moving clocks forward half an hour, closing schools on Fridays, sending civil servants home three days a week, and even drafting in Maduro himself to dispense energy-saving tips. \u201cCut the use of hair-dryers, or only use them half the time,\u201d he said on a recent TV appearance. \u201cDo you think you could do this, ladies?\u201d     President Nicol\u00e1s Maduro asked women not to blow-dry their hair, to save electricity. Photograph: EPA    Caracas has become one of the most violent cities in the world, with people waiting to buy groceries leaving their cash at home while they queue, and summoning relatives to bring it to them at the last minute to avoid theft. \u201cYou can hear the ice cracking. You know there\u2019s a crisis coming,\u201d one US official said. \u201cOur pressure on this isn\u2019t going to resolve this issue.\u201d The US government fears a return to the convulsions of 1989, when an earlier collapse in oil prices contributed to riots and looting in which more than 300 people died, the officials said. Maduro denounced the press briefing as part of a conspiracy against his country. \u201cWashington is activating measures at the request of Venezuela\u2019s fascist right,\u201d he said in a TV broadcast. Any US intervention is sensitive in Venezuela because Washington has a history of both covert and open intervention across Latin America, from Chile to Nicaragua. In Venezuela there is lingering resentment at support for a shortlived 2002 coup against Ch\u00e1vez. A surge in oil revenue, or fresh cash in the form of Chinese loans, might reinvigorate Maduro\u2019s government, but there is little sign he can hope for either. Work has all-but stopped on the Chinese bullet train that was intended as South America\u2019s first and a symbol of socialist solidarity. It is now four years overdue, Chinese workers have pulled out, key sites have been looted and a government delegation to Beijing earlier this year came home empty-handed. \u200bAnd t\u200bhe retreat of two big oil services companies, Schlumberger and Halliburton, after the state firm failed to pay outstanding bills means crude production could fall below 2 million barrels per day for the first time in 20 years.",
+  "webTitle": "Venezuela president Nicol\u00e1s Maduro declares state of emergency",
+  "webPublicationDate": "2016-05-14T19:17:11Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/14/venezuela-maduro-emergency-powers",
+  "keyword": [
+    {
+      "webTitle": "Venezuela",
+      "id": "world/venezuela",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Nicol\u00e1s Maduro",
+      "id": "world/nicolas-maduro",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "US foreign policy",
+      "id": "us-news/us-foreign-policy",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Americas",
+      "id": "world/americas",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Governance",
+      "id": "global-development/governance-and-development",
+      "sectionId": "global-development",
+      "sectionName": "Global development"
+    },
+    {
+      "webTitle": "Global development",
+      "id": "global-development/global-development",
+      "sectionId": "global-development",
+      "sectionName": "Global development"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Emma Graham-Harrison",
+      "id": "profile/emma-graham-harrison"
+    }
+  ],
+  "guardianId": "world/2016/may/14/venezuela-maduro-emergency-powers"
+}

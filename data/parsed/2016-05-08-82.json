@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/08/hinkley-point-united-nations-says-uk-failed-to-consult-over-risks",
+  "id": "2016-05-08-82",
+  "sectionId": "uk-news",
+  "body": "The British government has run into a major new problem with the Hinkley Point C nuclear project, with a United Nations committee ruling that the UK failed to consult European countries properly over potential environmental risks. Documents seen by the Guardian show Britain \u201cis in non-compliance with its obligations\u201d (page 21) to discuss the possible impact of any accident or other event that could affect those nations in proximity to Hinkley. This is just the latest in a string of problems connected with the planned \u00a318bn project to construct new reactors in Somerset, with the developer EDF of France recently delaying a final investment decision until September.     UN report on Hinkley Point nuclear plant. Photograph: UN report    Paul Dorfman, a senior researcher at UCL\u2019s energy institute, said the ruling from the UN Economic and Social Council throws great uncertainty over Hinkley.  \u201cThis is a huge blow to the government and introduces a whole new element of doubt over the scheme. It is hard to see how EDF can sign off any final investment decision whilst the government has yet to resolve this important issue.\u201d But the Department of Energy and Climate Change said it was convinced that the government had done all it had to do. \u201cCompliance with international obligations is something we take very seriously,\u201d said a spokesman.  \u201cWe are confident that we have met the relevant international requirements in relation to Hinkley Point C. We have world-leading nuclear safety regulations in the UK, which Hinkley Point C would have to comply with.\u201d  The British courts have in the past ruled against An Taisce (the Irish National Trust) which tried to block Hinkley on the grounds of insufficient consultation over the same safety issues. Dorfman said he expected a new legal challenge using the UN ruling. The British government has been arguing for some years with continental countries inside the committee, saying in the past that it did not have to consult them because there was little or no likelihood of \u201csignificant transboundary environmental impacts\u201d. But Austria in particular has said that there should have been consultation because of the possibility of a severe accident that could lead to radioactive materials being spread by wind across Europe. The Netherlands, Norway and Ireland have also argued they should have been consulted about Hinkley; the committee has finally agreed with them.  It recommends the UK \u201center into discussions with possibly affected parties, including parties that cannot exclude a significant adverse transboundary impact from the activity at HPC, in order to agree on whether notification is useful at the current stage.\u201d Nuclear safety has been back in the public eye with the 30th anniversary of the Chernobyl accident last month and the recent fifth anniversary of the Fukushima crisis in March remembered.  Hinkley is the first new atomic plant planned in the UK for two decades and is a flagship project promoted at the very highest level of government. But confidence has been undermined by a range of problems. Last week former EDF finance director Thomas Piquemal told a French parliamentary hearing that he had resigned in March because he believed Hinkley threatened the financial health of the energy company.  \u201cWho would bet 60 to 70% of his equity on a (European pressurised reactor) technology that has not yet proven that it can work and which takes 10 years to build,\u201d he said. \u201cIn January 2015, I proposed to negotiate a three-year delay with our client because we reasoned that it would weigh too heavily on EDF\u2019s balance sheet,\u201d Piquemal said.  Since Piquemal\u2019s resignation, EDF has announced a \u20ac4bn (\u00a33.2bn) capital increase and the government has agreed to forego cash dividends for two years, generating an estimated \u20ac7bn in extra capital. But while EDF has been coming up with plans to strengthen its capital, its even more financially troubled engineering partner, Areva, has run into deeper problems and its share price is now nearly 50% below where it was 12 months ago. The French nuclear regulator, ASN, said it had been informed by Areva that its investigation had found evidence of irregularities in about 400 components produced since 1965, of which some 50 are believed to be in use in French nuclear plants.  Areva, which is in the middle of a merger with EDF, has already found faults at a new reactor it is constructing at Flamanville in Normandy. That scheme, like another at Olkiluoto in Finland, is using an EPR like the one planned for Hinkley and is both massively delayed and over budget.",
+  "webTitle": "Hinkley Point: UN report says UK failed to consult over risks",
+  "webPublicationDate": "2016-05-08T15:49:24Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/08/hinkley-point-united-nations-says-uk-failed-to-consult-over-risks",
+  "keyword": [
+    {
+      "webTitle": "Hinkley Point C",
+      "id": "uk-news/hinkley-point-c",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Energy industry",
+      "id": "business/energy-industry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "EDF Energy",
+      "id": "business/edf",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Nuclear power",
+      "id": "environment/nuclearpower",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "United Nations",
+      "id": "world/unitednations",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Energy",
+      "id": "environment/energy",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Terry Macalister",
+      "id": "profile/terrymacalister"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/08/hinkley-point-united-nations-says-uk-failed-to-consult-over-risks"
+}

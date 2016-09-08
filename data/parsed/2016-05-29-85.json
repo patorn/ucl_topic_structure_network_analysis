@@ -1,0 +1,55 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/29/alan-bell-obituary",
+  "id": "2016-05-29-85",
+  "sectionId": "technology",
+  "body": "My friend and brother-in-law, Alan Bell, who has died aged 67 after a motorcycle accident on holiday in Laos, was a world expert on DVD security and copyright protection who was granted more than 20 US patents. Alan was a key member of the team at the RCA technology firm in the US that developed the first optical disk and invented the recording medium that coated the disk\u2019s surface, a breakthrough central to the subsequent developments of the CD and the DVD. He stayed for nine years, and then spent several years on storage development at IBM\u2019s Almaden Research Centre in San Jose, California. There he identified opportunities for the CD in data storage and in entertainment media, and he moved on from research to lead efforts at bringing standards and uniformity to the conflicting interests and technologies that abounded in the 1990s. From 2000 he continued his work in leading cross-industry, cross-company efforts on CD and DVD standardisation, security and copyright protection, a field in which he was widely recognised for his role in securing the unification of the DVD format.     Alan Bell with the first optical disk.    Alan also played a leading role in negotiations that led to the development of DVD copy protection, without which the leading film studios would not have released content to DVD. Born in Brixton, south London, the son and first child of Ivy (nee Smith), a factory worker, and Ted, a printer, Alan grew up in Crawley, West Sussex, to where the family had moved in 1957. He attended Thomas Bennett comprehensive school in the town and went on to study at Imperial College, London, gaining a first class degree in physics, followed by a PhD in solid state physics in 1973. It was then that he went to take up a one-year research fellowship at RCA. He was accompanied by his wife, Patricia (nee Wilkinson), a haemotologist whom he had met during his doctoral studies in London. They were married from 1972 until their divorce in 2009. On retiring from full-time work, he spent a day or two a week with start-up companies in the entertainment media business, and represented Microsoft in cross-industry discussions about the future of the DVD. He also enjoyed photography when on his travels. Alan\u2019s legacy of achievement touches every one of us who watches DVDs or listens to CDs today. He is survived by his mother, his son, Geoff, daughter, Melissa, sister Janet, and his partner of three years, Lori.",
+  "webTitle": "Alan Bell obituary",
+  "webPublicationDate": "2016-05-29T14:17:37Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/29/alan-bell-obituary",
+  "keyword": [
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Digital video",
+      "id": "technology/digitalvideo",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Computing",
+      "id": "technology/computing",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Digital music and audio",
+      "id": "technology/digital-music-and-audio",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Data and computer security",
+      "id": "technology/data-computer-security",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Physics",
+      "id": "science/physics",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    }
+  ],
+  "authors": [],
+  "guardianId": "technology/2016/may/29/alan-bell-obituary"
+}

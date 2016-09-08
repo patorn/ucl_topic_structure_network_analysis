@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/16/manchester-united-bournemouth-turnout-tickets",
+  "id": "2016-05-16-64",
+  "sectionId": "football",
+  "body": "Manchester United are expecting a below capacity attendance at Tuesday night\u2019s match against Bournemouth after the game was abandoned on Sunday following the discovery of a suspect device that turned out to be a dummy bomb used for security training.   Related: Manchester United fake bomb 'fiasco': call for full investigation    The club are working to ensure the attendance is as high as possible and to allow all who were at Old Trafford when the ground was evacuated to gain entry again. In order to do so those with season or matchday tickets can reuse them or have the latter reissued at the club on Tuesday. United are warning those who plan to take up the last option to do so early in order to avoid unnecessary queuing. However given Tuesday is a weekday there is a recognition supporters may not be able to make arrangements to watch what is now the closing fixture of the Premier League season. There is also a sizeable chance that many of the Bournemouth fans who made the long trip to watch their side on Sunday will be unable to return. The number inside the ground may be affected by the fact that United\u2019s chances of qualifying for the Champions League are all but over following Manchester City\u2019s draw with Swansea, which left them in fourth place, three points ahead of their city rivals but with goal difference superior by 18. Potential visitors could also be put off by the prospect of Louis van Gaal fielding a weakened side before Saturday\u2019s FA Cup final against Crystal Palace. United are in sixth place, level with Southampton but with inferior goal difference. A draw would allow them to leapfrog the Saints and finish fifth, guaranteeing Europa League football next season.",
+  "webTitle": "Low turnout expected for Manchester United v Bournemouth part two",
+  "webPublicationDate": "2016-05-16T19:02:01Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/16/manchester-united-bournemouth-turnout-tickets",
+  "keyword": [
+    {
+      "webTitle": "Manchester United",
+      "id": "football/manchester-united",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Bournemouth",
+      "id": "football/bournemouth",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jamie Jackson",
+      "id": "profile/jamiejackson"
+    }
+  ],
+  "guardianId": "football/2016/may/16/manchester-united-bournemouth-turnout-tickets"
+}

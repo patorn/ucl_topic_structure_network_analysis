@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/05/cristiano-ronaldo-real-madrid-champions-league-manchester-city",
+  "id": "2016-05-05-239",
+  "sectionId": "football",
+  "body": "Cristiano Ronaldo has said Real Madrid were worthy winners against Manchester City because they \u201ccreated more chances and were more intense\u201d. Real progressed to the Champions League final against Atl\u00e9tico Madrid when Gareth Bale\u2019s shot was deflected into the net off Fernando\u2019s foot for the only goal of the semi-final tie. Ronaldo, who was coming back from injury for the second leg at the Bernab\u00e9u, said: \u201cIt was a tough game, but I think we played better than City. \u201cWe knew that after the goal City would press high on us, but we controlled the game. One-nil was a short result, but we are happy we are in the final. \u201cI think we played a great game. We controlled the ball, we created opportunities and in the end 1-0 was enough.\u201d       With two games remaining in the regular season and Real just one point behind the joint leaders Barcelona and Atl\u00e9ti, the Portugal captain said he was over his fitness issues although weary after playing the full 90 minutes. \u201cI am good,\u201d he said. \u201cFor 15 days, I didn\u2019t do much and I have played today. People had doubts about me, I don\u2019t know why people forget that sometimes I recover fast. \u201cI am happy, with no problems. I was tired because I did not compete for 15 days, but it was not bad and I think I helped the team.\u201d The final will be a rematch of 2014 when Real beat their city rivals 4-1 after extra-time. \u201cIt is a final, pure and simple,\u201d Ronaldo said. \u201cWe played them two years ago which just shows the high quality of the Spanish Primera Division. In terms of who will win, we will have to wait and see. \u201cZinedine Zidane is doing a fantastic job. He is helping us learn and we are helping him learn. We are really happy with him as our coach and I hope he continues to coach us in the future.\u201d",
+  "webTitle": "Cristiano Ronaldo: Real Madrid deserved to beat Manchester City",
+  "webPublicationDate": "2016-05-05T10:24:57Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/05/cristiano-ronaldo-real-madrid-champions-league-manchester-city",
+  "keyword": [
+    {
+      "webTitle": "Cristiano Ronaldo",
+      "id": "football/ronaldo",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Real Madrid",
+      "id": "football/realmadrid",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Manchester City",
+      "id": "football/manchestercity",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Champions League",
+      "id": "football/championsleague",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "football/2016/may/05/cristiano-ronaldo-real-madrid-champions-league-manchester-city"
+}

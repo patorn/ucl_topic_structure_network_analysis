@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/10/uberwav-wheelchair-accessible-cabs-taxi-disability-london",
+  "id": "2016-05-10-197",
+  "sectionId": "technology",
+  "body": "For the first time, Uber users in London can book wheelchair-accessible vehicles through the company\u2019s minicab app. UberWAV is offering specially-outfitted cars to wheelchair users in the capital for the same price as a normal UberX ride. But users will have to wait considerably longer than most: the company says that in the first few weeks \u201cwe expect average wait times of around 25 mins in zones 1\u20132 and 40 mins in zones 3\u20134\u201d. As well as providing a much-needed service for wheelchair users, the launch of the feature at 4pm on Tuesday can be seen as a defensive move in the minicab company\u2019s long-running battle with London\u2019s taxis. Drivers of black cabs have consistently cited the need to take wheelchairs as a major reason why their fares are higher than those of Uber, and why their services are important for the capital to retain. In a letter to the Guardian sent in October, Steve McNamara, the general secretary of the Licensed Taxi Drivers Association, wrote that \u201cunlike private hire firms, [taxi regulations] ensure that our drivers are UK taxpayers, comprehensively insured, undertake the famous \u2018Knowledge\u2019 instead of relying on a satnav and have taxis that are the only form of public transport in London that is 100% wheelchair accessible\u201d. Uber directly targets black cabs in its announcement of the new service: it says it \u201cwill give wheelchair users an additional way of getting from A to B with fares on average 30% cheaper than black cabs\u201d, and \u201cdrivers are licensed for private hire by Transport for London and have passed an enhanced DBS check \u2013 the same as black cab drivers, teachers and care workers\u201d. The launch of UberWAV has been welcomed by disability campaigners. Lisa Quinlan-Rahman, director of external affairs at the charity Scope, said \u201cWe are pleased that Uber is launching a new service for disabled customers. Disabled people want to have the same choice as all other consumers in London, and have the same options available on method of travel, time and price.\u201d But when Uber gives with one hand, it can take away with the other. Users who decide to ditch their own accessible vehicles and rely on Uber\u2019s may want to look to Austin, Texas, beforehand. The company pulled out of that city entirely on Monday, following the rejection at the ballots of a referendum which would have removed the requirement to perform fingerprint-based background checks on its drivers. \u201cDisappointment does not begin to describe how we feel about shutting down operations in Austin,\u201d said the general manager of Uber in Austin. The company had hoped to win the vote for Proposition One, an initiative that the ride-sharing industry spent more than $8m (\u00a35.5m) lobbying for. Instead, voters decided to uphold the city council\u2019s regulation, which had already been in place for several months at the time the vote happened.",
+  "webTitle": "Uber offers   wheelchair-accessible cabs in effort to overtake taxis",
+  "webPublicationDate": "2016-05-10T11:31:29Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/10/uberwav-wheelchair-accessible-cabs-taxi-disability-london",
+  "keyword": [
+    {
+      "webTitle": "Uber",
+      "id": "technology/uber",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Transport",
+      "id": "uk/transport",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Disability",
+      "id": "society/disability",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Road transport",
+      "id": "world/road-transport",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "London",
+      "id": "uk/london",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Alex Hern",
+      "id": "profile/alex-hern"
+    }
+  ],
+  "guardianId": "technology/2016/may/10/uberwav-wheelchair-accessible-cabs-taxi-disability-london"
+}

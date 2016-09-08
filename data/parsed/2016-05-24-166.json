@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/24/google-passwords-android",
+  "id": "2016-05-24-166",
+  "sectionId": "technology",
+  "body": "Google will begin testing an alternative to passwords next month, in a move that could do away with complicated logins for good. The new feature, introduced to developers at the company\u2019s I/O conference, is called the Trust API, and will initially be tested with \u201cseveral very large financial institutions\u201d in June, according to Google\u2019s Daniel Kaufman. Kaufman is the head of Google\u2019s Advanced Technology and Projects group, where the Trust API was first created under the codename Project Abacus. Introduced last year, Abacus aims to kill passwords not through one super-secure replacement, but by mixing together multiple weaker indicators into one solid piece of evidence that you are who you say you are. Among the pieces of evidence that Google suggests the Trust API could use are some obvious biometric indicators, such as your face shape and voice pattern, as well as some less obvious ones: how you move, how you type and how you swipe on the screen. With the service continually running in the background of the phone, it can keep track of whether those indicators match how it knows you use your phone. Individually, it would be ludicrous to use any of those methods to secure web services. Even facial recognition, now built in to many Android phones, is significantly less secure than a fingerprint scanner, according to Google\u2019s own metrics. But combining them can, the company suggests, result in something more than 10 times as secure as a fingerprint. This year, Google showed how Trust API has built on the Project Abacus base. The service will be open to third parties, allowing other organisations to very your identity through the API. Initially, banks will use it to verify customers logging in through Android, but \u201cby the end of the year\u201d, it should be available to every developer. Crucial to the API is opening up the service\u2019s estimates of security. Rather than giving a binary answer, as a password does, the API can hand over a score to indicate how confident it is that you really are you. If the institution needs more confidence, it can feed back and ask for additional mechanisms: more biometric data, for instance, or an old-style password. Google isn\u2019t the only organisation working on such a plan. London-based Nok Nok Labs has a similar proposal in place, linking information from manufacturers, mobile networks and users together in a web of trust. Richard Lack, of customer identity management firm Gigya, says approaches like Google\u2019s are likely to pay off. \u201cConsumers tell us that they are struggling to remember what is now an average of over 100 passwords in Europe. At a time when the number of devices we own is rising sharply, this frustration has relegated the registration process to being the most broken thing about the internet. The future lies in methods of authentication without passwords, which consumers clearly favour, both in terms of convenience and enhanced security. \u201cBiometric authentication is a powerful enabler, allowing businesses smart enough to deploy it to significantly increase rates of registration, gaining data and insight about their customers, while also increasing customer security. This is a win/win scenario which sounds the death-knell for awkward and insecure passwords sooner than we may imagine.\u201d Google declined to comment.",
+  "webTitle": "Google aims to kill passwords by the end of this year",
+  "webPublicationDate": "2016-05-24T12:54:59Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/24/google-passwords-android",
+  "keyword": [
+    {
+      "webTitle": "Google",
+      "id": "technology/google",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Android",
+      "id": "technology/android",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Mobile phones",
+      "id": "technology/mobilephones",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Software",
+      "id": "technology/software",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Computing",
+      "id": "technology/computing",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Alex Hern",
+      "id": "profile/alex-hern"
+    }
+  ],
+  "guardianId": "technology/2016/may/24/google-passwords-android"
+}

@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/20/david-ginola-hospital-collapsing-match",
+  "id": "2016-05-20-100",
+  "sectionId": "football",
+  "body": "The surgeon who operated on David Ginola has said that the former France winger \u201calmost died\u201d after having a heart attack while playing football. Professor Gilles Dreyfus told The Associated Press on Friday that Ginola was in good condition a day after undergoing a quadruple heart bypass operation and was expected to make a full recovery. The 49-year-old was airlifted to the Monaco cardiothoracic center on Thursday after collapsing on the field in the Riviera town of Mandelieu. Dreyfus said he would remain in the hospital for about 10 days. \u201cHe was incredibly lucky,\u201d Dreyfus said. \u201cHe was fortunate to receive a heart massage immediately, and that was essential in preventing brain damage. Emergency services arrived on site eight minutes later. There is a set of factors that saved his life.\u201d Dreyfus said Ginola suffered the symptoms of a heart ventricular fibrillation and was diagnosed with \u201cextremely severe lesions\u201d when he arrived at the hospital. The surgery lasted five hours. Dreyfus, who also performed surgery on French actor Gerard Depardieu earlier in his career, said Ginola has regained consciousness and does not need any medication. \u201cHe almost died but and will be able to lead a normal life,\u201d he said.    Hello world, never slept better. I'm fine, just need to rest a bit. Thank you so much all of you for your magnificent support.\u2014 David Ginola (@teamginola) May 20, 2016      Footy match in the midday sun, not very clever. Now having some tests done. \u00a0Whoever voted for a World Cup in Qatar in the summer?\u2014 David Ginola (@teamginola) May 19, 2016    Ginola, who was expected to work as a TV pundit during the European Championship next month before his heart attack, was in Mandelieu to play a golf tournament with other sports personalities. He was playing soccer when he was stricken. Last year for former Newcastle player failed to secure the required support in a bid for the Fifa presidency.",
+  "webTitle": "David Ginola \u2018recovering in hospital\u2019 after quadruple bypass surgery",
+  "webPublicationDate": "2016-05-20T15:22:00Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/20/david-ginola-hospital-collapsing-match",
+  "keyword": [
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Newcastle United",
+      "id": "football/newcastleunited",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Tottenham Hotspur",
+      "id": "football/tottenham-hotspur",
+      "sectionId": "football",
+      "sectionName": "Football"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "football/2016/may/20/david-ginola-hospital-collapsing-match"
+}

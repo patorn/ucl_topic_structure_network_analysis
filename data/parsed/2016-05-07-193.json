@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/07/sadiq-khans-victory-mean-for-british-muslims-london-mayor",
+  "id": "2016-05-07-193",
+  "sectionId": "politics",
+  "body": "Announcing a new mayor of London is always a historic moment, but the appointment of Sadiq Khan \u2013 the first ever Muslim to take on the job \u2013 has even more significance. It\u2019s a victory that, according to Khan himself, sends a strong message to all \u201cthe haters in Iraq and in Syria\u201d, showing that the city is a beacon of tolerance and respect.   Related: UK elections: Sadiq Khan 'has won' London mayoral race - live updates    But as well as sending a message abroad, what message does it send to those living in the UK? We want to hear from British Muslims about what this appointment means to them. After all, Khan is a leader who talks proudly about his faith. During his campaign he said: \u201cThe idea that the mayor of London could be son of an immigrant, son of a bus driver, ethnic minority \u2013 and by the way, of Islamic faith \u2013 would speak volumes.\u201d Will his appointment help tackle racism and islamophobia in London? Will its reach go beyond that and affect Britain as a whole? What are your thoughts about Khan \u2013 and what do you hope he will do for London? Share your views in the form below.",
+  "webTitle": "What does Sadiq Khan\u2019s victory mean for British Muslims? | Sarah Marsh",
+  "webPublicationDate": "2016-05-07T05:00:06Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/07/sadiq-khans-victory-mean-for-british-muslims-london-mayor",
+  "keyword": [
+    {
+      "webTitle": "Sadiq Khan",
+      "id": "politics/sadiq-khan",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "London",
+      "id": "uk/london",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Sarah Marsh",
+      "id": "profile/sarah-marsh"
+    }
+  ],
+  "guardianId": "politics/2016/may/07/sadiq-khans-victory-mean-for-british-muslims-london-mayor"
+}

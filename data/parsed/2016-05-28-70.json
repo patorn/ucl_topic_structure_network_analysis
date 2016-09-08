@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/28/andy-burnham-george-osborne-manchester-1bn-black-hole",
+  "id": "2016-05-28-70",
+  "sectionId": "politics",
+  "body": "Andy Burnham, who wants to be Labour\u2019s Manchester mayoral candidate, has called on George Osborne to take action over what he called a \u00a31bn black hole in the northern powerhouse initiative. Analysis of public services finances across Greater Manchester has found that a \u00a31bn shortfall would emerge over the course of this parliament. Central government grants to the region\u2019s 10 councils will fall by \u00a3836m between 2015 and 2020, and Manchester city council is set to lose \u00a3163m by 2019/20, according to Burnham. The region\u2019s NHS trusts face a combined deficit of \u00a3115m, the budget of Greater Manchester police will fall by an estimated \u00a334m over the five years, and post-16 education funding has been cut by \u00a32m this year. Burnham told Osborne: \u201cYou have one more budget before the new mayor takes office to fix this hole in our roof and balance the books. Your legacy as chancellor can go in two ways: as the one who truly changed the fortunes of the north; or one who perpetrated the most elaborate con in British political history. I urge you to choose the former and work with me to make it a success.\u201d The former health secretary said that given the north\u2019s overcrowded roads and poor rail links, it was impossible to conclude that Crossrail 2 \u2013 which would run diagonally across London \u2013 was the UK\u2019s highest strategic transport priority. \u201cI call on you to look again at this and urgently allocate the funding for a modern, high-speed rail system linking the cities of northern England,\u201d Burnham said.  \u201cI am prepared to give you the benefit of the doubt and believe that your commitment to the north is real. But people here are not daft \u2013 they now want actions, not clever slogans.\u201d In his budget in March, Osborne committed \u00a360m to develop an improved east-west rail link to reduce journey times from 50 minutes to about 30 minutes between Leeds and Manchester, as well as \u00a375m to develop plans for an 18-mile road tunnel under the Peak District to cut journey times between Manchester and London. However, funding has only been put forward to draw up plans rather than as any commitment to building either project.",
+  "webTitle": "Andy Burnham presses George Osborne over Manchester '\u00a31bn black hole'",
+  "webPublicationDate": "2016-05-28T16:34:34Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/28/andy-burnham-george-osborne-manchester-1bn-black-hole",
+  "keyword": [
+    {
+      "webTitle": "Andy Burnham",
+      "id": "politics/andyburnham",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "George Osborne",
+      "id": "politics/georgeosborne",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Devolution",
+      "id": "politics/devolution",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Greater Manchester",
+      "id": "uk/greater-manchester",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Manchester",
+      "id": "uk/manchester",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Local government",
+      "id": "society/localgovernment",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Chris Johnston",
+      "id": "profile/chris-johnston"
+    }
+  ],
+  "guardianId": "politics/2016/may/28/andy-burnham-george-osborne-manchester-1bn-black-hole"
+}

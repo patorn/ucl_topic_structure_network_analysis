@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sustainable-business/2016/may/27/green-energy-industrial-scale-wyke-farms-cheddar",
+  "id": "2016-05-27-303",
+  "sectionId": "sustainable-business",
+  "body": "\u201cMy grandparents used to tell me that if you look after nature, then nature will look after you,\u201d says Richard Clothier, managing director of Wyke Farms, which generates electricity, gas and heat from renewable sources. \u201cIt\u2019s nice to go to work in the morning and know you are doing the right thing.\u201d The dairy business in southwest England, which exports 14,000 tonnes of cheddar a year to more than 160 countries, has been building an energy generation and water recycling operation over the past five years to reduce its environmental impact and save money. According to Clothier, it\u2019s been able to lower its energy bills by nearly \u00a3100,000 per month as a result.   Aside from solar panels, Wyke generates electricity and heat from cow dung. Using microbes, the dung is broken down to produce biogas, which the farm burns to generate electricity and heat. Since dung naturally releases methane during decomposition, the process of producing biogas helps the farm cut the amount of methane \u2013 a potent greenhouse gas \u2013 reaching the atmosphere.  In addition, the cheese maker converts some of the biogas into biomethane, the majority of which it sells to businesses \u2013 including the supermarket chain Sainsbury\u2019s \u2013 via a local utility\u2019s pipelines.   Related: Under the sea: the underwater farms growing basil, strawberries and lettuce    Wyke\u2019s reliance on solar and biogas isn\u2019t unusual for an agricultural business. What sets Wyke\u2019s plan apart is its scale and complexity. The company is putting in place software to monitor energy generation and wastewater recycling, which can figure out the business\u2019s needs and adjust the energy generation accordingly. What\u2019s more, the company \u2013 which invested \u00a35m in biomethane generation \u2013 is taking a risk by counting on signing up customers willing to pay more for low-carbon energy when natural gas remains abundant and cheap. \u201cPerhaps [Wyke will prove to] have the foresight that pays dividends over the long run,\u201d says David Babson, a senior engineer at the Union of Concerned Scientists, a US nonprofit science advocacy group. \u201cI hope that\u2019s the case because you want to establish policies that incentivise the right behaviour.\u201d While it\u2019s difficult to say for certain when the biomethane business will start to deliver a return, Clothier hopes the payback period won\u2019t be more than five or six years. To build its alternative energy operation, the dairy business has borrowed \u00a311m from Barclays and put in \u00a32m of its own money to cover the cost of planning, equipment, wiring and electric grid upgrades. Wyke can use the government\u2019s renewable energy incentives to defray costs but it would get greater benefits by storing and using the renewable energy it generates on-farm because buying electricity from a local utility would cost 7.5 pence more per kilowatt-hour, says Clothier. As a result, Wyke is looking to boost the farm\u2019s solar energy generation and adding batteries. The farm is also eligible to receive government incentives for producing biomethane and recovering and using heat from its biogas-fed power plants. The dairy business, which employs 225 people and expects to post about \u00a32m in profit on \u00a375m in revenue this year, hopes to inspire fellow farmers to adopt alternative energy. \u201cI\u2019m really keen to show our farmers what they can do,\u201d says Clothier. \u201cThey can start with a couple of solar panels to reduce [their] daytime usage. You can start by doing just a little bit\u201d.  Wyke Farms is the 2016 winner in the carbon and energy management category of the Guardian Sustainable Business Awards.",
+  "webTitle": "The west country cheddar maker powered by solar and cow dung",
+  "webPublicationDate": "2016-05-27T04:00:22Z",
+  "webUrl": "https://www.theguardian.com/sustainable-business/2016/may/27/green-energy-industrial-scale-wyke-farms-cheddar",
+  "keyword": [
+    {
+      "webTitle": "Guardian sustainable business",
+      "id": "sustainable-business/sustainable-business",
+      "sectionId": "sustainable-business",
+      "sectionName": "Guardian Sustainable Business"
+    },
+    {
+      "webTitle": "Sustainable Business Awards",
+      "id": "sustainable-business/gsb-awards",
+      "sectionId": "sustainable-business",
+      "sectionName": "Guardian Sustainable Business"
+    },
+    {
+      "webTitle": "Renewable energy",
+      "id": "environment/renewableenergy",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Farming",
+      "id": "environment/farming",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Cheese",
+      "id": "lifeandstyle/cheese",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Energy",
+      "id": "environment/energy",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ucilia Wang",
+      "id": "profile/ucilia-wang"
+    }
+  ],
+  "guardianId": "sustainable-business/2016/may/27/green-energy-industrial-scale-wyke-farms-cheddar"
+}

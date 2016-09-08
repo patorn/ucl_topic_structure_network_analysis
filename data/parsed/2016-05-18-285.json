@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/marketforceslive/2016/may/18/ftse-falls-on-mining-weakness-but-arm-edges-higher-after-350m-deal",
+  "id": "2016-05-18-285",
+  "sectionId": "business",
+  "body": "Leading shares are falling back as the strong dollar, lifted by renewed talk of a US rate rise in June, hits the mining sector. But among the risers is Arm, up 6p at 934p as the chip designer announced the $350m purchase of imaging specialist Apical. Arm said Apical\u2019s technology is used in more than 1.5bn smartphones and 300m other devices including cameras and tablets. Arm said the move supported its long term growth strategy by giving it access to imaging products for driverless cars, security systems, robotics, mobile and other applications. Arm chief executive Simon Segars said:  Computer vision is in the early stages of development and the world of devices powered by this exciting technology can only grow from here. Apical is at the forefront of embedded computer vision technology, building on its leadership in imaging products that already enable intelligent devices to deliver amazing new user experiences.  But long term seller Liberum questioned the price paid:  Apical is a UK-based business, founded in 2002 and has 100 employees. No financials/numbers are given in the release but according to Companies House Apical had revenue of \u00a316.6m in 2015 (March year end) and operating profit of \u00a38.7m. Arm is therefore paying 14.5 times enterprise value/sales and 28 times enterprise value/EBIT, or \u00a32.4m per employee.  Apical\u2019s products are targeting intelligent vision for smartphones, connected cars, robots etc. Many other companies (CEVA, Qualcomm, Imagination) are developing products for this area. Computer vision is a very hot space at present and Arm appears to have paid a high price to get into the market.  Overall the FTSE 100 has dropped 40.39 points to 6127.38, after mixed UK jobless and earnings news. With the dollar strengthening mining shares were among the leading fallers, with Anglo American down 38.2p at 590.5p and Glencore 5.75p lower at 130.75p. Tony Cross, market analyst at Trustnet Direct said:  The FTSE-100 has started the session sharply lower with the vast majority of constituents sitting firmly in negative territory. Wall Street closed in a rather downbeat mood yesterday amidst escalating fears that the Fed could be on course to hike interest rates in June \u2013 something that we may get a bit more visibility of in tonight\u2019s FOMC minutes release \u2013 and this is really setting the pace. Natural resources stocks would suffer off the back of a rate hike as this would not only strengthen the dollar but also push up borrowing costs for many emerging markets, so it\u2019s little surprise that it\u2019s the miners that have been left scattered across the foot of the index, although ongoing support for oil prices is at least leaving the energy stocks out of the fray.  Burberry has dropped 21p to \u00a311.22 after a disappointing update and a restructuring. Richard Hunter, head of research at Wilson King Investment Management, said:  Burberry\u2019s recent chequered history continues as the beleaguered company looks to within for progress.The ambitious cost cutting programme will be aligned with an attempt to boost productivity, but in the meantime metrics such as earnings per share and profits have moved in the wrong direction, largely attributed to a challenging environment and, as previously flagged, Hong Kong in particular. Despite the obvious difficulties, however, revenues have remained broadly flat, margins are still comfortable even if declining, and the share buyback programme should be supportive. The increase to the dividend, currently yielding a respectable 3.5%, is confirmation of Burberry\u2019s confidence on future prospects. ..  The shares have yet to benefit from this renewed optimism... The return of the Asian consumer to previous spending habits is far from clear and may well prove something of a drag until evident. As such, the current market consensus of the shares as a hold is likely to remain in place for the time being.  Elsewhere easyJet has climbed 11p to \u00a314.48 after RBC raised its target price from \u00a315 to \u00a315.50 with an outperform rating. But British Airways owner International Airlines Group is down 3.5p at 515p despite Qatar Airways announcing it had increased its stake from 12% to 15%. Credit Suisse was positive about the move:  Deepening relationship between Qatar Airways and IAG [is] likely to result in revenue synergies...We see Qatar as building its holding in IAG with a view to ultimately supplementing the existing cargo joint venture between the carriers (and codeshares between BA, Iberia, Vueling and Qatar) with a passenger-focussed joint business likely providing transfer services for IAG airlines onward from Doha to APAC and African destinations that cannot justify service with IAG metal.   Among the mid-caps cash and carry group Booker has jumped 6% to 174.8p after Goldman Sachs upgraded from neutral to buy and raised its target price from 171p to 198p.",
+  "webTitle": "FTSE falls on mining weakness but Arm edges higher after $350m Apical deal",
+  "webPublicationDate": "2016-05-18T08:46:18Z",
+  "webUrl": "https://www.theguardian.com/business/marketforceslive/2016/may/18/ftse-falls-on-mining-weakness-but-arm-edges-higher-after-350m-deal",
+  "keyword": [
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Stock markets",
+      "id": "business/stock-markets",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "ARM",
+      "id": "business/armholdings",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Anglo American",
+      "id": "business/anglo-american",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Glencore",
+      "id": "business/glencore",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Burberry",
+      "id": "business/burberrygroup",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "easyJet",
+      "id": "business/easyjet",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "International Airlines Group",
+      "id": "business/international-consolidated-airlines-group",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Nick Fletcher",
+      "id": "profile/nickfletcher"
+    }
+  ],
+  "guardianId": "business/marketforceslive/2016/may/18/ftse-falls-on-mining-weakness-but-arm-edges-higher-after-350m-deal"
+}

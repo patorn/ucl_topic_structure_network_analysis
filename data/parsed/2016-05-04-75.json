@@ -1,0 +1,55 @@
+{
+  "apiUrl": "https://content.guardianapis.com/money/2016/may/04/george-osbornes-great-income-tax-pretence",
+  "id": "2016-05-04-75",
+  "sectionId": "money",
+  "body": "Now that April pay slips are appearing, the government\u2019s posturing about cutting taxes and helping \u201chard-working families\u201d is being shown to be a complete falsehood. My partner is a middle manager in the public sector. She has received a 1.2% pay rise and an increased income tax personal allowance, but these have been more than cancelled out by a whopping increase in national insurance, so she is worse off now than before. National insurance is income tax by another name and is paid disproportionately by those on low and middle incomes. It is surely time to merge the two taxes under a single transparent system, so everyone can know how much they are paying and George Osborne cannot increase taxes while pretending to cut them.Jill AllbrookeBromley, Kent  \u2022 Join the debate \u2013 email guardian.letters@theguardian.com",
+  "webTitle": "George Osborne\u2019s great income tax pretence | Letters",
+  "webPublicationDate": "2016-05-04T17:40:14Z",
+  "webUrl": "https://www.theguardian.com/money/2016/may/04/george-osbornes-great-income-tax-pretence",
+  "keyword": [
+    {
+      "webTitle": "National insurance",
+      "id": "money/national-insurance",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Income tax",
+      "id": "money/incometax",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Tax",
+      "id": "money/tax",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Economic policy",
+      "id": "politics/economy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "George Osborne",
+      "id": "politics/georgeosborne",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [],
+  "guardianId": "money/2016/may/04/george-osbornes-great-income-tax-pretence"
+}

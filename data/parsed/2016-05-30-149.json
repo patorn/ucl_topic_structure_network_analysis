@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/30/boris-johnson-nicer-than-trump-but-as-divisive-ken-clarke",
+  "id": "2016-05-30-149",
+  "sectionId": "politics",
+  "body": "The campaign to leave the EU has turned into a leadership bid by Boris Johnson, Ken Clarke has said \u2013 calling him simply a nicer version of Donald Trump. The former Tory cabinet minister, who has served as chancellor and home secretary, suggested Johnson was exploiting people\u2019s fears about immigration in a similar way to Trump, the controversial US presidential candidate who is expected to become the Republican nominee. \u201cI think Boris and Donald Trump should go away for a bit and enjoy themselves and not get in the way of the serious issues that modern countries in the 21st century face,\u201d Clarke said. \u201cHe\u2019s a much nicer version of Donald Trump but the campaign\u2019s remarkably similar in my opinion and about as relevant to the real problems the public face. \u201cThe personalities get in the way and it\u2019s no good turning the leave campaign into a leadership bid for Boris Johnson and anti-immigrant fears.\u201d Clarke\u2019s accusations highlight the increasingly acrimonious divide between senior Conservatives campaigning on different sides of the EU debate. Johnson and Michael Gove, the justice secretary, have been scathing about Downing Street\u2019s record on immigration. They have said that Cameron\u2019s failure to reduce immigration was \u201ccorrosive\u201d of voters\u2019 trust in politicians, while David Cameron and George Osborne have rubbished the leave campaign\u2019s economic claims.  There is particular fury among pro-Brexit campaigners that Cameron is fighting so hard to keep the UK in the EU, with backbench Tory MPs Andrew Bridgen and Nadine Dorries calling for him to face a motion of no confidence. Speaking on BBC Radio 4\u2019s Today programme on Monday, Clarke dismissed these threats to Cameron\u2019s premiership as a diversion at the same time as claiming that Johnson was using the leave campaign as a vehicle for a leadership challenge. \u201cAll this stuff about whether one or two backbenchers have signed a letter calling for David Cameron to resign, I think most of the public would agree is a bit of a diversion,\u201d he said. \u201cThe public are getting fed up of Tory civil wars when they thought they were being asked about the future of this country for their children and grandchildren. \u201cWhy are the leave campaign turning the whole thing into an argument about Turkish criminals about to flood into the country and Boris Johnson\u2019s bid for the leadership?\u201d",
+  "webTitle": "Boris Johnson is nicer than Trump but just as divisive, says Ken Clarke",
+  "webPublicationDate": "2016-05-30T09:15:18Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/30/boris-johnson-nicer-than-trump-but-as-divisive-ken-clarke",
+  "keyword": [
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Boris Johnson",
+      "id": "politics/boris",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "David Cameron",
+      "id": "politics/davidcameron",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Kenneth Clarke",
+      "id": "politics/kenneth-clarke",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Rowena Mason",
+      "id": "profile/rowena-mason"
+    }
+  ],
+  "guardianId": "politics/2016/may/30/boris-johnson-nicer-than-trump-but-as-divisive-ken-clarke"
+}

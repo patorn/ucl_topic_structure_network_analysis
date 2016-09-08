@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/27/five-of-the-best-films",
+  "id": "2016-05-27-175",
+  "sectionId": "film",
+  "body": "1 Love & Friendship (U) (Whit Stillman, 2016, Ire/Fra/Net/US) 93 mins.            Scheming, duplicitous and possessed of \u201can uncanny understanding of men\u2019s natures\u201d, Lady Susan is by no means your typical Jane Austen heroine, but Kate Beckinsale\u2019s portrayal of her is so delectable you\u2019ll be powerless to resist her charms. Her entitled but imperilled widow plays 18th-century society like a harpsichord, in a satire whose swift pace and effortless wit sets it apart from your stuffy, standard-issue costume dramas. 2 Everybody Wants Some!! (15) (Richard Linklater, 2016, US) 117 mins.            American education seems to be a Linklater fixation, and this film is one to file alongside Dazed & Confused, Boyhood and School Of Rock. The competitive antics of a 1980s college baseball team are observed with wise affection \u2013 it\u2019s School Of Jock. 3 Heart Of A Dog (PG) (Laurie Anderson, 2015, Fra/US) 76 mins.            A one-of-a-kind work from a singular mind, Anderson\u2019s essay film begins as a lament to her deceased rat terrier, but touches on all manner of big subjects (death, dreams, storytelling, memory) and some not-so-big (making clogs for dogs). Enhanced by her tender narration and electronic score, the cumulative effect is mesmerising and moving. 4 Sing Street (12A)  (John Carney, 2016, Ire/UK/US) 106 mins.            Set in mid-1980s Dublin, the Once director\u2019s latest musical is a \u201clet\u2019s form a band\u201d coming-of-ager, in which lust, enthusiasm and youthful naivety overcome lack of musical virtuosity. A nostalgia trip, maybe, but with just enough realism to make you care. 5 Mustang (15)  (Deniz Gamze Erg\u00fcven, 2015, Fra/Ger/Tur/Qat) 97 mins.            This Turkish girlhood drama continues to win converts with its empathetic tale of five sisters held under virtual house arrest by their family in a desperate bid to make them \u201crespectable\u201d wife material. The results are mixed, you could say, but it\u2019s less an overt political critique than a universal parable of generational imprisonment.",
+  "webTitle": "Five of the best\u2026 films out in the UK",
+  "webPublicationDate": "2016-05-27T12:00:03Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/27/five-of-the-best-films",
+  "keyword": [
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Everybody Wants Some!!",
+      "id": "film/everybody-wants-some--",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Richard Linklater",
+      "id": "film/richard-linklater",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Heart of a Dog",
+      "id": "film/heart-of-a-dog",
+      "sectionId": "film",
+      "sectionName": "Film"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Steve Rose",
+      "id": "profile/steverose"
+    }
+  ],
+  "guardianId": "film/2016/may/27/five-of-the-best-films"
+}

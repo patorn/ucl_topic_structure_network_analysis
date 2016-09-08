@@ -1,0 +1,30 @@
+{
+  "apiUrl": "https://content.guardianapis.com/culture/2016/may/03/letters-ronnie-corbett-obituary",
+  "id": "2016-05-03-127",
+  "sectionId": "culture",
+  "body": "Giles Oakley writes: A few years ago Ronnie Corbett delivered the keynote speech at a Royal Society for Medicine conference devoted to diseases of the prostate. It was attended by medical staff, researchers and patients, including many with advanced cancer, and there was a faintly apprehensive atmosphere at the beginning. Ronnie delivered a perfectly judged speech, openly revealing that he knew well the discomfort caused by an enlarged prostate and understood the anxiety caused by the whole range of symptoms and conditions. His down-to-earth good humour somehow managed to defuse any lingering unease at the topic under discussion, prompting gales of laughter at regular intervals. He had a marvellous way with people, with great human empathy underneath the jokes. Paul Foxall writes: We at the Max Wall Society were delighted when Ronnie Corbett became our president. He attended our annual dinners in London with his wife Anne, who had occasionally appeared with Max, as the glamorous feed while Professory Wallofski wrestled with a Hungarian Rhapsody by Liszt on the piano. She sang one year, and Ronnie\u2019s speeches and gags were always greatly appreciated.",
+  "webTitle": "Letters: Ronnie Corbett  had a marvellous way with people",
+  "webPublicationDate": "2016-05-03T15:33:46Z",
+  "webUrl": "https://www.theguardian.com/culture/2016/may/03/letters-ronnie-corbett-obituary",
+  "keyword": [
+    {
+      "webTitle": "Ronnie Corbett",
+      "id": "culture/ronnie-corbett",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Giles Oakley",
+      "id": "profile/giles-oakley"
+    }
+  ],
+  "guardianId": "culture/2016/may/03/letters-ronnie-corbett-obituary"
+}

@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/12/eu-referendum-brexit-britain-michel-sapin-economy",
+  "id": "2016-05-12-192",
+  "sectionId": "business",
+  "body": "European countries would counter the economic shock of a British vote to leave the EU by accelerating plans for closer integration, the French finance minister has said. Michel Sapin said Europe was undergoing a recovery after eight years of almost zero growth and would be reluctant to allow a \u201cshock to the European economy\u201d to jeopardise it.   Related: Brexit could lead to recession, says Bank of England    He warned Britain would lose influence following a Brexit vote, which would probably encourage the 27 remaining EU members to draw closer together to protect themselves from a downturn in growth. He said: \u201cIf the UK chose not to belong to the EU, I know it will be a shock for the rest of Europe. Denmark and Sweden, I don\u2019t know, but it\u2019s a personal opinion that they will want to get closer to the euro.\u201d Sapin, who was in London on Thursday to attend David Cameron\u2019s anti-corruption conference, is a close ally of President Fran\u00e7ois Hollande and has recently helped force through changes to the labour market, bypassing the French national assembly. While reluctant to comment on the vote, saying it was a matter for the British public, he said if the UK voted to stay inside the EU, governments would implement demands from voters across the bloc for greater simplicity, transparency and democracy. \u201cThis is something we must press ahead with in the coming years,\u201d he said. If the UK voted to leave, he said: \u201cIt would be fanciful to believe this would not have any consequences.\u201d   Related: David Cameron opens London summit describing corruption as 'a cancer' \u2013 live    London\u2019s status as a global financial centre would probably be affected as banks in the eurozone looked elsewhere to conduct their business. \u201cThe City (of London) is a considerable financial force and I don\u2019t think that (Brexit) would transform all the elements that constitute its strength,\u201d Sapin said. \u201cBut I don\u2019t think that it would be without effects, which would have to be seen.\u201d Some French banks had told him Brexit would have consequences for them and that some of their activities based in London might not carry on as they were, Sapin said. The finance minister\u2019s comments were echoed by a senior economic adviser to President Barack Obama in an interview for a German newspaper. Jason Furman, the chairman of the White House council of economic advisers, said a vote to leave the EU would hurt Britain, Europe and the global economy. \u201cYou can certainly argue about whether the damage Brexit would cause would be small, medium or big but it would definitely cause damage, especially for the Brits but also for the Europeans and the global economy,\u201d Furman said in an interview with Handelsblatt.  \u201cWe don\u2019t need more uncertainty at the moment.\u201d",
+  "webTitle": "Brexit vote would bring EU states closer together, says French finance minster",
+  "webPublicationDate": "2016-05-12T13:39:08Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/12/eu-referendum-brexit-britain-michel-sapin-economy",
+  "keyword": [
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Economic policy",
+      "id": "politics/economy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Phillip Inman",
+      "id": "profile/phillipinman"
+    }
+  ],
+  "guardianId": "business/2016/may/12/eu-referendum-brexit-britain-michel-sapin-economy"
+}

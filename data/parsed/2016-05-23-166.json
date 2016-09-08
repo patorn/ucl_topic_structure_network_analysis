@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/23/vice-uk-staff-council-nuj",
+  "id": "2016-05-23-166",
+  "sectionId": "media",
+  "body": "Vice UK is to set up a staff council it says is supported by a majority of staff, but the move is being opposed by the National Union of Journalists who claim it is a \u201cMurdoch-style\u201d attempt to dodge union recognition.  The media group said a survey of all permanent staff had found a majority in favour of setting up the council, which was proposed by the company in response to calls from some staff to organise a union chapel and gain collective bargaining rights. In a note to staff proposing the council late last month, Vice Europe chief executive Matt Elek wrote: \u201cThe NUJ are used to working with old print media businesses and structures \u2013 they are not used to innovative, digital workplaces like this where the culture has always been to encourage flexibility and allow people work across different departments.\u201d   Related: Vice UK rejects call for union recognition    However, the NUJ accused Vice of trying to \u201corchestrate\u201d the creation of the council, saying 48% of the 277 staff polled had rejected the proposal and Vice should have consulted those on freelance contracts who \u201cwork in insecure ways for long periods of time at the company\u201d. Vice has a 12-month limit on freelance contracts, with many long-serving staff moving to payroll. The survey did not include questions about unionisation but 71 staff expressed an interest in recognition. The union also accused Vice of \u201cwalking away\u201d from negotiations in April and has said the company has not engaged with arbitration service Acas.  An NUJ spokesperson said: \u201cA significant proportion of staff have said that they are not satisfied with what the company has proposed.  \u201cWe know from feedback that people wanted independent information before making a decision and the union proposed to the company that Acas facilitate a staff meeting whereby different points of view could be equally represented but the proposal was ignored by management.  \u201cManagement only proposed forming a staff council, also known as a staff association, after the NUJ made a request for voluntary recognition in a Murdoch-style move to prevent genuine collective bargaining by an independent trade union.\u201d Vice has previously insisted that it has not ruled out recognition if the majority of staff support it, and in response to the NUJ\u2019s statements on the council repeated its willingness to continue talks with the union.  A Vice UK spokesman said: \u201cWe are committed to listening to and respecting the views of our employees, and after canvassing them all, the majority have voted in favour of setting up their own staff council.  \u201cWe\u2019re excited to see this being formed immediately to provide a forum to continue improving the experience of working at Vice for everyone. We have shared our findings with the NUJ and look forward to carrying on our dialogue with them.\u201d",
+  "webTitle": "Vice UK goes ahead with staff council despite NUJ opposition",
+  "webPublicationDate": "2016-05-23T13:37:19Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/23/vice-uk-staff-council-nuj",
+  "keyword": [
+    {
+      "webTitle": "Vice Media",
+      "id": "media/vice-media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Digital media",
+      "id": "media/digital-media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "National Union of Journalists",
+      "id": "media/nationalunionofjournalists",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jasper Jackson",
+      "id": "profile/jasper-jackson"
+    }
+  ],
+  "guardianId": "media/2016/may/23/vice-uk-staff-council-nuj"
+}

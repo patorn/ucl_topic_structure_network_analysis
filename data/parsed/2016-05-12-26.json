@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/12/cabin-fever-review-horror-remake-astounding-in-its-lameness",
+  "id": "2016-05-12-26",
+  "sectionId": "film",
+  "body": "Eli Roth presides as exec producer over this fantastically pointless and uninspired horror remake of his 2002 scary movie about the attractive young people who go away for a weekend break in a cabin in the woods, have sex and then succumb to a flesh-eating virus, while at the same time being menaced by creepy hillbilly locals.  There is no interesting new slant on this material: it\u2019s just the same old stuff, being served up in a tired and cynical fashion, without anything inventive in the way of humour or fear. And the sting that comes midway through the closing credits takes the film to a new level of lameness and dullness. One to avoid.",
+  "webTitle": "Cabin Fever review \u2013 horror remake astounding in its lameness",
+  "webPublicationDate": "2016-05-12T21:00:08Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/12/cabin-fever-review-horror-remake-astounding-in-its-lameness",
+  "keyword": [
+    {
+      "webTitle": "Horror",
+      "id": "film/horror",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Drama",
+      "id": "film/drama",
+      "sectionId": "film",
+      "sectionName": "Film"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Peter Bradshaw",
+      "id": "profile/peterbradshaw"
+    }
+  ],
+  "guardianId": "film/2016/may/12/cabin-fever-review-horror-remake-astounding-in-its-lameness"
+}

@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/10/lso-andsnes-flor-review-barbican-london",
+  "id": "2016-05-10-167",
+  "sectionId": "music",
+  "body": "Sometimes, if you want a job doing you have to do it yourself. This was the first of the Artist Portrait concerts the LSO is putting on in London for pianist Leif Ove Andsnes, a repeat of the event that had opened the Brighton festival the day before. Both were to have been conducted by Daniel Harding but, with Harding ill, it fell to Andsnes himself to direct Mozart\u2019s Piano Concerto No 20. Seated at the keyboard with his back to us, with the piano lid entirely removed so that there was nothing to bounce his sound towards the audience, Andsnes wasn\u2019t always ideally balanced with the orchestra; at times one wanted a leaner, more transparent string sound. Yet Andsnes\u2019s cool but shapely piano lines were never entirely masked. The finale got off to a nicely fiery start, and Andsnes resisted the temptation to make us jump at the theme\u2019s jarring, pointy chord every time it came around. This was typically classy stuff from Andsnes \u2013 playing that didn\u2019t draw undue attention to itself, and yet was far too nuanced and alive to be described as understated. Harding\u2019s last-minute absence meant that we didn\u2019t get to hear the original version of Bruckner\u2019s Third Symphony but rather its more familiar third version, shorter than the original and here propulsively paced by Claus Peter Flor, standing in on the podium. Flor seemed from the start to be revelling in the orchestra\u2019s potential for colour, intensity and loudness \u2013 but, though the sound was big, it was never too much.",
+  "webTitle": "LSO/Andsnes/Flor review \u2013 nuanced and alive",
+  "webPublicationDate": "2016-05-10T12:50:37Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/10/lso-andsnes-flor-review-barbican-london",
+  "keyword": [
+    {
+      "webTitle": "Classical music",
+      "id": "music/classicalmusicandopera",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "London Symphony Orchestra",
+      "id": "music/london-symphony-orchestra",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Leif Ove Andsnes",
+      "id": "music/leif-ove-andsnes",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Erica Jeal",
+      "id": "profile/ericajeal"
+    }
+  ],
+  "guardianId": "music/2016/may/10/lso-andsnes-flor-review-barbican-london"
+}

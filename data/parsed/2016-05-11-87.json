@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/11/george-osborne-gives-treasury-wonk-licence-to-talk-detail-eu-referendum",
+  "id": "2016-05-11-87",
+  "sectionId": "politics",
+  "body": "\u201cThank you very much for coming, chancellor,\u201d said Jacob Rees-Mogg. The Conservative MP has always had the very best of manners. \u201cYou\u2019ve been much more responsive than my friends on the leave campaign.\u201d \u201cI thought the chancellor was your friend,\u201d Labour\u2019s Rachel Reeves observed.  Rees-Mogg blushed ever so slightly. \u201cThe chancellor is my right honourable friend,\u201d he added, by way of clarification. \u201cThese are strange times,\u201d George Osborne muttered wearily. Indeed they are. The old party ties have been put on hold for the duration of the EU referendum; my enemy\u2019s enemy is my friend is now the only guiding principle of Westminster politics. These days, when the chancellor appears before the Treasury select committee he has more allies among the ranks of its Labour and SNP members than he does within the Conservatives. This was the second time Osborne had been asked to give evidence to the select committee on the financial impact of a decision to leave the EU, and he was already well in credit. Partly because no one really understood any of the more absurd equations in the Treasury\u2019s financial analysis well enough to know whether or not they were correct, but mainly because Vote Leave had set the bar so low at previous committee sessions by being almost totally innumerate. In the interests of balance, the pro-EU Conservative Stephen Hammond did make an effort to probe Osborne\u2019s claim that every household would be \u00a34,300 worse off. Might it not have been ever so slightly misleading? George looked puzzled. If it hadn\u2019t terrified a few people into voting to remain then the whole exercise had been a total waste of time. \u201cCan we have some more details?\u201d Hammond asked hopefully. George turned to Mark Bowman, one of his policy wonk sidekicks at the Treasury. \u201cOver to you, Mark,\u201d he smiled. Mark looked a little startled. For an economist to be be asked for more detail is like being given licence to talk dirty. \u201cI can refer you to the diagram in the annexe on page 154,\u201d he purred. Almost immediately, Hammond looked as if he was regretting ever having asked the question, but by now it was far too late. Mark was off on to footnote A111 on page 179, which referred to Barrell and Pain\u2019s 1997 framework for assessing productivity impacts on FDI. The committee reacted as if he had just opened a whole new barrel of pain. The pro-leave Conservative Steve Baker felt brave enough to have another go. Wouldn\u2019t a figure of \u00a33,700 have been more accurate? Not really, George insisted, because as it happened the Treasury had entirely forgotten to model in the inevitable balance of payments crises that would follow a Brexit. So the figure was probably actually a lot higher. \u201cThe thing is,\u201d said George warming to his theme, \u201cthat Vote Leave keep changing their minds about what we\u2019re going to do if we leave the EU, so it\u2019s quite hard to keep up. A couple of weeks ago they were going to adopt a Norwegian trade model, then it was a Canadian trade model. Yesterday it was Albanian and today I hear it\u2019s going to be a US one.\u201d Conservative Chris Philp looked agonised. Although he is firmly in the remain camp, he hates upsetting anyone. \u201cNo credible person is seriously saying we can\u2019t have free trade,\u201d he said, trying to cheer up Rees-Mogg and Baker, who were looking more and more glum the longer the session went on after watching their economic position hover ever more precariously on a wing and a prayer. \u201cThough Michael Gove has suggested leaving the free market.\u201d \u201cSo you\u2019re saying Michael Gove isn\u2019t credible,\u201d sniggered Reeves.  \u201cUm no, um yes, um no I think Michael is very credible,\u201d stuttered Philp, belatedly realising he had just voluntarily backed himself into a corner. After that it was just a matter of the rest of the committee teeing up George with questions to which he could answer that Britain would definitely be broke and everyone would die if we left the EU. Mark shuffled his papers and wrote some new equations to make sure the chancellor was telling the truth. The killer moment came after two hours. \u201cIf we leave,\u201d said George, \u201cthe House of Commons will be doing nothing but talking about how to disengage from the EU for the next 10 years.\u201d The committee fell silent as they absorbed the impact of that statement. It was the most compelling evidence for remaining it had heard in months.",
+  "webTitle": "George Osborne gives Treasury wonk licence to talk detail",
+  "webPublicationDate": "2016-05-11T17:59:42Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/11/george-osborne-gives-treasury-wonk-licence-to-talk-detail-eu-referendum",
+  "keyword": [
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "George Osborne",
+      "id": "politics/georgeosborne",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Economic policy",
+      "id": "politics/economy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "House of Commons",
+      "id": "politics/houseofcommons",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Civil service",
+      "id": "politics/civil-service",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "John Crace",
+      "id": "profile/johncrace"
+    }
+  ],
+  "guardianId": "politics/2016/may/11/george-osborne-gives-treasury-wonk-licence-to-talk-detail-eu-referendum"
+}

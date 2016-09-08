@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/12/horse-racing-tips-friday-13-may",
+  "id": "2016-05-12-94",
+  "sectionId": "sport",
+  "body": "York 2.20 Just That Lord 2.55 Amlak 3.30 Nemoralia 4.05 Flying Officer 4.40 Barsanti 5.10 Azagal 5.40 West Drivey   Related: Midterm fifth as Frankie Dettori wins Dante Stakes on Wings Of Desire    Hamilton 5.45 Lomu 6.15 Sindarban 6.50 Jacbequick 7.25 Fabricate 7.55 My Amigo 8.30 It\u2019s Only Mossy 9.00 Bronze Beau Newbury  1.30 Waqaas 2.00 Zebulon 2.35 Officer Drivel 3.10 Englishman 3.45 Chess Master 4.15 Ulysses 4.50 Cat Royale 5.20 The New Pharaoh Newmarket 2.10 Arabian Hope 2.45 Ebbisham 3.20 Song Of Norway (nb) 3.55 Alcatraz (nap) 4.25 Taffeta Lady 5.00 George Cinq 5.30 Snappy Guest Aintree 5.25 The Missus 5.55 Mezendore 6.30 Elysian Prince 7.05 Gran Maestro 7.35 Cocktails At Dawn 8.10 Panis Angelicus 8.40 Bill And Barn",
+  "webTitle": "Horse racing tips: Friday 13 May",
+  "webPublicationDate": "2016-05-12T17:34:13Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/12/horse-racing-tips-friday-13-may",
+  "keyword": [
+    {
+      "webTitle": "Horse racing tips",
+      "id": "sport/horse-racing-tips",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Horse racing",
+      "id": "sport/horse-racing",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Chris Cook",
+      "id": "profile/chriscook"
+    }
+  ],
+  "guardianId": "sport/2016/may/12/horse-racing-tips-friday-13-may"
+}

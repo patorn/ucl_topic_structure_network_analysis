@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/01/danielsson-neset-lund-sun-blowing-review-brilliant-improvisation",
+  "id": "2016-05-01-169",
+  "sectionId": "music",
+  "body": "Three musicians meet in a Copenhagen studio. They have never played together as a trio and have nothing prepared. In one afternoon, they must record whatever they come up with. This was once quite normal; now, with everyone writing their own material, it\u2019s risky. In the event, bassist Lars Danielsson, saxophonist Marius Neset and drummer Morten Lund formed an instant bond. They all play brilliantly, especially Neset, who is famous for the care he takes over preparing his recorded work. His piece, Salme, is the most memorable of the eight numbers, mainly because it moves through several tempos and moods. As a sustained feat of group improvisation, the whole thing is very impressive.",
+  "webTitle": "Danielsson, Neset, Lund: Sun Blowing review \u2013 brilliant improvisation",
+  "webPublicationDate": "2016-05-01T07:00:48Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/01/danielsson-neset-lund-sun-blowing-review-brilliant-improvisation",
+  "keyword": [
+    {
+      "webTitle": "Jazz",
+      "id": "music/jazz",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Dave Gelly",
+      "id": "profile/dave-gelly"
+    }
+  ],
+  "guardianId": "music/2016/may/01/danielsson-neset-lund-sun-blowing-review-brilliant-improvisation"
+}

@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/26/gallant-ology-review-mind-of-a-genius",
+  "id": "2016-05-26-28",
+  "sectionId": "music",
+  "body": "In a post-Frank Ocean world in which his new album seems stuck in musical purgatory, fans of contemporary R&B have plenty of other options. Ty Dolla $ign offers a rugged masculinity tempered by hip-hop, while Bryson Tiller is a sultry heartthrob for 2016. But Gallant might be the most fitting successor. Ology sees him follow up his 2014 EP Zebra with an album that describes his vision of what contemporary R&B should look like. The single Weight in Gold isn\u2019t a million miles away from the atavistic but always interesting Raphael Saadiq. And, while that quotes from the 60s heyday of Stax and Motown, Bone + Tissue takes its cues from the 90s. Slowed down samples merge with Gallant\u2019s falsetto and a diving bassline to create a sound that is part Jodeci and part Boys II Men. There\u2019s only one guest appearance (Jhene Aiko features on Skipping Stones), which leaves Gallant room to showcase his vocal range, songwriting and propensity for weird electronic noodling, like on the minute-long aside Oh, Universe. If this is what R&B\u2019s future looks like it\u2019s brighter than ever.",
+  "webTitle": "Gallant: Ology review \u2013 a vision of the future of R&B",
+  "webPublicationDate": "2016-05-26T21:20:13Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/26/gallant-ology-review-mind-of-a-genius",
+  "keyword": [
+    {
+      "webTitle": "R&B",
+      "id": "music/r-and-b",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Pop and rock",
+      "id": "music/popandrock",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Hip-hop",
+      "id": "music/hip-hop",
+      "sectionId": "music",
+      "sectionName": "Music"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Lanre Bakare",
+      "id": "profile/lanre-bakare"
+    }
+  ],
+  "guardianId": "music/2016/may/26/gallant-ology-review-mind-of-a-genius"
+}

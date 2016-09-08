@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/economics-blog/2016/may/19/uk-retail-sales-customer-spending-manufacturing",
+  "id": "2016-05-19-190",
+  "sectionId": "business",
+  "body": "Department stores were one of the big winners last month in the race to win customers. Furniture stores were not far behind. Maybe it was the onset of spring and better weather that convinced shoppers to venture out. Could it be that their outside room, sorry, their garden, needed a bit of freshening up? Figures from the rest of the high street and online stores told a similar story: we still have an appetite for more things and we are far from reaching peak stuff. The problem is that shoppers are not spending more than a year ago. They are using their gains from falling food and clothing prices to buy more furniture, and bits and bobs for the home. On average, store prices fell.  This means that the economy as a whole is gaining little extra from shopaholic Britons, while other sectors are slackening quite markedly. David Kern, the chief economist at the British Chambers of Commerce (BCC), put it succinctly in his response to the figures for March. \u201cThe fact that average store prices fell suggests that inflationary pressures in the economy are weak,\u201d he said.   Related: Making things matters. This is what Britain forgot | Ha-Joon Chang    It is a sign of weak demand if there are no inflationary pressures, Kern said, which \u201cstrengthens the argument for the MPC [monetary policy committee] to persevere with low interest rates for the time being to support the recovery.\u201d Kern is nothing if not consistent. He has long argued that the bedrock of the economy, manufacturing, is weaker than many suspect and more open to the global slowdown in trade than the high street.  Last week, the chancellor, George Osborne, told Christine Lagarde, the managing director of the International Monetary Fund, that \u201cthe whole government\u201d was throwing itself into supporting manufacturing. He did not mention shopping as a route out of the current slowdown. Osborne agrees with Kern that low interest rates are an essential element of the support for making things and exporting them. But Kern and the BCC want much more from the chancellor. Perhaps after the referendum, Osborne will dust off his \u201cmarch of the makers\u201d speech and revisit proposals for a more activist policy towards manufacturing. In the meantime, Kern says the vibrancy of the UK high street contrasts with the manufacturing sector and \u201chighlights the unbalanced nature of Britain\u2019s recovery\u201d.  \u201cTo secure sustained growth, we need a more balanced economic structure with a stronger focus on exports, investment and manufacturing,\u201d he said. Maybe after 23 June there will be a plan.",
+  "webTitle": "UK retail sales may be up, but customers aren't spending more money",
+  "webPublicationDate": "2016-05-19T12:18:11Z",
+  "webUrl": "https://www.theguardian.com/business/economics-blog/2016/may/19/uk-retail-sales-customer-spending-manufacturing",
+  "keyword": [
+    {
+      "webTitle": "Retail industry",
+      "id": "business/retail",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Internet",
+      "id": "technology/internet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Online shopping",
+      "id": "money/online-shopping",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Consumer affairs",
+      "id": "money/consumer-affairs",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "George Osborne",
+      "id": "politics/georgeosborne",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Phillip Inman",
+      "id": "profile/phillipinman"
+    }
+  ],
+  "guardianId": "business/economics-blog/2016/may/19/uk-retail-sales-customer-spending-manufacturing"
+}

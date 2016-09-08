@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/23/tory-men-eu-referendum-david-cameron-boris-johnson-media",
+  "id": "2016-05-23-217",
+  "sectionId": "media",
+  "body": "The media\u2019s coverage of the European Union referendum debate has been a largely male, Conservative affair in which the new era of multi-party politics has been ignored in favour of the rivalry between David Cameron and Boris Johnson, new research has claimed.   Brexit explained: campaign funding   A study of print and broadcast coverage found that only one in 10 contributors to the debate in the national press were women, with Johnson, Cameron and George Osborne the top three most frequently featured across both media. On television, fewer than one in six people on screen were women. The Loughborough University report, published on Monday, found that Tory party sources dominated press and TV reporting, with Labour voices sidelined and the Lib Dems and Scottish National party \u201cvirtually invisible\u201d. Dominic Wring, professor of political communication at Loughborough University and one of the five authors of the report, said: \u201cConservative politicians and internal party rivalries have dominated the referendum campaign. \u201cLongstanding in-out campaigners such as Nigel Farage and Alan Johnson have been comparatively marginalised. Unlike Cameron and his putative successors, Jeremy Corbyn\u2019s profile has been similarly modest. \u201cBut these male politicians have at least received some attention whereas women representatives have been seldom seen, heard or reported in this stage of the campaign.\u201d  He added: \u201cNicola Sturgeon\u2019s absence from the news reporting considered here is quite striking [and] reflects the marginalisation by the media of the constitutional implications of a vote for Brexit.\u201d The report looked at 10 days of reporting (weekdays only) between 6 May and 18 May. It analysed the main evening bulletins on BBC1, ITV, Channel 4 and Channel 5, and a 30-minute evening slot on Sky News, as well as a representative sample of pages from all the national daily newspapers.   Related: Study confirms that the national press is biased in favour of Brexit    The report said TV news was more favourable to the in campaign than the national press, but said it was too early to say whether either side was \u201cdefinitively winning the media war\u201d. It went on to highlight the narrowness of the media\u2019s coverage ahead of the vote on 23 June, which it said focused on the conduct of the campaign and personal rivalries at the heart of the government. \u201cThe new era of multi-party politics in the UK is not reflected in referendum coverage. Labour voices have been sidelined and the Lib Dems, SNP and other parties are virtually invisible,\u201d it said. The report said coverage of issues to do with business, trade and the economy featured twice as much as immigration and border controls, which it suggested was good news for the remain campaign because immigration was a key issue for potential leave supporters. Other issues related to the vote such as environment, travel, social rights and constitutional issues \u201cbarely registered\u201d.",
+  "webTitle": "Tory men dominate EU referendum coverage, study finds",
+  "webPublicationDate": "2016-05-23T11:00:11Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/23/tory-men-eu-referendum-david-cameron-boris-johnson-media",
+  "keyword": [
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "David Cameron",
+      "id": "politics/davidcameron",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Boris Johnson",
+      "id": "politics/boris",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "John Plunkett",
+      "id": "profile/johnplunkett"
+    }
+  ],
+  "guardianId": "media/2016/may/23/tory-men-eu-referendum-david-cameron-boris-johnson-media"
+}

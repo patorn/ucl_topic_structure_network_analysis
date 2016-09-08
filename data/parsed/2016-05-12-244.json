@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/12/manchester-flight-delayed-after-woman-punched-pilot-in-face",
+  "id": "2016-05-12-244",
+  "sectionId": "uk-news",
+  "body": "A flight was delayed after a woman allegedly punched an easyJet pilot in the face at Manchester airport.  Police were called to the airport around 2.20pm on Wednesday after a disturbance on a flight due to leave for Paphos in Cyprus. A 25-year-old woman was asked to leave the flight due to her behaviour. While being escorted from the aircraft by flight attendants the woman allegedly assaulted the captain of the plane. Greater Manchester police said the woman was arrested on suspicion of assault, and officers also discovered that she was wanted for drugs offences. The woman is now being questioned in police custody. The airline issued a statement confirming that the police had been called to attend the flight prior to its departure \u201cto assist with a disruptive passenger\u201d. \u201cThe passenger was subsequently arrested. The safety and well-being of passengers and crew is always easyJet\u2019s priority,\u201d the statement said. \u201cWhilst such incidents are rare, we take them very seriously, do not tolerate abusive or threatening behaviour on board and always push for prosecution.\u201d The flight was due to depart at 2.10pm, but eventually took off around 4pm. It is not the first time an easyJet flight has been disrupted by unruly passengers. In April 2015 one of the airline\u2019s flights was forced to make an emergency landing after a passenger punched a flight attendant to the floor after becoming impatient because he was waiting too long for a sandwich.",
+  "webTitle": "Manchester flight delayed after woman 'punched pilot in face'",
+  "webPublicationDate": "2016-05-12T11:13:53Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/12/manchester-flight-delayed-after-woman-punched-pilot-in-face",
+  "keyword": [
+    {
+      "webTitle": "Manchester",
+      "id": "uk/manchester",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Air transport",
+      "id": "world/air-transport",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Greater Manchester",
+      "id": "uk/greater-manchester",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "easyJet",
+      "id": "business/easyjet",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Airline industry",
+      "id": "business/theairlineindustry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Frances Perraudin",
+      "id": "profile/frances-perraudin"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/12/manchester-flight-delayed-after-woman-punched-pilot-in-face"
+}

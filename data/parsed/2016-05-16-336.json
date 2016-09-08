@@ -1,0 +1,90 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/16/banks-await-decision-proposals-cap-overdraft-charges",
+  "id": "2016-05-16-336",
+  "sectionId": "business",
+  "body": "High street banks will learn this week whether regulators intend to press ahead with proposals to cap overdraft charges in an attempt to make it easier for customers to switch current accounts. The Competition and Markets Authority (CMA) is due to publish provisional recommendations from its delayed investigation into retail banking on Tuesday. It will be followed by a month\u2019s consultation before a final ruling. The watchdog is also expected to say whether it will want two banking price comparison websites set up. Besides a site for retail customers, an additional one for small businesses could be created under the auspices of innovation charity Nesta. Banks could be required to contribute millions of pounds to a prize fund for the development project.   Related: This bank account switching report is a real hassle    The CMA, which was criticised after a preliminary report in October for not taking bold enough measures to get customers a better deal, has calculated that account holders with an overdraft could save an average of \u00a3140 in annual charges if they moved their accounts. Those with larger overdrafts could save as much as \u00a3260. But bank customers with overdrafts find it notoriously difficult to switch. The watchdog announced its investigation in July 2014 at a time of heightened political debate about the banking sector. The dominant big four of Lloyds Banking Group, Royal Bank of Scotland, HSBC and Barclays control 77% of current accounts, which generate \u00a38bn a year in revenue. They control 85% of small business accounts.  The investigation was supposed to conclude this month, but the timetable was delayed until 12 August to allow the CMA to look at options for overdrafts, one of the potential impediments to moving a current account. Among ideas already suggested by the CMA are  Limiting the maximum monthly charges for an unarranged overdraft. Requiring banks to offer grace periods during which customers can take action to avoid unarranged overdraft charges. Requiring banks to send text messages to customers to warn them if they are going overdrawn. Forcing banks that make mistakes to suggest that customers could find better deals with rivals.  The regulator has previously ruled out the radical option of breaking up the banks and has rejected calls from the smaller \u201cchallenger\u201d banks to end the practice of free-in-credit banking, which they say puts them at a competitive disadvantage. TSB, spun out of Lloyds and now owned by Spanish bank Sabadell, issued a final plea ahead of the report\u2019s publication for its idea of a \u201ccredit passport\u201d and monthly bill to be introduced. The credit passport would be intended to make it easier for customers with overdrafts to switch bank, while the monthly bill would highlight the real cost of free-in-credit banking to customers. Paul Pester, the chief executive of TSB, said it was a \u201conce in a generation\u201d opportunity to encourage competition. \u201cWe want all bank customers to know what they\u2019re paying for their banking; all customers \u2013 including overdraft users \u2013 to be able to switch easily; and all customers to be aware of their right to switch banks.\u201d  The big four have already attempted to head off radical measures by setting up a current account switch service (Cass) in September 2013, which shifts direct debit mandates and regular payments to a new bank within seven working days. Before the seven-day pledge was adopted, it could take up to a month to switch accounts and the delay was regarded as one of the reasons customers hesitated to move. Data published in April showed that in the 12 months to the end of March just over 1 million customers switched their accounts, compared with 1.1 million in the previous 12 months. When the CMA\u2019s provisional findings were published in October, Alasdair Smith, who is chairing the investigation, highlighted the government Midata scheme, which gives a breakdown of an individual\u2019s data that can be plugged into price-comparison websites, as \u201ca game-changing tool\u201d.",
+  "webTitle": "Banks await decision on proposals to cap overdraft charges",
+  "webPublicationDate": "2016-05-16T06:00:28Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/16/banks-await-decision-proposals-cap-overdraft-charges",
+  "keyword": [
+    {
+      "webTitle": "Banking reform",
+      "id": "business/banking-reform",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Banking",
+      "id": "business/banking",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Financial sector",
+      "id": "business/financial-sector",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Competition and Markets Authority",
+      "id": "business/competition-commission",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Regulators",
+      "id": "business/regulators",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "TSB",
+      "id": "business/tsb",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Lloyds Banking Group",
+      "id": "business/lloyds-banking-group",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "HSBC",
+      "id": "business/hsbcholdings",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Royal Bank of Scotland",
+      "id": "business/royalbankofscotlandgroup",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Barclays",
+      "id": "business/barclay",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jill Treanor",
+      "id": "profile/jilltreanor"
+    }
+  ],
+  "guardianId": "business/2016/may/16/banks-await-decision-proposals-cap-overdraft-charges"
+}

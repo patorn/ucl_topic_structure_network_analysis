@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/11/william-hill-pays-out-3m-to-punters-backing-leicester-city",
+  "id": "2016-05-11-90",
+  "sectionId": "business",
+  "body": "William Hill has paid out \u00a33m to punters who backed Leicester City to win the Premier League, but the hit to the bookmaker was partly offset by good results from the rest of the season\u2019s matches. The bookmaker said it hopes the Leicester effect will lead to a betting boom on underdog teams next time round, in the expectation that the Foxes\u2019 victory is unlikely to be repeated. \u201cI would expect the market for next season to be bulging,\u201d chief executive James Henderson told Bloomberg. William Hill was less lucky with the Cheltenham racing festival, as the favourites romped home, and with European football, where it took little foresight for customers to back Bayern Munich, Juventus and Paris St Germain to win their respective leagues. After March\u2019s profit warning, William Hill\u2019s update at its annual meeting showed total revenues for the 17 weeks to 26 April were down 3%, with online revenues falling 11%. It stuck to its forecast of full-year operating profits of between \u00a3260m and \u00a3280m. The company\u2019s shares fell nearly 6% on the news and analysts at Liberum said: \u201cThe market needs reassurance that the operational challenges in online have been addressed and we do not see too many positive catalysts on the horizon. The high UK exposure meanwhile leaves open the risk of negative regulatory and duty changes.\u201d",
+  "webTitle": "William Hill pays out \u00a33m to punters backing Leicester City",
+  "webPublicationDate": "2016-05-11T17:52:35Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/11/william-hill-pays-out-3m-to-punters-backing-leicester-city",
+  "keyword": [
+    {
+      "webTitle": "William Hill",
+      "id": "business/williamhill",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Gambling",
+      "id": "society/gambling",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Leicester City",
+      "id": "football/leicestercity",
+      "sectionId": "football",
+      "sectionName": "Football"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Nick Fletcher",
+      "id": "profile/nickfletcher"
+    }
+  ],
+  "guardianId": "business/2016/may/11/william-hill-pays-out-3m-to-punters-backing-leicester-city"
+}

@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/02/jungle-book-us-box-office-captain-america-civil-war",
+  "id": "2016-05-02-109",
+  "sectionId": "film",
+  "body": "The Jungle Book, Jon Favreau\u2019s widely acclaimed CGI remake of the Rudyard Kipling classic, has defeated two new family films and a slew of other newcomers to keep hold of the US box-office crown for a third week running.    Related: The Jungle Book review \u2013 spectacular revival of Disney's family favourite    The film, which features the voices of Bill Murray, Christopher Walken and Ben Kingsley, added $42.4m to take its domestic total to $252m. It has currently made $684m worldwide.  This despite fresh competition from Ratchet & Clank and cat comedy Keanu, which landed at Nos 7 and 3 respectively.  The best-performing new release was Mother\u2019s Day, Garry Marshall\u2019s critically savaged ensemble movie, featuring Jennifer Aniston and Julia Roberts among some beleaguered mums. The film made $8.3m to come in fourth.  Remaining at No 2 despite an over 50% drop week on week was The Huntsman: Winter\u2019s War, the fantasy sequel starring Chris Hemsworth, Emily Blunt and Charlize Theron.  This Friday sees the release in the US of the latest Marvel movie, Captain America: Civil War, which now comes not only trumpeting terrific notices but also some very healthy international receipts.  The film opened in 37 countries last Friday and made over $200m. Given that it is not yet out in the US and China, among other key territories, the movie is well on course to equal the $1.4bn box office of last year\u2019s Avengers: Age of Ultron.",
+  "webTitle": "Jungle Book still atop US box office as Captain America: Civil War rules overseas",
+  "webPublicationDate": "2016-05-02T15:09:02Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/02/jungle-book-us-box-office-captain-america-civil-war",
+  "keyword": [
+    {
+      "webTitle": "The Jungle Book",
+      "id": "film/the-jungle-book",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Mother's Day",
+      "id": "film/mother-s-day",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Film industry",
+      "id": "film/film-industry",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "The Huntsman: Winter's War",
+      "id": "film/the-huntsman--winter-s-war",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Garry Marshall",
+      "id": "culture/garry-marshall",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Catherine Shoard",
+      "id": "profile/catherineshoard"
+    }
+  ],
+  "guardianId": "film/2016/may/02/jungle-book-us-box-office-captain-america-civil-war"
+}

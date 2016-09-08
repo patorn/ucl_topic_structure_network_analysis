@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/09/abortion-share-your-stories",
+  "id": "2016-05-09-187",
+  "sectionId": "world",
+  "body": "It\u2019s no secret that US abortion rights are in a state of total upheaval. In the last five years, states have passed as many new abortion restrictions as were passed in the entire preceding 15 years. Those laws have helped shut down a quarter of the country\u2019s abortion clinics. And now, women who get abortions are traveling farther, waiting longer and spending more.  But while these laws have been fiercely debated in statehouses and in the media, the women who are impacted don\u2019t always get a voice.  So we want to hear from you.  If you\u2019ve recently had an abortion, did you have to travel far or wait longer than you wanted? Tell us about your experience by filling out the form below. Some of your responses could be featured in our upcoming coverage of abortion rights. We know that this is a very personal subject matter and we are committed to honoring your privacy wishes. If you would prefer to remain anonymous, please let us know.",
+  "webTitle": "Your personal abortion story: share your experience with us",
+  "webPublicationDate": "2016-05-09T13:00:16Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/09/abortion-share-your-stories",
+  "keyword": [
+    {
+      "webTitle": "Abortion",
+      "id": "world/abortion",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Women",
+      "id": "lifeandstyle/women",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Pregnancy",
+      "id": "lifeandstyle/pregnancy",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "US healthcare",
+      "id": "us-news/healthcare",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Molly Redden",
+      "id": "profile/molly-redden"
+    }
+  ],
+  "guardianId": "world/2016/may/09/abortion-share-your-stories"
+}

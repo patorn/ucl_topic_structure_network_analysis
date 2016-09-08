@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/07/were-you-a-punk-share-your-pictures-and-stories",
+  "id": "2016-05-07-132",
+  "sectionId": "music",
+  "body": "A vicar, a vet, an investment banker: all of them ex-punks, and all sharing their stories as part of a feature celebrating 40 years since the movement first changed their lives. Now, we\u2019d like to hear your stories and, most importantly, see your pictures.   Related: Never mind the bus pass: punks look back at their wildest days    Were you a punk? Do you have any images of you at the time? We\u2019d love to see them and hear your accompanying stories, and also see and hear how you have changed since \u2013 or not! Did the movement sweep you off your feet as a youngster looking for purpose? Were you as anti-establishment as some of the messages in the music? Were you involved in a band yourself or on the fringes of the scene in your city? Do you proudly recall your previous self or is it something you keep from current colleagues or new acquaintances? You can share your pictures and stories by uploading to GuardianWitness with the blue buttons on this article. We will be publishing some of the best on the Guardian.",
+  "webTitle": "Were you a punk? Share your pictures and stories",
+  "webPublicationDate": "2016-05-07T09:00:10Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/07/were-you-a-punk-share-your-pictures-and-stories",
+  "keyword": [
+    {
+      "webTitle": "Punk",
+      "id": "music/punk",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Fashion",
+      "id": "fashion/fashion",
+      "sectionId": "fashion",
+      "sectionName": "Fashion"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian readers",
+      "id": "profile/guardian-readers"
+    }
+  ],
+  "guardianId": "music/2016/may/07/were-you-a-punk-share-your-pictures-and-stories"
+}

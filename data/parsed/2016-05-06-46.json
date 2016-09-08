@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/06/hillsborough-inquests-alan-billings-one-of-the-winners-in-police-elections",
+  "id": "2016-05-06-46",
+  "sectionId": "uk-news",
+  "body": "Independent police and crime commissioners (PCCs) were the main casualties in the second set of police elections in England and Wales, which had a slightly healthier turnout than the 15% recorded in 2012. Conservative candidates were the main beneficiaries, as they were elected to take over from independent police and crime commissioners in Kent, West Mercia, Hampshire, Lincolnshire, Norfolk and Warwickshire. Independent commissioner and former Met police commander Kevin Hurley was also swept away in Surrey before the Conservative advance. Labour made at least two gains directly from the Conservatives. In Humberside the party\u2019s Keith Hunter secured a 21,000 majority to remove Matthew Groves as the PCC who had inflicted a surprise defeat on John Prescott in the 2012 elections.  In a distinguished contest in Leicestershire a Labour peer and justice minister, Willy Bach defeated the sitting Conservative, Sir Clive Loader, a retired air commodore, to become the first PCC member of the House of Lords. The most closely fought contest was in Bedfordshire where the Conservatives\u2019 Kathryn Holloway ousted Labour\u2019s sitting PCC, Olly Martins, by fewer than 3,000 second preference votes. The South Yorkshire PCC, Labour\u2019s Alan Billings, was re-elected after a turbulent few weeks handling the aftermath of the Hillsborough inquests. The Conservatives also fought off strong challenges from Ukip candidates in both Lincolnshire and Kent to take over from independent police and crime commissioners who had stepped down after one term. Low turnouts of just over 20% in both counties helped the Ukip candidates force the contests to second preferences. In 2012, 16 Conservative, 13 Labour and 12 independent PCCs were elected. There are likely to be fewer than four out of 40 independent commissioners by the time all results are declared over this weekend. Independents held their jobs in Avon and Somerset, Dorset, and Gloucestershire and were expected to get back in north Wales when the Welsh votes are counted over the weekend. The website Policing Insight calculated an average turnout of 24% on the basis of 20 out of the 40 contests. This was an improvement on 15% in 2012 but the figures varied from a low of 17% in Durham to 35% in West Yorkshire. The increased turnout appears to have been a direct result of \u201cpiggybacking\u201d on other local elections with lower turnouts in areas where no other contests were taking place. There was also an unusually high number of spoiled ballot papers. In the West Midlands, the largest contest, where Labour\u2019s David Jamieson was easily returned, there were 28,000 spoiled ballot papers recorded. There is evidence this may have been the result mostly of people putting two crosses in the same column when expressing second preferences.",
+  "webTitle": "Independents swept aside in police and crime commissioner elections",
+  "webPublicationDate": "2016-05-06T17:58:51Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/06/hillsborough-inquests-alan-billings-one-of-the-winners-in-police-elections",
+  "keyword": [
+    {
+      "webTitle": "Police and crime commissioners",
+      "id": "uk/police-and-crime-commissioners",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Police",
+      "id": "uk/police",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Hillsborough disaster",
+      "id": "football/hillsborough-disaster",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Yorkshire",
+      "id": "uk-news/yorkshire",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Local elections",
+      "id": "politics/local-elections",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Local politics",
+      "id": "politics/localgovernment",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Local government",
+      "id": "society/localgovernment",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Alan Travis",
+      "id": "profile/alantravis"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/06/hillsborough-inquests-alan-billings-one-of-the-winners-in-police-elections"
+}

@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/news/defence-and-security-blog/2016/may/11/nuclear-whistleblower-faces-fresh-charges-30-years-on",
+  "id": "2016-05-11-119",
+  "sectionId": "news",
+  "body": "Among all the talk of whistleblowers as heroes - Edward Snowden, Chelsea Manning, Julian Assange, the Panama Papers leaker - one is rarely mentioned.  Mordechai Vanunu came to Britain in 1986 to tell the Sunday Times the story of the nuclear weapons facility at Dimona in the Negev desert in southern Israel.  Walking around London, frustrated by the time the newspaper seemed to be taking to run his story, he was lured by \u201cCindy\u201d, a woman from Mossad. They flew together to Italy where he was kidnapped, drugged, and smuggled out of the country to Israel. He was sentenced to 18 years in jail for revealing details of Israel\u2019s clandestine nuclear weapons programme. He spent more than a decade in solitary confinement. He was released in 2004 but banned from speaking to foreigners without official permission, and prevented from leaving the country. Last Sunday Vanunu, now 61, was charged with violating the terms of his release. He was charged with meeting two Americans at a hotel in east Jerusalem in 2013 without seeking permission to do so, with moving apartments in 2014 without notifying the police, and in 2015 for giving an interview to Israel\u2019s Channel 2 TV in which he disclosed what was described as \u201cclassified information that was cut out by the censors\u201d. As the Israeli newspaper, Haaretz, pointed out, the information divulged by Vanunu was not new, as he had previously discussed it in the media. But the conditions of his release forbid him from passing on any classified information, even if it has previously been published. Israel has never acknowledged that it has a nuclear arsenal, instead maintaining a policy of \u201cnuclear ambiguity\u201d while vowing that it would not be the first to use nuclear weapons in the Middle East. It is widely reported to have at least 80 nuclear weapons. Vanunu\u2019s continuing persecution seems to be nothing short of vindictive. It is a touch ironic that nuclear weapons are supposed to deter. Surely, they can only do this if their possession is avowed.",
+  "webTitle": "Nuclear whistleblower faces fresh charges, 30 years on",
+  "webPublicationDate": "2016-05-11T16:33:26Z",
+  "webUrl": "https://www.theguardian.com/news/defence-and-security-blog/2016/may/11/nuclear-whistleblower-faces-fresh-charges-30-years-on",
+  "keyword": [
+    {
+      "webTitle": "Mordechai Vanunu",
+      "id": "world/mordechai-vanunu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Nuclear weapons",
+      "id": "world/nuclear-weapons",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Israel",
+      "id": "world/israel",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Richard Norton-Taylor",
+      "id": "profile/richardnortontaylor"
+    }
+  ],
+  "guardianId": "news/defence-and-security-blog/2016/may/11/nuclear-whistleblower-faces-fresh-charges-30-years-on"
+}

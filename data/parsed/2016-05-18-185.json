@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/18/elizabeth-spayd-to-become-new-york-times-public-editor",
+  "id": "2016-05-18-185",
+  "sectionId": "media",
+  "body": "The New York Times has announced that Columbia Journalism Review editor Elizabeth Spayd will replace Margaret Sullivan as public editor this summer.  Spayd, who was previously managing editor of the Washington Post, will become the newspaper\u2019s sixth public editor, having reportedly beaten former Cleveland Plain Dealer editor Debra Adams Simmons to the role.  Sullivan announced she was leaving the NYT in February to become the Post\u2019s media columnist. She was the newspaper\u2019s longest serving public editor.   Related: New York Times to close editing and prepress facilities in Paris    NYT publisher Arthur J Sulzberger said: \u201cLiz is an exceptionally accomplished journalist. Her work at CJR, along with her long and successful history at the Washington Post, have given her a broad range of experiences that will serve us well, as she assumes this critical position serving as a reliable and engaged representative of our readers.  \u201cLiz is also a digital pioneer and I fully expect that she will continue to extend the reach and influence of the role of public editor by engaging in a continuing conversation about Times journalism with all interested parties, wherever we might find them.\u201d The NYT public editor is one of the paper\u2019s more high-profile roles, often putting the incumbent in opposition to colleagues when commenting on and investigating the NYT\u2019s journalism.",
+  "webTitle": "Elizabeth Spayd to become New York Times public editor",
+  "webPublicationDate": "2016-05-18T12:14:41Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/18/elizabeth-spayd-to-become-new-york-times-public-editor",
+  "keyword": [
+    {
+      "webTitle": "New York Times",
+      "id": "media/new-york-times",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "US press and publishing",
+      "id": "media/us-press-publishing",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers & magazines",
+      "id": "media/pressandpublishing",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers",
+      "id": "media/newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Women in journalism",
+      "id": "media/women-in-journalism",
+      "sectionId": "media",
+      "sectionName": "Media"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jasper Jackson",
+      "id": "profile/jasper-jackson"
+    }
+  ],
+  "guardianId": "media/2016/may/18/elizabeth-spayd-to-become-new-york-times-public-editor"
+}

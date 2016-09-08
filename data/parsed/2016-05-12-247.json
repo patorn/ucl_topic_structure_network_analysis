@@ -1,0 +1,30 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/12/what-do-migrants-think-about-ons-immigration-figures",
+  "id": "2016-05-12-247",
+  "sectionId": "world",
+  "body": "Today, analysis from the Office of National Statistics (ONS) explores whether or not the UK\u2019s official migration statistics have underestimated the number of people entering the country. It finds a big gap between official figures (which suggest 257,000 migrants came to the UK between September 2014 and 2015) and the number of EU migrants registering for National Insurance numbers (630,000 over the same period).    Related: ONS: short-term migration explains national insurance 'gap'    However, ministers have sought to explain the discrepancy by arguing many workers applying for NI numbers are only in the UK for short-term work. A special ONS note on the difference has concluded that the International Passenger Survey on which the official migration figures are based remains the best source of information for measuring long-term migration. What do migrants think about these new figures? Have you come to the UK to find short-term work? What has your experience been? How does the release of statistics like this make you feel?  Share your story with us via the form below.",
+  "webTitle": "What do migrants think about ONS immigration figures?",
+  "webPublicationDate": "2016-05-12T11:05:27Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/12/what-do-migrants-think-about-ons-immigration-figures",
+  "keyword": [
+    {
+      "webTitle": "Migration",
+      "id": "world/migration",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Sarah Marsh",
+      "id": "profile/sarah-marsh"
+    }
+  ],
+  "guardianId": "world/2016/may/12/what-do-migrants-think-about-ons-immigration-figures"
+}

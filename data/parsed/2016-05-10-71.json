@@ -1,0 +1,84 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/10/brexit-unlikely-to-mean-deep-migration-cuts-but-may-lead-to-2p-tax-increase",
+  "id": "2016-05-10-71",
+  "sectionId": "politics",
+  "body": "It will be \u201cextremely difficult\u201d to deliver deep cuts in immigration if Britain leaves the European Union, a leading British economist has warned. If cuts of 50% were achieved, the long-term consequences would lead to a 2p increase in income tax, according to Jonathan Portes, a former chief economist at the Cabinet Office.  Writing in a paper for the National Institute of Economic and Social Research published on Tuesday, Portes adds that leaving the EU would take Britain into new territory for immigration policy.  He says the option of voting to leave but retaining free movement for EU citizens \u2013 to qualify for access to the single market \u2013 would mean only a small reduction in migration to Britain. \u201cIndeed, both Switzerland and Norway have higher levels of migration from within the EU than the UK does now,\u201d he says. If the UK chose to end free movement it would, Portes says, be \u201cextremely difficult\u201d to deliver a reduction of net migration to the \u201ctens of thousands\u201d without significant economic consequences and a large impact on industries that rely on low-skilled migrant labour. In the May edition of the National Institute Economic Review, Portes notes that Migrationwatch has estimated that applying the current non-EU migration rules to EU nationals would reduce the current 323,000 net migration total by about 100,000 so further cuts in non-EU migration would be required to meet the target.   Related: EU referendum: top economic thinktank warns of post-Brexit shocks    Portes concludes that in the short term a reduction in migration on this scale would jeopardise the government\u2019s hopes of meeting its fiscal targets. In the longer term, taxes would have to rise to compensate for the loss of a significant positive impact of migration on public finances. \u201cA reduction in migration levels of 50% would require an increase in the tax rate on labour income of about 2% to preserve budget balance,\u201d says Portes.  He adds that this impact would be particularly strong for intra-EU migrants because of their youth and high activity rates. He also says that some low-skill sectors of the economy would face significant recruitment difficulties as their jobs involve low wages, unsocial hours, temporary work and poor promotion that make them unattractive to UK workers. \u201cIt is likely that some sectors might therefore suffer significant recruitment difficulties. The incentives for irregular migration and illegal working would of course also increase significantly.\u201d Portes says that a highly restrictive immigration policy might have a small effect on wages for low-skilled workers but little or none for medium and highly skilled workers. However, this effect on unskilled wages would be more than offset by higher taxes or public spending cuts so real post-tax incomes would fall. The migration and benefits expert says that while the economic effect of recent EU migration appears to have been benign, it remains the most important issue for many, perhaps most, likely voters. He adds that David Cameron\u2019s renegotiation, which focused largely on the \u201cirrelevant\u201d issue of \u201cbenefit tourism\u201d, had not changed that. \u201cThis means that a vote to remain will unequivocally be a vote for the status quo in this area. A vote to leave, however, will take us into new territory for UK immigration policy, with potentially significant consequences; as yet, we have almost no detail on what those might be,\u201d he concludes. The home secretary, Theresa May, later told MPs that leaving the EU would not be a \u201csilver bullet\u201d for the issue of immigration in Britain. She confirmed to the Commons home affairs committee that, in the event of Brexit, Britain would have to sign up to free movement rights for EU citizens if the UK wished to continue to have access to the European single market. However, May did her best to distance herself from an Office for National Statistics projection that net migration to the UK would total 3 million by 2030 if Britain remained within the EU. \u201cThat was an ONS figure. It was not a prediction,\u201d she said. \u201cPulling out of the EU is not the silver bullet that suddenly solves all our immigration problems.\u201d  She said the 3 million figure did not take account of the effect of the measures in the EU renegotiation package and in the latest immigration bill designed to reduce net migration. May said there have been \u201cmany people \u2026 suggesting to me that for the sake of my career I should take a different position\u201d but that she had decided on balance that the benefits outweighed the costs of remaining in Europe. She did not quite go as far as endorsing the description by Labour\u2019s Chuka Umunna of the justice secretary, Michael Gove, as a \u201cconspiracy theorist\u201d. Gove had said Brussels was \u201cjealous and suspicious\u201d of Britain\u2019s part in the Five Eyes intelligence-sharing agreement, which involves the USA, UK, Canada, New Zealand and Australia. She did, however, dismiss Gove\u2019s claim.",
+  "webTitle": "Brexit \u2018unlikely to mean deep migration cuts but may lead to 2p tax increase\u2019",
+  "webPublicationDate": "2016-05-10T18:04:50Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/10/brexit-unlikely-to-mean-deep-migration-cuts-but-may-lead-to-2p-tax-increase",
+  "keyword": [
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Immigration and asylum",
+      "id": "uk/immigration",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Migration",
+      "id": "world/migration",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Economic growth (GDP)",
+      "id": "business/economicgrowth",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Alan Travis",
+      "id": "profile/alantravis"
+    }
+  ],
+  "guardianId": "politics/2016/may/10/brexit-unlikely-to-mean-deep-migration-cuts-but-may-lead-to-2p-tax-increase"
+}

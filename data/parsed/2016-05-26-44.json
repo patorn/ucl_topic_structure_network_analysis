@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/26/bobby-review-documentary-bobby-moore-world-cup",
+  "id": "2016-05-26-44",
+  "sectionId": "film",
+  "body": "If you can bear another blow-by-blow account of English football\u2019s finest hour, this is as good a time as any, and nobody could begrudge Bobby Moore his documentary closeup. In film-making terms, it\u2019s very much route one: archive clips, talking heads, nothing fancy. And being a defender, Moore\u2019s heroics are inherently less cinematic than, say, a Pel\u00e9 or Cristiano Ronaldo. But if there\u2019s any evidence Moore was ever less than a cool-headed leader on the pitch and an East End gent off it, this adulatory doc doesn\u2019t find it. It does, at least, acknowledge his later problems: insomnia, depression, bankruptcy, cancer and, perhaps most painful of all, cruel rejection by the football establishment, which saw him reduced to managing non-league clubs and commentating on local radio.",
+  "webTitle": "Bobby review \u2013 route one documentary about East End gent Bobby Moore",
+  "webPublicationDate": "2016-05-26T20:45:13Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/26/bobby-review-documentary-bobby-moore-world-cup",
+  "keyword": [
+    {
+      "webTitle": "Documentary",
+      "id": "film/documentary",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "World Cup",
+      "id": "football/world-cup-football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Steve Rose",
+      "id": "profile/steverose"
+    }
+  ],
+  "guardianId": "film/2016/may/26/bobby-review-documentary-bobby-moore-world-cup"
+}

@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/climate-consensus-97-per-cent/2016/may/02/peabody-coals-contrarian-scientist-witnesses-lose-their-court-case",
+  "id": "2016-05-02-191",
+  "sectionId": "environment",
+  "body": "In Minnesota, an administrative hearing resulted in a judicial recommendation that will have impacts across the country. It was a case argued mainly between environmental groups (such as Minnesota Center for Environmental Advocacy, and their clients Fresh Energy and the Sierra Club) and energy producers (such as the now-bankrupt coal company Peabody Energy) regarding what a reasonable social cost of carbon should be.  I was called as an expert witness in the case along with respected climate scientist Dr. Andrew Dessler. We were opposed by the well-known contrarians Drs. Roy Spencer, Richard Lindzen, and William Happer (who has recently received attention related to his charged fees in the case). In full disclosure, Dr. Dessler and I were not paid for our work in the case. I recently wrote about the testimony and provided links to the testimonies submitted for the case. The judge\u2019s recommendations and how they will impact energy decisions in the USA were the keys to this trial. On April 15th, the Administrative Law Judge decided that the estimated cost of carbon pollution currently used in Minnesota is too low. New knowledge about how fast the climate is changing, how much it will change, and how it will affect societies and economies would be reflected in a larger carbon cost. This leads to a large increase in the estimated cost, from $0.44-4.53 per ton to $11-57 per ton. A summary of the ruling can be found here and the full report is available here. How was this case won? Well certainly it helps to have science on your side. Without that, even the most expensive expert witnesses struggle. But Peabody\u2019s scientists made errors that were easy to identify and point out to the Judge. Furthermore, the Judge was smart, quickly able to see through nonsense non-science. For those of you that read the report, you\u2019ll notice that the Peabody side made claims about the natural variability of Earth\u2019s climate, about Earth temperature changes, and about extreme weather events. The environmental group\u2019s side rebutted these viewpoints (see pages 15-19).  We also showed that the experts for Peabody relied extensively on non-peer-reviewed reports, blog sites, and think tanks to support their conclusions (paragraph 359 in the report). The peer-reviewed scientific literature is the best source for accurate climate science information. In other areas, the Peabody experts used scientific papers that we showed were incorrect (paragraph 360 in the report, for example).  Perhaps the key findings are best articulated in the judicial conclusions, which begin on page 114. Among the conclusions are:   22. The Administrative Law Judge concludes that Peabody failed to demonstrate that an equilibrium climate sensitivity of 1 or 1.5\u00b0C is correct. 23. The Administrative Law Judge concludes that the climate sensitivity is reasonably considered to be in the 2-4.5\u00b0C range. 47. The Administrative Law Judge concludes that Peabody failed to demonstrate that the relied upon process is neither peer-reviewed nor transparent.  I hope that this case will serve as a standard for other utility commissions as they work through the complex issues of the cost of carbon pollution. I also hope that the high standards of science used in Minnesota will be reflected in other areas where similar cases arise. You can\u2019t just bring in some contrarian scientists to make unsupported statements that minimize the costs of climate change. You have to bring in the best scientists and base your conclusions on high-quality peer reviewed studies.",
+  "webTitle": "Peabody coal's contrarian scientist witnesses lose their court case | John Abraham",
+  "webPublicationDate": "2016-05-02T10:00:21Z",
+  "webUrl": "https://www.theguardian.com/environment/climate-consensus-97-per-cent/2016/may/02/peabody-coals-contrarian-scientist-witnesses-lose-their-court-case",
+  "keyword": [
+    {
+      "webTitle": "Climate change scepticism",
+      "id": "environment/climate-change-scepticism",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Climate change",
+      "id": "environment/climate-change",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Coal",
+      "id": "environment/coal",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Fossil fuels",
+      "id": "environment/fossil-fuels",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Energy",
+      "id": "environment/energy",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Climate change",
+      "id": "science/scienceofclimatechange",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "John Abraham",
+      "id": "profile/john-abraham"
+    }
+  ],
+  "guardianId": "environment/climate-consensus-97-per-cent/2016/may/02/peabody-coals-contrarian-scientist-witnesses-lose-their-court-case"
+}

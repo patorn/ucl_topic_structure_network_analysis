@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/science/life-and-physics/2016/may/29/whether-it-is-cricket-or-physics-imagined-scenarios-can-expand-the-limits-of-our-understanding",
+  "id": "2016-05-29-171",
+  "sectionId": "science",
+  "body": "It is lunchtime. England face Sri Lanka in the second test, and the radio commentary is on as we eat. The cricketers are also at lunch, but the commentary from BBC Test Match Special continues with an \u2018Ask the Umpire\u2019 session, in which bizarre and unlikely cricket scenarios are postulated,  A batsman hits the ball in the air towards the stumps, it grazes the bowler\u2019s fingers, hits the stumps (with the non-striker out of his ground) and loops up into the air and is caught at mid-on. Who\u2019s out?  and their resolution within the laws of cricket is explored.  This prokes exasperation and amusement from the rest of my family, but then so does cricket in general to some extent. If you really want to understand the laws of cricket though (and I appreciate that is quite a big \u201cif\u201d), it is a useful exercise to imagine how they would operate in extreme cases. While I am mildly interested in the laws of cricket, I am very interested in the laws of physics. Real experiments arbitrate eventually, of course, but thought experiments have a long and productive history of pointing the way to deeper understanding.  Probably the master of them was Einstein. He imagined trying to catch up with a ray of light, and decided the idea was absurd. This influenced his development of his theories of relativity, in which it is impossible to catch up with light, because it travels at the same speed for everyone. The theory led to predictions that are, arguably, equally absurd. Time flows at different rates depending on relative speed, for example. But those predictions have been thoroughly vindicated by real experiments.  Thought experiments including relativitistic pole-vaulters running into garages, spacefareing twins, or train guards with flashlights are still important in teaching relativity and testing how thoroughly you and your students have (mis)understood it.   Related: Sizing up a new particle accelerator, and the 'cosmic stupid' limit | Jon Butterworth | Life&Physics    Einstein bowled a series of thought experiments at the great Danish physicist Niels Bohr in the first half of the 20th Century, in an attempt to defeat quantum indeterminism. In this case, Bohr\u2019s straight bat was firm enough to reply, and he finished the innings \u2018not out\u2019. The result was a better understanding of physics all round, however. Erwin Schr\u00f6dinger, one of the pioneers of quantum mechanics, also used thought experiments. As far as we know, no cats were harmed in his famous attempt to highlight the apparent contradictions of the so-called \u2018Copenhagen Interpretation\u2019 of the new theory. Schr\u00f6dinger\u2019s Cat lives on as a useful idea however, still relevant as physicists build larger and larger coherent quantum systems, in attempts to understand the fundamentals of quantum mechanics and also to make use of them in practical applications such as computing. One of the biggest open questions in physics is how gravity and quantum mechanics might come together to give a single consistent description of nature. We may be lucky and get clues about this from real experiments, but much of the exploration of the boundaries between these two giants of physics has to take place at such extreme energies that thought experiments are the only way forward for now. The quantum emission of radiation near the event horizon of a black hole is a good example, famously theorized by Stephen Hawking. The bit about \u2018contrived extremes\u2019 lends itself to certain political analogies, especially in the UK and the USA at present, but I am not going to go there. An important aspect of thought experiments is that they are cheap and safe. In thought, we can travel to the event horizon of a black hole without being spaghettified. We can ponder quantum coherence without harming any cats, and try to overtake a light ray without leaving our armchair. We can check the rules of the game for consistency without having to watch every ball until one heads for the stumps, grazes the bowler\u2019s fingers and loops into the air. And on that last point, to resolve the suspense cunningly introduced at the start of the article:  The catch takes precedence over the run-out, so the striker is out. Same as bowled takes precedence over lbw.  The quantum gravity business is, I\u2019m afraid, not yet resolved. Jon Butterworth\u2019s book Smashing Physics is available as \u201cMost Wanted Particle\u201d in Canada & the US.",
+  "webTitle": "Whether it is cricket or physics, imagined scenarios can expand the limits of our understanding",
+  "webPublicationDate": "2016-05-29T06:45:00Z",
+  "webUrl": "https://www.theguardian.com/science/life-and-physics/2016/may/29/whether-it-is-cricket-or-physics-imagined-scenarios-can-expand-the-limits-of-our-understanding",
+  "keyword": [
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Physics",
+      "id": "science/physics",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Cricket",
+      "id": "sport/cricket",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Albert Einstein",
+      "id": "science/alberteinstein",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Black holes",
+      "id": "science/black-holes",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Space",
+      "id": "science/space",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Astronomy",
+      "id": "science/astronomy",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Particle physics",
+      "id": "science/particlephysics",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Stephen Hawking",
+      "id": "science/hawking",
+      "sectionId": "science",
+      "sectionName": "Science"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jon Butterworth",
+      "id": "profile/jon-butterworth"
+    }
+  ],
+  "guardianId": "science/life-and-physics/2016/may/29/whether-it-is-cricket-or-physics-imagined-scenarios-can-expand-the-limits-of-our-understanding"
+}

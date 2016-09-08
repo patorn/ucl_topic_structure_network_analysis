@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/18/facebook-trending-topics-conservative-news-mark-zuckerberg",
+  "id": "2016-05-19-345",
+  "sectionId": "technology",
+  "body": "Mark Zuckerberg on Wednesday held a wide-ranging discussion with a group of conservative commentators who said afterward the Facebook CEO acknowledged the giant social network has a problem reaching conservatives. The meeting at Facebook\u2019s Menlo Park, California, headquarters came about after a report accused the company of harboring a bias against conservative views. SE Cupp, a columnist with the New York Daily News who attended the meeting, said Facebook executives \u201cwere very clear to acknowledge that there is a problem and the problem is a serious one\u201d. \u201cI think the fact that Mark as an individual was willing to acknowledge that there were faults and say that I think is really kind of impressive,\u201d said Zac Moffatt, who was at the meeting. \u201cTo acknowledge that Facebook has come up short and that the company needs to improve \u2013 acknowledging there\u2019s a problem and saying they\u2019re going to resolve it is the right approach.\u201d Moffatt, co-founder of Targeted Victory and head of digital for Mitt Romney\u2019s 2012 presidential bid, said that the Facebook founder stopped short of making any concrete promises besides internal reviews that were already underway but had acknowledged a problem of trust. \u201cThey don\u2019t believe there was bias ... but the larger point was that the market thought there was and they wanted to address it,\u201d he said. Former senator Jim DeMint \u201cset the table\u201d for the discussion, according to Moffatt, who said that Glenn Beck was also \u201cvery productive\u201d during the 90-minute meeting. Cupp said Zuckerberg, chief operating officer Sheryl Sandberg, vice-president Joel Kaplan and board member Peter Thiel mostly listened to the 17 conservatives who attended.   Related: Facebook news selection is in hands of editors not algorithms, documents show    While the Facebook executives did not comment further on an internal investigation into the allegations of political manipulation, Cupp said, they explained how difficult it would be for their employees to inject bias into what stories make it into the \u201ctrending topics\u201d section of the site or on individual users\u2019 news feeds. The Facebook team also noted that any such tampering would be \u201cphilosophically against both the mission of the company and Mark\u2019s personal mission\u201d, Cupp said. \u201cI believed them.\u201d Rob Bluey, editor in chief of the website the Daily Signal, made similar comments to Fox News\u2019s Greta Van Susteren shortly after the meeting ended. \u201cThey certainly acknowledged that there was a problem with getting the message out to conservatives,\u201d he said. Facebook spokesman Andy Stone confirmed that was the tenor of the meeting. In a Facebook post afterward, Zuckerberg did not directly respond to allegations that Facebook employees suppressed conservative stories on its \u201ctrending topics\u201d feature. But he said: \u201cI know many conservatives don\u2019t trust that our platform surfaces content without a political bias.\u201d \u201cI wanted to hear their concerns personally and have an open conversation about how we can build trust. I want to do everything I can to make sure our teams uphold the integrity of our products,\u201d he wrote. Among others in attendance, according to Facebook, was American Enterprise Institute president Arthur Brooks, Tea Party Patriots CEO Jenny Beth Martin, and Brent Bozell, president of the Media Research Center.  Bozell said in a statement afterward that the meeting was \u201cvery productive\u201d. \u201cThere has been a serious issue of trust within the conservative movement about this issue, but everyone in that room, on both sides, wants to see it restored,\u201d he said. Zuckerberg invited the group after the tech blog Gizmodo claimed that Facebook downplays conservative news subjects on its trending feature. Facebook denied the report, which relied upon a single anonymous individual with self-described conservative leanings. The company said it was investigating the matter. Facebook\u2019s trending topics are most visible on the desktop version of the social network \u2013 on the top right corner \u2013 although it is possible to access them on mobile too. Topics that appear as trending can have a self-fulfilling effect, as more Facebook readers see and share the items, and other news organizations decide to write their own stories.",
+  "webTitle": "Facebook execs, conservatives address 'issue of trust' with trending topics",
+  "webPublicationDate": "2016-05-19T02:32:57Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/18/facebook-trending-topics-conservative-news-mark-zuckerberg",
+  "keyword": [
+    {
+      "webTitle": "Facebook",
+      "id": "technology/facebook",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Mark Zuckerberg",
+      "id": "technology/mark-zuckerberg",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "US politics",
+      "id": "us-news/us-politics",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Social media",
+      "id": "media/social-media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Social networking",
+      "id": "media/socialnetworking",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Nicky Woolf",
+      "id": "profile/nicky-woolf"
+    }
+  ],
+  "guardianId": "technology/2016/may/18/facebook-trending-topics-conservative-news-mark-zuckerberg"
+}

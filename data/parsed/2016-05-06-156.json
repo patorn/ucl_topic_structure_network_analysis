@@ -1,0 +1,30 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/06/guildford-recover-to-win-4ncl-title",
+  "id": "2016-05-06-156",
+  "sectionId": "sport",
+  "body": "England\u2019s 4NCL league finished its season last weekend with another victory for the Guildford team which has become the Paris Saint-Germain of UK chess. The analogy is deliberate, since Guildford\u2019s players have a backbone of French grandmasters and are a class superior to their domestic opponents. Yet they are well behind the major contenders in the European Chess Cup \u2013 a fact tacitly acknowledged because the Surrey club never enters a competition dominated by elite squads from Russia and Azerbaijan backed by oil money. Guildford were well ahead on game points from their principal rivals, the Midlanders from Cheddleton, when the three May Day weekend rounds at Birmingham started. However, they kicked off receiving a nasty shock in Guildford v Barbican, when the former Irish champion Sam Collins crushed Nigel Short in 18 moves. There was extra humiliation for the one-time world title challenger because the loss of rating points cost him his place among the world\u2019s top 100 GMs, where he had been the oldest player at 50. The setback will not affect Short\u2019s status as a popular globetrotting UK chess ambassador, who has won tournaments in 29 different countries. Last year he played in Bangkok and Kolkata, earlier in 2016 he was in New Zealand, while later this month he will compete in Iceland. Guildford recovered strongly to defeat Barbican 6-2 and went further ahead when Cheddleton lost to White Rose, for whom James Adair had the better of a draw with the England No2, David Howell. This was a highly significant result for the talented 23-year-old Yorkshireman, since it gave him his third and final GM result. He still needs a 2500 Fide rating to qualify for the prestige title but this should follow quickly given his current 2474 mark and good form. The Cambridge chemical engineering student Yang-Fan Zhou achieved his second GM norm. League pairings are scheduled so that the most likely winners are paired in the final round. Guildford were almost sure of the title anyway but still unleashed a secret weapon in the head-to-head against Cheddleton \u2013 the world No5, Maxime Vachier-Lagrave, whose sharp Ruy Lopez against Howell ended with a bishop sacrifice for a draw by perpetual check. Heading the final league table were Guildford 14, Cheddleton 10, Barbican 10, Wood Green 7. Overall the 4NCL continues to forge ahead under the wise leadership of Mike Truran, who also doubles as the English Chess Federation chief executive. More than 80 clubs now take part and the new Northern section is growing\u00a0rapidly. A mysterious feature of Nigel Short\u2019s rapid defeat was why he varied from 9...c5, which brought him an endgame win earlier this year at Tradewise Gibraltar. This time he preferred a slow baroque strategy which Collins treated roughly by advancing his h pawn and setting up a winning tactic. Sam Collins v Nigel Short 1 e4 c6 2 d4 d5 3 Nd2 dxe4 4 Nxe4 Nd7 5 Ng5 Ngf6 6 Bd3 g6 7 N1f3 Bg7 8 0-0 0-0 9 c3 a5?! 10 a4 Nd5 11 Re1 b6 12 Qe2 Ra7 13 h4! N7f6 14 Ne5 Rc7?! 15 h5 Nxh5? (see puzzle diagram) 3441 16 Qxh5! and if gxh5 17 Bxh7+ Kh8 18 Nexf7+ Rxf7 19 Nxf7+ Kxh7 20 Nxd8 wins with rook and pawn for bishop. The game ended 16...h6 17 Nexf7 Rxf7 18 Nxf7 and Short resigned.",
+  "webTitle": "Leonard Barden on Chess",
+  "webPublicationDate": "2016-05-06T13:35:58Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/06/guildford-recover-to-win-4ncl-title",
+  "keyword": [
+    {
+      "webTitle": "Chess",
+      "id": "sport/chess",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Leonard Barden",
+      "id": "profile/leonardbarden"
+    }
+  ],
+  "guardianId": "sport/2016/may/06/guildford-recover-to-win-4ncl-title"
+}

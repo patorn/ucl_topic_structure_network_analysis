@@ -1,0 +1,43 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/06/manchester-city-arsenal-match-preview",
+  "id": "2016-05-06-88",
+  "sectionId": "football",
+  "body": "Manchester City know if Manchester United and West Ham United lose their respective matches then victory over Arsenal secures a place in next season\u2019s Champions League. For the away side, a draw for each of the Uniteds means Arsenal cannot be overtaken in their quest for a place in the top four. Whatever the results beforehand, expect both sides to go for the win their instincts demand. Jamie\u00a0Jackson Kick-off Sunday 4pm  Venue Etihad Stadium Last season Manchester City 0 Arsenal 2 Live Sky Sports 1 Referee Anthony Taylor This season G28, Y101, R4, 3.89 cards per game Odds H 6-4 A 2-1 D 5-2 Manchester City Subs from Caballero, Wright, Navas, Iheanacho, Fernando, Demichelis, Bony, Delph, Adarabioyo, A\u00a0Garc\u00eda, M\u00a0Garc\u00eda, Bytyqi, Celina Doubtful None Injured Silva (hamstring, 15 May), Zabaleta (calf, Aug), Kolarov (knock, unknown), Kompany (groin, unknown) Suspended None Form WWWDWL Discipline Y56 R0 Leading scorer Ag\u00fcero 23 Arsenal Subs from Ospina, Chambers, Gibbs, Flamini, Ramsey, Reine-Ad\u00e9la\u00efde, Elneny, Rosicky, Cazorla, Campbell, Walcott, Giroud, Arteta Doubtful Rosicky (match fitness) Injured Oxlade-Chamberlain (knee, Aug), Jenkinson (knee, Nov), Mertesacker (hamstring, unknown) Suspended None Form WDDWDW Discipline Y41 R4 Leading scorers Giroud, S\u00e1nchez 12",
+  "webTitle": "Manchester City v Arsenal: match preview",
+  "webPublicationDate": "2016-05-06T16:00:43Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/06/manchester-city-arsenal-match-preview",
+  "keyword": [
+    {
+      "webTitle": "Manchester City",
+      "id": "football/manchestercity",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Arsenal",
+      "id": "football/arsenal",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Premier League",
+      "id": "football/premierleague",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [],
+  "guardianId": "football/2016/may/06/manchester-city-arsenal-match-preview"
+}

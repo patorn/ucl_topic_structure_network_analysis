@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/us-news/2016/may/11/pentagon-military-torture-photos-george-w-bush-war-on-terror",
+  "id": "2016-05-11-45",
+  "sectionId": "us-news",
+  "body": "A federal judge has sharply rebuked the Pentagon for the process by which it concealed hundreds of Bush-era photos showing US military personnel torturing detainees in Iraq and Afghanistan, suggesting Barack Obama may have to release even more graphic imagery of abuse. Alvin Hellerstein, the senior judge who has presided over a transparency lawsuit for the photos that has lasted more than 12 years, expressed dissatisfaction over the Pentagon\u2019s compliance with an order he issued last year requiring a case-by-case ruling that release of an estimated 1,800 photographs would endanger US troops. \u201cWe don\u2019t know the methodology, we don\u2019t know what was reviewed, we don\u2019t know the criteria, we don\u2019t know the numbers,\u201d Hellerstein said during an hour-long hearing on Wednesday.  Hellerstein said he would formally rule on the matter in the \u201cnear future\u201d, a process that may compel the Pentagon to disclose additional photographs. Tara LaMort, a justice department attorney, argued to Hellerstein that a multi-layered review of the photographs, conducted by the military officers on the Pentagon\u2019s joint staff, had determined that disclosing the vast majority of the photographic treasure trove would provide terrorist groups with propaganda useful for recruitment.  Yet Hellerstein, a Bill Clinton appointee who said he has tried to give Obama and George W Bush deference on keeping potentially inflammatory photos secret, told LaMort that determination was \u201cnot enough\u201d for judicial review because it omitted the reasoning behind withholding specific photographs. \u201cMy complaint is there are no articulations,\u201d Hellerstein said. The government \u201chas not said why \u2018this particular\u2019 photo is dangerous\u201d. LaMort acknowledged she was facing an \u201cuphill battle\u201d before the judge, who replied: \u201cI should say: you\u2019re good at that.\u201d  In February, the Pentagon released 198 torture photographs from the hoard, following a certification from defense secretary, Ashton Carter, that they posed a negligible threat to US service members. That certification resulted from Hellerstein\u2019s order in 2015, following an October 2014 ruling, rejecting the position of two US presidents that none of the photographs ought to be made public. The 198 photos released in February display bruises, bandaged body parts and reddened marks on unidentified detained people. Attorneys for the American Civil Liberties Union, which has sought release of the photographs since 2004, immediately suspected that Carter had only marked the most innocuous of the photographs for release as a means of ending the disclosure lawsuit.  The ACLU has pursued the case for over a decade, through setbacks in both Hellerstein\u2019s courtroom and in higher appellate courts, because it argues that the photographs represent evidence of crimes. Their suppression, the ACLU contends, distorts the historical record about the extent the US engaged in torture.",
+  "webTitle": "Judge criticizes Pentagon suppression of hundreds of Bush-era torture photos",
+  "webPublicationDate": "2016-05-11T20:12:17Z",
+  "webUrl": "https://www.theguardian.com/us-news/2016/may/11/pentagon-military-torture-photos-george-w-bush-war-on-terror",
+  "keyword": [
+    {
+      "webTitle": "US military",
+      "id": "us-news/us-military",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Torture",
+      "id": "law/torture",
+      "sectionId": "law",
+      "sectionName": "Law"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Iraq",
+      "id": "world/iraq",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Afghanistan",
+      "id": "world/afghanistan",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Spencer Ackerman",
+      "id": "profile/spencerackerman"
+    }
+  ],
+  "guardianId": "us-news/2016/may/11/pentagon-military-torture-photos-george-w-bush-war-on-terror"
+}

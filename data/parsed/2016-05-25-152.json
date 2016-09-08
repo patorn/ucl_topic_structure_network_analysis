@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/science/2016/may/25/dinosaur-extinction-only-half-the-story-of-killer-asteroids-impact-plant-fossil",
+  "id": "2016-05-25-152",
+  "sectionId": "science",
+  "body": "The extinction event at the end of the Cretaceous Period, 66 million years ago, is the most well-known of the \u201cBig Five\u201d mass extinctions in the fossil record, even if it wasn\u2019t the biggest. That accolade goes to the Great Dying at the end of the Permian Period, about 250 million years ago, when up to 96% of species became extinct. But since the dinosaurs weren\u2019t around for that mass extinction, it hasn\u2019t entered the popular consciousness in quite the same way. Like most things to do with mass extinctions, even the naming of the Cretaceous event is not without controversy. Many researchers still refer to it as the K-T extinction, where K refers, confusingly, to the Cretaceous (Kreide in German) and T stands for Tertiary (the old name for the subsequent geological period, which has since been split in two). More correctly it is now referred to as the Cretaceous-Palaeogene, or K-Pg, mass extinction. It is now widely agreed that an asteroid strike occurred at the K-Pg boundary. In the thirty-five or so years since this theory was proposed, evidence has steadily and diligently been amassed. We have a \u201csmoking gun\u201d in the form of the Chicxulub crater in the Gulf of Mexico, and a global record of the disruption that the impact of a ten-kilometre-wide space rock caused: a thin sedimentary layer rich in iridium, \u201cshocked\u201d quartz grains and spherules (tiny glass balls formed from molten droplets of rock). Although the extinction of the dinosaurs tends to get most of the attention (I\u2019m not bitter, honestly), it is worth considering that plant fossils are excellent indicators of environmental change, and that if we are interested in understanding precisely what happened to life on land at the end of the Cretaceous, then the plant fossil record is a pretty good place to look. Fortuitously, North America has an excellent plant fossil record across the K-Pg boundary which has been well documented by Dr Kirk Johnson of the Smithsonian National Museum of Natural History and his co-researchers. Plant microfossils (pollen and spores) and megafossils (primarily leaves) can tell us different parts of the same story. Plant life had already undergone immense change during the first half of the Cretaceous, with the emergence and sudden rise to dominance of the flowering plants (angiosperms). The leaf beds in the late Cretaceous contain diverse angiosperm leaves which look familiar to modern eyes, many of which are attributable to modern families. The extensively-studied leaf beds in North America show us that at the K-Pg boundary, many of these species suddenly go extinct, and that the plants in leaf beds above the boundary are not as diverse and only a few species dominate.  Intriguingly, these post-extinction fossil assemblages are very similar to an unusual late Cretaceous example known as the \u201cFort Union zero\u201d megaflora. The Fort Union zero megaflora is thought to represent a mire, or localised swamp. Did mires act as a refuge during the impact and its aftermath, allowing the species from that environment to prosper in the Palaeogene? This would fit with the pattern seen in the amphibian and freshwater reptile species which survived too. The impact layer itself, about a centimetre of clay, is arguably the most precise and global time marker in the fossil record. Critical to the plant story at the K-Pg boundary is the \u201cfern spike\u201d. This is a feature in North American K-Pg localities, and is defined as an assemblage of spores and pollen within the rock layers 0-15 cm above the K-Pg boundary, where fern spores from a single species comprise 70-100% of the plant microfossils. This is interpreted as opportunistic, survivor fern species re-colonising a post-apocalyptic landscape. This is something that can be observed following volcanic episodes today. Interestingly, at Palaeogene localities in higher latitudes in Canada, opportunistic angiosperm species can be recognised instead. A fern spike has also been well-documented as far away as New Zealand, suggesting a scale of devastation well beyond the regional. The plant fossil record is consistent with the impact hypothesis, and that the impact itself killed forests at least regionally, followed by a global nuclear winter which led to widespread extinctions cascading through the terrestrial food chain. While some impact scenarios include global wildfires, there is no evidence of widespread fossil charcoal at the impact layer, which would be expected if that were the case. In the aftermath, there was a rapid exploitation of the post-impact environment by survival specialists, followed by a more gradual re-colonisation dominated by a few plant species fortunate enough to have been cushioned from the worst effects. No blog post on the K-Pg extinction could be complete without some dinosaur-related discussion, and it is undoubtedly the case that the extinction of the dominant herbivore species on land must have had profound effects on ecosystems. Plant and animals do not evolve in isolation, and this huge shift in herbivory would have resulted in changes to the relative evolutionary successes of the different plant survivors, as the Earth become ever more like the one we recognise today.",
+  "webTitle": "Why dinosaur extinction is only half the story of killer asteroid's impact | Susannah Lydon",
+  "webPublicationDate": "2016-05-25T13:30:49Z",
+  "webUrl": "https://www.theguardian.com/science/2016/may/25/dinosaur-extinction-only-half-the-story-of-killer-asteroids-impact-plant-fossil",
+  "keyword": [
+    {
+      "webTitle": "Fossils",
+      "id": "science/fossils",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Evolution",
+      "id": "science/evolution",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Dinosaurs",
+      "id": "science/dinosaurs",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Plants",
+      "id": "environment/plants",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Biology",
+      "id": "science/biology",
+      "sectionId": "science",
+      "sectionName": "Science"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Susannah Lydon",
+      "id": "profile/susannah-lydon"
+    }
+  ],
+  "guardianId": "science/2016/may/25/dinosaur-extinction-only-half-the-story-of-killer-asteroids-impact-plant-fossil"
+}

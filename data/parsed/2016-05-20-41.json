@@ -1,0 +1,84 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/20/us-corporate-giants-hoarding-over-a-trillion-dollars-apple-microsoft-google",
+  "id": "2016-05-20-41",
+  "sectionId": "business",
+  "body": "Some of the biggest US companies have accumulated cash piles worth almost $1.7tn (\u00a31.1tn) \u2013 more than two thirds of it overseas. According to the calculations by ratings agency Moody\u2019s, the five companies hoarding the most cash \u2013 Apple, Microsoft, Google, Cisco and Oracle \u2013 between them held $504bn by the end of last year. The tech sector held 46% of the total. Apple \u2013 described as the \u201ccash king\u201d by the ratings agency \u2013 held $216bn of cash, more than double the $102bn held by the next largest hoarder, Microsoft. The figures will add to the controversy about companies sitting on cash as the data shows they are parking it offshore to avoid the tax bill that would be due on returning it to the US. An estimated $1.2tn of cash was held overseas at the end of 2015 \u2013 about 72% of the $1.68tn cash stockpile, Moody\u2019s said. Of the five big hoarders of cash, three \u2013 Apple, Microsoft and Cisco \u2013 keep more than 90% outside the US. \u201cThis amount reflects the negative tax consequences of permanently repatriating money to the US and the use of domestic cash for dividends, share buybacks and the majority of acquisitions,\u201d Moody\u2019s said. Earlier this year, anti-poverty charity Oxfam had estimated US companies had $1.4tn in subsidiaries based offshore, while the $1.68tn that Moody\u2019s estimates is being stashed by US companies is a sum equivalent to the size of the Canadian economy.  \u201cBecause domestic cash is consumed by dividends and share buybacks and is used to pay for the majority of acquisitions, we expect that overseas cash balances will continue to grow unless tax laws are changed to encourage companies to repatriate money,\u201d Moody\u2019s said. \u201cThere has been little progress toward corporate tax reform that would incentivise US companies to permanently repatriate funds held overseas. At this stage in the political cycle and given strong differences on both sides of the aisle in Washington, we do not expect tax law reform that would prompt overseas cash repatriation,\u201d Moody\u2019s said. But with the US presidential election looming, Moody\u2019s said it did not expect any major tax reforms that would prompt companies to start sending money to the US.  Companies can put their cash to use in a number of ways, with capital expenditure \u2013 spending on equipment \u2013 usually the largest use. Payouts to shareholders through share buybacks and dividends is another use, as is making acquisitions. The Moody\u2019s research also shows that US companies have been increasing their cash balances every year since 2007 when the ratings agency first began its research. Nearly $1tn has been added since 2007 when the total was $742bn. The cash is increasingly concentrated among the top 50 hoarders, who held 67% of 2015\u2019s total compared with 58% when the research began. But while cash piles are increasing, so is the amount of debt with borrowing outpacing cash levels for the first time since 2012. Apple has dominated the table since 2009. \u201cSince Apple became the cash king in 2009, its $176 bn increase represents 26% of the total $670bn increase in corporate cash over the same period,\u201d Moody\u2019s said. The biggest cash pile held by a non-tech company is the $39bn in the coffers of pharmaceutical company Pfizer. It was forced to abandon a tie-up with rival Allergan - in what was regarded as the biggest pharmaceutical deal in history - in April after the US government clamped down on so-called tax inversion deals. Such transactions are structured to allow corporations to relocate their headquarters to countries with a lower tax rate. The top 50 list includes a number of well-known names such as Ford, Visa, eBay, McDonald\u2019s and Asda-owner WalMart. Moody\u2019s, which analysed more than 1,000 companies, said that to gain a place in the top 50, companies needed $6.12bn of cash, up from $6.07bn last year and $2.9bn in 2007.",
+  "webTitle": "US corporate giants hoarding more than a trillion dollars",
+  "webPublicationDate": "2016-05-20T18:04:00Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/20/us-corporate-giants-hoarding-over-a-trillion-dollars-apple-microsoft-google",
+  "keyword": [
+    {
+      "webTitle": "US economy",
+      "id": "business/useconomy",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Moody's",
+      "id": "business/moodys",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Apple",
+      "id": "technology/apple",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Microsoft",
+      "id": "technology/microsoft",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Google",
+      "id": "technology/google",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Cisco",
+      "id": "technology/cisco",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Oracle",
+      "id": "technology/oracle",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Tax avoidance",
+      "id": "business/taxavoidance",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Rating agencies",
+      "id": "business/rating-agencies",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Corporate governance",
+      "id": "business/corporate-governance",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jill Treanor",
+      "id": "profile/jilltreanor"
+    }
+  ],
+  "guardianId": "business/2016/may/20/us-corporate-giants-hoarding-over-a-trillion-dollars-apple-microsoft-google"
+}

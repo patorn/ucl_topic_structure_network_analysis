@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/19/heart-of-a-dog-review-laurie-anderson",
+  "id": "2016-05-19-23",
+  "sectionId": "film",
+  "body": "Related: Barking at the box office: can a dead dog make a movie lead?    Starting as a lament to her deceased rat terrier, Laurie Anderson\u2019s eccentric, erudite essay-film flits and meanders to some unexpected places, from an eerily transporting explanation of the Buddhist view of death to some astonishing childhood anecdotes to an absurd scene of her blind dog playing the piano. If there\u2019s a common thread, it\u2019s storytelling and memory \u2013 \u201cEvery time we tell a story, we forget it more,\u201d is one nugget of wisdom \u2013 but it\u2019s an aural experience as much as a visual one. Anderson\u2019s hushed, mellifluous voice and shifting electronic compositions merge with the treated stream-of-consciousness imagery to powerful, often poignant effect. It\u2019s less like a lecture than a waking dream, perhaps even a form of hypnosis.",
+  "webTitle": "Heart of a Dog review \u2013 Laurie Anderson's paean to a canine friend",
+  "webPublicationDate": "2016-05-19T21:00:21Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/19/heart-of-a-dog-review-laurie-anderson",
+  "keyword": [
+    {
+      "webTitle": "Heart of a Dog",
+      "id": "film/heart-of-a-dog",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Documentary",
+      "id": "film/documentary",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Laurie Anderson",
+      "id": "music/laurie-anderson",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Steve Rose",
+      "id": "profile/steverose"
+    }
+  ],
+  "guardianId": "film/2016/may/19/heart-of-a-dog-review-laurie-anderson"
+}

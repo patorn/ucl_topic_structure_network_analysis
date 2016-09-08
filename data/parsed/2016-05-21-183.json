@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/money/blog/2016/may/21/wrong-pension-calculations-retirement",
+  "id": "2016-05-21-183",
+  "sectionId": "money",
+  "body": "There is a rule of thumb that financial advisers and asset management companies use to tell us how much we need to save, and how long our pensions will survive in retirement. But research released this week finds that we\u2019ve been getting it wrong all along. The rule of thumb is that the safe level of withdrawal from your pension is 4% a year. Advisers say that as long as you don\u2019t take more than that your money should last 30 years, and give some protection from inflation. But research by investment analysts Morningstar has found little support for the suggested 4%. It says that figure arose in the US and is based on projections that are questionable when applied in the UK. Its conclusion is that British savers should actually take out no more than 3.2% a year, while the more cautious saver should rely on no more than 2.5% a year. These differing figures may seem small in themselves, but have a devastating affect on the amount you will need to save for a reasonable retirement income. Using the 4% figure, someone wanting a \u00a310,000 income in retirement would have to save \u00a3250,000. Once the withdrawal rate is cut to 3.2%, then the sum of money needed to create a \u00a310,000 income rises to \u00a3312,500. It gets worse if you use the 2.5% safe withdrawal rate: you\u2019ll need \u00a3400,000 in the bank. Broadly, what Morningstar is saying is that workers should decide what income level they think they need for retirement, then multiply it by 30 to work out how much they need to save. In the past, this sort of esoteric analysis needn\u2019t have bothered workers saving for their pensions. Either they had a final salary-related pension or were forced to use their pension savings to buy an annuity. But the pension world has changed dramatically in recent years. Final salary pension schemes have all but disappeared in the private sector; what\u2019s more, savers no longer have to buy an annuity. Instead, they have to decide what to do with their money on retirement. They will be joined by the millions of lower-income workers being auto-enrolled into pensions this year. All of these people will have to work out what they can safely do with their money once they reach their retirement date. Given that most people are unable to significantly increase their savings, what it suggests is that incomes in retirement for most of today\u2019s workers are going to be dire. The new state pension, if you have a full national insurance record, will be worth about \u00a38,000 a year. We can only guess how much people are going to save through auto-enrolment or in their company pension schemes, but most of the figures kicking around at the moment make for miserable reading. The typical sum that was used to buy an annuity was only about \u00a330,000-\u00a335,000. Applying a safe withdrawal rate of 3% to that means a pensioner would get \u00a31,200 extra a year \u2013 and have to survive on just \u00a39,200 a year through their retirement. Many will have saved more, but if they wish to retire on two-thirds of today\u2019s \u00a327,000 average UK salary \u2013 equating to \u00a317,800 a year \u2013 they need to have put away about \u00a3300,000. How did advisers get it so wrong on the 4% figure? Morningstar says it was an \u201coverly optimistic\u201d figure based on historical US stock market returns that were higher than returns earned by British savers \u2013 and, in any case, not applicable to a world in which interest rates have fallen to zero and where longevity continues to rise steeply. \u201cRetirement is going to last longer and longer. This is a risk that is not likely fully understood by UK investors today,\u201d it says. So what should you do? Save more is the trite answer; work until you are 70 or beyond is more likely. Older pensioners will have to turn to equity release, where available. And younger pensioners may take another look at annuities and decide that maybe they weren\u2019t such bad value after all.",
+  "webTitle": "How did we get pension calculations so wrong?",
+  "webPublicationDate": "2016-05-21T06:00:05Z",
+  "webUrl": "https://www.theguardian.com/money/blog/2016/may/21/wrong-pension-calculations-retirement",
+  "keyword": [
+    {
+      "webTitle": "Pensions",
+      "id": "money/pensions",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Retirement age",
+      "id": "money/retirement-age",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Retirement planning",
+      "id": "money/retirement-planning",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Family finances",
+      "id": "money/family-finances",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Work & careers",
+      "id": "money/work-and-careers",
+      "sectionId": "money",
+      "sectionName": "Money"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Patrick Collinson",
+      "id": "profile/patrickcollinson"
+    }
+  ],
+  "guardianId": "money/blog/2016/may/21/wrong-pension-calculations-retirement"
+}

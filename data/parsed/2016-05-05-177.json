@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/05/george-osborne-uk-economy-gdp-growth",
+  "id": "2016-05-05-177",
+  "sectionId": "business",
+  "body": "Last summer the UK economy was zipping along and the chancellor, fresh from an election victory, was boasting of the best GDP growth in the G7. Inside the Treasury, it was unthinkable that growth would evaporate within a year, and yet this week\u2019s surveys of the construction, manufacturing and services industries, which cover just about all economic activity, show output flattening going into the second quarter. Worse, job creation is at its lowest for more than two and a half years and business optimism has fallen to a level not seen since the start of 2013.   Related: Services sector slump fans fears of UK economic slowdown    In recent weeks the chancellor has blamed Brexit; before that the \u201ccocktail of threats\u201d from the global slowdown in trade.  It might suit him to argue that forces beyond his control are damaging growth. And there is some truth that the deteriorating situation in China, the US and the sickly eurozone have played a part in depressing national incomes alongside the impact of the impending EU referendum, which has encouraged businesses to defer investment. But bodies such as the British Chambers of Commerce have charted weakening business confidence for almost a year. Manufacturing activity started to slide in the summer of 2015 and construction followed not far behind. So the deterioration goes back further than September\u2019s stock market panic, which was triggered by terrible trade figures from China and spurred George Osborne to make his \u201ccocktail of threats\u201d speech. And it long predates fears of a Brexit vote. There is the possibility the chancellor is to blame, after he swept back into No 11 promising a further five years of austerity. Never before has the UK sustained 10 years of restrained, if not shrinking, government expenditure. Without the multiplier effect of public spending on new infrastructure and cash to maintain the existing roads and public amenities, the private sector has pulled in its horns. Another reason could be that businesses have reached the end of the road with their post-financial crash strategy of employing ever more cheap labour to operate increasingly outdated kit and outmoded practices. They need to upgrade and improve worker skills, but uncertainty prevents them taking the plunge. In this they are not alone. It is the same story of weak business investment across the entire developed world. And only bolder support from government will persuade them that a three- to five-year investment horizon has a payback and will not end in disaster. Even the CBI has spotted the problem and says government needs to play a bigger part, calling for a new industrial strategy.",
+  "webTitle": "Osborne's 'cocktail of threats' excuse for the UK's ills has lost its fizz",
+  "webPublicationDate": "2016-05-05T13:30:40Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/05/george-osborne-uk-economy-gdp-growth",
+  "keyword": [
+    {
+      "webTitle": "Economic growth (GDP)",
+      "id": "business/economicgrowth",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economic policy",
+      "id": "politics/economy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Economic recovery",
+      "id": "business/economic-recovery",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Global economy",
+      "id": "business/global-economy",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "George Osborne",
+      "id": "politics/georgeosborne",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Austerity",
+      "id": "business/austerity",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Phillip Inman",
+      "id": "profile/phillipinman"
+    }
+  ],
+  "guardianId": "business/2016/may/05/george-osborne-uk-economy-gdp-growth"
+}

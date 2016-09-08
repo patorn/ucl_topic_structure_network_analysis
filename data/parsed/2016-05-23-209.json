@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/23/crystal-palace-steve-parish-bounce-back",
+  "id": "2016-05-23-209",
+  "sectionId": "football",
+  "body": "The Crystal Palace chairman Steve Parish has urged his players to come back stronger after their heartbreaking defeat to Manchester United in Saturday\u2019s FA Cup Final.   Related: Crystal Palace need big name signings in the summer, says Alan Pardew    Palace were nine minutes away from winning their first-ever major trophy after Jason Puncheon had given them the lead at Wembley before an equaliser from Juan Mata took the game into extra-time and United\u2019s Jesse Lingard fired the winner. It is the second time Palace have lost out in a final to United, having been beaten after a replay in 1990. Parish, who led a consortium to acquire Palace in 2010, admitted he had been bitterly disappointed by the result but hopes his players can put it behind them quickly. \u201cIt is growing experience. The year after this we finished third in 1990 so let\u2019s see if we cannot have a great season and use it as a springboard,\u201d he told the South London Press. \u201cEveryone will pick themselves up. They are professionals. Obviously it hurts now. We will have a summer and come back next season. We have a lot of work to do in the summer to try and get better. \u201cNo one died. We lost a game of football. It is not great and I feel for everybody. We are all going to feel pain for the next few weeks. We will lick our wounds and come back. That is what we do. We have got an important season again next season, another two cup campaign, let\u2019s see if we can learn from it and come back and try and win it again.\u201d",
+  "webTitle": "Crystal Palace\u2019s Steve Parish: players must bounce back from Cup defeat",
+  "webPublicationDate": "2016-05-23T11:06:46Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/23/crystal-palace-steve-parish-bounce-back",
+  "keyword": [
+    {
+      "webTitle": "Crystal Palace",
+      "id": "football/crystalpalace",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "FA Cup",
+      "id": "football/fa-cup",
+      "sectionId": "football",
+      "sectionName": "Football"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "football/2016/may/23/crystal-palace-steve-parish-bounce-back"
+}

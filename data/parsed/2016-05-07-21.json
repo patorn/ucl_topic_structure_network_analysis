@@ -1,0 +1,46 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/07/afghanistan-civilian-death-toll",
+  "id": "2016-05-07-21",
+  "sectionId": "world",
+  "body": "The civilian toll of Afghanistan\u2019s war has been underestimated, revised figures from an Afghan government official and details of UK military investigations into the deaths of two children suggest. The government reckoning of the toll from a bombing in 2011, and the cases of the children, were documented but never published or shared more widely, and so are not included in the most commonly referenced and respected tallies of the dead over 15 years of fighting. Between them, they involve around a dozen new civilian casualties, and if they are representative of wider problems in counting the dead, there could be hundreds more civilian victims of the past 15 years of fighting whose deaths are missing from the records.   Related: Hopes for Afghan peace talks sink as Kabul attack death toll doubles    Two of the newly revealed casualties were children, allegedly shot by British forces in separate incidents in southern Afghanistan in 2009. The deaths were investigated by British military police, according to records seen by the Observer after a freedom of information request. The others were victims of a sectarian bombing at a Shia shrine in Kabul in 2011. A spokesman for President Ashraf Ghani last month abruptly revised up the toll for that day\u2019s violence, saying that 90 people had been killed in an attack previously thought to have killed at most 80 people. Human rights workers have worried about the challenges of tallying the victims of the war since violence first started sweeping across Afghanistan after the fall of the Taliban. Initially, neither the Afghan government nor the foreign forces were systematically tracking deaths, and so in 2007 the United Nations set up a rigorous monitoring system, requiring three independent sources to verify each civilian killed. It has listed nearly 25,000 civilian victims of the war over nine years, and tens of thousands more injured. But the strict standards that make the database so respected have always created concerns that they could be missing casualties. The revelations from the president\u2019s office and British military investigations suggest that there are many victims whose deaths are recorded by legitimate sources but are still not making it on to the overall counts of the dead, because information is not being shared publicly or in private. Among those who might not have made the lists of the dead are rural residents whose killings did not have enough witnesses, or were in areas so remote or dangerous that news of them never reached the cities. Violence in urban areas rarely goes unnoticed, but some families take the bodies of their loved ones directly from the scene of attacks for burial and, in the chaos after major attacks, there has been no single organisation responsible for keeping track of the dead. Among rural victims are the two boys allegedly killed in southern Afghanistan, who do not feature on the UN register or a parallel register kept by the Afghan Independent Human Rights Commission. One, aged around 13 or 14, was shot by a sniper in June 2009, according to Ministry of Defence records of an investigation by the Royal Military Police. Soldiers on a foot patrol targeted the teenager, whose death is confirmed in documents obtained under the Freedom of Information Act, because they suspected him of working as a Taliban spotter or planning to lay a bomb. In a second incident investigated by military police, a seven-year-old Afghan boy was allegedly killed after a British officer fired a warning shot. The revision of the toll from the 2011 shrine bombing, the deadliest attack in Kabul since the Taliban were toppled from power a decade earlier, highlights problems tallying urban deaths. Dawakhan Menapal, deputy presidential spokesman, revealed the government\u2019s updated death count in the aftermath of another devastating bombing in Kabul last month, as debate raged about whether the truck bomb that killed 64 people was even bloodier than the shrine tragedy. He declined to say when the extra deaths had been recorded, why the public record had not previously been updated, or whether there had been revisions to the death counts from other major attacks over the course of the war. The UN initially put the shrine death toll at 62. A few days after the attack, then-president Hamid Karzai said the toll had risen to 80. Analysis now indicates a minimum of 10 extra victims, perhaps more, who were almost certainly civilians because the bomber struck at the heart of a crowd of ordinary worshippers. The UN had recorded only two police officers among the dozens of dead. The interior ministry, which usually issues casualty reports after big attacks, declined requests to comment. But if deaths have been underestimated on a similar level in other urban tragedies, there could be hundreds of uncounted victims.",
+  "webTitle": "Afghan civilian death toll \u2018much higher than the official estimate\u2019",
+  "webPublicationDate": "2016-05-07T23:04:06Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/07/afghanistan-civilian-death-toll",
+  "keyword": [
+    {
+      "webTitle": "Afghanistan",
+      "id": "world/afghanistan",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "South and Central Asia",
+      "id": "world/south-and-central-asia",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Human rights",
+      "id": "law/human-rights",
+      "sectionId": "law",
+      "sectionName": "Law"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Emma Graham-Harrison",
+      "id": "profile/emma-graham-harrison"
+    },
+    {
+      "webTitle": "Rob Evans",
+      "id": "profile/robevans"
+    }
+  ],
+  "guardianId": "world/2016/may/07/afghanistan-civilian-death-toll"
+}

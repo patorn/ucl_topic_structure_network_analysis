@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/05/dan-michaelson-and-the-coastguards-memory-review",
+  "id": "2016-05-05-50",
+  "sectionId": "music",
+  "body": "The third instalment of a trilogy, following 2013\u2019s Blindspot and 2014\u2019s rave-reviewed Distance, Memory finds Dan Michaelson further expanding his \u201cepic minimalism\u201d. Guitars, bass and piano are now augmented by slightly louder drums, and the new brass provides the warmth of a colliery band. As ever, his voice is central: a world-weary croak that sounds to have been perfected over several days without sleeping. The seven songs find him trying to pin down fleeting, lost personal moments in time: romantic mistakes and fatefully crossed lines. \u201cIf I could take you back, I wouldn\u2019t take it on you, but you can\u2019t undo,\u201d he sings, as the marvellous Undo broods as powerfully as the National. If Michaelson\u2019s songwriting were less capable, his melancholy could risk self-parody \u2013 when he\u2019s walking her home, the heavens inevitably open. However, these are magical songs, brimming with understated but powerful hooks and the joys of loss lifted and intimacy shared.",
+  "webTitle": "Dan Michaelson and the Coastguards: Memory review \u2013 magical, melancholy songs",
+  "webPublicationDate": "2016-05-05T19:15:02Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/05/dan-michaelson-and-the-coastguards-memory-review",
+  "keyword": [
+    {
+      "webTitle": "Pop and rock",
+      "id": "music/popandrock",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Indie",
+      "id": "music/indie",
+      "sectionId": "music",
+      "sectionName": "Music"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Dave Simpson",
+      "id": "profile/davesimpson"
+    }
+  ],
+  "guardianId": "music/2016/may/05/dan-michaelson-and-the-coastguards-memory-review"
+}

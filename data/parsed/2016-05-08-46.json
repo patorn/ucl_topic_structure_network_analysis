@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/08/st-helens-hull-fc-challenge-cup-match-report",
+  "id": "2016-05-08-46",
+  "sectionId": "sport",
+  "body": "Hull FC produced an attacking masterclass to set up an intriguing Challenge Cup quarter-final with Catalans Dragons after inflicting a first home defeat in the cup on St Helens for more than two decades. Not since their defeat against Wigan in 1995, in the days before Super League and summer rugby, had the Saints been eliminated from the cup on their own ground but here \u2013 led by the outstanding trio of Marc Sneyd, Danny Houghton and Scott Taylor \u2013 Hull\u2019s attacking flair was too much for a St Helens side who were second best in almost every aspect of the contest. The last time these two teams met in the cup was the 2008 final, when the coaches for this encounter, Lee Radford and Keiron Cunningham, were captaining Hull and St Helens respectively. The Saints won on that occasion but from early on here, a repeat was never on the cards. Mark Percival\u2019s early try had hinted at a promising afternoon for the hosts but, when Hull hit back, they were near enough unstoppable on occasions. Tries from Houghton, Taylor and the Hull captain, Gareth Ellis, put the visitors 18-6 up and in complete control, with Jamie Shaul \u2013 a player who is surely attracting the eye of the England coach, Wayne Bennett \u2013 inflicted more misery on the home side just before the break. The boot of Sneyd was crucial all afternoon, with the half-back\u2019s 15-point tally only half of his all-round contribution. A Luke Walsh try just after half time had given the hosts faint hope, but Hull cut loose again after that, with tries for Curtis Naughton, Kirk Yeaman, a second for Taylor and an incredible finish from the wing, Fetuli Talanoa, sealed Hull\u2019s passage into the last eight with ease. Hull\u2019s quarter-final tie against the Dragons will be played next month, with Super League leaders Warrington hosting Widnes, Castleford travelling to Wigan and an all-West Yorkshire affair between Huddersfield and Wakefield the three other ties. Pity the Dragons though because on this basis, nobody would have fancied drawing Radford\u2019s team.",
+  "webTitle": "Hull dominate St Helens to ease into Challenge Cup quarter-finals",
+  "webPublicationDate": "2016-05-08T19:17:04Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/08/st-helens-hull-fc-challenge-cup-match-report",
+  "keyword": [
+    {
+      "webTitle": "Challenge Cup",
+      "id": "sport/challengecup",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "St Helens",
+      "id": "sport/sthelens",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Hull FC",
+      "id": "sport/hull-fc",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Rugby league",
+      "id": "sport/rugbyleague",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Aaron Bower",
+      "id": "profile/aaron-bower"
+    }
+  ],
+  "guardianId": "sport/2016/may/08/st-helens-hull-fc-challenge-cup-match-report"
+}

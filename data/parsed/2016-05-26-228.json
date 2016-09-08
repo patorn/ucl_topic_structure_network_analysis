@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/26/liverpool-raphael-guerreiro-lorient-bid",
+  "id": "2016-05-26-228",
+  "sectionId": "football",
+  "body": "Liverpool have made a bid to sign the Portugal left-back Rapha\u00ebl Guerreiro from Lorient but face competition from Borussia Dortmund, according to the French club\u2019s vice-president, Alex Hayes. The 22-year-old, who has five caps for his country, has also been linked with a move to Barcelona this week having enjoyed a successful season in Ligue 1.   Related: Eric Cantona believes Didier Deschamps may have left out France players on racial grounds    \u201cFor the moment four major foreign clubs, including Dortmund and Liverpool, have made an offer,\u201d Hayes told the French newspaper Ouest France. \u201cNo one wants to see Rapha\u00ebl leave, especially the president. He will only be transferred if a club makes an offer that we can\u2019t refuse. \u201cThe fourth one shouldn\u2019t take too long to be made [officially] but for the moment none of them satisfy us. We\u2019re calm. We don\u2019t need to sell to balance the books.\u201d Guerreiro was signed from Caen in 2013 and has only one year left on his contract. It is likely that it will take a bid of around \u00a310m to persuade Lorient to sell.",
+  "webTitle": "Liverpool submit bid for Rapha\u00ebl Guerreiro, says Lorient vice-president",
+  "webPublicationDate": "2016-05-26T11:16:56Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/26/liverpool-raphael-guerreiro-lorient-bid",
+  "keyword": [
+    {
+      "webTitle": "Liverpool",
+      "id": "football/liverpool",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Lorient",
+      "id": "football/lorient",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Borussia Dortmund",
+      "id": "football/borussiadortmund",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Transfer window",
+      "id": "football/transfer-window",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "European club football",
+      "id": "football/europeanfootball",
+      "sectionId": "football",
+      "sectionName": "Football"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "football/2016/may/26/liverpool-raphael-guerreiro-lorient-bid"
+}

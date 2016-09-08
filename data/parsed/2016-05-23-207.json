@@ -1,0 +1,84 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/23/protesters-urge-north-yorkshire-councillors-vote-against-fracking-third-energy",
+  "id": "2016-05-23-207",
+  "sectionId": "uk-news",
+  "body": "North Yorkshire councillors have been urged not to turn the region into \u201cthe fracking capital of the UK\u201d before a crucial vote that could pave the way for the technique to be used across England. The UK firm Third Energy wants to frack for shale gas at its existing drilling site near the village of Kirby Misperton, between Malton and Pickering.   Related: Police 'used sexualised violence against fracking protesters'    As councillors prepared to vote on the plan on Monday evening, local people warned that giving the green light to fracking would damage tourism, agriculture and business and described the vote as a \u201cDavid and Goliath moment\u201d for the UK. Frank Colenso, from the village of Hovingham, told councillors that Third Energy had not proved beyond doubt that the experiment would be safe and would benefit the local community. Wearing a white Yorkshire rose on his suit jacket, Colenso asked councillors to base their decision on \u201clogic and common sense\u201d and said: \u201cThe passion surrounding this issue is on par with Brexit \u2013 however, there is no referendum for the people of North Yorkshire on fracking. Today you must decide our fate \u2026 If there is any doubt in your mind you must reject the application.\u201d The council\u2019s planning department recommended approval just over a week ago, meaning councillors will on Monday night decide on what could be the first fracking test since 2011. If successful, the site will be the first in the country to go into production. About 300 anti-fracking demonstrators had gathered outside the grand County Hall building in Northallerton, where the planning meeting was being held. There were fewer protesters on Monday morning but they could be heard booing, jeering and honking their horns as the first pro-fracking speakers addressed the Tory-dominated planning committee.    North Yorkshire council has now finished hearing concerns of anti-fracking protesters ahead of decision later today pic.twitter.com/cEvF8ZvRZ6\u2014 Josh Halliday (@JoshHalliday) May 23, 2016    John Dewar, Third Energy\u2019s operations director, denied claims that fracking was a \u201cnovel\u201d technique and attempted to counter concerns that it is unsafe. He said: \u201cOur company\u2019s mantra is: if something can\u2019t be done safely, then it shouldn\u2019t be done at all.\u201d He questioned whether any of the dozens of concerned local residents had read Third Energy\u2019s fracking application and said the company\u2019s conventional gas extraction in the area over the past two decades had not damaged the local community. Earlier on Monday, Kyle Boote, owner of the Helmsley Brewing Company, said the \u201cmost educated, most employable and most aspirational\u201d people would leave the area if the plan went ahead. He expressed concern that the district of Ryedale would be known as \u201cthe fracking capital of the UK\u201d and have a damaging impact on local tourism and business. Boote added: \u201cOur beers have been branded to convey the unique character of our area and will not seem so appealing should our region become synonymous with fracking. \u201cIn business as in all things, perception is often reality. But what if the worst happens? People will definitely not want to visit or buy from producers in areas where there have been environmental problems. The short- and long-term impact on local tourism and farming will be profoundly negative with both new and long-established businesses ruined.\u201d The government has said it is going \u201call out for shale\u201d to boost energy security and the economy. But opponents fear fracking \u2013 in which liquid is pumped deep underground at high pressure to fracture rock and release gas \u2013 can cause problems including water contamination, earthquakes and noise and traffic pollution. Environmentalists also warn that pursuing new sources of gas \u2013 a fossil fuel \u2013 is not compatible with efforts to tackle climate change.  No fracking has taken place in the UK since 2011, when tests on the Fylde coast were found to have been the probable cause of minor earthquakes in the area. Since then, two high-profile applications to frack in Lancashire have been rejected by councillors and are the subject of appeals. Third Energy wants to frack for shale gas using an existing two-mile deep well \u2013 called KM8 \u2013 drilled in 2013. Sarah Houlston, whose farm is just over a mile from HM8, said she wanted to know how the wells would be kept safe once the fracking had finished. No insurance company, she said, provided cover to farmers whose water had been contaminated due to fracking. \u201cThis is about our children\u2019s future \u2013 we need a sustainable future, safe food, safe water and clean air \u2026 We believe that agriculture\u2019s greatest threat in the UK comes from fracking,\u201d she said.",
+  "webTitle": "Protesters urge North Yorkshire councillors to vote against fracking",
+  "webPublicationDate": "2016-05-23T11:15:56Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/23/protesters-urge-north-yorkshire-councillors-vote-against-fracking-third-energy",
+  "keyword": [
+    {
+      "webTitle": "Yorkshire",
+      "id": "uk-news/yorkshire",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Fracking",
+      "id": "environment/fracking",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Protest",
+      "id": "world/protest",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Local government",
+      "id": "society/localgovernment",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Energy",
+      "id": "environment/energy",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Fossil fuels",
+      "id": "environment/fossil-fuels",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Gas",
+      "id": "environment/gas",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Josh Halliday",
+      "id": "profile/josh-halliday"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/23/protesters-urge-north-yorkshire-councillors-vote-against-fracking-third-energy"
+}

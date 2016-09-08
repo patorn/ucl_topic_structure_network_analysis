@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/us-news/2016/may/17/mississippi-cleveland-high-schools-segregated",
+  "id": "2016-05-17-169",
+  "sectionId": "us-news",
+  "body": "Nearly 60 years after the landmark US supreme court ruling that ordered schools to integrate, the classrooms of Cleveland, Mississippi, are still divided by race. A federal court ordered the Cleveland school district to consolidate its schools entirely on Friday, ruling that after so many decades of resistance, only dismantling and reforming the schools could bring the town\u2019s two sides together. In a 96-page opinion, the US district court for the northern district of Mississippi wrote: \u201cThe delay in desegregation has deprived generations of students of the constitutionally guaranteed right of an integrated education. Although no court order can right these wrongs, it is the duty of the District to ensure that not one more student suffers under this burden.\u201d To say the town has two sides is no exaggeration; the population of 12,000 is split east and west by the old Illinois railroad tracks. Residents on the east side are black, and attend East Side high school. On the west, white children attend Cleveland high. The school district had come up with two plans of its own to mix the students, but US judge Debra Brown rejected them as unconstitutional. \u201cSix decades after the supreme court in Brown v Board of Education declared that \u2018separate but equal has no place\u2019 in public schools, this decision serves as a reminder to districts that delaying desegregation obligations is both unacceptable and unconstitutional,\u201d said Vanita Gupta, head of the US justice department\u2019s civil rights division. \u201cThis victory creates new opportunities for the children of Cleveland to learn, play and thrive together. The court\u2019s ruling will result in the immediate and effective desegregation of the district\u2019s middle school and high school program for the first time in the district\u2019s more than century-long history.\u201d In recent years across the country there has been an effort to stop \u201cre-segregation\u201d: in the generations since the supreme court\u2019s Brown vs Board of Education ruling, the white people in many towns have slowly sifted out of integrated schools by moving into certain neighborhoods. But that\u2019s the not the case in Cleveland according to Wendy Scott, dean of Mississippi College School of Law and an expert in school desegregation. \u201cThere are only a handful of cases like that,\u201d she told the Atlantic magazine last February. Cleveland sits in Bolivar County at the center of the Mississippi Delta, a torpid and poverty-stricken portion of the state that hasn\u2019t known widespread prosperity since slaves hauled cotton on plantations. The fight to integrate Cleveland\u2019s schools began in 1965, when a group of black parents sued the school district. They won the case four years later, and black students were allowed to enroll in the all-white Cleveland high. But about 1,000 white locals gathered in the streets to protest, and in the half century since little progress has been made. It should come quickly, now. In her ruling, Brown gave the school district three weeks to submit a timeline to implement the consolidation and abolish the district\u2019s dual system. The court\u2019s plan, developed by the Department of Justice, will consolidate the East Side high school with the Cleveland high school, as well as the middle schools that feed into them \u2013 the almost all-black DM Smith school and the white Margaret Green school. Vanderbilt University education professor Claire Smrekar, who helped the Department of Justice devise its plan, said in an affidavit the best way forward would be a district-wide middle school that uses the current East Side high school building, and a district-wide high school campus using the current Cleveland high school and Margaret Green junior high buildings. Holmes Adams, attorney for the Bolivar County board of education, said on Monday the board is reviewing the opinion, and weighing whether to appeal.",
+  "webTitle": "Mississippi city ordered to desegregate schools 60 years after landmark ruling",
+  "webPublicationDate": "2016-05-17T12:31:42Z",
+  "webUrl": "https://www.theguardian.com/us-news/2016/may/17/mississippi-cleveland-high-schools-segregated",
+  "keyword": [
+    {
+      "webTitle": "Mississippi",
+      "id": "us-news/mississippi",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Race issues",
+      "id": "world/race",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Civil rights movement",
+      "id": "world/civil-rights-movement",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Cities",
+      "id": "cities/cities",
+      "sectionId": "cities",
+      "sectionName": "Cities"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Matthew Teague",
+      "id": "profile/matthew-teague"
+    }
+  ],
+  "guardianId": "us-news/2016/may/17/mississippi-cleveland-high-schools-segregated"
+}

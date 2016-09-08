@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/08/skepta-konnichiwa-review",
+  "id": "2016-05-08-196",
+  "sectionId": "music",
+  "body": "A key figure on the grime scene since the early 00s, Skepta rebooted his career and gave the entire genre a jolt in 2014 with the electrifying That\u2019s Not Me. This keenly awaited album, his fourth, rides the wave of that resurgence, which intensified with last year\u2019s brilliant Shutdown, but it also bristles under the pressure. Moments of insecurity \u2013 \u201cI can\u2019t be up there with them people,\u201d the Tottenham rapper frets on Corn on the Curb, \u201cI\u2019m too black\u201d \u2013 are put to productive use, as are headaches such as police harassment (on Crime Riddim). The album pulses with nervy energy. None of the new tracks outshine those we\u2019ve already heard, though Numbers, produced by Pharrell Williams, comes exuberantly close.",
+  "webTitle": "Skepta: Konnichiwa review \u2013 pulses with nervy energy",
+  "webPublicationDate": "2016-05-08T06:00:14Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/08/skepta-konnichiwa-review",
+  "keyword": [
+    {
+      "webTitle": "Grime",
+      "id": "music/grime",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Skepta",
+      "id": "music/skepta",
+      "sectionId": "music",
+      "sectionName": "Music"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Killian Fox",
+      "id": "profile/killianfox"
+    }
+  ],
+  "guardianId": "music/2016/may/08/skepta-konnichiwa-review"
+}

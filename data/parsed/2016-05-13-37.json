@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/13/tom-brady-deflategate-ban-16-games-gronkowski",
+  "id": "2016-05-13-37",
+  "sectionId": "sport",
+  "body": "Tom Brady is slated to miss four games of the new season for his part in the Deflategate scandal, but Rob Gronkowski, his Patriots team-mate, is confident Brady\u2019s suspension will be wiped out by the time September rolls around.   Related: Tom Brady's $200 cookbook \u2018TB12 Nutrition Manual\u2019 sells out on website    Brady was originally suspended for four games in 2015, but he and the NFL players\u2019 union successfully appealed the verdict, and Brady was allowed to play the entire season. The suspension was reinstated late last month, but Gronkowski feels Brady will be available for the whole season. \u201cI was actually surprised. It was a surprise to everyone,\u201d Gronkowski said. \u201cI thought it was totally done and it was crazy to see it happen again. It\u2019s kind of getting stupid to the point where it\u2019s at now. Why it\u2019s still going on now \u2026 but I think he\u2019s going to play 16 games again. That\u2019s the way it\u2019s been going on, that\u2019s the way it\u2019s worked, so hopefully that\u2019s true.\u201d Brady appealed the reinstatement of the suspension, and was recently granted an extension on his request for a rehearing. Brady and the players\u2019 union now have until 23 May to file the request. If Brady misses those four games, Jimmy Garoppolo would probably step in take the starter\u2019s job. The Patriots also selected a quarterback in the third round of this year\u2019s draft, North Carolina State\u2019s Jacoby Brissett. \u201cNo matter who\u2019s at quarterback,\u201d Gronkowski said, \u201cyou\u2019ve got to be prepared and be ready to help out the team.\u201d",
+  "webTitle": "Tom Brady will play all 16 games next season, team-mate Gronkowski predicts",
+  "webPublicationDate": "2016-05-13T19:43:41Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/13/tom-brady-deflategate-ban-16-games-gronkowski",
+  "keyword": [
+    {
+      "webTitle": "New England Patriots",
+      "id": "sport/new-england-patriots",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Tom Brady",
+      "id": "sport/tom-brady",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Deflategate",
+      "id": "sport/deflategate",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "US sports",
+      "id": "sport/us-sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "sport/2016/may/13/tom-brady-deflategate-ban-16-games-gronkowski"
+}

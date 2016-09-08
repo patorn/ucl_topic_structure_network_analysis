@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/08/horse-racing-tips-monday",
+  "id": "2016-05-08-77",
+  "sectionId": "sport",
+  "body": "Brighton  1.50 Monks Stand 2.20 Multigifted 2.50 Pretty Bubbles 3.20 Inniscastle Lad (nap) 3.50 Glasgow Central 4.20 Wordismybond 4.50 Pandar Musselburgh  2.10 Roc De Prince 2.40 Galahad 3.10 Just Paul 3.40 Tellovoi 4.10 Jammy Moment 4.40 Madame Butterfly 5.10 Quick N Quirky 5.45 Atreus Towcester  5.30 Colin\u2019s Sister 6.00 Perspicace 6.30 Tony Star 7.00 Gamain 7.30 Diego Suarez 8.00 Grams And Ounces 8.30 Kaspian Tern   Related: Silvestre de Sousa on top of the pile after riding the highs and lows    Windsor   5.20 Whiteley 5.50 Sir George Somers 6.20 Grapevine 6.50 Sydney Ruffdiamond 7.20 Lightning Spear (nb) 7.50 Blushes 8.20 City Of Ideas Wolverhampton   2.00 Dontforgettocall 2.30 Aumerle 3.00 Naziba 3.30 Serendib\u2019s Glory 4.00 Bocking End 4.30 Naqdy 5.00 Storytale",
+  "webTitle": "Horse racing tips: Monday 9 May",
+  "webPublicationDate": "2016-05-08T16:15:12Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/08/horse-racing-tips-monday",
+  "keyword": [
+    {
+      "webTitle": "Horse racing tips",
+      "id": "sport/horse-racing-tips",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Horse racing",
+      "id": "sport/horse-racing",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Chris Cook",
+      "id": "profile/chriscook"
+    }
+  ],
+  "guardianId": "sport/2016/may/08/horse-racing-tips-monday"
+}

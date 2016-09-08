@@ -1,0 +1,30 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/13/vlad-kramnik-st-petersburg-russian-premier-league",
+  "id": "2016-05-13-70",
+  "sectionId": "sport",
+  "body": "Russia\u2019s Premier League for chess is a mighty contest of elite grandmasters, whose strength dwarfs England\u2019s 4NCL or France\u2019s Top 12, and even makes Germany\u2019s renowned Bundesliga look second division. The 2016 version at Sochi this week involved only five teams, with the three favourites all fielding eight-man squads averaging around a 2700 rating, the level of the world top 50. At the end St Petersburg won with 13/16 match points, ahead of Moscow with 12, and Novosibirsk on 10. Yet it was an individual performance which took the eye. The world No2, Vlad Kramnik, now lives in Paris, so plays mostly in western Europe. Considering his track record, the former champion was unlucky not to qualify for the 2016 candidates which decided Magnus Carlsen\u2019s next world title challenger. Kramnik still wants to prove himself, so an extra incentive for the journey to Sochi was that Sergey Karjakin, who meets Carlsen in New York in November, was top board for Moscow. Kramnik came late, started play in the fourth round, announced his presence with two powerful wins, then rested until Novosibirsk v Moscow and his head-to-head with Karjakin. Queens were exchanged at move nine, yet it was a bitterly fought battle as Kramnik got the upper hand first with a passed d pawn then a passed f pawn. But he fluffed his chance, missing clear wins at moves 55 and 57, then a final chance in this week\u2019s puzzle. He fought on with rook and pawn against bishop and pawn, but Karjakin is a proven survivor in marathons and held out for a draw with bare kings after 138 moves. The impression is that a younger Kramnik, now aged 40, would have won. Earlier, in Novosibirsk v St Petersburg, he trounced the seven-time Russian champion Peter Svidler in an interesting Queen\u2019s Gambit exchange\u00a0variation. The usual capture is 4...exd5 after which the 8 April Guardian column analysed an important new idea for White. Kramnik an elite rarity in that he captures with the f6 knight, but he clearly believes in it and had already used in classical or blitz games against the world champion, Magnus Carlsen, as well as Hikaru Nakamura, Veselin Topalov, and Svidler. The most significant was Svidler v Kramnik in the 2013 candidates where White chose the principled reply 5 e4 Nxc3 6 bxc3 c5 7 a3 to stop Bb4+. Kramnik then unleashed 7...cxd4 8 cxd4 e5! equalising. Svidler in Sochi could have tried the other principled move 7 Rb1, but chickened out of the theoretical argument with the tame 6 g3. Kramnik then got some good light-square activity, but White was still in the game until 23 Kh1? (23 Kg2!) allowing 25...Qf2! when Kramnik crashed through and at the end White could no longer guard the f3 square. Peter Svidler v Vlad Kramnik 1 c4 e6 2 Nc3 d5 3 d4 Nf6 4 cxd5 Nxd5 5 Nf3 c5 6 g3 Nxc3 7 bxc3 cxd4 8 cxd4 Bb4+ 9 Bd2 Bxd2+ 10 Qxd2 b6 11 Bg2 Bb7 12 O-O O-O 13 a4 Nc6 14 Ne5 Rc8 15\u00a0a5 b5 16 Qb2 a6 17 Nd3 Ba8 18 Bxc6 Rxc6 19 Nb4 Rc4 20 Nxa6 Qd5 21 f3 Rxd4 22 Nc7 Qc5 23 Kh1? Bc6 24 Rfc1 Rc4 25 Na6 Qf2! 26 Qe5 Bd5 27 Nc7 f6 28 Qd6 Rxc7 29 Qxc7 Qxe2 30 Ra3 b4 0-1 Besides the Premier League, Sochi also staged a Higher League for masters and lower ranked GMs, as well as national leagues for women, veterans, juniors and girls. To cap it all, Vladmir Putin came on the final day to open the new Sirius educational centre for 600 talented children in the Olympic Park. Kramnik will be head of the chess section, while Putin was also photographed talking and joking with Karjakin, who is a keen supporter of the Russian president. In Soviet times there were claims that Vladimir Lenin, Vyacheslav Molotov and some of the politbureau were chess players, but Putin, who also came to the final day of the Carlsen v Vishy Anand world title match, seems to have a stronger personal involvement. 3442 1 Rg8! Bf6 2 Kc2! and if Kxe2? 3 Re8+ Kf2 4 Rf8 pims and wins the bishop. So after 2 Kc2 the black king is forced back, and the win for White becomes routine.",
+  "webTitle": "Leonard Barden on Chess",
+  "webPublicationDate": "2016-05-13T17:33:03Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/13/vlad-kramnik-st-petersburg-russian-premier-league",
+  "keyword": [
+    {
+      "webTitle": "Chess",
+      "id": "sport/chess",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Leonard Barden",
+      "id": "profile/leonardbarden"
+    }
+  ],
+  "guardianId": "sport/2016/may/13/vlad-kramnik-st-petersburg-russian-premier-league"
+}

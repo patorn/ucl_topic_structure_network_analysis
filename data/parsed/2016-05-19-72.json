@@ -1,0 +1,79 @@
+{
+  "apiUrl": "https://content.guardianapis.com/money/2016/may/19/the-bank-of-englands-governor-should-be-feeling-hot",
+  "id": "2016-05-19-72",
+  "sectionId": "money",
+  "body": "Dividing a small rate of deaths in the worst area by the even smaller rate in the best areas makes the worst look twice as bad (UK baby deaths \u2018still influenced by where you live\u2019, 17 May). But 99.21% of babies survive in the worst areas and 99.59% in the best areas. (Infant mortality is expressed as per 1,000 births precisely because it is so low, so a difference of less than 10 per thousand equates to less than a 1% difference.) If employment rates or exam results were this close, governments would call it a great success.Peter WestLondon \u2022 The housing market sees a 2.5% price surge in March and the average London home increased in value by \u00a328,000 in one month (Report, 18 May). This is a capital gain greater than my son\u2019s annual take-home pay as a sixth form teacher in Islington, but according to the Bank of England the market is \u201con watch\u201d for evidence of overheating. Is Mark Carney wearing an asbestos suit?John BaileyFarnborough, Hampshire \u2022 Homeless people and hostel dwellers can\u2019t afford to spend a penny (Shortcuts, G2, 19 May). Bring back free toilets and public baths, I say, and forget the retail opportunities.Stephanie WhiteLondon \u2022 I loved the photo of the family of hares (Letters page, 16 May). Naturally, as soon as I saw it, I recited: \u201cHare before, Trouble behind: Change ye, Cross, and free me\u201d \u2013 as you should whenever you cross paths when these magical creatures. I often glimpse hares during early morning walks. I would appreciate some advice about how to greet them properly, and ensure good luck for the rest of the day.Felix DaveyCeres, Fife \u2022 Join the debate \u2013 email guardian.letters@theguardian.com",
+  "webTitle": "The Bank of England\u2019s governor should be feeling hot | Brief letters",
+  "webPublicationDate": "2016-05-19T18:05:16Z",
+  "webUrl": "https://www.theguardian.com/money/2016/may/19/the-bank-of-englands-governor-should-be-feeling-hot",
+  "keyword": [
+    {
+      "webTitle": "House prices",
+      "id": "money/houseprices",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Bank of England",
+      "id": "business/bankofenglandgovernor",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Mark Carney",
+      "id": "business/mark-carney",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Property",
+      "id": "money/property",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Wildlife",
+      "id": "environment/wildlife",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Animals",
+      "id": "world/animals",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [],
+  "guardianId": "money/2016/may/19/the-bank-of-englands-governor-should-be-feeling-hot"
+}

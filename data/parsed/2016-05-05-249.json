@@ -1,0 +1,40 @@
+{
+  "apiUrl": "https://content.guardianapis.com/us-news/2016/may/05/what-do-you-think-about-republican-candidate-donald-trump",
+  "id": "2016-05-05-249",
+  "sectionId": "us-news",
+  "body": "The way is now clear for Donald Trump to become the 2016 Republican nominee after John Kasich suspended his presidential campaign on Wednesday, following Ted Cruz\u2019s decision to bow out the night before.  Some 67% of Americans have an unfavourable view of Trump \u2013 making him the most disliked party-nominee since 1984 \u2013 and we\u2019d like to know what voters really think about his victory. Key voting groups view Trump \u201cstrongly unfavourably\u201d, including 74% of under 40-year-olds, 75% of women, and 81% of Hispanics. Inside the Republican party there is a gender gap, with 47% of Republican women viewing Trump positively compared to 64% of Republican men.  His racist comments towards Hispanics and Muslims, and his controversial immigration policies, are well documented. Yet despite the negativity surrounding him, he is still winning votes. Cruz warned that a Trump victory in Indiana on Tuesday would \u201cplunge America into a political abyss\u201d. But despite his persistently unfavourable ratings Trump believes he is \u201cgoing to win in November. And we are going to win big.\u201d We\u2019d like to hear what you think about Donald Trump. Did you vote for him? How well do you think he\u2019ll run the country? Perhaps you\u2019re thinking about voting Democrat for the first time?  Share your thoughts using the form below and we\u2019ll use a selection in our reporting.",
+  "webTitle": "What do you think about Republican candidate Donald Trump?",
+  "webPublicationDate": "2016-05-05T10:02:33Z",
+  "webUrl": "https://www.theguardian.com/us-news/2016/may/05/what-do-you-think-about-republican-candidate-donald-trump",
+  "keyword": [
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "US elections 2016",
+      "id": "us-news/us-elections-2016",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Carmen Fishwick",
+      "id": "profile/carmen-fishwick"
+    },
+    {
+      "webTitle": "Guardian readers",
+      "id": "profile/guardian-readers"
+    }
+  ],
+  "guardianId": "us-news/2016/may/05/what-do-you-think-about-republican-candidate-donald-trump"
+}

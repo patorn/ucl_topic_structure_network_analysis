@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/05/europe-to-crack-down-on-wildlife-smugglers-following-guardian-investigation",
+  "id": "2016-05-05-326",
+  "sectionId": "environment",
+  "body": "Europe has moved to close a loophole that allows wildlife smugglers to trade in several endangered lizard species, after revelations by the Guardian about the scale of the problem. An EU proposal to strictly regulate the trade in arboreal alligator lizards (Abronia), backed by Mexico, will be debated at the Convention on international trade in endangered species (Cites) conference, which opens in Johannesburg this autumn. Another EU motion supported by Vietnam would ban the buying and selling of psychedelic geckos (Cnemaspis psychedelica) while a separate Malaysian submission would bring earless monitor lizards (Lanthanotus borneensis) under Cites protection. The lizards are protected species in their home countries but once they have been smuggled outside national borders, their sale may not be illegal because Cites has not listed them yet. Sandra Altherr, the co-founder of the conservation group Pro Wildlife, whose reports put the issue on the political map, is confident the new proposals will be passed. \u201cThis marks a significant step towards better protecting these species from exploitation for the pet trade,\u201d she said. \u201cWhile we appreciate the EU proposals though, it is obvious that the core problem still exists for other species that are only protected in their range states. The EU needs to adopt legislation to cover all nationally protected species \u2013 an equivalent to the US Lacey act.\u201d  The Lacey Act, which has been in force since 1900, allows US authorities to prosecute wildlife smugglers for actions carried out in other countries. European traffickers are thought to have had a devastating effect on the reptile species singled out for Cites protection, with the German Terraristika trade fair in Hamm singled out as a key forum for the illegal trade. At the show last September, the Guardian posed as a potential buyer and was offered lizards at risk of extinction \u2013 including earless monitor lizards and arboreal alligator lizards \u2013 at prices of up to \u20ac5,000 (\u00a34,000) a pair. \u201cThe Guardian\u2019s coverage contributed greatly to raising awareness among conservation authorities about the damage that the international reptile trade does to those species,\u201d Altherr said. The EU\u2019s proposal on psychedelic gecko\u2019s notes that nine animals were advertised online for sale at the Terraristika fair. \u201cThe species [has] a low capacity to recover from over harvesting due to the small estimated population size,\u201d the motion says. The motion on arboreal alligator lizards (pdf) says that the reptiles are regularly sold at Germany\u2019s national reptile fair in a trade that appears to be growing. \u201cGiven the low reproduction rates of the species, their restricted distribution, loss of habitat and the international demand for the pet trade, we can consider that unregulated harvest from the wild of species could endanger their survival,\u201d it says. Other EU proposals at the Cites conference could see trade protection being offered to thresher sharks, barbary macaques and a variety of other reptiles and fish.",
+  "webTitle": "Europe to crack down on wildlife smugglers to protect rare lizard species",
+  "webPublicationDate": "2016-05-05T06:00:44Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/05/europe-to-crack-down-on-wildlife-smugglers-following-guardian-investigation",
+  "keyword": [
+    {
+      "webTitle": "Illegal wildlife trade",
+      "id": "environment/illegal-wildlife-trade",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Wildlife",
+      "id": "environment/wildlife",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Endangered species",
+      "id": "environment/endangeredspecies",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Conservation",
+      "id": "environment/conservation",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Animals",
+      "id": "world/animals",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Arthur Neslen",
+      "id": "profile/arthurneslen"
+    }
+  ],
+  "guardianId": "environment/2016/may/05/europe-to-crack-down-on-wildlife-smugglers-following-guardian-investigation"
+}

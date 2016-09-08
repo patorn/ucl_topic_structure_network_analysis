@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/10/two-held-italian-terror-plot-inquiry-bari-london",
+  "id": "2016-05-10-143",
+  "sectionId": "world",
+  "body": "Italian police have arrested two men in the southern port of Bari and a third in Milan following an investigation into an alleged terror cell said to have been plotting possible terror attacks in Italy and the UK. Investigators did not say they had evidence that an attack was imminent. But the cell is alleged to have been scoping out sites for a potential attack, including in Bari and London, with a specific focus on airports, ports, police vehicles and hotels, according to Italian press reports. The two men arrested in Bari \u2013 both Afghan \u2013 were named as Hakim Nasiri, 23, who is accused of involvement in international terrorism, and Gulistan Ahmadzai, who has been charged with aiding illegal immigration. The third man, a Pakistani also suspected of aiding illegal immigration, was detained in Milan later in the day. Two other suspects, both residents of Bari, are still at large and believed to be in Afghanistan. Italy\u2019s interior minister, Angelino Alfano, said the arrests proved that Italy\u2019s counter-terrorism laws and investigations were effective. He said one of the suspects had been looking at \u201csensitive targets\u201d. While Alfano limited his statement to a potential threat against Bari, multiple Italian newspapers, citing Italian investigators involved in the inquiry, described a much broader potential threat, saying the suspects were allegedly prepared to offer logistical support to an international terror group linked to Islamic State. The investigation focused on possible targets in Rome and London, according to an arrest warrant.  Nasiri was staying in an asylum centre and was offered protective status \u2013 similar to attaining refugee status \u2013 last month. Ahmadzai was granted protective status in September 2011 and lives in Foggia.  Ansa reported that police found images of weapons, Taliban militants, radical Islamist prayers and indoctrination materials. The investigation was launched in December after a routine patrol noted that four Afghans \u2013 two of whom had residence permits and two of whom were asylum seekers \u2013 were taking photographs of a shopping centre, according to a police statement.  Investigators began tracking the men, and one of them was found to be downloading jihadi photographs and pictures of a Taliban leader.  One of the arrested men is believed to have sought to travel to Calais. One suspect not yet apprehended is alleged to have sought access to an assault rifle in the UK on behalf of one of the arrested men.",
+  "webTitle": "Three held over alleged terror plots in Italy and UK",
+  "webPublicationDate": "2016-05-10T14:12:52Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/10/two-held-italian-terror-plot-inquiry-bari-london",
+  "keyword": [
+    {
+      "webTitle": "Italy",
+      "id": "world/italy",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "UK security and counter-terrorism",
+      "id": "uk/uksecurity",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Stephanie Kirchgaessner",
+      "id": "profile/stephanie-kirchgaessner"
+    }
+  ],
+  "guardianId": "world/2016/may/10/two-held-italian-terror-plot-inquiry-bari-london"
+}

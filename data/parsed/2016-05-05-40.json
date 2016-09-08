@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/05/robinson-crusoe-review-a-castaway-tale-thats-all-washed-up",
+  "id": "2016-05-05-40",
+  "sectionId": "film",
+  "body": "Once known as The Wild Life, this Belgian-derived animation arrives at an idea that Pixar or DreamWorks would have nurtured \u2013 Defoe\u2019s castaway, as observed by chatty animals \u2013 then does nothing very notable with it. Instead, there follows another stereoscopic runaround.             With the source\u2019s peril diminished the minute this Crusoe is rescued in a prologue by jovial pirates, the directors are reduced to sending mangy wildcats on every 20 minutes to harass everybody. The tactic yields a limited form of enjoyment, but each helter-skelter turn throws up story and design elements you\u2019ll have seen better programmed elsewhere. And it\u2019s vicious anti-feline propaganda.",
+  "webTitle": "Robinson Crusoe review \u2013 a castaway tale that's all washed up",
+  "webPublicationDate": "2016-05-05T20:15:04Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/05/robinson-crusoe-review-a-castaway-tale-thats-all-washed-up",
+  "keyword": [
+    {
+      "webTitle": "Animation",
+      "id": "film/animation",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Family",
+      "id": "film/family",
+      "sectionId": "film",
+      "sectionName": "Film"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Mike McCahill",
+      "id": "profile/mike-mccahill"
+    }
+  ],
+  "guardianId": "film/2016/may/05/robinson-crusoe-review-a-castaway-tale-thats-all-washed-up"
+}

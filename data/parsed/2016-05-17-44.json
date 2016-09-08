@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/17/self-driving-trucks-otto-startup",
+  "id": "2016-05-17-44",
+  "sectionId": "technology",
+  "body": "Everyone in San Francisco these days wants to build a self-driving car.  So in a company town that prides itself on going against the grain, this startup wants to build a self-driving truck.  On Tuesday, several former Google, Tesla and Apple engineers announced they had quit their prestigious jobs to start Otto, which aims to sell automation kits for the massive semi-trailers that crowd America\u2019s highways. The company says it has logged more than 10,000 test miles and recently tested its truck on a Nevada highway.   Related: Apple invests $1bn in Didi Chuxing, China's Uber rival    Self-driving startups have become commonplace in the latest tech boom as many engineers have lost interest in simply building apps and robotics technology becomes cheaper. But there\u2019s unusual interest in Otto because of its co-founders\u2019 \u2013 all former Googlers \u2013 pedigrees.  Anthony Levandowski and Don Burnette worked on self-driving cars, Lior Ron worked on maps and Claire Delaunay, head of engineering at Otto, was a robotics lead. Other notables had worked at Tesla or Apple, also reported to have a self-driving car project. For instance, Jur van den Berg, one of Otto\u2019s engineers, previously worked on self-driving cars for Google before joining the \u201cspecial projects group\u201d at Apple, according to his LinkedIn account.      The relative cost increase of autonomous technology could make more sense for trucks. Photograph: Screengrab    The company hasn\u2019t disclosed when it plans to sell its products, its investors or how much the self-driving truck kits would cost. However, there are several reasons to think a self-driving truck might see the road before a self-driving car.  For one, highway driving \u2013 where trucks tend to drive \u2013 is one part of autonomous driving that technology companies seem to have figured out. There are no intersections to navigate, no pedestrians darting across the road and speeds are relatively constant. Many states already allow autonomous vehicles on public highways.    Related: Uber, Google and others form self-driving car lobby to shape US policy    There\u2019s also likely a more eager marketplace. Autonomous technology has gotten cheaper but it\u2019s still an expensive add-on to a $30,000 car. The relative cost increase is smaller for trucks, which tend to be run by businesses and usually cost more than $100,000 anyway.  And as Otto notes, there is more of a practical benefit for drivers, who log long, lonely hours on very straight roads for companies looking to slash shipping budgets. \u201cTruck drivers have experienced a gradual decline in quality of life as conditions worsen and expectations rise,\u201d the company wrote in a blog post.  Truck drivers, of course, may not be the biggest fans of Otto.  Even though the company pitches it as a tool to help drivers better manage the demands of long treks, it\u2019s not a big leap to envision Amazon or UPS using Otto\u2019s technology to automate their fleets \u2013 no human assistance required.",
+  "webTitle": "Could self-driving trucks hit America's highways? This startup thinks so",
+  "webPublicationDate": "2016-05-17T18:53:37Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/17/self-driving-trucks-otto-startup",
+  "keyword": [
+    {
+      "webTitle": "Self-driving cars",
+      "id": "technology/self-driving-cars",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Silicon Valley",
+      "id": "technology/silicon-valley",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "San Francisco",
+      "id": "us-news/san-francisco",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Google",
+      "id": "technology/google",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Danny Yadron",
+      "id": "profile/danny-yadron"
+    }
+  ],
+  "guardianId": "technology/2016/may/17/self-driving-trucks-otto-startup"
+}

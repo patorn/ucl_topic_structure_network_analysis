@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/us-news/2016/may/26/millennials-living-with-parents-callout",
+  "id": "2016-05-26-169",
+  "sectionId": "us-news",
+  "body": "What happens when your kids move home \u2013 or never move out? We want to hear from US parents whose nests have stayed full. For the first time in more than 130 years, young US adults are more likely to live with their parents than in any other housing situation. Nearly a third of all Americans aged between age 18 and 34 currently live with parents while 31.6% are shacked up a partner, according to a new report by the Pew Research Center.  Parents: what\u2019s most surprising to you about living together as adults? The good, the bad, the expensive. Please fill out the below form and your answers may be featured in an upcoming article.  Thank you for your submissions. The form is now closed, but check back soon for the resulting article.",
+  "webTitle": "Parents housing adult children: tell us about your nest that refuses to empty",
+  "webPublicationDate": "2016-05-26T14:12:11Z",
+  "webUrl": "https://www.theguardian.com/us-news/2016/may/26/millennials-living-with-parents-callout",
+  "keyword": [
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Housing",
+      "id": "society/housing",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Parents and parenting",
+      "id": "lifeandstyle/parents-and-parenting",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "US economy",
+      "id": "business/useconomy",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Family",
+      "id": "lifeandstyle/family",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Amber Jamieson",
+      "id": "profile/amber-jamieson"
+    }
+  ],
+  "guardianId": "us-news/2016/may/26/millennials-living-with-parents-callout"
+}

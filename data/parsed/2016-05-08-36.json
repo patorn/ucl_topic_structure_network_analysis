@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/08/huw-are-you-calling-english",
+  "id": "2016-05-08-36",
+  "sectionId": "uk-news",
+  "body": "First, you discontinued the listings of S4C, the Welsh language TV channel. Then you printed an underwhelming account of the Welsh assembly election results (Labour minority rule possible after party falls short, 7 May), with very little meaningful analysis. Now you publish a letter about the \u201cEnglish\u201d Tudors (Letters, 7 May). It\u2019s enough to make dragons roar!Isobel RichardsLlangollen, Denbighshire \u2022 Henry VII was born in Pembroke, which means that under one way of unscrambling the complexities of the British nationalities, every Tudor monarch would have qualified to play sport for Wales. It is odd that while most remember that the Hanovers started as Germans and the Stuarts as Scots, the Welshness of the Tudors has been submerged. This may be down to Henry VIII, whose Act of Union (1536) looks suspiciously like an act of Oedipal revenge.Huw RichardsLondon \u2022 The Tudors were Welsh usurpers. The last English king died at Bosworth.Jeff LewisExmouth \u2022 Join the debate \u2013 email guardian.letters@theguardian.com",
+  "webTitle": "Huw are you calling English? | Letters",
+  "webPublicationDate": "2016-05-08T19:57:32Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/08/huw-are-you-calling-english",
+  "keyword": [
+    {
+      "webTitle": "Wales",
+      "id": "uk/wales",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Monarchy",
+      "id": "uk/monarchy",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [],
+  "guardianId": "uk-news/2016/may/08/huw-are-you-calling-english"
+}

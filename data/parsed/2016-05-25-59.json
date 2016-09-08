@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/25/leicester-has-lowest-household-disposable-income-in-the-uk",
+  "id": "2016-05-25-59",
+  "sectionId": "uk-news",
+  "body": "Leicester may have finished top of the Premier League but has less to celebrate when it comes to household purchasing power, slipping to the bottom of the UK table. People in Leicester had disposable incomes of \u00a312,071 on average in 2014, after taxes, social contributions and benefits were taken into account, according to regional figures from the Office for National Statistics. This is more than \u00a35,000 below the UK average of \u00a317,965. Kensington & Chelsea and Hammersmith & Fulham came top, with disposable household incomes per head of \u00a345,988. The wealthy area in west London enjoyed the biggest growth in spending power in relation to the UK average between 1997 and 2014, of 32%. Leicester has been near the bottom of the table for years. John Hood, acting director of the Equality Trust, pointed to higher than average unemployment and rates of low paid jobs, and a higher than average proportion of people claiming benefits, including in-work benefits. Hood thought that a lack of decent local jobs was at the heart of the issue, saying the East Midlands overall was quite poor at retaining graduates.   Related: How UK cities compare for population, jobs, new businesses and house prices    Hood said there was a \u201cworrying acceptance that some regions can streak away, leaving others behind. It\u2019s not very demonstrative of a successful society or a modern, dynamic economy\u201d. He added: \u201cIf we want to tackle regional inequality, we also need to tackle the huge gap between the richest and the rest of us. The alternative is we allow some regions to wither and decline, and that seems a desperate fate for the millions who live there.\u201d Manchester has suffered the biggest decline in disposable incomes in relation to the UK average since 1997, of nearly 17%. Mancunians had, on average, \u00a313,746 to spend in 2014. Since 2014, George Osborne, the chancellor, has repeatedly set out his plans to build a \u201cnorthern powerhouse\u201d to rebalance the economy away from London by investing in transport links, schools and cultural projects. But the ONS figures, published once a year, suggest the north-south divide persists and has widened. At a regional level, Londoners had the most purchasing power in 2014, and were the only people in the country to have more to spend in real terms (adjusting for inflation). Disposable incomes averaged \u00a323,607 per head, up 1.9% from the previous year. Of the four UK countries, only England exceeded the UK average with incomes per head of \u00a318,315, followed by Scotland at \u00a317,095, Wales at \u00a315,302 and Northern Ireland at \u00a314,645.",
+  "webTitle": "Leicester has lowest household disposable income in the UK",
+  "webPublicationDate": "2016-05-25T17:59:39Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/25/leicester-has-lowest-household-disposable-income-in-the-uk",
+  "keyword": [
+    {
+      "webTitle": "Leicester",
+      "id": "uk/leicester",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Office for National Statistics",
+      "id": "uk/office-for-national-statistics",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "North-south divide",
+      "id": "society/north-south-divide",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "George Osborne",
+      "id": "politics/georgeosborne",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Julia Kollewe",
+      "id": "profile/juliakollewe"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/25/leicester-has-lowest-household-disposable-income-in-the-uk"
+}

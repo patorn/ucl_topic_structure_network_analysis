@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/society/2016/may/10/disabled-people-fairer-test-mobility-pip",
+  "id": "2016-05-10-244",
+  "sectionId": "society",
+  "body": "The space behind the clerks\u2019 table in the House of Lords was occupied last week by three wheelchair-user peers and myself, on a mobility scooter, when the Lords passed my motion calling on the government to hold urgent talks with Disability Rights UK and the Disability Benefits Consortium to make the personal independence payment (Pip) disability benefit test much fairer. The motion specifically applied to the controversial 20-metre rule, in force since 2013, which bars anyone who can walk that distance aided, or unaided, in a Pip assessment from being awarded enough points to qualify for the enhanced rate of Pip and thus a Motability car. As a result of the way the rule has been interpreted, thousands of disabled people have had to hand back their mobility vehicles \u2013 currently around 500 per week. Under disability living allowance (the benefit Pip is replacing as it is rolled out across the UK), the relevant walking distance was 50 metres, which was the Department of Transport\u2019s guidance on inclusive mobility and an established benchmark. The Pip distance of 20 metres \u2013 around the length of two London buses \u2013 is unrecognised in any other setting and so is pretty meaningless. The government can only change the new distance by legislation, but it could ensure a fairer interpretation of the rule by insisting that assessors look not just at the distance walked but at four \u201creliability criteria\u201d: whether it has been walked safely; to an acceptable standard; repeatedly and in a reasonable time period. These criteria were put into statute, thanks to the intervention of the Lib Dems during the coalition government. It means that someone who covers the distance very slowly with great difficulty and only once during the test could still be eligible for a mobility vehicle if these extenuating factors are taken into account. I question whether the reliability criteria are always asked by assessors and whether they are asked properly and empathetically rather than as a tickbox exercise. Nor do I think medical evidence is consistently considered and read. Following my successful motion, the government needs to talk to the disability charities about whether assessors are being consistent in their interpretation of the rules and to improve their training. The government should respond positively to the call from the Lords for urgent talks to make Pip much fairer, especially for those who had a lifetime award under DLA and who are now losing the financial support (worth at least \u00a335 per week) that has allowed them to live independently because of an inconsistent and confusing test.",
+  "webTitle": "Disabled people deserve a fairer interpretation of their mobility than this arbitrary 20 metre rule | Celia Thomas",
+  "webPublicationDate": "2016-05-10T10:00:01Z",
+  "webUrl": "https://www.theguardian.com/society/2016/may/10/disabled-people-fairer-test-mobility-pip",
+  "keyword": [
+    {
+      "webTitle": "Disability",
+      "id": "society/disability",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Benefits",
+      "id": "society/benefits",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Welfare",
+      "id": "politics/welfare",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Celia Thomas",
+      "id": "profile/celia-thomas"
+    }
+  ],
+  "guardianId": "society/2016/may/10/disabled-people-fairer-test-mobility-pip"
+}

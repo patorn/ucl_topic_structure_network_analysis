@@ -1,0 +1,84 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/09/robert-peston-itv-andrew-marr-bbc-george-osborne",
+  "id": "2016-05-09-259",
+  "sectionId": "media",
+  "body": "Robert Peston\u2019s new politics show on ITV attracted just 166,000 viewers on Sunday, a tenth of the 1.6 million who watched Andrew Marr on BBC1. A guest lineup including the chancellor, George Osborne, and broadcaster Louis Theroux did not keep viewers indoors on the hottest day of the year. The programme was scheduled immediately after its BBC rival, from 10am, during which it also performed worse than BBC1\u2019s than Big Questions, which attracted more than 700,000 viewers for an hour-long special on the legacy of the British Empire.  The chance to front his own show was one of the deciding factors in Peston\u2019s move from BBC business editor to become ITV\u2019s political editor last year.    Related: Rough edges, Screeny and a new haircut: Robert Peston launches Sunday show    Reviewers have welcomed a more relaxed approach than its BBC rival, with guests including Osborne appearing without ties and comments from an also-tieless Peston on how nervous he was on the show\u2019s debut. The programme has also made audience participation central to its attempts to distinguish itself from Marr, with tweets displayed on a TV called Screeny McScreenface in reference to the controversy over the naming of the UK\u2019s new research vessel. As Mark Lawson presciently wrote in the Guardian on Sunday: \u201cDespite showing promising signs, amid inevitable first-morning nerves, of being lively and likeable, Peston on Sunday risks winning the energy medal but losing the ratings war to the tie-knotted, old technology Marr.\u201d However, the slow start may not faze Peston, who said last week that he was \u201cnot obsessed\u201d with ratings.",
+  "webTitle": "Robert Peston\u2019s ITV show pulls in a tenth of Andrew Marr's BBC audience",
+  "webPublicationDate": "2016-05-09T09:25:29Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/09/robert-peston-itv-andrew-marr-bbc-george-osborne",
+  "keyword": [
+    {
+      "webTitle": "Robert Peston",
+      "id": "media/robert-peston",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Andrew Marr",
+      "id": "media/andrewmarr",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "ITV channel",
+      "id": "media/itv1",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "BBC",
+      "id": "media/bbc",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Television industry",
+      "id": "media/television",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "TV news",
+      "id": "media/tvnews",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "The news on TV",
+      "id": "tv-and-radio/tv-news",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Television",
+      "id": "culture/television",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Television & radio",
+      "id": "tv-and-radio/tv-and-radio",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jasper Jackson",
+      "id": "profile/jasper-jackson"
+    }
+  ],
+  "guardianId": "media/2016/may/09/robert-peston-itv-andrew-marr-bbc-george-osborne"
+}

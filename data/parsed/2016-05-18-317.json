@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/science/political-science/2016/may/18/the-secretive-second-world-of-human-synthetic-biology",
+  "id": "2016-05-18-317",
+  "sectionId": "science",
+  "body": "Secrecy has long been a part of scientific and innovation practices. For instance, research on nuclear, biological or chemical weapons is often conducted in secret. In his excellent book on Secrecy and Science, Brian Balmer describes how the Manhattan Project epitomised the way in which scientific secrecy operates, explaining how specific sites were kept secret, but also how projects were compartmentalised, so that knowledge was exchanged only on a \u2018need-to-know\u2019 basis, meaning that only a very few people had any real understanding of the programme as a whole. In other words, attempts to maintain secrecy often go hand-in-hand with imperatives of efficiency, security, bureaucracy and control.    Discussions to synthesize, for the first time, a human genome should not occur in closed rooms    By their nature, it is often the most controversial, risky and ethically dubious research programmes that are conducted in secret, curtained-off from society in order to protect knowledge and technology not only from public scrutiny but also espionage or corporate theft. Therefore it should be no surprise that a behind-closed-doors meeting, convened last week at Harvard, on the prospect of synthesising the human genome, has caused a stir. The meeting was convened to discuss the prospects of coordinating a large collaborative venture to follow-up on the Human Genome Project (HGP), that would, over the next decade, seek to construct an entire human genome in a cell line. Currently unfunded but to be prospectively titled \u2018HGP-Write: Testing Large Synthetic Genomes in Cells\u2019, it is backed by some of the biggest names in the field.  As the New York Times reported, the meeting was invite-only and \u201cThe nearly 150 attendees were told not to contact the news media or to post on Twitter during the meeting.\u201d For the sociologist Georg Simmel, secrecy helps to produce a \u201csecond world\u201d alongside the everyday, public world, and whilst separated from it, it nonetheless has the effect of significantly altering the qualities of the relationships between those who conceal and those kept in the dark. What we do in secret changes what we do in public. It seems the organisers of the Harvard meeting were keen to build a second world for synthetic biology. Such a second world might be quite appealing to some researchers, representing a space in which they could run wild with their ideas without the worry of public ears overhearing. Synthetic biologists, for the most part, expect that the public is going to be scared of developments in the field, leading to what has been termed \u2018synbiophobia phobia\u2019 \u2013 the fear that the public will fear their work. This could well be at the root of the decision to hold the meeting in private, as the organisers had likely anticipated public fear at the potential of creating a human genome from scratch. But it also seems to have been a fear of the media that resulted in the curtains being pulled closed, with the invite reading, \u201cWe intentionally did not invite the media, because we want everyone to speak freely and candidly without concerns about being misquoted or misinterpreted as the discussions evolve.\u201d Speaking to the New York Times, George Church, one of the most prominent advocates of synthetic biology and co-organiser of the Harvard meeting, argued that the event had been misconstrued and that the secrecy was actually about protecting a paper currently under review, and that they were under instruction from the potential publisher to keep things quiet until it came out in print. He and others point out that if published, the paper would make the ideas for the project publicly-available and thus transparent. But secrecy in synthetic biology isn\u2019t just a fiction created by the media to whip-up a story. The field does have at least the beginnings of a second world, divorced from public scrutiny, and it is one most immediately visible in its ties to the Defense Advanced Research Projects Agency (DARPA), which has had a keen interest in the field since its fledgling years and has invested tens of millions of dollars under the remit of the Biological Technologies Office. Putting DARPA aside, whatever the motivations were of those convening the closed-doors, invite-only meeting, the effect of the apparent concealment has been to worry people, even those who support synthetic biology in general. In fact, one of its most well-known advocates, Drew Endy, refused to attend and co-authored an open letter criticising the closed meeting.   Related: UK Synthetic Biology Centres tasked with addressing public concerns    So it would be a mistake to see the controversy over the meeting as evidence of sensationalism in the media or unwarranted public fear. It has much more to do with the facts of synthetic biology\u2019s designs on nature, and how it is being developed in relation to corporate and military interests. As Endy and Laurie Zoloth\u2019s letter argued, \u201cThe creation of new human life is one of the last human-associated processes that has not yet been industrialized or fully commodified. It remains an act of faith, joy, and hope. Discussions to synthesize, for the first time, a human genome should not occur in closed rooms.\u201d  And they are right. Two of the common tenets of the emerging frameworks for responsible research and innovation in the UK and EU, which has been closely tied to the development of synthetic biology, highlight the importance of scientific transparency and deliberative governance processes. But transparency is easier invoked than it is implemented. If scientists are going to take responsible research and innovation seriously, then actually implementing transparency and deliberation is going to be crucial, especially when the choices about such things are more immediately within their control, as was the case this past week. A second world for synthetic biology might be appealing in principle, but in practice it risks bringing about exactly the kinds of public fears that scientists and engineers worry about. Andrew Balmer is a Lecturer in Sociology at the University of Manchester, where he works on technology, science and everyday life. He is on Twitter and has a blog called \u2018Reasonable Excuse\u2019, where a longer version of this blog post originally appeared.",
+  "webTitle": "The secretive 'second world' of human synthetic biology",
+  "webPublicationDate": "2016-05-18T07:00:22Z",
+  "webUrl": "https://www.theguardian.com/science/political-science/2016/may/18/the-secretive-second-world-of-human-synthetic-biology",
+  "keyword": [
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Science policy",
+      "id": "science/science-policy",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Synthetic biology",
+      "id": "science/synthetic-biology",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Genetics",
+      "id": "science/genetics",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Ethics",
+      "id": "world/ethics",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Biology",
+      "id": "science/biology",
+      "sectionId": "science",
+      "sectionName": "Science"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Andrew Balmer",
+      "id": "profile/andrew-balmer"
+    }
+  ],
+  "guardianId": "science/political-science/2016/may/18/the-secretive-second-world-of-human-synthetic-biology"
+}

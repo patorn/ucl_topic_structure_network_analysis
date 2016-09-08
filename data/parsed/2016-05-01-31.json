@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/02/corporate-wrongdoing-now-endemic-in-australia-report-shows",
+  "id": "2016-05-01-31",
+  "sectionId": "business",
+  "body": "Corporate wrongdoing has become endemic in Australia, with hundreds of cases being pursued by the country\u2019s regulators each year, and with few signs of their workloads lightening, a new report has found. But there are also fewer regulators \u201cpatrolling the corporate beat\u201d in Australia than there were three years ago, with government agencies that monitor corporate malfeasance having their staffing cut by 3,926 people in total \u2013 or 14.9% \u2013 since the 2013-14 budget.   Related: Timeline: banking scandals in Australia since 2009    The left-leaning think-tank the Australia Institute has released a new report, called Corporate Malfeasance in Australia, that shows the extent of wrongdoing in the country\u2019s corporate sector. It calls on the Turnbull government to restore staffing budgets and resources for key agencies such as the Australian Tax Office (ATO) and the Australian Securities and Investments Commission (Asic), among others, to combat the problem.  It comes two weeks after the government promised to restore funding to Asic by forcing Australia\u2019s banks to pay for a multimillion-dollar upgrade to Asic\u2019s surveillance systems \u2013 a move designed to help the regulator improve its ability to thwart corporate wrongdoing, much diminished by a $120m funding cut in the Abbott government\u2019s 2014 budget. There is no database in Australia that gives a complete view of the corporate sector\u2019s wrongdoing, and the AI report is an attempt to address that information gap, it says. The report surveys data published by Asic, the ATO, the Australian Competition and Consumer Commission (ACCC), Fair Work Ombudsman, Fair Work Commission, and Australian Bureau of Statistics (ABS), in some cases stretching back a decade. \u201cThe extent of wrongdoing among Australian companies and businesses is surprisingly high,\u201d the report says. \u201cThe publications of official agencies demonstrates that malfeasance by the private sector is widespread.\u201d The report shows Asic has concluded 3,115 cases against corporations over the last four-and-a-half years, of which 2,095 were criminal matters.  It took action against building and construction firms in 10,667 cases, over the last five years. The report says: \u201cThis is unlikely to represent the full extent of non-compliance by corporations with relevant legal requirements because Asic, like most regulators, has limited resources and a reluctance to take formal proceedings unless there is a very high prospect of success\u201d. The report shows the ATO has been prosecuting an average of 450 companies a year since 2011-12, but that number fell to 300 in 2014-15, \u201cpossibly due to the staffing and other resource constraints.\u201d It shows the ATO still recovered $3.5bn in tax in 2014-15 from companies attempting to hide their profits.  \u201c[But] companies also try to underpay the GST and other indirect taxes as well as PAYG on behalf of their employees; those amounted to $6.3bn in [2014-15],\u201d it says. The report also shows the ACCC, over the past 10 years, has taken action against companies on 669 instances; the Fair Work Ombudsman, over the nine years for which we have data, recovered $250m for over 174,000 employees and finalised 217,000 separate complaints; in the six years to 2014-15 the Fair Work Commission saw a total of 71,106 claims lodged for unfair dismissal and roughly 80% of those were settled at conciliation. The report\u2019s authors say staffing levels at Australia\u2019s key regulatory agencies have been significantly hit in the past three years. It shows the government has cut Asic\u2019s staff numbers by 14.4% since 2013-14 \u2013 from 1,834 to 1,569. The ATO has had staff numbers cut by 16.1% since 2013-14, from 22,022 to 18,482. The head of Asic, Greg Medcraft, has admitted budget cuts enacted by the Coalition have compromised the corporate watchdog\u2019s ability to engage in proactive investigations.   Related: Behind the Lines: 'superannuation is a giant rip-off' and other election pitches    \u201cIt is difficult to understand the rationale for these cuts, given the official publications of the relevant agencies show that corporate wrongdoing is widespread in Australia,\u201d the AI report says. \u201cThe publications of official agencies demonstrates that malfeasance by the private sector is widespread in Australia. The staff and resources needed to reduce this wrongdoing and to enforce corporate and workplace laws must be restored to the relevant regulators and government agencies.\u201d Labor leader Bill Shorten has been calling for a royal commission into the banking and financial services industries to confront the amount of corporate malfeasance in Australia. Shorten says the sector had been rocked by a string of scandals that are \u201cnot isolated and one-off examples\u201d but rather point to systemic problems in the industries.",
+  "webTitle": "Corporate wrongdoing now endemic in Australia, report shows",
+  "webPublicationDate": "2016-05-01T20:30:00Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/02/corporate-wrongdoing-now-endemic-in-australia-report-shows",
+  "keyword": [
+    {
+      "webTitle": "Australian economy",
+      "id": "business/australia-economy",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business (Australia)",
+      "id": "australia-news/business-australia",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australian politics",
+      "id": "australia-news/australian-politics",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Tax (Australia)",
+      "id": "australia-news/tax-australia",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Labor party",
+      "id": "australia-news/labor-party",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Bill Shorten",
+      "id": "australia-news/bill-shorten",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Gareth Hutchens",
+      "id": "profile/gareth-hutchens"
+    }
+  ],
+  "guardianId": "business/2016/may/02/corporate-wrongdoing-now-endemic-in-australia-report-shows"
+}

@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/08/white-lung-paradise-album-review",
+  "id": "2016-05-08-180",
+  "sectionId": "music",
+  "body": "With Deep Fantasy, Vancouver punk trio White Lung made one of the most thrilling albums of 2014, its vicious riffs following the line of least resistance to punchy choruses, all dispatched at frantic speed, frontwoman Mish Barber-Way\u2019s full-throated roar recalling Courtney Love at her most ferocious-sounding. There is greater variety on this follow-up, their fourth album, the more measured likes of Below and Sister reining in the speed and aggression, and sounding positively slowcore compared to their earlier work. There\u2019s an even lighter touch on Hungry, the strength of the tune overcoming the need for sheer power. They haven\u2019t completely ditched the relentless aggression \u2013 much of Paradise races past in an alluring blur of distortion and melody - but this is a welcome broadening of their palette.         White Lung \u2013 Hungry video",
+  "webTitle": "White Lung: Paradise review \u2013 an alluring blur of melody",
+  "webPublicationDate": "2016-05-08T07:00:00Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/08/white-lung-paradise-album-review",
+  "keyword": [
+    {
+      "webTitle": "Punk",
+      "id": "music/punk",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Phil Mongredien",
+      "id": "profile/phil-mongredien"
+    }
+  ],
+  "guardianId": "music/2016/may/08/white-lung-paradise-album-review"
+}

@@ -1,0 +1,24 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/19/man-arrested-after-climbing-buckingham-palace-wall",
+  "id": "2016-05-19-231",
+  "sectionId": "uk-news",
+  "body": "A man has been arrested after climbing a wall at Buckingham Palace. The 41-year-old was detained on suspicion of trespassing on a protected site following the incident on Wednesday night.  The Metropolitan police said he was not armed and officers did not deploy a Taser. \u201cAt 20:37 on Wednesday 18 May, officers at the palace were alerted after a 41-year-old man scaled an outside perimeter wall,\u201d police said in a statement. \u201cHe was located in the grounds by officers and arrested on suspicion of trespassing on a protected site (contrary to section 128 of the Serious Organised Crime and Police Act 2005) seven minutes after the alarm was activated. The man remains in custody. The man was not armed. Taser was not deployed by officers.\u201d Commander Adrian Usher, head of the Met\u2019s royalty and specialist protection unit, said: \u201cI am content that our security measures worked effectively on this occasion and at no time was any individual at risk.\u201d  Inquiries into the circumstances of the incident are ongoing.",
+  "webTitle": "Man arrested after climbing Buckingham Palace wall",
+  "webPublicationDate": "2016-05-19T10:53:11Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/19/man-arrested-after-climbing-buckingham-palace-wall",
+  "keyword": [
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Nadia Khomami",
+      "id": "profile/nadia-khomami"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/19/man-arrested-after-climbing-buckingham-palace-wall"
+}

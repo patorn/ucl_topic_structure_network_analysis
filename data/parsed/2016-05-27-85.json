@@ -1,0 +1,49 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/27/democracy-in-brazil-is-alive-and-well",
+  "id": "2016-05-27-85",
+  "sectionId": "world",
+  "body": "With regard to the recent suspension of President Dilma Rousseff (Letters, 27 May), it needs to be pointed out that the impeachment process strictly complies with the requirements of the Brazilian constitution and the rule of law, under the scrutiny of the supreme court. It is incorrect to depict the ongoing process as political manoeuvres taking place against the will of the electorate. Under a democratic presidential regime, the votes received by a president do not prevent the commencement of an impeachment process to assess whether crimes of responsibility have been committed by the head of state. The deputies and senators also received millions of votes and are expected to fulfil their constitutional duties, which include investigating and judging the president if he or she is charged with crimes of responsibility. After the president was suspended, in accordance with the terms of the constitution, Vice-president Michel Temer took over as acting president on 12 May. He has since assumed all the responsibilities related to his position as head of the executive. As in 1992, when the then Brazilian president was suspended, all cabinet ministers were replaced by the acting president. The Brazilian embassy rejects any allegation that there has been an attempt to overthrow democracy in Brazil, or that the social programmes of recent years could be reversed. Indeed, the acting president has clearly stated his commitment to continuing and improving existing social policies.Eduardo dos SantosAmbassador of Brazil to the UK \u2022 Join the debate \u2013 email guardian.letters@theguardian.com",
+  "webTitle": "Democracy in Brazil is alive and well | Letter from Eduardo dos Santos, ambassador of Brazil to the UK",
+  "webPublicationDate": "2016-05-27T16:13:40Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/27/democracy-in-brazil-is-alive-and-well",
+  "keyword": [
+    {
+      "webTitle": "Brazil",
+      "id": "world/brazil",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Dilma Rousseff",
+      "id": "world/dilma-rousseff",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Americas",
+      "id": "world/americas",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [],
+  "guardianId": "world/2016/may/27/democracy-in-brazil-is-alive-and-well"
+}

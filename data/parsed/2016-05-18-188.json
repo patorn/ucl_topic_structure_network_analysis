@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/economics-blog/2016/may/18/uk-labour-market-productivity-wages-employment-rate",
+  "id": "2016-05-18-188",
+  "sectionId": "business",
+  "body": "Britain\u2019s labour market has reached a plateau. The number of people working has risen slightly to a record level. Regular pay growth has edged down a fraction. The unemployment rate is holding steady at 5.1%. There are two reasons for this. The first is that 2015 was a year in which employment grew by almost 600,000, and a pause for breath was always in prospect after such a rapid increase. Progress towards full employment will inevitably be slower from this point. Secondly, the economy has lost a bit of momentum over the winter. The slowdown has not been dramatic, but enough to make employers think twice about hiring, particularly in sectors such as retailing, hotels and catering, which will be affected by the \u201cnational living wage\u201d. The latest labour market data from the Office for National Statistics covers the period from January to March 2016, so the impact of speculation about Britain leaving the EU, which became particularly relevant in late February, is unlikely to have been a big factor. However, the possibility of a leave vote will keep the labour market in a holding pattern for the second quarter. Research from RBS, which goes back further than official figures, suggests that the only time the employment rate has been higher is when the economy was operating flat out during the second world war.     UK employment as a % of total population since 1855. Only higher during 1941-1943. pic.twitter.com/gWiIjGbMg6\u2014 RBS Economics (@RBS_Economics) May 18, 2016    The expansion of the workforce is the result of a number of different trends: the population is rising, Britain has become a magnet for those looking for work elsewhere in the EU and people are working longer before they retire. But wage growth is running a long way behind jobs growth. In the three months to March, regular pay was up 2.1% on the same period in 2015. This represented a slower annual rate of increase than that recorded in the early months of last year. The higher minimum wage, which came into force in April, will push up average earnings for those on the lowest incomes. The Labour MP Frank Field has come up with one suggestion. He is proposing that the Department for Work and Pensions should set up pilot projects bringing together Jobcentre Plus district managers, local authorities and local enterprise partnerships. They would be given a pot of City Deals funding tied to a specific target of boosting real earnings among people who have been helped into work, but are stuck on low pay.  Under Field\u2019s plan, case workers would help those on lower pay secure longer hours or move to higher paying jobs, either within the same company or at another in their local area.  It is an interesting idea and one worth considering, because whatever the result of the EU referendum on 23 June, the key issue for the UK economy will be how to turn rising employment into rising productivity and rising real wages.",
+  "webTitle": "UK's labour market has boomed, but what about productivity and wages?",
+  "webPublicationDate": "2016-05-18T12:04:14Z",
+  "webUrl": "https://www.theguardian.com/business/economics-blog/2016/may/18/uk-labour-market-productivity-wages-employment-rate",
+  "keyword": [
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Pay",
+      "id": "money/pay",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Family finances",
+      "id": "money/family-finances",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Work & careers",
+      "id": "money/work-and-careers",
+      "sectionId": "money",
+      "sectionName": "Money"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Larry Elliott",
+      "id": "profile/larryelliott"
+    }
+  ],
+  "guardianId": "business/economics-blog/2016/may/18/uk-labour-market-productivity-wages-employment-rate"
+}

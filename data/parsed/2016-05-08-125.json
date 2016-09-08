@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/greenslade/2016/may/08/prince-harry-media-intrusion-is-incessant-and-unnecessary",
+  "id": "2016-05-08-125",
+  "sectionId": "media",
+  "body": "Prince Harry was coaxed into making a rare statement about his views on the media coverage of his life.  In responding to what Andrew Marr acknowledged was \u201ca cheeky question\u201d during his TV programme, the prince spoke of \u201cincessant\u201d and \u201cunnecessary\u201d intrusions into his privacy. Marr asked: \u201cA bit like your mother, you are pursued every minute of every day by lots of people trying to take photographs, videoing, recording what you\u2019re saying, pushing... how can you possibly have a private life?\u201d \u201cSadly,\u201d said the prince, \u201cthat line between public and private life is almost non-existent.\u201d Then came what sounded like a heartfelt statement:   \u201cEveryone has a right to their privacy, and a lot of the members of the public get it, but sadly in some areas there is this sort of incessant need to find out every little bit of detail about what goes on behind the scenes. It\u2019s unnecessary.\u201d   Prince Harry went on to say that he and other members of the royal family were \u201ccompletely aware that we are in a very privileged position\u201d, adding:  \u201cI will spend the rest of my life earning that privilege and trying to bring a spotlight on to things and causes that really matter to me, and hopefully matter to a lot of other people as well.\u201d  One of those causes, the Invictus Games, was the reason for his appearance on Marr\u2019s BBC1 programme on Sunday morning. He was speaking from Florida where the tournament for injured service personnel and veterans is being held. He conceived of the idea of the games after he was refused permission to serve in Iraq and accompanying three severely wounded soldiers on a plane trip. It was, he told Marr, \u201ca turning point\u201d in his life and prompted him to note his split roles as an army officer and a member of the monarchy: he was Captain Wales and also Prince Harry. The prince, again subtly encouraged by Marr, made a brief reference to his mother, Princess Diana. The games were not \u201ca sensitive subject\u201d, he said, unlike his mother\u2019s support for the campaign against land mines.  He was responsible for launching the Invictus Games two years ago and is patron of the foundation that organises the event.  The five-day paralympic-style tournament involves more than 500 athletes from 15 countries who are competing in a range of sports.",
+  "webTitle": "Prince Harry: media intrusion is 'incessant and unnecessary'",
+  "webPublicationDate": "2016-05-08T10:23:25Z",
+  "webUrl": "https://www.theguardian.com/media/greenslade/2016/may/08/prince-harry-media-intrusion-is-incessant-and-unnecessary",
+  "keyword": [
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Prince Harry",
+      "id": "uk/prince-harry",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Privacy & the media",
+      "id": "media/privacy",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Invictus Games",
+      "id": "sport/invictus-games",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Monarchy",
+      "id": "uk/monarchy",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Diana, Princess of Wales",
+      "id": "uk/diana",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Andrew Marr",
+      "id": "media/andrewmarr",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "BBC1",
+      "id": "media/bbc1",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Florida",
+      "id": "us-news/florida",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Roy Greenslade",
+      "id": "profile/roygreenslade"
+    }
+  ],
+  "guardianId": "media/greenslade/2016/may/08/prince-harry-media-intrusion-is-incessant-and-unnecessary"
+}

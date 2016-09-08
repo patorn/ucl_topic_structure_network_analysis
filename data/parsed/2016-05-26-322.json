@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/26/eurostar-launches-fare-snap-ticket",
+  "id": "2016-05-26-322",
+  "sectionId": "business",
+  "body": "Eurostar is to reward last-minute holidaymakers for their spontaneity with a new fare aimed at people who don\u2019t mind what time of day they travel. The Snap ticket will allow travellers to get to Paris or Brussels for \u00a325 each way, but time of travel will only be given 48 hours in advance. Passengers have to sign up via Facebook and specify whether they would prefer to travel in the morning or afternoon. The fare must be booked at least seven days before travel and once passengers have paid for their ticket they are locked in, even if they don\u2019t like their allocated departure time. That means anyone who chooses a weekday morning could end up on the first Paris train of the day at 5.40am, while anyone who opts for the afternoon might not reach the City of Lights until 11.32pm. The \u00a325 one-way price, based on a return journey, undercuts Eurostar\u2019s previous lowest fare of \u00a329 one way, and appears designed to increase occupancy of the firm\u2019s new trains. Eurostar\u2019s 10 e320 trains, so called because they can reach 320km/h (200mph), can carry 900 passengers, compared with the 750 in its original fleet. Offering passengers a financial incentive to be more flexible is also intended to help the company spread demand across its Channel tunnel services, helping it fill seats that would otherwise be empty. Eurostar hopes the service will be popular with those who have less rigid schedules, such as students and pensioners. Its commercial director, Nick Mercer, said its research had convinced the company there was a \u201cstrong appetite for spontaneous travel\u201d. Enticing last-minute travellers could also help Eurostar recover from a difficult period in which passenger numbers fell following the terror attacks in Paris and Brussels. It is also hoping for an increase in cross-Channel traffic from this summer\u2019s Euro 2016 football tournament in France. Eurostar was a joint venture between the French and Belgian railway services and a special-purpose vehicle called London and Continental Railways owned by the UK government until the Treasury took control of the UK\u2019s 40% stake in 2014. The institutional investors Caisse de d\u00e9p\u00f4t et placement du Qu\u00e9bec and Hermes Infrastructure bought the UK\u2019s stake last year in a deal worth \u00a3757m to the exchequer. \u2022 This article was amended on 27 May 2016. Because of an error in a press release from Eurostar, an earlier version said the new Snap fares \u201ccan only be booked in the week before travel\u201d.",
+  "webTitle": "Eurostar launches \u00a325 fare for those who don't mind when they travel",
+  "webPublicationDate": "2016-05-26T05:01:02Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/26/eurostar-launches-fare-snap-ticket",
+  "keyword": [
+    {
+      "webTitle": "Eurostar",
+      "id": "business/eurostar",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Rail transport",
+      "id": "uk/rail-transport",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Transport",
+      "id": "uk/transport",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Rob Davies",
+      "id": "profile/rob-davies"
+    }
+  ],
+  "guardianId": "business/2016/may/26/eurostar-launches-fare-snap-ticket"
+}

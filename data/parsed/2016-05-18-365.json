@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/17/australian-charity-worker-killed-defusing-isis-bomb-iraq",
+  "id": "2016-05-18-365",
+  "sectionId": "world",
+  "body": "An Australian working for a landmine clearance charity has been killed in northern Iraq while trying to defuse a bomb planted by Islamic State militants, three of his colleagues said.  The man was working under the non-profit Swiss Foundation for Mine Action (FSD) in the Daquq area, around 120 miles (200km) north of Baghdad. Isis was driven out of Daquq last year but left behind hundreds of improvised explosive devices.  FSD\u2019s programme manager, Alex van Roy, said the man was killed instantly when the bomb containing up to 7kg of explosives blew up. He said the family of the victim had asked that his name be withheld.   Related: Number of civilians killed or injured by explosives rises 50% in five years    A colleague of the charity worker who was with him when the mine exploded said: \u201cHe went to Tel Raba village nearby to remove some IEDs because there were some Arab kids playing nearby.\u201d \u201cWe removed 17 IEDs this morning but unfortunately one exploded and killed him instantly.\u201d Colonel Tariq Jaff from the Peshmerga forces in charge of the area told the Guardian the man was was good humored. \u201cLast night we were together until midnight cracking jokes. He worked with an international Organisation that removed IEDs and bombs. Sadly he died this morning. He was a good man.\u201d   FSD has removed some 500 homemade bombs in the Daquq area since it began working there around two months ago, Kurdish FSD team member Aso Sabah al-Din said.  The team of two dozen includes both expatriates and Kurdish forces who control the area and who say they do not have the capabilities to deal with the bombs left by Isis.",
+  "webTitle": "Australian charity worker killed defusing Isis bomb in Iraq",
+  "webPublicationDate": "2016-05-18T00:59:32Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/17/australian-charity-worker-killed-defusing-isis-bomb-iraq",
+  "keyword": [
+    {
+      "webTitle": "Iraq",
+      "id": "world/iraq",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Middle East and North Africa",
+      "id": "world/middleeast",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Islamic State",
+      "id": "world/isis",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Fazel Hawramy",
+      "id": "profile/fazel-hawramy"
+    }
+  ],
+  "guardianId": "world/2016/may/17/australian-charity-worker-killed-defusing-isis-bomb-iraq"
+}

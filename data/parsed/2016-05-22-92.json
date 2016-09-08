@@ -1,0 +1,30 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/22/teenager-arrested-in-derry-after-fatal-assault-on-man",
+  "id": "2016-05-22-92",
+  "sectionId": "uk-news",
+  "body": "A 16-year-old boy has been arrested in connection with the murder of a man in Derry on Saturday night. The Police Service of Northern Ireland confirmed he had been arrested after a fatal assault on a 24-year-old man at about 10.25pm in the Milldale Crescent area of the city. The injured man was taken to Altnagelvin hospital, but later died. The PSNI said a second 24-year-old had also sustained head injuries in the assault, but they were not believed to be serious.   DCI Michael Harvey confirmed that a youth aged 16 had been arrested shortly after midnight in Derry. He urged anyone with information about the incident to come forward. \u201cThis has resulted in the tragic death of a young man, therefore I would ask anyone in the community who knows anything about the circumstances leading up to this incident, or saw or heard an altercation in the Milldale Crescent area, to contact police and give us this information,\u201d he said. The Sinn F\u00e9in deputy first minister of Northern Ireland, Martin McGuinness, said the incident had shocked the local community. \u201cThe death of this young man in these circumstances is a tragedy that has shocked the local area,\u201d he said. \u201cThere is a live police investigation into this incident and that should be allowed to go ahead. \u201cMy thoughts and prayers are with the family and friends of the man who was killed at this difficult time.\u201d",
+  "webTitle": "Teenager arrested in Derry after fatal assault",
+  "webPublicationDate": "2016-05-22T12:03:22Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/22/teenager-arrested-in-derry-after-fatal-assault-on-man",
+  "keyword": [
+    {
+      "webTitle": "Northern Ireland",
+      "id": "uk/northernireland",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Henry McDonald",
+      "id": "profile/henrymcdonald"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/22/teenager-arrested-in-derry-after-fatal-assault-on-man"
+}

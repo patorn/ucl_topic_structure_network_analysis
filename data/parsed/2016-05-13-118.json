@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/commentisfree/2016/may/13/what-does-the-european-union-mean-in-your-country",
+  "id": "2016-05-13-118",
+  "sectionId": "commentisfree",
+  "body": "The European Union was born out of a need to bring Europe together after the horrors of the second world war. It became a marker of peace. But what does it mean today? The coming referendum on whether Britain should stay part of the EU brings this question to the fore. Much of the discussion so far has centred around the economic arguments on both sides, and what this debate means in Britain. However, we want to explore how the EU is viewed throughout the union, and what it means in other European countries. What do people talk about in your country when the subject of the EU is raised: democracy, migration, bureaucracy, free movement, security, strategic alliances? We want to feature voices from the other member countries talking about the meaning of the EU where they live, and its place in the modern world, and what Britain leaving would mean to your country.  Take part, and feature in an article that will later appear online, by filling in the form below.",
+  "webTitle": "What does the European Union mean in your country? | Sarah Marsh",
+  "webPublicationDate": "2016-05-13T15:25:25Z",
+  "webUrl": "https://www.theguardian.com/commentisfree/2016/may/13/what-does-the-european-union-mean-in-your-country",
+  "keyword": [
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Sarah Marsh",
+      "id": "profile/sarah-marsh"
+    }
+  ],
+  "guardianId": "commentisfree/2016/may/13/what-does-the-european-union-mean-in-your-country"
+}

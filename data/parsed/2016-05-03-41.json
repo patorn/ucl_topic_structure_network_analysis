@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/03/wongas-losses-expected-to-double-to-70m-for-2015",
+  "id": "2016-05-03-41",
+  "sectionId": "business",
+  "body": "Wonga\u2019s losses are expected to almost double after a slump in revenues at the payday lender following price caps imposed by the City regulator. The results, due to be announced on Wednesday, appear to raise questions about the success of the company\u2019s attempts to reinvent itself in the tougher regulatory environment, as it tries to shrug off past controversies over its business practices.  Last year Wonga was ordered to pay more than \u00a32.6m compensation by the Financial Conduct Authority (FCA) for \u201cunfair and misleading debt collection practices\u201d, after it was found to have sent threatening letters to customers from non-existent law firms. In 2012 the Office of Fair Trading told it to clean up its act after it sent letters to customers accusing them of fraud. On Tuesday Sky News reported that Wonga would post a pre-tax loss of about \u00a370m in 2015, compared with \u00a337m a year earlier. The results will also show a sharp decline in Wonga\u2019s revenues from \u00a3215m in 2014, the channel said. The company declined to comment. The numbers come after a year in which Wonga and other payday lenders have been forced to operate under tighter regulations. Last year interest and fees on all high-cost short-term credit loans were capped at a daily rate of 0.8% of the amount borrowed. Meanwhile, if borrowers do not repay their loans on time, default charges must not exceed \u00a315, while the total cost including fees and interest is capped at 100% of the original sum. According to the FCA, which introduced the rules, this means no borrower will pay back more than twice the amount they borrowed. The move followed a string of criticisms levelled at the sector amid allegations of unscrupulous practices and customers running up huge debts. Wonga \u2013which recruited Andy Haste, a former boss of RSA insurance group, to clean up its image in 2014 \u2013 has said it wants to move its business away from the short-term lending that made its name, but also made it the focus of public anger. \u201cWonga has understandably faced criticism and we know we need to repair our reputation and regain our right to be an accepted part of the financial service sector,\u201d Haste said when he took on the \u00a3500,000-a-year job. However, the scale of the turnaround facing Haste is illustrated by the latest figures, which take Wonga\u2019s losses for the past two financial years to more than \u00a3100m. In the two years before that, the company made a profit of \u00a339.7m in 2013 and \u00a384.5m in 2012.",
+  "webTitle": "Wonga's losses expected to double to \u00a370m for 2015",
+  "webPublicationDate": "2016-05-03T19:02:19Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/03/wongas-losses-expected-to-double-to-70m-for-2015",
+  "keyword": [
+    {
+      "webTitle": "Wonga",
+      "id": "business/wonga",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Banking",
+      "id": "business/banking",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Financial sector",
+      "id": "business/financial-sector",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Payday loans",
+      "id": "money/payday-loans",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Borrowing & debt",
+      "id": "money/debt",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Financial Conduct Authority",
+      "id": "business/financial-conduct-authority",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Regulators",
+      "id": "business/regulators",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Simon Goodley",
+      "id": "profile/simongoodley"
+    }
+  ],
+  "guardianId": "business/2016/may/03/wongas-losses-expected-to-double-to-70m-for-2015"
+}

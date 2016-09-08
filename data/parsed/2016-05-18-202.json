@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/18/fa-investigate-pitch-invasion-hull-derby",
+  "id": "2016-05-18-202",
+  "sectionId": "football",
+  "body": "The Football Association has confirmed it is investigating the pitch invasion which followed Hull\u2019s play-off semi-final second leg against Derby on Tuesday night.   Related: Steve Bruce relieved after Hull hold off spirited Derby to reach Wembley    Television pictures showed hundreds of home fans streaming onto the pitch at the end of Derby\u2019s 2-0 win \u2013 a result which sent Steve Bruce\u2019s side through to face Sheffield Wednesday in the final thanks to a 3-2 aggregate victory. An ugly confrontation between a Hull supporter and Derby captain Richard Keogh when the Republic of Ireland international appears to be goaded has been circulating on social media.    Well done to Richard Keogh for showing restraint with that vulgar Hull fan. Neither will be at Wembley now. pic.twitter.com/OhtAW6axxn\u2014 Rookery Mike (@RookeryMike) May 17, 2016    The FA has confirmed to the Guardian that it already has opened an investigation and will be liaising with both clubs. No time-frame has been set for a decision to be made. Last year, Aston Villa were fined \u00a3200,000 after their victory in the FA Cup quarter-final over West Brom, while Reading had to pay out \u00a3100,00 after a similar incident at the Madejski Stadium.",
+  "webTitle": "FA investigating pitch invasion at end of Hull\u2019s match against Derby",
+  "webPublicationDate": "2016-05-18T11:39:17Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/18/fa-investigate-pitch-invasion-hull-derby",
+  "keyword": [
+    {
+      "webTitle": "The FA",
+      "id": "football/fa",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Hull City",
+      "id": "football/hullcity",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Derby County",
+      "id": "football/derbycounty",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ed Aarons",
+      "id": "profile/ed-aarons"
+    }
+  ],
+  "guardianId": "football/2016/may/18/fa-investigate-pitch-invasion-hull-derby"
+}

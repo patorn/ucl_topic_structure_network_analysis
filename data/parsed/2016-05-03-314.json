@@ -1,0 +1,144 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/greenslade/2016/may/03/fairytale-newspaper-coverage-for-leicester-citys-fairytale-victory",
+  "id": "2016-05-03-314",
+  "sectionId": "media",
+  "body": "Leicester City\u2019s Roy-of-the-Rovers-style achievement by winning the Premier League dominated the front and back pages of the national press on Tuesday. Amidst the Brexit debate, the Labour party\u2019s internal strife and the ongoing war against Isis, editors clearly revelled in the opportunity to report a good news story.  \u201cFootball\u2019s 5,000-1 fairytale\u201d (Daily Mail) came true for the \u201chistory makers\u201d (Daily Mirror) as \u201cBlue done it\u201d (The Sun and Daily Star), thereby turning \u201czeroes into heroes\u201d (Metro). The \u201cfairytale finish for champions Leicester\u201d (The Times) as the club \u201cpulled off greatest fairytale in football history\u201d (Daily Express) was greeted in the Guardian with a Shakespearean flourish. It imagined Richard III, whose bones are buried in Leicester, declaring the team to be \u201cKings of England.\u201d  \u201cLeicester\u2019s dreams come true at last\u201d (The Independent) for the \u201c5,000 to 1 champions\u201d (i) as \u201cLeicester\u2019s miracle men crowned Premier League champions\u201d (Daily Telegraph). Those were just the front pages. Headline-writers had even more fun on the sports pages and in the sports supplements. The Sun, riffing on the fact that Leicester City\u2019s nickname is the Foxes, came up with \u201cFurrytale\u201d. The Express charted the success of \u201cthe Foxes fairytale\u201d while the Mail celebrated \u201cFantastic Mr Fox\u201d. A Times writer noted, along with others, that \u201cyou would have got better odds on finding Elvis alive\u201d. For the Mirror they were \u201cThe Incredibles\u201d and \u201crebels without a clause\u201d (Mirror) because, as several writers recorded, this was a team worth so much less on paper than almost all of their rivals. There was a great deal of praise for manager Claudio Ranieri. You needed to know about him to decode the Star\u2019s punning headline, \u201cBig spenders are also-Rans in Foxes Hollywood success\u201d. Leader writers joined sports writers to offer congratulations to the team. \u201cEven those who have no interest in football in general or Leicester City in particular have been gripped by the club\u2019s progress,\u201d said the Express. \u201cThis victory\u201d, said the Telegraph, \u201chas a decidedly old-fashioned air to it. In a story worthy of The Boy\u2019s Own Paper, the team from a relatively small and unglamorous town has come back from near disaster a year ago to overcome flashier, richer rivals.\u201d     Hail Caesar! Photograph: Public domain    It \u201cproved miracles do occasionally happen\u201d, said the Mirror in arguing that Leicester had \u201crecaptured\u201d some of football\u2019s beauty with its \u201cunlikely success.\u201d For the Sun, \u201cit was an incredible end to an incredible season, just what sporting romantics (though not Spurs fans) had hoped for.\u201d And, of course, the Leicester Mercury enjoyed the moment too. A single word, \u201cchampions\u201d, is repeated many times over in postings on its Facebook page and its Twitter account.  Ranieri was also treated to praise in his home country. He was \u201cKing Claudio\u201d in Italy\u2019s La Gazetta dello Sport, which portrayed him as a Romanesque statue.",
+  "webTitle": "Fairytale newspaper coverage for Leicester City's fairytale victory",
+  "webPublicationDate": "2016-05-03T07:06:34Z",
+  "webUrl": "https://www.theguardian.com/media/greenslade/2016/may/03/fairytale-newspaper-coverage-for-leicester-citys-fairytale-victory",
+  "keyword": [
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Leicester City",
+      "id": "football/leicestercity",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "National newspapers",
+      "id": "media/national-newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Claudio Ranieri",
+      "id": "sport/claudio-ranieri",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "The Guardian",
+      "id": "media/theguardian",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Daily Telegraph",
+      "id": "media/dailytelegraph",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "The Times",
+      "id": "media/thetimes",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "The Independent",
+      "id": "media/theindependent",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "i",
+      "id": "media/i",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Metro",
+      "id": "media/metro",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "The Sun",
+      "id": "media/sun",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Daily Mirror",
+      "id": "media/daily-mirror",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Daily Star",
+      "id": "media/dailystar",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Daily Mail",
+      "id": "media/dailymail",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Daily Express",
+      "id": "media/dailyexpress",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers",
+      "id": "media/newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Italy",
+      "id": "world/italy",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Roy Greenslade",
+      "id": "profile/roygreenslade"
+    }
+  ],
+  "guardianId": "media/greenslade/2016/may/03/fairytale-newspaper-coverage-for-leicester-citys-fairytale-victory"
+}

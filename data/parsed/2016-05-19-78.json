@@ -1,0 +1,102 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/19/bank-of-england-interest-rates-cut-eu-referendum-remain-vote",
+  "id": "2016-05-19-78",
+  "sectionId": "business",
+  "body": "A top Bank of England policymaker has warned that even if Britain votes to stay in the EU, underlying weakness in the economy could mean that more support is required from the Bank. Jan Vlieghe, one of the nine policymakers who vote on interest rates, has previously floated the idea of them being cut below zero. Speaking on Thursday, he again raised the prospect of rates coming down further from their record low of 0.5%, when he said the economy could require \u201cadditional monetary stimulus\u201d if it does not rebound after a remain vote in the EU referendum on 23 June. In a speech at the London Business School, Vlieghe echoed the words of his colleagues on the monetary policy committee (MPC) in saying that the referendum was making it harder to gauge the underlying state of the UK economy, which has slowed in recent months. \u201cThe challenge for the committee is that we do not know how much of the slowing in growth is due to the referendum, an effect that should be short lived, and how much of it reflects a more fundamental loss of underlying momentum, which might be more persistent.\u201d Following a vote to remain, Vlieghe said he expected economic activity to pick up as the spending delayed until after the referendum by households and businesses kicks back in. However, he added that he would want to see \u201cconvincing evidence\u201d of an improvement in the economic outlook. \u201cIf such improvement is not apparent soon, this will reduce my confidence that inflation is likely to return to the target within an acceptable time horizon, without additional monetary stimulus,\u201d Vlieghe said. In an answer to a question after his speech, he said rate cuts and more quantitative easing should be among the options if the UK economy needs more support from the Bank. The Bank\u2019s governor, Mark Carney, drew criticism from some campaigners for the UK to leave the EU last week, when he said an out vote could tip the economy into recession. Presenting quarterly forecasts, Carney said it was the Bank\u2019s job to outline risks to the economy and financial system. But his critics said he had overstepped his remit and strayed into politics. In his speech, Vlieghe repeated the Brexit scenario set out by the MPC last week: a dip in activity and a pickup in inflation as the pound falls. Talking about the challenges for policymakers from a leave vote, he said: \u201cGiven significant uncertainty about the future of the UK\u2019s trading relationships, a meaningful drop in domestic demand and in the exchange rate is possible. For some time, the productive potential of the UK economy might also decline as the economy adjusts to new trading relationships and investment patterns.  \u201cThe UK is therefore likely to experience lower growth and higher inflation for a period, as a weaker exchange rate pushes up import prices.\u201d Like his MPC colleagues, Vlieghe would not predict how policymakers might respond to a leave vote. The MPC made it clear last week that whether the Bank cuts, holds or raises interest rates after a Brexit would depend on the extent of the changes to growth and inflation. The bulk of his speech was about long-term interest rates, as opposed to the overnight base rate set by the Bank, and why they had been so low for such a long time in the UK and elsewhere. Vlieghe suggested that low long-term rates reflected confidence among investors that central bankers would continue to set monetary policy to keep inflation and the wider economy on track. \u201cThe reason expected future real rates are low is that monetary policy has responded and is expected to continue to respond appropriately to persistent forces weighing on demand and inflation. Interest rates are low because that is what the economy needs in order to keep inflation expectations anchored,\u201d he said. Vlieghe also raised the prospect of decades of low borrowing costs. \u201cPersistent effects from debt de-leveraging, demographic shifts and changes in the distribution of income have created an environment where a given level of growth might be consistent with substantially lower interest rates than in the past. This environment might persist for years, even decades,\u201d he said.",
+  "webTitle": "Bank of England may need to cut interest rates even if UK stays in EU",
+  "webPublicationDate": "2016-05-19T17:51:47Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/19/bank-of-england-interest-rates-cut-eu-referendum-remain-vote",
+  "keyword": [
+    {
+      "webTitle": "Interest rates",
+      "id": "business/interest-rates",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Bank of England",
+      "id": "business/bankofenglandgovernor",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Economic recovery",
+      "id": "business/economic-recovery",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Economic growth (GDP)",
+      "id": "business/economicgrowth",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economic policy",
+      "id": "politics/economy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Katie Allen",
+      "id": "profile/katieallen"
+    }
+  ],
+  "guardianId": "business/2016/may/19/bank-of-england-interest-rates-cut-eu-referendum-remain-vote"
+}

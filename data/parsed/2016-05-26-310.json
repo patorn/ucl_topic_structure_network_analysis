@@ -1,0 +1,84 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/26/self-driving-cars-whos-building-them-and-how-do-they-work",
+  "id": "2016-05-26-310",
+  "sectionId": "technology",
+  "body": "From self-driving cars to robot lorries, autonomous vehicles are the future of road transportation. But who\u2019s in pole position, who\u2019s stuck in the pit lane and how far away is the starting grid? How far along are we? Autonomous vehicles are already on our roads. At the cutting edge there are self-driving cars being tested in pilot programmes, and they are proving perfectly capable of motoring alongside human drivers. But beyond robotic cars, many high-end vehicles available today are already practically capable of driving themselves either under the guise of passenger safety or driver convenience. Who\u2019s doing it? In short, everyone. Google started work on the pioneering technology about eight years ago, helped by expert recruits from Stanford, but Uber, China\u2019s Baidu and even Apple \u2013 if you believe the rumours \u2013 are working on self-driving technology. The automotive manufacturers aren\u2019t sitting on their hands either. Elon Musk\u2019s Tesla is working on the technology for its electric cars, while GM, Daimler, Volvo, Ford, Jaguar Land Rover, Audi and BMW are also developing solutions. Smaller companies and groups are also developing and testing the technology in the UK, including consortiums running trials in Greenwich, Bristol, Milton Keynes and Coventry. The Transport Research Lab, Arup, the AA, RAC, Atkins and Imperial College London are all involved.         Self-driving a truck.    What kinds of vehicles are they working on? Self-driving vehicles can take many forms. Most of the automotive manufacturers are looking to create cars very similar to those we already drive \u2013 for individual ownership but with the ability to drive themselves. Others, including Google, are looking at creating cars that are either smaller and more compact, or larger and laid out without a traditional driver\u2019s seat, turning the car\u2019s cabin into a mobile lounge area. Other research has focused on autonomous vehicles replacing traditional buses and public transport shuttles. Some resemble tram cars without tracks. Other firms, including Uber, are trying to create vehicles that will eventually replace taxis. Commercial goods vehicle manufacturers are also looking at autonomous trucks, which resemble traditional lorries, but could look more like a train or storage container on wheels. Where are they doing testing? Google has been testing its self-driving cars, which have included modified Toyota Priuses, Lexus RX450h SUVs and a bespoke self-driving bubble car, on public roads in Nevada, Florida, California and Michigan since 2012. Uber recently began testing a self-driving car in Pittsburgh carrying passengers, with a human driver for backup. Volvo and several other car manufacturers have also performed limited tests on some public roads around Europe and the US, while Baidu partnered with BMW for limited testing in China. Large-scale testing, including Volvo\u2019s 100-car test with members of the public on a Gothenburg commuter route, is scheduled to start next year. A version of that trial is expected to go ahead in the UK in 2018. The UK is expected to green-light trials on motorways from next year. Who\u2019s leading the autonomous pack? Google is currently out in front, having driven more autonomous miles and collected more data than anyone else. But traditional car manufacturers are quickly catching up. It\u2019s also unclear what Google\u2019s intentions are. The company recently partnered with Fiat Chrysler to fit its self-driving technology into the Chrysler Pacifica hybrid minivan, but its efforts to develop a bespoke self-driving car without a steering wheel or pedals point to an intention to develop cars on its own. Volvo has been working on self-driving technology under the guise of safety features for years, and has explored the idea of road trains for commercial vehicles, where a front lorry guides a convoy. What\u2019s required to make a self-driving car work? The bulk of the technology required for self-driving cars is not all that futuristic, but it is the combination of different sensors with advanced computer vision systems that makes it work. Many of the vehicles use what is called Lidar (Light Detection and Ranging) \u2013 a rotating laser, usually mounted on the roof, that continually scans the environment around the car. Traditional radar is also used for detecting distances to objects and cars, as are various cameras, accelerometers, gyroscopes and GPS, which are all used in conjunction to build a 3D picture of the environment around the vehicle. The most complex part of a self-driving system is the software that collects the data, analyses it and actually drives the vehicle. It has to be capable of recognising and differentiating between cars, bikes, people, animals and other objects as well as the road surface, where the car is in relation to built-in maps and be able to react to an often unpredictable environment. Are there speed bumps ahead? There are several major hold-ups between the developmental prototypes and commercialisation of driverless technology. One of the biggest is the problem of ethics. Unlike a human who reacts instinctively in an emergency, an autonomous car will have to calculate and choose the appropriate response to each scenario, including possibly a choice between killing its occupants or other people. Legislation must also be changed before self-driving vehicles will be permitted on public roads beyond small tests, while insurers must decide who pays when an autonomous car inevitably has an accident.  Further down the road another question will be whether, at the point when autonomous vehicles work and are safer than human drivers, we should ban human drivers? When are we going to be able to step into one? Many experts believe that full adoption of autonomous vehicles won\u2019t happen until 2030, but some vehicles with self-driving capabilities are expected by 2020. Whether they are legal to drive everywhere or to drive without an occupant \u2013 to pick up a passenger or park themselves \u2013 remains to be seen. What\u2019s available right now? No purely autonomous vehicles are available at present, but several with self-driving features are currently on our roads. Tesla\u2019s Model S has an advanced cruise control feature called Autopilot, which uses cameras and radar to detect the car\u2019s position in lane, the proximity of other cars and the speed limit. It can control the car\u2019s speed and steering to keep it in the middle of the lane, reacting to other cars and changing lanes on command. Volvo\u2019s latest XC90 includes a raft of autonomous driving features, including lane assist, adaptive cruise control and a suite of automatic emergency systems that stop the car from pulling into oncoming traffic or from rear-ending cars.",
+  "webTitle": "Self-driving cars: who's building them and how do they work?",
+  "webPublicationDate": "2016-05-26T06:00:04Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/26/self-driving-cars-whos-building-them-and-how-do-they-work",
+  "keyword": [
+    {
+      "webTitle": "Self-driving cars",
+      "id": "technology/self-driving-cars",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Google",
+      "id": "technology/google",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Apple",
+      "id": "technology/apple",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Volvo",
+      "id": "business/volvo",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Computing",
+      "id": "technology/computing",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Motoring",
+      "id": "technology/motoring",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Automotive industry",
+      "id": "business/automotive-industry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Alphabet",
+      "id": "technology/alphabet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Samuel Gibbs",
+      "id": "profile/samuel-gibbs"
+    }
+  ],
+  "guardianId": "technology/2016/may/26/self-driving-cars-whos-building-them-and-how-do-they-work"
+}

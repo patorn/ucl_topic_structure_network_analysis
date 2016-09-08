@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/20/refugees-facing-homelessness-says-refugee-council-charity",
+  "id": "2016-05-20-297",
+  "sectionId": "world",
+  "body": "Up to 10,000 newly recognised refugees are being left at risk of becoming homeless and destitute each year because of the chaotic system of government support, the Refugee Council has said. The charity\u2019s research revealed that many were ending up on the streets because of the four-week limit they had to secure an income and a home before being evicted from asylum accommodation. Of 100 refugees recently granted asylum in the UK, 81 told researchers they were homeless or about to become so when they turned to the charity for help. It estimates 9,768 newly recognised refugees could have been left without shelter last year alone. Many Syrians are among those being affected by what the Refugee Council said was a \u201cchaotic system\u201d that leaves newly recognised refugees virtually abandoned by the government. Once granted refugee status by the UK, their fate contrasts starkly with the 20,000 Syrian refugees due to be resettled across the UK by 2020: their accommodation will be secured before their arrival and they will receive specialist support to access services and employment. Dr Lisa Doyle, co-author of the Refugee Council report, England\u2019s Forgotten Refugees, said: \u201cFor people who have escaped war, torture and rape, being granted asylum in Britain should be a moment of immense relief, a time to finally stop running and instead to focus on rebuilding their shattered lives. \u201cShockingly, quite the opposite is true. These forgotten refugees are being all but abandoned by the government which has just committed to protecting them. Quite simply, refugees are being left without refuge.\u201d The council said the problem arose because support was cut off as soon as an individual was granted refugee status. After 28 days they are evicted from their asylum accommodation and lose their financial support of just over \u00a35 a day. While they can apply for a one-off support loan, there are long delays in processing the applications \u2013 the government says it aims to complete them within six weeks \u2013 by which time refugees can be homeless, the charity said.  A government-funded service to help refugees integrate was abolished in 2011.  Faisal, a Syrian student who was granted asylum at Christmas, said: \u201cI got my letter to leave my NASS accommodation within 28 days. I was lucky that I\u2019d got my identity document fairly quickly, but I didn\u2019t get my national insurance number until day 20 and its difficult to start the process at the jobcentre without it. \u201cI went to the local council to see if they could help me \u2026 but they told me I wasn\u2019t a priority, so wasn\u2019t eligible for any help \u2026 I had no way of finding a room to rent: I didn\u2019t have money for a deposit and agency fees are ridiculous. How is someone in my situation supposed to have that sort of money? I\u2019d essentially been granted asylum and then kicked out on the street.\u201d Faisal was eventually helped by a charity, the Race Equality Centre in Leicester and Leicestershire, which found him a place in a hostel. He is now living in a shared house and is starting university in September to finish an architecture degree he began in Syria.",
+  "webTitle": "UK's \u2018chaotic system\u2019 leaving refugees homeless, says charity",
+  "webPublicationDate": "2016-05-20T07:36:07Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/20/refugees-facing-homelessness-says-refugee-council-charity",
+  "keyword": [
+    {
+      "webTitle": "Refugees",
+      "id": "world/refugees",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Immigration and asylum",
+      "id": "uk/immigration",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Migration",
+      "id": "world/migration",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Syria",
+      "id": "world/syria",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Middle East and North Africa",
+      "id": "world/middleeast",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Sandra Laville",
+      "id": "profile/sandralaville"
+    }
+  ],
+  "guardianId": "world/2016/may/20/refugees-facing-homelessness-says-refugee-council-charity"
+}

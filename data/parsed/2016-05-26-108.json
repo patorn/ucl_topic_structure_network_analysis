@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/26/megson-good-times-will-come-again-review",
+  "id": "2016-05-26-108",
+  "sectionId": "music",
+  "body": "Stu and Debbie Hanna have at last recorded an album of entirely self-composed songs, and it\u2019s one of the most original political folk sets of the year. The multi-instrumentalist husband and wife duo who call themselves Megson \u2013 in memory of a much-loved dog \u2013 have until now specialised in reviving Victorian material from the north-east, while adding just a few excellent songs of their own. Here they match angry lyrics about the hard times of contemporary England with sturdy, unexpected melodies. Generation Rent is both an angry study of the housing crisis and a rousing anthem, while Zero tackles the problem of zero-hours contracts to the setting of a jaunty fiddle tune. Elsewhere, there\u2019s a witty song about nerves, love and accountancy, and an emotional hymn about the migrant crisis. Ewan MacColl would have been impressed.",
+  "webTitle": "Megson: Good Times Will Come Again review \u2013 rousing folk anthems and hymns to modern life",
+  "webPublicationDate": "2016-05-26T17:15:07Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/26/megson-good-times-will-come-again-review",
+  "keyword": [
+    {
+      "webTitle": "Folk music",
+      "id": "music/folk",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Robin Denselow",
+      "id": "profile/robindenselow"
+    }
+  ],
+  "guardianId": "music/2016/may/26/megson-good-times-will-come-again-review"
+}

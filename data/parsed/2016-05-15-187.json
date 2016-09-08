@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/15/pumeza-matshikiza-arias-review",
+  "id": "2016-05-15-187",
+  "sectionId": "music",
+  "body": "The South African lyric soprano Pumeza Matshikiza, now enjoying an international reputation, has versatility, range and huge personality. Her voice is rich without heaviness, capable of teasing lightness and flexibility, as the selection here demonstrates. She opens with a tender Si, mi chiamano Mimi from Puccini\u2019s La boh\u00e8me (Mimi is one of her signature roles) and travels via Hahn, Faur\u00e9 and Ravel back to Mozart, Gluck and, in an anguished Dido\u2019s Lament, Purcell. The African Cuban Punto de habanera shows her in playful mood. All texts are supplied. Enunciation is not Matshikiza\u2019s greatest strength. A detailed note places her in the great tradition of Tebaldi and Rosa Ponselle: too early to say, but this album is enjoyable on its own terms.",
+  "webTitle": "Pumeza Matshikiza: Arias CD review \u2013 huge personality",
+  "webPublicationDate": "2016-05-15T07:00:18Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/15/pumeza-matshikiza-arias-review",
+  "keyword": [
+    {
+      "webTitle": "Classical music",
+      "id": "music/classicalmusicandopera",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Fiona Maddocks",
+      "id": "profile/fiona-maddocks"
+    }
+  ],
+  "guardianId": "music/2016/may/15/pumeza-matshikiza-arias-review"
+}

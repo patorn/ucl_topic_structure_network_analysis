@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/greenslade/2016/may/05/how-mexican-journalists-are-reporting-in-secret-on-drug-cartels",
+  "id": "2016-05-05-304",
+  "sectionId": "media",
+  "body": "How is it possible to report in a country regarded as one of the most dangerous places for a journalist to operate? Answer: do it secretly; do it online; and do it remotely. According to a Christian Science Monitor article, a Mexican reporter called AJ Espinoza worked out this safe way of working some two years ago.  He teamed up with a US-based reporter in order to write stories he thinks fellow Mexicans should read. But they appear in a US-based outlet rather than his local newspaper.  In that way, he can safely report on the activities of the drug cartels that plague the Mexico-US border region where he operates. Espinoza is quoted as saying: \u201cNo one else needs to know that I\u2019m doing this.\u201d He formed a partnership with Ildefonso Ortiz, a reporter for Breitbart along the Texas-Mexico border, who says that people who don\u2019t live in the region find it \u201chard to grasp that in cities like Matamoros or Reynosa, organised crime has complete control [over the media]\u201d. Celeste Gonz\u00e1lez de Bustamante, an associate professor at Arizona university who studies the effects of violence on journalism, says: \u201cNewsrooms started waiting for the green light to publish. But the green or red light wasn\u2019t coming from the owner of the paper or managers, but from members of organised crime.\u201d Editors \u201chave to answer to two bosses: the publishers and the cartels.\u201d Newspapers have come up with creative ways to overcome the problem. El Ma\u00f1ana, one of the oldest newspapers in the region, will occasionally run a sensitive story from Tamaulipas on the front page of its neighbouring Nuevo Leon-based edition, while burying the story locally.  Others have tried to adapt by creating alternative publications that come out less frequently. And some outlets will sometimes risk publishing or broadcasting stories that implicate cartel activity, but will omit bylines or cite hard-to-trace Twitter users as sources. Ortiz said: \u201cFor people not on the border, it\u2019s hard to grasp that in cities like Matamoros or Reynosa, organised crime has complete control. It\u2019s like an alternative form of government. They control the media; they boss around politicians and the government.\u201d Last year, Ortiz and his Breitbart editor developed a project called the Cartel Chronicles, which is published in both English and Spanish. But there are still risks, even when working anonymously. In 2014, a crusading Twitter user who publicised details of cartel violence in Tamaulipas was kidnapped and murdered. Despite those dangers, Espinoza says teaming with Ortiz is worth it. \u201cIf no one knows what\u2019s really happening, how can the situation ever change?\u201d Source: Christian Science Monitor",
+  "webTitle": "How Mexican journalists are reporting in secret on drug cartels",
+  "webPublicationDate": "2016-05-05T06:54:16Z",
+  "webUrl": "https://www.theguardian.com/media/greenslade/2016/may/05/how-mexican-journalists-are-reporting-in-secret-on-drug-cartels",
+  "keyword": [
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Mexico",
+      "id": "world/mexico",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Journalist safety",
+      "id": "media/journalist-safety",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Press freedom",
+      "id": "media/press-freedom",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Texas",
+      "id": "us-news/texas",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Human rights",
+      "id": "law/human-rights",
+      "sectionId": "law",
+      "sectionName": "Law"
+    },
+    {
+      "webTitle": "Americas",
+      "id": "world/americas",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Newspapers",
+      "id": "media/newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Roy Greenslade",
+      "id": "profile/roygreenslade"
+    }
+  ],
+  "guardianId": "media/greenslade/2016/may/05/how-mexican-journalists-are-reporting-in-secret-on-drug-cartels"
+}

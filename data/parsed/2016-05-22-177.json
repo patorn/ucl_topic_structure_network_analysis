@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/22/bob-dylan-fallen-angels-review",
+  "id": "2016-05-22-177",
+  "sectionId": "music",
+  "body": "The meeting of grizzled musical icon and great American songbook has yielded variable results, but Dylan got it right with last year\u2019s Shadows in the Night, his take on songs once sung by Frank Sinatra. He shows the same sure hand and musician\u2019s affection here for a collection of standards by writers such as Johnny Mercer and Harold Arlen. His vocals are engaging, the arrangements are sensitive and spare \u2013 gently brushed drums and steel guitar on Polka Dots and Moonbeams, dabs of strings on Skylark \u2013 and the whole thing drifts along with an easygoing charm. No one involved seems to be trying too hard, just basking in the pleasure of classic songs classily performed.",
+  "webTitle": "Bob Dylan: Fallen Angels review \u2013 easygoing charm",
+  "webPublicationDate": "2016-05-22T07:00:36Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/22/bob-dylan-fallen-angels-review",
+  "keyword": [
+    {
+      "webTitle": "Bob Dylan",
+      "id": "music/bobdylan",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Folk music",
+      "id": "music/folk",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ally Carnwath",
+      "id": "profile/allycarnwath"
+    }
+  ],
+  "guardianId": "music/2016/may/22/bob-dylan-fallen-angels-review"
+}

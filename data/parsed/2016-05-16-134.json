@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/16/phone-poll-finds-10-point-lead-for-remain-but-web-survey-puts-leave-ahead-brexit",
+  "id": "2016-05-16-134",
+  "sectionId": "politics",
+  "body": "Two Guardian/ICM EU referendum polls demonstrate a widening disparity between phone and internet polling, with one producing a 10-point lead for remain and the second reporting that the leave campaign is ahead by four. The gap in results between online and telephone surveys has been a constant feature of referendum polling, with phone polls consistently putting remain ahead, while internet surveys point to something like a dead heat.    Related: EU referendum: Boris Johnson says leaving EU will help 'scandalous' NHS waiting times - Politics live    But the contrast in the two surveys is particularly stark, because they were conducted concurrently and deployed as similar vote adjustment methodologies as possible. In ICM\u2019s phone poll, remain is eight points clear of leave, at 47% compared with 39%, with 14% undecided. Once the \u201cdon\u2019t knows\u201d are excluded, remain looks set for a clear 10-point lead, by 55% to 45%.   Phone polling   With the online survey, by contrast, those in favour of Brexit have a definite edge \u2013 standing on 47% to remain\u2019s 43%, with only 10% of respondents undecided. Once they are excluded, leave\u2019s four-point advantage is maintained, in a projected final pro-Brexit result of 52% to 48%. The two polls in the questions both asked about Westminster voting intention. The traditional Guardian/ICM telephone series has the Tories on 36%, down two after a difficult month that has seen intensified infighting over the referendum and the government under pressure on refugees, housing and trade unions in parliament. Labour, meanwhile, blips up one to 34%. Ukip is unchanged on 13%.    Internet polling   The Liberal Democrats, who recovered slightly in the local elections, continue to stagnate on just 7% in the Westminster stakes. The Greens are on 4%, as are the SNP, with Plaid Cymru on just 1%. Assorted smaller parties share another 1% of the poll. These headline numbers are produced only after adjustments, including propensity to turn out and past voting behaviour. Before the adjustments, the raw data suggests Labour has a clear advantage.  \u201cGiven the current state of party politics,\u201d Martin Boon of ICM Unlimited explained, \u201craw data suggesting a solid Labour lead will look questionable to many. It may be that the long drift for declining response rates is affecting the quality, and skewing the sample towards Labour, just as it did in the final phone polls at the general election.\u201d    Voting intention   For comparison, for the second time ICM also publishes its online voting intention series. The headline figures, which are adjusted on exactly the same principles as with the telephone data with much less dramatic effect, are: Conservative 34%; Labour 32%; Ukip 17%; Liberal Democrats 7%; Scottish Nationalists 5%; Greens 4% and Other 1%. Boon added: \u201cThe online sample looked less skewed in respect of who respondents recalled voting for, but after pretty disappointing local elections for Ukip, their vote share looks very much on the high side, as has often been the case in internet surveys.\u201d With disproportionately pro-EU Labour voters over-represented in the phone, and overwhelmingly pro-Brexit Ukip leaners so visible online, Boon concluded that \u201cthere could be biases running in both directions on the referendum question. There is no definitive way of adjudicating between the two polls, but as good a guess as any is that the right answer lies somewhere in between.\u201d ICM Unlimited interviewed 1,002 people by phone, and 2,048 people online on 13-15 May 2016. Interviews were conducted across the country and in both cases the results have been weighted to the profile of all adults. ICM is a member of the British Polling Council and abides by its rules.",
+  "webTitle": "Phone survey finds 10-point lead for remain but web poll puts leave ahead",
+  "webPublicationDate": "2016-05-16T15:30:01Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/16/phone-poll-finds-10-point-lead-for-remain-but-web-survey-puts-leave-ahead-brexit",
+  "keyword": [
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Opinion polls",
+      "id": "politics/polls",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Tom Clark",
+      "id": "profile/tomclark"
+    }
+  ],
+  "guardianId": "politics/2016/may/16/phone-poll-finds-10-point-lead-for-remain-but-web-survey-puts-leave-ahead-brexit"
+}

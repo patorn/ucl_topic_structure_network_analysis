@@ -1,0 +1,82 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/25/vote-leave-attacks-ifs-thinktank-brexit-austerity-paid-up-propaganda-arm",
+  "id": "2016-05-25-230",
+  "sectionId": "politics",
+  "body": "The Vote Leave campaign has dismissed the respected Institute for Fiscal Studies as a \u201cpaid-up propaganda arm\u201d of the European Union after the thinktank said that leaving the EU would extend austerity by two years. In a report, the IFS, which has built a reputation for independence, said Brexit would result in lower GDP growth and extra borrowing costs that would knock a \u00a320bn-\u00a340bn hole in the government\u2019s finances by 2020. But Vote Leave sparked a fresh referendum row by claiming the IFS was biased because it has received more than \u20ac7.4m (\u00a35.6m), from the European commission since 2009.  The campaign said: \u201cThe IFS is not a neutral organisation. It\u2019s a paid-up propaganda arm of the European commission. It would face an \u00a3800,000 deficit if we vote leave.\u201d    Related: Vote to leave EU would 'condemn Britain to irrelevance', say historians    Remain campaigners accused Vote Leave of \u201cdisreputable\u201d tactics by questioning the integrity of the IFS.  The former chancellor Alistair Darling said Vote Leave\u2019s charge was \u201ca spectacular own goal\u201d. Speaking to Sky News, he said: \u201cIt\u2019s as bad as Boris Johnson claiming that Europe has the same ambitions as Hitler. It is ridiculous, disreputable stuff.\u201d  \u201cIf the best they do is to start abusing people who are telling them things they don\u2019t want to hear, then that perhaps shows the weakness in their arguments.\u201d David Cameron, on his way to the G7 summit in Japan, described the IFS as the \u201cindependent gold standard\u201d, and said its analysis backed up what the Treasury and others had said. \u201cIf that is what they are saying about the \u00a3350m claim, if that is what they are saying about the effect on our economy of Brexit, that is very, very powerful,\u201d he said. The director of the IFS, Paul Johnson, denied that European funding influenced the report.  Speaking on BBC Radio 4\u2019s Today programme, he said: \u201cIt\u2019s true that we get about 10% of our income from the European Research Council, which is an independent arm\u2019s-length body which funds world-class academic research. For the last 30 years the IFS has really built its reputation on the independence and integrity of our work. There is no sum of money from anywhere in the world which would influence what we said, because if it did then the point of the IFS, and the reasons that we are listened to after budgets and so on, would simply be lost.\u201d The leave campaigner and former Tory cabinet minister John Redwood said: \u201cI think the IFS are part of this cosy establishment which desperately wants to keep us in the European Union.\u201d  In repeated questions, he refused to denounce the leave campaign\u2019s claim that it was a propaganda arm of the EU.  Asked whether he was claiming the IFS was paid to warn about the economic consequences of Brexit, Redwood said: \u201cI haven\u2019t made that allegation. I think we are going to be better off outside the European Union and this IFS pamphlet doesn\u2019t present a new model or forecast. It reviews a number of other people\u2019s forecasts and it happens to choose one of the more negatives ones on the consequences of exit. It doesn\u2019t seem to like the Open Europe one or the Economists for Brexit one, who say we\u2019ll be better off on various scenarios.\u201d",
+  "webTitle": "Vote Leave attacks IFS thinktank over Brexit austerity prediction",
+  "webPublicationDate": "2016-05-25T09:36:11Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/25/vote-leave-attacks-ifs-thinktank-brexit-austerity-paid-up-propaganda-arm",
+  "keyword": [
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Institute for Fiscal Studies",
+      "id": "business/institute-for-fiscal-studies",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Thinktanks",
+      "id": "politics/thinktanks",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Matthew Weaver",
+      "id": "profile/matthewweaver"
+    },
+    {
+      "webTitle": "Anushka Asthana",
+      "id": "profile/anushkaasthana"
+    }
+  ],
+  "guardianId": "politics/2016/may/25/vote-leave-attacks-ifs-thinktank-brexit-austerity-paid-up-propaganda-arm"
+}

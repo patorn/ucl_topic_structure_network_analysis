@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/20/eurostar-sales-fall-after-terror-attacks-in-europe",
+  "id": "2016-05-20-262",
+  "sectionId": "business",
+  "body": "Eurostar said passenger numbers had fallen in the wake of the Paris and Brussels terror attacks, as people from the US and Asia were afraid to travel to Europe. The high-speed rail operator linking the UK to mainland Europe said tourists from further afield were choosing other destinations. Eurostar\u2019s chief executive, Nicolas Petrovic, said travellers remained cautious following the attacks at Brussels airport and on the city\u2019s metro system.  He told the BBC\u2019s Radio 4 Today programme: \u201cPeople coming from North America and south-east Asia, particularly Japan, are fearful of coming to Europe at all. They don\u2019t really understand what\u2019s going on and would rather go elsewhere altogether. Hopefully next year international visitors will come back.\u201d Petrovic said the number of people travelling from the UK had rebounded quite quickly following the attacks. Passenger numbers fell to 2.2 million in the three months to the end of March, from 2.3 million a year earlier. Sales revenues were down 6% at \u00a3201m in the first quarter. Eurostar was more upbeat about trading in the last few weeks, reporting a surge in sales as football fans booked rail tickets to the Euro 2016 football tournament in France. The rail operator said the busiest day for travel would be 10 June, when the hosts, France, play Romania in the opening match of the tournament at the Stade de France in Paris. Eurostar runs direct services to the main Euro 2016 host cities including Lille, Paris, Lyon and Marseille, with almost half a million passengers expected to travel from the UK. \u201cWe have seen an unprecedented demand from football supporters keen to get to the Euros by train,\u201d Petrovic said. Eurostar said it was making progress with its plans to open a new route between London and Amsterdam, with the new e320 train tested on the Dutch network for the first time last month.  The route is expected to be up and running by the end of next year, with a journey time of about four hours. \u201cWith over 3 million passengers travelling by air between London and Amsterdam, this new route is key to our growth plans,\u201d Petrovic said.",
+  "webTitle": "Eurostar sales fall after terror attacks in Europe",
+  "webPublicationDate": "2016-05-20T09:34:30Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/20/eurostar-sales-fall-after-terror-attacks-in-europe",
+  "keyword": [
+    {
+      "webTitle": "Eurostar",
+      "id": "business/eurostar",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Transport",
+      "id": "uk/transport",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Travel",
+      "id": "travel/travel",
+      "sectionId": "travel",
+      "sectionName": "Travel"
+    },
+    {
+      "webTitle": "Rail travel",
+      "id": "travel/railtravel",
+      "sectionId": "travel",
+      "sectionName": "Travel"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Angela Monaghan",
+      "id": "profile/angela-monaghan"
+    }
+  ],
+  "guardianId": "business/2016/may/20/eurostar-sales-fall-after-terror-attacks-in-europe"
+}

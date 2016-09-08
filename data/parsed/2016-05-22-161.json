@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/22/a-hologram-for-the-king-review-tom-hanks-dave-eggers",
+  "id": "2016-05-22-161",
+  "sectionId": "film",
+  "body": "\u201cAnd you may ask yourself: how did I get here?\u201d After a heavily trailed Once in a Lifetime opening which promises snappy, sassy, satirical thrills, this midlife crisis movie (from Dave Eggers\u2019s bestselling novel) settles into an altogether more sappy stride. Tom Hanks is Alan, an IT salesman in the wake of a messy divorce, dispatched to Saudi to sell a virtual-reality system in a city that hasn\u2019t yet been built by a king notable by his absence. Stranded in the desert, penning plaintive missives to his daughter, Alan starts to unravel, blaming his woes on a growing lump on his back, which comes to symbolise his inner sickness. Flashbacks to his home life rub shoulders with a more general malaise about outsourcing home industries to China in this peculiar melange of the personal, the political and the parodic. Alexander Black makes some dramatic headway as Alan\u2019s driver-cum-guide Yousef, while Sarita Choudhury breathes life into blossoming romantic subplot which proves the film\u2019s most intriguing feature. As for Hanks, he does a nice line in hassled everyman, but can\u2019t quite inject an element of magic into Tom Tykwer\u2019s movie, even when coincidentally reprising a touchstone scene from Splash.         Watch a trailer for A Hologram for the King.",
+  "webTitle": "A Hologram for the King review \u2013 sappy midlife strife",
+  "webPublicationDate": "2016-05-22T07:00:36Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/22/a-hologram-for-the-king-review-tom-hanks-dave-eggers",
+  "keyword": [
+    {
+      "webTitle": "Drama",
+      "id": "film/drama",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Tom Hanks",
+      "id": "film/tomhanks",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Mark Kermode",
+      "id": "profile/markkermode"
+    }
+  ],
+  "guardianId": "film/2016/may/22/a-hologram-for-the-king-review-tom-hanks-dave-eggers"
+}

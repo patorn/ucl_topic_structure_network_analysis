@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/16/weatherwatch-aircraft-contrails-warmer-nights-conspiracy-theories",
+  "id": "2016-05-16-46",
+  "sectionId": "environment",
+  "body": "A sky crisscrossed with contrails from high-flying aircraft is a familiar sight in Britain and North America. Depending on the weather conditions these can merge into a blanket of high cloud that at times can be dense enough to blot out the sun. Understanding exactly what this does to the climate is still work in progress, but it\u2019s generally agreed that in these areas where the aircraft are constantly pouring out pollution the contrails make the nights warmer by acting as a blanket and the days cooler by reflecting sunlight back into space. Some studies suggest that over 30 years, these contrails will raise average surface temperature by as much as 1C, a serious magnification of global warming.   Related: Blocking highs and jet stream kinks    The length of the contrails and how long they survive depends how dry the atmosphere is when the exhaust gases from the aircraft are released. They can disappear in seconds, but the more moisture there is in the atmosphere the slower they are to disperse. Sometimes when the air is fairly turbulent the contrails appear to be turned on and off, because there are gaps. It is these intermittent contrails that have led to a conspiracy theory that they are in fact \u201cchemtrails\u201d. Depending on which internet site you read, they are part of a large-scale experiment to alter the climate, or worse, dose the population in chemicals to keep them docile.  Surveys show that up to 15% of the population think there is something in these claims. This is a small number, but a statistic that is alarming researchers who worry about how much public trust in governments has waned.",
+  "webTitle": "Aircraft contrails bring warmer nights and conspiracy theories",
+  "webPublicationDate": "2016-05-16T20:30:09Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/16/weatherwatch-aircraft-contrails-warmer-nights-conspiracy-theories",
+  "keyword": [
+    {
+      "webTitle": "Climate change",
+      "id": "environment/climate-change",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Meteorology",
+      "id": "science/meteorology",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Climate change",
+      "id": "science/scienceofclimatechange",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Air transport",
+      "id": "world/air-transport",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Paul Brown",
+      "id": "profile/paulbrown"
+    }
+  ],
+  "guardianId": "environment/2016/may/16/weatherwatch-aircraft-contrails-warmer-nights-conspiracy-theories"
+}

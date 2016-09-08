@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/marketforceslive/2016/may/09/ftse-loses-early-gains-as-mining-shares-slump-with-anglo-down-14",
+  "id": "2016-05-09-98",
+  "sectionId": "business",
+  "body": "After a fairly bright start, the weight of a slump in commodity prices finally took its toll on the London market. The FTSE 100 fell 10.89 points or 0.18% to 6114.81, with mining shares leading the declines as metal prices fell, with copper hitting a one month low. The catalyst was disappointing Chinese trade data, with imports and exports both falling by more than expected and renewing fears about a slowdown in the world\u2019s second largest economy. A strengthening of the dollar also hit commodity prices, knocking oil back after earlier gains which were partly due to the supply worries caused by the Canadian wildfires in its oil sands region. Analysts said any disruption from the wildfires was likely to be temporary. So Brent crude is currently down more than 3% at $43.89 a barrel. An uncertain start on Wall Street, with the Dow Jones Industrial Average down around 35 points in early trading, did not help sentiment. Tony Cross, market strategist at Trustnet Direct, said:  Wall Street has kicked off the session finding little to cheer and this seems to be dragging on sentiment, although once again we\u2019ve seen the commodity stocks left languishing off the back of those worryingly bad import numbers from China. Commodity stocks have been in focus as a result of this and also some see-sawing in terms of oil prices. Those fires in Canada had been lending some support earlier in the day but the fact Saudi Arabia is set to maintain its strategy of fighting for market share regardless of cost is winning out.  So nine out of the leading top ten fallers in the FTSE 100 were commodity companies. Anglo American slumped nearly 14% to 559.5p, continuing its decline of the past few days, while Glencore was down almost 9% at 132.55p. Among the oil companies, BP fell 2.5% to 351.5p. Broker upgrades lifted AstraZeneca by 146p to 3944.5p and easyJet by 54p to \u00a314.70. AstraZeneca also launched a \u20ac2.2bn bond issue which will be used for \u201cgeneral corporate purposes\u201d including possible repayment of debt. Positive updates pushed G4S 8.9p higher to 193.2p and iodine producer Iofina by 27% to 17.5p. Lower down the market, digital media and technology company Milestone finished 11% higher at 0.7p as it signed an agreement with footballer Louis Saha\u2019s Axis Stars, which helps sports stars around the world to manage their careers better.",
+  "webTitle": "FTSE loses early gains as mining shares slump, with Anglo down 14%",
+  "webPublicationDate": "2016-05-09T16:40:20Z",
+  "webUrl": "https://www.theguardian.com/business/marketforceslive/2016/may/09/ftse-loses-early-gains-as-mining-shares-slump-with-anglo-down-14",
+  "keyword": [
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Stock markets",
+      "id": "business/stock-markets",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Anglo American",
+      "id": "business/anglo-american",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Glencore",
+      "id": "business/glencore",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "BP",
+      "id": "business/bp",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "AstraZeneca",
+      "id": "business/astrazeneca",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "G4S",
+      "id": "business/g4s",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Nick Fletcher",
+      "id": "profile/nickfletcher"
+    }
+  ],
+  "guardianId": "business/marketforceslive/2016/may/09/ftse-loses-early-gains-as-mining-shares-slump-with-anglo-down-14"
+}

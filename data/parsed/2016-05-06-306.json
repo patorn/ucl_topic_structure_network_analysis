@@ -1,0 +1,96 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/greenslade/2016/may/06/the-new-day-wins-plaudits-for-its-final-issues-main-story",
+  "id": "2016-05-06-306",
+  "sectionId": "media",
+  "body": "The New Day was determined to the last to do things differently. The nine-week newspaper waited until its final issue to publish a front page story that caught the attention of competing media. It got several mentions on Radio 4\u2019s Today programme on Friday morning, which treated it as if it was a major exclusive. Was it? Well, it was interesting... but only up to a point.  On the basis of the education department\u2019s figures, it revealed that \u201ccheating teachers... are fiddling the results of Sats exams\u201d in increasing numbers. This so-called \u201cmaladministration\u201d involved senior staff - including heads or deputy heads - helping classroom teachers to \u201cdoctor papers\u201d if a class had performed badly. The New Day quoted \u201ca primary school teacher with 20 years experience in schools in the north of England\u201d who said: \u201cThere are loads of ways that teachers help kids - from a little leg up to the downright dishonest.\u201d An accompanying panel listed examples of \u201chow teachers cheat\u201d. These included the explicit giving of correct answers to pupils; placing an emphasis on tricky syllables when reading out words in spelling tests; grooming children before the test starts by going over questions in advance; and going through papers afterwards to fill in missing answers and correcting incorrect ones. The story rested on the revelation of government figures showing that cheating by schools in key stage 2 Sats went up by 32% between 2012 and 2014 (from 345 to 506), and by \u201can incredible\u201d 72% in key stage 1 (from 25 to 89). That certainly showed that there had been an increase. But (and this is the \u201cup to a point\u201d bit) a statement by the National Association of Head Teachers put the problem in perspective:  \u201cThere are around 17,000 primary schools in England and around 500 reported cases of maladministration. Whilst some individual cases might require further scrutiny, the picture is one of a system that works well and is administered properly in the overwhelming majority of schools. Parents should have every confidence in the system.\u201d  So, sadly, the story didn\u2019t quite live up to its billing, which was true also of the paper itself. It was an experiment by Trinity Mirror that really should have stayed in the laboratory. Surely, on reflection, it would have been better to have spent a couple of million pounds improving the Daily Mirror\u2019s clunky website?  Or funding the hiring of more Mirror journalists. Or easing the worries of Mirror group pensioners (of whom, admittedly, I am one, as is my wife).  The company\u2019s chief executive, Simon Fox, says it has learned lessons from the failure. Plenty of observers, including rival publishers, editors and journalists (plus most of the Mirror\u2019s staff), couldn\u2019t see the point from the outset. Do we need to put our hands in the fire to learn a lesson about heat?",
+  "webTitle": "The New Day wins plaudits for its final issue's main story",
+  "webPublicationDate": "2016-05-06T07:29:47Z",
+  "webUrl": "https://www.theguardian.com/media/greenslade/2016/may/06/the-new-day-wins-plaudits-for-its-final-issues-main-story",
+  "keyword": [
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "The New Day",
+      "id": "media/new-day",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Sats",
+      "id": "education/sats",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Schools",
+      "id": "education/schools",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Radio 4",
+      "id": "media/radio4",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Trinity Mirror",
+      "id": "media/trinity-mirror",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "National newspapers",
+      "id": "media/national-newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers",
+      "id": "media/newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Simon Fox",
+      "id": "media/simon-fox",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Daily Mirror",
+      "id": "media/daily-mirror",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Education",
+      "id": "education/education",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Newspapers & magazines",
+      "id": "media/pressandpublishing",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "BBC",
+      "id": "media/bbc",
+      "sectionId": "media",
+      "sectionName": "Media"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Roy Greenslade",
+      "id": "profile/roygreenslade"
+    }
+  ],
+  "guardianId": "media/greenslade/2016/may/06/the-new-day-wins-plaudits-for-its-final-issues-main-story"
+}

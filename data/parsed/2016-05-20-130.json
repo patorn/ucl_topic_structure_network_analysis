@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/20/walt-disney-vice-media-tobacco-ads-frozen",
+  "id": "2016-05-20-130",
+  "sectionId": "media",
+  "body": "Anti-tobacco campaigners are pressuring Walt Disney to use its $400m (\u00a3274m) stake in Vice Media to stop the youth-focused media company from making ads for the tobacco industry. It was revealed by the Financial Times in March that Vice\u2019s London-based marketing agency Edition Worldwide was creating ads for Marlboro maker Phillip Morris.  The ads do not carry Vice branding, will not run on its properties and will not be used in the UK or US where there are strict rules against advertising cigarettes.    Related: Vice Media attacked for making tobacco adverts for Philip Morris    In the UK, the courts have just upheld legislation forcing tobacco products to be sold in plain packaging. However, in a letter seen by the Guardian addressed to Disney\u2019s corporate citizenship manager and copied to chief executive Bob Iger, the US-based Campaign for Tobacco Free Kids says the company should stop Vice from using its expertise to help tobacco companies target young people.  It also asks Disney, famous for its cartoons but now also the owner of blockbuster franchises Marvel and Star Wars, to provide a detailed description of the tobacco-related work Vice has done so that public health organisations can \u201cmake an assessment of the damage caused by Vice\u2019s activities\u201d. Although the letter was sent on 15 April, and asked for a response by 9 May, the Campaign for Tobacco Free Kids says it has received no communication from Disney. Though neither Vice nor Disney would comment on the letter, a Vice spokesperson said it was currently \u201cevaluating our global portfolio of businesses and agencies, and reviewing the work that they\u2019re conducting\u201d. The letter, from the Campaign for Tobacco Free Kids president Matthew L Myers, says: \u201cGiven the tobacco industry\u2019s long track record of targeting youth, it is highly irresponsible for Vice Media to use its expertise to help Phillip Morris find new ways to sell more of its deadly products, especially in low and middle income countries. \u201cWe are certain that the Walt Disney Company does not want to be associated with or support companies that act in a socially irresponsible manner and contribute to the global tobacco epidemic.\u201d Disney owns 10% of Vice, having doubled its stake in December with an injection of $200m. Other Vice investors include Rupert Murdoch\u2019s 21st Century Fox and A&E Television Networks, which is also hosting Vice\u2019s cable channel Viceland in the US. Viceland is set to launch in the UK on Sky, which is part owned by Fox. Edition was set up as a subsidiary of Vice UK called Talent Ventures last April and changed its name in January. Although a separate company, Matt Elek, Vice\u2019s Europe Middle East and Africa chief executive and Richard Waterlow, Vice\u2019s president of international, are listed as Edition\u2019s directors. Disney did not return repeated requests for comment.",
+  "webTitle": "Walt Disney under pressure to stop Vice Media making tobacco ads",
+  "webPublicationDate": "2016-05-20T14:15:42Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/20/walt-disney-vice-media-tobacco-ads-frozen",
+  "keyword": [
+    {
+      "webTitle": "Vice Media",
+      "id": "media/vice-media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Advertising",
+      "id": "media/advertising",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Digital media",
+      "id": "media/digital-media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Tobacco industry",
+      "id": "business/tobacco-industry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jasper Jackson",
+      "id": "profile/jasper-jackson"
+    }
+  ],
+  "guardianId": "media/2016/may/20/walt-disney-vice-media-tobacco-ads-frozen"
+}

@@ -1,0 +1,108 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/18/android-pay-apple-samsung-pay-google",
+  "id": "2016-05-18-282",
+  "sectionId": "technology",
+  "body": "Google\u2019s contactless smartphone payment system Android Pay has finally launched in the UK with support for MasterCard and Visa cards from at least eight banks. The service, which requires the Android Pay app, a smartphone running Android 4.4 KitKat or later and near field communications (NFC), will allow users to buy goods and services anywhere with a contactless payment terminal. Versions of Android supporting the new payment system, which include Android 4.4 KitKat, 5 Lollipop and 6 Marshmallow account for 75.6% of all Android devices in operation, according to data from Google. Not every Android smartphone supports NFC, however, but the contactless technology that also allows instant Bluetooth pairing with supported devices, is included on the majority of top and middle-tier Android smartphones sold in the UK. To pay for goods costing less than \u00a330 using Android Pay, the smartphone simply needs to be awake and tapped on to the contactless reader. For payments more than \u00a330, the user needs to authenticate the payment by unlocking their smartphone with either a pin, unlock pattern or fingerprint. Similar to Apple Pay on the iPhone and Samsung Pay on Samsung Android devices, Android pay uses tokenisation to secure your payment information. The user\u2019s credit card information is never sent, and transactions are immediately confirmed to aid in identification of suspicious activity if a user falls victim to fraud.     Android Pay supports Transport for London\u2019s tube network. Photograph: Google    Visa credit or debit cards and MasterCards from the Bank of Scotland, First Direct, Halifax, HSBC, Lloyds Bank, M&S Bank, MBNA and Nationwide Building Society will be supported from launch, with London\u2019s Underground network also supporting Android Pay for travel in the same way it does Apple Pay. Some apps will also allow users to use Android Pay to pay for goods and services on their devices instead of a traditional check out. JD Sports, Deliveroo and YPlan will be some of the first apps to support Android Pay for purchases. Google will also have a bespoke offer system called Android Pay Day, operating on the last Tuesday of the month starting in June when retailers including Starbucks UK and Deliveroo will have special offers. Loyalty cards can also be integrated into Android Pay. The UK is the first market out of the US to see Google\u2019s contactless payments system roll out, after Android Pay launched in the US in March last year. Samsung Pay has yet to reach the UK, leaving only a small collection of mobile-network tied contactless payment services and Apple Pay the only smartphone-based systems until now. Samsung Pay, which uses both NFC and magnetic stripe for payments, has yet to launch in the UK, but is expected soon. Over 84m contactless credit cards have been issued in the UK as of February 2016 and over \u00a31.3bn was spent using contactless payments in the month with usage growing 36.5% year-on-year. There are also 332,607 bank-owned contactless payment terminals across the UK, according to the UK Cards Association. \u201cThe number of contactless card payments is set to surpass 3bn in the UK this year,\u201d said Jeremy Light, managing director of Accenture Payment Services. \u201cFor the time being, however, cash remains king among UK consumers with more than half of transactions relying on coins or notes.\u201d The market opportunity for technologies companies including Google, Samsung and Apple is clear, but it is unclear how frequently smartphone-based payment solutions such as Apple Pay are being used. In January Transport for London recorded 3.2m journeys using mobile devices in six months from July, but Apple has yet to release numbers related to Apple Pay transactions. Barclays recently unveiled its own unrelated contactless payment app for Android devices, which is will be built into the Barclays mobile banking app.",
+  "webTitle": "Android Pay launches in the UK to rival Apple and Samsung Pay",
+  "webPublicationDate": "2016-05-18T09:00:25Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/18/android-pay-apple-samsung-pay-google",
+  "keyword": [
+    {
+      "webTitle": "Google",
+      "id": "technology/google",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Android",
+      "id": "technology/android",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Alphabet",
+      "id": "technology/alphabet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Smartphones",
+      "id": "technology/smartphones",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Contactless payments",
+      "id": "money/contactless-payments",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Mobile phones",
+      "id": "technology/mobilephones",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Banks and building societies",
+      "id": "money/banks",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Consumer affairs",
+      "id": "money/consumer-affairs",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "HSBC",
+      "id": "business/hsbcholdings",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Lloyds Banking Group",
+      "id": "business/lloyds-banking-group",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Nationwide",
+      "id": "business/nationwide",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Deliveroo",
+      "id": "business/deliveroo",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Samuel Gibbs",
+      "id": "profile/samuel-gibbs"
+    }
+  ],
+  "guardianId": "technology/2016/may/18/android-pay-apple-samsung-pay-google"
+}

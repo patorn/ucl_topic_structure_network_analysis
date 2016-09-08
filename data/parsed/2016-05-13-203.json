@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/commentisfree/2016/may/13/hysteria-immigration-statistics-migration-government",
+  "id": "2016-05-13-203",
+  "sectionId": "commentisfree",
+  "body": "The Office for National Statistics report published yesterday on migration has provoked some predictable hysteria: the Sun\u2019s headline is \u201cGreat Migrant Swindle\u201d, while Allison Pearson in the Telegraph claims that \u201cthe gap between ONS migrant figures and the truth is as wide as the Grand Canyon\u201d. This is absurd. The report contains a lot of technical detail and isn\u2019t an easy read even for experts. But a few key points stand out. First, it is clear that there has been a very large rise in short-term migration to the UK from the EU in recent years. Taking long-term and short-term migration together, the number of people moving to the UK from the EU in the most recent year for which we have figures was between 600,000 and 800,000 \u2013 nearly double the figure of five years earlier.    The ONS report isn\u2019t an easy read even for experts. But a few key points stand out    Second, this does indeed account for most of the widely publicised divergence between National Insurance number registrations and the official immigration statistics, based on the International Passenger Survey and which look at long-term migration only. However, in my view, it does not account for all of it. For example, the migration statistics show that 739,000 people arrived from other EU member states in the four years to June 2014, while the number registering for a NI number was 1,537,000. Most of this difference is accounted for by short-term migration. But the publication also reports that of those, 1 million were still active on HMRC computer systems in 2013-14 \u2013 that is, they were paying tax or claiming HMRC benefits. Some might still not be long-term migrants. But given that even this million is not a full count of those still in the UK \u2013 and the 739,000 also includes some people who will not need to register for an NI number, like children \u2013 it suggests that the 739,000 is an underestimate. Third, we can now evaluate the prime minister\u2019s claim, back in November, that \u201caround 40% of all recent European Economic Area migrants are supported by the UK benefits system\u201d. As I and others said at the time, this figure was dodgy then, and we now know it was false. The prime minister\u2019s claim was based on an estimate that about 130,000 recent EEA national adults were claiming benefits in March 2013; given the number recorded as being \u201cactive\u201d at some point in 2013-14 reached a million, his 40% looks like a gross exaggeration. Fourth, alongside the migration analysis, HMRC has also published important new data about the fiscal contribution made by recently arrived EEA nationals, showing that they paid more than \u00a33bn in taxes on income while claiming about \u00a30.5bn in HMRC benefits. This provides further confirmation that EU migrants have made a strongly positive contribution to the UK economy and public finances. What we should conclude from all this? First, they confirm the broad picture of the impact that EU migration has had on the UK labour market. It has created jobs, boosted growth and improved the public finances. It has, however, also increased mobility and \u201cchurn\u201d in the labour market and in UK society as a whole; it would be surprising if this did not have an impact on public services and housing at a local level. And this is happening at the same time as the government is \u2013 for its own mistaken reasons \u2013 cutting spending, especially by local authorities. It is hardly surprising that some of the negative impacts of this are attributed to immigration, even if it is not the underlying cause. Second, by first misrepresenting the extent to which recent European migrants claim benefits, and then by refusing, for obvious and shortsighted political reasons, to release the underlying data until forced to by the media and parliament, the government has damaged its own case. Overall, free movement within the EU benefits the UK economy, and today\u2019s figures further reinforce that. If the government had said so consistently all along \u2013 rather than repeating the myth of \u201cbenefit tourism\u201d long after it had been comprehensively debunked \u2013 then perhaps the current debate might be more constructive.   Related: Is there a cover-up over UK migration figures?    Finally, a personal note. I (like my colleagues in the UK in a Changing Europe programme) have no position on the referendum itself; our job is to inform the debate, not to take sides. But I am often asked whether, as an economist who thinks that a relatively liberal migration policy benefits the UK, I find it uncomfortable criticising the government on this issue. The answer is no. I think a full and open debate on these issues, informed by all the available evidence and data, is entirely positive. Those in the UK who oppose either European migration, or EU membership itself, frequently complain that somehow the British people were never consulted on whether or not we had \u201copen borders\u201d with the rest of the EU. Whatever the truth of that claim, it has considerable resonance. But after the referendum, it will no longer be true. If the UK votes to stay in, it will have done so in full knowledge that staying entails a commitment to free movement of workers in the EU, both in principle and practice, and the resulting migration flows. If we vote to leave, we will have rejected that, and we can move on to a debate about how to formulate migration policy in a new environment, unconstrained by EU membership. Either way, the question will be settled.",
+  "webTitle": "The hysteria about immigration statistics doesn\u2019t stand up to scrutiny | Jonathan Portes",
+  "webPublicationDate": "2016-05-13T11:48:22Z",
+  "webUrl": "https://www.theguardian.com/commentisfree/2016/may/13/hysteria-immigration-statistics-migration-government",
+  "keyword": [
+    {
+      "webTitle": "Immigration and asylum",
+      "id": "uk/immigration",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Migration",
+      "id": "world/migration",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Newspapers",
+      "id": "media/newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers & magazines",
+      "id": "media/pressandpublishing",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Office for National Statistics",
+      "id": "uk/office-for-national-statistics",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jonathan Portes",
+      "id": "profile/jonathan-portes"
+    }
+  ],
+  "guardianId": "commentisfree/2016/may/13/hysteria-immigration-statistics-migration-government"
+}

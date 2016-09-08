@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/science/2016/may/23/can-you-solve-it-dot-to-dot-puzzles-that-will-drive-you-dotty",
+  "id": "2016-05-23-296",
+  "sectionId": "science",
+  "body": "Hello guzzlers, Today we\u2019re drawing lines between dots.  Below are two sets of six dots in a hexagon. The number beside each dot describes the number of lines coming from that dot. On the left each dot only has a single line coming from it. On the right each dot has two lines.     Line dance.    Your first challenge is to continue up to five. Find a way to draw lines between each hexagonal set so that exactly 3 lines, exactly 4 lines and exactly five lines come from each dot. Lines must always join two different dots in the same hexagon, but they don\u2019t need to be straight. To make it more of a challenge, no two lines can join the same pair of dots. And for the 3-line and 4-line challenges lines cannot cross.     Hex-it    In the final puzzle below, each dot connects a different number of lines. Since the 8-dot has 8 lines coming from it, but there are only seven other dots, one of its lines will be a \u201crepeat\u201d line, joining to a dot that it is already joined to. The minimum number of \u201crepeat\u201d lines required for a solution to this puzzle is is 2. Can you find a solution with only two repeat lines? (Meaning that there will be 3 lines in total between the 8 and one of the other dots.)     Constellation of eight. Photograph: Alex Bellos    Today\u2019s puzzles are inspired by the wonderful puzzle book Without Words by Australian maths guru James Tanton. I had to adapt them since Without Words has, predictably, no words in it. Part of the puzzle is working out what the puzzle is. James is a co-founder of The Global Math Project, a program that plans \u201cto thrill one million students, teachers, and enthusiasts with an engaging piece of mathematics\u201d during a week in October 2017. \u201cThe goal is to share the marvel of mathematics with the world by simply decluttering mathematical content and revealing its inherent human connection, story, and natural uplifting joy,\u201d he says. Check it out. I\u2019ll be back later today with the solutions. I post a puzzle here on a Monday every two weeks. I\u2019m the author of three popular maths books including Alex\u2019s Adventures in Numberland and the maths colouring book Snowflake Seashell Star. You can check me out on Twitter, Facebook, Google+, my personal website or my Guardian maths blog.",
+  "webTitle": "Can you solve it? Dot-to-dot puzzles that will drive you dotty",
+  "webPublicationDate": "2016-05-23T06:15:04Z",
+  "webUrl": "https://www.theguardian.com/science/2016/may/23/can-you-solve-it-dot-to-dot-puzzles-that-will-drive-you-dotty",
+  "keyword": [
+    {
+      "webTitle": "Mathematics",
+      "id": "science/mathematics",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Education",
+      "id": "education/education",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Alex Bellos",
+      "id": "profile/alexbellos"
+    }
+  ],
+  "guardianId": "science/2016/may/23/can-you-solve-it-dot-to-dot-puzzles-that-will-drive-you-dotty"
+}

@@ -1,0 +1,90 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/07/bbc-netflix-data-twitter-facebook-bbc-id",
+  "id": "2016-05-07-170",
+  "sectionId": "media",
+  "body": "The BBC is following Netflix in using online viewing data to help it decide which programmes to make.  It is also experimenting with using social media such as Twitter and Facebook to help it make commissioning decisions.  The experiments are part of the corporation\u2019s myBBC project announced by director general Tony Hall last year to \u201creinvent public service broadcasting through data\u201d.    Related: Government could ask BBC to trial pay service as it closes 'iPlayer loophole'    The project has also gathered data from the 6 million-plus people who have signed up for a BBC iD that lets them access personalised services online. Phil Fearnley, who oversees the corporation\u2019s homepage and the MyBBC project, said the experiments with using data in commissioning were in the early stages and wouldn\u2019t supersede editorial judgments, but would help the BBC do a better job of giving licence fee payers what they wanted. \u201cWe are capturing 800m events a day,\u201d he said. \u201cRather than just looking at more traditional terms at Barb figures, and genres, and more demographic type data, we are now able to see this person who listened to this and also watched that. That data is a very different types of data set. \u201cWe are in the process of experimentation in a number of areas. Having access to real behavioural data of audiences certainly helps us with decisions about commissioning.\u201d He added: \u201cWe can also use social listening tools to look at conversations on the topic. We are doing experiments at the moment about whether we should commission certain types of content about how people are talking about it on the Twittersphere.\u201d News teams were already using data more extensively to work out what stories should feature on TV, with interest in online coverage of Greece\u2019s relationship with the European Union helping staff decide whether to feature the story in the evening bulletin. The data-led approach has been pioneered by companies like Netflix and Amazon, which closely study how people watch shows to decide where budgets should be spent.  Fearnley said the overall aim of MyBBC was to move beyond a broadcast model and take advantage of the opportunities presented by the interaction of audiences with the BBC different online channels. The BBC ID enables tailored services such as recommendations based on viewing habits or notifications when new content such as a video of a favourite musician or a report about a football team are published. Though many of the six million people who have signed up for a BBC ID do not appear to be using it regularly, more than a third up are using it at least once a month, and 10% are doing so ever day. People who are signed in consume 44% more hours of content, according to Fearnley. More than one million people have also signed up for a daily newsletter which recommends BBC content people might enjoy, up from 200,000 a year ago. Though the new personalisation features are proving popular with the public, they are likely to unsettle commercial rivals who have already expressed concern about the BBC\u2019s ability to cross-promote services. However, Fearnley said the project was designed to maximise the value licence fee payers get from the BBC.  He added: \u201cAudiences are clearly seeing significant value. It would far outweighs any perceived detriment.\u201d",
+  "webTitle": "BBC follows Netflix in using online viewing data to help it pick new shows",
+  "webPublicationDate": "2016-05-07T06:45:07Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/07/bbc-netflix-data-twitter-facebook-bbc-id",
+  "keyword": [
+    {
+      "webTitle": "BBC",
+      "id": "media/bbc",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "iPlayer",
+      "id": "media/iplayer",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Digital media",
+      "id": "media/digital-media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Television industry",
+      "id": "media/television",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Television",
+      "id": "culture/television",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Television & radio",
+      "id": "tv-and-radio/tv-and-radio",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Twitter",
+      "id": "technology/twitter",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Facebook",
+      "id": "technology/facebook",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jasper Jackson",
+      "id": "profile/jasper-jackson"
+    }
+  ],
+  "guardianId": "media/2016/may/07/bbc-netflix-data-twitter-facebook-bbc-id"
+}

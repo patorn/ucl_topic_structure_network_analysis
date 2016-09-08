@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/16/kent-police-ask-more-time-investigate-tory-election-spending-ukip-farage",
+  "id": "2016-05-16-83",
+  "sectionId": "politics",
+  "body": "Police investigating claims that Conservative party officials breached election laws while fighting off a challenge from the Ukip leader, Nigel Farage, have applied to the courts for more time to conclude their inquiries.  Kent police are believed to be the 11th force investigating claims that the party has misallocated spending during the 2015 general election campaign.  The Conservatives have previously denied any wrongdoing and say all the party\u2019s election expenses complied with the law. But senior Tories admit that the inquiries, sparked by a Channel 4 News investigation, have become a \u201csignificant inconvenience\u201d for the party in the middle of a divisive and fraught campaign to remain in the EU. Kent police was among the several forces that attended a meeting last week with the Electoral Commission and the Crown Prosecution Service to discuss the issue. Detectives from Kent are focusing on the battle for South Thanet, when dozens of Conservative activists were bussed in to the area to combat Ukip activists. The claims centre on whether the expenses run up by the Conservatives in the South Thanet campaign were properly reported to the Electoral Commission. General election campaigns allow candidates to spend between \u00a310,000 and \u00a316,000 depending on the size of the electorate. In South Thanet, the Conservative candidate Craig Mackinlay said his campaign spent just below the limit of \u00a315,016. Under election laws, any costs incurred to promote a candidate must be declared on local candidate spending returns. Receipts showed that \u00a318,000 was spent accommodating Conservative party workers in the Royal Harbour hotel in Ramsgate, and a Premier Inn in Margate, which were not declared on the spending return. Instead, they appear on the Conservative party\u2019s national expenses \u2013 which is usually reserved for party-wide costs. A further \u00a3715 was spent on the Alpha hostel, used to accommodate a busload of activists who took part in a \u201cStop Farage\u201d campaign. The costs for the hostel do not appear to have been declared. Ten other police forces have announced they are examining candidate spending. These are Cheshire, Gloucestershire, Greater Manchester police, Lincolnshire, Northamptonshire, Nottinghamshire, Staffordshire, Warwickshire, West Mercia on behalf of Devon and Cornwall, and West Yorkshire. In theory, if Conservative MPs or their agents are found guilty of deliberately breaching election rules by diverting or obscuring their expenses they could be forced to resign from office. This could mean that the government, which has a majority of 17, could fall.  But legal experts have told the Guardian that police and the Crown Prosecution Service may face difficulties in successfully bringing such cases to court.  Prosecutors could struggle to prove an intention to deceive by MPs and agents who signed off the election expenses, one election law specialist said.  They will also have to prove that these same party officials knew that outside supporters had been bussed in specifically to help their local campaign and that accommodation had been paid for by the central party. The Electoral Commission is also examining claims of election expense irregularities surrounding the 2015 general election as well as additional allegations that the Conservatives failed to declare almost \u00a3100,000 during byelection campaigns in Rochester and Strood, Clacton-on-Sea and Newark-upon-Trent during 2014. A spokesman for Kent police confirmed the force were seeking an extension, adding that no date had yet been set for its application to the court. Under electoral law, claims made about the conduct of an election have to be made within 12 months of the ballot unless there are exceptional circumstances. A Conservative party spokesman said \u201can administrative error\u201d had been made while filing its expenditure for the party\u2019s battlebus but said that an amendment had been sent to the Electoral Commission to correct official records.  \u201cThe party always took the view that our national Battlebus, a highly publicised campaign activity, was part of the national return \u2013 and we would have no reason not to declare it as such, given that the party was some millions below the national spending threshold. Other political parties ran similar vehicles which visited different parliamentary constituencies as part of their national campaigning,\u201d he said.  Labour is also facing questions over its spending in the run-up to last year\u2019s general election. One website claimed on Monday that a visit by the \u201cLabour Express\u201d battle bus tour to the west London marginal seat of Ealing and Acton was not declared as a local election expense.  A Labour spokeswoman said the story was wrong. \u201cThis was part of a nationally branded tour so the transport costs are rightly national spend. Labour\u2019s spending is within the law and the rules set out by the Electoral Commission,\u201d she said.",
+  "webTitle": "Kent police to ask for more time to investigate Tory election spending",
+  "webPublicationDate": "2016-05-16T18:12:47Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/16/kent-police-ask-more-time-investigate-tory-election-spending-ukip-farage",
+  "keyword": [
+    {
+      "webTitle": "Conservatives",
+      "id": "politics/conservatives",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "General election 2015",
+      "id": "politics/general-election-2015",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK Independence party (Ukip)",
+      "id": "politics/ukip",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Police",
+      "id": "uk/police",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Rajeev Syal",
+      "id": "profile/rajeev-syal"
+    }
+  ],
+  "guardianId": "politics/2016/may/16/kent-police-ask-more-time-investigate-tory-election-spending-ukip-farage"
+}

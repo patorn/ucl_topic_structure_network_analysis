@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/10/facebook-denies-censoring-conservative-trending-news",
+  "id": "2016-05-10-275",
+  "sectionId": "technology",
+  "body": "Facebook has denied reports that it censors conservative publications from its \u201ctrending topics\u201d. A report by Gizmodo said staff who aggregated content for Facebook were encouraged to ignore news from fringe conservative sites such as Breitbart until it appeared on more mainstream sites such as CNN. Tom Stocky, the company\u2019s vice president of search, wrote in a Facebook post that \u201cwe take these reports extremely seriously, and have found no evidence that the anonymous allegations are true\u201d. He added that what was being alleged would be not be \u201ctechnically feasible\u201d. He wrote: \u201cWe have in place strict guidelines for our trending topic reviewers as they audit topics surfaced algorithmically. Reviewers are required to accept topics that reflect real world events, and are instructed to disregard junk or duplicate topics, hoaxes or subjects with insufficient sources. Facebook does not allow or advise our reviewers to systematically discriminate against sources of any ideological origin and we\u2019ve designed our tools to make that technically not feasible.\u201d As well as reporting that Facebook discriminates against conservative sites, Gizmodo alleged that Facebook manipulates trends to ensure that weighty news appears on the list even when there\u2019s little conversation around it. One example given was Black Lives Matter, the American civil rights movement. \u201cFacebook got a lot of pressure about not having a trending topic for Black Lives Matter,\u201d a former aggregator told Gizmodo, so \u201cthey realised it was a problem, and they boosted it in the ordering. They gave it preference over other topics.\u201d Stocky also denied that report. \u201cWe looked into that charge and found that it is untrue. We do not insert stories artificially into trending topics, and do not instruct our reviewers to do so.\u201d After the initial report, editors of the conservative sites expressed their outrage at the suggestion they had been overlooked by Facebook\u2019s aggregators. Breitbart News\u2019s editor in chief, Alex Marlow, said the report confirmed \u201cwhat conservatives have long suspected: Facebook\u2019s trending news artificially mutes conservatives and amplifies progressives\u201d. Marlow added: \u201cFacebook claims its algorithm simply populates \u2018topics that have recently become popular on Facebook\u2019 in its trending news section, but now we know that\u2019s not true.\u201d Hugo Gurdon, the Washington Examiner\u2019s editorial director, said: \u201cWe\u2019ve read the report, and it is obviously of considerable interest to us. We plan on working with Facebook to ensure Washington Examiner\u2019s valuable content gets the attention it obviously deserves.\u201d It\u2019s the second time in a week that Facebook has had to answer difficult questions about how its trending topics work. A previous report by Gizmodo alleged that the journalists who work on the trending product were never explicitly told to avoid outlets like Breitbart, The Blaze or World Star Hip Hop, but would regularly avoid the sites anyway. Similarly, they were discouraged from mentioning the rival social network Twitter in their summaries, instead referring to \u201csocial media\u201d. But at least one story which might previously have been swept under the carpet was trending on Facebook on Tuesday morning: under the headline \u201cFacebook Trending\u201d was a link to Gizmodo\u2019s original news story.",
+  "webTitle": "Facebook denies censoring conservative stories from trending topics",
+  "webPublicationDate": "2016-05-10T08:35:04Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/10/facebook-denies-censoring-conservative-trending-news",
+  "keyword": [
+    {
+      "webTitle": "Facebook",
+      "id": "technology/facebook",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Internet",
+      "id": "technology/internet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Social networking",
+      "id": "media/socialnetworking",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Censorship",
+      "id": "world/censorship",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Alex Hern",
+      "id": "profile/alex-hern"
+    }
+  ],
+  "guardianId": "technology/2016/may/10/facebook-denies-censoring-conservative-trending-news"
+}

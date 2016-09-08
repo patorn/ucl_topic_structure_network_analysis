@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/greenslade/2016/may/19/first-news-organises-a-childrens-debate-in-commons-on-the-eu",
+  "id": "2016-05-19-246",
+  "sectionId": "media",
+  "body": "The outcome of the EU referendum vote will affect Britain\u2019s rising generation who are too young to register a vote.  But what do they think? What worries them about the future of this country\u2019s relationship with the European Union?  And what do they want to say to politicians who are currently touring the UK to make their case, whether to Remain or to Leave?  First News, the newspaper with a wide circulation among Britain\u2019s children, is staging a special referendum debate in the Commons next Monday (23 May) for a 100-strong contingent of their readers  The children, aged seven to 14, were selected after their teachers sent in videos to the paper. They will argue whether the UK should stay in the EU or leave at a debate presided over by the Speaker, John Bercow, at the state rooms in his Commons residence. The event will start with videos made by the in and out campaigns. Then four children will lead off the discussion before it is thrown open to the rest. Finally, the whole group will have the chance to vote.",
+  "webTitle": "First News organises a children's debate in Commons on the EU",
+  "webPublicationDate": "2016-05-19T10:23:39Z",
+  "webUrl": "https://www.theguardian.com/media/greenslade/2016/may/19/first-news-organises-a-childrens-debate-in-commons-on-the-eu",
+  "keyword": [
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers",
+      "id": "media/newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "House of Commons",
+      "id": "politics/houseofcommons",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Children",
+      "id": "society/children",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "John Bercow",
+      "id": "politics/john-bercow",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Roy Greenslade",
+      "id": "profile/roygreenslade"
+    }
+  ],
+  "guardianId": "media/greenslade/2016/may/19/first-news-organises-a-childrens-debate-in-commons-on-the-eu"
+}

@@ -1,0 +1,25 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/20/chatterbox-friday",
+  "id": "2016-05-20-304",
+  "sectionId": "technology",
+  "body": "Yay, Friday! And comments are open now!",
+  "webTitle": "Chatterbox: Friday",
+  "webPublicationDate": "2016-05-20T06:58:03Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/20/chatterbox-friday",
+  "keyword": [
+    {
+      "webTitle": "Games",
+      "id": "technology/games",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [],
+  "guardianId": "technology/2016/may/20/chatterbox-friday"
+}

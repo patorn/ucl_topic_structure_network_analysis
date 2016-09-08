@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/10/leigh-halfpenny-wales-squad-new-zealand-rugby-union",
+  "id": "2016-05-10-227",
+  "sectionId": "sport",
+  "body": "Leigh Halfpenny has been left out of the Wales squad to tour New Zealand in the summer. The Toulon full-back has been out of action since damaging his knee ligaments in a World Cup warm-up against Italy in September. Halfpenny had targeted a return to action with the French club this season but suffered another setback which involved an operation in April. Sam Warburton leads the 35-man squad as expected with the coach Warren Gatland opting for experience ahead of youth and including no new caps in the party. Warburton injured a shoulder playing for Cardiff Blues against Ospreys on 30 April and has not played since. Wales will take on England at Twickenham on 29 May and then face three Tests against the All Blacks in June. Gatland said: \u201cWe have picked a squad that is packed full of experience for what is going to be a challenging, but exciting, five-match campaign. \u201cWe will be facing the Six Nations champions at Twickenham first up, and that will be an important start to the tour and will set the tone for the weeks ahead. \u201cWe will have a bit of time together when we land in New Zealand before the first Test, then it\u2019s into three Test matches against the All Blacks, plus a midweek match against the Chiefs. \u201cIt is a great opportunity for us to test ourselves, build on the World Cup and the Six Nations, and it\u2019s a challenge we are all looking forward to. \u201cWe are in a great position in terms of the experience in the squad, especially when you look at the age of most of the players, and this is going to be another important summer.\u201d Wales squad Backs G Davies (Scarlets), R Webb (Ospreys), L Williams, G Anscombe (both Cardiff), D Biggar (Ospreys), R Priestland (Bath), J Davies (Clermont Auvergne), T Morgan (Newport), J Roberts (Harlequins), S Williams (Scarlets), H Amos (Newport), M Morgan (Bristol), T James (Cardiff), G North (Northampton), E Walker (Ospreys), L Williams (Scarlets) Forwards R Evans (Scarlets), T Francis (Exeter), P James (Ospreys) G Jenkins (Cardiff), R Jones, S Lee (both Scarlets), S Baldwin (Ospreys), K Dacey (Cardiff), K Owens (Scarlets), J Ball (Scarlets), L Charteris (Racing), B Davies (Wasps), A Wyn Jones (Ospreys), T Faletau (Newport), J King, D Lydiate (both Ospreys), R Moriarty (Gloucester), J Turnbull (Cardiff), S Warburton (capt, Cardiff) Wales schedule Sun 29 May England v Wales (Twickenham Stadium) Sat 11 June New Zealand v Wales (Eden Park) Tue 14 June Chiefs v Wales (FMG Stadium) Sat 18 June New Zealand v Wales (Westpac Stadium) Sat 25 June New Zealand v Wales (Forsyth Barr Stadium)",
+  "webTitle": "Leigh Halfpenny left out of Wales squad to tour New Zealand",
+  "webPublicationDate": "2016-05-10T10:39:58Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/10/leigh-halfpenny-wales-squad-new-zealand-rugby-union",
+  "keyword": [
+    {
+      "webTitle": "Wales rugby union team",
+      "id": "sport/wales-rugby-union-team",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "New Zealand rugby union team",
+      "id": "sport/new-zealand-rugby-union-team",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Rugby union",
+      "id": "sport/rugby-union",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "sport/2016/may/10/leigh-halfpenny-wales-squad-new-zealand-rugby-union"
+}

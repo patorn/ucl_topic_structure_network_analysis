@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/14/jobs-rural-youth-employment-city-living-",
+  "id": "2016-05-14-16",
+  "sectionId": "uk-news",
+  "body": "Living the good life can seriously damage your wealth. Research suggests that anyone aspiring to live in the countryside, but wanting to climb the earnings ladder, should do so only after a lengthy spell of urban dwelling. The first analysis of its kind, published by the British Sociological Association in the journal Work, Employment and Society, has found that people who grow up in rural areas earn less than their urban equivalents even after they move to cities for work. Martin Culliney, of Sheffield Hallam University, tracked the income of 1,594 people aged 15-24 over a near 20-year period. He found that in 2008-09, net take-home pay for those living in rural areas was about \u00a3900 a year less than for those living in towns and cities. The best paid were those who had started off in a town or city and then moved to a rural area. Net take-home pay for those working full-time was about \u00a323,400 a year. Those who stayed in rural areas or moved from rural to urban areas had the lowest net take-home pay, about \u00a314,400 to \u00a318,400 a year for full-time workers. \u201cYoung people who remain in rural locations earn less money than their urban peers,\u201d said Culliney. This is perhaps unsurprising. Rural areas offer fewer jobs and a limited range of careers. But the fact the gap persists even among those country dwellers prepared to move was concerning, he said. \u201cSimply being of rural origin brought respondents less pay across the whole 18-year observation window,\u201d said Culliney, who warned that the findings could be interpreted by young people as \u201cconveying a rather fatalistic message\u201d \u2013 that they will suffer a \u201cpay penalty into adulthood\u201d, even if they relocate to towns and cities. The economic plight of young people in rural areas is in marked contrast with older countryside dwellers, who tend to earn more. The research suggests that the countryside risks becoming unaffordable to younger generations. \u201cIf young people remaining in rural areas face greater living costs while their earnings increase at a slower pace than other groups, what can be done to ensure that they do not suffer?\u201d Culliney asked. \u201cLess disposable income in rural locations surely acts to the detriment of local services such as shops and pubs, which also perform important social functions in the communities they serve.\u201d",
+  "webTitle": "A move to the country will hit your wallet",
+  "webPublicationDate": "2016-05-14T23:05:08Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/14/jobs-rural-youth-employment-city-living-",
+  "keyword": [
+    {
+      "webTitle": "Rural affairs",
+      "id": "uk/ruralaffairs",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Pay",
+      "id": "money/pay",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jamie Doward",
+      "id": "profile/jamiedoward"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/14/jobs-rural-youth-employment-city-living-"
+}

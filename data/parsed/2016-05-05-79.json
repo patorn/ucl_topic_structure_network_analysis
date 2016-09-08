@@ -1,0 +1,84 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/05/climate-change-coal-power-asia-world-bank-disaster",
+  "id": "2016-05-05-79",
+  "sectionId": "environment",
+  "body": "Plans to build more coal-fired power plants in Asia would be a \u201cdisaster for the planet\u201d and overwhelm the deal forged at Paris to fight climate change, the president of the World Bank said on Thursday.  In an unusually stark warning, the World Bank president, Jim Yong Kim, noted that countries in south and south-east Asia were on track to build hundreds more coal-fired power plants in the next 20 years \u2013 despite promises made at Paris to cut greenhouse gas emissions and pivot to a clean energy future.  In the US, coal use is in sharp decline \u2013 and the country\u2019s biggest companies are in bankruptcy. But there is still strong demand for coal in south Asia and east Asia, where tens of millions still have no access to electricity.   Related: Donald Trump's election would derail Paris climate deal, warns its architect    On their own, China, India, Indonesia and Vietnam account for three-quarters of new coal-fired power plants expected to be built around the world in the next five years. In India alone about 300 million people live without access to electricity. \u201cIf Vietnam goes forward with 40GW of coal, if the entire region implements the coal-based plans right now, I think we are finished,\u201d Kim told a two-day gathering of government and corporate leaders in Washington, in a departure from his prepared remarks.  \u201cThat would spell disaster for us and our planet.\u201d Putting coal-fired plants on hold \u2013 permanently \u2013 and making it affordable and practical for countries to replace fossil fuels with clean sources of energy such as wind and solar was the prime focus of the two-day meeting, and the bank\u2019s new mission. The bank said last month it would devote 28% of its spending to climate change projects. The gathering, which came just two weeks after 175 governments reaffirmed their commitment to the Paris agreement in a symbolic signing ceremony at the United Nations, was part of a packed calendar of climate events in 2016. Government and business leaders involved in brokering the milestone agreement to fight climate change at Paris are desperate to avoid inertia now a deal has been done.  The months until the next annual climate meeting, scheduled for Morocco in November, are studded with conferences intended to turn the promises made at Paris into concrete actions. The UN secretary general, Ban Ki-moon, is pushing hard for governments to formally join the agreement and bring it into force before Barack Obama leaves office in January 2017. That would help protect the agreement from a future president \u2013 such as the presumptive Republican nominee, Donald Trump \u2013 who denies or doubts that climate change is even occurring. Mayors and business leaders at the gathering in Washington said governments also needed to move swiftly to remove barriers to investment in clean energy, especially in developing countries.    Related: Paris agreement is a strong signal that 'we will solve climate crisis', Al Gore says    \u201cWe have to keep people\u2019s trust in us after Paris,\u201d Hakima El Haite, Morocco\u2019s environment minister, told the gathering. \u201cPeople are not going to say: \u2018let\u2019s wait for 2020 to find different solutions \u2026 They are not going to wait for a committee on finance to come up with a new statement. They would like a solution.\u201d One of their biggest challenges is the projected new investment in coal-fired power plants in Asia.  According to figures from Platts Energy, China is planning 150GW of new coal plants by 2020, down from 270GW in the last five years. India, although it has declared ambitious plans for solar power, is increasing its share of coal by 125GW. Indonesia is planning to build twice as many new coal plants, or about 25GW. According to John Roome, the Bank\u2019s senior climate change official, if all of those plants are built it will blow the world\u2019s efforts, enshrined at Paris, to hold warming to 2C.  \u201cIf all of the business-as-usual coal-fired power plants in India, China, Vietnam and Indonesia all came online that would take up a very significant part \u2013 in fact almost all \u2013 of the carbon budget,\u201d Roome said. \u201cIt would make it highly unlikely that we would be able to get to 2C.\u201d Jeffrey Sachs, director of Columbia University\u2019s Earth Institute, was even more blunt.  He told the meeting: \u201cJust don\u2019t build more coal-fired power plants, please, because then we blow the carbon budget.\u201d",
+  "webTitle": "Plans for coal-fired power in Asia are 'disaster for planet' warns World Bank",
+  "webPublicationDate": "2016-05-05T18:02:12Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/05/climate-change-coal-power-asia-world-bank-disaster",
+  "keyword": [
+    {
+      "webTitle": "Climate change",
+      "id": "environment/climate-change",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Coal",
+      "id": "environment/coal",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Fossil fuels",
+      "id": "environment/fossil-fuels",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Energy",
+      "id": "environment/energy",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "China",
+      "id": "world/china",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Vietnam",
+      "id": "world/vietnam",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Indonesia",
+      "id": "world/indonesia",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "India",
+      "id": "world/india",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Asia Pacific",
+      "id": "world/asia-pacific",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "South and Central Asia",
+      "id": "world/south-and-central-asia",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Suzanne Goldenberg",
+      "id": "profile/suzannegoldenberg"
+    }
+  ],
+  "guardianId": "environment/2016/may/05/climate-change-coal-power-asia-world-bank-disaster"
+}

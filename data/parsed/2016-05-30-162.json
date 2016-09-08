@@ -1,0 +1,49 @@
+{
+  "apiUrl": "https://content.guardianapis.com/childrens-books-site/2016/may/30/kook-chris-vick-review",
+  "id": "2016-05-30-162",
+  "sectionId": "childrens-books-site",
+  "body": "Kook by Chris Vick is about a 16-year-old boy called Sam. The book starts as he moves from London to Devon, along with his mother and sister.  At first, Sam is far from happy about the move, but as he gets to know a group of surfers, life suddenly becomes much more interesting. As Sam settles into this new life of surfing with his new friends and the beautiful Jade, the line between right and wrong starts to fade. The book is a gripping novel about just that, choices.       Buy this book at the Guardian Bookshop  Want to tell the world about a book you\u2019ve read? Join the site and send us your review!",
+  "webTitle": "Kook by Chris Vick \u2013 review",
+  "webPublicationDate": "2016-05-30T08:00:28Z",
+  "webUrl": "https://www.theguardian.com/childrens-books-site/2016/may/30/kook-chris-vick-review",
+  "keyword": [
+    {
+      "webTitle": "Children and teenagers",
+      "id": "books/booksforchildrenandteenagers",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Teen books",
+      "id": "books/teen-books",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Friendship (children and teens)",
+      "id": "books/friendship",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Books",
+      "id": "books/books",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Teen romance (childrens and teens)",
+      "id": "books/teen-romance",
+      "sectionId": "books",
+      "sectionName": "Books"
+    }
+  ],
+  "authors": [],
+  "guardianId": "childrens-books-site/2016/may/30/kook-chris-vick-review"
+}

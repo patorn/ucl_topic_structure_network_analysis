@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/money/2016/may/10/house-price-rises-buy-to-let-returns-outstrip-ftse-100",
+  "id": "2016-05-10-78",
+  "sectionId": "money",
+  "body": "Landlords in England and Wales made average returns of 9.6% on buy-to-let properties in the year to the end of March, and 16.5% if they bought in London \u2013 better than almost any other major class of investment.  But returns in some parts of the country were weaker, with the average property investor making a gain of 2.6% in the north-east, and 4.5% in Yorkshire and Humberside, according to the Property Partner Residential Market Index (PPRMI). Over the same period, the FTSE 100 index of shares fell by 3.9%, while deposits in even the best cash Isas have earned only 1.4%.  The PPRMI said the vast bulk of the returns made by landlords has come from rising house prices rather than rents. In London it said the income return from charging rents was only 2.6% over the past year, with landlords making large gains \u2013 on paper \u2013 from the rise in house prices. The figures are for total returns based on a cash investor who does not pay a mortgage, and are before tax. But the compilers of the index said the numbers include all the main costs of managing a property, voids and letting fees.  For buyers with a mortgage the returns have been even higher, PPRMI said. It gave the example of a buyer in Bedford in March 2015, who paid just less than \u00a3200,000 for an investment property.  Assuming the buyer took out a 60% mortgage, PPRMI estimated that the return would have been nearly 27%, far outstripping almost anything else available to conventional investors.  It said that while the landlord would barely have made any money on the rent, with the mortgage and fees costing nearly as much as the rent earned, the price of the house in Bedford would have gone up \u00a321,000.  The past year has marked another extraordinary period of returns for buy-to-let mortgage holders, who PPRMI estimate to have made an average of 24.3% a year over the past 20 years in London, and 14.75% outside.  But as new tax rules on buy to let come into force, PPRMI warn that returns in 2017 for traditional buy to let investors with a mortgage are likely to be much lower. Rob Weaver, director of investment at Property Partner, said: \u201cThe government has changed the whole structure of the UK market, making traditional buy-to-let far less attractive on paper, particularly for amateur investors buying properties with a mortgage. \u201cWe saw a rush of landlords buying investment properties before the 1 April stamp duty deadline, but the savings they made may well turn into losses further down the track. \u201cFactor in future cuts to mortgage interest tax relief and likely interest rate rises, and any profits could be wiped out, forcing many landlords to sell up.\u201d \u2022 This article was amended on 11 May 2016. An earlier version said the property index shows average buy-to-let gains of 9.6% in England and Wales, compared to 3.9% on the stock market; that has been corrected to \u2018a fall of 3.9% on the stock market.\u2019",
+  "webTitle": "House price rises see buy-to-let returns outstrip FTSE 100",
+  "webPublicationDate": "2016-05-10T17:37:20Z",
+  "webUrl": "https://www.theguardian.com/money/2016/may/10/house-price-rises-buy-to-let-returns-outstrip-ftse-100",
+  "keyword": [
+    {
+      "webTitle": "Buying to let",
+      "id": "money/buying-to-let",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "House prices",
+      "id": "money/houseprices",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Property",
+      "id": "money/property",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Housing market",
+      "id": "business/housingmarket",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Investing",
+      "id": "business/investing",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Investments",
+      "id": "money/moneyinvestments",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Financial sector",
+      "id": "business/financial-sector",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Patrick Collinson",
+      "id": "profile/patrickcollinson"
+    }
+  ],
+  "guardianId": "money/2016/may/10/house-price-rises-buy-to-let-returns-outstrip-ftse-100"
+}

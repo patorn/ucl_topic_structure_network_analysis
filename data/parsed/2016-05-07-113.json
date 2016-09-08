@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/07/thunderstorm-warning-england-wales-hottest-weekend-uk-weather",
+  "id": "2016-05-07-113",
+  "sectionId": "uk-news",
+  "body": "Thunderstorm warnings have been issued for England and Wales, with expectations widespread that it will be the hottest weekend of the year so far. Forecasters said there was a risk of isolated intense thunderstorms developing on Saturday afternoon and evening in London and the south-east, the east and west Midlands, north-west and south-west England, Yorkshire and the Humber, as well as Wales. The Met Office warned of the possibility of torrential downpours, lightning and hail, with resultant flooding. Some very localised strong and gusty winds were also possible, it said. The warnings have been issued as much of the UK basks in sunshine and unseasonably warm temperatures, with the London region heading for 25C (77F) on Saturday and 26C (79F) on Sunday \u2013 about 10 degrees higher than the monthly average.      People relaxing in the sun near City Hall in London on Friday. Photograph: James Gourley/Rex/Shutterstock    Not all regions will benefit from the good weather, however, with cooler temperatures and low cloud in the north-east, and more persistent rain over parts of Scotland and Northern Ireland. Stornoway, on Lewis in the Outer Hebrides, is heading for a maximum on Saturday of just 9C (48F). Thundery downpours are expected to move northwards across western parts of England and Wales on Saturday night, but other parts should be dry with clear spells. The fine spells are the result of a low pressure system south of the UK and higher pressure over Scandinavia. People planning to enjoy the sun this weekend have been advised to use sunscreen to protect themselves against high UV levels. They will rise across much of the south-east and Norfolk in the early afternoon, with even higher levels expected on Sunday afternoon.    If it's mud you want then it is mud you shall have. #MuddyDog Challenge at #BrockwellPark in the #sunshine pic.twitter.com/DvTnMZsIfY\u2014 BatterseaDogs&Cats (@BDCH) May 7, 2016    The tables will be turned on Monday, however, with lower UV levels forecast in the south-east than much of the rest of England and large parts of Scotland and Northern Ireland. The warm conditions are expected to continue well into next week, with the best of the weather across Scotland and Northern Ireland during the period, according to the Met Office. It will turn unsettled, with thundery downpours across England and Wales, later in the week, forecasters said.",
+  "webTitle": "Thunderstorm warnings for England and Wales as temperatures soar",
+  "webPublicationDate": "2016-05-07T11:03:27Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/07/thunderstorm-warning-england-wales-hottest-weekend-uk-weather",
+  "keyword": [
+    {
+      "webTitle": "Weather",
+      "id": "uk/weather",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Wales",
+      "id": "uk/wales",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Chris Johnston",
+      "id": "profile/chris-johnston"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/07/thunderstorm-warning-england-wales-hottest-weekend-uk-weather"
+}

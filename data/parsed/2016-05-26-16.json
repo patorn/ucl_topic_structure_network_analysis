@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/26/alex-salmond-scottish-independence-vote-likely-brexit",
+  "id": "2016-05-26-16",
+  "sectionId": "politics",
+  "body": "The Scottish government would hold a fresh independence referendum \u2013 and win it \u2013 within two years, if Scotland was at risk of being \u201cdragged\u201d out of the European Union after June\u2019s referendum, Alex Salmond has said.   Brexit explained: current polling   Salmond, the former first minister and now the Scottish National party\u2019s foreign affairs spokesman in Westminster, was speaking in the first televised debate of the referendum campaign, staged by the BBC in Glasgow. He was asked by a student called Eleanor from Dundee, whether the SNP would seek to trigger another \u201cunwanted\u201d referendum, if Scotland voted to remain in the EU but the overall result was a vote to leave. \u201cIf you have the situation where Scotland in four weeks time votes remain and the rest of the UK, or England, drags Scotland out by voting to leave then that would justify in my opinion another referendum,\u201d he said. He added that the vote would have to be called within two years, due to a exit clause under article 50 of the Libson treaty and he would expect it to be won. \u201cIn the circumstances of Scotland being threatened with being dragged out of the EU against their will I think the result would be yes this time.\u201d However, the Conservative MP Liam Fox, representing the campaign to leave the EU, said: \u201cOur membership of the EU is a decision we take as a United Kingdom. Every vote\u2019s the same, whether it\u2019s in Stornoway or St Ives, it\u2019s a decision for every individual in the UK and we should take it on its merits.\u201d   Related: Second Scottish independence vote not yet on table, says Nicola Sturgeon    Salmond was appearing alongside former home secretary Alan Johnson, the leader of the Labour In campaign, who highlighted the risks to jobs and growth of leaving. Fox was joined on the leave side of the argument by UKip MEP Diane James. There were a series of spiky exchanges about immigration, with Salmond pointing out the importance of EU workers to the NHS, while James suggested house prices had been driven up by the influx of EU migrants. A young woman called Emily, from Poole, provoked a noisy response from the audience as well as the panel-members when she claimed her mother was missing out on a council home because immigrants had been \u201cbumped up the list\u201d.  Salmond responded: \u201cIf we have a housing shortage we should build more houses, not kick people out of the country,\u201d James said she would like to see more migration from English-speaking non-EU countries, such as Australia and New Zealand. She also admitted that it was unclear whether British citizens would need visas to travel across the continent in the event of Brexit. \u201cWe just don\u2019t know,\u201d James said, a phrase that was immediately seized upon by remain campaigners. Several members of the audience bemoaned the tone of the referendum debate more broadly, with one man, Kieran, saying both sides had resorted to \u201cdeflections, insults and petty name-calling\u201d. He added: \u201cI have no idea what to do and I blame you lot for that.\u201d The final speaker from the audience said she would like to see, \u201cstatistics that are real, and that everyone can agree on\u201d.",
+  "webTitle": "Alex Salmond says second Scotland referendum likely in event of Brexit",
+  "webPublicationDate": "2016-05-26T21:50:34Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/26/alex-salmond-scottish-independence-vote-likely-brexit",
+  "keyword": [
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Scottish politics",
+      "id": "politics/scotland",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Scotland",
+      "id": "uk/scotland",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Heather Stewart",
+      "id": "profile/heatherstewart"
+    }
+  ],
+  "guardianId": "politics/2016/may/26/alex-salmond-scottish-independence-vote-likely-brexit"
+}

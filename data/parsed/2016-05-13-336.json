@@ -1,0 +1,49 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sustainable-business/2016/may/13/tantalisingly-close-is-solar-thermal-energy-ready-to-replace-coal-fired-power",
+  "id": "2016-05-13-336",
+  "sectionId": "sustainable-business",
+  "body": "Companies working on large-scale solar thermal projects in Australia say they are tantalisingly close to achieving the dream of building plants big enough to replace coal-fired energy in Australia. Experts speaking at the Australian Solar Energy Exhibition and Conference in Melbourne last week said the technology had been proven in other countries, and projects in Australia were viable, but the challenge was getting major investors to gamble on something new. James Fisher, the chief technology officer of Australian solar energy company Vast Solar, said solar thermal energy had been the \u201cpoor cousin\u201d to photovoltaic solar panels for some years, but that may finally be changing.  \u201cWe\u2019ve got a whole lot of coal-fired power stations that largely are 30-plus years old and many of them are going to retire naturally,\u201d he said.    Related: Port Augusta: embracing solar thermal a vital first step on the path to 100% renewable energy    \u201c[Concentrated solar power] CSP is basically a complete coal-fired power replacement.  \u201cWe can act as base-load [power], we can run 24/7 if that is what is needed and we have all the benefits that a coal plant offers to the grid.\u201d  The theory behind large-scale solar thermal is relatively simple, even if building it is not. Curved mirrors called heliostats are positioned in a field, reflecting the sun\u2019s energy onto a tower with a receiver on top. A liquid material, such as molten salt, is pumped through the receiver where it is heated and then pumped back down to be stored in a tank. When electricity is required, the hot material is used to heat water, creating steam and turning a turbine. Vast Solar has a solar thermal plant in Jemalong, near Forbes, 370km west of Sydney and will complete a 6MW pilot plant at nearby Jemalong within the next few months. It will then move forward with a 30MW plant on the site, which would be a commercial-scale plant and, hopefully, a proving ground for Vast Solar\u2019s technology. \u201cObviously you want to build big and in the CSP industry you get a lot of bang for your buck as you increase the size of your turbine,\u201d Mr Fisher said.     Vast Solar is gradually build up its solar thermal plant in Jemalong, New South Wales, and will soon have 6MW capacity. Photograph: Vast Solar    \u201cIdeally, you\u2019d be building at that 250MW scale, but we can go down as little as 30MW and make it work [commercially].\u201d Vast Solar\u2019s Jemalong project uses several 27-metre towers, each with a receiver in front of hundreds of heliostats. Every model is different and Vast Solar pumps liquid sodium into its receivers, where it is heated to about 600C, before it is pumped back down and the heat transferred to molten salt for storage.  The company has raised $25m for the project so far, enough to proceed with the 30MW station. Another, much bigger solar thermal project in the spotlight was a proposed 110MW plant to be built at Port Augusta in South Australia by US renewable energy company SolarReserve. SolarReserve already has runs on the board, after completing an operational 110MW plant in Nevada in the United States last year. Daniel Thompson, the director of development, said that success in Nevada, along with projects under way in other countries, could be replicated in Port Augusta. \u201cThis is very much a blueprint from our previous projects, so it is largely de-risked and we\u2019re very, very comfortable with what we can deliver there,\u201d he said.  That confidence is obviously shared by the world\u2019s biggest coal producer, Chinese company Shenhua Coal, which signed a memorandum of understanding with SolarReserve last week to build ten, large-scale solar tower and storage plants in China, totalling more than 1,000MW and at a cost of $2bn.     Solar Reserve\u2019s 110MW Crescent Dune plant in Nevada, US, will deliver more than 500,000 MW-hours of electricity per year, and requires zero natural gas. Photograph: Solar Reserve    The proposed plant in Port Augusta, to be called Aurora, would be located 30km north of town. Unlike the Vast Solar Project, SolarReserve\u2019s plan uses one large tower with a receiver at the top, surrounded by thousands of heliostats.  Like all large-scale solar thermal plants, Aurora\u2019s true value lies in its energy storage \u2013 880MW hours, enough to last about eight hours, so that it can keep generating electricity at night, when solar panels have stopped producing. SolarReserve uses molten salt through the entire process, pumping it through the receiver and into the storage tanks at about 565C.               Can the sun cool down Earth?    Mr Thompson said construction of the plant in Nevada had created 4,500 jobs in the construction phase, and 45 permanent jobs once the plant was operational. Those numbers will be similar at the Port Augusta plant. He said investors were enthusiastic about the project in Port Augusta, but they needed to see certain fundamentals fall into place before committing. \u201cWe have already been to the debt and equity markets and had an overwhelming response from them and we are oversubscribed on both, which is great,\u201d he said. \u201cIt\u2019s early stages and they\u2019ve obviously got to look at the project more deeply to finalise their position on that, but early indications are there is plenty of money around for this technology.\u201d   Related: What is holding back the growth of solar power?    While SolarReserve and Vast Solar were both bullish about the future of their Australian projects, neither shied away from the reality that investors still have a \u2018wait and see\u2019 approach to large-scale renewable energy projects in Australia. \u201cRight now, when it\u2019s a first-off plant, [attracting investors] is a difficult thing, so you need an investor with a high-risk appetite,\u201d James Fisher said. \u201cThat really means it\u2019s going to need government support. \u201cOnce you\u2019ve got the first plant built, then it comes to a different sort of [investor] and there is huge amounts of money out there looking for infrastructure investments that are giving a return over a 30-year plant life. \u201cThere is no shortage of funds once you prove the technology,\u201d he said.",
+  "webTitle": "'Tantalisingly close': is solar thermal energy ready to replace coal-fired power?",
+  "webPublicationDate": "2016-05-13T00:09:35Z",
+  "webUrl": "https://www.theguardian.com/sustainable-business/2016/may/13/tantalisingly-close-is-solar-thermal-energy-ready-to-replace-coal-fired-power",
+  "keyword": [
+    {
+      "webTitle": "Guardian sustainable business",
+      "id": "sustainable-business/sustainable-business",
+      "sectionId": "sustainable-business",
+      "sectionName": "Guardian Sustainable Business"
+    },
+    {
+      "webTitle": "Solar power",
+      "id": "environment/solarpower",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Energy",
+      "id": "environment/energy",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Renewable energy",
+      "id": "environment/renewableenergy",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    }
+  ],
+  "authors": [],
+  "guardianId": "sustainable-business/2016/may/13/tantalisingly-close-is-solar-thermal-energy-ready-to-replace-coal-fired-power"
+}

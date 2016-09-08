@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/05/iag-boss-calls-register-drones-near-misses-aircraft",
+  "id": "2016-05-05-161",
+  "sectionId": "world",
+  "body": "The boss of British Airways\u2019 owner IAG has called for a register of drone users after a series of near collisions between passenger planes and unmanned aircraft.   Related: Drone over Heathrow was 'wingspan away' from collision with jet    Willie Walsh, IAG\u2019s chief executive, said that \u201cwithout question\u201d new restrictions should be brought in by the regulator, the Civil Aviation Authority, warning that the growing size and capability of drones would make them a serious risk to air passengers. Last year 28 near misses with drones and planes were reported around airports in Britain by the UK Airprox Board \u2013 including several categorised at the highest level of risk involving commercial airliners. The pilots\u2019 union, Balpa, has led calls for action on drones, but BA had not previously endorsed its call for specific measures. Walsh said: \u201cIt\u2019s inevitable that we will see more restrictions placed on the ownership and operation of drones. The Irish Aviation Authority have already introduced a register. They are ahead of the game. I\u2019d be surprised if the CAA don\u2019t follow.\u201d The government last month promised a public consultation on proposals to tighten rules on drones, in the wake of an apparent collision with a BA plane landing at Heathrow that sparked widespread headlines.  The incident is now believed not to have involved a drone, the aviation minister Robert Goodwill said last week. Walsh confirmed that the pilot had reported a collision with \u201can inert object \u2013 he never actually said a drone\u201d. While Walsh said he had not yet seen an incident that had jeopardised a plane\u2019s safety, he said there were concerns around a drone being ingested into an engine. Asked if they posed a serious risk, Walsh said: \u201cNot at this stage. But as drones get bigger and more complex, with greater capability and able to operate at higher altitudes, yes they could.\u201d Walsh said there was nothing that airlines could currently do to prevent strikes. He said \u201cgeofencing\u201d around airports \u2013 pre-programming drones to avoid sensitive airspace \u2013 appeared a possibility.  However, he recommended a register. \u201cA lot of the issues could be dealt with just through registering the ownership and operation. A register makes a lot of sense.\u201d",
+  "webTitle": "IAG boss calls for register of drones after near misses with aircraft",
+  "webPublicationDate": "2016-05-05T14:18:50Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/05/iag-boss-calls-register-drones-near-misses-aircraft",
+  "keyword": [
+    {
+      "webTitle": "Air transport",
+      "id": "world/air-transport",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "British Airways",
+      "id": "business/britishairways",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Willie Walsh",
+      "id": "business/willie-walsh",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Drones (non-military)",
+      "id": "technology/drones-non-military",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Airline industry",
+      "id": "business/theairlineindustry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Travel & leisure",
+      "id": "business/travelleisure",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Gwyn Topham",
+      "id": "profile/gwyntopham"
+    }
+  ],
+  "guardianId": "world/2016/may/05/iag-boss-calls-register-drones-near-misses-aircraft"
+}

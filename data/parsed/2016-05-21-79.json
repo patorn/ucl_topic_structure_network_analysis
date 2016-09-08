@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://content.guardianapis.com/us-news/2016/may/21/chicago-police-gang-raid-gun-violence",
+  "id": "2016-05-21-79",
+  "sectionId": "us-news",
+  "body": "Chicago police have arrested 140 people for alleged gang activity in one of the largest raids in the city\u2019s history, officials announced on Friday, within 24 hours marred by yet more gun violence. Three people were killed and 11 wounded in shootings around the city since Friday morning. Among the dead was a city employee caught in crossfire after she left a Starbucks near the Chicago police headquarters. On Saturday morning, two men were killed and four were wounded in separate shootings. \u201cThese initiatives send a clear message to anyone who contributes to the sources of violence in Chicago,\u201d Eddie Johnson, the new police superintendent, told reporters on Friday. \u201cYou will be subject to the full weight of the department and our partners in law enforcement.\u201d \u201cPut simply, violence this summer will not be tolerated,\u201d he added. Shootings typically increase during summer months, and officials fear that budget cuts to summer school will put more children at risk to the violence. Gun violence has killed more than 200 people this year, and is on course for more than 700 homicides in 2016.    Related: Chicago gun epidemic, out of control: the execution of nine-year-old Tyshawn Lee    Johnson said the raids took place over two days, and that 117 of those arrested are on the Chicago police department\u2019s \u201cStrategic Subject List\u201d, which points to those who have a propensity to perpetrate or be a victim of gun violence. Gang affiliations, arrests and previous contact with police are the risk factors taken into account in placing someone on the list.  Forty of the arrested people were booked on charges of weapons and drugs trafficking, and 100 for gang activity. Chicago police department spokesman Anthony Guglielmi said more than $45,000 worth of narcotics, including heroin and cocaine, was recovered, along with 23 illegal guns.  The department has come under heavy criticism in the last year, for police shootings, a lack of accountability and alleged beatings at Homan Square. Protests led Mayor Rahm Emanuel to fire police superintendent Garry McCarthy in December, and the city has paid millions to the families of victims of police violence. The Associated Press contributed reporting.",
+  "webTitle": "Chicago police arrest more than 100 in gang raids as violence continues",
+  "webPublicationDate": "2016-05-21T15:40:15Z",
+  "webUrl": "https://www.theguardian.com/us-news/2016/may/21/chicago-police-gang-raid-gun-violence",
+  "keyword": [
+    {
+      "webTitle": "Chicago",
+      "id": "us-news/chicago",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Gun crime",
+      "id": "world/gun-crime",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [],
+  "guardianId": "us-news/2016/may/21/chicago-police-gang-raid-gun-violence"
+}

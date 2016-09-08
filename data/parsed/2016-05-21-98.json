@@ -1,0 +1,94 @@
+{
+  "apiUrl": "https://content.guardianapis.com/society/2016/may/21/two-child-cap-child-benefit-un-snp",
+  "id": "2016-05-21-98",
+  "sectionId": "politics",
+  "body": "The government\u2019s decision to limit a family\u2019s child tax credits to two children, unless a further child is the result of rape, has been referred to a United Nations panel. A complaint by the SNP MP Alison Thewliss to the UN will be examined by its official committee on the rights of the child, before hearings on the impact of Britain\u2019s welfare policies next week.   Related: Germany among EU countries keen to copy UK child benefit peg    At the evidence sessions, a UK government delegation will have to explain how its recent welfare reforms conform to its UN obligations on child poverty. In a letter to Thewliss, the UN said the complaint had been brought to the attention of the committee, as it monitors how the UK complies with the convention on the rights of the child. The SNP is particularly concerned that women whose third child is conceived after rape will have to offer proof of the crime in order to qualify for an exemption to the two-child tax credit rule. As part of George Osborne\u2019s drive to cut \u00a312bn from the annual welfare bill, last year\u2019s budget included an announcement that child tax credits would only be paid for the first two children in each family, from April next year. The government has made an exception for children conceived through rape \u2013 though it is yet to say what policies it will put in place to process this exemption.     Alison Thewliss.    Thewliss, who held a meeting with the welfare reform minister Lord Freud earlier this week, said the rape clause was \u201cmedieval\u201d. She said it \u201cstigmatises mother and child, and risks discriminating against those who may for religious or traditional reasons have larger families.\u201d The Department for Work and Pensions said the issue was sensitive and that the ministry would \u201cdevelop appropriate exemptions and protections\u201d. \u201cWe want to make sure this support is compassionate and effective, which is why we are engaging with MPs and working with a range of stakeholders, including religious groups, to ensure this exemption is delivered in the best way possible,\u201d it said. In the letter to Thewliss, the UN said it had asked the UK government to provide evidence on whether it had carried out an impact assessment into how its welfare changes including the implementation of the benefits cap \u201cand other benefits cuts\u201d would affect children. It said it had also asked for information on \u201cthe measures being taken to mitigate negative impact of this reform on the enjoyment of the rights of children, particularly those in vulnerable situations\u201d. The committee is expected to deliver its final recommendations to the UK in early June.",
+  "webTitle": "UN asks government to explain two-child cap on child tax credits",
+  "webPublicationDate": "2016-05-21T12:46:18Z",
+  "webUrl": "https://www.theguardian.com/society/2016/may/21/two-child-cap-child-benefit-un-snp",
+  "keyword": [
+    {
+      "webTitle": "Welfare",
+      "id": "politics/welfare",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Poverty",
+      "id": "society/poverty",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Benefits",
+      "id": "society/benefits",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Children",
+      "id": "society/children",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Austerity",
+      "id": "business/austerity",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "United Nations",
+      "id": "world/unitednations",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Child protection",
+      "id": "society/childprotection",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Tax credits",
+      "id": "money/taxcredits",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "State benefits",
+      "id": "money/statebenefits",
+      "sectionId": "money",
+      "sectionName": "Money"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Heather Stewart",
+      "id": "profile/heatherstewart"
+    },
+    {
+      "webTitle": "Rowena Mason",
+      "id": "profile/rowena-mason"
+    }
+  ],
+  "guardianId": "society/2016/may/21/two-child-cap-child-benefit-un-snp"
+}

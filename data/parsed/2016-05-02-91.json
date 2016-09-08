@@ -1,0 +1,64 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/02/bitcoin-craig-wright-satoshi-nakamoto-inventor-scepticism",
+  "id": "2016-05-02-91",
+  "sectionId": "technology",
+  "body": "For years the identity of the pseudonymous Satoshi Nakamoto, creator of bitcoin, the world\u2019s leading digital currency, has eluded even the best cryptographers. So when Craig Wright, an Australian computer scientist and entrepreneur, outed himself on Monday as the inventor of the cryptocurrency it seemed to be the end of a mystery that began with the first bitcoin in 2009.  Wright\u2019s claim, made in interviews to the BBC, the Economist, GQ and on his blog, has fired furious debate. After his assertion he is Nakamoto, some sceptics demand technical proof. If Wright is who he claims to be, researchers believe he would own the original 1m bitcoin, worth an estimated \u00a3300m. One bitcoin is worth about \u00a3300 and there are said to be 15.5m in circulation.   Related: Australian Craig Wright claims he is bitcoin founder Satoshi Nakamoto    The BBC reported that Wright, 45, had given technical proof by demonstrating that he had access to cryptographic keys linked to the same blocks of bitcoin Nakamoto sent to another cryptographer and pioneer, Hal Finney, who has since died, in the currency\u2019s first transaction in 2009. The broadcaster also reported that prominent members of the bitcoin community, including its development team, had confirmed the claim. \u201cI was the main part of it but other people helped me,\u201d it quoted Wright as saying. Wright\u2019s claim was backed up by Jon Matonis, one of the founding directors of the Bitcoin Foundation, who said: \u201cDuring the London proof sessions, I had the opportunity to review the relevant data along three distinct lines: cryptographic, social, and technical. It is my firm belief that Craig Wright satisfies all three categories.\u201d     One bitcoin is worth about \u00a3301. Photograph: Alamy    Gavin Andresen, chief scientist at the Bitcoin Foundation, published a blog backing the claim. \u201cI believe Craig Steven Wright is the person who invented bitcoin,\u201d he wrote. However, the Economist reserved judgment, emphasising that Wright had declined its requests to provide further proof. \u201cOur conclusion is that Mr Wright could well be Mr Nakamoto but that important questions remain,\u201d it said. \u201cIndeed, it may never be possible to establish beyond reasonable doubt who really created bitcoin.\u201d Techcrunch.com reported the tech community was \u201cpouring scorn\u201d on reports that Wright is Nakamoto.  Bitcoin allows consumers to make electronic transactions without commercial banks as intermediaries and outside the reach of central banks. It is a system popular with criminals.  Bitcoins are \u201cmined\u201d by using computers to calculate increasingly complex algorithmic formulas and uses public-key cryptography. Users have private and public keys, so a person who can demonstrate they have the private keys linked to public keys known to have been used by Nakamoto could cite this as proof. Wright said in interviews he planned to release information that would allow others to cryptographically verify his claim. The identity of Nakamoto has been the subject of speculation since he outlined the ideas behind bitcoin in an academic white paper in October 2008. The software was developed the following year. But in 2011 Nakamoto stopped all communications with the bitcoin community, saying he had \u201cmoved on to other things\u201d. Other individuals have previously been wrongly outed as Nakamoto. In December Wright was named as the probable bitcoin creator by Wired and Gizmodo. Shortly after police raided his Sydney home and office as part of a tax investigation, said to be unrelated to bitcoin. This year Wright reportedly approached the author Andrew O\u2019Hagan, to whom he is also said to have given evidence of his involvement in bitcoin for a forthcoming article in the London Review of Books.  In a taster, O\u2019Hagan reveals : \u201cThere are three computers and seven screens in his study; rows of computing books and seven dead laptops stacked on top of a bookshelf. The room is lit with two Tiffany lamps and there\u2019s a climbing machine by a green Persian rug. \u201cHe made me a cup of tea and then beckoned me over to his main computer: it was time for him to show me the proof that he was Satoshi. His manner was still that of a man who mildly resented having to prove anything.\u201d      Dorian Satoshi Nakamoto, who was previously identified by Newsweek as the founder of bitcoin. Photograph: Zuma/Rex    In his blog on Monday Wright posted a technical explanation, including examples of code, of the process by which he claimed to have created the currency. \u201cSatoshi is dead,\u201d he wrote. \u201cBut this is only the beginning.\u201d He said he chose the pseudonym as a homage to Tominaga Nakamoto, a 17th-century Japanese philosopher, merchant and advocate of free trade. Until recently, Wright was the director of more than a dozen companies, some involved in cryptocurrency, until he divested himself of 12 of them in the space of a week in July 2015. In a statement on Monday he said: \u201cI didn\u2019t take the decision lightly to make my identity public and I want to be clear that I\u2019m doing this because I care so passionately about my work, and also to dispel any negative myths and fears about bitcoin and the blockchain. \u201cI cannot allow the misinformation that has been spread to impact the future of bitcoin and the blockchain.\u201d David Glance, an associate professor of computer science at the University of Western Australia, who has worked with Wright in the past, told the Guardian he remained \u201chighly sceptical\u201d. \u201cI would wait until we\u2019ve actually seen absolute proof that it\u2019s the case,\u201d he said.",
+  "webTitle": "Craig Wright: scepticism surrounds bitcoin inventor's identification",
+  "webPublicationDate": "2016-05-02T16:14:13Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/02/bitcoin-craig-wright-satoshi-nakamoto-inventor-scepticism",
+  "keyword": [
+    {
+      "webTitle": "Bitcoin",
+      "id": "technology/bitcoin",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Cryptocurrencies",
+      "id": "technology/cryptocurrencies",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "E-commerce",
+      "id": "technology/efinance",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Internet",
+      "id": "technology/internet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Caroline Davies",
+      "id": "profile/carolinedavies"
+    },
+    {
+      "webTitle": "Michael Safi",
+      "id": "profile/michael-safi"
+    }
+  ],
+  "guardianId": "technology/2016/may/02/bitcoin-craig-wright-satoshi-nakamoto-inventor-scepticism"
+}

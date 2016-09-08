@@ -1,0 +1,84 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/26/sadiq-khan-joins-air-pollution-court-case-against-uk-government",
+  "id": "2016-05-26-142",
+  "sectionId": "environment",
+  "body": "The mayor of London, Sadiq Khan, has joined a high court challenge against the government over its air pollution plans, overturning the position of his predecessor, Boris Johnson. Khan filed legal documents on Thursday and can now submit a witness statement and evidence to the court on the air pollution crisis in the capital. Environmental lawyers ClientEarth are suing the government for the second time in a year, having won a case at the supreme court in 2015 which ordered ministers to fulfil their legal duty to cut pollution in \u201cthe shortest time possible\u201d. The new case argues the government is still failing to do this. The UK missed a 2010 deadline to meet EU air quality rules but the new plan put forward by the government after losing at the supreme court would not cut pollution to legal levels until 2025 in some cities, including London. \u201cThe government\u2019s current air quality plan with respect to London is based on the very limited ambition of the previous mayor to tackle air pollution and isn\u2019t enough to protect Londoners health,\u201d said Khan. \u201cI know from personal experience that the city\u2019s air is damaging people\u2019s health as I suffer from adult-onset asthma myself.\u201d   Related: Boris Johnson accused of burying study linking pollution and deprived schools    The legal documents filed said: \u201cThe mayor is concerned that compliance is achieved in as short a period as is possible in order to protect the health of those living and working in London, particularly those in disadvantaged communities which are likely to be affected disproportionately by poor air quality.\u201d Earlier in May, the Guardian revealed an air quality report that remained unpublished while Boris Johnson was mayor which showed 433 schools in the capital are in areas that exceed legal limits for nitrogen dioxide pollution and that four-fifths of those are in deprived areas. Air pollution was called a \u201cpublic health emergency\u201d by the environment committee of MPs in April, and causes 40,000-50,000 early deaths every year across the country. A report from two Royal Colleges of medicine in February estimated the cost of the damage at \u00a320bn a year. Khan\u2019s first major policy announcement after winning the mayoral election for Labour were new plans to tackle the capital\u2019s air pollution. These include more than doubling the size of the planned Ultra Low Emission Zone (ULEZ) - which the oldest and dirtiest cars must pay \u00a312.50 to enter - and retrofitting 1,000 more buses with clean technology. Alan Andrews, at ClientEarth, said he was delighted Khan was joining the case against the government. \u201cIt\u2019s clear to everyone the government hasn\u2019t got a leg to stand on,\u201d he said. \u201cInstead of wasting more time and money dragging this out in the courts, they need to come to the table with a serious plan showing how they are going to tackle deadly diesel pollution.\u201d Andrews said: \u201cThe mayor has a big role to play in delivering a bigger and better ULEZ for London, but we also need national measures that will benefit those living across the UK who are being made sick and dying early because of air pollution. This is a national public health crisis that demands a national solution.\u201d Khan said: \u201cIt\u2019s clear we need to speed up our efforts so I\u2019m calling on the government to match my new level of ambition for London and to work with me to improve our city\u2019s dirty air and to make sure we get within legal limits much sooner - before the current target of 2025.\u201d A spokesman for the Department of Environment, Food and Rural Affairs said: \u201cOur plans clearly set out how we will improve the UK\u2019s air quality through a new programme of Clean Air Zones and continued investment in clean technologies will create cleaner, healthier air for all. We cannot comment on ongoing legal proceedings.\u201d",
+  "webTitle": "Sadiq Khan joins air pollution court case against UK government",
+  "webPublicationDate": "2016-05-26T15:24:05Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/26/sadiq-khan-joins-air-pollution-court-case-against-uk-government",
+  "keyword": [
+    {
+      "webTitle": "Pollution",
+      "id": "environment/pollution",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Sadiq Khan",
+      "id": "politics/sadiq-khan",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Mayoral elections",
+      "id": "politics/mayoral-elections",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Local government",
+      "id": "society/localgovernment",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Local politics",
+      "id": "politics/localgovernment",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "London",
+      "id": "uk/london",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Damian Carrington",
+      "id": "profile/damiancarrington"
+    }
+  ],
+  "guardianId": "environment/2016/may/26/sadiq-khan-joins-air-pollution-court-case-against-uk-government"
+}

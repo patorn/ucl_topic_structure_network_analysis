@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/14/publicity-stunt-terror-attack-cannes-hotel-du-cap",
+  "id": "2016-05-14-109",
+  "sectionId": "film",
+  "body": "A fake terrorist attack has panicked guests at the H\u00f4tel du Cap, the five-star luxury hotel frequented by celebrity guests during the Cannes film festival. The \u2018attack\u2019, which was in fact a stunt by a French internet company, happened yesterday, Friday the 13th. Six men in matching helmets and military-style utility vests approached the hotel\u2019s dock via boat, before one of them began marching up the steps towards frightened guests, according to the Hollywood Reporter.  \u201cWe were all caught off guard,\u201d said publicist JR Savet, who was eating with friends on the du Cap\u2019s terrace. \u201cAnd then someone screamed and people jumped out of their chairs and started moving quickly to the swimming pool area. It was pretty scary.\u201d  Savet said that he was shocked by the fact that the men seemed to be dressed as an \u201cIsis-like\u201d militia group.      The \u2018attack\u2019 was a stunt by a French internet company. Photograph: Vantagenews.com    Organisers at the Cannes film festival have called in 500 additional security personnel this year as the threat of an attack by ISIS is, following the attacks on Paris and Brussels, heightened. Last month French security forces staged a mock attack on the film festival\u2019s principal venue, the Palais. \u201cTerrorists\u201d wielding automatic weapons fired blanks at police, before climbing over the \u201cwounded\u201d (volunteers wearing red bibs) and storming the steps of the conference centre.  The du Cap, which sits eight miles east along the Cote d\u2019Azur coast from Cannes, regularly hosts some of the movie industry\u2019s most famous figures during the film festival. On its way to the hotel, the boat reportedly sped past yachts owned by Steven Spielberg and Roman Abramovitch.  Cannes police are investigating the stunt, which a du Cap spokesperson has called \u201ca bad joke \u2013 a really bad one\u201d.",
+  "webTitle": "Publicity stunt 'terror attack' frightens guests at Cannes' H\u00f4tel du Cap",
+  "webPublicationDate": "2016-05-14T12:52:38Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/14/publicity-stunt-terror-attack-cannes-hotel-du-cap",
+  "keyword": [
+    {
+      "webTitle": "Cannes 2016",
+      "id": "film/cannes-2016",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Cannes film festival",
+      "id": "film/cannesfilmfestival",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Islamic State",
+      "id": "world/isis",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Henry Barnes",
+      "id": "profile/henrybarnes"
+    }
+  ],
+  "guardianId": "film/2016/may/14/publicity-stunt-terror-attack-cannes-hotel-du-cap"
+}

@@ -1,0 +1,30 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/17/severed-head-found-at-cambridgeshire-toxic-waste-site",
+  "id": "2016-05-17-177",
+  "sectionId": "uk-news",
+  "body": "A severed head has been discovered at a toxic waste facility in Cambridgeshire, police have said. The head was found on Monday at 3pm at the Mick George Ltd waste facility in Mepal, Cambridgeshire. It is understood police officers have been unable to determine if the head belongs to a man or a woman.  The site in Mepal operates as a disposal facility for asbestos, contaminated soils and other hazardous waste.  A Cambridgeshire police spokeswoman said: \u201cWe were called at about 3pm yesterday afternoon with reports of the discovery of a human head at a quarry in Mepal. \u201cOfficers from the Bedfordshire, Cambridgeshire and Hertfordshire major crime unit are conducting inquiries, both locally and across the county borders.\u201d   Map of sites being investigated by police   Police are searching a site in Mill Road in Sharnbrook, Bedfordshire \u2013 about 50 miles away from the site \u2013 as they believe this is where the remains may have come from.  The force would not comment further on links between the Mill Road site and the Mepal facility.  DI Jerry Waite, from the Beds, Cambs and Herts major crime unit, said: \u201cAt this stage we do not know if the head is male or female, however we have got officers carrying out searches at a site in Sharnbrook, Bedfordshire, as we believe this is where the remains may have come from.\u201d  A spokesman for Mick George said: \u201cWe are working closely with the police and providing them with all the information they need to undertake their investigations. At this point we cannot provide any further comments.\u201d",
+  "webTitle": "Severed head found at Cambridgeshire toxic waste site",
+  "webPublicationDate": "2016-05-17T12:04:19Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/17/severed-head-found-at-cambridgeshire-toxic-waste-site",
+  "keyword": [
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Crime",
+      "id": "uk/ukcrime",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jamie Grierson",
+      "id": "profile/jamie-grierson"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/17/severed-head-found-at-cambridgeshire-toxic-waste-site"
+}

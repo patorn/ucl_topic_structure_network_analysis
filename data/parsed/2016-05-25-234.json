@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/greenslade/2016/may/25/new-police-guidelines-reinforce-controls-on-journalistic-contacts",
+  "id": "2016-05-25-234",
+  "sectionId": "media",
+  "body": "The College of Policing has produced a new set of guidelines about the relationships between journalists and police officers. At first glance, the draft released on Wednesday for consultation tends to reinforce the controls that have been a feature of the post-Leveson chill on police-media contacts. For example, off-the-record conversations between officers and reporters should be avoided to avoid \u201cambiguity\u201d and, if they do occur, the circumstances must be \u201cexceptional\u201d. Instead, the guidelines urge the involvement of PRs, who are referred to as Corporation Communications Departments (CCDs). Officers \u201care encouraged to check with the CCD before speaking to the media.\u201d  The guidance, which begins by stressing that \u201ca successful working relationship between the police service and the media is vital\u201d, replace a similar document published by the Association of Chief Police Officers in 2010. But they will not please newspaper reporters who have complained that police forces have become very unhelpful since the publication of the Leveson report in December 2012. There is, in fact, a measure of ambiguity in the new guidelines because they begin with an apparent sop to journalists:   \u201cAs a simple rule, police officers and staff should ask, \u2018Am I the person responsible for communicating about this issue and is there a policing purpose for doing so?\u2019  If the answer to both parts of this question is \u2018yes\u2019, they should communicate with the media. Officers and staff of all ranks and roles are encouraged to provide factual information to the media concerning operational incidents or investigations for which they have personal responsibility.\u201d  Then comes a big but that undermines the \u201csimple rule\u201d:   \u201cWhen engaging with media, officers and staff should always consider the need to involve a CCD... In some situations (such as a high-profile inquiry or sensitive investigation) there will be a pre-existing media strategy to ensure that media engagement supports the operational approach.  If in doubt, officers and staff are encouraged to check with the CCD before speaking to the media.\u201d  Then follow a \u201cnon-exhaustive\u201d string of grounds for referring media inquiries to the PRs that, in effect, make any direct contact between reporter and police officer extremely unlikely. They include \u201call\u201d serious crime appeals; all incidents involving a fatality; media appeals for high-risk missing, wanted or dangerous persons; the release of images of a known, named person; all matters relating to security or terrorism... And there are more: hate crimes; critical incidents; inquiries about sex offenders; requests for evidential material; anything relating to national media, including BBC1\u2019s Crimewatch programme.  Where practical, officers are expected to ensure PR staff are present at media interviews that deal with a range of issues, especially if they are of national significance. Other instances are those that could have an impact on, or cause, community tensions; if the case is high profile \u201cwith significant media interest\u201d; if the case could damage force reputation or the wider reputation of the police service; and if it is likely to generate interest from other media. (the College has obviously had an irony bypass). The guidelines amount to a bureaucratic nightmare for any officer who dares to speak to a journalist. For instance, should a \u201cnon-reportable background conversation\u201d happen then \u201ca note of the subjects discussed should be kept by the officer concerned.\u201d Some recommendations will please photojournalists: \u201cThere are no powers prohibiting reporting or filming from the scene of an incident provided it is conducted from a public place.\u201d But this rule has been in place for some time and has often been ignored by officers on the ground. There have been a series of complaints from journalists that they have been prevented from taking photographs at the scene of incidents. One welcome piece of advice to officers (and force PRs) is to respect journalists who approach them about an exclusive story. Such information, says the guidelines, should not be issued to other media outlets, \u201cexcept for operational reasons or unless it was already planned for release into the public domain.\u201d Arrested people must not be named The guidelines reinforce the recommendations of the Leveson report about not naming people who are arrested, or suspected of a crime, \u201csave in exceptional circumstances where there is a legitimate policing purpose to do so\u201d (such as a threat to life). The document states:  \u201cWhen someone is arrested, police can proactively release the person\u2019s gender, age, where they live (ie, the town or city), the nature, date and general location of the alleged offence, the date of the arrest, whether they are in custody or have been bailed, and the subsequent bail date or if they were released with no further action being taken.\u201d  As for \u201cnon-suspicious sudden deaths\u201d, the guidelines say these \u201cshould only be proactively issued if there is an operational policing reason to do so.\u201d They state: \u201cInformation that a body has been found can be confirmed following an inquiry from the media, but nothing should be released that could identify the deceased.\u201d",
+  "webTitle": "New police guidelines reinforce controls on journalistic contacts",
+  "webPublicationDate": "2016-05-25T09:21:23Z",
+  "webUrl": "https://www.theguardian.com/media/greenslade/2016/may/25/new-police-guidelines-reinforce-controls-on-journalistic-contacts",
+  "keyword": [
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Police",
+      "id": "uk/police",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Newspapers",
+      "id": "media/newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Leveson report",
+      "id": "media/leveson-report",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "News photography",
+      "id": "media/news-photography",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "BBC1",
+      "id": "media/bbc1",
+      "sectionId": "media",
+      "sectionName": "Media"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Roy Greenslade",
+      "id": "profile/roygreenslade"
+    }
+  ],
+  "guardianId": "media/greenslade/2016/may/25/new-police-guidelines-reinforce-controls-on-journalistic-contacts"
+}

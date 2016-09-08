@@ -1,0 +1,40 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/03/are-you-taking-part-in-todays-kids-strike-over-sats-changes",
+  "id": "2016-05-03-310",
+  "sectionId": "uk-news",
+  "body": "A group of parents, protesting on social media using the slogan \u201cLet our kids be kids\u201d plan to keep their children at home on Tuesday, in protest against the standard assessment tests (Sats) for seven- and 11-year-olds, which they believe are putting their children under unnecessary pressure. A petition on the website change.org calling for teachers to boycott Sats had gathered more than 43,000 signatures as of Tuesday morning. It argues that \u201coutdoor learning has decreased, childhood anxiety has increased, games have been replaced with grammar, playing with punctuation.\u201d The department for education said Sats were aimed at identifying children who may need extra help. It stresses that the assessment is carried out over a month in the normal course of teaching, not in a traditional exam environment. But teachers\u2019 unions complain that the tests are onerous to deliver, and distract attention away from other subjects such as music, PE and art. What do you think of the Sats changes? And are you boycotting school? Share your experiences by filling in the form below.",
+  "webTitle": "Are you taking part in today's 'kids' strike over Sats changes?",
+  "webPublicationDate": "2016-05-03T07:13:14Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/03/are-you-taking-part-in-todays-kids-strike-over-sats-changes",
+  "keyword": [
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Primary schools",
+      "id": "education/primary-schools",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Exams",
+      "id": "education/exams",
+      "sectionId": "education",
+      "sectionName": "Education"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian readers",
+      "id": "profile/guardian-readers"
+    },
+    {
+      "webTitle": "Carmen Fishwick",
+      "id": "profile/carmen-fishwick"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/03/are-you-taking-part-in-todays-kids-strike-over-sats-changes"
+}

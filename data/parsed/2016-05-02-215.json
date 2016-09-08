@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/books/2016/may/02/shakespeare-scholar-claims-the-bard-didnt-shorten-king-lear",
+  "id": "2016-05-02-215",
+  "sectionId": "books",
+  "body": "As the world celebrates the 400th anniversary of his death, battle lines are quietly being drawn in the world of Shakespeare scholarship over the text of King Lear. The Bard\u2019s great tragedy exists in two versions, the 1608 Quarto and the 1623 Folio, each of which is abridged. The Quarto is missing 100 lines that appear in the Folio, and the Folio lacking 300 lines found in the Quarto. The texts were combined as one version in editions of the play for centuries, until a revisionist movement in the 1980s argued that Shakespeare had shortened the Folio text himself, and that the two texts represented two versions of the play.    For 300 years people just took the bits which were missing from one, and put them in the other, and everyone was happy  Sir Brian Vickers     The two-text version has since become the orthodoxy. But a new book from Shakespeare scholar Sir Brian Vickers argues that this is wrong. In The One King Lear, Vickers argues that the cuts in the Quarto text were made by the printer, who had underestimated how much paper he would need to print the play. He says that there is no evidence the Folio text was cut by Shakespeare, arguing that the changes were likely to have been made by the theatre company to speed up the action, rather than by the playwright to adjust focus. \u201cThe unique thing about Lear is that the cuts in the Quarto and in the Folio occur in different places, so the two physically interlock perfectly. For 300 years, people just took the bits which were missing from one, and put them in the other, and everyone was happy,\u201d said Vickers, who is a senior fellow at the School of Advanced Study, University of London. \u201cBut in the 70s, people were trying to overthrow the assumptions and attitudes of previous generations, and to overthrow what they thought to be orthodoxies.\u201d However, the cuts to the Folio that the revisionists believe were made by Shakespeare are actually \u201cquite damaging\u201d to the play, according to Vickers. The cuts include lines from the scene on the heath, when a mad Lear is imagining that Goneril and Regan are present, and act four, scene three, in which Kent meets a gentleman who tells him of Cordelia\u2019s grief. Kent reveals the king\u2019s state of mind to the gentleman: \u201cburning shame / Detains him from Cordelia\u201d. \u201cThe revisionists said we don\u2019t really need this scene, that it\u2019s not important \u2013 that we\u2019d much rather see Lear than hear what\u2019s said about him,\u201d said Vickers. \u201c[But] it\u2019s a very important scene which shows he\u2019s now aware of what he did. Shakespeare deliberately wrote the scene to prepare for what follows, it\u2019s a very tightly written scene with not a word wasted [and to cut it] is an act of mutilation.\u201d Vickers said he hoped his new book would put paid to the revisionists\u2019 perspective on the text.    The excitement of the revisionist theory was that for the first time, we could see evidence of Shakespeare at work  Professor John Mullan     UCL English professor John Mullan predicted that it would certainly prove divisive. \u201cI imagine battle will be joined,\u201d he said. \u201cThe excitement of the revisionist theory was that for the first time, we could see evidence of Shakespeare at work \u2026 The thought was that if you looked at the variations for the Folio and the Quarto you would be able to see the genius at work. It absolutely became the orthodoxy. I accepted it and I\u2019ve been teaching Lear that way for decades \u2026 But Brian is very convincing and it will be interesting to hear what others say in return.\u201d Professor Ren\u00e9 Weis, an expert in the life and work of Shakespeare, edited a parallel text version of Lear in 1993 but followed it with a new edition in 2010 that argued that the variants between the texts \u201ctell a story of convergence rather than disjunction\u201d. Weis said that Vickers\u2019s new book made a compelling case. \u201cHe is a formidable scholar and this book will undoubtedly make waves and cause us to think again about the text \u2013 or texts \u2013 of Shakespeare\u2019s greatest play,\u201d he said. \u201cIf nothing else it will re-energise the debate around a play that has come to mean so much to so many: Keats\u2019s favourite play, Vickers\u2019s (he says so in his preface), mine too \u2013 and also, I know, of many of the scholars and editors who gave us the two King Lears.\u201d   Related: If Shakespeare was writing today, he'd be a crime writer    Professor Gary Taylor, a prime mover in the revisionist movement and editor of the influential The Division of the Kingdoms in 1983, said his forthcoming New Oxford Shakespeare edition of Shakespeare\u2019s complete works would not be \u201cblindly following the scholarship of the 1980s, in this or in any other respect\u201d. \u201cThe New Oxford Shakespeare will not personalise or polemicise the ongoing scholarly debates about Shakespeare\u2019s texts,\u201d said Taylor. \u201cWe sometimes agree with Brian; we sometimes do not. He has little experience editing Shakespeare, and few credentials as a bibliographer or book historian; but we will take seriously any book published by Harvard University Press.\u201d",
+  "webTitle": "Scholar claims Shakespeare didn't shorten King Lear \u2013 it was his printer",
+  "webPublicationDate": "2016-05-02T08:00:18Z",
+  "webUrl": "https://www.theguardian.com/books/2016/may/02/shakespeare-scholar-claims-the-bard-didnt-shorten-king-lear",
+  "keyword": [
+    {
+      "webTitle": "Books",
+      "id": "books/books",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Publishing",
+      "id": "books/publishing",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "William Shakespeare",
+      "id": "culture/shakespeare",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Alison Flood",
+      "id": "profile/alisonflood"
+    }
+  ],
+  "guardianId": "books/2016/may/02/shakespeare-scholar-claims-the-bard-didnt-shorten-king-lear"
+}

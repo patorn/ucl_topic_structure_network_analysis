@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/08/tate-bp-information-tribunal-oil",
+  "id": "2016-05-08-81",
+  "sectionId": "business",
+  "body": "Tate will come under fire again over its relationship with fossil fuel companies when it is forced to defend its refusal to disclose details of financial payments made to it by BP.   Related: BP to continue arts sponsorship deals despite cutting ties with Tate    The action on Wednesday, in front of the information tribunal in London, has been brought by the arts group Platform, with support from information rights group Request Initiative, despite the oil company severing its ties with Tate in March this year. Tate, whose chair of trustees is former BP boss John Browne, has been claiming \u201ccommercial confidentiality\u201d for not providing information on how much it received from the oil group between 2007 and 2011.  \u201cAs Tate\u2019s deal with BP ends, the oil company can no longer use Tate\u2019s spectacular displays to distract the public from its [environmentally] destructive business,\u201d Platform\u2019s Anna Galkina said. \u201cThe public still has a right to know how much BP paid Tate for this transfer of public trust. And the British Museum, National Portrait Gallery, and Royal Opera House should join Tate in breaking free from oil branding.\u201d The Tate previously disclosed it received between \u00a3150,000 to \u00a3330,000 a year between 1990 and 2006 following a previous legal challenge but has declined to reveal more recent sponsorship details.  Fossil fuel companies are under pressure from campaigners and some shareholders because burning oil, coal and gas increase carbon emissions which cause global warming.",
+  "webTitle": "Tate to face information tribunal over payments from BP",
+  "webPublicationDate": "2016-05-08T15:53:16Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/08/tate-bp-information-tribunal-oil",
+  "keyword": [
+    {
+      "webTitle": "BP",
+      "id": "business/bp",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Tate Britain",
+      "id": "artanddesign/tatebritain",
+      "sectionId": "artanddesign",
+      "sectionName": "Art and design"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Energy industry",
+      "id": "business/energy-industry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Oil",
+      "id": "business/oil",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Oil and gas companies",
+      "id": "business/oilandgascompanies",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Art and design",
+      "id": "artanddesign/artanddesign",
+      "sectionId": "artanddesign",
+      "sectionName": "Art and design"
+    },
+    {
+      "webTitle": "Art",
+      "id": "artanddesign/art",
+      "sectionId": "artanddesign",
+      "sectionName": "Art and design"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Terry Macalister",
+      "id": "profile/terrymacalister"
+    }
+  ],
+  "guardianId": "business/2016/may/08/tate-bp-information-tribunal-oil"
+}

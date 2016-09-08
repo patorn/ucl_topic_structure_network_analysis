@@ -1,0 +1,108 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/05/bt-roll-out-superfast-broadband-4g-6bn-investment",
+  "id": "2016-05-05-269",
+  "sectionId": "business",
+  "body": "BT, under pressure from rivals and regulator Ofcom, is to invest \u00a36bn in improving its services, including extending superfast broadband and 4G coverage to more than 95% of the UK by 2020. The UK\u2019s largest telecoms firm laid out its investment plans on Thursday as it reported a 15% rise in pre-tax profits to \u00a33bn for the year to 31 March, helped by stronger demand for its broadband and TV bundles. At least 10m homes and businesses are to get ultrafast broadband through a combination of fibre and copper technology called G.fast, with an ambition to reach 12m.   Related: BT must install business broadband more quickly, Ofcom says    The group is laying even faster fibre-optic broadband lines (called fibre to the premises or FTTP) to 2m customers who want speeds of up to 1Gbps, mainly in new housing developments, high streets and business parks. BT is also investing in customer service, and pledged within a year to halve the number of missed appointments at its broadband infrastructure division Openreach. It vowed to reduce the time taken to fix line faults by 24 hours as well as handling 90% of customers\u2019 calls in the UK by March 2017. Openreach is hiring 1,000 new engineers this year. Its head, Clive Selley, has promised customers \u201cbetter service, broader coverage and faster speeds\u201d. Earlier this year the telecoms regulator, Ofcom, stopped short of recommending that BT be forced to spin off Openreach, as demanded by rivals including TalkTalk and Sky. Instead, the regulator told BT to help rivals use its infrastructure to lay fibre cables that are faster than its own copper network, as part of a review of Britain\u2019s broadband needs.  It also demanded that the company improve broadband services for businesses by installing high-speed business lines more quickly and significantly reducing the price it charges rivals for the lines. Analysts at Haitong Research said that despite BT\u2019s investment plans and \u201cOfcom helping rivals get easier access to BT\u2019s ducts and poles, we doubt that new large-scale networks will be built\u201d. Rival Sky was not impressed. Andrew Griffith, its chief operating officer and chief financial officer, said: \u201dToday\u2019s statement shows that BT continues to see copper as the basis of its network for 21st-century Britain. Despite BT\u2019s claims, it is clearer than ever that their plans for fibre to the premise (FTTP) broadband will bypass almost every existing UK home. \u201cThis limited ambition has been dragged out of BT by the threat of regulatory action, demonstrating once again why an independent Openreach, free to raise its own long-term capital, is the best way for the UK to get the fibre network it needs.\u201d BT\u2019s \u00a312.5bn acquisition of EE, Britain\u2019s largest mobile phone network, was sanctioned by regulators in January. The company said the integration of the mobile operator was going well. Its consumer business, which supplies broadband, telephone and TV services, posted an 8% rise in full-year sales to \u00a31.2bn, as the number of TV customers grew 28% to 1.5m. BT Sport audiences are up 45%, thanks to its live coverage of Uefa Champions League and Europa League matches. Openreach posted 415,000 fibre broadband net additions, and together BT and EE now control 81% of the market. BT\u2019s chief executive, Gavin Patterson, said: \u201cThe UK is a digital leader today and it is vital that it remains one in the future \u2026 Networks require money and a lot of it. Virgin and BT have both pledged to invest and we will now see if others follow our lead.\u201d He added: \u201cCustomers want their broadband to be affordable as well as fast and we will be able to do that using G.fast.\u201d",
+  "webTitle": "BT to spend \u00a36bn on superfast broadband and 4G rollout",
+  "webPublicationDate": "2016-05-05T08:58:01Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/05/bt-roll-out-superfast-broadband-4g-6bn-investment",
+  "keyword": [
+    {
+      "webTitle": "BT",
+      "id": "business/btgroup",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Telecommunications industry",
+      "id": "business/telecoms",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Broadband",
+      "id": "technology/broadband",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Broadband",
+      "id": "money/broadband",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Internet, phones & broadband",
+      "id": "money/internetphonesbroadband",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Consumer affairs",
+      "id": "money/consumer-affairs",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Internet",
+      "id": "technology/internet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "4G",
+      "id": "technology/4g",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Telecoms",
+      "id": "technology/telecoms",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Ofcom",
+      "id": "media/ofcom",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Television industry",
+      "id": "media/television",
+      "sectionId": "media",
+      "sectionName": "Media"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Julia Kollewe",
+      "id": "profile/juliakollewe"
+    }
+  ],
+  "guardianId": "business/2016/may/05/bt-roll-out-superfast-broadband-4g-6bn-investment"
+}

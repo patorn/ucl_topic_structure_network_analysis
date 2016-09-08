@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/13/fears-british-steel-pension-scheme-folded-pension-protection-fund-tata",
+  "id": "2016-05-13-69",
+  "sectionId": "business",
+  "body": "The trustees in charge of the British Steel pension scheme, whose members include thousands of Tata Steel staff, have vowed to do all they can to keep it from being folded into the government\u2019s pensions lifeboat. The future of the scheme, which has 130,000 members and a deficit of \u00a3485m, has been thrown into doubt by the Indian conglomerate Tata\u2019s decision to sell its struggling UK operation. While there are seven potential buyers in the running for Tata Steel UK, they are understood to be keen to avoid taking on the burden of the \u00a315bn scheme, raising fears about its future. Allan Johnston, the chair of the scheme\u2019s trustees, said he would do everything possible to avoid calling on the Pension Protection Fund \u2013 the government\u2019s safety net for schemes with an unmanageable deficit. Johnston, who has been in talks with the government and Tata, said this could involve changing the law to allow the terms of the pension scheme to be adjusted. He said that entry into the PPF would mean future pension increases being significantly reduced, while 58,000 members who have not reached pensionable age would see their payments fall by \u201cat least 10%\u201d. \u201cThe trustee has been discussing with government officials ways in which the scheme could remain outside of the PPF,\u201d said Johnston. \u201cAs an alternative to entry into the PPF, a change in the law applying to the scheme would allow modified benefits to be paid indefinitely on a low-risk basis.    Related: Tata Steel says seven firms in frame to bid for rest of UK operations    \u201cWhilst this would entail future pension increases being cut back from their current level, benefits would be more generous than those provided by the PPF for the vast majority of scheme members. The trustee takes the view that scheme assets are better used in paying member benefits than potentially swelling a PPF surplus or insurance companies\u2019 profits.  \u201cThese measures, which have the support of the trade unions and the whole trustee body, would result in a better and fairer outcome for members.\u201d Alternatives under discussion include ringfencing the fund from the PPF, as well as reducing the rate at which the pension payments accrue by linking it to the consumer price index. The scheme is currently linked to the retail price index measure of inflation, which runs at a higher rate.",
+  "webTitle": "Fears British Steel pension scheme may be folded into Pension Protection Fund",
+  "webPublicationDate": "2016-05-13T17:33:31Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/13/fears-british-steel-pension-scheme-folded-pension-protection-fund-tata",
+  "keyword": [
+    {
+      "webTitle": "Steel industry",
+      "id": "business/steel-industry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Tata",
+      "id": "business/tata",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Pensions",
+      "id": "money/pensions",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Rob Davies",
+      "id": "profile/rob-davies"
+    }
+  ],
+  "guardianId": "business/2016/may/13/fears-british-steel-pension-scheme-folded-pension-protection-fund-tata"
+}

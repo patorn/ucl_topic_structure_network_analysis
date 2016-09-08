@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/23/olympic-shooter-michael-diamond-has-gun-licence-suspended",
+  "id": "2016-05-22-5",
+  "sectionId": "sport",
+  "body": "Australian Olympic target shooter Michael Diamond has had his gun licence suspended after being charged with drink-driving and firearms offences, following an alleged domestic dispute. The 44-year-old dual gold medallist allegedly got into an argument with a relative at a home in Stockton Street, Port Stephens, about 200km north of Sydney on Saturday night. Fairfax Media has reported the alleged argument was with his brother.   Related: Australia showing improvement ahead of Rio Olympics, according to study    In a statement, New South Wales police said a man, who Guardian Australia understands to be Diamond, was spoken to by police in the neighbouring suburb of Shoal Bay at 9.30pm, soon after the argument. He was standing next to his car and refused to undergo a breath test. Police said they took him to Raymond Terrace police station for a breath test after a search of his car allegedly found a shotgun and 150 rounds of ammunition.  The breath test at the station allegedly returned a reading of 0.159, more than three times the legal limit.  Diamond was charged with high range drink driving, failing to keep a firearm safe, and handling or using a firearm while under the influence of alcohol.  Both his driver\u2019s and firearms licences were suspended, and he has been placed under a provisional apprehended domestic violence order. He will face the local court in Port Stephens on 7 June. Diamond won the Olympic gold medal for trap, or clay target shooting, in Atlanta in 1996 and again in Sydney in 2000 and also holds four Commonwealth Games gold medals.  He had reportedly hoped to carry the flag for Australian in the opening ceremony of the Rio Olympics, which would be his seventh Olympic games.",
+  "webTitle": "Olympic shooter Michael Diamond has gun licence suspended",
+  "webPublicationDate": "2016-05-22T22:54:37Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/23/olympic-shooter-michael-diamond-has-gun-licence-suspended",
+  "keyword": [
+    {
+      "webTitle": "Australia sport",
+      "id": "sport/australia-sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Rio 2016",
+      "id": "sport/rio-2016",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Olympic Games",
+      "id": "sport/olympic-games",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Calla Wahlquist",
+      "id": "profile/calla-wahlquist"
+    }
+  ],
+  "guardianId": "sport/2016/may/23/olympic-shooter-michael-diamond-has-gun-licence-suspended"
+}

@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/09/google-tests-black-links-searches",
+  "id": "2016-05-09-179",
+  "sectionId": "technology",
+  "body": "Google searches could soon look very different: the company is testing a new version of its results page featuring black links, in the place of the familiar blue. Users began reporting the visual change on Sunday, suggesting that Google is embarking on one of its famous \u201cA/B tests\u201d. The company regularly makes a small change for a subset of users, examining how they respond before deciding whether or not to roll it out to the wider userbase.    @google Google! The black unclicked links look terrible and are not very functional! #BringBackTheBlue pic.twitter.com/mkKsrar3B3\u2014 Joseph Madden (@Hyper200) May 9, 2016      My google links have turned black, They look horrible. Please turn them back to blue #google pic.twitter.com/hbF5lSkRpS\u2014 facelessloser (@facelessloser) May 8, 2016    Other users, like Business Insider\u2019s Rob Price, have noticed a different test taking place, between two shades of blue for the search links.    Google is A/B testing different shades of blue on me. pic.twitter.com/PKf0TIyo1Z\u2014 Rob Price (@robaeprice) May 9, 2016    Paying attention to the little things has paid off for Google in the past. Famously, when it decided to introduce adverts on Gmail, it ran a test to pick between 40 different shades of blue.  In 2014, Google UK\u2019s managing director, Dan Cobley, said what happened next: \u201cWe saw which shades of blue people liked the most, demonstrated by how much they clicked on them. As a result we learned that a slightly purpler shade of blue was more conducive to clicking than a slightly greener shade of blue, and gee whizz, we made a decision. \u201cBut the implications of that for us, given the scale of our business, was that we made an extra $200m a year in ad revenue.\u201d Switching the links from blue to black is a far larger change. So if Google does upgrade it from test to feature, you can be sure there\u2019s a lot of money to be made in doing so.",
+  "webTitle": "Google tests black links in searches",
+  "webPublicationDate": "2016-05-09T13:13:10Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/09/google-tests-black-links-searches",
+  "keyword": [
+    {
+      "webTitle": "Google",
+      "id": "technology/google",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Alphabet",
+      "id": "technology/alphabet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Internet",
+      "id": "technology/internet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Alex Hern",
+      "id": "profile/alex-hern"
+    }
+  ],
+  "guardianId": "technology/2016/may/09/google-tests-black-links-searches"
+}

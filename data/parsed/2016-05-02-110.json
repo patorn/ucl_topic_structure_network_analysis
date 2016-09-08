@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/02/jamie-vardy-party-host-leicester-players-tottenham-match",
+  "id": "2016-05-02-110",
+  "sectionId": "football",
+  "body": "Jamie Vardy, the Football Writers\u2019 player of the year, will play host to his Leicester City team-mates at his home as they watch Chelsea v Tottenham Hotspur together on Monday evening, a match that could result in the Foxes winning the Premier League title for the first time in the club\u2019s history. Claudio Ranieri will not be joining the gathering, having chosen to fly home to be with his 96-year-old mother, Renata, in Italy and the Leicester manager may be among the last to know if his side \u2013 5000-1 outsiders at the start of the season \u2013 are crowned champions owing to the timing of his flight.   Related: Chelsea v Tottenham Hotspur: Premier League \u2013 live!    Marc Albrighton confirmed the players would be coming together to watch the match, with some players, including the winger, having previously chosen to avoid watching Spurs\u2019 efforts to catch them. \u201cThey\u2019ve got a tough game away at Chelsea and we\u2019ll be watching that with a close eye on it,\u201d he said. \u201cI don\u2019t think we can ignore this one. I didn\u2019t watch last week, but I think when there is a chance to win the league, like this week, we have all got to watch it.\u201d Leicester\u2019s 1-1 draw with Manchester United took them eight points clear and meant Tottenham must beat Chelsea at Stamford Bridge to keep the title race going. Spurs have not won at Chelsea in 28 matches spread across 26 years, when Gary Lineker scored the winner.           Leicester City\u2019s Claudio Ranieri: I\u2019ll be last to know if Spurs lose",
+  "webTitle": "Jamie Vardy\u2019s having a party: Leicester players watch Spurs at striker\u2019s house",
+  "webPublicationDate": "2016-05-02T15:05:44Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/02/jamie-vardy-party-host-leicester-players-tottenham-match",
+  "keyword": [
+    {
+      "webTitle": "Leicester City",
+      "id": "football/leicestercity",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Jamie Vardy",
+      "id": "football/jamie-vardy",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Tottenham Hotspur",
+      "id": "football/tottenham-hotspur",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Claudio Ranieri",
+      "id": "sport/claudio-ranieri",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "football/2016/may/02/jamie-vardy-party-host-leicester-players-tottenham-match"
+}

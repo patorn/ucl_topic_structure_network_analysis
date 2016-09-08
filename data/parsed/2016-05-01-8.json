@@ -1,0 +1,24 @@
+{
+  "apiUrl": "https://content.guardianapis.com/crosswords/2016/may/02/genius-no-155",
+  "id": "2016-05-01-8",
+  "sectionId": "crosswords",
+  "body": "Ten across and six down clues contain a word superfluous to the definition or wordplay involved. In each case, this word provides a cryptic instruction as to how that solution is to be modified before insertion in the grid. All the required entries are real words. Deadline for entries is 23:59 GMT on Saturday 4 June. You need to register once and then sign in to theguardian.com to enter our online competition for a \u00a3100 monthly prize. Click here to register.",
+  "webTitle": "Genius No 155",
+  "webPublicationDate": "2016-05-01T23:01:07Z",
+  "webUrl": "https://www.theguardian.com/crosswords/2016/may/02/genius-no-155",
+  "keyword": [
+    {
+      "webTitle": "Crosswords",
+      "id": "crosswords/crosswords",
+      "sectionId": "crosswords",
+      "sectionName": "Crosswords"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Puck",
+      "id": "profile/puck"
+    }
+  ],
+  "guardianId": "crosswords/2016/may/02/genius-no-155"
+}

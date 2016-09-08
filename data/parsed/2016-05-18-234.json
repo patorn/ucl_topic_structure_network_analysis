@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/18/household-finances-under-most-pressure-in-22-months-markit",
+  "id": "2016-05-18-234",
+  "sectionId": "business",
+  "body": "British households were under the worst financial strain in almost two years in May, according to a new report. Weak pay growth, a drop in savings, and higher prices weighed heavily on family budgets in May, the survey by Markit found. The headline index on personal finances \u2013 where anything below 50 indicates decline \u2013 fell to 42.3 in May from 45.1 in April. It was the lowest level in 22 months, described by Markit as \u201ca substantial deterioration in financial wellbeing\u201d. Philip Leake, economist at the research company, said: \u201cIn a period of heightened uncertainty ahead of the EU referendum, Markit\u2019s household finance index pointed to a marked financial squeeze in May, but households\u2019 expectations for the year ahead were little-changed since April. \u201cUnderlying data highlighted stronger price pressures as a key reason behind the downturn. Current inflation perceptions picked up to a 17-month high. Along with higher prices, households reported weak pay growth and a sharper drop in savings.\u201d The tighter squeeze on personal finances was broad-based and felt by employees of all job sectors included in the survey and across all regions of the UK. People working in media and culture jobs were the most pessimistic, closely followed by people working in the retail industry. The biggest declines in personal finances were felt in Wales, followed by London. Households said a pick-up in price pressures was weighing on finances, with inflation perceptions at the highest in 17 months. UK inflation was steadily picking up from a low of -0.1% in October 2015, until official figures published on Tuesday revealed the first drop in annual inflation in seven months in April. The consumer prices index fell to 0.3% from 0.5% in March. The Markit report also revealed a sharp drop in household savings, which fell at the fastest rate since September 2014. The outlook for financial wellbeing over the next 12 months was a little less bleak, nudging up to 49.6 in May, from 49.5 in May. Public sector workers were more gloomy about the future than those in the private sector, Markit said. \u201cDownbeat sentiment was recorded overall in spite of sustained optimism in the private sector \u2013 largely due to greater pessimism among public sector workers.\u201d Despite the view among households that inflationary pressures were building, they pushed back their expectations for a rise in UK interest rates. The proportion of those expecting a rate hike in the next six months dropped to 22% in May from 25% in April. Looking further ahead, 46% of households thought the Bank of England would raise rates within the next 12 months, down from 51% in April.",
+  "webTitle": "Household finances 'under most pressure in 22 months'",
+  "webPublicationDate": "2016-05-18T10:35:50Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/18/household-finances-under-most-pressure-in-22-months-markit",
+  "keyword": [
+    {
+      "webTitle": "Consumer spending",
+      "id": "business/consumerspending",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Household bills",
+      "id": "money/household-bills",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Consumer affairs",
+      "id": "money/consumer-affairs",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Angela Monaghan",
+      "id": "profile/angela-monaghan"
+    }
+  ],
+  "guardianId": "business/2016/may/18/household-finances-under-most-pressure-in-22-months-markit"
+}

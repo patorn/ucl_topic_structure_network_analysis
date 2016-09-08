@@ -1,0 +1,84 @@
+{
+  "apiUrl": "https://content.guardianapis.com/australia-news/2016/may/05/police-could-ban-australians-from-mosques-on-gut-feeling",
+  "id": "2016-05-05-346",
+  "sectionId": "australia-news",
+  "body": "Sweeping police powers passed by the New South Wales upper house are so broad they could lead to Australians being prevented from visiting churches, mosques or attending public protests simply on the \u201cgut feeling\u201d of police officers, critics have warned. A bill passed by the NSW upper house on Wednesday granted police extraordinary powers to create serious crime prevention orders and public safety orders.    Related: Police powers: prevention orders could set up 'rival justice system' in NSW    Both types of orders effectively permit police to impose draconian measures against individuals when they have insufficient evidence for a criminal prosecution, or after a criminal sentence has expired. The move has sparked a strong response from the NSW Bar Association. It says serious crime prevention orders would effectively set up a \u201crival criminal justice system\u201d. The orders would give police similar powers to those they have to seek and impose control orders on terrorism suspects \u2013 but they could be applied to all citizens who are alleged to have some proximity to or involvement in a serious crime, without a person ever being found guilty of an offence. The Greens upper house member David Shoebridge was highly critical of the laws in parliament, and said they could be used simply on the \u201cgut feeling\u201d of police officers. He warned of the disproportionate effects the powers would likely have on vulnerable people. Labor was also opposed to the passage of the public safety orders, which would allow police to make wide orders to restrict a person from ordinary daily activities \u2013 like using a phone or attending a particular location \u2013 for up to a 72-hour period, without any right to appeal the decision before a court. The Labor upper house member Adam Searle introduced an amendment to enhance some protections for the orders, including increasing judicial oversight to give \u201cmeaningful avenue of appeal\u201d against them. He told the chamber in relation to the public safety orders: \u201cWe have these powerful orders that relatively junior police officers can issue against a person based on that police officer\u2019s belief, which may or may not be correct but which certainly cannot be scrutinised or reviewed.\u201d The amendment failed. Shoebridge also raised a series of amendments in an attempt to scrap both types of orders. In an exchange that illuminated the at times cosy relationship between the police and the church, the government\u2019s leader in the legislative council, Duncan Gay, said: \u201cThe police like churches.\u201d When Shoebridge raised the issue of preventing individuals accessing mosques, no interjections were made from the chamber. Shoebridge said: \u201cThere is a complicit silence from members of the Legislative Council who were comfortable to say that these orders would not be made to prevent a person from attending church for the term of their natural life.\u201d \u201cLet us be clear, those opposite want to be able to make unreviewable orders to prevent somebody from going to a mosque for the rest of their natural life and that is why they oppose a right to appeal.\u201d   Related: NSW police to get \u2018extreme\u2019 powers over suspected \u2018serious crime-related activity\u2019    Legal groups have also raised serious concerns about the bill. David Porter, police powers solicitor at Redfern Legal Centre, said the new powers essentially removed equality before the law. \u201cThis isn\u2019t a question of the gradual erosion of equality before the law \u2013 the passing of these bills means it is gone,\u201d Porter said. \u201cThese new bills introduce public safety orders that are not about safety, but about control. They are about shutting down all sorts of public events, from protests to footy finals.\u201d \u201cWe can expect these serious crime prevention order applications to be substantially based, and determined, on secret police intelligence and evidence that police say cannot be shown to the person or their lawyer. In addition, the orders which will control the next five years of a person\u2019s life, are determined on a lower burden of proof than normally applies in criminal proceedings.\u201d",
+  "webTitle": "Police could ban Australians from mosques 'on gut feeling'",
+  "webPublicationDate": "2016-05-05T03:52:59Z",
+  "webUrl": "https://www.theguardian.com/australia-news/2016/may/05/police-could-ban-australians-from-mosques-on-gut-feeling",
+  "keyword": [
+    {
+      "webTitle": "Australian police and policing",
+      "id": "australia-news/police-policing-australia",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "New South Wales politics",
+      "id": "australia-news/new-south-wales-politics",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "New South Wales",
+      "id": "australia-news/new-south-wales",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australian Greens",
+      "id": "australia-news/australian-greens",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Labor party",
+      "id": "australia-news/labor-party",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Coalition",
+      "id": "australia-news/coalition",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australian law",
+      "id": "australia-news/australian-law",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Human rights",
+      "id": "law/human-rights",
+      "sectionId": "law",
+      "sectionName": "Law"
+    },
+    {
+      "webTitle": "Law",
+      "id": "law/law",
+      "sectionId": "law",
+      "sectionName": "Law"
+    },
+    {
+      "webTitle": "Australian security and counter-terrorism",
+      "id": "australia-news/australian-security-and-counter-terrorism",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Paul Farrell",
+      "id": "profile/paul-farrell"
+    }
+  ],
+  "guardianId": "australia-news/2016/may/05/police-could-ban-australians-from-mosques-on-gut-feeling"
+}

@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/24/manchester-united-ed-woodward-jose-mourinho-agent",
+  "id": "2016-05-24-222",
+  "sectionId": "football",
+  "body": "Manchester United\u2019s executive vice-chairman, Ed Woodward, is meeting Jorge Mendes, the representative of Jos\u00e9 Mourinho, in London on Tuesday to finalise the Portuguese\u2019s contract to replace Louis van Gaal as manager of the club.   Related: Ryan Giggs offered role on Mourinho\u2019s coaching staff at Manchester United    The hope is for the terms to be agreed and signed by Wednesday night, though there is a recognition from both parties Mourinho may not officially takeover until the latter part of the week. The 53-year-old is expected to seal a three-year deal worth in excess of the \u00a37.5m salary he earned at Chelsea before being sacked in December.   Related: David Squires on \u2026 Louis van Gaal's Manchester United swansong    Mendes\u2019s status as one of football\u2019s most powerful agents, who acts for many players of interest to Mourinho, will aid the incoming new No1 as he seeks to strengthen United\u2019s squad. Mourinho has to do so without the attraction of Champions League football, after Van Gaal took the club to fifth position, in his second season. The Dutchman was sacked on Monday, 48 hours after guiding them to the FA Cup victory over Crystal Palace at Wembley. Meanwhile, Ryan Giggs has been offered a role on Mourinho\u2019s coaching staff but could still decide to end a 25-year association with the club. The Portuguese is also likely to want to bring his long-term assistant Rui Faria to the club, casting doubt on the role which has been offered to Giggs. No official confirmation on the remainder of Van Gaal\u2019s backroom team has been made, but it has been reported that assistant coaches Albert Stuivenberg and Frans Hoek, as well as the performance analyst Max Reckers, have left.",
+  "webTitle": "Manchester United\u2019s Ed Woodward meets Jos\u00e9 Mourinho\u2019s agent in London",
+  "webPublicationDate": "2016-05-24T10:40:08Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/24/manchester-united-ed-woodward-jose-mourinho-agent",
+  "keyword": [
+    {
+      "webTitle": "Manchester United",
+      "id": "football/manchester-united",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Jos\u00e9 Mourinho",
+      "id": "football/jose-mourinho",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Ryan Giggs",
+      "id": "football/ryan-giggs",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jamie Jackson",
+      "id": "profile/jamiejackson"
+    }
+  ],
+  "guardianId": "football/2016/may/24/manchester-united-ed-woodward-jose-mourinho-agent"
+}

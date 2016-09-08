@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/12/conservatives-court-campaign-spending-details-electoral-commission",
+  "id": "2016-05-12-219",
+  "sectionId": "politics",
+  "body": "The Conservative party is being taken to court by the election watchdog amid claims that it breached spending rules. The Electoral Commission has applied to the high court for a document and information disclosure order after party chiefs failed to provide requested details.  The legal action will lead to claims that the party and its chairman, Andrew Feldman, are dragging their feet over allegations that the Conservatives broke spending laws in last year\u2019s general election campaign.  Nine police forces have also launched fraud investigations into claims that the Conservatives recorded the costs of activists being bussed into marginal seats as part of the national campaign rather than under individual candidates\u2019 limits.    Related: Nine police forces now investigating claims Tories breached spending rules    The commission said in a statement that the party had not fully complied with two statutory notices requiring it to produce information \u2013 providing \u201climited disclosure of material in response to the first notice [issued on 18 February 2016] and no material in response to the second notice [issued on 23 March 2016]\u201d \u2013 despite being granted extensions to the original deadlines.  Bob Posner, director of the commission\u2019s party and election finance and legal counsel, said: \u201cIf parties under investigation do not comply with our requirements for the disclosure of relevant material in reasonable time and after sufficient opportunity to do so, the commission can seek recourse through the courts.  \u201cWe are today asking the court to require the party to fully disclose the documents and information we regard as necessary to effectively progress our investigation into the party\u2019s campaign spending returns.\u201d  The party acknowledges that some accommodation for activists was not properly registered but insists that the bus tour was part of the national campaign organised by Conservative campaign headquarters (CCHQ) and as such did not fall to be recorded in individual constituency spending limits.  The case has led to calls for the new police and crime commissioner (PCC) for Devon and Cornwall to stand aside while she is investigated over her part in the campaign.  Alison Hernandez, who was elected last week, was the agent for Conservative candidate Kevin Foster in Torbay, one of the constituencies involved.  A Conservative party spokeswoman said: \u201cWe advised the Electoral Commission on 29 April that we would comply with their notices by 1pm today \u2013 and we will do so. There was no need for them to make this application to the high court.\u201d  This article was amended on 12 May 2016. An earlier version said it was claimed that the Conservatives recorded the costs of activists being bussed into marginal seats under individual candidates\u2019 limits rather than as part of the national campaign. The claim is that the opposite occurred. This has been corrected.",
+  "webTitle": "Conservatives taken to court over campaign spending details",
+  "webPublicationDate": "2016-05-12T12:18:01Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/12/conservatives-court-campaign-spending-details-electoral-commission",
+  "keyword": [
+    {
+      "webTitle": "Conservatives",
+      "id": "politics/conservatives",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "General election 2015",
+      "id": "politics/general-election-2015",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Rajeev Syal",
+      "id": "profile/rajeev-syal"
+    }
+  ],
+  "guardianId": "politics/2016/may/12/conservatives-court-campaign-spending-details-electoral-commission"
+}

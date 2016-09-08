@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/lifeandstyle/2016/may/29/vertigo-migraines-dizziness-ear-infection-health-guide",
+  "id": "2016-05-29-86",
+  "sectionId": "lifeandstyle",
+  "body": "Up to one in 10 people will experience vertigo, dizziness or unsteadiness in any given year. In the vast majority of cases, the symptoms are unpleasant but harmless, and get better without treatment. Vertigo is used by health profressionals to describe the feeling that you, or the world around you, is moving when it is not: Alfred Hitchock\u2019s masterpiece Vertigo is actually about a man\u2019s morbid fear of heights (acrophobia) and not true vertigo, although the terms are often used interchangeably. Have I got dizziness or vertigo? Specialist physiotherapist Nicola Harris says \u201cdizziness covers a multitude of things. It can be a lightheaded feeling, like you are going to faint, which is more likely to be a cardiovascular or breathing pattern problem. Or you may feel unsteady on your feet. When you move your head, it can feel like what you are looking at has to \u2018catch up\u2019 with you afterwards.\u201d Dr Diego Kaski, neuro-otologist at London\u2019s Charing Cross hospital, says vertigo creates the illusion of movement. Normally, the brain recognises that you are moving by integrating signals from your eyes, inner ear and receptors that sense body movement in the neck and limbs. But in true vertigo, you feel as though you are standing still while the world moves around you. What causes it?  Vertigo is often attributed to an inner ear infection called vestibular neuritis that starts after a cold and can last for up to a couple of weeks. But Kaski says vertigo is often mislabelled as this when in fact benign paroxysmal positional vertigo (BBPV), and vestibular migraine are the more common and likely culprits. BPPV is a mechanical problem of the inner ear. We have crystals inside the inner-ear balance organs that move when we do, but if the signals lag behind those emitted from the eyes and limbs, it creates an illusion of movement. In vertigo, the inner-ear signals cause jerky, uncoordinated eye movements, known as nystagmus, which conflict with the brain\u2019s other movement signals. The repeated attacks usually last less than 30 seconds, and are precipitated by head movements including rolling over in bed or looking up. It could be a migraine One in 10 people with migraines get bouts of vertigo which come and go, that don\u2019t necessarily coincide with the more typical symptoms of a headache and can last from a few seconds to a few days. These people may be hypersensitive to light, noise and smells. The treatment is the same as managing migraine headaches: try to identify and avoid triggers, short-term painkillers and anti-sickness medication and long-term preventive treatments such as beta blockers. How do I treat vertigo? It depends on the cause. Medical advice for vestibular neuritis is to avoid bed rest and get back to normal life as quickly as possible. This kick-starts the brain into compensating for the vertigo so it doesn\u2019t become a long-term problem. BPPV can be cured by head movement exercises (for example, the Epley manoeuvre or Brandt-Daroff exercises) that reset the inner-ear organ of balance. Kaski is exploring novel ways of delivering this treatment using virtual reality glasses and a mobile phone app. You will be guided through the exercises without having to wait months for an appointment with a trained physiotherapist. Drug treatment of BPPV doesn\u2019t work very well, according to Kaski. Prochlorperazine is good for nausea, but Betahistine, often prescribed by GPs, doesn\u2019t help much at the doses that are given. Kaski is interested in non-invasive brain stimulation. An electrical coil is placed over the head overlying the part of the brain \u2013 the parietal lobe \u2013 that processes balance. Modifying the electrical activity in this may relieve vertigo. Can it be caused by stress? There is certainly a link to stress; animals, including us, rely on signals about movement of predators and prey to survive. Illusions of movement activate the autonomic nervous system, which includes an adrenaline-fuelled fight-or-flight reaction. The extra adrenaline can cause unpleasant symptoms such as palpitations and anxiety. Conversely, anxiety itself can cause unsteadiness; people say it feels as if the world is moving under their feet. Why do some people get vertigo more than others? Some people are prone to vertigo because they are more visually dependent than others. This group will think they are moving because the signal from their eyes isn\u2019t being integrated with the information from their body. We all experience this to a certain extent; when you are sitting on a train and it pulls out slowly from the station, it can be hard to know what\u2019s moving. What else could it be? Meniere\u2019s disease is a rare condition that affects the inner ear. It causes sudden attacks of vertigo lasting two to three hours, with ringing in the ears (tinnitus) and progressive hearing loss. Harris says further investigations, scan and consultations are important if there are any red-flag symptoms suggesting more serious underlying disease. These rare but potentially dangerous conditions include head injuries, strokes, multiple sclerosis, acoustic neuromas (benign growths on the nerve in the inner ear) and brain tumours.",
+  "webTitle": "Everything you ever wanted to know about vertigo (but were too dizzy to ask)",
+  "webPublicationDate": "2016-05-29T14:00:06Z",
+  "webUrl": "https://www.theguardian.com/lifeandstyle/2016/may/29/vertigo-migraines-dizziness-ear-infection-health-guide",
+  "keyword": [
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Health & wellbeing",
+      "id": "lifeandstyle/health-and-wellbeing",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ann Robinson",
+      "id": "profile/annrobinson"
+    }
+  ],
+  "guardianId": "lifeandstyle/2016/may/29/vertigo-migraines-dizziness-ear-infection-health-guide"
+}

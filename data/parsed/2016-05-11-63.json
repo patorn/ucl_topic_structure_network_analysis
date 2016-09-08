@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/11/bee-colony-deaths-environmental-problems",
+  "id": "2016-05-11-63",
+  "sectionId": "environment",
+  "body": "More than a quarter of American honeybee colonies were wiped out over the winter, with deadly infestations of mites and harmful land management practices heaping mounting pressure upon the crucial pollinators and the businesses that keep them. Preliminary figures commissioned by the US Department of Agriculture (USDA) show that 28% of bee colonies in the United States were lost over the 2015-16 winter. More than half of surveyed beekeepers said they suffered unsustainable losses during the winter. Over the year, from April 2015 to March 2016, beekeepers lost 44% of their colonies \u2013 the highest annual loss on record. Until six years ago annual figures were not kept as it was assumed colony losses were only suffered during winter, but similar declines are now occurring year-round. \u201cIt\u2019s very troubling and what really concerns me that we are losing colonies in summer too, when bees should be doing so well,\u201d said Dennis vanEngelsdorp, a University of Maryland bee scientist and survey leader. \u201cThis suggests there is something more going on \u2013 bees may be the canary in the coalmine of bigger environmental problems.    Bees may be the canary in the coal mine of bigger environmental problems  Dennis vanEngelsdorp     \u201cOne in three bites of food we eat is directly or indirectly pollinated by bees. If we want to produce apples, cucumbers, almonds, blueberries and lots of other types of food, we need a functioning pollination system. Bees, and the beekeeping industry, will suffer dramatically if we don\u2019t have that.\u201d Bees\u2019 woes have been pinned to a number of factors, including the mass conversion of pollen-rich meadows into heavily farmed land for staples such as corn and soy beans. Pesticide use and the spread of the varroa mite, parasites that suck blood from bees, which weakens and even kills off colonies, are also driving the decline. There were an estimated 5m bee colonies in the US in 1940, but only half of them now remain. Numbers have rebounded slightly over the past decade but vanEngelsdorp said \u201cthis is not a reassuring sign\u201d as it suggests beekeepers are deliberately creating more colonies in the expectation they will die off. As colony losses mount, both backyard beekeepers and the much larger commercial industry face escalating costs to remain viable. Queen bees are having to be artificially replaced more regularly, with follow-up treatment required to keep the colony sustainable. There are specialist queen bee producers across the US that supply queens to beekeepers looking to save a colony or create a new one. The queens, which are created when a female bee is fed royal jelly during the first three days of her life, are placed in tiny cages and sent in the mail to beekeepers. \u201cThere is more and more effort being put into keeping colonies alive,\u201d said vanEngelsdorp. \u201cWe are seeing greater cost pressures to pollinate crops. It costs around $200 a year to keep a colony alive and replace a queen. You\u2019re lucky if you make $200 a year through the honey produced, so a lot of operators aren\u2019t even breaking even. There are a lot who are really hurting.\u201d Environmental groups have called for a range of common pesticides to be phased out to help bee populations recover. The Environmental Protection Agency is investigating the risk posed by neonicotinoids, the world\u2019s most widely used class of insecticides, with initial results suggesting they may pose a risk to honeybees and the $15bn in agricultural value they provide through pollination. \u201cThese honeybee losses reinforce what science continues to tell us; we must take immediate action to restrict pesticides contributing to bee declines,\u201d said Tiffany Finck-Haynes, food futures campaigner with Friends of the Earth.  \u201cThe longer we wait, the worse the situation becomes. If we do not suspend neonicotinoid pesticides immediately, we risk losing our beekeepers and harming important ecosystem functions upon which our food supply depends.\u201d Last year, Barack Obama\u2019s administration created a taskforce to look at the issue of bee colony loss. The plan is largely based around restoring traditional bee-friendly habitat and analyzing the role that pesticides play in bee health.",
+  "webTitle": "28% of US bees wiped out this winter, suggesting bigger environmental issues",
+  "webPublicationDate": "2016-05-11T18:59:25Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/11/bee-colony-deaths-environmental-problems",
+  "keyword": [
+    {
+      "webTitle": "Bees",
+      "id": "environment/bees",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Insects",
+      "id": "environment/insects",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Wildlife",
+      "id": "environment/wildlife",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Animals",
+      "id": "world/animals",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Agriculture",
+      "id": "science/agriculture",
+      "sectionId": "science",
+      "sectionName": "Science"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Oliver Milman",
+      "id": "profile/oliver-milman"
+    }
+  ],
+  "guardianId": "environment/2016/may/11/bee-colony-deaths-environmental-problems"
+}

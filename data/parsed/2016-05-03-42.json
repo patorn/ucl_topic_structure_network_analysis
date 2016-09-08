@@ -1,0 +1,84 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/03/climate-change-water-shortage-middle-east-asia-africa-world-bank",
+  "id": "2016-05-03-42",
+  "sectionId": "environment",
+  "body": "Water shortages will deliver a \u201csevere hit\u201d to the economies of the Middle East, central Asia, and Africa by the middle of the century, taking double digits off their GDP, the World Bank warned on Tuesday. By 2050, growing demand for cities and for agriculture would put water in short supply in regions where it is now plentiful \u2013 and worsen shortages across a vast swath of Africa and Asia, spurring conflict and migration, the bank said. Water shortages could strip off 14% of GDP in the Middle East and nearly 12% of GDP in the Sahel \u2013 without a radical shift in management, according to the bank\u2019s projections.  Central Asia could lose close to 11% of GDP and east Asia about 7% under business-as-usual water management policies, according to a new report. Taking into account all regions, the mid-range toll of water shortages on GDP was about 6%. \u201cThere is a severe hit on GDP,\u201d said Richard Damania, lead environmental economist for the Bank and author of High and Dry: Climate Change, Water and the Economy.     Global water scarcity impact on GDP. Photograph: World Bank    Governments have grown increasingly concerned about the threat to water supply because of a combination of climate change and increasing demand. Barack Obama invited business leaders to the White House last March for a business summit aimed at protecting California from the next drought \u2013 by mobilising investment in data and other technologies that would promote more efficient use of water. The biggest economic hit due to water deficits were expected to occur in the Middle East, north Africa, central Asia, and parts of south Asia, the report found. There would be virtually no impact on the economies of North America and western Europe.  Much of the world faces a hotter and drier future under climate change, according to scientists. Rainfall \u2013 including the monsoons that fortify agriculture in south Asia \u2013 will become more unpredictable. Storm surges could contaminate freshwater reservoirs. But there will also be pressure on water supply from rising populations \u2013 especially in cities \u2013 and increased demand from agriculture. \u201cIt turns out that economic growth is a thirsty business,\u201d Damania said. Some cities could see water availability drop by two-thirds by 2050, the report found. Water shortages could have rebounding effects on food production, public health, and household incomes \u2013 with families forced to pay more for a basic necessity.  But, the report said, encouraging more efficient use of water could make a big difference in the mid-century economic scenarios for regions threatened by water shortages.  In some countries, about two-thirds of water is lost to old and leaky pipes.  Good water management policies would add more than 11% to the GDP of central Asian countries and blunt the impact of water shortages in the Middle East, the report found.",
+  "webTitle": "Global water shortages to deliver 'severe hit' to economies, World Bank warns",
+  "webPublicationDate": "2016-05-03T19:00:06Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/03/climate-change-water-shortage-middle-east-asia-africa-world-bank",
+  "keyword": [
+    {
+      "webTitle": "Water",
+      "id": "environment/water",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Climate change",
+      "id": "environment/climate-change",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "World Bank",
+      "id": "business/worldbank",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Middle East and North Africa",
+      "id": "world/middleeast",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Africa",
+      "id": "world/africa",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Asia Pacific",
+      "id": "world/asia-pacific",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Global economy",
+      "id": "business/global-economy",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Suzanne Goldenberg",
+      "id": "profile/suzannegoldenberg"
+    }
+  ],
+  "guardianId": "environment/2016/may/03/climate-change-water-shortage-middle-east-asia-africa-world-bank"
+}

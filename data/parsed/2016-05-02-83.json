@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://content.guardianapis.com/stage/2016/may/02/letter-gareth-thomas-obituary",
+  "id": "2016-05-02-83",
+  "sectionId": "stage",
+  "body": "You mention Gareth Thomas\u2019s role as Mat Burke in the RSC\u2019s Anna Christie. In 1980 I was one of the two crew working the scene changes on this production at the Warehouse, the other being Keith Clarke, the chief technician. The three of us had played rugby at schoolboy level to a high standard (Gareth and Keith to a higher standard than mine) and we used to go to the pub for a post-show drink. I shall never forget Gareth\u2019s favourite exclamation: \u201cWell, bring me my brass-bound buggery box!\u201d",
+  "webTitle": "Letter: Gareth Thomas obituary",
+  "webPublicationDate": "2016-05-02T16:43:28Z",
+  "webUrl": "https://www.theguardian.com/stage/2016/may/02/letter-gareth-thomas-obituary",
+  "keyword": [
+    {
+      "webTitle": "Theatre",
+      "id": "stage/theatre",
+      "sectionId": "stage",
+      "sectionName": "Stage"
+    },
+    {
+      "webTitle": "Royal Shakespeare Company",
+      "id": "stage/rsc",
+      "sectionId": "stage",
+      "sectionName": "Stage"
+    },
+    {
+      "webTitle": "Stage",
+      "id": "stage/stage",
+      "sectionId": "stage",
+      "sectionName": "Stage"
+    }
+  ],
+  "authors": [],
+  "guardianId": "stage/2016/may/02/letter-gareth-thomas-obituary"
+}

@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/12/guardians-financial-editor-appointed-staff-representative-on-scott-trust",
+  "id": "2016-05-12-206",
+  "sectionId": "media",
+  "body": "Guardian financial editor Nils Pratley has been appointed as journalist director to the Scott Trust, the ultimate owner of the Guardian and the Observer, following his victory in an indicative ballot of editorial staff held earlier this month. After winning the ballot organised by the National Union of Journalists in which 65% of staff voted, Pratley\u2019s appointment had to be approved by 75% of the directors on the Scott Trust. Pratley said: \u201cIt is a privilege to represent the Guardian and Observer journalists on the board of the Scott Trust. I look forward to the challenge as the trust works to uphold our editorial traditions through these testing times for all media companies.\u201d Scott Trust chair Dame Liz Forgan said: \u201cWe are delighted to welcome Nils to the Scott Trust board. He has extensive experience as a journalist as well as in depth knowledge across the business and financial sectors and I am confident that he will be an asset to both the trust and the journalists he is representing.\u201d  Pratley, who has been a Guardian journalist for 13 years, replaces Heather Stewart, who stood down in March 2016 to become the Guardian\u2019s joint political editor. Alan Rusbridger, who stood down as Guardian editor-in-chief after two decades last summer, is set to take up the role of chairman of the Scott Trust from September.",
+  "webTitle": "Guardian's financial editor appointed staff representative on Scott Trust",
+  "webPublicationDate": "2016-05-12T12:44:23Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/12/guardians-financial-editor-appointed-staff-representative-on-scott-trust",
+  "keyword": [
+    {
+      "webTitle": "The Guardian",
+      "id": "media/theguardian",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "The Observer",
+      "id": "media/theobserver",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Guardian Media Group",
+      "id": "media/guardianmediagroup",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media business",
+      "id": "media/mediabusiness",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "National newspapers",
+      "id": "media/national-newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers",
+      "id": "media/newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers & magazines",
+      "id": "media/pressandpublishing",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jasper Jackson",
+      "id": "profile/jasper-jackson"
+    }
+  ],
+  "guardianId": "media/2016/may/12/guardians-financial-editor-appointed-staff-representative-on-scott-trust"
+}

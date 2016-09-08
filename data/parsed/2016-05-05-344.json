@@ -1,0 +1,43 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/05/injured-turbulence-etihad-airways-flight-indonesia",
+  "id": "2016-05-05-344",
+  "sectionId": "world",
+  "body": "Thirty-one passengers and crew were injured, nine seriously, after an Etihad Airways flight experienced \u201csevere and unexpected turbulence\u201d on its journey to Indonesia. The Airbus A330-200, flying from the Emirati capital of Abu Dhabi, encountered the sudden turbulence 45 minutes prior to its arrival at Jakarta\u2019s Soekarno Hatta international airport on Wednesday, the airline said. \u201cA total of 31 passengers and crew were injured. Twenty two have been released from the airport clinic after being treated by paramedics for minor injuries.   Related: How the other half fly: what air rage tells us about inequality | Anne Perkins    \u201cNine other passengers and a crew member were taken to a local hospital,\u201d the Etihad statement said. Haerul Anwar, a spokesman for the airport, described nine of the injuries as serious. He said officials from the airport and Indonesia\u2019s national transportation safety committee were inspecting the plane. Indonesian transportation ministry spokesman Hemi Pamuraharjo said at least eight Indonesian passengers and a foreign flight attendant were among the injured, with several suffering broken bones. Flight EY474 landed safely at Soekarno Hatta, the Abu Dhabi-based airline said, adding that medical assistance teams met passengers as they disembarked. Passengers onboard who spoke to Jakarta-based news website Okezone said oxygen masks tumbled out in the turbulence and passengers, including Muslim pilgrims returning from Saudi Arabia, were hurt. Cabin storage areas were also damaged, the airline said. The return flight to Abu Dhabi was cancelled, with Etihad saying it would provide support to passengers to rebook for different flights or find accommodation in Jakarta. Associated Press and Agence France-Presse contributed to this report",
+  "webTitle": "More than 30 injured as turbulence hits Etihad Airways flight to Indonesia",
+  "webPublicationDate": "2016-05-05T03:59:43Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/05/injured-turbulence-etihad-airways-flight-indonesia",
+  "keyword": [
+    {
+      "webTitle": "Air transport",
+      "id": "world/air-transport",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Indonesia",
+      "id": "world/indonesia",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Airline industry",
+      "id": "business/theairlineindustry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Asia Pacific",
+      "id": "world/asia-pacific",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [],
+  "guardianId": "world/2016/may/05/injured-turbulence-etihad-airways-flight-indonesia"
+}

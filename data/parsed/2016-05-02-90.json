@@ -1,0 +1,25 @@
+{
+  "apiUrl": "https://content.guardianapis.com/books/2016/may/02/jenny-diski-obituary-letter",
+  "id": "2016-05-02-90",
+  "sectionId": "books",
+  "body": "At the same time as Jenny Diski was at St Christopher\u2019s, Hertfordshire, I was at St Francis\u2019 college, the convent just along the road. We were so envious of the pupils at St C\u2019s, who as far as we were concerned lived lives of total indiscipline and fun. No rules was what we heard. So I\u2019m disillusioned to discover that she was expelled at all, let alone for going to a party \u201cin town\u201d. Letchworth? I hope it was more exciting than that.",
+  "webTitle": "Letter: Jenny Diski obituary",
+  "webPublicationDate": "2016-05-02T16:17:14Z",
+  "webUrl": "https://www.theguardian.com/books/2016/may/02/jenny-diski-obituary-letter",
+  "keyword": [
+    {
+      "webTitle": "Jenny Diski",
+      "id": "books/jenny-diski",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Books",
+      "id": "books/books",
+      "sectionId": "books",
+      "sectionName": "Books"
+    }
+  ],
+  "authors": [],
+  "guardianId": "books/2016/may/02/jenny-diski-obituary-letter"
+}

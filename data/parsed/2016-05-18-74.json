@@ -1,0 +1,55 @@
+{
+  "apiUrl": "https://content.guardianapis.com/books/2016/may/18/why-we-shouldnt-dismiss-digital-books",
+  "id": "2016-05-18-74",
+  "sectionId": "books",
+  "body": "Physical books have been a passion, even an obsession, for most of my life. I have spent an inordinate time in bookshops and libraries. I\u00a0am, however, grateful to the Guardian online and a \u201cscreen\u201d (my tablet) that I could read Simon Jenkins\u2019 article (Books are back. Only the technodazzled thought they would go away, theguardian.com, 13\u00a0May). Although partially sighted, I still use the library, buy physical books and persevere with a magnifier \u2013 but I find ebooks so much easier if what I want is digitised. I am pleased that sales of physical books are rising, but we shouldn\u2019t dismiss advances in modern technology, and not only to make helpful adaptations to reading. Such advances could also help to make libraries viable \u2013 2014\u2019s Independent Library Report advocated a\u00a0\u201cnational digital network for libraries\u201d.Graham UllathorneChesterfield, Derbyshire \u2022 Join the debate \u2013 email guardian.letters@theguardian.com",
+  "webTitle": "Why we shouldn\u2019t dismiss digital books | Letters",
+  "webPublicationDate": "2016-05-18T17:53:00Z",
+  "webUrl": "https://www.theguardian.com/books/2016/may/18/why-we-shouldnt-dismiss-digital-books",
+  "keyword": [
+    {
+      "webTitle": "Ebooks",
+      "id": "books/ebooks",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Books",
+      "id": "books/books",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Kindle",
+      "id": "technology/kindle",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "E-readers",
+      "id": "technology/ereaders",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Libraries",
+      "id": "books/libraries",
+      "sectionId": "books",
+      "sectionName": "Books"
+    }
+  ],
+  "authors": [],
+  "guardianId": "books/2016/may/18/why-we-shouldnt-dismiss-digital-books"
+}

@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/science/2016/may/03/labradors-could-be-genetically-hard-wired-for-greed",
+  "id": "2016-05-03-115",
+  "sectionId": "science",
+  "body": "Labrador dogs are well known for being fond of their food, but new research suggests their greedy nature could be down to genetic mutation. Labrador retrievers are top dog in the UK, with 32,507 animals newly registered with the Kennel Club in 2015 alone. But the breed is well known for its tendency to develop a portly form, a concern given the variety of health problems - from diabetes to heart disease - linked to obesity.    Related: Owners must take the lead on canine obesity | Brief letters    To find out why the dogs are so food-focused, a team of researchers led by scientists at the University of Cambridge delved into the the dogs\u2019 genetic make up. Their results revealed that more than a fifth of labradors carry a variation in their DNA that could predispose them to weight gain.    Related: Open thread: labradors \u2013 are they really the best dogs ever?    \u201cThere is some hard-wired biology behind that persistent food-seeking behaviour,\u201d said Eleanor Raffan, a co-author of the research from the University of Cambridge.  For the study, published in the journal Cell Metabolism, Raffan, together with other scientists the UK, Sweden and the US, began by looking at differences in the DNA of 18 lean labradors and 15 obese dogs of the same breed. The team focused on examining the DNA sequences of three genes that had previously been linked to obesity in mice. Two of the genes are also linked to obesity in humans.  A single variation within one of the three genes was found to be more common in obese labradors than lean ones: the absence of a short stretch of DNA in a gene known as POMC. This mutation, the authors add, disrupts the formation of two chemicals: \u03b2-MSH, which is linked to the ability of an animal to sense the amount of fat it has stored, and \u03b2-endorphin, which is thought to be involved in the brain\u2019s reward pathways. To probe the effect of this mutation, Raffan and colleagues recruited a group of 310 labradors. On average, when factors such as age, gender, and whether they had been neutered were taken into account, dogs with one copy of the mutant gene were found to be 1.9kg heavier than those without, while dogs with two copies were on average 3.8kg heavier than dogs without the mutation.  Intriguingly, when they then examined the DNA of 38 other dog breeds, they found the mutation only appeared in one other type of dog: the flat-coated retriever. \u201cThat makes sense because they are closely related to labradors - they were founded from a common ancestor breed called the St John\u2019s water dog,\u201d said Raffan. Now extinct, this breed was used by fishermen to retrieve nets of fish from the cold waters of Newfoundland. St John\u2019s water dogs with the mutant gene might have been at an advantage through eating more.  \u201cIn that context, when you are doing really hard work and having to burn a lot of calories to stay warm, snaffling any food in sight might have been a really good idea,\u201d added Raffan. What\u2019s more, she said, dogs with the mutant gene might have been favoured by owners, as they were potentially easier to train with treats, resulting in the mutation being passed down to modern breeds.  The research also revealed another titbit. When the team focused on 81 labrador assistance dogs involved in the study, they found 76% of the dogs had at least one copy of the mutant gene. \u201cThat could be a quirk of the data, but the other hypothesis is that in order to become an assistance dog you have to be very well trained and pass a very rigorous selection process,\u201d said Raffan. Since training often relies of food rewards, Raffan believes dogs that are more food motivated as a result of the mutation might do better in the selection process.  But, the authors warn, the mutation is unlikely to be the only factor affecting canine waistlines. \u201cWithin our cohort we have overweight dogs without the mutation, we have very food motivated dogs without the mutation and equally we have dogs with the mutation who are lean because their owners keep them very well managed,\u201d said Raffan.  Yaiza Forcada, an expert in small animal internal medicine at the Royal Veterinary College, believes researchers now need to unpick the influence of the mutation. \u201cThe next step would be to find out a bit more details about how the mutation affects the dogs at the microscopic level. Knowing these details would open the door to developing treatment for those dogs affected by the mutation,\u201d she said.  Giles Yeo, a co-author of the study also from the University of Cambridge, says the research suggests that for some, weight problems might be at least partly driven by genetics. He says: \u201cObese people, obese animals are not fat because they are lazy and slothful and bad, but they are fighting their biology.\u201d",
+  "webTitle": "Labradors may be genetically 'hard-wired' for greed",
+  "webPublicationDate": "2016-05-03T16:08:25Z",
+  "webUrl": "https://www.theguardian.com/science/2016/may/03/labradors-could-be-genetically-hard-wired-for-greed",
+  "keyword": [
+    {
+      "webTitle": "Genetics",
+      "id": "science/genetics",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Dogs",
+      "id": "lifeandstyle/dogs",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Animals",
+      "id": "world/animals",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Biology",
+      "id": "science/biology",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Pets",
+      "id": "lifeandstyle/pets",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Obesity",
+      "id": "society/obesity",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Nicola Davis",
+      "id": "profile/nicola-davis"
+    }
+  ],
+  "guardianId": "science/2016/may/03/labradors-could-be-genetically-hard-wired-for-greed"
+}

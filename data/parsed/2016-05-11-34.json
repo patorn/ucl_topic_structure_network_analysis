@@ -1,0 +1,90 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/11/bbc3-birmingham-move-youth-team-bbc-news",
+  "id": "2016-05-11-34",
+  "sectionId": "media",
+  "body": "BBC3 is to move half of its operations to Birmingham, which will also be the home of a new youth team for BBC News and a base for the corporation\u2019s partnership with local newspapers. The corporation shut the BBC3 TV channel, home to shows including Gavin and Stacey and Don\u2019t Tell the Bride, to launch an online-only service targeting a youth audience. From 2018, Birmingham will be responsible for a third of BBC3\u2019s \u00a330m budget and the base for publishing, some production of short-form content and its social media team. The UK\u2019s second-largest city is to host a group of young people within BBC News, who will be the main suppliers of key news content for BBC3\u2019s Daily Drop.  The corporation will also run its initiative to find 150 journalists to support local newspaper publishers from the city.  The BBC said the new proposals build on its existing \u00a3125m investment in building up its operations in Birmingham.  Tony Hall, the BBC director general, said: \u201cI\u2019ve seen in Birmingham how much of a difference our extra investment in the past couple of years has made \u2013 but I\u2019ve also said there was more to do. \u201cNow we\u2019re putting Birmingham at the heart of our innovation. The city\u2019s incredible diversity also means it\u2019s the perfect place to lead our work to ensure we reflect the changing face of Britain. This package is good news for Birmingham and good news for the BBC.\u201d   Related: Government resists lords' calls for vote on BBC white paper    The announcement comes ahead of the publication of the government\u2019s white paper on the BBC, which will include putting measures of diversity into the corporation\u2019s next royal charter from 2017. Earlier this week, it emerged that the government had revived plans to potentially force Channel 4 to sell its \u00a3100m London HQ and move to either Birmingham or Manchester. The BBC said the enhanced Birmingham base would be \u201charnessed to act as part of the hub for the identification, development and commissioning of new diverse talent and programmes\u201d. Damian Kavanagh, the controller of BBC3, will split his time between London and Birmingham. Mark Rogers, the chief executive of Birmingham city council, said: \u201cThis welcome news represents a vote of confidence for Birmingham and underlines the growth of our creative sector.  \u201cOur city has the talent and creativity to play an important role in the next chapter of the BBC story. As a city, we have worked hard to make the case for Birmingham and this is a welcome development.\u201d",
+  "webTitle": "BBC3 to move half of its operations to hub in Birmingham by 2018",
+  "webPublicationDate": "2016-05-11T21:00:09Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/11/bbc3-birmingham-move-youth-team-bbc-news",
+  "keyword": [
+    {
+      "webTitle": "BBC3",
+      "id": "media/bbc3",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "BBC",
+      "id": "media/bbc",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Television industry",
+      "id": "media/television",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Birmingham",
+      "id": "uk/birmingham",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "London",
+      "id": "uk/london",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Television",
+      "id": "culture/television",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Television & radio",
+      "id": "tv-and-radio/tv-and-radio",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Young people",
+      "id": "society/youngpeople",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Mark Sweney",
+      "id": "profile/marksweney"
+    }
+  ],
+  "guardianId": "media/2016/may/11/bbc3-birmingham-move-youth-team-bbc-news"
+}

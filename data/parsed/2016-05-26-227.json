@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/26/bernie-sanders-disney-california-attack-wages-mickey-mouse",
+  "id": "2016-05-26-227",
+  "sectionId": "film",
+  "body": "Disney has come under fire from US presidential hopeful Bernie Sanders, after he used a rally in Anaheim, California, the Disneyland resort\u2019s home town, to attack the company\u2019s low wage level.  \u201cDisney pays its workers wages that are so low that many of them are forced to live in motels because they can\u2019t afford a decent place to live,\u201d said Sanders to a crowd that included Disney employees. \u201cMeanwhile Disney made a record-breaking profit of nearly $3bn last quarter\u201d. Sanders, who is currently running behind his Democrat rival Hillary Clinton, also criticised Disney\u2019s outsourcing of manufacturing to China. \u201cI say to Disney, bring Mickey Mouse and Donald Duck back to America,\u201d he said. The Walt Disney Company, which has recently scored global hits with Star Wars: The Force Awakens, Zootopia and The Jungle Book, reported record-breaking profits in the first quarter of 2016. The company pays Disneyland food service workers $10.30 an hour. Its CEO, Robert Iger, took home $46.5m in total compensation last year, a fact that was leapt on by Sanders during his speech.  Iger, a donor to the Clinton campaign, responded to Sanders\u2019s criticisms by posting a message on his private Facebook account, which was later obtained by website The Wrap.  \u201cTo Bernie Sanders: We created 11,000 new jobs at Disneyland in the past decade, and our company has created 18,000 in the US in the last five years,\u201d he wrote. \u201cHow many jobs have you created? What have you contributed to the US economy?\u201d \u201cMr. Sanders clearly doesn\u2019t have his facts right,\u201d Suzi Brown, a Disneyland spokesperson, said in a statement to Politico. \u201cThe Disneyland Resort generates more than $5.7bn annually for the local economy, and as the area\u2019s largest employer has added more than 11,000 jobs over the last decade\u201d.",
+  "webTitle": "Bernie Sanders tells Disney: 'Bring Mickey Mouse home'",
+  "webPublicationDate": "2016-05-26T11:17:47Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/26/bernie-sanders-disney-california-attack-wages-mickey-mouse",
+  "keyword": [
+    {
+      "webTitle": "Walt Disney Company",
+      "id": "film/walt-disney-company",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Bernie Sanders",
+      "id": "us-news/bernie-sanders",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US elections 2016",
+      "id": "us-news/us-elections-2016",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US politics",
+      "id": "us-news/us-politics",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Robert Iger",
+      "id": "media/robert-iger",
+      "sectionId": "media",
+      "sectionName": "Media"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Henry Barnes",
+      "id": "profile/henrybarnes"
+    }
+  ],
+  "guardianId": "film/2016/may/26/bernie-sanders-disney-california-attack-wages-mickey-mouse"
+}

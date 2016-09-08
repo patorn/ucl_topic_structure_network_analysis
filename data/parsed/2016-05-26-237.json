@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/us-news/2016/may/26/freddie-gray-baltimore-police-sue-marilyn-mosby",
+  "id": "2016-05-26-237",
+  "sectionId": "us-news",
+  "body": "Two of the officers charged in connection with the death of Freddie Gray in Baltimore last April filed a defamation and invasion of privacy lawsuit against state\u2019s attorney Marilyn Mosby. Officer William Porter \u2013 whose first trial ended with a hung jury in December \u2013 and Sgt Alicia White jointly filed suit against Mosby, the state, and other officials, alleging that the statements of charges \u201cwere made not for the purpose of prosecuting crimes that had allegedly been committed by White and Porter, but rather for purposes of quelling the riots in Baltimore\u201d, according to court documents. The plaintiffs attempted to keep the suit sealed but it was revealed on Wednesday, two days after Mosby\u2019s office lost its case against officer Edward Nero, who was charged with assault for his role in Gray\u2019s arrest. Porter and White are both charged with manslaughter for not getting medical attention for Gray, who died of a catastrophic spinal injury he suffered in the back of a police van. Mosby, who many hailed as a hero when she announced the charges on 1 May 2015, has come under increasing criticism from all sides since Judge Barry Williams found Nero not guilty on all charges. \u201cI think the first two cases were clear examples that the district attorney down there was playing to the crowd,\u201d New York\u2019s police commissioner, Bill Bratton, said of Mosby on Tuesday. \u201cAll she did was kick the can down the road. If she had taken more time to investigate she might not have overcharged.\u201d Peter Moskos, a criminal justice professor at John Jay College of Criminal Justice in New York and a former Baltimore police officer, co-wrote an op-ed with Leon Taylor, another former officer, for the Baltimore Sun, arguing that \u201cin her desire to achieve \u2018justice\u2019 for Freddie Gray\u201d Mosby \u201chas at best distracted from and at worst exacerbated Baltimore\u2019s most pressing problems\u201d. In a post titled \u201cBaltimore\u2019s dangerous prosecutors\u201d, Page Croyder, a legal blogger and former assistant state\u2019s attorney argued that \u201cBaltimore\u2019s top prosecutors are oblivious to their ethical duties and dangerous to public safety\u201d and that \u201cMosby\u2019s objective is politics and pandering, not justice.\u201d Police, of course, have been critical of Mosby since she first brought charges against the officers. But Gene Ryan, the head of the police union, reiterated those complaints after Nero\u2019s acquittal. \u201cThe State Attorney\u2019s office responded to the riots and violence in Baltimore by rushing to charge these Officers rashly and without any meaningful investigation. They seized a political opportunity and in the process destroyed 6 lives and demolished the relationship between the Baltimore Police department and their own office,\u201d he said in a statement. Even those who praised Mosby when she brought the charges this time last year have grown sharply critical of the young African American top prosecutor. \u201cWe do not believe it was Mosby\u2019s intent to seek justice for Freddie Gray; truly doing so would mean upsetting the status quo in which she is all too comfortable, and it would mean risking her office\u2019s relationship with the corrupt and brutal Baltimore Police Department,\u201d the activist group Baltimore Bloc wrote in a statement. People affiliated with the group have shouted Mosby down at public appearances and protested outside the home she shares with her husband, who made a failed bid to replace Stephanie Rawlings-Blake as mayor. The activist group pledges to help get Mosby voted out of office during the next election. The lawsuit appears as Baltimore still suffers from a historically high rate of homicide and violent crime \u2013 which many have attributed to a lack of aggressive policing that stems from the kinds of charges Mosby brought against the officers charged in Gray\u2019s death \u2013 and a national debate over criminal justice reform. \u201cIf [Nero] had been found guilty of anything the police would have become even more muted and not make arrests for fear of being prosecuted,\u201d said Baltimore attorney Warren Brown. \u201cThat not having been the case, I don\u2019t think you\u2019re going to see a resurgence or proactive policing by any stretch, since the rest of the defendants have yet to be tried.\u201d The charges against the officers followed on high-profile failures of prosecutors to criminally charge officers in other police-involved deaths like that of Michael Brown in Ferguson and Eric Garner in New York. But for many, the speed with which Mosby brought the charges \u2013 after promising to do a thorough investigation \u2013 was a problem and seems to be part of the basis of the suit, which also names a major in the sheriff\u2019s department who assisted Mosby with the investigation. She brought charges less than 24 hours after receiving records of the police investigation. Judge Williams has imposed a gag order on everyone involved in the case.",
+  "webTitle": "Baltimore officers charged in Freddie Gray death sue state's attorney",
+  "webPublicationDate": "2016-05-26T11:00:10Z",
+  "webUrl": "https://www.theguardian.com/us-news/2016/may/26/freddie-gray-baltimore-police-sue-marilyn-mosby",
+  "keyword": [
+    {
+      "webTitle": "Freddie Gray",
+      "id": "us-news/freddie-gray",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Baltimore",
+      "id": "us-news/baltimore",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Maryland",
+      "id": "us-news/maryland",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US policing",
+      "id": "us-news/us-police",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Baynard Woods",
+      "id": "profile/baynard-woods"
+    }
+  ],
+  "guardianId": "us-news/2016/may/26/freddie-gray-baltimore-police-sue-marilyn-mosby"
+}

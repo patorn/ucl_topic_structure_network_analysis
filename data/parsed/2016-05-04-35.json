@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/05/greens-want-12m-households-to-install-renewable-energy-storage",
+  "id": "2016-05-04-35",
+  "sectionId": "environment",
+  "body": "The Greens want millions of households to install renewable energy storage units, saying battery storage could \u201crevolutionise\u201d Australia\u2019s energy system. They have announced a five-year support package for 1.2m homes and 30,000 businesses, to encourage the take-up of solar storage across Australia.    Related: Renewable energy: rapid acceleration needed to meet 2020 target    The Greens say the program - estimated to cost $2.9b - could be funded by scrapping concessions to fossil fuel-intensive industries, and are promising to make the policy central to their post-budget and post-election negotiations with the Coalition and Labor. \u201cWe\u2019ll be opposing most of this budget, which grows inequality and does nothing for clean energy, but if the government comes to us to talk about some of their less-offensive measures, we\u2019ll want to talk to them about programs like this one,\u201d the Greens energy spokesman, Adam Bandt, told Guardian Australia. \u201cNow is the time to jumpstart the battery industry, encourage the take up of storage and help make Australia a renewable energy leader.\u201d The Greens\u2019 battery storage program - announced two days after the Turnbull government\u2019s first budget - would run for five years, starting from 2016-17. It is part of their plan to shift Australia to 90% renewables by 2030. It includes a 50% refundable tax credit for individuals to help them install solar energy storage systems.  Individuals would get up to half the cost of their storage system covered, up to a maximum of $5,000 in the first year of the program. The credit would then taper off to $1,500 by 2021, reflecting the projected decline in battery storage costs over five years.   Related: Renewable energy target: Senate sits late to pass bill without amendment    A separate grant scheme would also be available for people on low incomes. It would be available in addition to the refundable tax credit, for households with taxable income of less than $80,000. The low income grants would be capped at $5,000, and would decline to $1,000 by 2021. The number of grants would be capped at 20,000 each year. They say the household policy is estimated by the Parliamentary Budget Office to cost $2.8b over four years, supporting 1.2m homes with an average storage capacity of 10 KWh. For businesses, the Greens want to allow battery storage installations to be depreciated for tax purposes over three years - rather than the current 15 years - to drive the take-up of renewable energy storage. They say 30,000 units could be installed by businesses for $38m, over four years. The household and business programs could be funded by scrapping accelerated asset depreciation for aircraft and the oil and gas industry, they say. According to the PBO, the removal of accelerated depreciation would save $2.75bn over four years. The Greens say their program would only be necessary for five years, since the costs of battery storage are predicted to decrease rapidly over the next decade. The Greens leader, Richard Di Natale, on Wednesday criticised the Turnbull government\u2019s budget for doing nothing to help Australia become a renewable energy powerhouse. \u201cThere are small businesses right around Australia who will be so disappointed that the prime minister has ignored the transition to the clean-energy economy,\u201d Di Natale said. \u201cWe\u2019re talking about solar installers, mums and dads who have set up small businesses to engage in the installation of solar panels around the country. \u201cThey don\u2019t get a benefit because the prime minister refuses to accept that this is a part of the economy that needs to grow, that can grow, that can create jobs and investment.\u201d The Turnbull government has confirmed it will retain the Clean Energy Finance Corporation, and the Australian Renewable Energy Agency, with plans to refocus part of their activities towards the government\u2019s innovation agenda. The budget papers show $1b of the CEFC\u2019s existing funding will be used to establish a clean energy innovation fund, to provide debt and equity financing to help emerging clean energy technologies \u201cmake the leap from demonstration to commercial deployment\u201d.",
+  "webTitle": "Greens' want 1.2m households to install renewable energy storage",
+  "webPublicationDate": "2016-05-04T20:04:49Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/05/greens-want-12m-households-to-install-renewable-energy-storage",
+  "keyword": [
+    {
+      "webTitle": "Renewable energy",
+      "id": "environment/renewableenergy",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australian Greens",
+      "id": "australia-news/australian-greens",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Energy",
+      "id": "environment/energy",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Adam Bandt",
+      "id": "australia-news/adam-bandt",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Labor party",
+      "id": "australia-news/labor-party",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Coalition",
+      "id": "australia-news/coalition",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Liberal party",
+      "id": "australia-news/liberal-party",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Liberal National party",
+      "id": "australia-news/liberal-national-party",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Gareth Hutchens",
+      "id": "profile/gareth-hutchens"
+    }
+  ],
+  "guardianId": "environment/2016/may/05/greens-want-12m-households-to-install-renewable-energy-storage"
+}

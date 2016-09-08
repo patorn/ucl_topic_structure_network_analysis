@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/20/hitachi-hnuclear-plant-wales-hinkley-point-edf-bechtel",
+  "id": "2016-05-20-168",
+  "sectionId": "environment",
+  "body": "Hitachi has unveiled a construction consortium to build a \u00a310bn nuclear power station in Wales \u201con time and on budget\u201d, as a rival to the French-backed plans for Hinkley Point C. There are no British firms involved but among the partners of the Japanese firm are Bechtel of the US, which has just brought a new atomic power plant online in America, but is better known here for work on the Channel tunnel and CrossRail. Hitachi has yet to reach agreement on financial subsidies from the UK government for the planned new plant at Wylfa, in Anglesey, and its reactor design is yet to be officially approved in this country.  But the Japanese firm is aiming to have the 2,700MW reactors on stream by 2025 aided by the fact that it is using a reactor design that has already been proved to work in a number of domestic projects. That puts the Horizon project in Wales in competition with Hinkley, which EDF hopes to open around the same time, although the Somerset scheme has already been delayed and hit by EDF\u2019s own financing problems. Malcolm Twist, project director for the Menter Newydd construction consortium involving Hitachi, Bechtel and Japanese engineering group JGC, said all the partners were proven at the highest level. \u201cI\u2019m delighted we\u2019ve established the balance of expertise to safely deliver for Horizon, on cost and on schedule. We expect to begin firming up relationships with our main subcontractors \u2013 many of them British \u2013 very soon.\u201d The government is no doubt relieved to see a second nuclear project moving forward after a raft of headlines caused by internal disagreements at EDF over the \u00a318bn cost of Hinkley. Andrea Leadsom, the energy and climate change minister, said she was pleased to see a new project taking shape at the Wylfa site where an old plant is now being decommissioned. \u201cWe have to replace our ageing energy infrastructure and new nuclear is an essential part of our plan to power the country now and for the next generation. \u201cKeeping the lights on is non-negotiable, and new nuclear is the only proven low-carbon technology that can provide clean, continuous power, irrespective of whether the wind is blowing and the sun is shining.\u201d  Tom Greatrex, chief executive of the Nuclear Industry Association, said: \u201cThe appointment of the delivery team for the Wylfa Newydd project is a vital step in ensuring the UK has the infrastructure and generating capacity to meet its energy needs in the future.  \u201cNorth Wales has a long established and highly skilled nuclear workforce who will warmly welcome today\u2019s announcement. Menter Newydd has vast global delivery expertise and the UK supply chain is ready to make the most of the opportunities the project will bring.\u201d",
+  "webTitle": "Hitachi heads up new bid to build nuclear plant in Wales",
+  "webPublicationDate": "2016-05-20T12:51:38Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/20/hitachi-hnuclear-plant-wales-hinkley-point-edf-bechtel",
+  "keyword": [
+    {
+      "webTitle": "Nuclear power",
+      "id": "environment/nuclearpower",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Hinkley Point C",
+      "id": "uk-news/hinkley-point-c",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Energy",
+      "id": "environment/energy",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Hitachi",
+      "id": "business/hitachi",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Terry Macalister",
+      "id": "profile/terrymacalister"
+    }
+  ],
+  "guardianId": "environment/2016/may/20/hitachi-hnuclear-plant-wales-hinkley-point-edf-bechtel"
+}

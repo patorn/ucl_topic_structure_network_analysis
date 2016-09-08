@@ -1,0 +1,30 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/12/air-pollution-how-does-it-affect-you",
+  "id": "2016-05-12-343",
+  "sectionId": "environment",
+  "body": "More than 80% of people living in urban areas where air pollution is monitored are exposed to air quality levels that excede World Health Organisation limits, according to the latest urban air quality data released by the agency. The data suggests populations in low-income cities are particularly under threat from the effects of air pollution. The WHO have previous said that air polution is now a global \u201cpublic health emergency\u201d that will have untold financial implications for governments. Fast-growing cities in the Middle East, south-east Asia and the western Pacific are the most impacted. India has 16 of the world\u2019s 30 most polluted cities. Air polution was described as a \u201cpublic health emergency\u201d by a cross-party committee of MPs last month. The new London mayor will come under pressure to do something about the city\u2019s terrible record on pollution. We\u2019re looking for stories on how air pollution affects our readers\u2019 lives, wherever they are in the world. How are the air pollution levels near you - are you aware of them? Do you notice is, and are you affected by it? Is your local or national government doing anything about it? Do you have asthma or another respiratory condition? Does air pollution affect your day to do live? Does it prevent you from exercising, or does it impact upon your daily commute or general attempts to get from A to B? You can share your accounts by filling out the form below.",
+  "webTitle": "Air pollution: how does it affect you?",
+  "webPublicationDate": "2016-05-12T06:30:21Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/12/air-pollution-how-does-it-affect-you",
+  "keyword": [
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Pollution",
+      "id": "environment/pollution",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "James Walsh",
+      "id": "profile/james-walsh"
+    }
+  ],
+  "guardianId": "environment/2016/may/12/air-pollution-how-does-it-affect-you"
+}

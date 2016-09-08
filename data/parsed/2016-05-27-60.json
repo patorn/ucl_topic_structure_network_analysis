@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/27/sergey-karjakin-shamkir-magnus-carlsen-world-chess-championship",
+  "id": "2016-05-27-60",
+  "sectionId": "sport",
+  "body": "Magnus Carlsen and Sergey Karjakin are both eager for action as the Norwegian and the Russian limber up for their world title match in November but it is Karjakin who has the headaches due to poor form after blundering his queen in an even position on Friday afternoon against Anish Giri, the world No8 from the Netherlands. He fought on for 68 moves until another blunder led to mate. After this debacle Carlsen\u2019s challenger will be desperate to get back on the winning trail on Saturday (12noon BST start, live and free on the internet) when he meets India\u2019s Pentala Harikrishna, the joint leader of the elite tournament at Shamkir, Azerbaijan.   Related: Magnus Carlsen: the cool grandmaster who cries when he loses to himself    Karjakin is still ranked only No9 globally despite his victory in the Moscow candidates tournament which decided Carlsen\u2019s challenger, and his recent performance at the Russian team event in Sochi was a low-key 1/3 total. He lost to Peter Svidler in Moscow v St Petersburg, an expensive defeat since the match score of 2.5-3.5 meant the Muscovites finished behind their traditional rivals. Karjakin was also under pressure throughout his 138-move marathon against Vlad Kramnik, who missed several winning chances. Carlsen, who won Shamkir in 2014 and 2015 but is bypassing the Azeri event this year, has little to prove after a fine run of tournament victories which have cemented his No1 ranking. He is instead playing speed chess as a wild card in the four-day $150,000 Grand Tour rapid and blitz events in Paris, starting 9 June, and Brussels, starting 17 June. Carlsen will be absent from St Louis in August but the Grand Tour schedule leaves open the possibility, if he defeats Karjakin convincingly and wants a victory parade, for him to compete as another wild card in the final event in London in December and so have a chance to repeat his 2015 Grand Tour success. It is an involved concept but everybody wants the world champion in their tournament. The brave attempt by England\u2019s youngest grandmaster, David Howell, to qualify for the 2017 World Cup via the European Championship in Kosovo came to a gory end when, on 6.5/10 and needing to win his final round as Black to qualify, he took on a Russian GM, also needing a win, in the latter\u2019s favourite variation. 7 Bg5!? is a rare move which is a speciality of the white player. One idea is 10...Na5 11 Bd5 0-0 12 b4 c6 13 Bxf7+, and another is the sacrifice of the f3 knight which occurred below. Howell could have kept the game alive by 14...Rg8! instead of Nb8? and by 17...Kf8! instead of Qe8? but as played he was blown off the board by White\u2019s crushing attack up the g file. Anton Demchenko v David Howell, Kosovo 2016 1 e4 e5 2 Nf3 Nc6 3 Bc4 Bc5 4 c3 Nf6 5 d3 a6 6 0-0 Ba7 7 Bg5!? h6 8 Bh4 d6 9 Nbd2 g5 10 Bg3 0-0 11 a4 g4?! 12 Bh4! Kg7 13 Kh1! gxf3 14 Qxf3 Nb8? 15 g4! Nbd7 16 Rg1 Rh8 17 Nf1! Qe8? 18 g5 Ng8 19 gxh6+ Kf8 20 Qg3 Ngf6 21 Qg7+ Ke7 22 Rg6! Rg8 23 Bxf6+ Nxf6 24 Qxf6+ Kd7 25 Bxf7 1-0 3444 1 Kg1! If Rf4 2 Rb5! cxb5 3 b7. If Rh6 2 Re8! Kxe8 3 b7. If c5 2 Rf5! Rxf5 3 b7. If Rd6 2 Re1! (stops Rd1+ and Rb1) c5 3 Rb1 and 4 b7.",
+  "webTitle": "Leonard Barden on Chess",
+  "webPublicationDate": "2016-05-27T17:03:05Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/27/sergey-karjakin-shamkir-magnus-carlsen-world-chess-championship",
+  "keyword": [
+    {
+      "webTitle": "Magnus Carlsen",
+      "id": "sport/magnus-carlsen",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Chess",
+      "id": "sport/chess",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Leonard Barden",
+      "id": "profile/leonardbarden"
+    }
+  ],
+  "guardianId": "sport/2016/may/27/sergey-karjakin-shamkir-magnus-carlsen-world-chess-championship"
+}

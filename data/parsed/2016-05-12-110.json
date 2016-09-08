@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/12/bbc-bias-labour-sir-michael-lyons",
+  "id": "2016-05-12-110",
+  "sectionId": "media",
+  "body": "The BBC may have bowed to political pressure to show bias against Labour and Jeremy Corbyn, a former chair of the BBC Trust has said. Sir Michael Lyons, who chaired the trust from 2007 to 2011 and is a former Labour councillor, claimed that there had been \u201csome quite extraordinary attacks on the elected leader of the Labour party\u201d. He told the BBC\u2019s The World at One: \u201cI can understand why people are worried about whether some of the most senior editorial voices in the BBC have lost their impartiality on this. \u201cAll I\u2019m voicing is the anxiety that has been expressed publicly by others \u2026 We had here a charter review process which has been littered with wild kites flown which, we can\u2019t see the string is held by the secretary of state, but the suspicion is that actually it\u2019s people very close to him. \u201cHis own comments have suggested that he might be blessed by a future without the BBC. Is the BBC strong enough to withstand a challenge to its integrity and impartiality?\u201d Lyons said there were \u201cvery real suspicions that ministers want to get much closer to the BBC, and that is not in anybody\u2019s interests\u201d. It comes after more than 35,000 people signed a petition calling for Laura Kuenssberg to be sacked as political editor of the BBC over accusations that she was biased against Corbyn. It was taken down by the organisers after some people used the petition to make sexist remarks about her. Labour has complained about media bias against the party without singling out the BBC. Corbyn told grassroots supporters that it was necessary for Labour to use social media to communicate with the public, because rightwing media were censoring political debate in an unprecedented assault on the party. Tony Hall, the BBC director general, also speaking to the The World at One, said Lyons\u2019s claim was \u201cextraordinary\u201d and denied that there was any bias.  \u201cThat\u2019s not the journalism I know or the journalists in this organisation I know,\u201d he said. \u201cI think the journalism of the BBC is impartial. We test all sides. The journalists in the BBC do a really hard job in the midst of controversy, bringing a light and calm judgments to what\u2019s going on.\u201d The BBC gave no further comment.",
+  "webTitle": "BBC may have shown bias against Corbyn, says former trust chair",
+  "webPublicationDate": "2016-05-12T16:58:33Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/12/bbc-bias-labour-sir-michael-lyons",
+  "keyword": [
+    {
+      "webTitle": "BBC",
+      "id": "media/bbc",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Sir Michael Lyons",
+      "id": "media/sir-michael-lyons",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "BBC Trust",
+      "id": "media/bbc-trust",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Jeremy Corbyn",
+      "id": "politics/jeremy-corbyn",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Labour",
+      "id": "politics/labour",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Rowena Mason",
+      "id": "profile/rowena-mason"
+    }
+  ],
+  "guardianId": "media/2016/may/12/bbc-bias-labour-sir-michael-lyons"
+}

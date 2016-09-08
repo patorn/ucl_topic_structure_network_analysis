@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/19/it-failures-farm-subsidies-cost-sturgeon-scotland-125m",
+  "id": "2016-05-18-5",
+  "sectionId": "uk-news",
+  "body": "Nicola Sturgeon\u2019s government faces a penalty of up to \u00a3125m after a crisis in a major IT system left nearly 20,000 farmers without their farm subsidy payments. Audit Scotland has warned that the incomplete \u00a3178m system, designed to process common agricultural policy payments of \u00a3688m a year, is now in danger of running out of money before it can meet a European commission deadline of 30 June. The Scottish government has told Audit Scotland there is now an \u201cextreme risk\u201d it will miss that target date, exposing ministers to penalties of between \u00a340m to \u00a3125m being levied by the commission.   Related: Scottish farmers left in the dark about Brexit, MPs told    The ongoing mismanagement of the project \u201chas caused lengthy delays, missed payment targets, and rising costs\u201d, the spending watchdog said. \u201cThe delays have had a negative impact on farmers, many of whom were already experiencing financial difficulties caused by low milk prices and severe flooding.\u201d In a damning report which led opposition parties to call for an urgent ministerial statement on the affair, Audit Scotland accused Sturgeon\u2019s ministers of failing to prevent rapid cost escalations, and of failing to deal effectively with \u201ca significant conflict of interest held by a contractor on the programme\u201d. It said 97 staff employed by the project contractor, a firm called CGI, had been hired by a senior CGI director through his own recruitment company and were paid above the approved day rate. That director has now been removed from the project, but his staff are still in post. The programme was once expected to offer enhanced help and support for farmers but has now been heavily scaled back to save money, and will now meet basic EU rules. Even if its costs are controlled, \u201cwe do not expect the programme to deliver value for money\u201d, Audit Scotland said.  The crisis over the CAP Futures programme, which was originally due to cost \u00a3102m, has angered farmers.  Although ministers have rushed through partial payments and loans to help bridge the gap in payments, the delays and chaos is thought to have significantly damaged the Scottish National party\u2019s rural vote in the recent Holyrood elections. The minister in overall charge of the programme, Richard Lochhead, resigned from Sturgeon\u2019s government on Tuesday after coming under heavy attack from opposition MSPs and farmers\u2019 leaders.  His resignation is understood to be for pressing personal reasons, and not linked to the IT programme controversy. His department has already paid about \u00a351m in penalties for earlier noncompliance with CAP processes tied to the previous payments regime. Jackie Baillie, Scottish Labour\u2019s public services spokeswoman, said an urgent ministerial statement was needed. \u201cThe SNP\u2019s \u00a3200m CAP Futures project looks like it will be another catastrophic IT failure, and with penalties potentially running into the millions, this could have a knock on effect to public finances which are already facing huge cuts in Scotland,\u201d Baillie said.   Related: Tell us how the UK's agricultural industry will be affected by the EU referendum    Mike Rumbles, for the Scottish Lib Dems, said ministers had known before the 2014 independence referendum there were problems emerging with the payments system but had played those down. He said Lochhead\u2019s successor \u201cmust urgently clarify what steps will now be taken to minimise the enormous cost of SNP incompetence to farmers, crofters and the rural economy\u201d. John Swinney, the deputy first minister, promised that the new rural economy secretary, Fergus Ewing would make a statement to parliament once he had fully studied the Audit Scotland report. Swinney said that since the report was researched, 80% of the outstanding basic payments had now been made. There had been slow payments in other parts of the EU and UK too, due to the complexity of the new system. \u201cOur focus right now, as it has been throughout this programme, remains 100% on getting payments out to farmers and crofters ahead of the EU\u2019s deadline of 30 June,\u201d he said. \u201cAs we do that, we are keeping a tight rein on activity, costs and risks to secure the best value we can for the taxpayer.\u201d \u2022 This article was amended on 19 May 2016. An earlier version said that tens of thousands of farmers, rather than nearly 20,000, were left without their farm subsidy payments because of the IT crisis.",
+  "webTitle": "IT failures over farm subsidies may cost Sturgeon government \u00a3125m",
+  "webPublicationDate": "2016-05-18T23:01:09Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/19/it-failures-farm-subsidies-cost-sturgeon-scotland-125m",
+  "keyword": [
+    {
+      "webTitle": "Scotland",
+      "id": "uk/scotland",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Nicola Sturgeon",
+      "id": "politics/nicola-sturgeon",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Scottish politics",
+      "id": "politics/scotland",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Severin Carrell",
+      "id": "profile/severincarrell"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/19/it-failures-farm-subsidies-cost-sturgeon-scotland-125m"
+}

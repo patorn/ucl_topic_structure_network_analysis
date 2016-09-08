@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/18/country-diary-spring-comes-exmoor-village",
+  "id": "2016-05-18-345",
+  "sectionId": "environment",
+  "body": "On the northern side of Exmoor luminous beech hedges thread upland fields and mark the onset of spring; regularly flailed banks flaunt drapes of fresh leaves, and sturdy trunks are topped with diaphanous crowns.  Swallows, which have just arrived, twitter and swoop around a sheltered farmstead; mud has dried up and dusty ways are edged in uncurling ferns, stunted bluebells, leafy foxgloves and a sprinkling of white stitchwort. Scraps of black plastic and wool catch in blackthorn, and may buds will soon burst into flower. Sheep with April-born lambs scatter across the airy pastures. For now, the perky lambs skip and play, but come September they will be taken to the livestock market at Blackmoor Gate, to be sold as \u201cstore lambs\u201d, for fattening up on lower ground.    Related: Gleam of honey and brass at the fair    Cows and calves also lie about in the warmth and, since their winter quarters became vacant, the dung is carted out and spread on grass starred with daisies and dandelions. Opposite, unreclaimed Trentishoe Down seems wintry, with expanses of dark heather and banks of vivid gorse, but a flush of green emerges through swaths of shrivelled bracken.  Below, from the burgeoning greenery of brakes, sounds the first cuckoo (so I follow family tradition, and run about to ensure the luck of liveliness for the rest of the year). Nearby, blackbird song echoes up the wooded slopes of the Heddon Valley. In those steep woods blossom on isolated cherries appears ghostly, and here too beech with its distinctive, pale, leaves shines out from the viridescence of other trees.  Bushy whortleberry is in leaf and spikes of hard-fern push through the crisp leaf mould with patches of wood-sorrel and violets. Primroses thrive in damp shade beside the river, hundreds of feet below, and most heartening is the sound of chiffchaffs, blackcaps and willow warblers, returned to join the resident birds.  Later, from the top fields, we glimpse a herd of red deer skirting the woodland edge. The distant whistle of a steam train carries across from the restored length of the Lynton-Barnstaple railway, and rocky Heddon\u2019s Mouth is enveloped in sea mist as rolls of cloud bring in a bout of rain. Follow Country Diary on Twitter: @gdncountrydiary",
+  "webTitle": "Spring comes to an Exmoor village",
+  "webPublicationDate": "2016-05-18T04:30:19Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/18/country-diary-spring-comes-exmoor-village",
+  "keyword": [
+    {
+      "webTitle": "Spring",
+      "id": "environment/spring",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Birds",
+      "id": "environment/birds",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Plants",
+      "id": "environment/plants",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Wildlife",
+      "id": "environment/wildlife",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Farming",
+      "id": "environment/farming",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Rural affairs",
+      "id": "uk/ruralaffairs",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Virginia Spiers",
+      "id": "profile/virginiaspiers"
+    }
+  ],
+  "guardianId": "environment/2016/may/18/country-diary-spring-comes-exmoor-village"
+}

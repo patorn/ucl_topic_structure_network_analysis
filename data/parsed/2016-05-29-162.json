@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/29/bach-clavier-ubung-iii-review-james-johnstone-nidaros-cathedral-trondheim",
+  "id": "2016-05-29-162",
+  "sectionId": "music",
+  "body": "At the beginning of an ambitious series to match Bach\u2019s great organ works to original instruments of his time, this first instalment strikes lucky with an instrument begun in the same year \u2013 1739 \u2013 that Bach published his huge organ collection Clavier-\u00dcbung III in Leipzig. It\u2019s in Nidaros Cathedral, Trondheim, by Berlin builder Joachim Wagner. Its pungent, sometimes rasping sounds have immense impact, though James Johnstone has a tendency to favour stridently loud pedals, and the opening Prelude is unbalanced. But the chorale preludes have variety and poise, and the final Fugue is very powerful \u2013 the inexhaustible contrapuntal virtuosity of Bach\u2019s music remains astounding.",
+  "webTitle": "JS Bach: Clavier-\u00dcbung III CD review \u2013 Bach on a suitably baroque organ",
+  "webPublicationDate": "2016-05-29T07:00:00Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/29/bach-clavier-ubung-iii-review-james-johnstone-nidaros-cathedral-trondheim",
+  "keyword": [
+    {
+      "webTitle": "JS Bach",
+      "id": "music/jsbach",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Classical music",
+      "id": "music/classicalmusicandopera",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Nicholas Kenyon",
+      "id": "profile/nicholas-kenyon"
+    }
+  ],
+  "guardianId": "music/2016/may/29/bach-clavier-ubung-iii-review-james-johnstone-nidaros-cathedral-trondheim"
+}

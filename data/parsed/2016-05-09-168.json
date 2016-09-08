@@ -1,0 +1,84 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/09/scottish-farmers-fishermen-brexit-lack-of-evidence-nfu-eu",
+  "id": "2016-05-09-168",
+  "sectionId": "politics",
+  "body": "Scottish farming and fishing leaders have told a parliamentary committee that their members are facing a \u201ctotal lack of evidence\u201d about how the UK would cope with Brexit. The president of the Scottish Fishermen\u2019s Federation, Ross Dougal, told the Scottish affairs select committee that the majority of his members were in favour of leaving the European Union, prompted by \u201cmicro-management and top-down management\u201d of the controversial common fisheries policy. But, giving evidence, he cautioned: \u201cAs [members] look at Brexit, one of the questions is who is going to cope with it? Is there the staff and experience available to start unpicking it?\u201d  Dougal said cuts at Westminster were already affecting the Scottish fishing community\u2019s relationship both with Defra and the EU. \u201cWhat we are experiencing now is that budget cuts mean a lot of people we are dealing with are no longer there,\u201d he said, giving the example of a key international negotiator at Defra, with whom his organisation had worked  regularly and who was \u201covernight, gone\u201d. At a session in Glasgow to take evidence on the June referendum\u2019s impact on Scotland, Andrew McCornick, the vice-president of NFU Scotland, emphasised the importance of funding to farmers from the common agricultural policy. Asked by Labour\u2019s Stephen Hepburn how Brexit would affect Scottish farming, McCornick replied: \u201cOur biggest market is in Europe. Our industry mindset has been towards accessing the common market. If we were to leave all those trade agreements we would have to start again, and if we exit we would not be sitting at the table for those negotiations.\u201d  Another committee member, the Conservative Chris Chope, expressed his regret that the UK government\u2019s fishing minister \u2013 and Brexit supporter \u2013 George Eustice had not been allowed to come to the committee to \u201cexplain all the advantages that would flow\u201d from leaving the EU for fishing and farming communities.  McCornick told Chope to \u201csend him up\u201d to speak at a forthcoming NFU Scotland debate on the referendum. He said: \u201cWhere\u2019s the money coming from? We\u2019ve got a Westminster parliament that is very keen on austerity. Are they going to replace the money coming from Europe? Answer some of those questions and we\u2019ll take it to the membership and discuss it.\u201d He said NFU Scotland remained neutral on the issue, but added that \u201cwe find a total lack of evidence for exit\u201d. The Scottish Fishermen\u2019s Federation is likewise neutral although Dougal acknowledged that the majority of the industry were \u201cno fans\u201d of the EU, having suffered cuts to quotas and fishing time under the common fisheries policy.  Dougal added: \u201cWhat we don\u2019t know is, if there is a Brexit what happens next? Fishing is devolved so, apart from dealing with Europe, Scotland also has a concordat with England, Wales and Northern Ireland. If there is a Brexit and the UK takes back control, does that mean that Scotland still has competence? The majority of fish is in Scottish waters, mainly around Shetland. Have we got the expertise to sort this all out?\u201d",
+  "webTitle": "Scottish farmers left in the dark about Brexit, MPs told",
+  "webPublicationDate": "2016-05-09T13:42:31Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/09/scottish-farmers-fishermen-brexit-lack-of-evidence-nfu-eu",
+  "keyword": [
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Scotland",
+      "id": "uk/scotland",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Scottish politics",
+      "id": "politics/scotland",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Farming",
+      "id": "environment/farming",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Fishing",
+      "id": "environment/fishing",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Animals",
+      "id": "world/animals",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Libby Brooks",
+      "id": "profile/libbybrooks"
+    }
+  ],
+  "guardianId": "politics/2016/may/09/scottish-farmers-fishermen-brexit-lack-of-evidence-nfu-eu"
+}

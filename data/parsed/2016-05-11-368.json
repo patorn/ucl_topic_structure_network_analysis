@@ -1,0 +1,90 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/11/google-images-as-good-as-fieldwork-for-studying-animal-colour",
+  "id": "2016-05-11-368",
+  "sectionId": "environment",
+  "body": "Studying photographs of animals posted online by the general public has proven to be as valuable as traditional fieldwork in research on the locations of species that have evolved with different colours.  Colour polymorphism - the occurrence of two or more colour types in the population of a species - has long fascinated biologists. These different colour types often vary geographically, providing a useful way of studying how different colour morphs evolve. But collecting this data using traditional fieldwork is time-consuming and expensive, so researchers from South Africa looked into whether they could use the thousands of animal images posted on the internet instead. To evaluate whether photographs could accurately substitute for fieldwork, they used Google Images to find photographs of four species with different colours: black bears in western North America, barn owls around the world, black sparrowhawks in South Africa, and hooded or carrion crows in Europe.  Based on more than 4,800 images pictures of the four species, the results proved that their method could produce results as accurate as fieldwork, but in a more cost-effective and rapid way.  \u201cWe selected these species because accurate scientific data already exists on the distribution of their different colour morphs, allowing us to compare and assess the accuracy of our new method based on Google Images,\u201d said Dr Arjun Amar of the University of Cape Town, one of the authors of the report, which is published in the journal Methods in Ecology and Evolution. Black bears\u2019 colour ranges from cream to black, while barn owls vary from dark reddish-brown to pure white, and black sparrowhawks can be dark or light. Carrion and hooded crows were once thought to be the same species and range from grey to black. The team collected information on the visible traits and locations of each species using photographs found online over a three-month period in 2015. But manual handling and scoring so many images was \u201cunfeasibly slow\u201d and often resulted in data duplication, so the team developed a custom web application called Morphic to collect the data more efficiently. Gabriella Leighton, also of the University of Cape Town and lead author of the paper, said: \u201cVery pleasingly, the method worked: we were able to create a map of the different colour varieties and, most importantly, the pattern of this map matched very well the known pattern of the colour varieties. And whereas our data took only days or weeks to collate from my office, these other data had often taken years of labour intensive fieldwork or visits to museums worldwide.\u201d The internet has been used to help data collection in economic, political and other fields but ecology so far \u201cremains an underexploited resource for mining data\u201d, the report said. This technique could open up new possibilities from migration and diet to birds\u2019 moulting patterns and the age structures of animal populations in different areas.      Barn owls in Gloucestershire, England. Their chest colour can vary from dark reddish-brown to pure white and range in spottiness from heavily marked to immaculate. Photograph: Peter Barritt/Alamy    Amar is already using it to study the colour patterns of other species, including common buzzards and tawny owl morphs in Europe, Swainson\u2019s hawks in North America and augur buzzards across east Africa. However the method can only be used for organisms that have many photographs online, and will perform best when species are \u201cconspicuous, fairly common and of interest to photographers\u201d. If more photographers geotag their images with location and dates, their pictures could be even more valuable for ecology. \u201cAlthough not part of this study, in future this approach might allow us to explore how phenotypes [colour morphs] change over time. We know that phenotypes are often linked to specific weather conditions, for example more dark morphs occur in wetter areas. Thus, with climate change occurring there are many predictions suggesting that occurrence of the different colour morphs might also change, and our new technique might allow this to be investigated,\u201d said Amar.",
+  "webTitle": "Google Images 'as good as fieldwork' for studying animal colour",
+  "webPublicationDate": "2016-05-11T05:01:03Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/11/google-images-as-good-as-fieldwork-for-studying-animal-colour",
+  "keyword": [
+    {
+      "webTitle": "Wildlife",
+      "id": "environment/wildlife",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Biology",
+      "id": "science/biology",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Zoology",
+      "id": "science/zoology",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Google",
+      "id": "technology/google",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Animals",
+      "id": "world/animals",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Animal behaviour",
+      "id": "science/animalbehaviour",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Birds",
+      "id": "environment/birds",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Internet",
+      "id": "technology/internet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jessica Aldred",
+      "id": "profile/jessicaaldred"
+    }
+  ],
+  "guardianId": "environment/2016/may/11/google-images-as-good-as-fieldwork-for-studying-animal-colour"
+}

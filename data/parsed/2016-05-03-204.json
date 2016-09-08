@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/03/ms-expected-to-benefit-most-from-bhs-collapse",
+  "id": "2016-05-03-204",
+  "sectionId": "business",
+  "body": "Marks & Spencer is expected to be the biggest winner from the collapse of BHS as its older clothing shoppers switch allegiance to the high street grande dame. \u201cWe expect Marks & Spencer to be the biggest beneficiary, given its market share and older customer demographic,\u201d said RBC analyst Richard Chamberlain. \u201cWe estimate BHS has around 1% of the [clothing] market and has the most similar product offer to M&S.\u201d M&S\u2019s clothing business has struggled to compete with nimbler rivals such as Primark, Zara and H&M in recent years, achieving growth in only one quarter in the past five years.  If M&S hoovers up the stricken retailer\u2019s sales, Chamberlain estimates it could boost its clothing and homeware sales by up to 1%, although if a fashion rival purchases some of BHS\u2019s 164 stores the tailwind would be reduced. BHS recorded annual sales of \u00a3668m at last count. The sale fillip would be good news for M&S\u2019s new chief executive, Steve Rowe, who took over from Mark Bolland at the start of last month. Duff & Phelps, BHS\u2019s administrators, have had 50 expressions of interest in the business although only 10 are thought to be serious. Mike Ashley\u2019s Sports Direct has indicated it could bid for BHS, while Preston-based property millionaire Yousuf Bhailok and Allan Leighton, the retail turnaround specialist who currently chairs the Co-op, are also interested in taking on BHS.  Fashion retailers have been enduring a miserable year as the mild winter resulted in disappointing sales of high-margin winter clothing, while the cool spring has similarly subdued demand for new-season ranges. Analysts say there are too many mouths to feed on a high street battling the growth of online retailers while staff costs are rising due to the national living wage. The strengthening US currency is also a problem because retailers buy many garments in dollars but sell them in sterling. Fashion giant Next is due to update the City on first-quarter trading on Wednesday, with Chamberlain predicting that like-for-like sales at its stores will be down at least 3% and sales from its Directory catalogue arm also slightly negative. In March, Next\u2019s chief executive, Lord Wolfson, predicted difficult conditions in the clothing sector, likening the outlook to 2008, a time when the country was mired in the financial crisis.",
+  "webTitle": "M&S expected to benefit most from BHS collapse",
+  "webPublicationDate": "2016-05-03T11:55:20Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/03/ms-expected-to-benefit-most-from-bhs-collapse",
+  "keyword": [
+    {
+      "webTitle": "BHS",
+      "id": "business/bhs",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Marks & Spencer",
+      "id": "business/marksspencer",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Retail industry",
+      "id": "business/retail",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Next",
+      "id": "business/next",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Zoe Wood",
+      "id": "profile/zoewood"
+    }
+  ],
+  "guardianId": "business/2016/may/03/ms-expected-to-benefit-most-from-bhs-collapse"
+}

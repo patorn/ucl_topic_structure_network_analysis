@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/education/2016/may/11/students-who-use-digital-devices-in-class-perform-worse-in-exams",
+  "id": "2016-05-11-64",
+  "sectionId": "education",
+  "body": "Allowing students to use computers and the internet in classrooms substantially harms their results, a study has found. The paper published by the Massachusetts Institute of Technology found that students barred from using laptops or digital devices in lectures and seminars did better in their exams than those allowed to use computers and access the internet. The researchers suggested that removing laptops and iPads from classes was the equivalent of improving the quality of teaching. The study divided 726 undergraduates randomly into three groups in the 2014-15 and 2015-16 academic years. The control group\u2019s classrooms were \u201ctechnology-free,\u201d meaning students were not allowed to use laptops or tablets at their desk. Another group was allowed to use computers and other devices, and the third group had restricted access to tablets. \u201cThe results from our randomised experiment suggest that computer devices have a substantial negative effect on academic performance,\u201d the researchers concluded, suggesting that the distraction of an electronic device complete with internet access outweighed their use for note-taking or research during lessons. The research had an unusual twist: the students involved were studying at the West Point academy in the US, where cadets are ruthlessly ranked by exam results, meaning they were motivated to perform well and may have been more disciplined than typical undergraduates. But even for the cream of the US army\u2019s future crop, the lure of the digital world appears to have been too much, and exam performance after a full course of studying economics was lower among those in classes allowed to use devices.   Related: Mobile phone bans improve school exam results, research shows    \u201cOur results indicate that students perform worse when personal computing technology is available. It is quite possible that these harmful effects could be magnified in settings outside of West Point,\u201d the researchers concluded. \u201cIn a learning environment with lower incentives for performance, fewer disciplinary restrictions on distracting behaviour, and larger class sizes, the effects of internet-enabled technology on achievement may be larger due to professors\u2019 decreased ability to monitor and correct irrelevant usage.\u201d Tom Bennett, founder of the ResearchED education group, who is leading a UK government-commissioned review of smartphone use in classrooms, noted the research found that even the brightest students appeared to be distracted by the presence of digital devices, in contrast to previous studies. \u201cOf course, nothing about this is conclusive and it needs to be read in the context of the undergraduate experience, but there are some interesting reflective points for all educators. Do you need to use tablets? How do you compensate for the possibility of distraction?\u201d Bennett said. Research published last year by the London School of Economics found that banning mobile phones affected school pupils according to their ability. \u201cBanning mobile phones improves outcomes for the low-achieving students \u2026 and has no significant impact on high-achievers,\u201d it concluded. The new research is distinctive because it analysed the results of students in classroom conditions rather than as part of an artificial experiment. \u201cIn contrast to the laboratory-style research, our study measures the cumulative effects of internet-enabled classroom technology over the course of a semester, as opposed to its impact on immediate or short-term recall of knowledge,\u201d the researchers said. \u201cWe want to be clear that we cannot relate our results to a class where the laptop or tablet is used deliberately in classroom instruction, as these exercises may boost a student\u2019s ability to retain the material,\u201d they added.",
+  "webTitle": "Students who use digital devices in class 'perform worse in exams'",
+  "webPublicationDate": "2016-05-11T18:58:38Z",
+  "webUrl": "https://www.theguardian.com/education/2016/may/11/students-who-use-digital-devices-in-class-perform-worse-in-exams",
+  "keyword": [
+    {
+      "webTitle": "Students",
+      "id": "education/students",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Teaching",
+      "id": "education/teaching",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Education",
+      "id": "education/education",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Richard Adams",
+      "id": "profile/richardadams"
+    }
+  ],
+  "guardianId": "education/2016/may/11/students-who-use-digital-devices-in-class-perform-worse-in-exams"
+}

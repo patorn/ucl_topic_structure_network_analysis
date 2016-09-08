@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/us-news/2016/may/20/donald-trump-david-cameron-london-meeting-muslim-ban",
+  "id": "2016-05-20-45",
+  "sectionId": "us-news",
+  "body": "Donald Trump may be heading to London to meet the prime minister, despite David Cameron calling his plan to ban Muslims from entering the US \u201cdivisive, stupid and wrong\u201d. \u201cHe would like me now to visit 10 Downing Street. They put out that invitation about two days ago,\u201d Trump told MSNBC\u2019s Morning Joe on Friday morning. The Guardian understands that no process involving official invitations being sent out has taken place. But Downing Street acknowledged that the prime minister would be happy to see Trump once he becomes the Republican nominee. A No 10 spokesman told the Guardian: \u201cThere is a long history of PMs seeing nominees if they visit the UK and the PM will be happy to do so once the nominees have been chosen.\u201d In a statement, a Downing Street spokesperson added: \u201cGiven the parties have yet to choose their nominees, there are no confirmed dates for this.\u201d The statement comes after a week that saw a strained relationship between the Republican presidential hopeful and the UK. Downing Street\u2019s stance marks a change in tone from December, when Cameron said of Trump: \u201cIf he came to visit our country, I think he would unite us all against him.\u201d  Earlier this week the prime minister refused to back down from his criticisms of Trump. \u201cHe continues to believe that preventing Muslims from entering the US is divisive, stupid and wrong. He stands by his comments,\u201d said a Downing Street spokesperson.  The billionaire businessman was in an interview with Piers Morgan, aired on ITV on Monday, and was asked whether Cameron was damaging the countries\u2019 relationship.           Trump on London mayor: \u2018I will remember his nasty statements\u2019    \u201cIt looks like we\u2019re not going to have a very good relationship, who knows?\u201d Trump said But Trump seemed more conciliatory on Friday as he spoke of a possible visit to London.  \u201cSo I will do just fine with David Cameron. I think he\u2019s a nice guy ... They have asked me to visit 10 Downing Street \u2013 and I might do it,\u201d he told Morning Joe. Additional reporting by Rowena Mason in London",
+  "webTitle": "David Cameron will meet Donald Trump in UK once he becomes nominee",
+  "webPublicationDate": "2016-05-20T18:00:25Z",
+  "webUrl": "https://www.theguardian.com/us-news/2016/may/20/donald-trump-david-cameron-london-meeting-muslim-ban",
+  "keyword": [
+    {
+      "webTitle": "Donald Trump",
+      "id": "us-news/donaldtrump",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "David Cameron",
+      "id": "politics/davidcameron",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "US elections 2016",
+      "id": "us-news/us-elections-2016",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US politics",
+      "id": "us-news/us-politics",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "London",
+      "id": "uk/london",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Amber Jamieson",
+      "id": "profile/amber-jamieson"
+    }
+  ],
+  "guardianId": "us-news/2016/may/20/donald-trump-david-cameron-london-meeting-muslim-ban"
+}

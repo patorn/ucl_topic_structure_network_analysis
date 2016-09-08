@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/21/cannes-2016-un-certain-regard-prize",
+  "id": "2016-05-21-69",
+  "sectionId": "film",
+  "body": "Finnish drama The Happiest Day in the Life of Olli M\u00e4ki has been named best film in this year\u2019s Un Certain Regard strand of the Cannes film festival.   Related: Cannes 2016: Peter Bradshaw's festival verdict and award predictions    The film, about the the buildup to the 1962 world featherweight championship title match, beat out higher profile titles including After the Storm, the latest film from Kore-eda Hirokazu. It\u2019s directed by newcomer Juho Kuosmanen. Japanese thriller Harmonium, about a family falling apart, won the jury prize.  Other awards were handed out to Ghibli aimation The Red Turtle which picked up the special jury prize while Matt Ross won best director for his Viggo Mortenson-starring Captain Fantastic This year\u2019s jury was headed up by Swiss actor Marthe Keller and included directors Jessica Hausner and Ruben \u00d6stlund and actors Diego Luna and C\u00e9line Sallette. Last year\u2019s prize was won by the Icelandic drama Rams. The awards precede the announcement of the in competition prizes on Sunday. Favourites to win include German comedy Toni Erdmann and Ethiopian-Irish actor Ruth Negga for her performance in civil rights drama Loving.",
+  "webTitle": "Cannes 2016: The Happiest Day in the Life of Olli M\u00e4ki wins top Un Certain Regard prize",
+  "webPublicationDate": "2016-05-21T17:45:11Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/21/cannes-2016-un-certain-regard-prize",
+  "keyword": [
+    {
+      "webTitle": "Cannes 2016",
+      "id": "film/cannes-2016",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Cannes film festival",
+      "id": "film/cannesfilmfestival",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Festivals",
+      "id": "culture/festivals",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Benjamin Lee",
+      "id": "profile/benjamin-lee-film"
+    }
+  ],
+  "guardianId": "film/2016/may/21/cannes-2016-un-certain-regard-prize"
+}

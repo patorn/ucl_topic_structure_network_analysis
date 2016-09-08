@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/15/angry-birds-movie-review-unfunny-chaos",
+  "id": "2016-05-15-191",
+  "sectionId": "film",
+  "body": "Fans of the computer game will probably admire the way that the film-makers managed to crowbar a narrative into the baffling silliness of this phenomenon. But if you are not a regular player, the story feels like an inelegant and pointless scramble of trampolines, catapults, eggs and anger management classes. Despite the best efforts of Jason Sudeikis, the voice of the central character, Red, who drenches every line with a thick coating of irony, this simply isn\u2019t funny enough to charm the parents of the film\u2019s intended audience: impressionable and not particularly discerning children.",
+  "webTitle": "The Angry Birds Movie review \u2013 charmless chaos",
+  "webPublicationDate": "2016-05-15T06:59:18Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/15/angry-birds-movie-review-unfunny-chaos",
+  "keyword": [
+    {
+      "webTitle": "Animation",
+      "id": "film/animation",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Angry Birds",
+      "id": "technology/angry-birds",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Games",
+      "id": "technology/games",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Wendy Ide",
+      "id": "profile/wendy-ide"
+    }
+  ],
+  "guardianId": "film/2016/may/15/angry-birds-movie-review-unfunny-chaos"
+}

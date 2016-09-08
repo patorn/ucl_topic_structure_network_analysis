@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/09/sadiq-khan-us-visit-before-election-in-case-donald-trump-wins",
+  "id": "2016-05-09-47",
+  "sectionId": "politics",
+  "body": "London\u2019s new mayor, Sadiq Khan, has said he will visit the US before this year\u2019s presidential elections \u201cin case Donald Trump wins\u201d, in a reference to the presumptive Republican nominee\u2019s call for a ban on Muslims entering the country. Khan, who last week became the first Muslim mayor in a major western capital, expressed admiration for his counterparts in New York and Chicago and said he wanted to meet them. But in an interview with Time magazine, he said: \u201cIf Donald Trump becomes the president I\u2019ll be stopped from going there by virtue of my faith, which means I can\u2019t engage with American mayors and swap ideas.\u201d Drawing a link between Trump\u2019s comments and the mayoral campaign, which saw  his Tory rival, Zac Goldsmith, criticised for attempts to link him to extremism, Khan added: \u201cConservative [party] tacticians thought those sort of tactics would win London and they were wrong. I\u2019m confident that Donald Trump\u2019s approach to politics won\u2019t win in America.\u201d In December, Trump called for a \u201ctotal and complete shutdown\u201d of the country\u2019s borders to Muslims in the wake of the San Bernardino terrorist attack in California. He said there was such hatred among Muslims towards Americans that it was necessary to stop them coming to the US until the problem was better understood. Khan praised the mayorships of Bill de Blasio in New York and Rahm Emanuel in Chicago, both of whom are Democrats. He expressed interest in the housing policies of De Blasio, who has sought to preserve his city\u2019s stock of affordable housing and has championed an investment programme to support affordable homes for the middle classes as well as low earners. In the case of Emanuel, who stepped down in 2010 as Barack Obama\u2019s chief of staff to seek election in Chicago, Khan cited his \u201cinfrastructure bank\u201d. It was an apparent reference to the Chicago Infrastructure Trust, a non-profit agency composed of private and public members that was set up by Emanuel to advise him on and help push through major public works projects. Asked if he believed that London\u2019s reputation had been damaged by the tactics of the mayoral campaign, Khan said the record turnout had shown \u201cwhat a wonderful city\u201d it was. \u201cWe\u2019re not simply tolerating each other \u2013 you tolerate a toothache, I don\u2019t want to be tolerated. We respect, we embrace, and we celebrate, which is fantastic.\u201d",
+  "webTitle": "Sadiq Khan plans US visit before election 'in case Trump wins'",
+  "webPublicationDate": "2016-05-09T19:25:49Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/09/sadiq-khan-us-visit-before-election-in-case-donald-trump-wins",
+  "keyword": [
+    {
+      "webTitle": "Sadiq Khan",
+      "id": "politics/sadiq-khan",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Donald Trump",
+      "id": "us-news/donaldtrump",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "London",
+      "id": "uk/london",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ben Quinn",
+      "id": "profile/benquinn"
+    }
+  ],
+  "guardianId": "politics/2016/may/09/sadiq-khan-us-visit-before-election-in-case-donald-trump-wins"
+}

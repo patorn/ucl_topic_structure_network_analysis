@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/news/2016/may/19/weatherwatch-candles-propellers-protect-vines-may-frost",
+  "id": "2016-05-19-32",
+  "sectionId": "news",
+  "body": "May is a critical month for wine growers. Vines are resistant to low temperatures in winter, but once the new leaf tissue has broken out \u2013 a process known as bud burst \u2013 the new growth is vulnerable to the slightest frost. The traditional protection is to light thousands of wax candles. A cold spell last year meant that there were candles burning in late May in parts of Switzerland. The candles work by a combination of heating and smoke. The smoke forms a blanket which helps to block heat loss by radiative cooling, effectively a miniature version of the greenhouse effect. Some growers employ oil-fired burners known as \u201chttp://www.ehow.co.uk/how_7532647_build-smudge-pot.html\u201d, or electric heating systems.   Related: Cloud herders of the Himalayas    There are also more subtle techniques for disrupting the conditions necessary for the formation of frost. Some vineyards have wind machines, towers about 10 metres high with six-metre propeller blades at the top. These work well in areas where frost is associated with a temperature inversion. The wind machine stirs up the air at ground level, and draws down the warmer air from above. One machine can protect several hectares. Some growers achieve the same effect by having a helicopter make low passes over the vines. Sometimes the problem is with frost pockets, low-lying areas where cold air tends to pool and frost forms. This can be prevented with an inverted sink fan \u2013 essentially a wind machine lying on its side \u2013 which blows the cold air upwards and away from the vines.",
+  "webTitle": "How candles and propellers protect vines from May frost",
+  "webPublicationDate": "2016-05-19T20:30:21Z",
+  "webUrl": "https://www.theguardian.com/news/2016/may/19/weatherwatch-candles-propellers-protect-vines-may-frost",
+  "keyword": [
+    {
+      "webTitle": "Meteorology",
+      "id": "science/meteorology",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Spring",
+      "id": "environment/spring",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Agriculture",
+      "id": "science/agriculture",
+      "sectionId": "science",
+      "sectionName": "Science"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "David Hambling",
+      "id": "profile/davidhambling"
+    }
+  ],
+  "guardianId": "news/2016/may/19/weatherwatch-candles-propellers-protect-vines-may-frost"
+}

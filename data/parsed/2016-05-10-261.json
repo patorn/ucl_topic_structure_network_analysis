@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/10/andre-the-giant-biopic-hollywood",
+  "id": "2016-05-10-261",
+  "sectionId": "film",
+  "body": "A biopic of the wrestler Andr\u00e9 the Giant is to move into production with the full backing of the battling 7ft 4in behemoth\u2019s family, reports Variety. The film will follow the life of the wrestler and actor Andr\u00e9 Roussimoff, from his youth as a farm worker in the French Alps to the height of his fame as a hugely popular combatant for the World Wrestling Federation (now WWE) in the 1970s, 80s and early 90s. \u201cAndr\u00e9 the Giant rode the wave of the rise of wrestling in America, while suffering from the painful health condition of gigantism \u2013 there\u2019s an Elephant Man story here,\u201d said producer Scott Steindorff. The biopic will be based on the Lion Forge Comics graphic novel Andr\u00e9 the Giant: Closer to Heaven. Roussimoff\u2019s daughter, Robin Christensen-Roussimoff, has given the project her blessing and will take a consultant\u2019s role. The wrestler, who weighed more than 500 pounds, is best known to non-wrestling fans from his role in the classic 1987 fantasy comedy The Princess Bride. He was also the face of an anti-corporate marketing campaign, Andr\u00e9 the Giant Has a Posse, by the American street artist Shepard Fairey. \u201cI\u2019m really excited to watch this story come to life on the big screen,\u201d said Christensen-Roussimoff. \u201cIt\u2019s been a labour of love for everyone involved, and we\u2019re really looking forward to making it available to a larger audience.\u201d Roussimoff died in 1993 from congestive heart failure at the age of 46.",
+  "webTitle": "Andr\u00e9 the Giant biopic battling towards Hollywood green light",
+  "webPublicationDate": "2016-05-10T09:03:40Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/10/andre-the-giant-biopic-hollywood",
+  "keyword": [
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Biopics",
+      "id": "film/biopics",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Wrestling",
+      "id": "sport/wrestling",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ben Child",
+      "id": "profile/benchild"
+    }
+  ],
+  "guardianId": "film/2016/may/10/andre-the-giant-biopic-hollywood"
+}

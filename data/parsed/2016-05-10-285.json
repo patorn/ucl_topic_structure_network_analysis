@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/10/animal-collective-live-recordings-north-carolina-anti-lgbt-law",
+  "id": "2016-05-10-285",
+  "sectionId": "music",
+  "body": "Animal Collective have released live recordings of two shows in order to raise money and awareness of the fight against North Carolina\u2019s discriminatory HB2 law.  The band are opposed to the controversial \u201cbathroom bill\u201d, which dictates which bathrooms transgender people are permitted to use and attacks the rights of LGBT citizens to sue when their human rights are violated in the workplace. The band said: \u201cWe felt that cancelling our show, like many others have done in protest of this law, would be a disappointment to our fans and decided to go on with the performance. That being said, we don\u2019t condone or agree with any type of bigotry or discrimination.\u201d   Related: Animal Collective review \u2013 joyful oddity becomes wilful wackiness    Instead of pulling out of their 8 May show at the Orange Peel in Asheville, North Carolina, the band have uploaded audio of two recent concerts on their Bandcamp page \u2013 one recorded in Los Angeles and one in Manchester. They are available as pay-what-you-want downloads and all money raised will go to Progress NC, a non-profit dedicated to fighting for progressive causes in North Carolina.  Animal Collective are not the first band to protest HB2. Bruce Springsteen, Ringo Starr and Pearl Jam all cancelled shows in response to the bill, whereas Beyonc\u00e9, Father John Misty, Against Me! and Mumford & Sons are among the bands publicly fighting the law.",
+  "webTitle": "Animal Collective release live recordings to aid fight against North Carolina\u2019s anti-LGBT law",
+  "webPublicationDate": "2016-05-10T07:53:15Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/10/animal-collective-live-recordings-north-carolina-anti-lgbt-law",
+  "keyword": [
+    {
+      "webTitle": "Animal Collective",
+      "id": "music/animalcollective",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "North Carolina",
+      "id": "us-news/northcarolina",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "LGBT rights",
+      "id": "world/lgbt-rights",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Indie",
+      "id": "music/indie",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Psychedelia",
+      "id": "music/psychedelia",
+      "sectionId": "music",
+      "sectionName": "Music"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian music",
+      "id": "profile/guardianmusic"
+    }
+  ],
+  "guardianId": "music/2016/may/10/animal-collective-live-recordings-north-carolina-anti-lgbt-law"
+}

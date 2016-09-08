@@ -1,0 +1,25 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/30/chatterbox-bank-holiday-monday",
+  "id": "2016-05-30-183",
+  "sectionId": "technology",
+  "body": "It\u2019s Bank Holiday Monday!",
+  "webTitle": "Chatterbox: Bank Holiday Monday",
+  "webPublicationDate": "2016-05-30T06:00:26Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/30/chatterbox-bank-holiday-monday",
+  "keyword": [
+    {
+      "webTitle": "Games",
+      "id": "technology/games",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [],
+  "guardianId": "technology/2016/may/30/chatterbox-bank-holiday-monday"
+}

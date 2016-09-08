@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/australia-news/2016/may/03/coalition-gives-states-2bn-water-infrastructure-loan-scheme-in-budget",
+  "id": "2016-05-03-197",
+  "sectionId": "australia-news",
+  "body": "A $2bn water infrastructure loan facility is the centrepiece of the Coalition\u2019s regional policy, to provide concessional loans to the states and territories for projects. The deputy prime minister and agriculture minister, Barnaby Joyce, said the loans were available from 2016 for 10 years and were designed to provide a financial incentive to state governments to invest in water infrastructure such as dams and pipelines. Joyce said loans could cultivate partnerships between the states and territories and the private sector.    Related: Coalition sells $50bn infrastructure plan, but new spending only $709m    He said there were currently 60 potential water infrastructure project proposals seeking funding for feasibility studies. Loans must be paid back within 10 years of the project\u2019s completion. Joyce said the key focus would be infrastructure projects in the \u201cnational interest\u201d that produced \u201caffordable water\u201d, were economically viable and environmentally sustainable over the life of the infrastructure and triggered rural and regional economic development. Also in the agriculture area, the government have clawed back $9.2m from a program designed to manage farm risk by helping businesses with insurance advice \u2013 such as multiperil insurance.   \u201cConsultation with industry suggests that demand at the time of the white paper may have been overestimated,\u201d according to budget paper number two. The savings will be redirected to repair the budget.",
+  "webTitle": "Coalition gives states $2bn water infrastructure loan scheme in budget",
+  "webPublicationDate": "2016-05-03T12:04:06Z",
+  "webUrl": "https://www.theguardian.com/australia-news/2016/may/03/coalition-gives-states-2bn-water-infrastructure-loan-scheme-in-budget",
+  "keyword": [
+    {
+      "webTitle": "Australian budget 2016",
+      "id": "australia-news/australian-budget-2016",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Barnaby Joyce",
+      "id": "australia-news/barnaby-joyce",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australian politics",
+      "id": "australia-news/australian-politics",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Farming",
+      "id": "environment/farming",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Gabrielle Chan",
+      "id": "profile/gabrielle-chan"
+    }
+  ],
+  "guardianId": "australia-news/2016/may/03/coalition-gives-states-2bn-water-infrastructure-loan-scheme-in-budget"
+}

@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/shortcuts/2016/may/25/why-living-on-isis-close-might-affect-your-post-but-not-your-house-price",
+  "id": "2016-05-25-63",
+  "sectionId": "uk-news",
+  "body": "Isis Close is not a new category of national terror-threat levels, but an address in Oxford where it\u2019s hard to get your veg box delivered. So says a university lecturer in the town, who reports this week that PayPal\u2019s security algorithms have blocked online orders to the cul-de-sac. The firm said it was legally required to scan for terror references but did it best to eliminate anomalies, a particular challenge in Oxford, where the city\u2019s stretch of the Thames was called the Isis long before the word took on a bloodier meaning. At Martyn R Cox estate agents in Witney, Andy Wright says the connotation was not affecting the sale of a house on another Isis Close, in the village of Long Hanborough. \u201cThere have been some issues with Crotch Crescent in Oxford, but people here are used to Isis,\u201d he says. \u201cMaybe if it was another town it would be different.\u201d   Related: How algorithms rule the world    What about Cheshire, home to two of the 16 Isis Closes listed in the phone book? Arthur Ratcliffe, 86, has lived for more than 20 years on Isis Close in Congleton. He doesn\u2019t shop online (\u201cI can still divide and multiply without that business, so I\u2019m fine\u201d) but has had no problems with his address. \u201cThe only occasional terrorists are children kicking a football about, but that\u2019s as much activity and worry as we have here,\u201d he adds. Less fortunate \u201cIsis\u201d residents face the \u201cScunthorpe problem\u201d \u2013 the brainless filtering of blacklisted words contained in names or places. Victims have included a band prevented by Facebook from promoting a gig in Scunthorpe; Craig Cockburn, who couldn\u2019t get a Hotmail address; and specialists whose CVs were being sent to junk because \u201cspecialist\u201d contains Cialis, the erectile-dysfunction drug of spam infamy. Sometimes a name change is the only solution. Oxford\u2019s Isis Close residents may be inspired by nearby Isis Academy, which became Iffley Academy in February. Quite apart from algorithmic concerns, \u201canybody who did not know the nature of the school would make comments like: \u2018Are you training the children to be terrorists?\u2019\u201d the school\u2019s headteacher, Kay Willett, told the Oxford Mail.",
+  "webTitle": "Why living on Isis Close might affect your post \u2013 but not your house price",
+  "webPublicationDate": "2016-05-25T17:53:35Z",
+  "webUrl": "https://www.theguardian.com/uk-news/shortcuts/2016/may/25/why-living-on-isis-close-might-affect-your-post-but-not-your-house-price",
+  "keyword": [
+    {
+      "webTitle": "UK security and counter-terrorism",
+      "id": "uk/uksecurity",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Oxford",
+      "id": "uk/oxford",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "PayPal",
+      "id": "technology/paypal",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Computing",
+      "id": "technology/computing",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Islamic State",
+      "id": "world/isis",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Simon Usborne",
+      "id": "profile/simon-usborne"
+    }
+  ],
+  "guardianId": "uk-news/shortcuts/2016/may/25/why-living-on-isis-close-might-affect-your-post-but-not-your-house-price"
+}

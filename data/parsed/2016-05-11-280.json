@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/11/boris-johnson-no-regrets-obama-part-kenyan-remarks",
+  "id": "2016-05-11-280",
+  "sectionId": "politics",
+  "body": "Boris Johnson says he has no regrets about claiming that Barack Obama\u2019s \u201cpart-Kenyan\u201d heritage had driven him towards anti-British sentiment.  Last month, while still London mayor, Johnson was accused of dog-whistle racism for the way he criticised Obama\u2019s intervention in the EU debate. Writing in the Sun about the decision of the Obama administration to remove a bust of Britain\u2019s wartime leader Winston Churchill from the Oval Office, Johnson said: \u201cSome said it was a snub to Britain. Some said it was a symbol of the part-Kenyan president\u2019s ancestral dislike of the British empire \u2013 of which Churchill had been such a fervent defender.\u201d In fact, the bust was a loan to President Bush. Johnson was asked on Wednesday whether he had any regrets about the way he phrased comments. \u201cOf course not,\u201d he told BBC Radio 4\u2019s Today programme.  He went on to cite an opinion piece in the Guardian. \u201cI was merely quoting a point that I think was also made in the Guardian newspaper and nobody accuses the Guardian [of being racist],\u201d Johnson said. A post in April on the rightwing Guido Fawkes blog made the same point. It quoted a Guardian article that asked whether Obama\u2019s dual heritage could reshape Britain\u2019s special relationship with the US. The Guido Fawkes post said: \u201cNobody accused the Guardian of dog-whistling. Yet the Remainers threw their toys out of the pram.\u201d   Related: What does Boris Johnson really think of European integration?    Johnson told Today: \u201cMy point was very simple it is absolutely absurd for the United States of America to continue to urge us further down the line towards a federal superstate when the US has not even signed up to the UN convention on the rights of man.\u201d He went on: \u201cThe substantive point is that we were told by President Obama that in respect of international trade, we would have to get to the back of the queue. Not a position that America normally requires the United Kingdom to be in when it comes to other matters, for instance the Iraq war, and it is absurd to tell us we will have to be at the back of the queue when for 42 years we\u2019ve been unable to do a free trade deal with China, India, Australia or New Zealand and the United States of America because we are in the EU.\u201d Johnson also refused to deny that he wrote both pro- and anti-EU columns for the Telegraph before announcing that he would join the out camp. He said: \u201cI have written all sorts of things over a long period of time ... It is perfectly true to say that I thought long and hard about this decision.\u201d In an earlier interview Johnson denied that he expected a vote to leave the EU in the 23 June referendum to clear the way for him to succeed David Cameron as prime minister.  Asked whether he thought Cameron should remain in office to oversee negotiations for Britain\u2019s withdrawal from the EU, the former London mayor told ITV1\u2019s Good Morning Britain: \u201cYes, absolutely. Of course he can, and I think he must.\u201d Kicking off a Vote Leave battlebus campaign in Truro, Cornwall, Johnson said the leave campaign had the passion and energy to succeed against the \u201cbig battalions\u201d of government spending on the remain side. Giving an impromptu stump speech, he said: \u201cIsn\u2019t it wonderful to see our battlebus which is not funded by the taxpayer, unlike that \u00a39m government propaganda for the remain side... \u201cBelieve me, there are hundreds of millions of people who share our views across the whole wonderful European continent and think that Europe and the EU are no longer the same thing and it is the EU going in the wrong direction. I hope we can build a movement. They think they\u2019ve got the big battalions, they\u2019ve got all the taxpayers\u2019 money; we\u2019ve got the passion, we\u2019ve got commitment and we\u2019ve got right on our side. Fight for our democracy, folks, on 23 June and let\u2019s make sure 24 June is independence day for Britain.\u201d He was mobbed by supporters and media as he launched the Vote Leave tour from the town\u2019s marketplace, where he waved a Cornish pasty for the cameras and bought some asparagus.",
+  "webTitle": "Boris Johnson has no regrets over Obama 'part-Kenyan' remarks",
+  "webPublicationDate": "2016-05-11T10:23:59Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/11/boris-johnson-no-regrets-obama-part-kenyan-remarks",
+  "keyword": [
+    {
+      "webTitle": "Boris Johnson",
+      "id": "politics/boris",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Barack Obama",
+      "id": "us-news/barack-obama",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Matthew Weaver",
+      "id": "profile/matthewweaver"
+    }
+  ],
+  "guardianId": "politics/2016/may/11/boris-johnson-no-regrets-obama-part-kenyan-remarks"
+}

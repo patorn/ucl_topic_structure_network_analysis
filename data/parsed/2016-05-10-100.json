@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/10/shashank-manohar-bcci-president-icc-cricket-ecb-report",
+  "id": "2016-05-10-100",
+  "sectionId": "sport",
+  "body": "Shashank Manohar resigned as the president of the Board of Control for Cricket in India on Tuesday, paving the way for him to run for the chairmanship of the International Cricket Council. Manohar has been behind reforms at the world governing body that will lead to the chairmanship becoming independent of any national cricket board in the future, having held the role since November last year as India\u2019s representative at international level. An election will be held at the end of this month unless Manohar stands unopposed, with a report in the Hindu newspaper last month claiming that six ICC member boards have already privately expressed their support for him, in the excess of the two required to run. Manohar, 58, who was elected as BCCI president seven months ago, has been an open critic of the 2014 changes at the ICC that led to India, England and Australia taking control of the board and allocating themselves 52% of revenues from global tournaments. His resignation from the BCCI comes at a time when it is wrestling with the country\u2019s supreme court in the wake of the Lodha Committee\u2019s recommendations to restructure the board following corruption scandals in the Indian Premier League. The England and Wales Cricket Board presented its report for 2015-16 at the annual general meeting on Tuesday, with it showing a reduction in payments to counties last year and increased spending on its own administration and national teams. Overall the board recorded \u00a3134\u00a0million in turnover after the Ashes summer \u2013 \u00a340m less than when India toured the previous year \u2013 but a figure that represents a \u00a310m increase from when England previously played Australia at home in 2013. While India are more lucrative opponents, the visits of Australia and New Zealand saw international audiences increase by 75,000 from the previous summer, with 2.3m spectators in total, 1.5m of which attended domestic cricket. Some 827,000 watched the NatWest T20 Blast, its highest figure to date. The cost of running the England\u2019s national teams went up by \u00a33m, from \u00a327.5m to \u00a330.6m, while ECB administration costs increased from \u00a312.4m to \u00a314.1m and its reserves rose by \u00a33m to \u00a373.11m. Spending on the professional game \u2013 chiefly payments to the 18 first-class counties \u2013 was at \u00a348.4m, a reduction of \u00a315.4m. In the report, the ECB explains the fall as being due to greater \u201cexceptional\u201d costs in the 2014\u201115 period. A rise in participation in women\u2019s cricket was demonstrated at the AGM by the number of teams playing last year, with 615 sides as opposed to just 93 in 2003.",
+  "webTitle": "Shashank Manohar stands down as president of the BCCI",
+  "webPublicationDate": "2016-05-10T16:42:42Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/10/shashank-manohar-bcci-president-icc-cricket-ecb-report",
+  "keyword": [
+    {
+      "webTitle": "International Cricket Council",
+      "id": "sport/international-cricket-council",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Cricket",
+      "id": "sport/cricket",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ali Martin",
+      "id": "profile/ali-martin"
+    }
+  ],
+  "guardianId": "sport/2016/may/10/shashank-manohar-bcci-president-icc-cricket-ecb-report"
+}

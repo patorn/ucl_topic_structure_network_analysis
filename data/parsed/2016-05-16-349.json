@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://content.guardianapis.com/us-news/2016/may/16/us-man-shoots-himself-in-foot-while-adjusting-sock",
+  "id": "2016-05-16-349",
+  "sectionId": "us-news",
+  "body": "Two people have been wounded at a high school graduation ceremony in Kansas after a man shot himself in the foot and wounded another person after he fiddled with a gun which he had concealed in his sock.  Tyler Brewer, the Augusta police chief, said the shooting was accidental and described it as a \u201cknucklehead situation\u201d.   Related: The macabre truth of gun control in the US is that toddlers kill more people than terrorists do | Lindy West    The shooting took place on Sunday as people were filing into the football stadium for the graduation. The bullet went through the man\u2019s foot and travelled about another 50 feet before striking a woman in her calf.  The woman has been released from a hospital in Wichita, while the man has been admitted with an injury that\u2019s not life-threatening. CBS News reported the man shot himself in his right foot and was able to drive himself to hospital. Police said the man, who had a concealed weapon permit, accidentally discharged the gun while trying to adjust the pistol, which was making his foot feel uncomfortable.  Brewer said the Augusta High School commencement continued after the shooting, with most people unaware of what happened.  Brewer said he planned to present the case to prosecutors because it is illegal to carry a firearm on school grounds.  Associated Press contributed to this report",
+  "webTitle": "US man shoots himself in foot while adjusting sock",
+  "webPublicationDate": "2016-05-16T05:08:09Z",
+  "webUrl": "https://www.theguardian.com/us-news/2016/may/16/us-man-shoots-himself-in-foot-while-adjusting-sock",
+  "keyword": [
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US gun control",
+      "id": "us-news/gun-control",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [],
+  "guardianId": "us-news/2016/may/16/us-man-shoots-himself-in-foot-while-adjusting-sock"
+}

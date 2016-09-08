@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/24/bricklayers-benefit-rising-demand-construction-sector",
+  "id": "2016-05-23-5",
+  "sectionId": "business",
+  "body": "Bricklayers are earning up to \u00a31,000 a week as firms compete for workers to keep housebuilding and infrastructure projects on track, according to a survey of recruitment firms. A skills shortage in the sector is making it hard for recruiters to meet rising demand, the Recruitment and Employment Confederation (REC) said. It added that a vote to leave the EU at next month\u2019s referendum would exacerbate the problem. Research by REC found that two-thirds of recruiters had seen demand for temporary construction workers increase over the last year. Four in 10 said finding bricklayers was particularly difficult.  Those recruiting for London projects said wages were rising as a result, with bricklayers earning up to \u00a325 an hour. The figures for London are based on 14 recruiters, almost half of which place more than 100 temporary construction workers every week. Outside the capital a fifth of bricklayers were being paid between \u00a320 and \u00a325, and the rest less. REC\u2019s chief executive, Kevin Green, said workers were earning \u00a334 a week more than last year on average. \u201cOur data indicates that some employers are increasing pay faster as the competition for skilled workers intensifies,\u201d he said. \u201cWhile this is great news for builders and tradesmen, there are hard questions that need to be asked about the sustainability of this trend. The UK is close to full employment and building firms are already struggling to find the people needed for major infrastructure projects.\u201d The head of the UK\u2019s largest housebuilder, Barratt Developments, said recently that availability of labour was developers\u2019 main challenge, also warning that things would get worse in the event of a vote to leave the EU. The firm\u2019s chief executive, David Thomas, said: \u201cWe would much prefer that the UK stays within the EU. We have a significant part of our labour force, particularly within the London market, coming from continental Europe \u2013 the free movement of labour in the European market is a positive from our point of view.\u201d REC\u2019s survey found that 59% of construction recruiters believed a Brexit vote would make it more difficult to fill vacancies, while only 5% thought it would improve the situation. Just under a third said it would make no difference. Green said if Britain votes to leave the EU \u201cthere\u2019s no doubt that recruitment for some construction roles will become even more of a challenge\u201d. However, he said that whatever the outcome of the referendum \u201cwe need to address deep-seated skills shortages\u201d. The latest employment figures from the Office for National Statistics showed the sector was the second-biggest job creator in 2015 and that by December there were 2.2m jobs in construction in the UK. The data also showed that average wages were up by 6.5% year on year in March.",
+  "webTitle": "Bricklayers benefit from rising demand in construction sector",
+  "webPublicationDate": "2016-05-23T23:01:27Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/24/bricklayers-benefit-rising-demand-construction-sector",
+  "keyword": [
+    {
+      "webTitle": "Construction industry",
+      "id": "business/construction",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Housing",
+      "id": "society/housing",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Housing market",
+      "id": "business/housingmarket",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Real estate",
+      "id": "business/realestate",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "London",
+      "id": "uk/london",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Hilary Osborne",
+      "id": "profile/hilaryosborne"
+    }
+  ],
+  "guardianId": "business/2016/may/24/bricklayers-benefit-rising-demand-construction-sector"
+}

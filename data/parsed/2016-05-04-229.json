@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/global/2016/may/04/letter-daniel-berrigan-obituary",
+  "id": "2016-05-04-229",
+  "sectionId": "global",
+  "body": "What made my friend Daniel Berrigan so unique to me was not his celebrated poetry, nor his commitment to peaceful protest against war, but his huge compassion. Nothing was more important to him than spending a night holding the hand of a dying Aids sufferer. When my adopted son was in a deep depression, Dan, his godfather, flew to England to be with him on his birthday. An event I remember was typical of Dan: in a prestigious Catholic ceremony in Washington he was awarded the Pope John XXIII peace prize. He arrived \u2013 late \u2013 on a clapped-out bus, along with his New York down-and-out friends. So enigmatic and close to the edge was his poetic acceptance speech that the presiding bishop felt he could, under these circumstances, only convey the pope\u2019s apostolic blessing conditionally. The unintended humour was not lost on Dan. Writing from prison once, he told his fellow Jesuits that \u201cunless the cries of the war victims, the hopeless poor, the prisoners, the resisters of conscience, unless the cry of the world reaches our ears, and we measure our lives and deaths against that of others, nothing changes, least of all ourselves\u201d. Dan spoke of his life of protest as \u201coutraged love\u201d.",
+  "webTitle": "Letter: Daniel Berrigan\u2019s huge compassion",
+  "webPublicationDate": "2016-05-04T11:12:25Z",
+  "webUrl": "https://www.theguardian.com/global/2016/may/04/letter-daniel-berrigan-obituary",
+  "keyword": [
+    {
+      "webTitle": "Religion",
+      "id": "world/religion",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Catholicism",
+      "id": "world/catholicism",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Paul Oestreicher",
+      "id": "profile/pauloestreicher"
+    }
+  ],
+  "guardianId": "global/2016/may/04/letter-daniel-berrigan-obituary"
+}

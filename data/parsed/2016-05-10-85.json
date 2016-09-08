@@ -1,0 +1,55 @@
+{
+  "apiUrl": "https://content.guardianapis.com/society/2016/may/10/on-the-debunking-of-the-weekend-effect",
+  "id": "2016-05-10-85",
+  "sectionId": "society",
+  "body": "Your editorial (10 May) discusses possible reasons for the \u201cweekend effect\u201d in hospital admissions, but I can think of another. Investigations into working conditions in services industries have often identified absence because of illness or even doctor\u2019s appointments as resulting in black marks against one\u2019s attendance record, if not immediate dismissal.\u00a0This will be causing delay in seeking help for an emerging health problem until Friday or Saturday, by which time it may have become acute. A field for further research, I hope, and in the meantime another reason for Jeremy Hunt to wonder if he might be mistaken.Roger MortonWirksworth, Derbyshire \u2022 So there is no \u201cweekend effect\u201d. The\u00a0number of patients dying on Sunday is the same as any other day. The apparent rise in mortality is spurious and simply due to fewer ill patients staying at home at weekends. Political spin doctors devised the ruse to divert attention from the real problems of the NHS. A kinder interpretation is that many politicians, like Jeremy Hunt, tend to have studied PPE and the arts, and are often scientifically illiterate.Professor Sidney LowryBangor, County Down  \u2022 Join the debate \u2013 email guardian.letters@theguardian.com",
+  "webTitle": "On the debunking of the \u2018weekend effect\u2019 | Letters",
+  "webPublicationDate": "2016-05-10T17:34:23Z",
+  "webUrl": "https://www.theguardian.com/society/2016/may/10/on-the-debunking-of-the-weekend-effect",
+  "keyword": [
+    {
+      "webTitle": "NHS",
+      "id": "society/nhs",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Hospitals",
+      "id": "society/hospitals",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Jeremy Hunt",
+      "id": "politics/jeremy-hunt",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Doctors",
+      "id": "society/doctors",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [],
+  "guardianId": "society/2016/may/10/on-the-debunking-of-the-weekend-effect"
+}

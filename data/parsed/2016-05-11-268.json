@@ -1,0 +1,108 @@
+{
+  "apiUrl": "https://content.guardianapis.com/society/2016/may/11/financial-strain-young-people-easing-office-for-national-statistics",
+  "id": "2016-05-11-268",
+  "sectionId": "society",
+  "body": "Financial pressure on Britain\u2019s young people has eased slightly since the depths of the financial crisis, according to the Office for National Statistics. The proportion of people aged 16-24 finding it difficult or very difficult to get by fell to 8% in 2013-14, from 15% in 2009-10, the ONS said. Over the same period, young people\u2019s satisfaction with their household income increased to 56% from 51%. \u201cThis is consistent with evidence of an improving economic situation for young people,\u201d the ONS said. Britain\u2019s youth were among the worst affected by the spike in unemployment triggered by the financial crisis, with the rate among young people far higher than the overall unemployment rate peak of 8.5%. The ONS said: \u201cBetween 2012 and 2015, the unemployment rate among 18- to 24-year-olds fell from a high of around 20% to 14% and the young people not in education, employment or training (Neet) rate for 16- to 24-year-olds fell from 16% to 13%.\u201d   Related: Young people are right to be angry about their financial insecurity    At the same time, the average income for young people increased, while the average debt decreased. Average net incomes for people aged 16-24 rose from about \u00a313,500 in 2009 to \u00a315,500 in 2015, according to EU statistics. Average debts fell to \u00a32,600 in 2012-14, from \u00a33,000 in 2010-12. Commenting on the report, David Lascelles, a savings expert at Scottish Widows, said it was \u201ca relief\u201d to see the financial situation of young people improving. \u201cHowever, the biggest barrier preventing young people from saving is simply not having the resources to do so,\u201d he added. \u201cToday\u2019s young people have come of age during the aftermath of the recession and the resulting years of austerity, which has left them bearing the brunt of fewer available jobs and a steeper housing ladder. \u201cThey have emerged valuing the importance of saving, which is essential for achieving a desired standard of living during later life, as well as tiding them over for any unforeseen bumps along the way.\u201d Despite improvement in young people\u2019s financial circumstances, as a group they were more pessimistic about their situation than older people. \u201cIn comparison with older people, young people remain less positive about their personal finances; in 2013 to 2014 around two-thirds of people aged 65 and over were relatively satisfied with their household income compared with just over half of 16- to 24-year-olds,\u201d the ONS said.      When asked about their general wellbeing, beyond just finances, young people were overwhelmingly positive. The proportion who reported high or very high life satisfaction increased from 79% in 2011-12 to 83% in 2014-15. \u201cIt is clear from these figures that although young people\u2019s self-reported financial wellbeing may be relatively low when compared with older people, there have been improvements in a number of aspects of their financial and personal wellbeing for 16- to 24-year-olds as a whole.  \u201cHowever, this general improvement may not fully reflect the experiences of young people in different economic situations.\u201d Unemployed people were far more likely to be dissatisfied with their household income than working people or students, while students were the group most likely to think they would be worse off in the future.      Where they lived in the UK also had a bearing on whether or not young people felt financially well-off.  People in London were finding their situation more difficult than their peers in other areas, which the ONS said was probably related to housing being more expensive in the capital. About 64% of young Londoners described their financial situation as comfortable, compared with 74% in the West Midlands, south-east and south-west and 73% in Scotland.",
+  "webTitle": "Financial strain on young people is easing, official figures show",
+  "webPublicationDate": "2016-05-11T10:55:29Z",
+  "webUrl": "https://www.theguardian.com/society/2016/may/11/financial-strain-young-people-easing-office-for-national-statistics",
+  "keyword": [
+    {
+      "webTitle": "Young people",
+      "id": "society/youngpeople",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Office for National Statistics",
+      "id": "uk/office-for-national-statistics",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Household bills",
+      "id": "money/household-bills",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Consumer affairs",
+      "id": "money/consumer-affairs",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Pay",
+      "id": "money/pay",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Family finances",
+      "id": "money/family-finances",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Work & careers",
+      "id": "money/work-and-careers",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Health & wellbeing",
+      "id": "lifeandstyle/health-and-wellbeing",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "London",
+      "id": "uk/london",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Angela Monaghan",
+      "id": "profile/angela-monaghan"
+    }
+  ],
+  "guardianId": "society/2016/may/11/financial-strain-young-people-easing-office-for-national-statistics"
+}

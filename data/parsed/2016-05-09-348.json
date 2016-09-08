@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/09/nationwide-raises-mortgage-borrowing-age-limit-to-85",
+  "id": "2016-05-09-348",
+  "sectionId": "business",
+  "body": "Nationwide is to raise the maximum age limit for its mortgages from 75 to 85, the highest of any major lender, in a change of policy that it says reflects Britain\u2019s ageing population.  The building society\u2019s move leapfrogs Halifax, which last week raised its age limit to 80. Many older borrowers have struggled to obtain mortgages, despite changes to employment habits, with many workers staying in their jobs until the age of 70 or more.  Nationwide will grant mortgages of up to \u00a3150,000 to older borrowers if they can prove they have enough of a pension to afford the repayments. The last age at which the society will grant a mortgage is 80 years old, to run for five years.  But the higher age limits are only open to borrowers who can prove that the loan will be no more than 60% of the value of their home.  Mortgage broker Aaron Strutt of Trinity Financial said: \u201cUntil now, people aged in their early 60s have usually been turned down by the big banks, offered at most a five to 10 year term, which makes it impossibly expensive. They have had to abandon the idea or go to the smaller building societies and pay higher rates. \u201cI said that other lenders will follow Halifax\u2019s lead but I did not expect Nationwide to act quite so quickly.\u201d The longer age limits massively improve the affordability of loans for older borrowers. For example, a \u00a3100,000 mortgage at age 65, which has to be repaid by the age of 75, costs \u00a3966 a month at a 3% interest rate. But if the borrower can extend it to the age of 85, the cost comes down to just \u00a3555 a month.  Henry Jordan, Nationwide head of mortgages, said: \u201cWe are taking a series of steps to meet a growing demand from customers to be able to borrow in later life. These customers are often asset rich, with significant equity in their home, and they wish to have the flexibility to borrow against it. \u201cAccess to the mainstream market has been a challenge for older customers, resulting in their needs going unfulfilled. This measure helps to address these needs in a prudent, controlled manner.\u201d But the loosening of age restrictions will prompt concerns about the rise of \u201cthe Bank of Granny and Granddad\u201d. Nationwide said the mortgages will be granted for \u201ca range of mortgage borrowing needs, including house purchase and further advances,\u201d but it\u2019s likely that some of the money will be passed to grandchildren to help them buy property.  Last week Barclays reintroduced 100% mortgages \u2013 so long as relatives also put up funds \u2013 prompting some to warn of a new housing divide between buyers able to access parental or grandparent assistance and others left to rent in perpetuity.  The moves will also enable older borrowers to access the 35 and even 40-year mortgage terms now becoming common among younger first time buyers.  Halifax said the proportion of first-time buyers taking a 35-year mortgage rather than a 25-year deal has increased from 16% to 25% in the last eight years alone, as borrowers have stretched themselves to be able to buy. Following Halifax\u2019s amendments to its criteria, someone who is 45 will be able to take a 35-year mortgage, although they will have to prove they will have sufficient pension in retirement to afford it.  Rising house prices and the need to save for large deposits has meant that the average age at which buyers purchase their first home has risen to 31, with many borrowers facing paying mortgages well into their later years.",
+  "webTitle": "Nationwide raises mortgage borrowing age limit to 85",
+  "webPublicationDate": "2016-05-09T05:00:05Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/09/nationwide-raises-mortgage-borrowing-age-limit-to-85",
+  "keyword": [
+    {
+      "webTitle": "Nationwide",
+      "id": "business/nationwide",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Mortgages",
+      "id": "money/mortgages",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Property",
+      "id": "money/property",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Banks and building societies",
+      "id": "money/banks",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Housing market",
+      "id": "business/housingmarket",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Patrick Collinson",
+      "id": "profile/patrickcollinson"
+    }
+  ],
+  "guardianId": "business/2016/may/09/nationwide-raises-mortgage-borrowing-age-limit-to-85"
+}

@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/books/2016/may/25/minnesota-schools-ban-on-graphic-novel-this-one-summer-mariko-and-jillian-tamaki-protests",
+  "id": "2016-05-25-245",
+  "sectionId": "books",
+  "body": "The withdrawal of an award-winning graphic novel from a school in Minnesota over its use of \u201cprofanities\u201d has drawn a stern rebuke from free-speech groups, who warned that the ban opens the door to removing classic works such as The Catcher in the Rye and Beloved. This One Summer by Mariko and Jillian Tamaki tells of a girl who visits a beach house every summer with her parents, but who this time finds herself caught up in the world of older teenagers, while her parents won\u2019t stop fighting. Critically acclaimed \u2013 the New York Times called it \u201ca lovely book\u201d \u2013 the coming-of-age story is also a bestseller.     This One Summer by Jillian and Mariko Tamaki, published by First Second Photograph: Macmillan    But earlier this month, it was pulled from the shelves of the school library in Henning, Minnesota, following a complaint from a parent. Superintendent Jeremy Olson told the Daily Globe that it was banned after he, along with the school librarian and the principal of the school, found the topics it covered to be \u201cinappropriate for inclusion in the library\u201d. \u201cI deemed it as being vulgar. There was a lot of inappropriate language,\u201d he told the paper. Olson added that he was \u201cnot an advocate of censoring books\u201d, but that \u201cwhere I draw the line is with something I would determine pervasively vulgar\u201d. He said he struggled to understand \u201cif the educational need for that outweighs the vulgarity \u2013 where is that line?\u201d The Globe explains that Henning is a small town, of approximately 800 residents, with a library that is used by K-12 students (from kindergarten to the completion of secondary school) and is not divided by grades. However, in a letter to Olson from the National Coalition Against Censorship (NCAC), backed by organisations including PEN America and the National Council of Teachers of English, the group of free-speech organisations say: \u201cThere is no basis to conclude that a book is pervasively vulgar simply because it contains a number of instances of profanity.\u201d \u201cThe book is part of the collections of school libraries across the United States. It has been challenged occasionally, but as far as we are aware, has been consistently kept in those collections,\u201d says the letter, adding that the removal of This One Summer \u201csolely on the basis of occasional profanity opens the door for parents to request the removal of a great deal of literature that is standard fare in school libraries, including classic works such as The Catcher in the Rye, Slaughterhouse-Five, Black Boy and Beloved.\u201d The graphic novel was also challenged in Florida in February, when it was removed from open shelves at three school libraries, according to School Library Journal. At the time, Mariko Tamaki told the magazine that the book was \u201clisted as being for readers ranging 12\u201318\u201d, and \u201ccontains depictions of young people talking about, and dealing with, adult things\u201d.   Related: The Bible makes most challenged books list in US for first time    \u201cI think there are a lot of books, including a lot of great graphic novels, that should be made available to teen readers,\u201d she said. \u201cWhile the book may be above the maturity and reading level of elementary school students, its value for young adults at the high-school level has been recognised by leading professionals,\u201d says the NCAC letter to Olson. It urges him to restore the book to the Henning school library, and warns that \u201cany other decision threatens the principle that is essential to individual freedom, democracy, and a good education: the right to read, inquire, question and think for ourselves\u201d.",
+  "webTitle": "Minnesota school's ban on graphic novel draws free-speech protests",
+  "webPublicationDate": "2016-05-25T08:49:11Z",
+  "webUrl": "https://www.theguardian.com/books/2016/may/25/minnesota-schools-ban-on-graphic-novel-this-one-summer-mariko-and-jillian-tamaki-protests",
+  "keyword": [
+    {
+      "webTitle": "Comics and graphic novels",
+      "id": "books/comics",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Books",
+      "id": "books/books",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Minnesota",
+      "id": "us-news/minnesota",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Censorship",
+      "id": "world/censorship",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "PEN",
+      "id": "books/pen",
+      "sectionId": "books",
+      "sectionName": "Books"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Alison Flood",
+      "id": "profile/alisonflood"
+    }
+  ],
+  "guardianId": "books/2016/may/25/minnesota-schools-ban-on-graphic-novel-this-one-summer-mariko-and-jillian-tamaki-protests"
+}

@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/commentisfree/2016/may/14/research-corporations-funding-science",
+  "id": "2016-05-14-23",
+  "sectionId": "commentisfree",
+  "body": "Corporate funding of multiple vaccine research was \u201cexposed\u201d again recently. This time it was in the latest round of MMR-causes-autism allegations, which we exported to the US. We\u2019ve seen the same \u201cexpos\u00e9s\u201d in the UK, on fracking, on genetically modified plants and on sugar. Last year, some of the best-regarded nutrition researchers were taken out and given a public beating when it was revealed that the food industry funds research in their institutes. Well, it wasn\u2019t revealed exactly so much as noted from the researchers\u2019 clear and public funding declarations. A \u201csugary web of shame\u201d piece in the BMJ found no indication that the funding had caused bias and, indeed, it was clear to anyone who looked at the researchers\u2019 publications that their conclusions about sugar were the very opposite to what the industry hoped. The beating went ahead anyway. It was then that the Academy of Medical Sciences took a step that the academies and government should have taken a long time ago, and held a meeting to ask what to do when accusations of vested interests derail important research that relies on corporate funding. It published its report of that meeting last week, with an invitation to all of us to express a view.    We shouldn\u2019t just lazily assume that all opportunities to influence research turn out the same way    It\u2019s important we talk about this because in the media and the public consciousness, corporate funding has become shorthand for bad. Crooked deals (you write this, I\u2019ll pay for your holiday) are presented as on a par with well-structured research agreements (we need vaccines to test vaccines, so the pharma company provides them gratis, no results guaranteed). Researchers are being hung out to dry because their institutes take corporate funding, even while government is pressuring them to do so. Meanwhile, terrible problems of bias, such as the failure to publish all clinical trial results, attract far too little attention. What\u2019s especially annoying is that the \u201cwho funded it?\u201d question \u2013 often by people with axes to grind \u2013 overrides the inquiries that the public rightly ask. \u201cWhat do we actually know?\u201d \u201cDo scientists agree on this?\u201d \u201cIs this a proper study and how can I tell?\u201d These are good questions that show us whether the research is actually biased and what we should trust. We need to get used to asking them, because corporate funding accounts for more than half of our research base. In some areas, including areas of engineering that are no less matters of public safety, there is hardly any public funding. That\u2019s not likely to change: can you imagine popular support for a research tax to replace corporate funding? We need a lot of money to maintain research infrastructure and programmes. Where would we rather see those corporate funds \u2013 put into research, or given to shareholders to make the richest 2% richer? So what\u2019s to be done? An open discussion about the good and bad ways to run corporate and academic partnerships would be a start. An acknowledgement of the potential for interference in independent research and a laying out of the protective processes that can be put in place to prevent it. Contracts and codes are what matter, and they should protect research from all funders, corporate or not. We also shouldn\u2019t just lazily assume that all opportunities to influence research turn out the same way. (Nor should we assume that those opportunities are limited to companies. Advocacy groups and government departments fund research, too.) I\u2019ve spent many years questioning researchers and working out reliable sources for helping the public with difficult issues. I am sure we\u2019re far better off with research teams who are able to attract company funding and handle it with good governance than we are with the complacency of those who have never been put to this test and who have never thought to question their own standards and objectivity. If we accept that commercial funding of research is necessary, we need to decide the right way to do it. There is huge variation in institutions\u2019 contracts with external funders. Surely the research academies and government have a duty to draw up a standard and a code, and talk to the public about it. We must encourage everybody with a concern about commercial influence to test research against that standard, instead of indulging in this episodic outing and bloodying of researchers. Tracey Brown is the director of Sense About Science",
+  "webTitle": "It\u2019s silly to assume all research funded by corporations is bent | Tracey Brown",
+  "webPublicationDate": "2016-05-14T23:04:08Z",
+  "webUrl": "https://www.theguardian.com/commentisfree/2016/may/14/research-corporations-funding-science",
+  "keyword": [
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Research funding",
+      "id": "education/researchfunding",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "MMR",
+      "id": "society/mmr",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Fracking",
+      "id": "environment/fracking",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "GM",
+      "id": "environment/gm",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Farming",
+      "id": "environment/farming",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Tracey Brown",
+      "id": "profile/tracey-brown"
+    }
+  ],
+  "guardianId": "commentisfree/2016/may/14/research-corporations-funding-science"
+}

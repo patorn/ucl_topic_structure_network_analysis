@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/24/uk-renewables-cuts-risk-slowing-shift-to-clean-energy",
+  "id": "2016-05-24-223",
+  "sectionId": "environment",
+  "body": "The UK government risks slowing the shift to clean energy sources by cutting support for renewable energy and strongly backing gas as a transitional fuel, according to the UN\u2019s environment chief. Achim Steiner, executive director of the UN Environment Programme (UNEP), told the Guardian that he thought the UK\u2019s push for nuclear and gas over renewables could be more costly in the long term. His warning came as North Yorkshire council gave the go ahead for the first fracking tests in the UK for five years. Councillors gave the green light on Monday to UK firm Third Energy to begin hydraulic fracturing for shale gas at wells near the village of Kirby Misperton, in the Ryedale district. Steiner said that it was a \u201clegitimate choice\u201d for the government to pursue \u201cintermediary steps\u201d to decarbonise the economy, such as using gas rather than coal. But speaking to the Guardian before the North Yorkshire decision, he said: \u201cIf you invest a lot in an intermediary solution, you\u2019re essentially slowing down the long-term transition [to renewables] so you\u2019ll just have to do many things much faster and you may face the risk of having to pay much more to do it [later down the line].\u201d He added that removing government support for renewable energy would hold back the sector. \u201cThe picture in the UK has become less clear [on green energy]. That will not necessarily stop renewable energy from moving forward, but I think it will have a dampening effect on the sector that\u2019s so critical, and that\u2019s the private sector,\u201d he said. Since coming to power, the Conservative party has ended subsidies to onshore wind power, cut them for solar power and scrapped plans for zero-carbon homes, defending the changes as being necessary to protect consumers. \u201cWhenever public policy becomes hesitant or reverses a policy there, you can create uncertainty. And that I think is probably where the UK, like other countries, do need to look very carefully at what they are signalling in this arena, which is the market, the investor, the funding.\u201d A spokesperson for the Department of Energy and Climate Change said: \u201cWe are dedicated to reducing our emissions and moving to low carbon energy, but this has to be done in the most cost-effective way for households and businesses. \u201cThe UK remains an attractive location for investment in renewable energy. We are giving investors the longer-term certainty they need by announcing \u00a3730m of funding for renewables contract auctions to drive further investment and build on the record levels we saw last year.\u201d    On nuclear power, Steiner said that it might make sense in some countries as a way to cut emissions, but ultimately he thought it would quickly be beaten by renewable energy on economic grounds. \u201cNuclear is an option that is clean in terms of CO2 emissions but economics is a very complicated subject, and the UK is just learning that firsthand with supposedly state of the art technology,\u201d he said in a reference to the troubled plans for new reactors at Hinkley Point. Steiner, who is stepping down in June and moving to the Oxford Martin school at the University of Oxford, said it was \u201cextremely important\u201d that last year\u2019s historic Paris climate deal should be formally ratified and adopted quickly, to send the right signal to businesses. \u201cIf you take Paris literally, it signals to the world that we will decarbonise our economies over the next 50 years. This is revolutionary, this is unprecedented. Unless we get markets, industry, technology to believe this is really going to happen [by ratifying soon], they\u2019re not going to invest themselves in it. \u201cPublic budgets are usually 15-20% of GDP, so 80% of the economy [the private sector] sitting back is a death knell.\u201d On Donald Trump, who has pledged to unpick the Paris deal if elected US president and denies the science of manmade global warming, he said: \u201cWhenever there is anywhere in the world someone saying I don\u2019t believe in climate change, UNEP has to be worried. This is not a question of belief, it\u2019s a question of science, of evidence.\u201d But he said that while the US, which is the world\u2019s second biggest carbon emitter, was \u201cstill a very significant player\u201d, it would be Africa that might decide the fate of the world\u2019s climate. \u201cThis continent now has 1 billion people, it will double its population in the next 50 years, so we will have 2 billion Africans. If Africa were to go down the 20th-century fossil fuel path, the Paris agreement would almost become redundant. Because we would just add to the emissions footprint of the planet in such a magnitude that any attempt to decarbonise our economies wouldn\u2019t work.\u201d But he argued that Africa was not going down that route, because it had fewer vested interests in fossil fuels and renewable energy provided a shortcut for the millions of Africans who still do not have access to energy. Over his 10-year term as the head of UNEP, the Brazilian-born Steiner has overseen a significant increase in its budget and beefed-up powers bestowed on it at the Rio+20 Earth summit in 2012. His greatest achievements, he felt, were moving from an environment agenda \u201ctrying to save one lake, one forest, change one chemical at a time\u201d to something much more systemic, and making green issues relevant to the economy. \u201cUNEP has brought an economic understanding to the environmental agenda,\u201d he said in an interview with the Guardian at the UN environment assembly in Nairobi. But his biggest regret was not doing more on oceans. \u201cIt is a frontier that is in some ways abstract to us terrestrial beings. But it is fundamental to what is happening on our planet. The world needs to pay far closer attention,\u201d he said. \u201cIn a world where most of our fish stocks are overexploited or declining, or where as one report says they will soon be more plastic in the ocean than fish, what kind of outlook is that for a civilised 21st-century society?\u201d   The Guardian\u2019s travel and accommodation was paid for by the UN.",
+  "webTitle": "UK renewables cuts 'risk slowing shift to clean energy'",
+  "webPublicationDate": "2016-05-24T10:38:59Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/24/uk-renewables-cuts-risk-slowing-shift-to-clean-energy",
+  "keyword": [
+    {
+      "webTitle": "Renewable energy",
+      "id": "environment/renewableenergy",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Energy",
+      "id": "environment/energy",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Gas",
+      "id": "environment/gas",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Fracking",
+      "id": "environment/fracking",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Nuclear power",
+      "id": "environment/nuclearpower",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Adam Vaughan",
+      "id": "profile/adam-vaughan"
+    }
+  ],
+  "guardianId": "environment/2016/may/24/uk-renewables-cuts-risk-slowing-shift-to-clean-energy"
+}

@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/23/gerard-houllier-return-lyon-general-manager",
+  "id": "2016-05-23-50",
+  "sectionId": "football",
+  "body": "The former Liverpool manager G\u00e9rard Houllier looks poised to return to Lyon as general manager, the Ligue\u00a01 club\u2019s president said on Monday. \u201cWe\u2019ve been working with G\u00e9rard Houllier so that he becomes the general manager,\u201d said Jean-Michel Aulas, who added that the former Lyon players Cris and Gr\u00e9gory Coupet would be part of head coach Bruno G\u00e9n\u00e9sio\u2019s staff, told OL TV. Aulas added that Houllier\u2019s return was subject to a medical. Houllier has endured heart problems during his career in England, needing five months out of the game while in charge of Liverpool in 2001. He was also admitted to hospital during his time as Aston Villa manager. The former France coach led Lyon to two Ligue\u00a01 titles between 2005-07.",
+  "webTitle": "G\u00e9rard Houllier ready for return to Lyon as club\u2019s general manager",
+  "webPublicationDate": "2016-05-23T18:59:50Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/23/gerard-houllier-return-lyon-general-manager",
+  "keyword": [
+    {
+      "webTitle": "G\u00e9rard Houllier",
+      "id": "football/gerard-houllier",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Lyon",
+      "id": "football/lyon",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Liverpool",
+      "id": "football/liverpool",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "European club football",
+      "id": "football/europeanfootball",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Mark Dobson",
+      "id": "profile/mark-dobson"
+    }
+  ],
+  "guardianId": "football/2016/may/23/gerard-houllier-return-lyon-general-manager"
+}

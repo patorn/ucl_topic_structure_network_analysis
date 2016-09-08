@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/05/mps-consider-making-refusal-attend-select-committees-crime",
+  "id": "2016-05-05-192",
+  "sectionId": "politics",
+  "body": "Ministers have agreed to consider whether it should be a criminal offence for powerful people like the Sports Direct founder, Mike Ashley, to refuse to give evidence when called by MPs. Chris Bryant, the shadow leader of the House of Commons, said the system was not working properly when some of those called could refuse to take part in inquiries by taking advantage of unclear rules governing the select committees. He cited the cases of businessman Robert Maxwell, media executive Rebekah Brooks, Rupert and James Murdoch, former BHS owner Sir Philip Green, and Vote Leave chief executive Matthew Elliott, who all initially refused to attend and had to be formally summonsed or persuaded to do so.  Speaking in the House of Commons, Bryant said: \u201cIrene Rosenfeld, chief executive of Kraft Foods, point-blank refused to appear to discuss the takeover of Cadbury and got away with it ... Some people think our powers are unclear and witnesses are beginning to call our bluff, so we have to do something.    Related: Select committee chief lashes out at Sir Philip Green over BHS sale    \u201cIn 2013, the joint committee on parliamentary privilege recommended changes to standing orders to make it absolutely clear that parliament can arrest, punish and fine offenders and said that \u2018if the problems we have identified ... are not resolved ... today\u2019s parliament should stand ready to legislate\u2019.  \u201cThe committee said doing nothing was not an option but that is exactly what the government has done, absolutely nothing.  \u201cSo surely it is time for us to make it a criminal offence to fail to appear or refuse to appear, without reasonable excuse, before a committee of this house.\u201d  Chris Grayling, the leader of the Commons, said he was open to discussing the issue, as it was essential to parliament for witnesses like Ashley to appear before select committees when they are summonsed.  \u201cOn this point you and I do agree,\u201d he said. \u201cIt is essential for the workings of this house that if people are summoned to appear before a select committee, that they do so.  \u201cAnd I am very happy that in the new session we have cross-party discussions on how we ensure that that happens.\u201d  It comes after a battle between MPs on the Commons business committee and Ashley, who has refused to appear before their inquiry investigating pay and working conditions at Sports Direct. The billionaire called the parliamentarians \u201ca joke\u201d after the Commons\u2019 business, innovation and skills (BIS) committee took the unusual step of issuing a summons to the Newcastle United owner. The inquiry by the committee, which has threatened Ashley with being in contempt of parliament if he fails to attend a hearing on 7 June, follows a Guardian investigation last year that found workers at the sportswear group\u2019s Shirebrook warehouse were receiving, in effect, rates of pay below the minimum wage.",
+  "webTitle": "MPs to consider making refusal to attend select committees a crime",
+  "webPublicationDate": "2016-05-05T12:16:44Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/05/mps-consider-making-refusal-attend-select-committees-crime",
+  "keyword": [
+    {
+      "webTitle": "House of Commons",
+      "id": "politics/houseofcommons",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Chris Bryant",
+      "id": "politics/chris-bryant",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Chris Grayling",
+      "id": "politics/chrisgrayling",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Mike Ashley",
+      "id": "football/mike-ashley",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sports Direct International",
+      "id": "business/sports-direct-international",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Rowena Mason",
+      "id": "profile/rowena-mason"
+    }
+  ],
+  "guardianId": "politics/2016/may/05/mps-consider-making-refusal-attend-select-committees-crime"
+}

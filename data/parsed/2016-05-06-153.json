@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/06/for-rent-1-bedroom-london-garage-flat-850-per-month-london-property",
+  "id": "2016-05-06-153",
+  "sectionId": "business",
+  "body": "A landlord is asking tenants for \u00a3850 a month \u2013 to live in a converted garage on a council estate on the edge of London.  In yet more evidence of the city\u2019s inflated property market, the garage, described as a \u201clovely compact one-bedroom flat\u201d will cost the tenant about half the monthly take-home pay of someone earning an average salary.  Our Move, the agents for the flat on Lensbury Way in Abbey Wood, say it has a \u201cgood-sized double bedroom\u201d and is \u201cideally located for all local amenities\u201d, such as a nearby Lidl supermarket. Abbey Wood is on the furthest reaches of south-east London, half an hour by train to London Bridge station.     A second garage flat in Abbey Wood, south-east London, advertised for \u00a3750 per month. Photograph: Hunters    When the Guardian asked for a viewing, the agent declined, saying the property was in \u201ca mess\u201d at the moment.  Further down the same road is another converted garage, recently withdrawn by the landlord. It was advertised this week by Hunters for \u00a3700 a month, However, following media interest, it has been withdrawn from the market. Hunters did not confirm if it had been let, saying only that it was no longer available.  The interior shots of the converted garage show a narrow living room, 4.42m by 2.26m (14ft 5in x 7ft 4in) but with a relatively new kitchen and some outside space.      A converted one-bedroom garage available on the same road for \u00a3700 a month. Photograph: Hunters    Rents rose in all but one region of the UK over the three months to April, despite concerns about the impact of higher stamp duty charges, according to HomeLet, which handles references for landlords. It says the average rent in the UK (excluding Greater London) is \u00a3764 a month \u2013 5.1% higher than a year ago. The average rent in London is \u00a31,543, up 7.7% on the year.  More than 1,000 students across London are taking part in a rent strike, withholding in excess of \u00a31m from their universities.",
+  "webTitle": "For rent: a one-bedroom London garage flat for \u00a3850pm",
+  "webPublicationDate": "2016-05-06T13:45:29Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/06/for-rent-1-bedroom-london-garage-flat-850-per-month-london-property",
+  "keyword": [
+    {
+      "webTitle": "Housing market",
+      "id": "business/housingmarket",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "House prices",
+      "id": "money/houseprices",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Renting property",
+      "id": "money/renting",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Property",
+      "id": "money/property",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Real estate",
+      "id": "business/realestate",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "London",
+      "id": "uk/london",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Patrick Collinson",
+      "id": "profile/patrickcollinson"
+    }
+  ],
+  "guardianId": "business/2016/may/06/for-rent-1-bedroom-london-garage-flat-850-per-month-london-property"
+}

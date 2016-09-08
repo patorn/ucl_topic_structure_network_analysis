@@ -1,0 +1,61 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/25/angelina-jolie-is-a-worthy-professor",
+  "id": "2016-05-25-56",
+  "sectionId": "film",
+  "body": "I was horrified by Mark Boyle\u2019s ignorant, misogynistic letter about Angelina Jolie Pitt\u2019s appointment as visiting professor (Letters, 25 May). If he had bothered to look beyond his own prejudices he\u2019d have realised that she is an extremely articulate and experienced diplomat \u2013 albeit \u201cunofficial\u201d. She has done and is doing a great deal of good in the world. If her success as an actress is helping the causes she supports, so much the better.Sara NeillTunbridge Wells, Kent  \u2022 Join the debate \u2013 email guardian.letters@theguardian.com",
+  "webTitle": "Angelina Jolie is a worthy professor | Letters",
+  "webPublicationDate": "2016-05-25T18:03:52Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/25/angelina-jolie-is-a-worthy-professor",
+  "keyword": [
+    {
+      "webTitle": "Angelina Jolie",
+      "id": "film/angelinajolie",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "United Nations",
+      "id": "world/unitednations",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Feminism",
+      "id": "world/feminism",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Women",
+      "id": "lifeandstyle/women",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Education",
+      "id": "education/education",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "London School of Economics and Political Science",
+      "id": "education/londonschoolofeconomics",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Higher education",
+      "id": "education/higher-education",
+      "sectionId": "education",
+      "sectionName": "Education"
+    }
+  ],
+  "authors": [],
+  "guardianId": "film/2016/may/25/angelina-jolie-is-a-worthy-professor"
+}

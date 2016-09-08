@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/09/war-veterans-brexit-risk-stability",
+  "id": "2016-05-08-5",
+  "sectionId": "politics",
+  "body": "Second world war veterans have warned that Britain should stay in the EU or otherwise risk the stability in Europe that they fought to ensure.  In a video released by Britain Stronger in Europe on Monday, Harry Leslie Smith, David Meylan, Patrick Churchill and Field Marshall Lord Bramall insist the UK\u2019s future prosperity was best served by remaining in the EU. \u201cWe sacrificed many, many men in both world wars and this was to establish a peaceful and prosperous union. We can\u2019t sacrifice that now,\u201d one veteran says in the 60-second video. \u201cFor me, Britain is stronger in Europe because it reflects the values my generation fought for in Europe during the second world war.\u201d  \u201cIf it breaks, or if we are not in that union, countries will fall apart. The only solution is to bind together, hold together \u2013 there we find the strength,\u201d says another. \u201cWe would be going backwards and not forwards in what we set out to cure after the terrible tragedies of the second world war,\u201d is the verdict of another. The video will be shown during a speech to be given on Monday by David Cameron. The prime minister will use the address to stress the importance of maintaining ties with Brussels to protect the UK\u2019s national security.  His speech comes two weeks after home secretary Theresa May argued that the UK will be better protected from crime and terrorism if it remains a member of the European Union. Lynne Owens, the head of the National Crime Agency, suggested efforts to fight serious crime could be at risk if Britain leaves, while Europol director Rob Wainwright said that 2,500 new cases of cross-border crime and terrorism were initiated through his agency last year by British authorities. However, former MI6 chief Sir Richard Dearlove has said that few would notice the loss of the European arrest warrant because other EU nations would still want to maintain their relationships with the UK.",
+  "webTitle": "Second world war veterans say Brexit risks stability they fought for",
+  "webPublicationDate": "2016-05-08T23:01:20Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/09/war-veterans-brexit-risk-stability",
+  "keyword": [
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "David Cameron",
+      "id": "politics/davidcameron",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Military",
+      "id": "uk/military",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Chris Johnston",
+      "id": "profile/chris-johnston"
+    }
+  ],
+  "guardianId": "politics/2016/may/09/war-veterans-brexit-risk-stability"
+}

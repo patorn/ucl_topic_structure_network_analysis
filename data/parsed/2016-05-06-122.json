@@ -1,0 +1,43 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/06/west-ham-united-swansea-city-match-preview",
+  "id": "2016-05-06-122",
+  "sectionId": "football",
+  "body": "Swansea banished any lingering relegation fears with Sunday\u2019s win over Liverpool, and their thoughts are now surely turning to finding a manager for next season. West Ham still have European places to play for, however, and while this penultimate game at Upton Park will be upstaged by Manchester United\u2019s visit on Tuesday, Slaven Bilic has not given up on scraping into the top four. Paul\u00a0Chronnell Kick-off Saturday 3pm  Venue Upton Park Last season West Ham United 3 Swansea City 1 Referee Michael Oliver This season G23, Y82, R5, 4.00 cards per game Odds H 4-9 A 7-1 D 7-2 West Ham United Subs from Spiegel, Howes, Oxford, Collins, Tomkins, Hendrie, Byram, O\u2019Brien, Obiang, Moses, Emenike, Valencia, Samuelsen Doubtful None Injured Adri\u00e1n (calf, 15 May) Suspended None Form DDDDWW Discipline Y52 R5 Leading scorers Carroll, Payet 9 Swansea City Subs from Nordfeldt, Kingsley, Emnes, Britton, Ki, Fulton, Bartley, Williams, Sheehan, Lucas, Hedges, King, Bray Doubtful Fer (hamstring), Williams (rested) Injured Montero (hamstring, 15 May), Sigurdsson (shoulder, Jun), Taylor (groin, Jun), Paloschi (hamstring, Aug) Suspended None Form WDWLLW Discipline Y59 R1 Leading scorer Sigurdsson 11",
+  "webTitle": "West Ham United v Swansea City: match preview",
+  "webPublicationDate": "2016-05-06T14:50:17Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/06/west-ham-united-swansea-city-match-preview",
+  "keyword": [
+    {
+      "webTitle": "West Ham United",
+      "id": "football/westhamunited",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Swansea City",
+      "id": "football/swansea",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Premier League",
+      "id": "football/premierleague",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [],
+  "guardianId": "football/2016/may/06/west-ham-united-swansea-city-match-preview"
+}

@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/money/2016/may/17/smile-bank-deposit-problem-overdraft",
+  "id": "2016-05-17-311",
+  "sectionId": "money",
+  "body": "I am having a terrifying problem with NS&I and Smile.co.uk. Last week, the proceeds from the sale of my flat were paid into my Smile current account. Not wishing to leave all the money in a bank, I made two deposits of \u00a399,000 (the maximum amount) by debit card into my NS&I direct saver account, leaving my current account some \u00a340,000 in credit. But I am now unable to make any withdrawals or payments from my current account. Smile says that NS&I requested four, not two, payments of \u00a399,000, leaving me about \u00a3150,000 in the red. NS&I insists it did not do this. Smile refuses to speak to NS&I on data protection grounds and insists that NS&I should get in contact to withdraw its request for the extra \u00a3198,000. NS&I can\u2019t or won\u2019t do this because it says it never made these requests.  I don\u2019t care who made the error, but neither side is taking responsibility and I have no access to any money. JH, London This disgraceful situation is made worse by the false information you have been given. It turns out that NS&I never made four requests, as Smile \u2013 part of Cooperative Bank \u2013 claims. What happened is that when you applied for the transfer, Smile\u2019s system ringfenced the \u00a3198,000 pending authorisation in the same way that a hotel or car hire company reserves funds on your credit card when you check in. Only when the Observer gets in touch does Smile discover that it forgot to remove the ringfence when the funds were transferred. \u201cWhile the correct amount was transferred to NS&I, the pre-authorisation of the same amount remained on our system,\u201d a spokesperson says. \u201cThis meant the customer was unable to withdraw additional funds from their account until the pre-authorisation request was removed.\u201d So the second \u00a3198,000 never actually left your account, nor were you ever overdrawn \u2013 and customer services had no business fobbing you off to NS&I. Smile is now offering you \u00a3100 in compensation plus \u00a368.55, which is the value of a payment that was declined while you were unable to access your account. Stingy sums considering you\u2019ve endured four days without access to your current account. Unsurprisingly, you have decided to close your Smile account and donate their \u201cgoodwill\u201d to charity. If you need help email Anna Tims at your.problems@observer.co.uk or write to Your Problems, The Observer, Kings Place, 90 York Way, London N1 9GU. Include an address and phone number.",
+  "webTitle": "No Smiling here as bank turns a deposit into a nightmare",
+  "webPublicationDate": "2016-05-17T06:00:35Z",
+  "webUrl": "https://www.theguardian.com/money/2016/may/17/smile-bank-deposit-problem-overdraft",
+  "keyword": [
+    {
+      "webTitle": "Banks and building societies",
+      "id": "money/banks",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Consumer rights",
+      "id": "money/consumer-rights-money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Consumer affairs",
+      "id": "money/consumer-affairs",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Current accounts",
+      "id": "money/currentaccounts",
+      "sectionId": "money",
+      "sectionName": "Money"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Anna Tims",
+      "id": "profile/annatims"
+    }
+  ],
+  "guardianId": "money/2016/may/17/smile-bank-deposit-problem-overdraft"
+}

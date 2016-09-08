@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/01/f1-bernie-ecclestone-2017-engine-related-rules-torn-up-start-again",
+  "id": "2016-05-01-134",
+  "sectionId": "sport",
+  "body": "The Formula One chief executive, Bernie Ecclestone, has warned that the new regulations set to be implemented in 2017, with the engine-related rules ratified only on Friday, may be \u201ctorn up\u201d should they not work as hoped in producing better racing.   Related: F1 aims to introduce cockpit protection for 2017 despite Ecclestone objections    The FIA announced on Friday that the new rules had been ratified by the World Motor Sport Council and would cover the 2017-2020 period. \u201cThe global agreement on power units covers four key areas relating to the cost and supply price, obligation to supply, performance convergence and the sound of the power units,\u201d the statement read. The implementation of the new regulations has been a long and torturous process, with the aero rules agreed earlier in the year, still provoking controversy. The latter looking to make cars faster and more aggressive-looking have been criticised by drivers and teams for their potential to inhibit overtaking. Yet Ecclestone, speaking in the paddock, has suggested that they may yet be changed again. Ecclestone stressed the key part of the new rules was ensuring a convergence in engine power and that the customer engines matched those of the manufacturers. Should that not be the case, he warned: \u201cThat will all be torn up and we will start again with a new set of regulations, where the engines might be easier. The normally aspirated engines that we had were more or less equal, there were little differences, they had reached the maximum. It is just a case of bolting the hybrid stuff on and that\u2019s where the problems would start.\u201d Ecclestone, in fact, has no power to independently rewrite the regulations, with any changes required to be agreed by the FIA, Formula One Management, the F1 strategy group, the F1 commission and the WMSC.",
+  "webTitle": "F1\u2019s Bernie Ecclestone claims 2017 engine-related rules could be \u2018torn up\u2019",
+  "webPublicationDate": "2016-05-01T09:52:05Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/01/f1-bernie-ecclestone-2017-engine-related-rules-torn-up-start-again",
+  "keyword": [
+    {
+      "webTitle": "Formula One",
+      "id": "sport/formulaone",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Formula One 2016",
+      "id": "sport/formula-one-2016",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Bernie Ecclestone",
+      "id": "sport/bernie-ecclestone",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Motor sport",
+      "id": "sport/motorsports",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Giles Richards",
+      "id": "profile/gilesrichards"
+    }
+  ],
+  "guardianId": "sport/2016/may/01/f1-bernie-ecclestone-2017-engine-related-rules-torn-up-start-again"
+}

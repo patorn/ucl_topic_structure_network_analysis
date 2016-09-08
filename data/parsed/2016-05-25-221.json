@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/25/95-of-british-beaches-clean-enough-to-swim-eu-tests-show",
+  "id": "2016-05-25-221",
+  "sectionId": "environment",
+  "body": "Almost 95% of British beaches have been given a clean bill of health in the latest EU survey of coastal water quality, down slightly on two years ago. As recently as 1991, around a quarter of British bathing waters were too dirty to swim in but the threat of EU infringement cases and beach closures, has spurred a dramatic change since then.   Brexit explained: Cost to UK businesses of EU regulations    Just six of 29 waters surveyed around the Blackpool region in 1988 met the EU\u2019s bathing water guidelines. By 2014, all of the northern seaside resort\u2019s beaches passed the EU test, after some \u00a31bn was spent on clean water improvements.  With the Brexit referendum fast approaching, the latest EU water check on more than 21,000 beaches around Europe\u2019s coastline was seized on by Remain supporters as an example of what the UK stands to lose by leaving the bloc.   Stanley Johnson, the co-chair of Environmentalists for Europe, and father of high-profile Brexiteer Boris Johnson said: \u201cIn the days of the blue flag beaches in the 1960s and 70s, the old joke used to be \u2018if you go to Brighton to swim, you will just be going through the motions\u2019. It was true. You thought twice before swimming off a British beach. Today, the EU\u2019s legislation on bathing water has led to the cleaning up of UK beaches in a big way.\u201d  The 94.6% grade for British beaches was slightly down on the 2014 figure, when a record 99% of the UK\u2019s coastal and inland bathing sites were found to be of excellent, good or fair swimming quality. The European Environment Agency (EEA), which conducted the assessments, blamed the slight drop on the UK\u2019s late implementation of a revised bathing water directive, and the counting of the last three years\u2019 figures in the 2016 report. A spokesman for the Department for Environment, Food and Rural Affairs (Defra) said: \u201cOur bathing waters are cleaner than ever, with 97% [of English beaches] meeting new, tougher standards. But we\u2019re not complacent and we\u2019re continuing to work with water companies, local authorities and communities to drive up standards on beaches and lakes across England.\u201d  Since 2010, roughly \u00a3220m has been spent on improving British water quality, with more investments planned in the years to 2020.  In all, 633 British bathing waters were monitored this year, of which 377 \u2013 or 60% - were judged excellent, and 599 sites were sufficient for bathing. The water quality in 31 sites, many of them in Scotland, was too poor to swim in. Three sites were closed for testing. But the new numbers are still broadly in line with the upwards trend recorded since the first EU bathing water directive was introduced in 1976, over the head of British objections.  Across the EU, 96% of coastal and inland bathing sites met the EU\u2019s minimum requirements this year, with more more than 84% attaining the \u201cexcellent\u201d classification. Only 2% of locations surveyed were found to be of poor quality.  \u201cThat is the result of 40 years investing in water and waste water infrastructure,\u201d said Karmenu Vella, the EU\u2019s environment commissioner. \u201cIt is a sign of EU legislation working well. And it is a perfect testimony to the fact that a highly evolved economic area such as ours can produce equally high environmental standards.\u201d The EEA noted a \u201cmarked improvement\u201d over recent decades in measurements of two bacteria, E coli and intestinal enterococci, which indicate faecal contamination of swimming waters by sewage and animals.  Hans Bruyninckx, the EEA\u2019s director said: \u201cOur assessment shows that bathing water quality has improved remarkably over the years. More and more bathing waters have not only reached the minimum requirements, but have improved to excellent standards. In some cities, people can even enjoy swimming in public harbour baths.\u201d",
+  "webTitle": "95% of British beaches clean enough to swim, EU tests show",
+  "webPublicationDate": "2016-05-25T10:00:37Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/25/95-of-british-beaches-clean-enough-to-swim-eu-tests-show",
+  "keyword": [
+    {
+      "webTitle": "Water",
+      "id": "environment/water",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Pollution",
+      "id": "environment/pollution",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Arthur Neslen",
+      "id": "profile/arthurneslen"
+    }
+  ],
+  "guardianId": "environment/2016/may/25/95-of-british-beaches-clean-enough-to-swim-eu-tests-show"
+}

@@ -1,0 +1,90 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/09/brexit-irish-border-new-calais-eu-commissioner-phil-hogan",
+  "id": "2016-05-09-107",
+  "sectionId": "politics",
+  "body": "Politicians in the Irish Republic fear their border towns could become the \u201cnew Calais\u201d if Britain votes to leave the EU, as irregular migrants use Ireland as a back door into the UK, according to an EU commissioner. The commissioner for agriculture, Phil Hogan, said on Monday that there were growing fears in the republic that immigrants could use the border with Northern Ireland as a way into the UK if there was a Brexit result next month. Hogan, a former Irish cabinet minister said Ireland would suffer if there were a vote to leave the EU leading to the creation of a \u201cfortress Northern Ireland and a fortress Britain\u201d. He said there were fears among the Irish political classes in Dublin about \u201cDundalk becoming the new Calais\u201d.  He said that many migrants would use freedom of movement within the EU to travel to Ireland with the ultimate aim of getting smuggled into the UK. Regarding the virtually invisible border now between the two states on the island of Ireland, Hogan said that if the UK left the EU \u201cthis would not be business as usual\u201d on the frontier.  \u201cThe fear in Dublin is that our border towns would become a backdoor into the UK. In that instance what sort of fortress would the Northern Ireland border have to become to close that backdoor?\u201d  Speaking in the Titanic Museum in Belfast\u2019s docklands area on Monday to mark Europe Day, Hogan pointed out that for every \u00a310 of income from farming in Northern Ireland, \u00a38.70 of it flowed from EU subsidies. The republic\u2019s former environment minister appealed to Northern Irish voters and farmers in particular \u201cto think long and hard about removing that safety net\u201d. Hogan continued: \u201cEighty-seven percent of farm incomes here in Northern Ireland come from the European Union. There is guaranteed farm incomes from the EU to 2020. No such certainty exists about farm support from the UK Treasury.\u201d The commissioner said farmers should ask themselves if they wanted \u201cto cut themselves off from a market of 500 million-plus people\u201d. Northern Ireland could not, Hogan argued, \u201csustain that degree of isolation\u201d. He added: \u201cWere it not for European assistance, many farms would not alone generate significant losses, but would struggle, and in many cases fail, to survive. \u201cWhether they are dairy farms in Fermanagh or orchards in Armagh \u2013 the European Union has supported Northern Ireland\u2019s family farming tradition and provided it with strong prospects for the future.\u201d  The commissioner said almost 200,000 people in the republic now worked in sectors that benefited from this export relationship with the UK. More than 600,000 Irish citizens also travel back and forth on a regular basis to work in the UK. All these relationships and trade would be put at risk if the UK left the EU, he said.",
+  "webTitle": "Brexit could turn Irish border into new Calais, says EU commissioner",
+  "webPublicationDate": "2016-05-09T16:19:10Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/09/brexit-irish-border-new-calais-eu-commissioner-phil-hogan",
+  "keyword": [
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Economic policy",
+      "id": "politics/economy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Farming",
+      "id": "environment/farming",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Northern Ireland",
+      "id": "uk/northernireland",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Ireland",
+      "id": "world/ireland",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "European commission",
+      "id": "world/european-commission",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Henry McDonald",
+      "id": "profile/henrymcdonald"
+    }
+  ],
+  "guardianId": "politics/2016/may/09/brexit-irish-border-new-calais-eu-commissioner-phil-hogan"
+}

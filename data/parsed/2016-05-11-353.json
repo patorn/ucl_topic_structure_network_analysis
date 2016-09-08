@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/11/dysons-electric-car-development-could-become-the-next-tesla",
+  "id": "2016-05-11-353",
+  "sectionId": "environment",
+  "body": "Dyson could become the next Tesla motors as it develops a new electric car, according to a leading industry expert. Filed patents show the Dyson vehicle may use solid-state batteries, which would see the car\u2019s range stretch to hundreds of miles and also be safer than current batteries. In March, a government document revealed funding to help Dyson develop \u201ca new battery electric vehicle\u201d. The company declined to comment but in 2015 it said it planned to invest \u00a31bn in battery technology and in October it bought solid-state battery company, Sakti3, for $90m, which founder Sir James Dyson said had \u201cdeveloped a breakthrough in battery technology\u201d. One of Sakti3\u2019s patents states: \u201cThe present invention provides a method and system for an all solid-state rechargeable battery and a vehicle propulsion system powered by the battery.\u201d     Sir James Dyson opens the James Dyson building, part of the department of engineering at the University of Cambridge on 9 May 2016. Photograph: Philip Mynott/University of Cambridge/James Dyson Foundation    \u201cDyson have some excellent product engineering and some excellent marketing skills, so could they follow the same path as Tesla? Well, yes, probably they could,\u201d said Prof David Greenwood, who leads the energy storage work at Warwick University\u2019s manufacturing group, which the UK\u2019s \u00a31bn Advanced Propulsion Centre chose to lead its battery programme.  US-based Tesla\u2019s expensive, long-range electric cars have achieved cult status among enthusiasts and its new, cheaper Model 3 has attracted more than 325,000 pre-orders, worth $14bn if delivered. Greenwood said the three key factors for electric car batteries are low cost, safety and a high \u201cenergy density\u201d which gives a long range. But currently they are expensive, he said, and cannot drive as far as petrol or diesel vehicles on a single charge. Solid-state batteries could provide a tenfold increase in energy density - how much power they pack in - and are also safer. This is because existing batteries use flammable organic solvents as an electrolyte (through which the current flows), whereas a solid electrolyte does not pose a fire risk and does not need expensive safety features. The solid electrolyte also means the battery electrodes can be made of a much more energy dense material, such as metallic lithium. Solid-state batteries for vehicles are being developed by many companies, including Toyota, Volkswagen and Bosch, a major supplier to the automotive industry. Autolib, a car-sharing service in Paris, uses solid-state batteries in its 3,000 small vehicles, while electronics giant Samsung and other companies, like SolidEnergy Systems, are also working on the technology. However, a recent article in the journal Nature suggested that while solid-state batteries for a mass-market electric vehicles are coming, they are at least a decade away. But when such power-packed batteries arrive, Prof Donald Sadoway at the Massachusetts Institute of Technology told Nature, they could prove decisive in the widespread adoption of electric vehicles: \u201cIf we had batteries with [energy densities of] 350 watt-hours per kilogram (Wh/kg) we\u2019d have electric vehicles with 350 miles of range, and that\u2019s the end of petroleum.\u201d Dyson\u2019s battery company, Sakti3, has not disclosed the energy density it has achieved but industry experts estimate it has already passed 300Wh/kg. Sakti3\u2019s patent states: \u201cNo solid state batteries with ceramic electrolytes have come close to achieving [our] level of energy density.\u201d Greenwood said it usually takes a new battery chemistry that has been proven in the laboratory another five years to scale up to cost-effective, high-volume production, while developing a new electric vehicle could also take five years. Electronic devices like smartphones are replaced frequently, but cars are not and he said: \u201cYou need very high reliability and durability before you would put it into a car.\u201d Tesla\u2019s success to date, said Greenwood, has come from creating a car that overcame people\u2019s worries over range and performance, even if that meant a high price: \u201cTesla\u2019s genius was very carefully identifying a market segment that would be prepared to pay for it.\u201d Dyson also targets the expensive end of the market with its innovative vacuum cleaners, washing machines and hand dryers.  But could Dyson move successfully into car manufacturing? \u201cIt worked for Tesla,\u201d said Greenwood. \u201cCould they then scale it to be in the mass market? Who knows. Tesla have yet to prove they can do that.\u201d \u201cThe challenges of entering the automotive industry are absolutely not to be underestimated,\u201d he said. \u201cBut at least with an electric vehicle the barriers to entry are a bit lower than for an internal combustion engine vehicle [because] the latter have some horrendously complex legislation to meet around emissions, for instance, which are simply not a problem for an electric vehicle as they do not have noxious emissions.\u201d  Note: The original article named the Paris car-sharing service Autolib as Blueindy, which is the company\u2019s operation in Indianapolis.",
+  "webTitle": "Dyson could become next Tesla with its electric car, says expert",
+  "webPublicationDate": "2016-05-11T06:00:05Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/11/dysons-electric-car-development-could-become-the-next-tesla",
+  "keyword": [
+    {
+      "webTitle": "Electric, hybrid and low-emission cars",
+      "id": "environment/electric-cars",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Tesla",
+      "id": "technology/tesla",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Dyson Ltd",
+      "id": "technology/dyson-ltd",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Automotive industry",
+      "id": "business/automotive-industry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Motoring",
+      "id": "technology/motoring",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Travel and transport",
+      "id": "environment/travel-and-transport",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Damian Carrington",
+      "id": "profile/damiancarrington"
+    }
+  ],
+  "guardianId": "environment/2016/may/11/dysons-electric-car-development-could-become-the-next-tesla"
+}

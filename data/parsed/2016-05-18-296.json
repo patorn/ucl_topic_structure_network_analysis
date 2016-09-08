@@ -1,0 +1,40 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/datablog/2016/may/18/revealed-the-biggest-money-makers-on-kickstarter-uk",
+  "id": "2016-05-18-296",
+  "sectionId": "technology",
+  "body": "More than three years after launching in the UK, Kickstarter has taken its hundred-millionth crowdfunding pound in Britain. The money has come from more than 1.2 million individual backers, spending an average of \u00a353.80 per pledge across 20,651 individual projects, according to data provided exclusively to the Guardian by the crowdsourcing company. While more than 20,000 projects have been launched from Britain since the site officially opened up to the UK, only 8,181 of those projects raised enough money to pay out. Kickstarter\u2019s model means that the 12,000 unsuccessful projects never received any money, nor were their backers charged.   Amount Pledged.   The money spent in Britain\u2019s projects was spread among all 15 of Kickstarter\u2019s categories, but some were more successful than others. Games led the way, with more than a quarter of the total amount pledged to the category. Taking a significant chunk of the \u00a326m pledged to games in Kickstarter\u2019s British projects is one single project: the Dark Souls board game, which is the most backed project in Kickstarter\u2019s British history. Almost \u00a34m was pledged to the game, which is a physical adaptation of the hugely popular Dark Souls video game series, with an average pledge of more than \u00a3120 (the base game cost \u00a380, but almost 800 backers went for the \u00a3200 retailer package, which offered six games to shops that wanted to resell). Three other categories raised over \u00a310m a piece: technology, design and film and video. Of those, technology also managed to secure the highest average pledge, at over \u00a380.   pledges per category   At the other end of the scale, journalism, crafts, and dance projects still aren\u2019t your ticket to the big bucks, even through crowdfunding. Barely \u00a3500,000 have been pledged to journalism projects, and crafts and dance projects have raised less still. The average pledge for those three categories, though, is still around the norm for kickstarter, between \u00a340 and \u00a350. Kickstarter\u2019s British launch in 2012 followed years of the site being loosely available to Brits: British creators and customers could still use the site, but had to be able to spend or receive US dollars.   Top five countries   The launch of the British site successfully brought Kickstarter a newly international audience: about half the pledges made to British projects are from British backers. But British projects get backers from all over the world, including half a million Americans, and tens of thousands of Germans, Australians and Canadians. But the site has some way to go before it catches up with its American older sibling: In November, Kickstarter announced it had raised a total of $2bn, raising the second billion in less than two years after the first.",
+  "webTitle": "Revealed: the biggest money makers on Kickstarter UK",
+  "webPublicationDate": "2016-05-18T08:01:23Z",
+  "webUrl": "https://www.theguardian.com/technology/datablog/2016/may/18/revealed-the-biggest-money-makers-on-kickstarter-uk",
+  "keyword": [
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Kickstarter",
+      "id": "technology/kickstarter",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Internet",
+      "id": "technology/internet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "George Arnett",
+      "id": "profile/george-arnett"
+    },
+    {
+      "webTitle": "Alex Hern",
+      "id": "profile/alex-hern"
+    }
+  ],
+  "guardianId": "technology/datablog/2016/may/18/revealed-the-biggest-money-makers-on-kickstarter-uk"
+}

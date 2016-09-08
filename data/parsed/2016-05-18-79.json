@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/education/2016/may/18/jeremy-corbyn-launches-battle-to-stop-tuition-fee-cap-being-lifted",
+  "id": "2016-05-18-79",
+  "sectionId": "education",
+  "body": "Jeremy Corbyn has launched a campaign to stop David Cameron lifting the cap on university fees, starting with a petition and the hashtag #ToryPriceTag. The Labour leader said his party would offer no support for the proposals published this week, which could involve linking what institutions can charge to the quality of their teaching.  Corbyn would like to abolish tuition fees by raising \u00a310bn of taxes on high-earners or businesses and promised to work to stop the limit of \u00a39,000 being scrapped. Speaking in the Commons, he said: \u201cStudents today are more in debt than ever. I want to make it clear to the prime minister that he will not get any support from these benches on raising tuition fees.  \u201cThis government is penalising students, announcing the abolition of maintenance grants last year and now announcing that fees will be raised even further. This is a tax on learning, as [George Osborne] the chancellor of the exchequer called it in 2003, from a government that cut taxes on capital gains.  \u201cWhat message does that send about the economy they want to create? That wealth generates more wealth with minimal tax. That effort and hard work lands you in a lifetime of debt, with no support. What an insult to the aspirations of young people wanting an education.\u201d Labour launched its petition shortly after the Queen\u2019s speech, with more than 2,000 people signing already. Corbyn also tweeted with the hashtag #ToryPriceTag and website www.thetorypricetag.com. \u201cI oppose the Tories\u2019 plan to increase tuition fees, saddling young people with a lifetime of debt,\u201d the petition says. A senior Labour source said: \u201cLabour will strongly campaign against any increase in tuition fees and we will work with students to do that.\u201d In his response to the Queen\u2019s speech, Corbyn said the government was a \u201cdriverless car\u201d with ministers asleep at the wheel. He said the aims of Cameron\u2019s prison reform agenda were welcome but did not go far enough, highlighting the violence and suicide rates in jails. While Conservative MPs heckled him and made jokes, he refused to give way during a 40-minute speech, saying the crisis \u201ccould not be solved by laughing\u201d. The Labour leader highlighted massive cuts to adult social care and other public services that were not addressed by the Queen\u2019s speech. However, he supported the measures on adoption, the sugar tax and re-regulating bus services to expand access to public transport. Angus Robertson, the SNP\u2019s Westminster leader, said the Queen\u2019s speech was a \u201cwasted opportunity for progressive action on pensions, social security and the economy\u201d.",
+  "webTitle": "Jeremy Corbyn launches battle to stop tuition fee cap being lifted",
+  "webPublicationDate": "2016-05-18T17:25:29Z",
+  "webUrl": "https://www.theguardian.com/education/2016/may/18/jeremy-corbyn-launches-battle-to-stop-tuition-fee-cap-being-lifted",
+  "keyword": [
+    {
+      "webTitle": "Tuition fees",
+      "id": "education/tuition-fees",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Jeremy Corbyn",
+      "id": "politics/jeremy-corbyn",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Education",
+      "id": "education/education",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Higher education",
+      "id": "education/higher-education",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Students",
+      "id": "education/students",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Labour",
+      "id": "politics/labour",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Queen's speech",
+      "id": "politics/queens-speech",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Rowena Mason",
+      "id": "profile/rowena-mason"
+    }
+  ],
+  "guardianId": "education/2016/may/18/jeremy-corbyn-launches-battle-to-stop-tuition-fee-cap-being-lifted"
+}

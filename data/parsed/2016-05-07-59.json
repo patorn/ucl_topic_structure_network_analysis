@@ -1,0 +1,90 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/07/brexit-uk-medicines-cameron-eu-referendum",
+  "id": "2016-05-07-59",
+  "sectionId": "politics",
+  "body": "British people benefit at the earliest opportunity from the best medicines produced by \u201ccutting-edge\u201d research because the UK is part of the EU, 93 business leaders and organisations from the life-sciences industry say. The group, which includes executives from the top trio of companies \u2013 GlaxoSmithKline, AstraZeneca and Pfizer \u2013 says EU funding for research and Europe-wide regulations help produce new, more effective drugs more quickly. In a letter to the Observer, the group warns that Brexit would create uncertainty, added complexity and potential loss of funding for a British industry \u201csecond to none\u201d in the world. The intervention is a boost to the Remain campaign as it battles to convince voters that leaving the EU would have negative effects on their everyday lives and the UK economy.   Related: Britain\u2019s life sciences sector is crucial and would be damaged by Brexit | letters    It comes as the prime minister, David Cameron, is expected to make the \u201cpatriotic case\u201d for Britain staying in the EU, claiming that the country is safer for being a member. The PM will also say that it is thanks to the EU that formerly communist states in the east of Europe have accepted the norms and values of the democratic west. In a major speech on Monday, he is due to implore those who love Britain to vote to remain. In their letter, the industry leaders say: \u201cThe life-science sector makes an important contribution to the health and wealth of the UK. The sector employs over 222,000 people across the UK. It spends \u00a34bn on R&D, and also attracts high levels of inward investment \u2013 government support has led to some \u00a36bn in the last five years alone.\u201d They say the case for continuing in the EU is clear. \u201cContinued UK membership of the EU will also benefit scientific activity and R&D jobs. UK researchers and small businesses will continue to benefit from access to EU funding and from collaborations with cutting-edge science across the continent. \u201cThis will help the UK to continue to attract investment for the R&D activities that will help to discover and develop the next generation of treatments for cancer, respiratory disease and Alzheimer\u2019s, and to continue pioneering work in new vaccines and antibiotics.\u201d Campaigners in favour of Brexit have claimed that the NHS will be under threat if the UK remains inside the EU because a massive EU/US trade deal, the Transatlantic Trade and Investment Partnership, will mean health services have to compete with private health providers from the US and Europe. The latest intervention comes as dire warnings about the consequences of Brexit were issued by Hitachi\u2019s top executives to its many thousands of employees in the UK. The message to employees from chief executives in the company\u2019s different divisions in the UK said: \u201cLike many other international companies, we invested here because of the UK\u2019s strong economic fundamentals and rich access to talent. We are also in the UK in order to have access to the entire EU and European market. In particular, for our manufacturing and supplies we depend on skills and parts which come from within the UK and Europe at large. \u201cWe can understand that the EU is not perfect, but the UK\u2019s departure from the EU would create huge uncertainty for all Hitachi businesses in the UK in terms of economics, trade, skills and talent, and would affect the stability that the company needs for continued investment and long-term growth. \u201cWe also believe that it would have negative impact upon the UK economy and carry significant risks for the remainder of the EU. Therefore we believe that a strong and united Europe with the UK in a single, open market offers the best conditions for Europe\u2019s prosperity, and for Hitachi\u2019s business. While the decision whether or not the UK leaves the EU is a decision for the UK public, Hitachi hopes that the referendum will result in a positive decision to remain in the EU.\u201d",
+  "webTitle": "Brexit \u2018will put UK access to cutting-edge medicines at risk\u2019",
+  "webPublicationDate": "2016-05-07T19:50:14Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/07/brexit-uk-medicines-cameron-eu-referendum",
+  "keyword": [
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Pharmaceuticals industry",
+      "id": "business/pharmaceuticals-industry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Healthcare industry",
+      "id": "business/healthcare",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Hitachi",
+      "id": "business/hitachi",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Technology sector",
+      "id": "business/technology",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Drugs",
+      "id": "science/drugs",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Toby Helm",
+      "id": "profile/tobyhelm"
+    }
+  ],
+  "guardianId": "politics/2016/may/07/brexit-uk-medicines-cameron-eu-referendum"
+}

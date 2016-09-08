@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/13/ronald-koeman-staying-southampton-everton",
+  "id": "2016-05-13-160",
+  "sectionId": "football",
+  "body": "Ronald Koeman is likely to dash Everton\u2019s hopes that he will succeed Roberto Mart\u00ednez after indicating that he wants to stay at Southampton. The Dutchman had been top of the shortlist to succeed Mart\u00ednez at Goodison Park but told a press conference that he will sit down with the Saints board next week with a view to discussing his current deal before he goes on holiday. \u201cI mentioned last week, everybody knows I have one year more contract,\u201d he said. \u201cAnd we will sit together and we will analyse this season and we will talk about the future \u2013 and that\u2019s what the news is.\u201d Asked if that meant he was saying his future was with Saints he said: \u201cYes.\u201d       He added: \u201cIt\u2019s good news that the club likes to continue [with me]. Let\u2019s do our job this weekend and there\u2019s time enough next week to talk about the future of the club.\u201d Southampton, who are seventh in the Premier League and chasing a Europa League place, are at home to Crystal Palace on Sunday. Everton had dangled the promise of the biggest transfer budget in their history after Farhad Moshiri, Everton\u2019s new major shareholder, earmarked Southampton\u2019s manager as his preferred replacement. Should Koeman remain at Saints, Everton may turn their attentions to another Dutchman, Frank de Boer, who shares the same agent as Koeman in Guido Albers. Ajax announced on Thursday that De Boer is to leave in the aftermath of their failure to make it five titles in a row on the final day of the Eredivisie season, losing out to PSV Eindhoven. Albers had said the 45-year-old \u201cwould love to join a club like Everton\u201d but there has been no approach for the former Holland defender so far. De Boer will join Ajax on their end\u2011of\u2011season tour of China on Friday and part company on their return next Thursday. Moshiri brought Mart\u00ednez\u2019s three-year reign to an end following a dire run of form, a second poor Premier League season and clear evidence of support for the manager draining from the fanbase, players and the boardroom, although the chairman, Bill Kenwright, was reluctant to part company with the former Wigan Athletic manager.",
+  "webTitle": "Ronald Koeman likely to dash Everton\u2019s hopes by staying at Southampton",
+  "webPublicationDate": "2016-05-13T13:35:20Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/13/ronald-koeman-staying-southampton-everton",
+  "keyword": [
+    {
+      "webTitle": "Ronald Koeman",
+      "id": "football/ronald-koeman",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Southampton",
+      "id": "football/southampton",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Everton",
+      "id": "football/everton",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Roberto Mart\u00ednez",
+      "id": "football/roberto-martinez",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "football/2016/may/13/ronald-koeman-staying-southampton-everton"
+}

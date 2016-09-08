@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/23/inquest-kingsmill-massacre-northern-ireland-ira",
+  "id": "2016-05-23-189",
+  "sectionId": "uk-news",
+  "body": "The sole survivor of the Kingsmill massacre, when 10 Protestant workmen were killed by the IRA in 1976, has called for the \u201cunvarnished truth\u201d at the opening of an inquest into the atrocity. Alan Black survived despite being shot 18 times when members of the IRA\u2019s south Armagh brigade opened fire on the workers at Kingsmill, in County Armagh, after stopping them on a minibus going to work.  It later emerged at the hearing that two suspects connected to the killings were given \u201cletters of comfort\u201d from Tony Blair\u2019s government as part of a secret deal with Sinn F\u00e9in during the peace process, to allow IRA members on the run, or wanted fugitives, back into Northern Ireland. Speaking outside Laganside courthouse in Belfast on Monday, Black said it was a \u201cred letter day\u201d for him and the families of the murdered men. \u201cWe have fought long and hard for this review.  \u201cObstacles were put in our way. Thanks to these people we have gotten over each one,\u201d he said referring to the families of those who died in the attack. The inquest will hear opening statements from family members of the murdered men. The atrocity was claimed by the South Armagh Republican Action Force in revenge for a loyalist sectarian double murder in the county. However, republican and security sources down through the decades have said the IRA was behind the Kingsmill killings, even though the organisation has never publicly admitted it.  Monday\u2019s inquest also ruled out a conspiracy theory that claimed an SAS captain, Robert Nairac, had a hand in the murders. Nairac went undercover within the IRA and was later killed by republicans after being abducted from a pub. The inquest was told that the soldier was not serving in Northern Ireland at the time of the atrocity. The inquest will also hear from police officers belonging to the historical enquiries team, a policing unit tasked with reopening unsolved cases from the Troubles. In 2011, the HET concluded the IRA was responsible for the Kingsmill massacre.",
+  "webTitle": "Inquest into Kingsmill massacre in Northern Ireland begins",
+  "webPublicationDate": "2016-05-23T11:52:46Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/23/inquest-kingsmill-massacre-northern-ireland-ira",
+  "keyword": [
+    {
+      "webTitle": "Northern Ireland",
+      "id": "uk/northernireland",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "IRA",
+      "id": "uk/ira",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK security and counter-terrorism",
+      "id": "uk/uksecurity",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Henry McDonald",
+      "id": "profile/henrymcdonald"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/23/inquest-kingsmill-massacre-northern-ireland-ira"
+}

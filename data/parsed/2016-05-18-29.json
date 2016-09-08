@@ -1,0 +1,67 @@
+{
+  "apiUrl": "https://content.guardianapis.com/news/2016/may/18/sri-lanka-floods-rain-mudslides-displace-350000-scores-missing-texas-switzerland-israel",
+  "id": "2016-05-18-29",
+  "sectionId": "news",
+  "body": "There was widespread flooding in Sri Lanka at the start of this week following three days of heavy rain. Some areas had about 300mm of rain falling within a 48-hour period and there were reports of nearly 350,000 people being displaced. Huge mudslides triggered by the rain are reported to have buried villages and affected hundreds of residents in the central district of Kegalle, in Sabaragamuwa Province, about 48 miles north of Colombo. More than 200 families were reported missing after the mudslides. Across Sri Lanka\u2019s Western Province more than 135,000 people were driven out of their homes by the floods.     Residents hit by floodwater on 18 May in Western Province, Sri Lanka. Photograph: Ishara S Kodikara/AFP/Getty    Parts of south Texas were also flooded at the start of this week following severe thunderstorms which brought a deluge. The city of Corpus Christi had the heaviest rain during Sunday and into Monday, with nearly 300mm in less than 24 hours. The downpours triggered flash flooding and emergency services rescued residents as cars and houses were flooded in the Ingleside neighbourhood.   Related: Increased flooding in US coastal cities caused by climate change, study says    Meanwhile, some parts of central Europe were also inundated by heavy rain during the latter part of last week. Northern Switzerland had some of the heaviest rain, with Santis recording 165mm on Thursday and a further 100mm over the following two days. There was flooding in Lucerne, where 135mm of rain fell in three days. Mudslides affected some mountain roads, and, reportedly, one construction worker was killed in Linthal.  A heatwave affected many parts of the Levant on Sunday and Monday, with temperatures soaring well above normal for the time of year. Temperatures into the mid-40s (Celsius) were recorded in Israel and Jordan. Several brush fires were triggered in Israel and water shortages affected many thousands of displaced Syrians close to the border with Jordan. Thankfully, the heatwave was short-lived, as temperatures dropped on Tuesday and Wednesday.",
+  "webTitle": "Sri Lanka floods displace 350,000 people and leave scores missing",
+  "webPublicationDate": "2016-05-18T20:30:05Z",
+  "webUrl": "https://www.theguardian.com/news/2016/may/18/sri-lanka-floods-rain-mudslides-displace-350000-scores-missing-texas-switzerland-israel",
+  "keyword": [
+    {
+      "webTitle": "Meteorology",
+      "id": "science/meteorology",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Natural disasters and extreme weather",
+      "id": "world/natural-disasters",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Sri Lanka",
+      "id": "world/srilanka",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "United States",
+      "id": "weather/usa",
+      "sectionId": "weather",
+      "sectionName": "Weather"
+    },
+    {
+      "webTitle": "Switzerland",
+      "id": "world/switzerland",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Switzerland",
+      "id": "weather/switzerland",
+      "sectionId": "weather",
+      "sectionName": "Weather"
+    },
+    {
+      "webTitle": "Israel",
+      "id": "weather/israel",
+      "sectionId": "weather",
+      "sectionName": "Weather"
+    },
+    {
+      "webTitle": "Jordan",
+      "id": "weather/jordan",
+      "sectionId": "weather",
+      "sectionName": "Weather"
+    },
+    {
+      "webTitle": "Syria",
+      "id": "world/syria",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [],
+  "guardianId": "news/2016/may/18/sri-lanka-floods-rain-mudslides-displace-350000-scores-missing-texas-switzerland-israel"
+}

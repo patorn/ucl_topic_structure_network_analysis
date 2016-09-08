@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/australia-news/2016/may/18/new-opal-pricing-nsw-public-transport-users-can-no-longer-beat-system",
+  "id": "2016-05-18-343",
+  "sectionId": "australia-news",
+  "body": "New South Wales public transport users will be no longer ride free after their eighth weekly trip under new a pricing structure for the state\u2019s electronic ticketing. The NSW transport minister, Andrew Constance, confirmed on Wednesday that the free-trip scheme for the Opal card would be scrapped in favour of giving customers a 50% discount on their ninth weekly trip and beyond. He said about 70% of public transport users never reached the limit anyway and so would be unaffected. But modelling by the Independent Pricing and Regulatory Tribunal (Ipart), which has spent the last year reviewing public transport costs, suggests those who take the train 10 times a week or more will pay at least 20% extra.   Related: Public transport, private owners \u2013 the unexamined trajectory of privatisation | Mehreen Faruqi    After the Opal system was introduced throughout 2012 and 2013, the then-transport minister, Gladys Berejiklian, encouraged so-called \u201cOpal hacking\u201d, where customers deliberately took short trips to surpass the free limit and take their more expensive journeys for free. \u201cI want people to beat the system,\u201d Berejiklian said. But Ipart said in its May review that free-travel scheme offered \u201cincentives that result in suboptimal travel behaviour and inefficient use of the transport network\u201d. Customers who use multiple modes of transport will receive a new $2 discount on the cost of the second leg of their trip, provided they transfer within 60 minutes.  The government did not take up Ipart recommendations to increase daily caps for weekdays and Saturdays (currently $15) nor Sundays ($2.50). The overall weekly cap will remain $60. Gold senior and pensioner pricing was also untouched. The prices will remain frozen until at least July next year.   Related: Women-only train carriages? What a ridiculously regressive idea | Gabrielle Jackson    Ipart had also recommended making off-peak train travel 40% cheaper to spread use throughout the day. But Constance opted to retain the 30% discount, saying there \u201cwasn\u2019t enough evidence to show an increase in the already generous off-peak discount would encourage more people to travel off-peak\u201d. The cost to taxpayers of public transport in Sydney and surrounding areas is about $4.8bn each year; around 75% is covered by taxpayers. Had the government adopted all Ipart\u2019s recommendations it would have increased ticket revenue by 3.7%, a figure still outweighed by the system\u2019s 5% annual cost increases.",
+  "webTitle": "New Opal pricing: NSW public transport users can no longer 'beat system'",
+  "webPublicationDate": "2016-05-18T04:47:04Z",
+  "webUrl": "https://www.theguardian.com/australia-news/2016/may/18/new-opal-pricing-nsw-public-transport-users-can-no-longer-beat-system",
+  "keyword": [
+    {
+      "webTitle": "New South Wales",
+      "id": "australia-news/new-south-wales",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Sydney",
+      "id": "australia-news/sydney",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "New South Wales politics",
+      "id": "australia-news/new-south-wales-politics",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Transport policy",
+      "id": "politics/transport",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Michael Safi",
+      "id": "profile/michael-safi"
+    }
+  ],
+  "guardianId": "australia-news/2016/may/18/new-opal-pricing-nsw-public-transport-users-can-no-longer-beat-system"
+}

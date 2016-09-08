@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/us-news/2016/may/16/freddie-gray-trial-baltimore-officer-garrett-miller-testimony",
+  "id": "2016-05-16-42",
+  "sectionId": "us-news",
+  "body": "Baltimore officer Garrett Miller became the first officer forced to testify against one of his fellow defendants on Monday in the set of criminal prosecutions over the death of Freddie Gray. Miller was called as a witness by prosecutors, but his testimony may have done more to aid in the defense of fellow officer Edward Nero, who is on trial for charges of assault, reckless endangerment, and misconduct, all misdemeanors.  Miller said it was he, not Nero, who detained, arrested and handcuffed Gray. Prosecutors are advancing what many call a novel legal theory in Nero\u2019s case, arguing that Gray\u2019s arrest was illegal and that therefore any contact with Gray constituted assault.  \u201cThey do nothing that Terry requires and do a search that Terry does not allow,\u201d said chief deputy state\u2019s attorney Michael Schatzow of the encounter between Gray and the arresting officers, referring to the supreme court ruling Terry v Ohio, which allows officers to stop and detain someone long enough to frisk them.  But Miller testified that Nero only got involved to help him pick Gray up after he asked for an asthma inhaler. \u201cOfficer Nero stands behind him, supporting his back,\u201d Miller said describing Nero\u2019s contact with Gray. Miller also testified that it was the responsibility of the van driver, Caesar Goodson, who faces murder charges in Gray\u2019s death, to make sure the seatbelt was fastened. Gray died of spinal injuries sustained while he was in the back of a police van, shackled and without a seatbelt.  A ruling by the court of appeals granted the state the right to call Miller to testify against Nero and the other fellow officers facing criminal charges in the death of Gray. Another officer, William Porter, had challenged a move to force him to testify after his trial ended in a hung jury, arguing that he would be incriminating himself before his own trial ended with a ruling. But the court ruled that the officers could be forced to testify against one another so long as that testimony is not used against them in their own cases. Miller\u2019s own case is scheduled to go to trial in July. He also faces charges of assault, reckless endangerment and misconduct.  Nero and Miller began chasing Gray on the morning of 12 April when Lt Brian Rice called in a foot chase \u2013 without announcing the reason for the chase. Miller pursued Gray into one of the courts of the Gilmor Homes public housing complex, where Gray turned around, forcing Miller to abandon his bike. In the next court, Miller caught up with Gray, who surrendered. Miller testified that he handcuffed Gray, laid him prone, and subsequently moved him, while sending Nero to pick up the abandoned bike. At one point in his initial statements to investigators, Nero said: \u201cWe grabbed him, put him on the ground, and cuffed him.\u201d But probed under cross examination by Nero\u2019s attorney as to whether his use of the word \u201cwe\u201d suggested Nero was involved in the initial detention, Miller said: \u201cI used the word \u2018we\u2019 because I worked with officer Nero since I worked in the western district and we did everything together.\u201d According to Miller\u2019s testimony, Nero also had physical contact with Gray at the van\u2019s second stop \u2013 a block away from the initial site of arrest \u2013 where Gray was removed from the back of the van and Miller put flex cuffs and leg shackles on Gray. Lt Brian Rice got in the van and grabbed Gray, who was described as going limp, while Nero lifted his legs and helped put him into the van, head first and face down on the floor \u2013 a position that an expert witness in bioengineering testified could act as a mechanism for the kind of so-called \u201cdiving injury\u201d that severed Gray\u2019s spine. The defense moved to dismiss all charges after the prosecution rested its case, but the judge said that at this point in the proceedings, he was satisfied that there was testimony to justify hearing each of the charges. Nero\u2019s case is being heard by a judge rather than a jury, at his request. Since there is no possibility of a hung jury \u2013 as happened in the case of Porter, Nero\u2019s case will most definitely provide the first verdict in the high-profile case.",
+  "webTitle": "Officer in trial over Freddie Gray death first to testify against fellow defendant",
+  "webPublicationDate": "2016-05-16T20:54:34Z",
+  "webUrl": "https://www.theguardian.com/us-news/2016/may/16/freddie-gray-trial-baltimore-officer-garrett-miller-testimony",
+  "keyword": [
+    {
+      "webTitle": "Freddie Gray",
+      "id": "us-news/freddie-gray",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Baltimore",
+      "id": "us-news/baltimore",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US policing",
+      "id": "us-news/us-police",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Maryland",
+      "id": "us-news/maryland",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US crime",
+      "id": "us-news/us-crime",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Baynard Woods",
+      "id": "profile/baynard-woods"
+    }
+  ],
+  "guardianId": "us-news/2016/may/16/freddie-gray-trial-baltimore-officer-garrett-miller-testimony"
+}

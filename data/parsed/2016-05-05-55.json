@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/05/carla-bley-andy-sheppard-steve-swallow-andando-el-tiempo-review",
+  "id": "2016-05-05-55",
+  "sectionId": "music",
+  "body": "The incomparable American jazz composer Carla Bley is 80 on 11 May, and this long-running trio, with bass guitarist Steve Swallow and British saxophonist Andy Sheppard, will celebrate in New York and then tour Europe, visiting London\u2019s Ronnie Scott\u2019s on 17 July. The five new pieces here include three parts of the yearning yet congenial suite of the title, written in observation of a friend\u2019s struggle with addiction. A slow theme ascends against glimpses of a tango, with Sheppard drifting from dreamy tenor slurs to restless murmurs. Long, keening soprano-sax notes float through the second section, and the finale displays Bley\u2019s unique brand of stately amiability, with plaintive tenor motifs rising over erratically stuttering piano and bass figures. Saints Alive! waltzes steadily on a slinky Swallow bassline and grows folksily soulful. Naked Bridges/Diving Brides is a swinging walk with a typical Bley piano solo of clanging chords and nonchalant improv. A more personal, private and succinct album than its predecessor, Trios, it\u2019s just as captivating, and inconceivable in the hands of anyone else.",
+  "webTitle": "Carla Bley/Andy Sheppard/Steve Swallow: Andando el Tiempo review \u2013 captivating, succinct jazz",
+  "webPublicationDate": "2016-05-05T19:00:02Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/05/carla-bley-andy-sheppard-steve-swallow-andando-el-tiempo-review",
+  "keyword": [
+    {
+      "webTitle": "Jazz",
+      "id": "music/jazz",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "John Fordham",
+      "id": "profile/johnfordham"
+    }
+  ],
+  "guardianId": "music/2016/may/05/carla-bley-andy-sheppard-steve-swallow-andando-el-tiempo-review"
+}

@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/science/2016/may/29/starwatch-june-night-sky",
+  "id": "2016-05-29-19",
+  "sectionId": "science",
+  "body": "Following the opposition of Mars on 22 May, it is Saturn\u2019s turn to stand directly opposite the Sun in the sky on 3 June. This places it high in the midnight sky for observers in the southern hemisphere, but inconveniently low down in the S as viewed from Britain. This is a pity, for Saturn\u2019s stunning rings are wide open with their N face tipped 26\u00b0 to our view and spanning 42 arcsec around the planet\u2019s 18 arcsec disc. Saturn shines at mag 0.0 from a distance of 1,349m km at opposition and is creeping westwards in southern Ophiuchus 7\u00b0 NE (above-left) of Scorpius\u2019 leading star, the red supergiant Antares, a magnitude fainter. Mars lies to their west and easily outshines them both, though it dims from mag -2.0 to -1.5 as it tracks westwards in Libra and slows to a standstill on the 30th. The Red Planet is at its closest in 11 years on 30 May (75m km) and shrinks in apparent diameter from 18.6 to 16.3 arcsec as it recedes to 86m km. The star Capella in Auriga twinkles low in the N at our map times as the Plough sinks in the NW and the Summer Triangle climbs to prominence in the SE. Jupiter is still conspicuous in the SW at nightfall, though its altitude one hour after sunset halves from about 30\u00b0 to 15\u00b0 and it sets around one hour after our map times. Dimming slightly from mag -2.0 to -1.9 as it edges eastwards in S Leo, it is close to the Moon on the 11th before the latter goes on to stand above Spica in Virgo on the 14th, above-left of Mars on the 17th and close to Saturn on the 18th. After its solar transit, Mercury is now too low in the morning twilight to be seen from our latitudes during June while Venus passes directly behind the middle of the Sun on the 6th and also remains out of sight. As the Sun reaches its most northerly point at the solstice on the 20th, it traces only a shallow arc below our N horizon overnight so that twilight swamps the fainter stars and is particularly severe over Scotland. Where Scotland wins is on opportunities to spot noctilucent clouds, those cirrus-like ice-clouds that form at altitudes near 82km, high enough to shimmer electric-blue in the sunlight after run-of-the-mill lower-level clouds are in darkness. Look for them one or two hours after sunset in the NW and a similar time before sunrise in the NE.  June diary 3rd 08h Saturn at opposition 5th 04h New moon; 10h Mercury furthest W of Sun (24\u00b0) 6th 23h Venus in superior conjunction 8th 23h Moon 5\u00b0 S of Praesepe 11th 21h Moon 1.5\u00b0 S of Jupiter 12th 09h First quarter 17th 11h Moon 7\u00b0 N of Mars 19th 01h Moon 3\u00b0 N of Saturn 20th 12h Full moon; 23:34 Summer solstice 27th 19h Last quarter 30th 09h Mars stationary * Times are BST",
+  "webTitle": "Starwatch: The June night sky",
+  "webPublicationDate": "2016-05-29T20:30:14Z",
+  "webUrl": "https://www.theguardian.com/science/2016/may/29/starwatch-june-night-sky",
+  "keyword": [
+    {
+      "webTitle": "Astronomy",
+      "id": "science/astronomy",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Space",
+      "id": "science/space",
+      "sectionId": "science",
+      "sectionName": "Science"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Alan Pickup",
+      "id": "profile/alanpickup"
+    }
+  ],
+  "guardianId": "science/2016/may/29/starwatch-june-night-sky"
+}

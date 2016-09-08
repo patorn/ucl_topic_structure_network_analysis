@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/27/plans-for-closer-eu-military-cooperation-held-until-after-vote",
+  "id": "2016-05-26-1",
+  "sectionId": "politics",
+  "body": "Plans for closer European military cooperation will not be released until after next month\u2019s EU referendum, it has been claimed. The plans, which outline new European military and operational structures that include a headquarters, have been drawn up by the EU\u2019s foreign policy chief, Federica Mogherini.   Brexit explained: risk of war   The Times reported that the proposals will not be seen by European leaders until a summit on 28 June \u2013 almost a week after the UK referendum.  It is feared that doing so before the vote could boost the leave campaign. To keep the lid on the Global Strategy on Foreign and Security Policy proposals, only a small number of diplomats are allowed to view the documents in a sealed room and must leave electronic devices outside, according to the report.  However, they are allowed to make handwritten notes, some of which the Times said it had seen. According to those notes, the proposals urged the EU to create defence structures under the provisions of the 2009 Lisbon treaty and based on the EU diplomatic service.  Similar moves five years ago towards what some described then as an \u201cEU army\u201d were vetoed by the UK. A government spokesperson said: \u201cThe prime minister has repeatedly made clear that the UK will never be a part of an EU army. We retain a veto on all defence matters in the EU and we will oppose any measures which would undermine member states\u2019 military forces.\u201d   Related: Jean-Claude Juncker calls for EU army    Early last year European commission president Jean-Claude Juncker said that the EU needed its own army to help the union be taken more seriously as an international force. He said such a move would help the EU to stand up to Russian aggression. Juncker, who has long backed creating an EU army, said that such a move would be more cost-effective and encourage further European integration. \u201cSuch an army would help us design a common foreign and security policy,\u201d the former prime minister of Luxembourg said in a newspaper interview. The idea was rejected by Downing Street at the time.",
+  "webTitle": "Plans for closer EU military cooperation held until after vote",
+  "webPublicationDate": "2016-05-26T23:54:35Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/27/plans-for-closer-eu-military-cooperation-held-until-after-vote",
+  "keyword": [
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Military",
+      "id": "uk/military",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Chris Johnston",
+      "id": "profile/chris-johnston"
+    }
+  ],
+  "guardianId": "politics/2016/may/27/plans-for-closer-eu-military-cooperation-held-until-after-vote"
+}

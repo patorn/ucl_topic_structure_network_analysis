@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/14/horse-racing-tips-sunday",
+  "id": "2016-05-14-84",
+  "sectionId": "sport",
+  "body": "RIPON 2.00 Rainbow Mist 2.30 Ashurst Beacon 3.00 Zig Zag Girl 3.35 Glenrowan Rose 4.10 Spring Offensive (nap) 4.45 Perceysvivace 5.15 Rainbow Orse 5.45 Amazement MARKET RASEN  2.10 For Goodness Sake 2.40 Our Kylie 3.15 Baku Bay (nb) 3.50 Byron Flyer 4.25 Art Of Logistics 4.55 Sonofagun 5.25 Cougar\u2019s Gold STRATFORD 1.50 Perfect Summer 2.20 The Barbury Queen 2.50 Midnight Gem 3.25 Mount Haven 4.00 Wintered Well 4.35 Sleep Easy 5.05 Casino Markets 5.35 Burlington Bert",
+  "webTitle": "Horse racing tips: Sunday 15 May",
+  "webPublicationDate": "2016-05-14T16:15:00Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/14/horse-racing-tips-sunday",
+  "keyword": [
+    {
+      "webTitle": "Horse racing tips",
+      "id": "sport/horse-racing-tips",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Horse racing",
+      "id": "sport/horse-racing",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Greg Wood",
+      "id": "profile/gregwood"
+    }
+  ],
+  "guardianId": "sport/2016/may/14/horse-racing-tips-sunday"
+}

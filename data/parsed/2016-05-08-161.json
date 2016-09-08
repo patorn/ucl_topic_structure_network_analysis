@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/society/2016/may/08/playwright-ba-london-city-airport-wheelchair-athena-stevens",
+  "id": "2016-05-08-161",
+  "sectionId": "society",
+  "body": "A playwright and actor has launched legal action against British Airways and London City airport, alleging that they irreparably damaged her \u00a325,000 wheelchair, made her daily life more difficult and caused problems for her business. Athena Stevens, 31, who has cerebral palsy, estimated that the incident last October had so far cost her \u00a370,000. \u201cIt has completely closed my life down,\u201d she said, adding that she had had to hire extra support workers to assist her with her daily routine and activities, and had been left unable to travel on public transport. Her business, which employs five people, and includes the making of online documentaries and interviews, had also been disrupted, she claimed. Stevens, currently appearing in her play Schism at Finborough theatre in London, said: \u201cI am acting, but that doesn\u2019t mean I am not inhibited. Not having my chair for rehearsals, getting to and from the theatre etc is a nightmare. I have had to spend \u00a350 on a single taxi ride home.\u201d The incident, first reported in January, prompted a petition in support of Stevens. It has so far been backed by more than 52,000 people on the website of the campaign group 38 Degrees. Stevens said her wheelchair was broken when she attempted to take a flight to Glasgow. She was forced to use a back-up manual chair at first but has been renting an electric chair since January. This has, however, caused problems when the actor tries to get into her home and office. She has alleged she cannot use the rental chair on the tube, travel up five-inch kerbs or go up and down stairs properly. \u201cI\u2019m paying about \u00a3200 a week for a wheelchair that can\u2019t clear the threshold of my flat unless I get out and push it,\u201d she said. While acting, she has had to use a manual wheelchair. Stevens had not insured the chair that she claims was damaged in October. She said she had attempted to get it covered but no underwriters were willing to offer insurance as there were only about 500 in the world and a suitable replacement would be likely to cost more than \u00a330,000. BA has refunded \u00a3680 for the return tickets she and her PA were unable to use in October, because the plane could not accommodate her chair. The airline and airport had offered to pay taxi fares up to a total of \u00a31,000 before she launched the legal action last month. BA told the Guardian: \u201cMore than 426,000 people with reduced mobility travelled with us last year and we take their needs extremely seriously. \u201cAlong with London City airport, we investigated Ms Stevens\u2019 concerns thoroughly and we continue to try to seek a solution with her and her legal representatives.\u201d  London City airport said: \u201cThe airport is working with the passenger and British Airways to resolve this matter. The situation is being dealt with by lawyers and we are therefore unable to provide further comment.\u201d",
+  "webTitle": "Playwright sues BA and London City airport over damaged wheelchair",
+  "webPublicationDate": "2016-05-08T07:00:01Z",
+  "webUrl": "https://www.theguardian.com/society/2016/may/08/playwright-ba-london-city-airport-wheelchair-athena-stevens",
+  "keyword": [
+    {
+      "webTitle": "Disability",
+      "id": "society/disability",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "British Airways",
+      "id": "business/britishairways",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Air transport",
+      "id": "world/air-transport",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Airline industry",
+      "id": "business/theairlineindustry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Stage",
+      "id": "stage/stage",
+      "sectionId": "stage",
+      "sectionName": "Stage"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "James Meikle",
+      "id": "profile/jamesmeikle"
+    }
+  ],
+  "guardianId": "society/2016/may/08/playwright-ba-london-city-airport-wheelchair-athena-stevens"
+}

@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/us-news/2016/may/27/who-wrote-obamas-hiroshima-speech",
+  "id": "2016-05-27-116",
+  "sectionId": "us-news",
+  "body": "Barack Obama has always been a superior orator. For many, his speech to the Democratic convention in 2004 was the most memorable moment of John Kerry\u2019s presidential campaign. Since arriving in the White House, the lyrical quality of his rhetoric has continued to soar higher than actual policy achievements, especially when it comes to nuclear disarmament. Like every president, however, Obama\u2019s speeches are the product of teamwork. For the Hiroshima speech, his closest collaborator will have been Ben Rhodes, the deputy national security adviser for strategic communications and speechwriting, who trailed the Hiroshima address in a blogpost.   Related: Barack Obama says memory of Hiroshima 'must never fade'    We now know a lot about Rhodes, due to a recent very long and controversial profile in the New York Times magazine. We know he studied literature and was an aspiring novelist at the time of 9/11, which got him interested in foreign policy. The article is controversial because Rhodes claimed to have orchestrated naive Washington journalists and thinktanks into accepting last year\u2019s nuclear deal with Iran. That might have been an overestimation of Rhodes\u2019 influence but there is no doubting his skills as a wordsmith. The Times article quotes the American novelist Don DeLillo as an inspiration several times. Rhodes would have honed the first and last drafts with Obama but, in between those stages, presidential speeches are almost always the work of a committee. Drafts are sent to any government department with a potential interest, inviting input.  In this case, the speech would have gone to defence, state and the Department of Energy, to ensure it was comprehensive and free of gaffes. Then it would go back to Rhodes. But the final author is Obama himself. The delivered version of Obama speeches are covered with his longhand notes. The dominant voice does seem to be the man himself.",
+  "webTitle": "Who wrote Obama's Hiroshima speech?",
+  "webPublicationDate": "2016-05-27T14:43:12Z",
+  "webUrl": "https://www.theguardian.com/us-news/2016/may/27/who-wrote-obamas-hiroshima-speech",
+  "keyword": [
+    {
+      "webTitle": "Obama administration",
+      "id": "us-news/obama-administration",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Japan",
+      "id": "world/japan",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Nuclear weapons",
+      "id": "world/nuclear-weapons",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Julian Borger",
+      "id": "profile/julianborger"
+    }
+  ],
+  "guardianId": "us-news/2016/may/27/who-wrote-obamas-hiroshima-speech"
+}

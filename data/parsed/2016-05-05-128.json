@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/05/moj-to-take-over-medway-child-jail-from-g4s",
+  "id": "2016-05-05-128",
+  "sectionId": "business",
+  "body": "The Ministry of Justice is to take over the management of a G4S-run child jail in Kent that has been at the centre of allegations of abuse and use of excessive force by staff, the Guardian has learned. The Medway secure training centre, which has been run by G4S since it opened in 1998, is to be taken over by the National Offender Management Service, which runs public sector prisons and probation services.   Related: G4S fined 100 times since 2010 for breaching prison contracts    The decision, due to be announced next week, comes in advance of publication of an improvement board report for justice ministers that was expected to be published later this month detailing the future options for the child jail. Four members of staff were arrested on charges of child neglect after undercover filming exposed staff appearing to use excessive force to restrain youngsters, children being bullied by staff and officers lying when reporting incidents. The private security firm announced in February in the wake of the allegations that it was selling its UK children\u2019s services business including two secure training centres, at Medway and Oakhill, and 13 children\u2019s homes. G4S\u2019s existing contract to run Medway had been extended to July while the improvement board reported to justice ministers. The Ministry of Justice confirmed in April that G4S would not be taking on the new contract to run Medway that it had previously been awarded. A Ministry of Justice spokesperson said: \u201cOur priority will always be the safety and welfare of young people in custody \u2013 that is why the justice secretary set up an independent improvement board to examine the running of Medway STC. This sits alongside a wider review of youth justice, led by Charlie Taylor. \u201cWe are considering a range of options and will announce the next steps in due course.\u201d A G4S spokesman said: \u201cThe behaviour of some of our staff at Medway revealed in January was completely unacceptable. We have given our full support to the review being conducted by the ministry\u2019s improvement board and will consider their findings carefully when they are published.\u201d",
+  "webTitle": "Justice ministry to take over Medway child jail from G4S",
+  "webPublicationDate": "2016-05-05T15:43:09Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/05/moj-to-take-over-medway-child-jail-from-g4s",
+  "keyword": [
+    {
+      "webTitle": "G4S",
+      "id": "business/g4s",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Youth justice",
+      "id": "society/youthjustice",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Prisons and probation",
+      "id": "society/prisons-and-probation",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "UK criminal justice",
+      "id": "law/criminal-justice",
+      "sectionId": "law",
+      "sectionName": "Law"
+    },
+    {
+      "webTitle": "Law",
+      "id": "law/law",
+      "sectionId": "law",
+      "sectionName": "Law"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Alan Travis",
+      "id": "profile/alantravis"
+    }
+  ],
+  "guardianId": "business/2016/may/05/moj-to-take-over-medway-child-jail-from-g4s"
+}

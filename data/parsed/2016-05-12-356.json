@@ -1,0 +1,55 @@
+{
+  "apiUrl": "https://content.guardianapis.com/australia-news/2016/may/12/rain-in-tasmania-has-enabled-state-to-turn-off-temporary-diesel-generators",
+  "id": "2016-05-12-356",
+  "sectionId": "australia-news",
+  "body": "Substantial rain in Tasmania has enabled the state to turn off its temporary diesel generators that were imported due to electricity shortages sparked by record low rainfall and a broken Bass Strait electricity cable. Following substantial rain, Hydro Tasmania on Thursday confirmed the state is now powered entirely by renewable energy for the first time in 2016. \u201cWe may require some bursts of diesel and gas generation over coming months,\u201d Hydro boss Stephen Davy said, adding that there is currently enough hydro and wind energy to power the state.   Related: Tasmania's big dry has apple isle's renewable energy under a cloud    \u201cThe past 10 days have been very positive. We\u2019ve had more rain than predicted and our storages have risen strongly,\u201d he said. \u201cThere\u2019s currently enough hydro and wind energy available to meet all Tasmanian demand. For the first time in months, our island is being powered solely by renewable energy.\u201d Davy said Hydro Tasmania\u2019s current operating strategy is making full use of the heavy rains.  \u201cTasmanians can be assured that we\u2019re monitoring and managing the situation flexibly to ensure the rain isn\u2019t wasted and our major storages, Lake Gordon and Great Lake, can start to recover. Emergency diesel generators imported to Tasmania to deal with the energy crisis were switched off throughout the week and the combined cycle gas turbine generator at the Tamar Valley power station was turned off on Wednesday.   Related: Calls for electricity rationing in Tasmania as dam levels fall to 13.6%    While dam levels may be recovering due to recent rains, it will still be weeks until the Basslink cable can be repaired and the state reconnected to the national grid.  The Basslink cable had been scheduled to be fixed by mid June, but the repair ship was forced to return to port in Geelong because of gale force winds and is not due to leave until Friday. The premier, Will Hodgman, said there was nothing to suggest that deadline would not be met.  \u201cBasslink are obviously doing what they need to get the cable repaired, that\u2019s the priority,\u201d he said.",
+  "webTitle": "Rain in Tasmania has enabled state to turn off temporary diesel generators",
+  "webPublicationDate": "2016-05-12T05:27:40Z",
+  "webUrl": "https://www.theguardian.com/australia-news/2016/may/12/rain-in-tasmania-has-enabled-state-to-turn-off-temporary-diesel-generators",
+  "keyword": [
+    {
+      "webTitle": "Tasmania",
+      "id": "australia-news/tasmania",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Energy",
+      "id": "environment/energy",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Electricity",
+      "id": "film/electricity",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Renewable energy",
+      "id": "environment/renewableenergy",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Hydropower",
+      "id": "environment/hydropower",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    }
+  ],
+  "authors": [],
+  "guardianId": "australia-news/2016/may/12/rain-in-tasmania-has-enabled-state-to-turn-off-temporary-diesel-generators"
+}

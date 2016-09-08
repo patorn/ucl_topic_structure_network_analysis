@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/18/eastenders-ratings-rise-nearly-a-million-peggy-mitchell-farewell-barbara-windsor",
+  "id": "2016-05-18-268",
+  "sectionId": "media",
+  "body": "Nearly 7 million viewers watched Peggy Mitchell\u2019s farewell to Albert Square in EastEnders, half the number who watched Dirty Den\u2019s exit a decade ago. Barbara Windsor\u2019s emotional exit after a 22-year career in the soap, which reunited her with Phil and Grant Mitchell, and even the ghost of Pat Butcher, had 6.9 million viewers, a 37% share of the audience, from 7.25pm on Tuesday.   Related: Babs calls time for the last time: farewell Peggy Mitchell, queen of EastEnders    It was nearly a million more than watched the same episode last week. But in a sign of the declining ratings for soaps and TV audiences across the board, it was barely half of the 13.7 million who watched Leslie Grantham\u2019s Dirty Den meet his maker in 2005. Elsewhere, ITV\u2019s Anna Friel drama Marcella, written by the creator of The Bridge, Hans Rosenfeldt, finished its eight-part run with 4.3 million viewers, a 21.2% share, from 9pm, having started with 6.1 million viewers (27.6%) last month. Channel 4\u2019s new Spanish drama, Locked Up, began with 451,000 viewers (3.1%) at 10pm. Only the first episode in the Walter Presents strand is being shown on Channel 4, with the rest of the series available on its on-demand service, All 4. BBC2\u2019s The Great British Bake Off spin off, Bake Off Creme de la Creme, finished its eight-part run with 2.8 million viewers, a 14.3% share, providing some ratings consolation for the channel after its big sibling was stolen by BBC1.",
+  "webTitle": "EastEnders ratings rise by nearly a million for Peggy Mitchell's farewell",
+  "webPublicationDate": "2016-05-18T09:30:29Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/18/eastenders-ratings-rise-nearly-a-million-peggy-mitchell-farewell-barbara-windsor",
+  "keyword": [
+    {
+      "webTitle": "TV ratings",
+      "id": "media/tvratings",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Television industry",
+      "id": "media/television",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "BBC",
+      "id": "media/bbc",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "EastEnders",
+      "id": "tv-and-radio/eastenders",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Barbara Windsor",
+      "id": "tv-and-radio/barbara-windsor",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "John Plunkett",
+      "id": "profile/johnplunkett"
+    }
+  ],
+  "guardianId": "media/2016/may/18/eastenders-ratings-rise-nearly-a-million-peggy-mitchell-farewell-barbara-windsor"
+}

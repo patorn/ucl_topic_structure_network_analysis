@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/27/bob-arum-says-he-wants-to-promote-donald-trump-v-bernie-sanders-debate",
+  "id": "2016-05-27-300",
+  "sectionId": "sport",
+  "body": "Veteran boxing promoter Bob Arum has offered to promote a possible debate between Donald Trump and Bernie Sanders. \u201cIt\u2019s the debate of the century between two of the top pound for pound politicians in the country: Mr Trump, the Republican Party\u2019s presumptive nominee and Senator Sanders, the Democratic candidate,\u201d Arum said in a release issued Thursday. \u201cWe have two contenders ready, willing and able to go mano a mano over the most important issues facing the United States. And I am ready to promote it.\u201d   Related: Donald Trump v Bernie Sanders: confusion reigns over possible debate    The idea of a debate between Trump and Sanders has gained steam in the day since it was first proposed during Trump\u2019s appearance on Jimmy Kimmel Live on Wednesday night.  \u201cIf I debated him [Sanders], we would have such high ratings, and I think we should take that money and give it to some worthy charity,\u201d the presumptive Republican presidential nominee told the late-night TV host.  Trump, who on Thursday crossed the threshold of delegates needed to secure the party\u2019s presidential nomination, seemed to waver on his willingness to debate Sanders after initially doubling down on them at a morning press conference in North Dakota, where he said: \u201cI\u2019d love to debate Bernie \u2013 he\u2019s a dream.\u201d Sanders\u2019 response on Twitter confirmed his interest, but a Trump aide later clarified that the candidate was joking and had no intent of debating the senator from Vermont. Arum said 80% of the net proceeds will go to the charity or charities of the candidates\u2019 choice, agreed upon in advance, with a minimum donation of $20m. The moderator or moderators will be subject to the approval of the candidates, though Arum has recommended Hillary Clinton, Ted Cruz and Mitt Romney. The 84-year-old chairman and CEO of Top Rank Promotions is no stranger to the political arena. As a Harvard Law graduate working as an attorney in the tax division of Robert F Kennedy\u2019s Justice Department during the mid-1960s, Arum abruptly changed careers after he audited a fight and saw how much money could be made.  He\u2019s been a major force in boxing since, promoting such towering figures as Muhammad Ali (27 fights), Marvin Hagler (20), George Foreman (14) and Sugar Ray Leonard (seven).",
+  "webTitle": "Bob Arum says he wants to promote Donald Trump v Bernie Sanders debate",
+  "webPublicationDate": "2016-05-27T05:00:38Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/27/bob-arum-says-he-wants-to-promote-donald-trump-v-bernie-sanders-debate",
+  "keyword": [
+    {
+      "webTitle": "Boxing",
+      "id": "sport/boxing",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "US politics",
+      "id": "us-news/us-politics",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Donald Trump",
+      "id": "us-news/donaldtrump",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Bernie Sanders",
+      "id": "us-news/bernie-sanders",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "US sports",
+      "id": "sport/us-sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "sport/2016/may/27/bob-arum-says-he-wants-to-promote-donald-trump-v-bernie-sanders-debate"
+}

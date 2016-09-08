@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/money/2016/may/12/will-higher-rate-stamp-duty-apply-if-my-ex-wants-to-buy-me-out",
+  "id": "2016-05-12-354",
+  "sectionId": "money",
+  "body": "Q: I desperately need some advice on the new stamp duty rules. My boyfriend and I split up last year but we own a property together, bought in 2010, which is our primary residence. He has a buy-to-let property which is nothing to do with me (and neither of us have lived there) that he\u2019s owned for 10 years, bought with inheritance from his grandparents. We are currently in the process of him buying me out of my half of our property so that I can buy a place of my own.  Our solicitors are saying that he will have to pay the higher rate of stamp duty land tax on this purchase, even though he is not buying a new property and this will remain his main residence. This is an increase of \u00a37,000 on the stamp duty he was expecting to pay and he isn\u2019t sure he can afford it, which is putting my house purchase in jeopardy. Everyone seems unsure of what is correct in this situation and we\u2019re both extremely confused. Surely the stamp duty change was to stop people purchasing second homes, not from buying additional interest in the property they already own? Neither of us can quite believe that he will have to pay over \u00a310,000 in stamp duty to purchase half of the house he already owns and lives in. SS A: I found it hard to believe too so checked with Treasury which is responsible for the new stamp duty land tax (SDLT) rules. In response to the question as to whether your boyfriend will have to pay the higher rates of SDLT, the Treasury spokesman said: \u201cHe will be liable as he owns another property. Where an individual owns other residential property [ie the buy-to-let] valued at over \u00a340,000, the higher rates will apply to the transfer of a share of property which the purchaser already part owns.\u201d Bizarrely, if instead of buying you out, your ex-boyfriend and you sold the property and he bought a new home, he wouldn\u2019t have to pay the higher rates of SDLT on his new home even though he has a buy-to-let property. I put this scenario to the Treasury spokesman and he said: \u201cIf he is selling his main residence and buying a new one \u2013 he will not be liable [to the higher rates of SDLT].\u201d The spokesman also answered a question from a couple of other readers who wanted to know if they would be liable for the higher rates of SDLT only on the 50% share of the property they are buying jointly with their son. Sadly, that\u2019s not the case and because the parents already own property, the \u201chigher rates will apply to the whole transaction price.\u201d",
+  "webTitle": "Will higher rate stamp duty apply if my ex wants to buy me out?",
+  "webPublicationDate": "2016-05-12T06:00:21Z",
+  "webUrl": "https://www.theguardian.com/money/2016/may/12/will-higher-rate-stamp-duty-apply-if-my-ex-wants-to-buy-me-out",
+  "keyword": [
+    {
+      "webTitle": "Property",
+      "id": "money/property",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Mortgages",
+      "id": "money/mortgages",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Buying to let",
+      "id": "money/buying-to-let",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Stamp duty",
+      "id": "money/stampduty",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Tax",
+      "id": "money/tax",
+      "sectionId": "money",
+      "sectionName": "Money"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Virginia Wallis",
+      "id": "profile/virginiawallis"
+    }
+  ],
+  "guardianId": "money/2016/may/12/will-higher-rate-stamp-duty-apply-if-my-ex-wants-to-buy-me-out"
+}

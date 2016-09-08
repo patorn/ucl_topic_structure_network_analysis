@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sustainable-business/2016/may/27/startup-smart-tech-cut-food-waste-winnow-awards-winner",
+  "id": "2016-05-27-310",
+  "sectionId": "sustainable-business",
+  "body": "Closing time approaches, waiting staff collect plates littered with leftovers and chefs sweep up spoiled ingredients. This routine, repeated in restaurants across the developed world, means $80bn (\u00a356bn) of food is wasted annually. London-based startup Winnow is tackling the problem with its smart meter for food waste. Since opening in 2013, the business has saved its customers \u00a32m and reduced carbon emissions from the hospitality sector by 3,400 tonnes.  Co-founder Marc Zornes, who researched food waste while working at business consultants McKinsey, says research into energy efficiency in buildings and cars attracts lots of money but there\u2019s \u201chardly any investment into dealing with the issue of food waste\u201d. The Winnow system has a simple touch screen connected to waste bins that weigh each item. Staff log everything they throw away \u2013 where it comes from (eg peelings or leftovers), the food type (eg vegetable), and the specific product (eg onion).   Related: Doggy bags to pig feed: 10 things we learned about food waste    Thus kitchens can track where most waste is produced and make changes to reduce this. A restaurant might reduce portions of frequently leftover dishes, or a staff canteen might make smaller batches of often unfinished meals. For the first 12 months, Winnow was self-funded, with its co-founders (Zornes and Kevin Duffy) sacrificing their salaries from their day jobs. In that time, Winnow proved its tech could facilitate substantial savings. Recently collected anonymised data shows that waste can easily occur in food production and that Winnow users can record a 25% reduction in waste in the first month of use and 50%. The company says restaurants can ultimately cut waste by 50% using its tech. The business\u2019s profile has grown in the past 12 months and a seed funding round closed with \u00a3600,000 last May. Swiftly following this was a series A round, which closed in January and, in all, will have raised \u00a32.5m. Winnow is the 2016 winner of the startup of the year category of the Guardian Sustainable Business Awards.  This piece was amended on 27 May 2016 to clarify that carbon emissions were reduced by 3,400 tonnes (not 34,000 tonnes) and that users can cut food waste by 50% overall.",
+  "webTitle": "The smart tech startup helping restaurants cut food waste by 50%",
+  "webPublicationDate": "2016-05-27T04:00:22Z",
+  "webUrl": "https://www.theguardian.com/sustainable-business/2016/may/27/startup-smart-tech-cut-food-waste-winnow-awards-winner",
+  "keyword": [
+    {
+      "webTitle": "Guardian sustainable business",
+      "id": "sustainable-business/sustainable-business",
+      "sectionId": "sustainable-business",
+      "sectionName": "Guardian Sustainable Business"
+    },
+    {
+      "webTitle": "Sustainable Business Awards",
+      "id": "sustainable-business/gsb-awards",
+      "sectionId": "sustainable-business",
+      "sectionName": "Guardian Sustainable Business"
+    },
+    {
+      "webTitle": "Food & drink industry",
+      "id": "business/fooddrinks",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Food & drink",
+      "id": "lifeandstyle/food-and-drink",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Waste",
+      "id": "environment/waste",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Restaurants",
+      "id": "lifeandstyle/restaurants",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Emma Featherstone",
+      "id": "profile/emma-featherstone"
+    }
+  ],
+  "guardianId": "sustainable-business/2016/may/27/startup-smart-tech-cut-food-waste-winnow-awards-winner"
+}

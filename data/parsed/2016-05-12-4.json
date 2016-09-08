@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/society/2016/may/13/terence-smith-is-youngest-mayor-in-uk-aged-19",
+  "id": "2016-05-12-4",
+  "sectionId": "society",
+  "body": "At the age of 19, Terence Smith has become the UK\u2019s youngest mayor. He was elected last year as a councillor for Goole\u2019s north-east ward for a four-year term and was appointed by councillors as the deputy mayor.   Related: Britain's youngest deputy mayor: 'All I can do is my best'    But on Thursday night, at the authority\u2019s annual meeting, councillors went one step further and voted Smith, a Labour supporter, as Goole\u2019s mayor for a 12-month term. Goole council, created in 1982, covers about 2,200 acres, with a population of some 18,500 people. It is part of the larger East Riding of Yorkshire council. As well as attending events in Goole and surrounding areas on behalf of the council, the A-level student at York college plans to become a young people\u2019s champion to get them more involved in the community and the council\u2019s activities. Smith told the Guardian last year that he was considering a career in politics, at either a local or national level.",
+  "webTitle": "Terence Smith is youngest mayor in UK \u2013 aged 19",
+  "webPublicationDate": "2016-05-12T23:01:43Z",
+  "webUrl": "https://www.theguardian.com/society/2016/may/13/terence-smith-is-youngest-mayor-in-uk-aged-19",
+  "keyword": [
+    {
+      "webTitle": "Local government",
+      "id": "society/localgovernment",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Local elections",
+      "id": "politics/local-elections",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Local politics",
+      "id": "politics/localgovernment",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Yorkshire",
+      "id": "uk-news/yorkshire",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Chris Johnston",
+      "id": "profile/chris-johnston"
+    }
+  ],
+  "guardianId": "society/2016/may/13/terence-smith-is-youngest-mayor-in-uk-aged-19"
+}

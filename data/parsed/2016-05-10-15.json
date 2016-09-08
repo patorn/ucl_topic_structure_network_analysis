@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/society/2016/may/10/medical-marijuana-harborside-health-center",
+  "id": "2016-05-10-15",
+  "sectionId": "society",
+  "body": "The largest licensed medical cannabis dispensary in the US, once dubbed the \u201cmarijuana superstore\u201d, has won a four-year legal battle with federal prosecutors who tried to shutter its Oakland and San Jose pot shops. The government on Tuesday withdrew its forfeiture action intended to close down Harborside Health Center. The dismissal releases the dispensary from a tug of war between local and federal authorities over medical marijuana. Steve DeAngelo, Harborside\u2019s executive director, hailed the move as a signal of \u201cthe beginning of the end of federal prohibition\u201d.   Related: California marijuana initiative qualifies for the ballot    Though California became the first state to legalize medical pot after voters approved a ballot measure in 1996, federal law enacted by Congress in 1970 puts marijuana in the same category as heroin, finds it has no medicinal value, and prohibits its prescription under any circumstance. In 2012, the then US attorney Melinda Haag targeted Harborside as part of a crackdown on what she perceived as a flourishing network of illegal pot suppliers operating under the cover of California\u2019s medical marijuana laws.  But Harborside representatives, customers and Oakland officials have praised the center as a model for compassionately distributing medical marijuana to sick patients while pumping tax dollars into municipal coffers. Opened in 2006, Harborside was the subject of the hit reality series Weed Wars. It serves more than 1,000 people a day in Oakland and in a sister San Jose dispensary and employs 150 people, DeAngelo said. When Haag filed the legal action four years ago, she described Harborside as a \u201cmarijuana superstore\u201d. It is 8,000 square feet, and the Oakland store last year took in $28m \u2013 enough to make it the second largest retail taxpayer in Oakland, a fact not lost on officials in a city that\u2019s struggled to find money to staff its police department. Oakland officials said they preferred to regulate and tax the cannabis industry rather than drive it on to street corners, and the city sued the federal government to keep Harborside open.  Abraham Simmons, a spokesman for US attorney Brian Stretch in San Francisco, confirmed that the government dismissed its legal action seeking to close Harborside. Nonetheless, he added that his office would \u201ccontinue to exercise its discretion in deciding where and how to enforce the Controlled Substances Act\u201d.",
+  "webTitle": "'Marijuana superstore' wins legal battle over medical pot shops in California",
+  "webPublicationDate": "2016-05-10T22:39:11Z",
+  "webUrl": "https://www.theguardian.com/society/2016/may/10/medical-marijuana-harborside-health-center",
+  "keyword": [
+    {
+      "webTitle": "Cannabis",
+      "id": "society/cannabis",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "California",
+      "id": "us-news/california",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Drugs",
+      "id": "society/drugs",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ronnie Cohen",
+      "id": "profile/ronnie-cohen"
+    }
+  ],
+  "guardianId": "society/2016/may/10/medical-marijuana-harborside-health-center"
+}

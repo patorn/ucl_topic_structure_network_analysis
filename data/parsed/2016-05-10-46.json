@@ -1,0 +1,17 @@
+{
+  "apiUrl": "https://content.guardianapis.com/news/2016/may/10/corrections-and-clarifications",
+  "id": "2016-05-10-46",
+  "sectionId": "news",
+  "body": "\u2022 An article about the Tesla Model 3 electric car said \u201cdriving 200 miles will use 65 kW of electricity. That\u2019s around \u00a36.50 during the day if you are on one of\u00a0the UK\u2019s cheapest tariffs (10p/kW), or \u00a311 on a standard tariff (around 17p/kW).\u201d All the references to kilowatts should have been to kilowatt-hours. Kilowatts are units of power, and kilowatt-hours are units of energy. A kilowatt-hour is a unit of energy equivalent to one kilowatt of power expended for one hour (At \u2018just\u2019 \u00a325,000, is this the electric car that means you\u2019re driving a bargain?, 7 May, page 41). \u2022 A piece celebrating Leicester City\u2019s Premier League victory went on to say that there were five good reasons why England might not win the European Championship this summer \u2013 Germany, Spain, Italy, France and Holland. Holland should not have been included in that list: the Dutch national team failed to qualify for Euro 2016 (So we\u2019re all Foxes now? I\u2019ve been one for 65 years, 7\u00a0May, page 1). \u2022 Hillary Clinton\u2019s first name was misspelled as Hilary in an article about the US election (Trump\u2019s policies may be incoherent but the fragile US economy gives him a real chance, 9 May, page 21). \u2022 Other recently corrected articles include: Unicef calls for 300 child refugees to be let into UK to attend school",
+  "webTitle": "Corrections and clarifications",
+  "webPublicationDate": "2016-05-10T20:00:39Z",
+  "webUrl": "https://www.theguardian.com/news/2016/may/10/corrections-and-clarifications",
+  "keyword": [],
+  "authors": [
+    {
+      "webTitle": "Corrections and clarifications column editor",
+      "id": "profile/editor-of-the-corrections-and-clarifications-column"
+    }
+  ],
+  "guardianId": "news/2016/may/10/corrections-and-clarifications"
+}

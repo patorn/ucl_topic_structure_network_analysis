@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/australia-news/2016/may/30/australian-reported-killed-fighting-kurdish-forces-against-isis",
+  "id": "2016-05-30-214",
+  "sectionId": "australia-news",
+  "body": "An Australian fighting with Kurdish forces against Islamic State in Syria has reportedly been killed. Kurdish social media sources said Jamie Bright, aged about 45, was killed in northern Raqqa on Wednesday last week. He is the third Australian known to have been killed fighting with Kurdish militia against Isis. In a video on 24 February, Bright said he \u201ccame to Kurdistan five months ago \u2026 because of the people, their struggle, their fight\u201d. \u201cI\u2019ve come to help in any way I can. Minefields, booby traps, demolitions.\u201d He said in other footage he wanted \u201cto help Rojava Kurdistan to be free\u201d. He gave his nom de guerre as Jabar Amed. Michelle Harding, whose son Reece was killed fighting with the Kurdish People\u2019s Protection Units (YPG), said Bright had \u201ckept a real low profile\u201d. Australian army reservist Ashley Johnston, 28, was killed in combat against Isis militants in February 2015. Several other Australians suspected of fighting with Kurdish forces have been detained on their return to Australia, including Queenslander Ashley Dyball and former Northern Territory Labor president Matthew Gardiner. Neither has been charged with foreign incursions offences. In Facebook posts on Monday, Dyball said Bright was \u201ca great man and a top bloke, your sacrifice will never be forgotten\u201d. Gardiner wrote that he was \u201ca friend, a comrade, a brother\u201d.   Related: Kurdish forces in big push against Islamic State in Iraq and Syria    Melbourne man Jamie Williams was arrested last year for attempting to travel to the region to fight. The federal attorney general\u2019s department elected not to pursue charges against Williams in February, suggesting Australians are unlikely to be prosecuted for fighting with the Kurdish group. The YPG is the fighting arm of the Democratic Union party, a political party that in 2014 declared three Kurdish cantons in northern Syria a de facto autonomous region named Rojava, or western Kurdistan. The claim is opposed by the national governments of Syria, Iraq and Turkey. A spokesman for the foreign affairs department said the government had very limited capacity to confirm reports of deaths in Syria. \u201cDue to the exceptionally dangerous security situation, Dfat is not able to provide consular assistance in Syria, which is listed as a do not travel destination in Dfat\u2019s travel advice,\u201d he said.",
+  "webTitle": "Australian man Jamie Bright reported killed fighting with Kurdish forces against Isis",
+  "webPublicationDate": "2016-05-30T00:20:23Z",
+  "webUrl": "https://www.theguardian.com/australia-news/2016/may/30/australian-reported-killed-fighting-kurdish-forces-against-isis",
+  "keyword": [
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Islamic State",
+      "id": "world/isis",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Syria",
+      "id": "world/syria",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Kurds",
+      "id": "world/kurds",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Middle East and North Africa",
+      "id": "world/middleeast",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Michael Safi",
+      "id": "profile/michael-safi"
+    }
+  ],
+  "guardianId": "australia-news/2016/may/30/australian-reported-killed-fighting-kurdish-forces-against-isis"
+}

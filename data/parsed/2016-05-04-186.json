@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/04/bbc-news-disabled-journalists-james-harding-diversity",
+  "id": "2016-05-04-186",
+  "sectionId": "media",
+  "body": "BBC News plans to earmark \u00a31m a year to recruit disabled journalists as part of a plan to improve the diversity of its workforce. In a meeting with staff on Wednesday, BBC head of news, James Harding, outlined plans to appoint more women, people with disabilities and those from black, Asian and minority ethnic (BAME) backgrounds into senior jobs.  His remarks come a week after the BBC as a whole pledged that half its 21,000-strong workforce and leadership would be female by 2020, 15% BAME and 8% disabled.    Related: The BBC's diversity strategy is not good enough    The BBC has so far struggled to reach targets on diversity set in 2014 by direct general Tony Hall. The Labour MP and former culture minister David Lammy accused the corporation of moving too slowly, saying \u201crhetoric has not been matched by real progress\u201d. In a speech to staff, Harding said: \u201cThe leadership and management of BBC News needs more women and more black people, more Asian and ethnic minority people, more people with disabilities, more people from a wider variety of social backgrounds and more young people. In the last couple of years, we have made a noticeable difference to what the BBC looks and sounds like on air. I\u2019d say it\u2019s not enough, but we have done a lot. I won\u2019t rattle off a list of names, but take a look or a listen to the news and you\u2019ll see.\u201d  He added: \u201cWe have got to provide more jobs and more senior ones for disabled journalists.\u201d Harding\u2019s division has been criticised this week for appointing an outsider, Dominic O\u2019Connell as business presenter on Radio 4\u2019s Today programme.  The proposals to recruit more disabled journalists across BBC News have been submitted for approval to the BBC\u2019s executive board. Harding, appointed in August 2013, also announced the formation of a new \u201cunder-30s panel\u201d to work with his senior management board \u201cto ensure younger voices are not just heard but are helping to shape our future\u201d. The new panel, made up of representatives from each department, is to start in September. The plans to improve diversity come ahead of a government white paper to renew the BBC\u2019s royal charter expected to discuss diversity is expected to be published as early as next week.",
+  "webTitle": "BBC News launches \u00a31m drive to recruit disabled journalists",
+  "webPublicationDate": "2016-05-04T12:52:45Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/04/bbc-news-disabled-journalists-james-harding-diversity",
+  "keyword": [
+    {
+      "webTitle": "BBC",
+      "id": "media/bbc",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "TV news",
+      "id": "media/tvnews",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Television industry",
+      "id": "media/television",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jane Martinson",
+      "id": "profile/janemartinson"
+    }
+  ],
+  "guardianId": "media/2016/may/04/bbc-news-disabled-journalists-james-harding-diversity"
+}

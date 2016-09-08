@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/books/2016/may/03/attractive-book-cover-russian-writer-teffi-shelf-life",
+  "id": "2016-05-03-298",
+  "sectionId": "books",
+  "body": "I know you can\u2019t judge a book by its cover. Nevertheless, I owe some of my best finds to the seduction of a jacket. Take Teffi, the Russian writer. A collection of her stories, Subtly Worded, arrived in the post courtesy of its publisher, Pushkin: a wonderful-looking book, small, almost square, comfortable in the hand, but diminutive enough to fit in even the most ludicrously girlish bag. Its cover, on which a small bird plucks the ribbon from a woman\u2019s hat, was the delicate colour of parma violets. How could I not open it?     Subtly Worded, by Teffi    Subtly Worded has an excellent introduction by its principal translator, Anne Marie Jackson, in which I learned that Teffi (1872-1952) was the pseudonym of Nadezhda Alexandrovna Lokhvitskaya, and that in the years before the revolution she was a star whose fans included, somewhat terrifyingly, both Lenin and Nicholas II. (Pushkin publishes her account of her frantic journey into exile, Memories: From Moscow to the Black Sea, this week.) Not that she took her celebrity too seriously. One day, an admirer sent her some chocolates, each one decorated with her portrait. Thrilled, she guzzled them until they were almost gone: \u201cI had gorged on fame until I\u2019d made myself ill. That\u2019s when I understood its flip side.\u201d These intensely beady stories and sketches \u2013 a blend of fact and fiction \u2013 are amazingly modern, as easy to devour as, well, a box of chocolates. The title story addresses the growing anxieties of Russian \u00e9migr\u00e9s in Paris, where she made her home (\u201cThe letter contained the following news: Everything\u2019s splendid here. Anita has died from a strong appetite\u2026 \u2018He must mean appendicitis,\u2019 I guessed\u201d), while Petrograd Monologue is a dispatch from the other side (\u201cMadam Bolonkina says you can use face powder to make flatbread\u2026\u201d) Most vivid of all is Rasputin, an account of the two meetings its author had with the Romanov\u2019s dastardly peasant friend \u2013 and of his bizarre effect on others. According to Teffi, Rasputin was afraid of writers, and when you read this, you realise he was right to be. She makes him, in his pink taffeta shirt, so horribly creepy: a violent flirt, with all the emphasis on the word \u201cviolent\u201d. Which brings us back to where we started. No, you can\u2019t judge a book by its cover. Pretty though it is, this one\u2019s heart is neither lilac nor mauve. It\u2019s inky black, and all the better for it.",
+  "webTitle": "A beguiling jacket with a Russian doll inside",
+  "webPublicationDate": "2016-05-03T08:00:49Z",
+  "webUrl": "https://www.theguardian.com/books/2016/may/03/attractive-book-cover-russian-writer-teffi-shelf-life",
+  "keyword": [
+    {
+      "webTitle": "Short stories",
+      "id": "books/short-stories",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Books",
+      "id": "books/books",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Fiction",
+      "id": "books/fiction",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Russia",
+      "id": "world/russia",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Rachel Cooke",
+      "id": "profile/rachelcooke"
+    }
+  ],
+  "guardianId": "books/2016/may/03/attractive-book-cover-russian-writer-teffi-shelf-life"
+}

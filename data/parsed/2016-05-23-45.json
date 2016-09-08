@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/23/ruth-davidson-conservative-party-prime-minister",
+  "id": "2016-05-23-45",
+  "sectionId": "politics",
+  "body": "Ruth Davidson, the Scottish Conservative leader, has denied that she would like to be prime minister, describing it as \u201cthe loneliest job in the world\u201d \u2013 but would only rule out standing as a Westminster MP \u201cfor now\u201d.   Related: Scottish voting trends show how Tories benefit while Labour flounders    Davidson, who announced on Monday that she had become engaged to her partner, Jennifer, has helped to transform the Tories\u2019 image in Scotland. They overtook Labour to become the second party in the Scottish parliament at elections earlier this month, with about 22% of the vote. Her working-class background and populist appeal means some in Westminster see her as a potential future leader, who could broaden the party\u2019s appeal and help tackle perceptions it is on the side of the privileged. Asked in an interview with House magazine, a publication aimed at MPs, Davidson said she did not covet David Cameron\u2019s job. \u201cI genuinely don\u2019t think I will ever do anything more important in politics than this critical period of keeping the UK together. I\u2019m in a hugely privileged position in that I get to regularly see behind the door at No 10 and it looks like the loneliest job in the world and I do not seek it,\u201d she said. However, asked whether she would rule out standing as an MP in future, Davidson said: \u201cI\u2019m certainly ruling it out for now because I\u2019ve got a pretty bloody big job. It\u2019s now become a bigger and much more interesting job to be an MSP than it is to be an MP from Scotland sitting on the backbenches.\u201d With senior Conservatives attacking each other almost daily during the closely-fought referendum campaign over Britain\u2019s future in the European Union, Davidson talked about the task facing the prime minister in reunifying the government after 23 June. She said justice secretary Michael Gove, who chairs the Vote Leave campaign, could be critical in helping to end the civil war in the party when the campaign is over. \u201cThere\u2019s a responsibility within key people within the party. I think somebody like a Michael Gove figure is very important in bringing the party back together, in terms of the Cabinet coming back together,\u201d she said. She claimed the Tories had \u201ca sense of duty\u201d to continue in government, because of the turmoil in the Labour party. \u201cDon\u2019t underestimate the sense of duty that Conservatives have to make sure we continue as a government,\u201d she said. \u201cBecause if not us, my God it can\u2019t be the other lot given the state they\u2019re in.\u201d",
+  "webTitle": "Ruth Davidson: I don't want to be prime minister",
+  "webPublicationDate": "2016-05-23T19:11:28Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/23/ruth-davidson-conservative-party-prime-minister",
+  "keyword": [
+    {
+      "webTitle": "Conservatives",
+      "id": "politics/conservatives",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Ruth Davidson",
+      "id": "politics/ruth-davidson",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Scottish politics",
+      "id": "politics/scotland",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Scotland",
+      "id": "uk/scotland",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Heather Stewart",
+      "id": "profile/heatherstewart"
+    }
+  ],
+  "guardianId": "politics/2016/may/23/ruth-davidson-conservative-party-prime-minister"
+}

@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/19/britvic-change-recipes-sugar-tax-profit-rise",
+  "id": "2016-05-19-104",
+  "sectionId": "business",
+  "body": "Britvic plans to change the recipes for more of its drinks in order to avoid the sugar tax, which is expected to be introduced in the UK in 2018. Government plans for the tax were confirmed in the Queen\u2019s speech on Wednesday. The Britvic chief executive, Simon Litherland, said the company was aiming to cut the calories in its products by 20% within four years. There had been concerns that it would be affected by shoppers making healthier choices, but Britvic said pre-tax profit rose by 7.3% to \u00a354.5m in the year to 10 April. Sales were up by 5% to \u00a3678m, driven by strong growth for Pepsi and sugar-free Pepsi Max in the UK, and Ballygowan water in Ireland. Britvic said the introduction of legislation on sugar-sweetened drinks is one of the principal risks facing the business. Two-thirds of the drinks that Britvic sells, which include Robinsons squash, Fruit Shoot, Pepsi and J2O, currently fall below the proposed threshold for the tax, which was announced in March by George Osborne, the chancellor. However, Litherland admitted that cutting sugar did not always boost sales: the company lost sales after ditching the added-sugar version of Robinsons because shoppers switched to other brands. The sugar tax is not the only problem facing Britvic. UK sales were also hit by supermarket price wars. The price of squash in the UK declined by 3.9% over the six months, more than twice the rate of the same period a year earlier. Litherland said: \u201cI don\u2019t anticipated things getting any better in the short term.\u201d Falling prices were partly being fuelled by a drop in input costs, but they were likely to rise again next year, he added.",
+  "webTitle": "Britvic to change recipes for more of its drinks to avoid sugar tax",
+  "webPublicationDate": "2016-05-19T16:51:20Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/19/britvic-change-recipes-sugar-tax-profit-rise",
+  "keyword": [
+    {
+      "webTitle": "Britvic",
+      "id": "business/britvic",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Food & drink industry",
+      "id": "business/fooddrinks",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Sugar",
+      "id": "society/sugar",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Tax and spending",
+      "id": "politics/taxandspending",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Sarah Butler",
+      "id": "profile/sarahbutler"
+    }
+  ],
+  "guardianId": "business/2016/may/19/britvic-change-recipes-sugar-tax-profit-rise"
+}

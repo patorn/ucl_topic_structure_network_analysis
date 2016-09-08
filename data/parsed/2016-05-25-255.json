@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/25/neil-young-donald-trump-rockin-in-the-free-world",
+  "id": "2016-05-25-255",
+  "sectionId": "music",
+  "body": "Neil Young \u2013 a confessed Bernie Sanders supporter \u2013 has approved Donald Trump\u2019s use of his music on the campaign trial.   Related: Donald Trump rocks to the left with REM songjacked    Almost a year after the Canadian artist protested against the Republican representative\u2019s use of Rockin\u2019 in the Free World at a rally, Young has adjusted his position on the situation, saying that he has \u201cnothing against him\u201d but simply wanted to be given approval of the decision. Referring to the claim Trump\u2019s team made about an agreement with the American Society of Composers, Authors and Publishers for the right to play the track from his 1989 album Freedom, Young said:  \u201cHe actually got a licence to use it. I mean, he said he did and I believe him. So I got nothing against him. You know, once the music goes out, everybody can use it for anything. But if the artist who made it is saying you never spoke to them, if that means something to you, you probably will stop playing it. And it meant something to Donald and he stopped.\u201d He added: \u201cThe fact that I said I was for Bernie Sanders and then he didn\u2019t ask me to use Rockin\u2019 in the Free World doesn\u2019t mean that he can\u2019t use it.\u201d In June 2015, Young released a statement about the use of his song at Trump\u2019s campaign rally. \u201cHad I been asked to allow my music to be used for a candidate, I would have said no,\u201d he said. \u201cI am Canadian and I don\u2019t vote in the United States, but more importantly I don\u2019t like the current political system in the USA and some other countries. Increasingly democracy has been hijacked by corporate interests. The money needed to run for office, the money spent on lobbying by special interests, the ever increasing economic disparity and the well-funded legislative decisions all favour corporate interests over the people\u2019s.\u201d  It\u2019s likely that Trump has since lost interest in using the track anyway. Following Young\u2019s initial statement last year, he tweeted:    .@Neilyoung\u2019s song, \u201cRockin\u2019 In The Free World\u201d was just one of 10 songs used as background music. Didn\u2019t love it anyway.\u2014 Donald J. Trump (@realDonaldTrump) June 24, 2015",
+  "webTitle": "Neil Young permits Trump to Keep on Rockin'",
+  "webPublicationDate": "2016-05-25T08:07:42Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/25/neil-young-donald-trump-rockin-in-the-free-world",
+  "keyword": [
+    {
+      "webTitle": "Neil Young",
+      "id": "music/neilyoung",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Donald Trump",
+      "id": "us-news/donaldtrump",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Pop and rock",
+      "id": "music/popandrock",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "US politics",
+      "id": "us-news/us-politics",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian music",
+      "id": "profile/guardianmusic"
+    }
+  ],
+  "guardianId": "music/2016/may/25/neil-young-donald-trump-rockin-in-the-free-world"
+}

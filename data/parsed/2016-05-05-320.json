@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/money/2016/may/05/rents-continue-rise-uk-london",
+  "id": "2016-05-05-320",
+  "sectionId": "money",
+  "body": "The average cost of renting a property outside London rose by 5.1% in the 12 months to April, while tenants in the capital faced a 7.7% increase, according to the latest figures from referencing firm HomeLet. Its index, which is based on new lets agreed by landlords and agents using its service, shows that in the three months to April 2016 the average rent outside London rose to \u00a3764 a month. Within Greater London the monthly outlay for tenants hit an average of \u00a31,543. The figures cover the first month after new higher stamp duty charges were introduced on second homes and investment properties, and show increases in line with those recorded in previous months.   Related: Would a rent cap work for tenants facing \u00a31,000-a-month rises?    HomeLet said rents were rising faster in Scotland than anywhere else in the UK, with the average up by 11.4% year-on-year to \u00a3704 a month. The next highest rise was in the east Midlands, where new tenancies cost 7.9% more than in April 2015 at an average of \u00a3646 a month. In the north-west of England rents on new tenancies were down by 1% year-on-year. Martin Totty, chief executive of Barbon Insurance Group, which owns HomeLet, said: \u201cIt may be that over the next several months the trends observed in the rental market begin to reflect the signs of some slowdown in the rate of house price growth that we are now beginning to see, and that will be something to watch closely.  \u201cBut more broadly there has been very little to alter the fundamental relationship between demand and supply, especially in those parts of the country where demand-side pressure is greatest.\u201d Totty said landlords could be \u201cfeeling the squeeze\u201d after taxation changes, with changes to the wear and tear allowance landlords can claim coming alongside the stamp duty surcharge.  \u201cWe will have to see whether landlords try to pass their higher costs on, whether buy-to-let property investment diminishes in popularity and whether tenants are able to afford further increases in rents,\u201d he said. On Friday, the Office for National Statistics reported that rents in Great Britain rose by 2.6% in the 12 months to March. Its index aims to capture what is happening to rents on existing tenancies as well as newly agreed lets.  This article was amended on 5 May 2016. An earlier version said in the subheading and text that the average UK rent in April outside London was \u00a3755 a month. In fact it was \u00a3764 in April (\u00a3755 in March).",
+  "webTitle": "Rents continue to rise across the UK and in London",
+  "webPublicationDate": "2016-05-05T06:01:44Z",
+  "webUrl": "https://www.theguardian.com/money/2016/may/05/rents-continue-rise-uk-london",
+  "keyword": [
+    {
+      "webTitle": "Renting property",
+      "id": "money/renting",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Property",
+      "id": "money/property",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Housing",
+      "id": "society/housing",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Communities",
+      "id": "society/communities",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Hilary Osborne",
+      "id": "profile/hilaryosborne"
+    }
+  ],
+  "guardianId": "money/2016/may/05/rents-continue-rise-uk-london"
+}

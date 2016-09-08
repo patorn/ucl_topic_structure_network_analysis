@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/12/bbc-chief-danny-cohen-len-blavatnik-access-industries",
+  "id": "2016-05-12-197",
+  "sectionId": "media",
+  "body": "Danny Cohen, the BBC former director of television, has joined the company that owns Warner Music as head of new entertainment division with hundreds of millions earmarked for investment in high-end TV, film, digital and theatrical productions. Cohen is to join Len Blavatnik\u2019s Access Industries, which holds a raft of investments including in music service Deezer and digital media company Perform. In his new role Cohen will have an initial budget of \u201cseveral hundred million dollars\u201d to invest in entertainment media globally.  Cohen has taken on the role of president at newly-formed business Access Entertainment which will focus on investments across the \u201centertainment sector with a concentration in high-quality television, films and theatrical productions\u201d. \u201cOur ambition is to work with the world\u2019s most talented creatives in environments that allow them to do their best work,\u201d said Cohen, who left the corporation after eight years last October. \u201cOur investments will be wide-ranging: companies, people, television series, movies, theatrical productions and innovative digital opportunities. We will earn a reputation for quality, innovation and commitment to great talent.\u201d Access said that in his new role Cohen will be responsible for seeking out \u201ccreative and strategic business opportunities\u201d globally as well as working closely with Warner Music, the world\u2019s third largest music group, as well as other Access-owned companies. Access has media investments including AI Film, the London-based film finance and executive production company with credits including Ian McKellen film Mr Holmes, and a majority stake in Amedia, Russia\u2019s largest producer of TV series. \u201cI look forward to working closely with Danny,\u201d said Blavatnik, founder and chairman of Access Industries. \u201cDanny\u2019s extensive experience and network will be invaluable as we identify and develop new media and entertainment investment opportunities.\u201d",
+  "webTitle": "Ex-BBC TV chief Danny Cohen joins Len Blavatnik\u2019s Access Industries",
+  "webPublicationDate": "2016-05-12T13:24:53Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/12/bbc-chief-danny-cohen-len-blavatnik-access-industries",
+  "keyword": [
+    {
+      "webTitle": "Danny Cohen",
+      "id": "media/danny-cohen",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "BBC",
+      "id": "media/bbc",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Television industry",
+      "id": "media/television",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Len Blavatnik",
+      "id": "business/len-blavatnik",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Music industry",
+      "id": "business/musicindustry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Mark Sweney",
+      "id": "profile/marksweney"
+    }
+  ],
+  "guardianId": "media/2016/may/12/bbc-chief-danny-cohen-len-blavatnik-access-industries"
+}

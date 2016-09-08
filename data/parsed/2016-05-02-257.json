@@ -1,0 +1,84 @@
+{
+  "apiUrl": "https://content.guardianapis.com/australia-news/2016/may/02/the-budget-according-to-facebook-tax-and-negative-gearing-users-central-concerns",
+  "id": "2016-05-02-257",
+  "sectionId": "australia-news",
+  "body": "Tax, and particularly negative gearing, is at the top of the list of issues interesting Australians before the budget announcement, according to data from Facebook. But climate change also features prominently \u2013 despite its not being a focal point of Malcolm Turnbull\u2019s pre-budget announcements. On the eve of the budget in Canberra, Facebook released analysis of 14m Australian Facebook users\u2019 related conversations on the platform from 21 March, when Turnbull announced he was bringing the date forward by a week, to 27 April. Tax \u2013 and especially negative gearing \u2013 dominated 70% of budget-related conversations over the six-week period. But the topics of climate change, \u201cbig business\u201d and asylum seekers also featured prominently in posts on Facebook by Australians discussing the budget.   Related: How negative gearing replaced the great Australian dream and distorted the economy | Greg Jericho    Broken down by pairs of words most commonly used in discussion, \u201cnegative gearing\u201d was No 1, ahead of \u201cclimate change\u201d, \u201cincome tax\u201d, \u201cbig business\u201d and \u201casylum seekers\u201d. Politicians and parties dominated the list of budget-related terms, with the prime minister at the top. But \u201cnegative gearing\u201d appeared at ninth place in the list of 15, ahead of \u201cclimate change\u201d. Though negative gearing has been the subject of much media coverage and discussion, pre-budget announcements have indicated that climate change will not be a centrepiece of the Turnbull budget on Tuesday. Those Facebook users discussing the budget were mostly older \u2013 particularly men aged 45-54 and women aged 55-64 \u2013 and based in rural electorates, with Richmond, Page, Lyne, Dawson and Macquarie (encompassing outer western Sydney and the Blue Mountains) the sites of the most related conversation. There is a strong concentration of users on the northern New South Wales coast and coastal and mid-Queensland. Politicians have also been more active in the lead-up to the announcement. The platform singled out the treasurer, Scott Morrison, and the Labor leader, Bill Shorten, for their engagement with Facebook in the lead-up to the budget, with Morrison posting daily videos.",
+  "webTitle": "The budget according to Facebook: tax and negative gearing are users' key concerns",
+  "webPublicationDate": "2016-05-02T04:36:19Z",
+  "webUrl": "https://www.theguardian.com/australia-news/2016/may/02/the-budget-according-to-facebook-tax-and-negative-gearing-users-central-concerns",
+  "keyword": [
+    {
+      "webTitle": "Australian budget 2016",
+      "id": "australia-news/australian-budget-2016",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australian immigration and asylum",
+      "id": "australia-news/australian-immigration-and-asylum",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Facebook",
+      "id": "technology/facebook",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Australian politics",
+      "id": "australia-news/australian-politics",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Malcolm Turnbull",
+      "id": "australia-news/malcolm-turnbull",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Tax (Australia)",
+      "id": "australia-news/tax-australia",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Climate change",
+      "id": "science/scienceofclimatechange",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Scott Morrison",
+      "id": "australia-news/scott-morrison",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Bill Shorten",
+      "id": "australia-news/bill-shorten",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Social media",
+      "id": "media/social-media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Elle Hunt",
+      "id": "profile/elle-hunt"
+    }
+  ],
+  "guardianId": "australia-news/2016/may/02/the-budget-according-to-facebook-tax-and-negative-gearing-users-central-concerns"
+}

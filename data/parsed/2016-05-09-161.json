@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/09/charlton-granted-permission-northampton-chris-wilder",
+  "id": "2016-05-09-161",
+  "sectionId": "football",
+  "body": "Charlton Athletic have been granted permission to discuss their managerial vacancy with Northampton Town\u2019s Chris Wilder and his assistant Alan Knill. Wilder, who guided Northampton to the League Two title this season, is expected to now discuss a potential move to The Valley.   Related: Chris Wilder turns nightmare into fairytale for proud Northampton | Barry Glendenning    \u201cNorthampton Town Football Club can confirm that this morning the club received an official approach from Charlton Athletic Football Club for the services of manager Chris Wilder and assistant manager Alan Knill,\u201d read a statement on the club\u2019s website on Monday. \u201cDue to release clauses in their existing contracts, the club have regrettably given permission for talks to take place. Kelvin Thomas, the chairman, added: \u201cAs is common knowledge I have an excellent relationship with both Chris and Alan, and we as a club and myself personally would obviously be very sorry to see them go. \u201cWe had already begun discussions about much-improved new deals, but I think it is fair to say we would not be able to match both the salary and the playing budget for next season that a club the size of Charlton could offer. \u201cWe have known for a while that Chris and Alan would be targets due to the fantastic success they have achieved, and together we have already turned down some interest from other clubs, but after discussions this morning I respect their decision to meet Charlton.\u201d However, Wilder, the former Sheffield United defender who has also managed Oxford, admitted that he faced a tough decision. \u201cMy relationship with the chairman and the fans is going to make this a very difficult decision, but I do feel at this stage of my career it is one I need to explore,\u201d he said.",
+  "webTitle": "Charlton granted permission to speak to Northampton manager Chris Wilder",
+  "webPublicationDate": "2016-05-09T14:04:39Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/09/charlton-granted-permission-northampton-chris-wilder",
+  "keyword": [
+    {
+      "webTitle": "Charlton Athletic",
+      "id": "football/charltonathletic",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Northampton",
+      "id": "football/northampton",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "League One",
+      "id": "football/leagueonefootball",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "football/2016/may/09/charlton-granted-permission-northampton-chris-wilder"
+}

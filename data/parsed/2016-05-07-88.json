@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/07/south-yorkshire-police-chief-to-be-quizzed-over-hillsborough-spin-claims",
+  "id": "2016-05-07-88",
+  "sectionId": "uk-news",
+  "body": "South Yorkshire\u2019s re-elected police and crime commissioner is to quiz his force\u2019s chief constable over claims a former communications specialist was leant on to \u201cspin\u201d coverage of the Hillsborough inquests.   Related: Hillsborough: South Yorkshire police 'tried to spin' inquests evidence    Alan Billings, who was re-elected as Labour PCC for South Yorkshire on 5 May, is to raise the issue on Monday with Dave Jones, the interim chief constable. Hayley Court had told the Guardian she was instructed to emphasise evidence considered favourable to South Yorkshire police to journalists attending the hearings, including allegations of misbehaviour by Liverpool supporters. Jones was brought in from North Yorkshire following the suspension of South Yorkshire chief constable David Crompton in the wake of the verdicts at the recent inquests into the deaths of 96 people in the Hillsborough disaster. Court said she felt duty-bound to expose the South Yorkshire police\u2019s media strategy \u2013 which she said she refused to follow and always complained was unethical \u2013 now the inquests had concluded, with the jury\u2019s verdicts of unlawful killing and the exoneration of supporters. \u201cThe South Yorkshire police, having made a full apology for the Hillsborough disaster in 2012, should not have been seeking to spread the blame on to others, including Liverpool supporters, at the inquests, and seeking to influence the media to take that line,\u201d Court said. In its statement in response, South Yorkshire police acknowledged Court\u2019s \u201cserious concerns\u201d about her role within its Hillsborough team. \u201cIt is clear that the staff member remains concerned about her experiences, and following the outcome of the Hillsborough inquests, we would like to talk to her and give these matters further consideration.\u201d Last month, an inquest jury determined that the 96 people who died at the Sheffield Wednesday stadium in 1989 were unlawfully killed and a catalogue of failings by police and the ambulance services contributed to their deaths. The verdict, which came shortly after the 27th anniversary of the lethal crush at the FA Cup semi-final between Liverpool and Nottingham Forest, vindicated the bereaved families, who have long campaigned against the police\u2019s efforts to blame supporters for the tragedy. The jury of six women and three men answered 14 questions relating to the events of 15 April 1989, including one concerning the behaviour of supporters. Barristers for police officers at the new inquests had repeatedly emphasised allegations of drunkenness and misbehaviour, while the families\u2019 lawyers denounced them as \u201cperpetuating the cover-up\u201d.",
+  "webTitle": "South Yorkshire police chief to be quizzed over Hillsborough 'spin' allegations",
+  "webPublicationDate": "2016-05-07T16:00:06Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/07/south-yorkshire-police-chief-to-be-quizzed-over-hillsborough-spin-claims",
+  "keyword": [
+    {
+      "webTitle": "Police",
+      "id": "uk/police",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Police and crime commissioners",
+      "id": "uk/police-and-crime-commissioners",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Hillsborough disaster",
+      "id": "football/hillsborough-disaster",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Yorkshire",
+      "id": "uk-news/yorkshire",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jamie Grierson",
+      "id": "profile/jamie-grierson"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/07/south-yorkshire-police-chief-to-be-quizzed-over-hillsborough-spin-claims"
+}

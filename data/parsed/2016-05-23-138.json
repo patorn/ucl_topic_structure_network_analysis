@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/lifeandstyle/2016/may/23/microsoft-windows-ten-10-software-update-problems-iplayer",
+  "id": "2016-05-23-138",
+  "sectionId": "lifeandstyle",
+  "body": "I\u2019m sitting at my computer, getting on with my work, when suddenly an unseen hand takes over. It stops my work and starts an update, which I can not stop, never asked for and do not want, from Windows 7 to Windows 10. Red alert! Where is my work? What the hell is happening to my computer? \u201cYour computer?\u201d says Clayden scornfully, and he is right. I\u2019m sitting in my home, at my desk, using a computer that I think belongs to me, but it doesn\u2019t. It seems to belong to Microsoft, because they\u2019re in charge of it. They\u2019ve poked their way into my living room, stopped me working, sabotaged my printer, which was specially set up to match Windows 7, stopped the sound on iPlayer, wasted hours of my time while I fiddle about trying to find files and sort out how this wretched new system works. They\u2019ve given me a fright, ruined my day, and possibly my life, because I think I\u2019ve lost the bulk of my documents. An annoying little notice rears up in the corner of my screen. \u201cI\u2019m Cortana,\u201d it says. \u201cAsk me anything.\u201d Here\u2019s a machine telling me what to do, and I\u2019m falling for it. Because I just wrote: \u201cIt says\u201d. No, it doesn\u2019t. It can\u2019t speak. It\u2019s a sodding machine, taking over. I moan at Fielding, who\u2019s cheesed off with his Mac, which has also sabotaged his iPlayer. He must update it. It\u2019s only four years old. But this is the age of built-in obsolescence, AKA rubbish, guaranteed not to last. \u201cAre you sure you haven\u2019t turned yours off?\u201d he asks. No. It\u2019s on. I can see the little lights glimmering. There\u2019s just no sound or sense to it. How dare Microsoft intrude on my private life like this? What a bloody cheek. And I am not alone. They\u2019ve been doing these updates since July last year, although they claim they don\u2019t install them without users\u2019 permission. Whatever\u2019s going on, they need to fix it like they promised. Because it\u2019s still happening. So I\u2019m stuck here, waiting for them to come and fix it. How long do you think they\u2019ll be?",
+  "webTitle": "Microsoft has ruined my day, and possibly my life",
+  "webPublicationDate": "2016-05-23T14:47:11Z",
+  "webUrl": "https://www.theguardian.com/lifeandstyle/2016/may/23/microsoft-windows-ten-10-software-update-problems-iplayer",
+  "keyword": [
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Windows",
+      "id": "technology/windows",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Windows 10",
+      "id": "technology/windows-10",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Windows 7",
+      "id": "technology/windows-7",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Michele Hanson",
+      "id": "profile/michelehanson"
+    }
+  ],
+  "guardianId": "lifeandstyle/2016/may/23/microsoft-windows-ten-10-software-update-problems-iplayer"
+}

@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/17/tell-us-how-the-uks-fishing-industry-will-be-affected-by-the-eu-referendum",
+  "id": "2016-05-17-157",
+  "sectionId": "environment",
+  "body": "Fishing leaders have told a parliamentary committee that their members are facing a \u201ctotal lack of evidence\u201d about how the UK would cope with Brexit. The president of the Scottish Fishermen\u2019s Federation, Ross Dougal, told the Scottish affairs select committee that the majority of his members were in favour of leaving the European Union, prompted by \u201cmicro-management and top-down management\u201d of the controversial common fisheries policy. The majority of the industry are \u201cno fans\u201d of the EU, having suffered cuts to quotas and fishing time under the common fisheries policy.    Related: Leaked European commission plan would open gates to overfishing    Dougal added: \u201cWhat we don\u2019t know is, if there is a Brexit what happens next? Fishing is devolved so, apart from dealing with Europe, Scotland also has a concordat with England, Wales and Northern Ireland. If there is a Brexit and the UK takes back control, does that mean that Scotland still has competence? The majority of fish is in Scottish waters, mainly around Shetland. Have we got the expertise to sort this all out?\u201d Debates about how the EU referendum will affect the industry are not limited to Scotland. Boris Johnson has said that there would be a \u201cbig chance for a better arrangement on fisheries\u201d in Northern Ireland, and Nigel Farage said that the industry would be \u201ctransformed\u201d and that leaving the EU \u201cwould be a real boon\u201d. Whether you are voting for the UK to leave or remain in the EU we\u2019d like to hear how you will be affected. What\u2019s the fishing community like where you are? How are you dealing with quotas and less fishing time? Are you pro-Europe or do you think the industry will benefit from leaving? Wherever you live in the UK share your views with us by filling in our form below. We\u2019ll feature some of your contribution in our ongoing reporting.",
+  "webTitle": "Tell us how the UK's fishing industry will be affected by the EU referendum",
+  "webPublicationDate": "2016-05-17T13:14:21Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/17/tell-us-how-the-uks-fishing-industry-will-be-affected-by-the-eu-referendum",
+  "keyword": [
+    {
+      "webTitle": "Fishing",
+      "id": "environment/fishing",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian readers",
+      "id": "profile/guardian-readers"
+    }
+  ],
+  "guardianId": "environment/2016/may/17/tell-us-how-the-uks-fishing-industry-will-be-affected-by-the-eu-referendum"
+}

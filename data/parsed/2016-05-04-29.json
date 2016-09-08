@@ -1,0 +1,49 @@
+{
+  "apiUrl": "https://content.guardianapis.com/news/2016/may/04/el-nino-india-south-east-asia-heatwave-temperatures-storms-australia",
+  "id": "2016-05-04-29",
+  "sectionId": "news",
+  "body": "India and many parts of south-east Asia have been struggling with a severe heatwave, caused in part by the El Ni\u00f1o conditions across the Pacific. El Ni\u00f1o, characterised by warmer than normal Pacific equatorial waters, has continued for several months and has been the strongest such event on record.   Related: Delhi schools ordered to close early for summer as temperatures soar    Although the El Ni\u00f1o has begun to weaken rapidly in recent weeks its effects are still being felt, especially in exacerbating the hot and dry conditions across India and south-east Asia. Temperatures in Thailand exceeded 40C (104F) every day during April, while neighbouring Cambodia and Laos have set all-time temperature records during the heatwave. The Indian state of Bihar last week implemented a ban on cooking between 9am and 6pm, in an attempt to prevent accidental fires. Meanwhile in Darwin, Australia, the start of the dry season was interrupted on Tuesday by a storm that brought torrential rain and frequent lightning. At at Darwin airport 47.2mm (1.85in) of rain was recorded in 90 minutes, more than twice the average rainfall for the whole of May. The recent wet season in Darwin has been unusually dry, another symptom of the strong El Ni\u00f1o. Further south in Australia, there was heavy rain and damaging winds across Tasmania and Victoria over the past few days as an active cold front moved through. Wind gusts exceeded 60mph in places, bringing down trees and damaging buildings, and waves in excess of six metres battered many western coastal areas.",
+  "webTitle": "El Ni\u00f1o weakens, but India and south-east Asia heatwave continues",
+  "webPublicationDate": "2016-05-04T20:30:32Z",
+  "webUrl": "https://www.theguardian.com/news/2016/may/04/el-nino-india-south-east-asia-heatwave-temperatures-storms-australia",
+  "keyword": [
+    {
+      "webTitle": "El Ni\u00f1o southern oscillation",
+      "id": "environment/elnino",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "India",
+      "id": "world/india",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Asia Pacific",
+      "id": "world/asia-pacific",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Natural disasters and extreme weather",
+      "id": "world/natural-disasters",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Meteorology",
+      "id": "science/meteorology",
+      "sectionId": "science",
+      "sectionName": "Science"
+    }
+  ],
+  "authors": [],
+  "guardianId": "news/2016/may/04/el-nino-india-south-east-asia-heatwave-temperatures-storms-australia"
+}

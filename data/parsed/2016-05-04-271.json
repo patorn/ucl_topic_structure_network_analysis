@@ -1,0 +1,84 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media-network/2016/may/04/talkshow-troll-free-chat-platform-attract-celebrities-brands-publishers",
+  "id": "2016-05-04-271",
+  "sectionId": "media-network",
+  "body": "The free and open nature of Twitter is both its greatest strength and its own worst enemy. I like what it stands for and what it can mean for society, but the conversations happening on Twitter are all over the place. Michael Sippey, the former vice-president of product at Twitter, founded a new company that may fix this problem. Talkshow hosts invitation-only conversations that the public can follow. The product launched last week. In real life people aren\u2019t invited to participate in every conversation. Most of the time we just talk to people we know. But sometimes those conversations can be worth publishing.  People do this already, despite the fact that the platforms where they publish those conversations aren\u2019t designed for this use. People post text message screenshots on Instagram. News organisations curate the best tweets from a live event. Radio, TV and print media may even find it funny that now there is a digital platform offering something they have done for decades. To date, nobody has done it quite like this. Talkshow is a stage for people to broadcast a conversation. Everyone can follow it, but people can\u2019t just join in. This creates interesting possibilities for celebrities, politicians, brands and, as always, media companies. \u201cTalkshow could be great as a way to do interviews,\u201d said Sippey. \u201cYou can control who is in the conversation with you and really guide the flow of the discussion.\u201d It could also offer new options for the popular liveblog format that newsrooms rely on for important events that are unfolding. The live conversation works really well for sports, election coverage, breaking news, and any kind of live event. \u201cYou can host a show with people who are anywhere, which means that you can have diverse perspectives on a single event, from multiple locations, all sharing their perspective in real time,\u201d said Sippey. It\u2019s easy to imagine a snarky sports commentator inviting a few friends into a channel for a public conversation during a big match. Perhaps a new kind of news anchorperson will host a news broadcast with a collection of editors in a more interesting format than the website homepage of today. Who sees these chats? The shows are embeddable on a webpage, so it could be used like a liveblog CMS, similar to the way some people were using Tumblr to manage liveblogs several years ago, or more like CoverItLive.  Maybe these things didn\u2019t need to be reinvented, but the public-private relationships that the social platforms create have confused a lot of people in the past. Twitter has been unclear about who can send private messages to whom. And it\u2019s way too easy to say something meant for one person that goes out to everyone. Facebook blends public and private so fluidly that you never really know what\u2019s what. Talkshow, on the other hand, puts clear boundaries around the space by making the membership of a conversation exclusive and the content of that conversation public. It\u2019s a digital stage. Talkshow seems like one of those things that already exists. But when you look around you realise that it\u2019s doing something really simple that nobody else has done properly. The hook that makes me think this is different, and perhaps really great, is that it is so mobile friendly. It uses the web as an output and respects URLs and embedding concepts, but it is really mobile-first. It works like the messaging apps that we\u2019re all using now, whereas many of the tools publishers are using for this kind of activity get refactored for mobile consumption rather than generated via pure mobile tools. At minimum, it solves a lot of the challenges media companies struggle with on Twitter, Facebook and now the messaging platforms. Talkshow is certainly in my ones to watch list for 2016. To get weekly news analysis, job alerts and event notifications direct to your inbox, sign up free for Media & Tech Network membership. All Guardian Media & Tech Network content is editorially independent except for pieces labelled \u201cPaid for by\u201d \u2013 find out more here.",
+  "webTitle": "Talkshow\u2019s troll-free chat platform could attract celebrities, brands and publishers",
+  "webPublicationDate": "2016-05-04T09:23:08Z",
+  "webUrl": "https://www.theguardian.com/media-network/2016/may/04/talkshow-troll-free-chat-platform-attract-celebrities-brands-publishers",
+  "keyword": [
+    {
+      "webTitle": "Media & Tech Network",
+      "id": "media-network/media-network",
+      "sectionId": "media-network",
+      "sectionName": "Media Network"
+    },
+    {
+      "webTitle": "Twitter",
+      "id": "technology/twitter",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Facebook",
+      "id": "technology/facebook",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Social networking",
+      "id": "media/socialnetworking",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Internet",
+      "id": "technology/internet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Blogging",
+      "id": "media/blogging",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Digital media",
+      "id": "media/digital-media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers & magazines",
+      "id": "media/pressandpublishing",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Tumblr",
+      "id": "technology/tumblr",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Matt McAlister",
+      "id": "profile/mattmcalister"
+    }
+  ],
+  "guardianId": "media-network/2016/may/04/talkshow-troll-free-chat-platform-attract-celebrities-brands-publishers"
+}

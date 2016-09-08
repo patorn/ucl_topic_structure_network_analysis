@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/australia-news/2016/may/05/malcolm-turnbulls-emails-using-private-server-could-be-major-security-risk-says-labor",
+  "id": "2016-05-04-32",
+  "sectionId": "australia-news",
+  "body": "Potentially \u201chundreds of emails\u201d that relate to national security matters could have been communicated over Malcolm Turnbull\u2019s private email server in what could amount to a \u201cmajor security risk\u201d, according to the shadow attorney general, Mark Dreyfus. The prime minister\u2019s office, in a response to a freedom of information request from Dreyfus obtained by Guardian Australia, said too many emails would need to be examined so it was refusing to process Dreyfus\u2019s request for them.   Related: Malcolm Turnbull\u2019s own department doesn't have access to his private email server    Turnbull\u2019s office said the prime minister always handled classified documents in accordance with the protective security policy framework. In October it was revealed he had been operating a separate email server outside the parliamentary email system, raising questions over both security implications and the potentially limited public access to the records under freedom of information and archive laws. Concerns about the use of the private server echo debate over the US presidential candidate Hillary Clinton\u2019s use of a private email server during her time as secretary of state. Her private emails are now being periodically released by the State Department. Dreyfus lodged a freedom of information request in November seeking access to documents on Turnbull\u2019s email server relating to national security, international relations and national security cabinet meetings.  He received a response this week from Turnbull\u2019s office, which said it would not be processing the request on the grounds that it would \u201cunreasonably interfere\u201d with its functions.   Related: Hillary Clinton made a mistake with private emails, says Barack Obama    \u201cThe terms of your request are broad,\u201d the response said. \u201cAs it covers documents that \u2018mention or relate to\u2019 the broad topics of national security and international relations and has no date limitation, processing would request examination of the content of hundreds of emails.\u201d The response indicated some of these documents would be relatively uncontroversial, and gave the example that emails would \u201crelate\u201d to Australia\u2019s international relations if they quoted or referred to a media article about Australia\u2019s relations with another country. The response said a keyword search for the term \u201cnational security committee of cabinet\u201d had been conducted and had found no documents. Dreyfus said the response was astonishing and called on the prime minister to give a full explanation. \u201cWithin this letter is an apparent admission that there are \u2018hundreds of emails\u2019 that relate to national security or international relations on prime minister Turnbull\u2019s private server,\u201d he said. \u201cI find this absolutely astonishing. \u201cPrime minister Turnbull has just spent $230m on a cyber security strategy. Yet he is apparently using private email servers, rather than secure government servers, to communicate sensitive information. This is a major security risk, and also raises significant transparency concerns. As head of Australian government, the prime minister must hold himself to the highest standards in these matters. \u201cMr Turnbull needs to give a full explanation as to why he is apparently using his private email for prime ministerial business, and commit to stopping this practice immediately.\u201d Turnbull\u2019s office told Dreyfus: \u201cIt appears ... that you may be more concerned with the question of whether official documents dealing with sensitive national security and foreign relations matters are held on the prime minister\u2019s private email server, rather than with obtaining access to particular documents. \u201cIn that regard, I can assure you that the prime minister takes national security extremely seriously and that all classified documents are dealt with by this office in accordance with the Commonwealth protective security policy framework.\u201d The deputy secretary of national security, Allan McKinnon, has previously issued advice tabled in the Senate in which he wrote that government information may be conveyed on a range of devices where the information is unclassified or not sensitive. Turnbull\u2019s office has breached the strict deadlines set out in freedom of information laws in its handling of the requests for his email server. Dreyfus\u2019s request was delayed by several months. Separately, a request from Guardian Australia for official emails on Turnbull\u2019s private server from a three-week period has reached a similar stage. After a lengthy delay Guardian Australia appealed to the information commissioner. In April the prime minister\u2019s office issued a notice saying the request would be too broad to process. The use of the private email server has raised concerns about the reach of Australia\u2019s freedom of information and archiving laws. The Department of the Prime Minister and Cabinet previously stated it would not release emails from Turnbull\u2019s private email server, arguing it \u201cdoes not have access to or provide administration support\u201d for personal email servers and holds no records in its possession. Had Turnbull\u2019s private email server been managed by the department \u2013 as normally occurs with government emails \u2013 it would have been accessible by it and subject to Guardian Australia\u2019s freedom of information request. Instead, requests for his emails are being funnelled through his own personal office. In the response to Dreyfus, it says the fact the emails need to be separated from Turnbull\u2019s personal emails is one of the factors adding to the burden placed on the agency to process the request. The information commissioner\u2019s guidelines state that \u201cpoor record keeping or an inefficient filing system\u201d would not of itself be sufficient grounds to allow an agency or minister to refuse a request. The prime minister\u2019s office has been contacted for comment.",
+  "webTitle": "Malcolm Turnbull\u2019s emails: using private server could be \u2018major security risk\u2019, says Labor",
+  "webPublicationDate": "2016-05-04T20:17:22Z",
+  "webUrl": "https://www.theguardian.com/australia-news/2016/may/05/malcolm-turnbulls-emails-using-private-server-could-be-major-security-risk-says-labor",
+  "keyword": [
+    {
+      "webTitle": "Malcolm Turnbull",
+      "id": "australia-news/malcolm-turnbull",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Mark Dreyfus",
+      "id": "australia-news/mark-dreyfus",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australian politics",
+      "id": "australia-news/australian-politics",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australian election 2016",
+      "id": "australia-news/australian-election-2016",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Liberal party",
+      "id": "australia-news/liberal-party",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Labor party",
+      "id": "australia-news/labor-party",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Email",
+      "id": "technology/email",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Computing",
+      "id": "technology/computing",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Paul Farrell",
+      "id": "profile/paul-farrell"
+    }
+  ],
+  "guardianId": "australia-news/2016/may/05/malcolm-turnbulls-emails-using-private-server-could-be-major-security-risk-says-labor"
+}

@@ -1,0 +1,100 @@
+{
+  "apiUrl": "https://content.guardianapis.com/money/2016/may/24/british-property-market-has-peaked-estate-agency-boss-says",
+  "id": "2016-05-24-62",
+  "sectionId": "money",
+  "body": "The boss of one of Britain\u2019s biggest estate agent chains appears to have called the top of the property market, saying there has been a big slump in demand from buyers after the nation has \u201creached the limit\u201d on house prices.  Paul Smith, whose company operates Haart, Felicity J Lord, Spicer McColl and Darlows chains across the UK, said there was \u201ctrouble in paradise\u201d and sellers would have to cut prices to find buyers.  \u201cWe are starting to see a big slump in buyer demand with registrations down a huge 46% across the UK in just one month,\u201d he said. Smith warned that prices may be peaking after a 12% year-on-year rise to a record high of just over \u00a3234,000 for an average home, nearly nine times the average UK income.    Related: 'Ghost tower' bought up by foreign money is symbol of housing crisis    \u201cWe believe the nation has now neared the limit in terms of price rises. Our data is already showing a slowdown in both house price growth and transaction levels. In order to maintain healthy sales levels sellers need to be much more realistic with their asking prices \u2013 properties are in danger of being overvalued and these homes will struggle to sell.\u201d Smith\u2019s gloomy prediction \u2013 from an estate agent\u2019s point of view \u2013 represented a sharp reversal from more optimistic statements he had issued about the market in recent weeks, but he said in the longer term the market will remain attractive. But it comes after figures from HM Revenue & Customs revealed a dramatic collapse in the number of house sales in April after a boom in March to beat higher stamp duty rates on second homes. Across the UK just 70,690 residential properties were sold in April compared with 173,430 in March as landlords rushed to beat the tax rise. The sharp drop in April took housing market activity back to the low levels last seen during the financial crash, but property experts said the decline was only to be expected after a bumper March.  David Brown of agents Marsh & Parsons said: \u201cAfter most peaks comes a corresponding trough. The goalposts simply changed overnight, making it incomparable to an extremely hectic March, which was characterised by unparalleled activity from second home owners and buy-to-let investors rushing through completions.\u201d Many potential buyers are expected to hold off making purchases until they know the outcome of the EU referendum, potentially pushing down prices in the short term. Then from April next year, another big cut in tax relief for buy-to-let landlords is likely to depress demand.  Nationwide building society, which reported bumper lending and profits figures, said in future buy-to-let borrowers would face a much more demanding test before being granted a mortgage.  Prices have already begun to fall at the top end of the London market, with analysts split as to how far the falls will spread into the wider market. In Hampstead and Notting Hill, prices are down by as much as 10%, while agents Douglas Gordon said \u201coverinflated prices [are] stymying sales\u201d in markets further out.  But the continued ready availability of cheap mortgages, plus a persistent shortage of newly built houses, may see first-time buyers fill the gap left by landlords and keep prices high. The average interest rate on a 90% mortgage \u2013 where the buyer puts up a deposit worth 10% of the value of the property \u2013 has fallen from 5.97% in 2011 to just 3.01% today, according to data company Moneyfacts.  Doug Crawford of conveyancing company MyHomeMove said: \u201cWhile house prices are high, buyers who can raise a deposit have been given a boost by extremely attractive mortgage rates which support borrowing.  \u201cThere are also signs of solid improvement in lending to first-time buyers, such as a growth in high loan-to-value mortgages available. Our forecast growth in sales is based on first-time buyers being able to access the high LTV mortgage products that will support their borrowing.\u201d The public finances have also enjoyed a large, albeit temporary, gain from the boom-and-bust in the property market, with stamp duty receipts hitting a record high of \u00a31.2bn in April. Over the last 12 months the Treasury has collected \u00a311bn from stamp duty, almost as much as inheritance tax and capital gains tax combined, and much higher than budget forecasts, according to an analysis by accountants Blick Rothenberg.",
+  "webTitle": "British property market has peaked, estate agency boss says",
+  "webPublicationDate": "2016-05-24T17:34:48Z",
+  "webUrl": "https://www.theguardian.com/money/2016/may/24/british-property-market-has-peaked-estate-agency-boss-says",
+  "keyword": [
+    {
+      "webTitle": "House prices",
+      "id": "money/houseprices",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Property",
+      "id": "money/property",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Real estate",
+      "id": "business/realestate",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Mortgages",
+      "id": "money/mortgages",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "First-time buyers",
+      "id": "money/firsttimebuyers",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Stamp duty",
+      "id": "money/stampduty",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Housing market",
+      "id": "business/housingmarket",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Patrick Collinson",
+      "id": "profile/patrickcollinson"
+    },
+    {
+      "webTitle": "Jill Treanor",
+      "id": "profile/jilltreanor"
+    }
+  ],
+  "guardianId": "money/2016/may/24/british-property-market-has-peaked-estate-agency-boss-says"
+}

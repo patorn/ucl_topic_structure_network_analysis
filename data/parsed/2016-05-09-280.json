@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/science/2016/may/08/starwatch-transit-mercury-9-may",
+  "id": "2016-05-09-280",
+  "sectionId": "science",
+  "body": "The transit of Mercury across the face of the Sun on Monday 9 May is the first for the planet since 2006 and the first to be visible from Britain since 2003. Our next occurs in 2019, but we must wait until 2049 for a more favourable one than this. We might think that the little innermost planet would cross in front of the Sun every 116 days or so, every time it swings around the near side of its orbit of the Sun. However, that orbit is tilted at 7\u00b0 to that of the Earth, so Mercury usually sweeps unseen above or below the Sun when it is closest, at its so-called inferior conjunction. The next most inclined orbit is that of Venus at 3.4\u00b0. Venus last transited the Sun in 2012 and it is my photograph of that event that forms the backdrop for our plot of Mercury\u2019s path across the Sun on this occasion. Obviously, we will not see the relatively large black silhouette of Venus against the Sun this time \u2013 we must be patient until 2117, and travel beyond Europe, to view the next Venusian transit.   transit of mercury   How can you watch it? It is vital to repeat and heed the traditional warnings about the dangers of observing the Sun. Never be tempted to look at the Sun directly through any telescope or binoculars unless they are fitted securely with a certified solar filter. To do so will lead to serious eye damage, if not blindness. An alternative is to project the Sun\u2019s image through a small telescope on to a shaded white card. Sadly, the techniques of pinhole projection or using eclipse glasses are useless for this event because of Mercury\u2019s small size. With a diameter of 4,879km and a distance of 83 million km, the planet appears only 12 arcsec wide. This is one fifth as wide as was Venus in 2012, and equal in width only to the thickness of the diagonal line on our diagram. It appears as a round inky dot, darker than any sunspots that happen to be visible at the time \u2013 only a few minor ones were apparent on the Sun as I wrote this a few days ago.   Related: Spacewatch: Name a crater on Mercury    When will it happen?  It will begin at 12.12pm BST and go on for about six hours.  In fact, the effect of parallax means that the times differ by a few seconds across Britain and up to a couple of minutes for elsewhere in the world. The beginning (and end) times mark the instants when the limb of Mercury first (and last) touches the Sun\u2019s edge, which it takes just over three minutes to cross. Transits of Mercury prove of less scientific interest than those of Venus, and this is not just because Venus has a substantial atmosphere which shows up as a bright ring as it traverses the solar limb \u2013 Mercury, with the merest trace of an atmosphere, displays no such effect. It is rather that Venus is so close to us during a transit (43 million km in 2012) that its parallax is more noticeable as viewed across the Earth. If its precise position can be measured from different points on the Earth, for example by timing the moments when the transit begins and ends, then calculations can reveal Venus\u2019 true distance and, hence, that of the Sun and the scale of the solar system. In practice, this is easier to say than do. Famously, James Cook\u2019s first voyage was to Tahiti to observe the transit of Venus in 1769.",
+  "webTitle": "Transit of Mercury: what you need to know and how to watch it",
+  "webPublicationDate": "2016-05-09T08:12:13Z",
+  "webUrl": "https://www.theguardian.com/science/2016/may/08/starwatch-transit-mercury-9-may",
+  "keyword": [
+    {
+      "webTitle": "Astronomy",
+      "id": "science/astronomy",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Space",
+      "id": "science/space",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Mercury",
+      "id": "science/mercury",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Alan Pickup",
+      "id": "profile/alanpickup"
+    }
+  ],
+  "guardianId": "science/2016/may/08/starwatch-transit-mercury-9-may"
+}

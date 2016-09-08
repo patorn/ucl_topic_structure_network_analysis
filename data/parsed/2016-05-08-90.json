@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/08/biometric-passports-likely-to-cause-confusion-to-british-travellers",
+  "id": "2016-05-08-90",
+  "sectionId": "uk-news",
+  "body": "Jon Darch has a colleague\u2019s close attention to the news to thank for being able to fly to New York on Saturday. Without it, he \u2013 like tens of thousands of other Britons \u2013 would be unaware of new rules blocking tourists without a biometric passport from visiting the US.  A friend of Darch, who is a digital marketing manager at upmarket paint company Farrow & Ball, asked on Thursday night if he had an e-passport after reading stories about the changes. Upon checking, he realised he still had one of the old-style documents that lack an electronic chip \u2013 prompting a panicked dash across the country to the nearest passport office. The trip is likely to be mimicked by thousands more as the summer holiday season approaches.    Related: Britons flying to US without biometric passports could be turned away    Late last year the US quietly announced new rules requiring any travellers taking advantage of its ESTA visa waiver scheme to hold a biometric passport. The new rule came into effect on 1 April, but a lack of publicity about the change meant that many travellers only became aware of the issue when trying to check in for their flights. To further complicate matters, it was possible to obtain ESTA clearance even with an old-style passport. Darch, who lives in Bournemouth, was able to secure an appointment at the Passport Office in London on Friday to get a new document. Had he not been able to do so a trip to Peterborough would have been necessary. The one-day premium service costs \u00a3128 \u2013 \u00a325 more than the one-week \u201cfast track\u201d service. After waiting four hours, Darch had a shiny new biometric passport and was set for his business trip to the US.  \u201cI\u2019ve been quite fortunate \u2013 lots of other people will have had no idea until getting to the airport,\u201d he said. \u201cIf it had been a holiday I would have been pretty upset \u2013 it\u2019s not cheap to fly to the States.\u201d Others were not so fortunate. Kevin Nash went to Stansted aiport early last month to fly to Florida with his partner Hannah Elphick and their two-year-old daughter, Kloe. However, he was not permitted to board and was forced to stay behind in London while his partner and child went ahead.  \u201cIt was awful \u2013 we were all pretty upset,\u201d Elphick told BBC Radio 5 live. It cost Nash more than \u00a3700 to get a new passport and book another flight, finally arriving in Florida two days later.  Darch does not believe there was enough publicity about the change. Even if airlines and travel operators could not easily determine which passengers did not hold biometric passports, a blanket email to all travellers clearly stating the new requirements would have helped many, he said. Asked whether there had been enough publicity about the changes, the Home Office said it was a matter for the Foreign and Commonwealth Office. Even after getting to Heathrow airport on Saturday afternoon to check in for his British Airways flight, the hassle was not completely over. Because Darch was now travelling on a new passport, Darch\u2019s existing ESTA approval was now invalid and he had to go online to reapply.",
+  "webTitle": "Biometric passports likely to cause confusion to British travellers",
+  "webPublicationDate": "2016-05-08T13:57:21Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/08/biometric-passports-likely-to-cause-confusion-to-british-travellers",
+  "keyword": [
+    {
+      "webTitle": "Passport Office",
+      "id": "uk-news/passport-office",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Chris Johnston",
+      "id": "profile/chris-johnston"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/08/biometric-passports-likely-to-cause-confusion-to-british-travellers"
+}

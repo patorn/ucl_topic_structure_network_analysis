@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/15/joe-driscoll-and-sekou-kouyate-monistic-theory-review-master-blaster",
+  "id": "2016-05-15-188",
+  "sectionId": "music",
+  "body": "Many world fusions fail by diluting their respective traditions to become less than the sum of their parts. This collaboration between a Syracuse, New York guitarist and rapper and an electric kora player from Guinea manages the opposite, partly by keeping things simple. The beats are sturdy, allowing Driscoll to deliver \u201cone world\u201d raps in swaggering New Yorkese (\u201cWhether you fade or mend/The only salvation is love in the end\u201d), while Kouyate, stunningly nimble even by west Africa\u2019s high standards, soars at every opportunity. He supplies the album\u2019s dreamier melodies and vocals on Wama and Barra, the oscillation between east and west keeps things fresh, and a live Master Blaster shows why the pair are\u00a0festival favourites.",
+  "webTitle": "Joe Driscoll & Sekou Kouyate: Monistic Theory review \u2013 simple and effective",
+  "webPublicationDate": "2016-05-15T07:00:18Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/15/joe-driscoll-and-sekou-kouyate-monistic-theory-review-master-blaster",
+  "keyword": [
+    {
+      "webTitle": "World music",
+      "id": "music/worldmusic",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Neil Spencer",
+      "id": "profile/neilspencer"
+    }
+  ],
+  "guardianId": "music/2016/may/15/joe-driscoll-and-sekou-kouyate-monistic-theory-review-master-blaster"
+}

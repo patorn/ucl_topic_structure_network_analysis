@@ -1,0 +1,52 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/09/what-does-the-election-of-a-muslim-mayor-of-london-mean-to-you",
+  "id": "2016-05-09-169",
+  "sectionId": "politics",
+  "body": "Sadiq Khan is the first directly-elected Muslim mayor of a Western capital city. As the rest of Europe struggles with the rise of anti-immigration parties, Khan\u2019s victory sends an important message. If you live outside of the UK, we want to hear what his appointment means to you. Germany, Netherlands and Sweden have been trying to stem the rise in anti-immigration parties buoyed by Europe\u2019s migration crisis and fears over Brussels and Paris styled terrorist attacks. In the current climate, the election of a Muslim mayor in a Western capital is significant . Could the same happen in your city or country? Across the UK there are hundreds of Muslim councillors, and the House of Commons has 13 Muslim MPs. Khan, the son of a London bus driver, recently joked that he was not the first Muslim politician in the UK, highlighting Sajid Javid, the Tory business secretary. \u201cTypical. You wait for ages for a Pakistani bus driver\u2019s son to come along, then two come along at once,\u201d he joked. In the rest of Europe, Muslim politicians are scarce but not absent. In Rotterdam unelected Muslim mayor, Ahmed Aboutaleb member of the Dutch Labour Party, has been tipped as a possible future prime minister despite anti-immigration parties making inroads in the country\u2019s recent elections.  We\u2019d like to know what the view is like from where you live. How important is Khan\u2019s appointment for your city or country? Can you imagine a similar appointment where you live? And how is Khan\u2019s victory being reported where you are?  Share your views in the form below and we\u2019ll use a selection in our reporting. You do not need to answer every question.",
+  "webTitle": "What does the election of a Muslim mayor of London mean to you?",
+  "webPublicationDate": "2016-05-09T13:42:10Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/09/what-does-the-election-of-a-muslim-mayor-of-london-mean-to-you",
+  "keyword": [
+    {
+      "webTitle": "Sadiq Khan",
+      "id": "politics/sadiq-khan",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "London",
+      "id": "uk/london",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Mayoral elections",
+      "id": "politics/mayoral-elections",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Carmen Fishwick",
+      "id": "profile/carmen-fishwick"
+    },
+    {
+      "webTitle": "Guardian readers",
+      "id": "profile/guardian-readers"
+    }
+  ],
+  "guardianId": "politics/2016/may/09/what-does-the-election-of-a-muslim-mayor-of-london-mean-to-you"
+}

@@ -1,0 +1,76 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/26/why-france-labour-reforms-proved-so-contentious",
+  "id": "2016-05-26-129",
+  "sectionId": "world",
+  "body": "What do France\u2019s labour reforms aim to achieve? The reforms that have plunged France into strike chaos this week are aimed at simplifying and relaxing the country\u2019s labour laws, mainly by giving individual companies greater leeway to make more decisions about hiring, firing, pay and working hours according to economic conditions, rather than being constrained by collective-bargaining procedures. The Socialist government led by prime minister Manuel Valls believes the reforms, which would bring France\u2019s labour model closer to those of Germany and the UK, will help lower France\u2019s stubbornly high unemployment rate of more than 10% and kickstart an economy that has proved slow to show signs of recovery. But he is only inching closer to the UK, which is in the top three Organisation for Economic Co-operation and Development countries for labour market flexibility and is congratulated by free-market economists for offering very little employment protection. France would need to climb about 50 places to claim a top-three space.   Related: Union revolt puts both Hollande's future and France's image on the line    What are the principal measures? One key measure allows companies that are large enough to have union representation and are either facing economic difficulties or trying to increase their market share to bypass sector- or industry-wide collective agreements and negotiate company-specific deals with employees on overtime (the current limit is 35 hours a week) and lower hourly pay. If the company and its staff cannot agree a new deal, the staff will be allowed the final decisions \u2013 via a ballot that would require the consent of unions representing only 30% of the workforce.  Another major reform makes it clearer when employers are allowed to use declining economic performance as a justifiable reason for dismissal. Companies with a workforce of 10 or fewer can lay off staff after a one-month fall in income, while those with up to 300 employees must demonstrate three successive quarters of falling revenues. Even bigger companies must wait a year. Would these reforms make France more like the UK?  UK firms are only restrained from making redundancies by the power of the in-house trade union, which is usually very weak. Bosses must consult with staff based on a formula that rises to a minimum of 45 days\u2019 consultation when more than 100 staff positions are affected. Other than that, there is nothing to stop firms paying off staff based on a legal minimum, including a notice period, that is so meagre it provides little insurance cover against even a modest period out of work. Workers with fewer than two years of continuous employment are not protected at all.   Related: French riot police use water cannon to break up fuel depot blockade    Staff in professional firms will usually accept a severance package to avoid the courts, which are heavily weighted to supporting the employer. A cap on wrongful dismissal payouts of \u00a378,962 or one year\u2019s salary, whichever is lower, is another deterrent to pursuing a court case in the UK. Who is against the French reforms \u2013 and why? The reforms, which were forced through this month without parliamentary approval, are fiercely opposed by the hardline CGT union, which sees them as an attempt to undermine union power and sector-based labour deals, students and other protestors on the left \u2013 including some in the Socialist party \u2013 who regard them as unacceptably pro-business. Initially approved by many economists and businesses, the reforms are now largely rejected by the country\u2019s main employers\u2019 associations, because the government has been forced to water them down significantly in an attempt to gain popular support. Which measures were dropped?   Related: Fran\u00e7ois Hollande pushes through labour bill with special decree    A number of pro-business changes have been left out of the final version. One favoured by many companies would have capped the severance packages employers can be ordered to pay workers found to have been wrongfully dismissed. The size of the payoffs that can be awarded by French courts are a major reason why many French companies are reluctant to hire new staff on permanent contracts and to attempt to lay off existing employees. Another would have allowed companies too small to have union representatives to agree working-hours deals with their employees in the same way as larger companies.  Pro-market economists and small-business associations are particularly angry that this measure has been scrapped, because, they argue, it is growing small and medium-sized companies that most need flexible working conditions \u2013 and are most likely to create the greatest number of new jobs.  That said, the World Economic Forum\u2019s rankings of the most competitive countries includes Sweden, Norway and Finland, which have similar employment protections to France, showing that winning foreign investment and creating jobs is about more than just attacking workers\u2019 rights.",
+  "webTitle": "Why have France's labour reforms proved so contentious?",
+  "webPublicationDate": "2016-05-26T16:15:59Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/26/why-france-labour-reforms-proved-so-contentious",
+  "keyword": [
+    {
+      "webTitle": "France",
+      "id": "world/france",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Unions",
+      "id": "world/unions",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Fran\u00e7ois Hollande",
+      "id": "world/francois-hollande",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Employment law",
+      "id": "law/employment-law",
+      "sectionId": "law",
+      "sectionName": "Law"
+    },
+    {
+      "webTitle": "Employment tribunals",
+      "id": "money/employment-tribunals",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Work & careers",
+      "id": "money/work-and-careers",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Law",
+      "id": "law/law",
+      "sectionId": "law",
+      "sectionName": "Law"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jon Henley",
+      "id": "profile/jonhenley"
+    },
+    {
+      "webTitle": "Phillip Inman",
+      "id": "profile/phillipinman"
+    }
+  ],
+  "guardianId": "world/2016/may/26/why-france-labour-reforms-proved-so-contentious"
+}

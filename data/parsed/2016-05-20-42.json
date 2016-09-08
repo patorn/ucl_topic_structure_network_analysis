@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/20/manchester-united-drop-memphis-depay-fa-cup-final-squad",
+  "id": "2016-05-20-42",
+  "sectionId": "football",
+  "body": "Memphis Depay has been dropped by Louis van Gaal from Manchester United\u2019s squad for the FA Cup final. It is a sign of how the forward\u2019s stock has fallen since he signed from PSV Eindhoven for around \u00a325m last May.   Related: FA Cup final: where Crystal Palace v Manchester United will be won and lost    Depay has had a disappointing season but came off the bench in United\u2019s most recent match, against Bournemouth, and started at Norwich City 10 days before that. He did not travel with the squad to London on Friday. Cameron Borthwick-Jackson, a 19-year-old defender who played for 90 minutes against Bournemouth, is also not in the match-day 18 for Saturday\u2019s Cup final against Crystal Palace. Depay has been absent from the match-ay squad on only one other occasion this season, for the goalless draw at Palace in late October. He has not scored since late February, against Midtjylland, and his most recent goal in a domestic match came at Watford in November.",
+  "webTitle": "Manchester United drop Memphis Depay from FA Cup final squad",
+  "webPublicationDate": "2016-05-20T18:02:10Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/20/manchester-united-drop-memphis-depay-fa-cup-final-squad",
+  "keyword": [
+    {
+      "webTitle": "Memphis Depay",
+      "id": "football/memphis-depay",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Manchester United",
+      "id": "football/manchester-united",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "FA Cup",
+      "id": "football/fa-cup",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jamie Jackson",
+      "id": "profile/jamiejackson"
+    }
+  ],
+  "guardianId": "football/2016/may/20/manchester-united-drop-memphis-depay-fa-cup-final-squad"
+}

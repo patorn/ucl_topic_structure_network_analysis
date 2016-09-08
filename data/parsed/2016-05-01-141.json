@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/01/western-sydney-facing-points-deduction-after-flare-lit-at-a-league-grand-final",
+  "id": "2016-05-01-141",
+  "sectionId": "football",
+  "body": "Western Sydney Wanderers face sanctions from Football Federation Australia after flares were lit in one of the A-League club\u2019s supporter bays at the grand final in Adelaide.   Related: A-League grand final: Adelaide United v Western Sydney Wanderers \u2013 live!    As their team were preparing for the start to the 2016 season finale at Adelaide Oval, the flare was ripped among the section of the ground housing around 10,000 travelling supporters.  Australian Associated Press reported that police stationed nearby did not appear to respond. Another flare was set off late in the game after Adelaide United scored their third, and what proved to be the decisive, goal in the Reds\u2019 3-1 victory that saw them crowned champions. Wanderers have a suspended points deduction hanging over them after a previous incident earlier in the season. In February, FFA found the club guilty of bringing the game into disrepute after supporters let off several flares during a match against Melbourne Victory at Etihad Stadium. Wanderers were fined $50,000 and handed a three-point deduction, suspended for 12 months.  They now face the possibility of starting the 2016-17 campaign on minus-three points.",
+  "webTitle": "Western Sydney facing points deduction after flares lit at A-League grand final",
+  "webPublicationDate": "2016-05-01T08:43:56Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/01/western-sydney-facing-points-deduction-after-flare-lit-at-a-league-grand-final",
+  "keyword": [
+    {
+      "webTitle": "A-League",
+      "id": "football/a-league",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Western Sydney Wanderers",
+      "id": "football/western-sydney-wanderers",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Australia sport",
+      "id": "sport/australia-sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "football/2016/may/01/western-sydney-facing-points-deduction-after-flare-lit-at-a-league-grand-final"
+}

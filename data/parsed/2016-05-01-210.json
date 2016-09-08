@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/01/australia-budget-2016-15m-eradicate-carp-herpes-virus-murray-darling",
+  "id": "2016-05-01-210",
+  "sectionId": "environment",
+  "body": "Tuesday\u2019s federal budget will include funding for a $15m for a national carp control plan in an attempt to eradicate Australia\u2019s worst freshwater feral pest, the government announced on Sunday. The plan includes the staged release of the carp-specific herpes virus in the Murray-Darling basin. CSIRO scientists have been testing the virus in Australian native fish species and other animals found along the river for the past seven years and have established that it is safe to release into the ecosystem without harming other species. The virus affects the carp\u2019s skin and kidneys, takes about seven days to have a noticeable effect and, once it takes hold, usually kills the fish within 24 hours.   Related: Fishers and conservationists urge release of herpes virus to kill Murray river carp    A joint ministerial taskforce will finalise the national plan and includes the minister for industry, innovation and science, Christopher Pyne, the deputy prime minister, Barnaby Joyce, and the minister for the environment, Greg Hunt. \u201cThe common carp is a nasty pest in our waterways and makes up 80% of fish biomass in the Murray Darling Basin,\u201d Pyne said. \u201cAnyone who loves the Murray knows what damage the carp have caused to the river environment over many years. The Invasive Animals Cooperative Research Centre and the CSIRO have made significant progress evaluating a viral biological control agent, we know that it works, we know it\u2019s completely safe, now we need to plan the best way to roll it out.\u201d Joyce said the economic impact of carp was estimated at $500m a year, mostly in regional Australia, and especially along the Murray River. Current control measures, including trapping, commercial fishing and exclusion, were expensive and largely ineffective at controlling carp over large areas or for any length of time, he said. Carp also threaten others species by making water turbid, causing erosion and out-competing native fish for food and resources. The Australian Conservation Foundation described the funding and staged release of the virus as \u201ca good first step\u201d. The foundation\u2019s healthy ecosystems program manager, Jonathan La Nauze, said the funding would enable the community consultation and planning required to ensure the virus was released safely and without unwanted impacts on river communities. But releasing the virus alone would be a wasted opportunity if it was not supported by other native fish recovery measures that were underfunded, he said. \u201cThe legacy of past mismanagement in the Murray-Darling is that 21 out of the 23 major river valleys are in poor or very poor health, according to the Sustainable Rivers Audit,\u201d La Nauze said. \u201cCarp thrive in this kind of degraded environment \u2013 in fact they make it worse by turning over the river bed, eroding the banks and literally muddying the water. \u201cControlling carp must go hand-in-hand with rehabilitating riverbanks, making irrigation infrastructure fish-friendly and, of course, the release of environmental flows.\u201d",
+  "webTitle": "Australia commits $15m in bid to eradicate carp using herpes virus",
+  "webPublicationDate": "2016-05-01T04:23:30Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/01/australia-budget-2016-15m-eradicate-carp-herpes-virus-murray-darling",
+  "keyword": [
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Australian budget 2016",
+      "id": "australia-news/australian-budget-2016",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "New South Wales",
+      "id": "australia-news/new-south-wales",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Victoria (news)",
+      "id": "australia-news/victoria--news-",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "South Australia",
+      "id": "australia-news/south-australia",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Melissa Davey",
+      "id": "profile/melissa-davey"
+    }
+  ],
+  "guardianId": "environment/2016/may/01/australia-budget-2016-15m-eradicate-carp-herpes-virus-murray-darling"
+}

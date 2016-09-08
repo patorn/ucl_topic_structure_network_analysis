@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/10/facebook-trending-conservative-news-senate-committee-letter",
+  "id": "2016-05-10-54",
+  "sectionId": "technology",
+  "body": "A top US Senate Republican demanded on Tuesday that Facebook explain allegations that it suppressed conservative articles on users\u2019 homepages as part of a political agenda.    Related: Facebook denies censoring conservative stories from trending topics    Senator John Thune, a party leader and chairman of the Senate commerce committee, which has jurisdiction over technology firms, sent a terse letter to Facebook\u2019s CEO, Mark Zuckerberg, asking him to explain accusations that he \u201cmisleads the public\u201d. The social media juggernaut faces tough questions this week from conservatives following a series of stories in Gizmodo that its news \u201ccurators\u201d injected stories into the trending articles section in the top-right corner of its home page. Many users, apparently including Thune, assumed the articles in that space were the ones users shared the most on the service. Citing one former anonymous curator, Gizmodo reported that Facebook news contractors were told to suppress content of interest to conservative readers. Facebook has denied that allegation and said it has guidelines to \u201censure consistency and neutrality\u201d in the topics it promotes. Late Monday, Tom Stocky, Facebook\u2019s vice-president of search, wrote in a Facebook post: \u201cWe take these reports extremely seriously, and have found no evidence that the anonymous allegations are true.\u201d He added that the accused censorship was \u201ctechnically not feasible\u201d with their tools. Regardless of this specific incident, the allegations reflect broader unease about how Facebook wields its influence in what media its users read. By traditional measures, Facebook\u2019s \u201ctrending\u201d section could be considered the most popular front page on the internet.    Related: Facebook must be more transparent about how it delivers news | Nellie Bowles    The mainstream media is accused of bias regularly, and deciding which stories get the best placement is an inherently subjective process. But rightly or wrongly, many users expect that Silicon Valley somehow has found a way to neutralize the news business.  Given American free-speech law, it\u2019s also unclear if the US Senate has any jurisdiction over how Facebook \u2013 or any other company \u2013 promotes certain articles. For instance, Thune asks Facebook to quantify, \u201call news stories removed from or injected into the Trending Topics section since January 2014\u201d. It\u2019s unclear how Facebook would create such a list that covers more than two years of digital news.  In a written statement, a Facebook representative said the company was \u201ccontinuing to investigate whether any violations took place\u201d. As for the letter from Congress, Facebook said, \u201cWe have received Sen Thune\u2019s request for more information about how Trending Topics works, and look forward to addressing his questions.\u201d",
+  "webTitle": "US senator demands Facebook explain allegations it censors conservative news",
+  "webPublicationDate": "2016-05-10T19:18:59Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/10/facebook-trending-conservative-news-senate-committee-letter",
+  "keyword": [
+    {
+      "webTitle": "Facebook",
+      "id": "technology/facebook",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Mark Zuckerberg",
+      "id": "technology/mark-zuckerberg",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Republicans",
+      "id": "us-news/republicans",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Social networking",
+      "id": "media/socialnetworking",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "US politics",
+      "id": "us-news/us-politics",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Danny Yadron",
+      "id": "profile/danny-yadron"
+    }
+  ],
+  "guardianId": "technology/2016/may/10/facebook-trending-conservative-news-senate-committee-letter"
+}

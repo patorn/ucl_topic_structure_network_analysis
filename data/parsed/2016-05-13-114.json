@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/13/hsbc-criticises-john-kerry-business-iran-europe-banks",
+  "id": "2016-05-13-114",
+  "sectionId": "business",
+  "body": "HSBC has criticised the US secretary of state, John Kerry, for asking European banks to do more business with Iran while Washington continues to restrict American financial firms from doing the same. The bank\u2019s chief legal officer, Stuart Levey, said HSBC had no intention of doing any new business with Iran after a meeting in London on Thursday in which Kerry urged a gathering of European bankers to make a push into the country. The US and European Union lifted sanctions against in Iran in January after the country dismantled 14,000 centrifuges \u2013 two-thirds of its total nuclear capacity \u2013 as part of its obligations under the international deal agreed in Vienna last July. Despite this, the banking industry remains fearful of large financial fines, - the threat of losing crucial licences to operate in the US, for falling foul of regulations. HSBC was fined \u00a31.2bn by the US in 2012 for money laundering offences in relation to Mexico while Standard Chartered was fined more than \u00a3400m for breaching sanctions with Iran. In 2014, French bank BNP Paribas was fined more than \u00a35.2bn for breaching US sanctions. At Thursday\u2019s meeting, Kerry had told representatives from all the major European banks that he wanted to \u201cclarify and put to rest misinterpretations or mere rumours about how [the deal] is applied\u201d. But writing in the Wall Street Journal, Levey said the US government was taking a \u201cvery odd position\u201d. \u201cOn the one hand, Washington is continuing to prohibit American banks and companies from doing Iran-related business \u2026 on the other hand, Mr Kerry wants non-US banks to do business with Iran without a US repudiation of its prior statements about the associated financial-crime risks,\u201d said Levey, who was the undersecretary for terrorism and financial intelligence at the US Treasury between 2004 and 2011. While a ban on the use of dollars in the US banking system to finance Iranian trade is still in place, individual US states are adapting to the changes in different ways.  Levey, who was not at the meeting with Kerry, said: \u201cThere are no assurances as to how such activity would subsequently be viewed by US regulatory and law-enforcement authorities, which might seek to take enforcement action against banks that enter the Iranian market and run afoul of complicated US restrictions. The State Department neither controls nor plays any meaningful role in the enforcement decisions of these authorities. \u201cWashington has warned repeatedly that the Islamic Revolutionary Guard Corps controls broad swaths of the Iranian economy. The IRGC remains sanctioned by both the US and the EU because of the central role it plays in Iran\u2019s illicit conduct. When the US, EU, and UN removed sanctions from several hundred Iranian banks and companies, there were no assurances that the conduct of those banks and companies had changed. \u201cThis will present a challenge for European banks. HSBC is endeavouring to implement consistent and high standards across its global operations, designed to combat financial crime and prevent abuse by illicit actors. We have more work to do, but achieving that objective is one of our highest priorities. This approach is rightly expected by our regulators, including in the UK and the US. \u201cOur decisions will be driven by the financial-crime risks and the underlying conduct. For these reasons HSBC has no intention of doing any new business involving Iran.\u201d  A follow-up meeting has been scheduled for next week in the US. In March, the Times reported that Barclays had been rebuked by the UK government for refusing to process payments from Iranian entities.",
+  "webTitle": "HSBC criticises John Kerry over business with Iran request",
+  "webPublicationDate": "2016-05-13T15:35:03Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/13/hsbc-criticises-john-kerry-business-iran-europe-banks",
+  "keyword": [
+    {
+      "webTitle": "HSBC",
+      "id": "business/hsbcholdings",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Iran",
+      "id": "world/iran",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "European banks",
+      "id": "business/europeanbanks",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Banking",
+      "id": "business/banking",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "US foreign policy",
+      "id": "us-news/us-foreign-policy",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "John Kerry",
+      "id": "us-news/john-kerry",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Financial sector",
+      "id": "business/financial-sector",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jill Treanor",
+      "id": "profile/jilltreanor"
+    }
+  ],
+  "guardianId": "business/2016/may/13/hsbc-criticises-john-kerry-business-iran-europe-banks"
+}

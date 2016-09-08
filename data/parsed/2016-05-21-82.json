@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/21/battery-energy-storage-technology-breakthrough",
+  "id": "2016-05-21-82",
+  "sectionId": "technology",
+  "body": "From the phones in our pockets to the cars on our roads, almost everything with an electrical circuit needs a battery. But while the rest of the technology industry has made great leaps over the past couple of decades, batteries have not. The shortcomings of batteries are now one of the biggest bottlenecks in transport, energy, infrastructure and more. Our power demands are ever-increasing, but our ability to carry or store power is limited. Smartphones barely last a day, electric vehicles have much shorter ranges than petrol or diesel cars, and storing energy from sources such as solar panels is difficult. A breakthrough in energy storage is sorely needed, and many companies, including some of the oil giants, are working on it. There\u2019s a potentially lucrative market for those that succeed, but the limitations imposed by the chemistry of batteries have proved difficult to overcome. The biggest problem is energy density \u2013 how much energy can be stored in a given size and weight. Lithium-ion batteries, first introduced in 1991 and used in phones, cars and other rechargeable devices, store between 150 and 250 watt-hours per kilogram (Wh/kg). To put that in perspective, a fridge uses around 1,600 Wh a day, and petrol stores about of 13,000 Wh/kg \u2013 or more than 50 times the energy of even the best lithium-ion batteries. There are battery chemistries that used other metals, or elements such as sulphur or silicon, but researchers have struggled to increase energy density and meet strict safety requirements.     A Tesla home battery being installed at a house in Cardiff. Photograph: Gareth Phillips for the Guardian    \u201cThe more energy you put into a box, the more dangerous it will be,\u201d says Billy Wu of the Dyson School of Design Engineering at Imperial College London. \u201cSafety is key and thermal management is crucial. If a battery heats up beyond 80C, the components start to decompose. That\u2019s when it can explode.\u201d That\u2019s not the kind of explosion manufacturers are after. The battery market is forecast to be worth $120bn in 2019 according to industry research firm Freedonia Group, and vacuum cleaner firm Dyson recently joined electric carmaker Tesla, Korea\u2019s Samsung, Panasonic of Japan and IBM in investing heavily in battery research. Tesla\u2019s electric cars have a claimed range of 200-300 miles per charge, and the company recently entered the home battery market. Working with Panasonic, it is investing $5bn in what has been dubbed the \u201cgigafactory\u201d. Making batteries on a large scale will be crucial for pushing electric cars into the mass market. Currently the battery makes up about 20% of the price of a Tesla Model S, which costs from \u00a358,300. Many consider a range of 500 miles crucial \u2013 the distance an average petrol or diesel car can travel on a single tank. Since 2009, IBM\u2019s Battery 500 Project has been working on lithium-air batteries, which have the potential to reach similar energy densities to petrol. But so far a commercial product has remained out of reach. \u201cA lot of people talk about metal air systems, which are on the horizon, but are 20 years away from any commercialisation,\u201d says Wu. Dyson\u2019s recent \u00a31bn investment in battery technology has shone a light on one promising area of research. Last October, the British company acquired University of Michigan spin-off Sakti3, which is developing solid-state batteries with twice the energy density of lithium-ion versions. They use a solid polymer instead of the electrolyte paste, and potentially offer faster charging times as well. Beyond consumer applications, much research has focused on energy supply. \u201cThe problem with renewable energy sources such as solar and wind is that they\u2019re intermittent, and can sometimes produce too much power, which has to be dumped to avoid overloading the grid,\u201d says Wu. Storing that energy in batteries would help even out supply. But right now that kind of storage, be it in large-scale battery banks or at home, is limited in the same way as in consumer electronics. All commercial battery firms can do is try to get the most out of current lithium-ion cells.A big leap in battery technology is coming \u2013 but not quite yet.",
+  "webTitle": "Huge profits in store for firm that can make a great leap in battery technology",
+  "webPublicationDate": "2016-05-21T15:00:16Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/21/battery-energy-storage-technology-breakthrough",
+  "keyword": [
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology sector",
+      "id": "business/technology",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Mobile phones",
+      "id": "technology/mobilephones",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Energy research",
+      "id": "science/energy",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Energy storage",
+      "id": "environment/energy-storage",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Dyson Ltd",
+      "id": "technology/dyson-ltd",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Tesla",
+      "id": "technology/tesla",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Electric, hybrid and low-emission cars",
+      "id": "environment/electric-cars",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Samuel Gibbs",
+      "id": "profile/samuel-gibbs"
+    }
+  ],
+  "guardianId": "technology/2016/may/21/battery-energy-storage-technology-breakthrough"
+}

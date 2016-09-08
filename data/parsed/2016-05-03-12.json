@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/society/2016/may/03/cause-of-death-united-states-medical-error",
+  "id": "2016-05-03-12",
+  "sectionId": "society",
+  "body": "Medical error is the third leading cause of death in the US, accounting for 250,000 deaths every year, according to an analysis released on Tuesday. There is no US system for coding these deaths, but Martin Makary and Michael Daniel, researchers at Johns Hopkins University\u2019s school of medicine, used studies from 1999 onward to find that medical errors account for more than 9.5% of all fatalities in the US. Only heart disease and cancer are more deadly, according to the Centers for Disease Control and Prevention (CDC). The analysis, which was published in the British Medical Journal, said that the science behind medical errors would improve if data was shared internationally and nationally \u201cin the same way as clinicians share research and innovation about coronary artery disease, melanoma, and influenza\u201d. But death by medical error is not captured by government reports because the US system for assigning a code to cause of death, the international classification of disease (ICD), does not have a label for medical error.  The ICD is also used by 117 countries, including Canada and the UK, according to the World Health Organisation.  \u201cSound scientific methods, beginning with an assessment of the problem, are critical to approaching any health threat to patients,\u201d the researchers said. \u201cThe problem of medical error should not be exempt from this scientific approach.\u201d To determine the medical error death rate, the researchers analyzed data collected by the government and compared it with hospital admission rates from 2013. They extrapolated that information and found that 251,454 deaths in the US were caused by medical error that year. Stacked against the annual list of most common causes of death in the US, the researchers\u2019 calculations put medical error far ahead of respiratory disease, which the CDC lists as the third most common cause of death for killing 147,101 people in 2015. The researchers acknowledged that human error is inevitable and said these deaths are not necessarily always the fault of doctors.  However, they said the information shows that there is room to institute a clearer monitoring system for tracking medical error, which could inform the design of more effective, and safer, systems.  To reduce the number of deaths from medical error, the authors offered several recommendations, including adding a field to death certificates for whether the person died of a preventable complication tied to their medical care and for hospitals to hold more rigorous and speedy investigations into these deaths.  \u201cThe role of error can be complex,\u201d the researchers said. \u201cWhile many errors are non-consequential, an error can end the life of someone with a long life expectancy or accelerate an imminent death.\u201d",
+  "webTitle": "Medical error is third biggest cause of death in the US, experts say",
+  "webPublicationDate": "2016-05-03T22:30:10Z",
+  "webUrl": "https://www.theguardian.com/society/2016/may/03/cause-of-death-united-states-medical-error",
+  "keyword": [
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Medical research",
+      "id": "science/medical-research",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Amanda Holpuch",
+      "id": "profile/amanda-holpuch"
+    }
+  ],
+  "guardianId": "society/2016/may/03/cause-of-death-united-states-medical-error"
+}

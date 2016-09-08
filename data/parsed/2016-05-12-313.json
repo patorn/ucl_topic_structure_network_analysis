@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/greenslade/2016/may/12/daily-mail-publisher-fined-40000-over-pixelated-photograph",
+  "id": "2016-05-12-313",
+  "sectionId": "media",
+  "body": "Associated Newspapers, publisher of the Daily Mail, has been fined \u00a340,000 after pleading guilty to identifying a man who claims to be the victim of a VIP paedophile ring. The company admitted two offences under the Sexual Offences (Amendment) Act which prohibits the revealing of the identity of anyone who has complained to police about being the victim of a sexual assault. In passing sentence at Westminster magistrates\u2019 court, deputy chief magistrate Emma Arbuthnot said: \u201cThe offence is serious and I am particularly concerned about the damage to public confidence that complainants\u2019 identities will be protected.\u201d Arbuthnot also said the article was in the public interest, but that more care should have been taken to protect the men\u2019s identity. The article, published in September last year, was headlined \u201cNick \u2013 victim or fantasist?\u201d It concerned the man who alleged that he had been abused by several high-profile figures, allegations that resulted in a Metropolitan police investigation known as Operation Midland. The Mail\u2019s story, which raised questions about the conduct of that investigation, was illustrated with a pixellated photograph of \u201cNick\u201d and some personal details. Speaking in mitigation for Associated Newspapers, Clare Montgomery QC said: \u201cThe personal information was not there gratuitously to identify \u2018Nick.\u2019\u201d She said the article contained information to enable the public to understand the context of the claims he was making. The publisher accepted that detail in an article could have led readers to identify the man. Although the court heard that Nick had told police that no one had identified him from the article, he complained that it could have done so. Operation Midland was abandoned in March with no charges being brought amid controversy over its cost and how it was handled. A spokesman for Associated Newspapers quoted in the Mail\u2019s own article about the matter, said: \u201cWe believe emphatically in the rule of law, and regret that on this occasion we judged incorrectly where the line should be drawn. \u201cIt is an extraordinary irony that the only conviction to result from this sorry episode, which caused such pain to Lord Brittan and his widow, and to Lord Bramall and his late wife, is against a media organisation which reported it with the objectivity so lacking in police inquiries.\u201d",
+  "webTitle": "Daily Mail publisher fined \u00a340,000 over pixellated photograph",
+  "webPublicationDate": "2016-05-12T08:32:18Z",
+  "webUrl": "https://www.theguardian.com/media/greenslade/2016/may/12/daily-mail-publisher-fined-40000-over-pixelated-photograph",
+  "keyword": [
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Associated Newspapers",
+      "id": "media/associated-newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Daily Mail",
+      "id": "media/dailymail",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Mail Online",
+      "id": "media/mail-online",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Law",
+      "id": "law/law",
+      "sectionId": "law",
+      "sectionName": "Law"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "National newspapers",
+      "id": "media/national-newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers",
+      "id": "media/newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Metropolitan police",
+      "id": "uk/metropolitan-police",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Roy Greenslade",
+      "id": "profile/roygreenslade"
+    }
+  ],
+  "guardianId": "media/greenslade/2016/may/12/daily-mail-publisher-fined-40000-over-pixelated-photograph"
+}

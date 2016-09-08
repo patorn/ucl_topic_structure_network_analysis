@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/17/tell-us-how-the-uks-agricultural-industry-will-be-affected-by-the-eu-referendum",
+  "id": "2016-05-17-129",
+  "sectionId": "environment",
+  "body": "At a session in Glasgow to take evidence on the June referendum\u2019s impact on Scotland, Andrew McCornick, the vice-president of NFU Scotland, emphasised the importance of funding to farmers from the common agricultural policy. Asked by Labour\u2019s Stephen Hepburn how Brexit would affect Scottish farming, McCornick replied: \u201cOur biggest market is in Europe. Our industry mindset has been towards accessing the common market. If we were to leave all those trade agreements we would have to start again, and if we exit we would not be sitting at the table for those negotiations.\u201d Transport secretary Patrick McLoughlin has also suggested that the country\u2019s farming industry could disappear from Britain like coal mining. The cabinet minister, a former miner, made the dire prediction in a speech at the Cambridge University Conservative Association, adding to recent warnings by the remain campaign about the potential economic impact of Brexit. \u201cWhen I was young, people didn\u2019t think mining would ever end,\u201d he said. \u201cI hear the Brexiteers make the same case about car manufacturing and farming today. Just as the under-educated and least well-off suffered worst from Labour\u2019s great recession after 2008. So they would be first to feel the pain of our departure from the EU.\u201d Whether you farm cattle, arable, hill sheep, market gardening or a combination we\u2019d like to hear how you will be affected. What\u2019s the farming community like where you are? What do you think of current EU subsidies? Are you pro-Europe or do you think the industry will benefit from leaving? Wherever you live in the UK share your views with us by filling in our form below. We\u2019ll feature some of your contribution in our ongoing reporting.",
+  "webTitle": "Tell us how the UK's agricultural industry will be affected by the EU referendum",
+  "webPublicationDate": "2016-05-17T14:47:19Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/17/tell-us-how-the-uks-agricultural-industry-will-be-affected-by-the-eu-referendum",
+  "keyword": [
+    {
+      "webTitle": "Farming",
+      "id": "environment/farming",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Agriculture",
+      "id": "science/agriculture",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian readers",
+      "id": "profile/guardian-readers"
+    }
+  ],
+  "guardianId": "environment/2016/may/17/tell-us-how-the-uks-agricultural-industry-will-be-affected-by-the-eu-referendum"
+}

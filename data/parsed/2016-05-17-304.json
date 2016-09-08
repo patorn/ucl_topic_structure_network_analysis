@@ -1,0 +1,25 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/17/chatterbox-tuesday",
+  "id": "2016-05-17-304",
+  "sectionId": "technology",
+  "body": "Let\u2019s chat!",
+  "webTitle": "Chatterbox: Tuesday",
+  "webPublicationDate": "2016-05-17T06:09:33Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/17/chatterbox-tuesday",
+  "keyword": [
+    {
+      "webTitle": "Games",
+      "id": "technology/games",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [],
+  "guardianId": "technology/2016/may/17/chatterbox-tuesday"
+}

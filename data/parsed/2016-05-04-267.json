@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/04/kristen-stewart-directorial-debut-short",
+  "id": "2016-05-04-267",
+  "sectionId": "film",
+  "body": "Kristen Stewart will make her directorial debut with an upcoming short film commissioned by female-focused digital publisher Refinery29.  The actor is one of 12 female directors, writers and animators the company are working with for its ShatterBox Anthology series \u2013 a collection of short films that \u201cexplore the dynamic of power\u201d, according to the Hollywood Reporter.   Related: Variety magazine regrets misleading headline on Kristen Stewart video    The first project to result from the collaboration is Kitty by Chlo\u00eb Sevigny. The short is slated to premiere at Cannes, where Stewart stars in the Woody Allen opener, Caf\u00e9 Society. Stewart\u2019s effort is currently titled Water; nothing else is known about the project. For Stewart, Water marks her second time directing, following her 2014 music video for Sage + The Saints\u2019 song Take Me to the South. Also joining Stewart and Sevigny in the anthology series is Oscar-nominee Gabourey Sidibe, who is making her directorial debut with a short titled A Tale of Four Women. The actor, who currently stars in the hit TV show Empire, spoke on Monday at Refinery29\u2019s launch event for the series. \u201cEverything I do, my image and who I am and what I feel represents me is in the hands of a man, usually a white man,\u201d she said, speaking of her acting career. Sidibe explained that she made the move to direct after realising \u201cvery recently that I want to be the one that decides what image I show the public\u201d. In addition to Caf\u00e9 Society, Stewart has Personal Shopper \u2013 her second film with French film-maker Olivier Assayas, following Clouds of Sils Maria \u2013 debuting at Cannes this year. Her role in that film earned her a C\u00e9sar award, making her the first American female actor to win one.",
+  "webTitle": "Kristen Stewart to make directorial debut with short film about female power dynamics",
+  "webPublicationDate": "2016-05-04T09:34:01Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/04/kristen-stewart-directorial-debut-short",
+  "keyword": [
+    {
+      "webTitle": "Kristen Stewart",
+      "id": "film/kristen-stewart",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Cannes 2016",
+      "id": "film/cannes-2016",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Short films",
+      "id": "film/short-films",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Nigel M Smith",
+      "id": "profile/nigel-m-smith"
+    }
+  ],
+  "guardianId": "film/2016/may/04/kristen-stewart-directorial-debut-short"
+}

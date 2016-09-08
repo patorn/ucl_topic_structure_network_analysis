@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/05/centrica-upsets-investors-750m-sale-new-shares",
+  "id": "2016-05-05-141",
+  "sectionId": "business",
+  "body": "Centrica has upset investors by issuing \u00a3700m of new equity as it attempts to boost its financial position in the face of tumbling commodity prices and a loss of retail customers. Shares in the British Gas owner dived 12% at one stage on Thursday as the City expressed concern that the company might be in worse shape than thought. The energy group said \u00a3350m of the share placing with institutional investors would help fund two acquisitions, the previously announced purchase of the Danish trading firm Neas and a similar \u201ccustomer-facing\u201d business. But a Centrica statement also said the cash raising would allow \u201ccontinued lowering of net debt, reducing pressure on the group\u2019s targeted strong investment-grade credit rating in a continuing uncertain environment.\u201d That reference comes after negative comments from credit agencies, with Moody\u2019s putting Centrica\u2019s Baa1 rating on review for a downgrade and Standard & Poor\u2019s giving the company a negative outlook. Peter Atherton, a utility analyst at Jefferies investment bank, pointed out that raising equity was an expensive way of paying down debt: \u201cCentrica\u2019s new management have been trying to establish a reputation for tight capital management; it is difficult to say whether today\u2019s announcement enhances or diminishes that reputation.\u201d Despite cutting its standard gas prices more than any other large supplier, British Gas lost 224,000 customers in the first three months of this year alone, meaning it has seen a near 900,000 loss in 12 months. Centrica said at its annual general meeting two weeks ago that its business was in a \u201crobust\u201d state despite low oil, gas and power prices and a \u00a3857m operating loss in 2015.",
+  "webTitle": "Centrica upsets investors with \u00a3700m sale of new shares",
+  "webPublicationDate": "2016-05-05T15:07:07Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/05/centrica-upsets-investors-750m-sale-new-shares",
+  "keyword": [
+    {
+      "webTitle": "Centrica",
+      "id": "business/centrica",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Energy industry",
+      "id": "business/energy-industry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Utilities",
+      "id": "business/utilities",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Gas",
+      "id": "business/gas",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Commodities",
+      "id": "business/commodities",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Shares",
+      "id": "money/shares",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Terry Macalister",
+      "id": "profile/terrymacalister"
+    }
+  ],
+  "guardianId": "business/2016/may/05/centrica-upsets-investors-750m-sale-new-shares"
+}

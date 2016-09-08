@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/law/2016/may/05/courts-chief-natalie-ceeney-leaves-job",
+  "id": "2016-05-05-83",
+  "sectionId": "law",
+  "body": "Natalie Ceeney, the widely praised senior civil servant leading the \u00a3700m programme to modernise the courts, is to leave after little more than a year in the job. Her surprise departure from the \u00a3180,000-a-year post of chief executive of HM Courts and Tribunal Service (HMCTS) was announced by the Ministry of Justice on Thursday. Ceeney, 44, who served as president of Cambridge University students\u2019 union, had previously worked as an NHS manager before moving rapidly through senior positions at the National Archives, the British Library, the Financial Ombudsman Service and HSBC in the City. She joined HMCTS in January last year as the service was belatedly attempting to join the digital age. Most trials are still conducted using massive bundles of paper. Underused courthouses are being sold off and mechanisms developed for online justice. Ceeney, who was appointed a CBE in 2010, was hailed as bringing fresh energy to working methods she herself had described as \u201cmore than archaic\u201d. There was no explanation of why she was going or what she intended to do next. In a statement issued through the MoJ, Ceeney said: \u201cI joined HM Courts and Tribunals Service caring deeply about what we\u2019re here to do, and determined to lead transformation so that we can continue to support the delivery of justice in a digital age.  \u201cAfter years of underinvestment, we\u2019ve now secured over \u00a31bn of investment, and have well and truly started to deliver. Seeing the first stages of delivery over the last year, through the digitalisation of the criminal courts infrastructure, has, I hope, given everyone confidence that this transformation is real and deliverable.  \u201cThere is a strong team in place to lead the work, and it now feels like an appropriate time to hand the baton on to a successor to see through the transformation over the next four to five years.  \u201cI\u2019m also very grateful for the unwavering support of the senior judiciary and the HMCTS board, as well as the full support that ministers and senior departmental colleagues have shown to what HMCTS is trying to achieve during my time in post.\u201d Responding to her exit, the justice secretary, Michael Gove, and the lord chief justice, Lord Thomas of Cwmgiedd, said in a joint statement: \u201cSupported by a strong senior management team, Natalie has laid the foundation for the HMCTS reform programme. We are both grateful to her for her hard work and dedication over the last year in setting in motion this programme which is of utmost importance to the government and the judiciary.\u201d Ceeney will leave HMCTS at the end of the month. She will be replaced by Kevin Sadler who will be interim chief executive.",
+  "webTitle": "UK courts chief to leave job after just over a year",
+  "webPublicationDate": "2016-05-05T17:53:25Z",
+  "webUrl": "https://www.theguardian.com/law/2016/may/05/courts-chief-natalie-ceeney-leaves-job",
+  "keyword": [
+    {
+      "webTitle": "Law",
+      "id": "law/law",
+      "sectionId": "law",
+      "sectionName": "Law"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK criminal justice",
+      "id": "law/criminal-justice",
+      "sectionId": "law",
+      "sectionName": "Law"
+    },
+    {
+      "webTitle": "Michael Gove",
+      "id": "politics/michaelgove",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Owen Bowcott",
+      "id": "profile/owenbowcott"
+    }
+  ],
+  "guardianId": "law/2016/may/05/courts-chief-natalie-ceeney-leaves-job"
+}

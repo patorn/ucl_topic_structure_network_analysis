@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/australia-news/2016/may/20/nbn-the-trouble-with-coalitions-plan-for-quicker-and-cheaper-broadband",
+  "id": "2016-05-20-356",
+  "sectionId": "australia-news",
+  "body": "It is unclear exactly what leaks the Australian federal police are investigating in their raids on Labor party offices in Melbourne, but they are likely to be connected with reports of cost blow-outs and significant delays in the roll-out of the National Broadband Network.  As part of his election promises in 2007, Kevin Rudd proposed spending $43bn on a high-speed national broadband network. Once elected, the plan was put in motion. It involved the installation of a huge network of fibre optic cable (which carries information in the form of light pulses), that would bring super-fast internet directly to 93% of homes and business around the country.   Related: Australian election 2016: AFP denies government knew of raids \u2013 politics live    It was expected to deliver initial speeds of up to 1000 megabits per second. But with the potential for upgrades at the exchange and at the home, it was thought the network would be future-proofed, capable of higher speeds as technology improved. The plan was labelled \u201cfibre-to-the-home\u201d. As communications spokesman in the Abbott-led opposition, Malcolm Turnbull proposed a cut-price, speed-compromised version of the NBN under the three-word slogan: \u201cFast. Affordable. Sooner.\u201d Turnbull argued that Labor\u2019s plan was over-the-top and that most applications needed only 12mpbs. To cut costs and deliver the network faster, the then-opposition proposed a \u201cfibre-to-the-node\u201d network. It would lay fibre-optic cable to nodes on street corners, which would then use the old copper networks, used for landline telephones, to make the final stretch to people\u2019s homes. It would allow for speeds no higher than 50 to 100mbps, with little opportunity for future upgrades. The Coalition argued it would cost between $7bn and $10bn less than the Labor plan, and would be delivered two years earlier. After the Coalition won power at the 2013 election, analysis and leaks began to appear, suggesting the plan was not only going to deliver a slower network, but would also take longer and cost more. One leak revealed by Fairfax Media in February reported important targets were being missed, caused by faults and delays with constructions and approvals, as well as material shortages. It said only 29,000 connections had been completed, compared with a target of 94,000, and the cost of each connection had risen by 23%. Official figures from the NBN now say the roll-out will cost between $46bn and $56bn \u2013 more than Labor\u2019s $43bn plan that the Coalition derided as too expensive. And with the target of delivering it two years earlier than Labor looking impossible, the official delivery date is now \u201cas soon as possible\u201d.",
+  "webTitle": "NBN: the trouble with Coalition's plan for quicker and cheaper broadband",
+  "webPublicationDate": "2016-05-20T01:04:18Z",
+  "webUrl": "https://www.theguardian.com/australia-news/2016/may/20/nbn-the-trouble-with-coalitions-plan-for-quicker-and-cheaper-broadband",
+  "keyword": [
+    {
+      "webTitle": "Australian election 2016",
+      "id": "australia-news/australian-election-2016",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "National broadband network (NBN)",
+      "id": "technology/national-broadband-network-nbn",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Australian politics",
+      "id": "australia-news/australian-politics",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australian federal police",
+      "id": "australia-news/australian-federal-police",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Malcolm Turnbull",
+      "id": "australia-news/malcolm-turnbull",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Kevin Rudd",
+      "id": "australia-news/kevin-rudd",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Michael Slezak",
+      "id": "profile/michael-slezak"
+    }
+  ],
+  "guardianId": "australia-news/2016/may/20/nbn-the-trouble-with-coalitions-plan-for-quicker-and-cheaper-broadband"
+}

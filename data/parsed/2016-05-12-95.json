@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/12/michel-petrucianni-both-worlds-live-north-sea-jazz-festival-cd-review",
+  "id": "2016-05-12-95",
+  "sectionId": "music",
+  "body": "Michel Petrucianni was the brilliant French jazz pianist who resisted brittle bone disease to amaze audiences worldwide until his death at 36 in 1999. These live takes from the North Sea jazz festival in his last year feature most of the international lineup that had made his earlier studio album Both Worlds, including American jazz-funk drums star Steve Gadd. Bob Brookmeyer\u2019s intelligent arrangements continue to make a small band sound like a big one, but the concert setting makes the leader\u2019s pleasure in his work even more infectiously impetuous here. He launches solos off the back of section parts that spring like cats spotting prey; a Brazilian shuffle gets a romantic but completely cliche-free treatment; horns glow and boppishly crackle on the swingers; and the pianist\u2019s fiercely boogieing left hand, wild trills and hammering rhythm patterns make Take the A Train breathtaking. There are bonus tracks with Petrucianni at sumptuous ease with the Hague Philharmonic Orchestra on an unfinished crossover project and an eloquent duet with Gadd in tribute to his hero St\u00e9phane Grappelli.",
+  "webTitle": "Michel Petrucianni: Both Worlds Live review \u2013\u00a0infectious, impetuous pleasure",
+  "webPublicationDate": "2016-05-12T17:30:04Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/12/michel-petrucianni-both-worlds-live-north-sea-jazz-festival-cd-review",
+  "keyword": [
+    {
+      "webTitle": "Jazz",
+      "id": "music/jazz",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "John Fordham",
+      "id": "profile/johnfordham"
+    }
+  ],
+  "guardianId": "music/2016/may/12/michel-petrucianni-both-worlds-live-north-sea-jazz-festival-cd-review"
+}

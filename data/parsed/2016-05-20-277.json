@@ -1,0 +1,70 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/20/labor-furious-that-nbn-staff-member-sent-photos-of-police-raid-to-colleagues",
+  "id": "2016-05-20-277",
+  "sectionId": "technology",
+  "body": "Labor has complained to the Australian federal police that an NBN staff member disseminated photos taken during Thursday night\u2019s police raid on the former communication minister Stephen Conroy\u2019s office which could have included the party\u2019s broadband policy. The federal Labor party was engaged in a legal wrangle with the AFP for most of Friday and has secured agreement that the material seized in the dramatic late-night raids, part of an investigation into damaging leaks regarding the National Broadband Network, is covered by parliamentary privilege and will be sealed and stored by the clerk of the Senate, probably until parliament resumes after the election campaign. The AFP agreed the NBN staff member, who was present during the raids and taking photographs, would download the photos he took, store them on a USB drive to be included with the sealed material, and then delete them from his mobile phone.  But then the AFP advised Labor that the staff member had already disseminated the images, prompting an angry letter from Labor\u2019s lawyer, Paul Galbally. Labor sources say the party\u2019s broadband policy was among the documents the AFP looked through during the lengthy raids.    Related: Australian federal police raid Labor senator's office over alleged NBN leaks    \u201cThis act was wrong and, among other things, clearly had the potential to undermine my clients\u2019 claim for privilege,\u201d Galbally wrote, demanding to know under whose authority the pictures had been sent around and requesting a list of all documents seized in the raids on Conroy\u2019s office and the Melbourne home of a Labor staffer, Andrew Byrne.  The raids dominated Friday\u2019s election campaigning. The Labor leader, Bill Shorten, said it was \u201cit is inconceivable that NBN Co would launch a police investigation and not make it clear to the owner of the company [the federal government] what is happening\u201d. But the prime minister, Malcolm Turnbull, insisted that the first he had heard of the AFP investigation \u201cwas yesterday when I was advised by the justice minister shortly after he\u2019d been advised by the [AFP] commissioner\u201d. And Andrew Colvin, the AFP commissioner, said on Friday morning that the AFP\u2019s investigation and raids had been undertaken independently of government, and rejected accusations of political interference. \u201cThere has been no influence, no influence on the AFP in the conduct of this investigation,\u201d Colvin said. \u201cIn fact, the government first became aware of this investigation shortly after the commencement of the operational activity yesterday.\u201d The Senate, when it sits again, will decide how to deal with the claim of parliamentary privilege over the documents. In similar cases in the past it has appointed an independent person to go through seized material and advise on such claims.",
+  "webTitle": "Labor anger after NBN employee spread raid photos before files were sealed",
+  "webPublicationDate": "2016-05-20T08:53:01Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/20/labor-furious-that-nbn-staff-member-sent-photos-of-police-raid-to-colleagues",
+  "keyword": [
+    {
+      "webTitle": "National broadband network (NBN)",
+      "id": "technology/national-broadband-network-nbn",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Australian politics",
+      "id": "australia-news/australian-politics",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Labor party",
+      "id": "australia-news/labor-party",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Coalition",
+      "id": "australia-news/coalition",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Stephen Conroy",
+      "id": "australia-news/stephen-conroy",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Bill Shorten",
+      "id": "australia-news/bill-shorten",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australian election 2016",
+      "id": "australia-news/australian-election-2016",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Lenore Taylor",
+      "id": "profile/lenore-taylor"
+    },
+    {
+      "webTitle": "Gareth Hutchens",
+      "id": "profile/gareth-hutchens"
+    }
+  ],
+  "guardianId": "technology/2016/may/20/labor-furious-that-nbn-staff-member-sent-photos-of-police-raid-to-colleagues"
+}

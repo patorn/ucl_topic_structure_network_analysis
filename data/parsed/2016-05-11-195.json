@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/11/uk-manufacturing-sector-falls-back-into-recession-steel",
+  "id": "2016-05-11-195",
+  "sectionId": "business",
+  "body": "Government hopes of rebalancing the UK\u2019s service-sector-dominated economy have been dealt a blow with the latest official data showing industry slipping into its third downturn within a decade. A slight pickup in activity in March was not enough to offset sharp falls in output earlier in 2016 and meant production dropped for the second successive quarter \u2013 the definition of a recession. The Office for National Statistics said industrial production \u2013 which is made up of manufacturing, mining and quarrying, North Sea oil and gas, water supply and the supply of electricity and gas \u2013 is 10% lower than it was when the UK entered recession in early 2008. Manufacturing, which makes up 70% of industrial production, has been hard hit by the crisis in the steel sector, with output almost 2% lower in March 2016 than it was a year earlier. Manufacture of basic metals and metal production has dropped by 4% over the past year, contributing to the steepest fall in industrial production since May 2013. City analysts said industry\u2019s travails were likely to continue in the second quarter of 2016, with the impact of the looming EU referendum exacerbating the impact of weak global demand.    Related: UK factory output suffers biggest fall since 2013 - business live    Chris Williamson, chief economist at Markit, said: \u201cSurveys of manufacturing, services and construction point to GDP rising at an equivalent quarterly rate of 0.1% in April. Growth could be even weaker if the surveys disappoint in coming months, which seems probable given the intensifying uncertainty over the outcome of the EU referendum.\u201d  David Kern, chief economist at the British Chambers of Commerce, warned that manufacturing remained in long-term decline, despite a modest recovery in March. \u201cWhile adverse global conditions remain a major challenge for manufacturing, this is now being exacerbated by a slowdown in the domestic economy,\u201d he said.  \u201cA healthy manufacturing base remains critical to the wellbeing of the UK economy in key areas such as innovation, exports and productivity, making it vital that the sector is given more support to compete against global and domestic headwinds.\u201d Analysts had expected a more substantial 0.3% recovery since February after strong output figures from the car industry and an improvement in pharmaceuticals.  Figures from the Society of Motor Manufacturers and Traders for the first quarter of the year showed UK factories produced 443,581 cars, up 10.3% on same quarter last year. It was the strongest first-quarter performance since 2004. The wider measure of industrial production, which includes mining, rose by 0.3% month on month but was only 0.1% higher than a year ago. Mining continued to decline in March, but an increase in energy production, attributed to the colder weather that arrived in the spring after a mild winter, pushed up industrial production overall. Ruth Miller, a UK economist at Capital Economics, said the next few months would be tough but an improvement later in the year was likely as the lower pound helped exporters. \u201cWhile Brexit uncertainty may be partly to blame, the sector\u2019s poor performance of late is certainly nothing new and many of the headwinds to growth in 2015 emanating from a weak global environment are still in place. But we still expect things to look up as the year progresses.  \u201cSterling\u2019s recent depreciation and our expectations that global growth will pick up slightly in 2016 should allow the sector to return to modest growth later this year.\u201d",
+  "webTitle": "UK industry falls back into recession",
+  "webPublicationDate": "2016-05-11T13:39:25Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/11/uk-manufacturing-sector-falls-back-into-recession-steel",
+  "keyword": [
+    {
+      "webTitle": "Manufacturing sector",
+      "id": "business/manufacturing-sector",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Manufacturing data",
+      "id": "business/manufacturingdata",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economic growth (GDP)",
+      "id": "business/economicgrowth",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Steel industry",
+      "id": "business/steel-industry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Phillip Inman",
+      "id": "profile/phillipinman"
+    }
+  ],
+  "guardianId": "business/2016/may/11/uk-manufacturing-sector-falls-back-into-recession-steel"
+}

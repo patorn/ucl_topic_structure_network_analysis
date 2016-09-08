@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/australia-news/2016/may/16/australia-company-coalition-tax-cuts-hand-1bn-a-year-america-thinktank-says",
+  "id": "2016-05-16-370",
+  "sectionId": "australia-news",
+  "body": "The Australian government\u2019s plan to cut the corporate tax rate to 25% will deliver a $999m-a-year windfall to the US Internal Revenue Service (IRS) when fully implemented, a progressive thinktank has said.   Related: Australian election 2016: Labor in disarray over penalty rates \u2013 politics live    The Coalition government wants to cut the corporate tax rate from 30% to 25% by 2026-27, and the tax rate for small businesses from 28.5% to 25% by 2026-27. It hopes the move will boost gross domestic product, profits, jobs and wages. However, Australia and the US have a foreign tax treaty under which US companies in Australia pay the IRS the difference between the company tax rates in the two countries. The Australia Institute has noted that, while the US rate is 35% and Australia\u2019s rate is 30%, if the difference grows as a result of a lower Australian rate, the IRS will collect more tax at the expense of the Australian Taxation Office. It estimated based on IRS figures the cost to Australia\u2019s tax base will be US$732m (AU$999m) a year in 2026-27, or a total of US$8.07bn over the first decade after the tax cuts have been fully implemented. Ben Oquist, the executive director of the Australia Institute, said: \u201cA key beneficiary of the proposed company tax cuts is the American tax office. Various American companies operating here will not benefit \u2013 they will simply pay the difference in the United States.\u201d Oquist said the US was the largest foreign investor in Australia, accounting for over a quarter of all foreign investment. \u201cAmerican firms operating in Australia will not invest more, employ more or be any more competitive after Australia cuts the company tax \u2013 they will simply pay less tax here and more tax in the US,\u201d he said. Oquist claimed the economic case for company tax cuts was poor, delivering \u201cgrowth dividends within the margin of error [that are] between 10 and 30 years away\u201d.  \u201cEven if we were to accept that cutting company tax did bring \u2018jobs and growth\u2019, this is not the case if the company\u2019s tax bill is not cut, but simply transferred to another country,\u201d Oquist said. \u201cThe fiscal price for the tax cut is significant and we know some of the revenue cost is just a gift to the United States government.\u201d Australia\u2019s finance minister, Mathias Cormann, said the Australia Institute\u2019s claims were \u201cfactually incorrect\u201d and \u201cdeeply and utterly wrong\u201d. \u201cI suspect the Greens-aligned Australia Institute is not the most reliable witness when it comes to the effect of economic policy,\u201d he said. \u201cA more competitive company tax rate will attract investment, it will boost productivity, it will increase the size of the economy permanently by more than 1% in the long term.\u201d Cormann said the former treasury secretary Ken Henry had said the biggest beneficiary of a lower company tax cut would be workers because they would help secure their jobs and lead to increase in real wages.",
+  "webTitle": "Coalition's company tax cuts would hand $1bn a year to US \u2013 thinktank",
+  "webPublicationDate": "2016-05-16T00:24:18Z",
+  "webUrl": "https://www.theguardian.com/australia-news/2016/may/16/australia-company-coalition-tax-cuts-hand-1bn-a-year-america-thinktank-says",
+  "keyword": [
+    {
+      "webTitle": "Australian politics",
+      "id": "australia-news/australian-politics",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australian election 2016",
+      "id": "australia-news/australian-election-2016",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Business (Australia)",
+      "id": "australia-news/business-australia",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "US taxation",
+      "id": "us-news/us-taxation",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Paul Karp",
+      "id": "profile/paul-karp"
+    }
+  ],
+  "guardianId": "australia-news/2016/may/16/australia-company-coalition-tax-cuts-hand-1bn-a-year-america-thinktank-says"
+}

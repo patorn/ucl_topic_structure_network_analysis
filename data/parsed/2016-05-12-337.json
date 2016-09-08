@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/11/hyperloop-supersonic-train-test-propulsion-system",
+  "id": "2016-05-12-337",
+  "sectionId": "technology",
+  "body": "Hyperloop, the supersonic transport system proposed by tech billionaire Elon Musk, has taken a tentative step towards reality with the first public test of a prototype propulsion system. One of the companies vying to make the idea a reality, Hyperloop One, which changed its name from Hyperloop Technologies on Wednesday to coincide with the open-air propulsion test in the Nevada desert, has also closed an $80m series B funding round which includes investment from the French national rail company SNCF.     The Nevada test represents a very early proof of concept.   When \u2013 and very much if \u2013 completed, the Hyperloop would work by propelling pods at high speeds through a tube, which in theory would be able to make the journey from San Francisco to Los Angeles in just 30 minutes. The Nevada test, in which a sled accelerated to 116 mph (187km/h) in 1.1 seconds, represents a very early proof of concept; there are a vast number of hurdles that the developers of Hyperloop still have to clear if the technology is to become a reality. Hyperloop One also announced a series of other partnerships, including Deutsche Bahn Engineering & Consulting and the British engineering consultancy group Arup, who are currently working on London\u2019s Crossrail. Rob Lloyd, CEO of Hyperloop One, said in a statement: \u201cWe will work alongside these world-class partners to redefine the future of transportation, providing a more immediate, safe, efficient and sustainable high-speed backbone for the movement of people and things.\u201d \u201cHyperloop has the potential to solve many of today\u2019s most complex long-distance transport issues,\u201d said Gregory Hodkinson, Arup Group chairman, also in a statement. \u201cIf railways helped enable the first industrial revolution, Hyperloop has the potential to do the same for the information economy, overcoming distances and creating connections between people, places, ideas and opportunities.\u201d \u2022 This article was amended on Thursday 12 May to correct an erroneous headline.",
+  "webTitle": "Hyperloop One tests high-speed transport propulsion system",
+  "webPublicationDate": "2016-05-12T06:58:12Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/11/hyperloop-supersonic-train-test-propulsion-system",
+  "keyword": [
+    {
+      "webTitle": "Hyperloop",
+      "id": "technology/hyperloop",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "California",
+      "id": "us-news/california",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Nicky Woolf",
+      "id": "profile/nicky-woolf"
+    }
+  ],
+  "guardianId": "technology/2016/may/11/hyperloop-supersonic-train-test-propulsion-system"
+}

@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/19/boys-noize-mayday-review",
+  "id": "2016-05-19-35",
+  "sectionId": "music",
+  "body": "In 2007, Alex Ridha\u2019s debut album as Boys Noize, Oi Oi Oi, encapsulated clubbing\u2019s Ed Banger era of shouty beats and pedantic energy, bridging electro and techno with maximalist mortar and a tearaway spirit. Since then, Ridha hasn\u2019t crossed over to the mainstream in the way that contemporaries such as Hudson Mohawke, Skrillex and Diplo have. But now he\u2019s playing into the jaws of the EDM market. Fourth album Mayday presents 90s rave for the generation of dance fans who will happily whack on Freed from Desire, unironically, at a house party, all made with boshing, arena-sized production. As a result, tracks such as Rock the Bells \u2013 which features the famous cowbell sample from Bob James\u2019s Take Me to the Mardi Gras, recognisable from Massive Attack\u2019s Unfinished Sympathy, cut up with 303s reminiscent of Josh Wink\u2019s Higher State of Consciousness \u2013 feel introductory rather than revolutionary. Sometimes Ridha skilfully smooshes them with Belgian new beat (tough, austere rhythm; squiggly acid synths; relentless kick drums), such as on Dynamite with Benga, which is like a mutoid Rhythm Is a Dancer. But much of the album has the subtlety of being trapped inside a panic alarm. Mayday, mayday!",
+  "webTitle": "Boys Noize: Mayday review \u2013 retro rave plays into the jaws of the EDM market",
+  "webPublicationDate": "2016-05-19T20:15:20Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/19/boys-noize-mayday-review",
+  "keyword": [
+    {
+      "webTitle": "Electronic music",
+      "id": "music/electronicmusic",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Dance music",
+      "id": "music/dance-music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Kate Hutchinson",
+      "id": "profile/kate-hutchinson"
+    }
+  ],
+  "guardianId": "music/2016/may/19/boys-noize-mayday-review"
+}

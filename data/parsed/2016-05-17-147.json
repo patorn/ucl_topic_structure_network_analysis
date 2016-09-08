@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/mediamonkeyblog/2016/may/17/andy-coulson-rupert-murdoch-telegraph",
+  "id": "2016-05-17-147",
+  "sectionId": "media",
+  "body": "The rather odd News Corp-ification of the Telegraph appears to show no sign of abating. Hot on the heels of newsroom stroll by Rupert Murdoch, another top News UK executive \u2013 albeit a former one \u2013 has been spotted in Telegraph Towers. One Andy Coulson, the former News of the World editor jailed over phone hacking who earlier this year set up his own PR firm, recently attended editorial conference at the Telegraph. What with Charlie Brooks, husband of News UK chief executive Rebekah Brooks, returning as a columnist after a four-year break, it\u2019s looking more and more like TeleCorp at Telegraph Towers these days.",
+  "webTitle": "Andy Coulson follows Rupert Murdoch in touring Telegraph",
+  "webPublicationDate": "2016-05-17T13:55:32Z",
+  "webUrl": "https://www.theguardian.com/media/mediamonkeyblog/2016/may/17/andy-coulson-rupert-murdoch-telegraph",
+  "keyword": [
+    {
+      "webTitle": "Daily Telegraph",
+      "id": "media/dailytelegraph",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Andy Coulson",
+      "id": "media/andy-coulson",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "National newspapers",
+      "id": "media/national-newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers",
+      "id": "media/newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers & magazines",
+      "id": "media/pressandpublishing",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Monkey",
+      "id": "profile/monkey"
+    }
+  ],
+  "guardianId": "media/mediamonkeyblog/2016/may/17/andy-coulson-rupert-murdoch-telegraph"
+}

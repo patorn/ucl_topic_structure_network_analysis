@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/27/cameron-congratulates-trump-on-marathon-nomination-win",
+  "id": "2016-05-27-241",
+  "sectionId": "politics",
+  "body": "David Cameron has congratulated Donald Trump for completing the \u201cextraordinary marathon\u201d of securing the Republican presidential nomination in the US primaries \u2013 but stopped short of commenting on the candidate\u2019s rightwing politics.  The prime minister said the decision would make the presidential contest, which is likely to pitch Trump against Hillary Clinton, a \u201cvery interesting election for us all to watch\u201d. Asked whether he was prepared to congratulate Trump, Cameron said: \u201cI would congratulate anybody who can get through those marathon processes for leading one of the two great political parties in the United States of America. It is an extraordinary marathon.\u201d He would not be drawn on his previous comment that a Trump visit to the UK \u201cwould unite us all against him\u201d. Instead, Cameron said he would be willing to meet Trump if he came to the UK. The prime minister said he would not \u201cget involved\u201d in the election by giving any additional views on Trump. He has recently stood by his claim that a proposal by Trump to ban Muslims from entering the US was dangerous and divisive. But after it was confirmed Trump has the support of enough delegates to run, Cameron said that the American process eclipsed the scale of campaigns he has run in Britain. \u201dWhen I think of the campaign I held in 2005, touring the UK to become leader of the Conservative party it was pretty exhausting \u2013 but it is a small campaign compared to the vast nature of what these candidates have been through. So anyone who gets through that gets my congratulations.\u201d Despite his earlier comments about Trump, the prime minister said he believed a strong relationship would endure. \u201cI believe the special relationship will work whoever is in whichever jobs in the UK or in the US,\u201d he said. \u201cIt\u2019s a shared interest about values and about security and prosperity in our world.\u201d",
+  "webTitle": "Cameron congratulates Trump on 'marathon' nomination win",
+  "webPublicationDate": "2016-05-27T08:50:35Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/27/cameron-congratulates-trump-on-marathon-nomination-win",
+  "keyword": [
+    {
+      "webTitle": "David Cameron",
+      "id": "politics/davidcameron",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Donald Trump",
+      "id": "us-news/donaldtrump",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Anushka Asthana",
+      "id": "profile/anushkaasthana"
+    }
+  ],
+  "guardianId": "politics/2016/may/27/cameron-congratulates-trump-on-marathon-nomination-win"
+}

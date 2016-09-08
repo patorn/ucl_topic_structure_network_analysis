@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/09/former-deutsche-bank-boss-martyn-dodgson-guilty-insider-dealing",
+  "id": "2016-05-09-71",
+  "sectionId": "business",
+  "body": "A former Topshop finance chief, along with a one-time managing director of Deutsche Bank, have been found guilty of insider dealing in one of the UK\u2019s most high-profile cases. Eight years after the investigation began, Andrew Hind, 56, who was finance director at Topshop in the 1990s, and his friend Martyn Dodgson, 44, who used to work in corporate broking at Deutsche and Lehman Brothers, were both convicted following a 12-week trial at Southwark crown court. The pair will be sentenced at a later date and face a maximum of seven years in prison as well as a confiscation order. The longest sentence handed down for being convicted of insider dealing in the UK is the four years given to Richard Joseph in 2013. The Financial Conduct Authority alleged that Dodgson had handed inside information he had discovered through his work to Hind, who was then alleged to have passed it on to two other men to trade on their behalf. It was alleged that the group, which also included another corporate broker, then split the profits, which the FCA claimed totalled \u00a37.4m. The three other alleged participants were all acquitted. They were: Andrew \u201cGrant\u201d Harrison, 46, who also worked in corporate broking and who was alleged to have played a similar role to Dodgson; Ben Anderson, 71, a day trader; and his former business partner, Iraj Parvizi, 50, who rose to prominence in the City after working in a Kent kebab shop. Anderson and Parvizi admitted adding their own funds to investments carried out on behalf of Hind, but both insisted they had no reason to suspect his stock picks were based on price-sensitive insider information. In order to be convicted of insider dealing in the UK, the jury has to be satisfied that defendants were aware they were trading on inside information. When arrested six years ago Dodgson, who was paid \u00a3601,000 as a managing director at Deutsche Bank, told police he had never had any involvement in share trading or spread-betting on shares. Prosecuting counsel told the court he had also said that \u201che would not dare to advise anyone on trading or spread-betting as it was too easy to lose a lot of money\u201d. On his keyring, though, investigators found the key for a secure metal box at his home in Hampstead, north London, which contained a specialist encrypted flash drive allowing users to store files and browse the internet without leaving a trace. Dodgson said he had not used the device in years and could not unlock it.  By cross-checking other passwords the banker had used elsewhere, however, investigators were able to discover that the drive was opened by the password \u201cLamborghini55\u201d.  The court was also told how the drive contained incriminating evidence including a spreadsheet detailing that listed coded references to the trades. Investigators also discovered Hind had bought six encrypted USB sticks, with three being found in a wall safe at his home. When asked for the passwords, he declined to provide them. Investigators have been unable to access the sticks.  Dodgson is one of the most senior City figures ever to be charged with insider dealing. He moved to Deutsche Bank in October 2008 as a director and was later promoted, while he was also part of a Deutsche Bank team advising the government on its stakes in the Royal Bank of Scotland and Lloyds Banking Group. \u2022 This article was amended on 10 May 2016. An earlier version described Andrew Hind as a former adviser to Sir Philip Green. We have been advised that Hind has never been an adviser to Green, or an employee of any company controlled by him. Hind was employed by the Arcadia group before Green and his family took control of the business.",
+  "webTitle": "Former Deutsche Bank boss guilty of insider dealing",
+  "webPublicationDate": "2016-05-09T18:12:48Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/09/former-deutsche-bank-boss-martyn-dodgson-guilty-insider-dealing",
+  "keyword": [
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Crime",
+      "id": "uk/ukcrime",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Deutsche Bank",
+      "id": "business/deutschebank",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Financial sector",
+      "id": "business/financial-sector",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Banking",
+      "id": "business/banking",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "European banks",
+      "id": "business/europeanbanks",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Simon Goodley",
+      "id": "profile/simongoodley"
+    }
+  ],
+  "guardianId": "business/2016/may/09/former-deutsche-bank-boss-martyn-dodgson-guilty-insider-dealing"
+}

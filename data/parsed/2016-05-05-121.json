@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/05/amir-khan-canelo-alvarez-donald-trump-boxing",
+  "id": "2016-05-05-121",
+  "sectionId": "sport",
+  "body": "Sa\u00fal \u201cCanelo\u201d \u00c1lvarez takes on Amir Khan in Las Vegas on Saturday, and the pair teamed up in their pre-fight news conference to punch back at Donald Trump.  Trump, the presumptive Republican presidential nominee, stoked tensions earlier this year when he condemned Mexican migrants as \u201crapists and criminals\u201d before vowing to build a \u201cgreat, great wall\u201d to stop people coming across the border.\u00a0\u00c1lvarez, the WBC middleweight champion, said that Trump\u2019s words were unhelpful.   Related: Sa\u00fal \u2018Canelo\u2019 \u00c1lvarez plays fight game to be proud not loud in Las Vegas | Kevin Mitchell    \u201cI don\u2019t really like getting into political issues but it hurts, it offends, I would like [Trump] to understand us,\u201d said\u00a0\u00c1lvarez. \u201cWhen I\u2019m out running, I see a lot of my countrymen working hard, they have not come here to rob and steal. We want to show him that we Mexicans come here to succeed and be victorious.\u201d Trump has also called for a complete ban on Muslims entering the US, and Khan, a British Muslim, kept a straight face as long as he could before joking: \u201cYou never know \u2013 this could be the last fight for me and Canelo here. That\u2019s if Donald Trump becomes president.\u201d Oscar De La Hoya, whose company, Golden Boy, is promoting the event, announced that Trump would be attending the fight, but wouldn\u2019t have ringside seats. De La Hoya said Trump would see \u201ca wonderful, wonderful event with one of the most popular fighters in the world hailing from Mexico, and one of the most popular fighters in boxing \u2013 who is Muslim \u2013 and we want to show what a great contribution these two fighters can make to the beautiful US of A. \u201cSo I have Donald Trump\u2019s seats \u2013 he will not be sitting ringside \u2013 but he will see the fight.\u201d Trump announced in June that he was running for president, and set off on a lengthy tirade about America\u2019s southern neighbours. \u201cWhen Mexico sends its people, they\u2019re not sending their best,\u201d he said. \u201cThey\u2019re sending people that have lots of problems, and they\u2019re bringing those problems with us. They\u2019re bringing drugs. They\u2019re bringing crime. They\u2019re rapists. And some, I assume, are good people.\u201d",
+  "webTitle": "Amir Khan and Canelo \u00c1lvarez team up against Donald Trump",
+  "webPublicationDate": "2016-05-05T15:56:10Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/05/amir-khan-canelo-alvarez-donald-trump-boxing",
+  "keyword": [
+    {
+      "webTitle": "Amir Khan",
+      "id": "sport/amirkhan",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Boxing",
+      "id": "sport/boxing",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Donald Trump",
+      "id": "us-news/donaldtrump",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "sport/2016/may/05/amir-khan-canelo-alvarez-donald-trump-boxing"
+}

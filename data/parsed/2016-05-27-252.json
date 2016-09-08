@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/27/hinkley-point-c-french-union-opposition-casts-fresh-doubt-on-project",
+  "id": "2016-05-27-252",
+  "sectionId": "uk-news",
+  "body": "Opposition from French unions has cast fresh doubt over the future of the planned Hinkley Point C nuclear power station in Somerset. Key French workers\u2019 unions continue to oppose the \u00a318bn project despite repeated attempts by EDF, which would build the reactors, to win their backing. The French state-owned company has delayed the decision on whether to go ahead until the summer while it consults the unions. Union representatives hold six of the 18 seats on its board. Hinkley Point C is a key plank of the UK\u2019s energy policy and would provide 7% of Britain\u2019s electricity. It was meant to open next year, but has been delayed to 2025. EDF is seeking support from a committee of workplace representatives after a package of measures from the French government to shore up the company\u2019s financial future had been put in place. But the committee raised serious concerns over cost and demanded more information. Jean-Luc Magnaval, secretary of the central works committee, told BBC Newsnight that staff feared the high cost of Hinkley Point could cripple EDF, which is heavily indebted and recently had its credit rating cut by Moody\u2019s. Other nuclear plants being built by EDF in France and Finland are years behind schedule and billions over budget. Magnaval said: \u201cWe have reservations about several aspects of the project: organisation, supply chain, installation and procurement. The trade unions are unlikely to give their blessing to the project in its current state. \u201cWe are not reassured by the documents we have received. We have been given a marketing folder, not the full information we require. We got the documents on 9 May \u2013 we are sending EDF a request for more explanations.\u201d Earlier this week, the French economy minister, Emmanuel Macron, wrote to MPs on Westminster\u2019s energy and climate change committee (pdf) to reassure them of the French government\u2019s commitment to the project.  He added, however: \u201cIt is also necessary, in the interests of all, that EDF follows due process before committing itself to an investment of this magnitude. The consultation of the central works committee brings legal robustness on the decision.\u201d EDF\u2019s chief executive, Vincent de Rivaz, told MPs that he did not know when a final decision on Hinkley Point would be made. Once the unions had been consulted, the board would decide on Hinkley, he said, but stressed the opinion of the trade unions would be \u201cadvisory\u201d. The Hinkley project has been criticised for \u201ccolossal\u201d costs by the French energy minister, who suggested it should be delayed by several years, and EDF\u2019s finance director resigned over the issue, but president Fran\u00e7ois Hollande has fully backed the project.",
+  "webTitle": "Hinkley Point C: French union opposition casts fresh doubt on project",
+  "webPublicationDate": "2016-05-27T08:09:09Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/27/hinkley-point-c-french-union-opposition-casts-fresh-doubt-on-project",
+  "keyword": [
+    {
+      "webTitle": "Hinkley Point C",
+      "id": "uk-news/hinkley-point-c",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Unions",
+      "id": "world/unions",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "France",
+      "id": "world/france",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "EDF Energy",
+      "id": "business/edf",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Nuclear power",
+      "id": "environment/nuclearpower",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Energy",
+      "id": "environment/energy",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Julia Kollewe",
+      "id": "profile/juliakollewe"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/27/hinkley-point-c-french-union-opposition-casts-fresh-doubt-on-project"
+}

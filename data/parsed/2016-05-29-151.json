@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/29/minuscule-valley-of-lost-ants-review",
+  "id": "2016-05-29-151",
+  "sectionId": "film",
+  "body": "This delightful French-Belgian co-production is one of the more engaging family films on offer over the half-term break. An appealing blend of a live action backdrop, filmed in the spectacular Ecrins national park in south-east France, and a cast of animated bugs and beasties is combined with inventive sound design to tell a story entirely without words. A plucky young ladybird joins forces with a band of ants to appropriate a box of sugarcubes left at an abandoned picnic. But an army of rival red ants have set their sights on the bounty and lay siege to the ant hill. An orchestral score that evokes the early work of Danny Elfman is integral to the storytelling. The gentle humour comes from deft physical comedy and the playful use of sound, a similar approach to that of the first 30 minutes of Pixar\u2019s Wall-E. With very little peril, this is suitable for very young children but will charm all ages.",
+  "webTitle": "Minuscule: Valley of the Lost Ants review \u2013 quietly delightful",
+  "webPublicationDate": "2016-05-29T07:00:00Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/29/minuscule-valley-of-lost-ants-review",
+  "keyword": [
+    {
+      "webTitle": "Animation",
+      "id": "film/animation",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Wendy Ide",
+      "id": "profile/wendy-ide"
+    }
+  ],
+  "guardianId": "film/2016/may/29/minuscule-valley-of-lost-ants-review"
+}

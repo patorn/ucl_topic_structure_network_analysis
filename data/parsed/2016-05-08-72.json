@@ -1,0 +1,58 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/08/giulio-regeni-murder-investigators-italy-egypt-meet-cairo",
+  "id": "2016-05-08-72",
+  "sectionId": "world",
+  "body": "Italian and Egyptian investigators have met in Cairo in an attempt to break the deadlock over the investigation into the torture and murder of the student Giulio Regeni, a day after a court hearing in which his family\u2019s legal aide was detained for a further 15 days. A delegation of Italian investigators landed in the Egyptian capital on Saturday night, a month after Rome recalled its ambassador from Cairo over its dissatisfaction at the progress of the investigation. Regeni\u2019s tortured body was discovered on a Cairo roadside in early February, following the Italian PhD researcher\u2019s disappearance on the 25 January anniversary of the Egyptian uprisings. The brutal and prolonged torture suffered by Regeni prompted an outraged response from the global academic community and Italy, with Rome accusing Cairo of failing to provide vital evidence. A breakthrough came on Friday when Egyptian investigators gave the Italians phone records related to the investigation, a legal source told Reuters. Providing phone records has been one of Rome\u2019s key requests and the Italian investigators were expected to ask for further such records during their Cairo meetings. Italian investigators were not immediately able to comment on the outcome of Sunday\u2019s meeting, although the country\u2019s foreign minister, Paolo Gentiloni, has been sceptical that Egypt would cooperate fully with the Italian delegation. \u201cThe killing of Giulio was so horrible and we cannot accept an Italian citizen to be tortured and killed in this way. \u201cI have to say that until now the cooperation was not satisfactory \u2026 I hope that in the next days things will change, but frankly speaking I want to see results before being optimistic on this,\u201d the minister told CNN last week. Gentiloni\u2019s decision last month to recall Italy\u2019s ambassador to Cairo, Maurizio Massari, followed a meeting between investigators in Rome and marked a significant worsening of diplomatic ties between the two countries. The most recent bilateral talks came hours after a Cairo court ordered the further detention of Ahmad Abdullah, an activist who had been providing legal assistance to the Regeni family. Abdullah was seized at his home on 25 April, a day of planned protests against the transfer of two islands to Saudi Arabia, and faces charges including belonging to a banned group and attempting to overthrow the state. In chaotic scenes at the court on Saturday, a scuffle broke out between bailiffs and lawyers as activists tried to photograph Abdullah as he held a sign reading \u201cTruth for Regeni\u201d. Police confiscated phones and swiftly deleted the images, as the court ordered Abdullah\u2019s pre-trial detention to be extended for 15 days, Associated Press reported. While the charges faced do not relate specifically to the Regeni case, the Italian\u2019s family have been quick to denounce his arrest. Mohammed Lotfy, from the Egyptian Commission for Rights and Freedoms, of whose board of trustees Abdullah is the head, cast doubt on the motives for the arrest. \u201cOf course the declared reason [for his arrest and trial] concerns the 25 April, but you don\u2019t know what is in the mind of the national security officer who added his name to the list of people to be arrested,\u201d said Lotfy.",
+  "webTitle": "Giulio Regeni murder investigators from Italy and Egypt meet in Cairo",
+  "webPublicationDate": "2016-05-08T16:59:11Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/08/giulio-regeni-murder-investigators-italy-egypt-meet-cairo",
+  "keyword": [
+    {
+      "webTitle": "Egypt",
+      "id": "world/egypt",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Italy",
+      "id": "world/italy",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Africa",
+      "id": "world/africa",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Middle East and North Africa",
+      "id": "world/middleeast",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Rosie Scammell",
+      "id": "profile/rosie-scammell"
+    },
+    {
+      "webTitle": "Ruth Michaelson",
+      "id": "profile/ruth-michaelson"
+    }
+  ],
+  "guardianId": "world/2016/may/08/giulio-regeni-murder-investigators-italy-egypt-meet-cairo"
+}

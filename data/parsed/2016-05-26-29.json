@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/26/a-beautiful-planet-imax-documentary-jennifer-lawrence",
+  "id": "2016-05-26-29",
+  "sectionId": "film",
+  "body": "With such Imax credits as writer of Mission to Mir and director of Hubble 3D to her name, Toni Myers is doing as much as any film-maker to map the galaxy\u2019s outer reaches. Her latest large-format eye-opener achieves a breathtaking new perspective on Earthly life by floating cameras among astronauts aboard the International Space Station (ISS). Tim Peake\u2019s Twitter feed: mere dilettantism in comparison.\u00a0            What\u2019s beamed back combines a snapshot of ISS routine \u2013 zero-gravity haircare; terrifying external repairs \u2013 with an overview of landmasses subject to vivid natural and man-made phenomena: thunderstorms exploding under cloud cover; pollution clogged, veiny rivers; and a telling darkness north of the 38th parallel. Jennifer Lawrence\u2019s narration gets so earnest you might wish she\u2019d sunk at least one rum-and-coke beforehand, but elsewhere dry, rational science is mixed with piquant detail and playful soundtrack choices. The result is the best kind of spectacle: that which encourages us to look up and beyond ourselves \u2013 and does so using only organic special effects.",
+  "webTitle": "A Beautiful Planet review \u2013 vivid earthly phenonema and zero-gravity haircare",
+  "webPublicationDate": "2016-05-26T21:15:13Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/26/a-beautiful-planet-imax-documentary-jennifer-lawrence",
+  "keyword": [
+    {
+      "webTitle": "Documentary",
+      "id": "film/documentary",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "International Space Station",
+      "id": "science/international-space-station",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Space",
+      "id": "science/space",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Jennifer Lawrence",
+      "id": "film/jennifer-lawrence",
+      "sectionId": "film",
+      "sectionName": "Film"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Mike McCahill",
+      "id": "profile/mike-mccahill"
+    }
+  ],
+  "guardianId": "film/2016/may/26/a-beautiful-planet-imax-documentary-jennifer-lawrence"
+}

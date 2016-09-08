@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/14/police-severe-terror-threat-ira-northern-ireland-bomb-attacks",
+  "id": "2016-05-14-29",
+  "sectionId": "uk-news",
+  "body": "There is a \u201csevere\u201d threat of terrorist attacks on police in Northern Ireland by dissident republican groups, a higher level than MI5\u2019s warning last week of a \u201csubstantial\u201d risk of a New IRA bomb in Britain, the Observer has learned. One of those groups has acquired a stock of the deadly explosive semtex, security sources say. Rank-and-file police officers in the region are on a high state of alert as the three main hardline republican paramilitary groups target them for assassination. With the security forces dealing with a 40% increase in bomb alerts in the province, the Police Federation for Northern Ireland says the terrorist threat is now severe \u2013 the highest threat rate. According to the latest statistics from the Police Service of Northern Ireland (PSNI), over the past 12 months there have been 52 bomb attacks across Northern Ireland compared with 36 the previous year. One prison officer, Adrian Ismay, died from injuries after a bomb exploded underneath his van in March. On Thursday, Theresa May, the home secretary, confirmed in the House of Commons that the dissident republican terror threat was \u201csubstantial\u201d, which means a bombing in England is a strong possibility. Dissident republican and Irish security sources have separately confirmed that the New IRA \u2013 the largest of the anti-peace-process republican armed groups \u2013 has obtained semtex. Up to a quarter of a tonne of the Czech-made, Libyan-supplied explosive was taken from a secret arms dump in County Cavan in the Irish Republic that was unknown to the Provisional IRA. A future leading republican dissident had kept the hiding place secret because of a pending split in the organisation. Semtex was used by the Provisional IRA as a \u201cbooster\u201d explosive to set off a series of huge bombs containing tonnes of chemical-fertiliser mix that devastated the City of London, Canary Wharf and central Manchester in the 1990s. New IRA sources have told the Observer that Britain \u2013 particularly England \u2013 remains a key target in the armed campaigns. Mark Lindsay, the chairman of the Police Federation for Northern Ireland, said the threat level of \u201csevere\u201d meant that \u201cthe likelihood of an attack on our men and women is \u2018highly likely\u2019.\u201d His members were \u201chaving to work long hours with disrupted private lives to stay one step ahead of the bomber and the gunman\u201d. The 6,500-strong PSNI is currently 600 officers down on the number the ex-Conservative cabinet minister and police reformer Chris Patten estimated the force would need when it was transformed from the old Royal Ulster Constabulary. Lindsay made a direct appeal to the home secretary and other cabinet ministers for the recruitment of up to 1,000 extra officers for the PSNI to counter the threat to Britain. \u201cTo stop the threat migrating to Great Britain, ministers must now adopt a policy of \u2018spend to save\u2019. Far better we have the resources to do the job here [in Northern Ireland] before these terrorists can score a \u2018spectacular\u2019 on the mainland, with all that that would involve for human life and, of course, the economy,\u201d he said. In its statement to mark the 100th anniversary of the Easter Rising against British rule, the New IRA warned of further violence against its \u201cage-old enemy Britain\u201d. The New IRA was formed in the summer of 2012 and is an alliance of hardline anti-ceasefire republicans from the now defunct Real IRA, a Derry-based vigilante organisation called Republican Action Against Drugs, and independent armed republican units from East Tyrone. The latter include former members of the Provisional IRA\u2019s East Tyrone Brigade \u2013 one of the most ruthless units of the mainstream republican movement during the Troubles. These disgruntled republicans were responsible for murdering the Catholic PSNI constable Ronan Kerr with an under-car booby trap in April 2011. One of their members was also behind the murder in 2006 of Denis Donaldson, a leading Sinn F\u00e9in official and one-time key ally of the party\u2019s president, Gerry Adams. Donaldson was killed because he had been unmasked as a long-term British agent inside the IRA and Sinn F\u00e9in. IRA activists from Tyrone were heavily involved in transporting the huge bombs that struck British cities \u2013 but particularly London \u2013 in the 1990s. Many of those most active in the East Tyrone Brigade have switched their loyalty and their terrorist know-how to the New IRA. In its first-ever communique, the New IRA said it had created a \u201cunified structure, under a single leadership\u201d.",
+  "webTitle": "Police \u2018are facing severe terror threat from IRA\u2019",
+  "webPublicationDate": "2016-05-14T23:01:08Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/14/police-severe-terror-threat-ira-northern-ireland-bomb-attacks",
+  "keyword": [
+    {
+      "webTitle": "IRA",
+      "id": "uk/ira",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Northern Ireland",
+      "id": "uk/northernireland",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK security and counter-terrorism",
+      "id": "uk/uksecurity",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Police",
+      "id": "uk/police",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Ireland",
+      "id": "world/ireland",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Henry McDonald",
+      "id": "profile/henrymcdonald"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/14/police-severe-terror-threat-ira-northern-ireland-bomb-attacks"
+}

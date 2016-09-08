@@ -1,0 +1,84 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/reality-check/2016/may/16/eu-referendum-reality-check-will-air-fares-rise-brexit",
+  "id": "2016-05-16-137",
+  "sectionId": "business",
+  "body": "Co-opting a business leader that the British public loves to hate \u2013 Ryanair\u2019s chief executive, Michael O\u2019Leary \u2013 was perhaps a risky move by the remain campaign, particularly when he appeared to have given a very contrary message a few months back.  Speaking at Stansted on Monday alongside the chancellor, George Osborne, Vince Cable and Ed Balls, O\u2019Leary said air fares would increase if the UK voted to leave the EU. \u201cIf Britain leaves the single market, Britain may be forced out of the open skies regime, and air fares and the cost of holidays will rise,\u201d he said. \u201cThat\u2019s not speculation, that\u2019s a certainty.\u201d  On Tuesday May 24 David Cameron repeated the claim that Brexit would push up holiday prices at an event at Easyjet.   Just how certain is O\u2019Leary\u2019s certainty? When announcing Ryanair\u2019s remain colours in February, O\u2019Leary was filmed saying: \u201cI don\u2019t believe air fares will rise if Britain leaves the EU.\u201d Despite his blunt quote, he spent much of that press conference outlining why, even if a vote to leave would not cause an immediate rise in fares, British travellers could pay more in future. A stuttering economy would see the government looking for extra revenue, he claimed, and airlines have long felt aggrieved that the Treasury had levied a tax on flying, air passenger duty, that outweighs similar taxes abroad where they exist. O\u2019Leary also argued that the government\u2019s restrictions on airport expansion and reluctance to build new runways would drive up fares, as congested airports are able to charge more for scarce landing slots.  What direct costs would a vote to leave bring? Much of the argument appears to rest on assumptions familiar from the rest of the EU referendum debate: that economic uncertainty would mean a falling pound and diminish purchasing power. Jet fuel is purchased in dollars, and a weak pound would add to British airlines\u2019 big operating costs. But it seems extremely unlikely that the UK would be forced out of any open skies agreement, given its status as a major aviation player and the country\u2019s importance on transatlantic routes. Aviation is an international business and airlines are used to forging agreements to fly into countries that are far from allies, let alone in the same political union. Airline groups such as IAG, the owner of British Airways, have concluded that the EU referendum would have no material impact on their business.  What about holidays? In his assertion that the cost of holidays will rise, O\u2019Leary is backed by the travel trade association Abta, the arguments of which partly rest on uncertainty and a weaker tourist pound. Some EU legislation, including online package holiday protection, reciprocal free healthcare and flight delay compensation, could conceivably disappear and mean higher insurance or additional costs for tourists. However, it is worth noting that EU261, which forces airlines to pay for delayed travellers, was opposed by Ryanair amid warnings that it would drive up fares. Brexit may relieve British carriers of that obligation. Does Europe matter for cheap air travel?  EasyJet and Ryanair say their enormous growth across the continent owed a lot to the EU liberalising the skies, and allowing the freer movement of labour and business. When it comes to establishing new bases, presumably more transnational red tape would add to their costs and, subsequently, fares. Ryanair might struggle to attract so many graduates to relocate to Luton as cabin crew without access to the pool of young Spanish unemployed. But the example of Norwegian, one of the more high profile recent entrants to the budget airline sector, suggests that competitors from outside the EU can keep fares low \u2013 albeit with the help of an Irish operating licence.  Verdict: would fares rise? They might, but perhaps only substantially in the context of a broader post-exit malaise and a falling pound. If Ryanair, which claims to have the lowest fares, increases them, O\u2019Leary can prove himself right. But the airline is cash-rich and has booming profits, and has tended to react to any drop in demand by cutting fares further. It is difficult to see Ryanair changing course now.",
+  "webTitle": "Will air fares rise if the UK leaves the EU?",
+  "webPublicationDate": "2016-05-16T15:27:09Z",
+  "webUrl": "https://www.theguardian.com/world/reality-check/2016/may/16/eu-referendum-reality-check-will-air-fares-rise-brexit",
+  "keyword": [
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Air transport",
+      "id": "world/air-transport",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Airline industry",
+      "id": "business/theairlineindustry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Ryanair",
+      "id": "business/ryanair",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Michael O'Leary",
+      "id": "business/michael-oleary",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Consumer affairs",
+      "id": "money/consumer-affairs",
+      "sectionId": "money",
+      "sectionName": "Money"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Gwyn Topham",
+      "id": "profile/gwyntopham"
+    }
+  ],
+  "guardianId": "world/reality-check/2016/may/16/eu-referendum-reality-check-will-air-fares-rise-brexit"
+}

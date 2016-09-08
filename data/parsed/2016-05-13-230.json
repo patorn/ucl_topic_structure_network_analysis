@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/13/hinkley-point-cgn-china-general-nuclear-power-corporation-edf-energy",
+  "id": "2016-05-13-230",
+  "sectionId": "business",
+  "body": "The Chinese company helping EDF with plans to build new nuclear reactors at Hinkley Point in Somerset has flatly dismissed the idea it would go it alone if the largely state-owned French company dropped out. \u201cAs a partner to EDF supporting the Hinkley Point project, CGN [China General Nuclear Power Corporation] has no independent plans to build reactors at Hinkley Point C,\u201d it said in a statement. The Department of Energy and Climate Change reiterated the message with its own statement, which said: \u201cThere is no proposal for the Chinese to build a reactor at Hinkley.\u201d The denials come after George Osborne\u2019s father-in-law, Lord Howell, told the House of Lords that the Chinese were working on a \u201cplan B\u201d to step in if, as some expect, EDF abandons the controversial scheme. \u201cIs my noble friend aware that the Chinese also have a plan B, which is to bypass EDF altogether and build two smaller reactors on the Hinkley C site and to do it rather quicker than the present Hinkley C plan?\u201d Howell asked. He later told the Times that he had made the comments following private meetings with Chinese delegations. \u201cThis is the view of informed thinktanks and a deduction of the way they must be thinking,\u201d Howell said. The new reactors planned by EDF would provide 7% of Britain\u2019s electricity needs and are a vital part of the UK government\u2019s wider energy policy. But the project has been continually delayed amid questions as to whether the company can afford to build it.  Ahead of its annual general meeting in Paris on Thursday, EDF said the final cost of Hinkley could be \u00a320.7bn, but later argued that it still expected the plant to be constructed for \u00a318bn. There are also concerns about the European pressurised reactor designs that EDF plans to use in Somerset. There have been a series of problems with an EPR under construction at Flamanville in Normandy.",
+  "webTitle": "China nuclear company will not build Hinkley alone if EDF drops out",
+  "webPublicationDate": "2016-05-13T10:43:39Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/13/hinkley-point-cgn-china-general-nuclear-power-corporation-edf-energy",
+  "keyword": [
+    {
+      "webTitle": "EDF Energy",
+      "id": "business/edf",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Energy industry",
+      "id": "business/energy-industry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Nuclear power",
+      "id": "environment/nuclearpower",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Energy",
+      "id": "environment/energy",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Hinkley Point C",
+      "id": "uk-news/hinkley-point-c",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "China",
+      "id": "world/china",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Terry Macalister",
+      "id": "profile/terrymacalister"
+    }
+  ],
+  "guardianId": "business/2016/may/13/hinkley-point-cgn-china-general-nuclear-power-corporation-edf-energy"
+}

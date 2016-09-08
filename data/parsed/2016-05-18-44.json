@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/18/google-allo-messaging-app-encryption-apple-fbi",
+  "id": "2016-05-18-44",
+  "sectionId": "technology",
+  "body": "Google on Wednesday became the latest major technology company to join a standoff with the FBI over encryption.  At its developer conference, the company announced that its new messaging app, Allo, would feature an \u201cincognito mode\u201d that offered end-to-end encryption. Such technology can make it difficult for law enforcement to recover messages during investigations even if they have a warrant. In Washington DC, the FBI director, James Comey, has lobbied the administration to put restrictions on such technology.  Google isn\u2019t the first Silicon Valley giant to offer a messaging app with strong encryption. Apple\u2019s iMessage system uses it by default, and Facebook\u2019s WhatsApp turned end-to-end encryption on by default this spring.    Related: Google Assistant takes on Amazon and Apple to be the ultimate digital butler    But Google\u2019s timing is important. The release comes just months after Apple\u2019s high-profile court battle with the US government over encryption built into its iPhones. The FBI had wanted Apple to rewrite the software on a phone used by one of the San Bernardino shooters to help it retrieve data. Apple refused, and the bureau said it eventually found another way into the phone.  Following that showdown, it was unclear if the tech industry would double down on strong encryption or begin to soften its stance. While technologists were almost universal in their support for Apple, public opinion polls showed a narrow majority of Americans backed the FBI.  In March, the Guardian reported that Google and WhatsApp would be releasing stronger encryption tools.  Unlike WhatsApp, Google\u2019s Allo will not use strong encryption by default. Users will have to select an incognito mode and will have control over how long messages are stored on their devices.  It\u2019s unclear why Google made this engineering choice, but the company does mine user content to aid its ad targeting \u2013 Google\u2019s main moneymaker. End-to-end encryption can also make it harder for users to search through past messages going back into the distant past.  But for some security experts, this compromise makes Google\u2019s Allo a non-starter. They argue that mainstream consumers rarely alter default settings.  \u201cThis is too little, too late,\u201d said Christopher Soghoian, a technologist with the American Civil Liberties Union. \u201cUsers will only get the encryption benefits first by seeking out the app, and then by turning on the incognito mode.\u201d He suggested Google\u2019s Android users should just use WhatsApp.",
+  "webTitle": "Google Allo: new messaging app is latest to fight FBI over encryption",
+  "webPublicationDate": "2016-05-18T18:59:03Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/18/google-allo-messaging-app-encryption-apple-fbi",
+  "keyword": [
+    {
+      "webTitle": "Google",
+      "id": "technology/google",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Encryption",
+      "id": "technology/encryption",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Chat and messaging apps",
+      "id": "technology/chat-messaging-apps",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "WhatsApp",
+      "id": "technology/whatsapp",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Apple",
+      "id": "technology/apple",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "FBI",
+      "id": "us-news/fbi",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Danny Yadron",
+      "id": "profile/danny-yadron"
+    }
+  ],
+  "guardianId": "technology/2016/may/18/google-allo-messaging-app-encryption-apple-fbi"
+}

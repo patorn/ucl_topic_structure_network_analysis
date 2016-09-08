@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/09/iceland-president-olafur-ragnar-grimsson-goes-back-on-plan-to-run-for-sixth-term",
+  "id": "2016-05-09-89",
+  "sectionId": "world",
+  "body": "Iceland\u2019s longest serving president has said he will not run for a sixth term, the president\u2019s office has said. Monday\u2019s announcement came after \u00d3lafur Ragnar Gr\u00edmsson, 72 \u2013 who has been president since 1996 \u2013 surprised voters last month by saying he would stand for re-election in June to provide stability and experience in the wake of prime minister Sigmundur Dav\u00ed\u00f0 Gunnlaugsson\u2019s departure. Gunnlaugsson became the first major casualty of the Panama Papers in April, stepping aside after the leaked documents showed his wife owned a company in the British Virgin Islands that held debt in Iceland\u2019s failed banks. Gr\u00edmsson praised the expos\u00e9, which followed cooperation from Germany\u2019s S\u00fcddeutsche Zeitung and the International Consortium of Investigative Journalists with media organisations including the Guardian, as \u201ca great public service\u201d and promised there would be no similar scandals involving him or his wife, the wealthy Israeli-British jewellery heiress Dorrit Moussaieff. Last week, however, the Guardian reported that leaked documents from HSBC\u2019s private bank in Geneva listed Moussaieff and two other members of her family \u2013 who are best known for running an exclusive jewellery shop on London\u2019s New Bond Street \u2013 as joint owners of an offshore company, also in the British Virgin Islands. Gr\u00edmsson, who had initially announced in January that he would not be seeking to extend his 20-year term in office, has denied any knowledge of his wife\u2019s financial affairs and \u2013 like Gunnlaugsson \u2013 insisted that neither he nor his wife had done anything illegal.  But on Monday, his office said he would not stand again after all, explaining that \u201cthe waves of protests have subsided and national affairs are now in a more traditional and peaceful channel\u201d. Gr\u00edmsson had been comfortably ahead in opinion polls for the 25 June election. His withdrawal leaves two main candidates for the largely ceremonial role, the former centre-right prime minister and central bank governor Dav\u00ed\u00f0 Oddsson and the independent Gu\u00f0ni J\u00f3hannesson, a historian and political scientist.",
+  "webTitle": "Iceland's president goes back on plan to run for sixth term",
+  "webPublicationDate": "2016-05-09T17:06:22Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/09/iceland-president-olafur-ragnar-grimsson-goes-back-on-plan-to-run-for-sixth-term",
+  "keyword": [
+    {
+      "webTitle": "Iceland",
+      "id": "world/iceland",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jon Henley",
+      "id": "profile/jonhenley"
+    }
+  ],
+  "guardianId": "world/2016/may/09/iceland-president-olafur-ragnar-grimsson-goes-back-on-plan-to-run-for-sixth-term"
+}

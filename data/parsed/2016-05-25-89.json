@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://content.guardianapis.com/education/2016/may/25/richard-hamilton-obituary",
+  "id": "2016-05-25-89",
+  "sectionId": "education",
+  "body": "My father, Richard Hamilton, who has died aged 97, made an extraordinary contribution to education over his lifetime as a teacher. His upbringing in an impoverished Scottish mining community forged his lifelong principles of socialism and pacifism. At the outbreak of the second world war, his pacifism resulted in exemption from military service and a wholehearted endorsement from the tribunal to carry on his chosen profession of teaching. He was born in Leith and brought up in Musselburgh. His father, also called Richard, was a miner and his mother, Isabella (nee Taylor), was a cook in domestic service. At the local village school Richard\u2019s headteacher recognised his academic potential; a transfer to grammar school followed, then Edinburgh University where, with financial aid from a Miners\u2019 Welfare scholarship, he gained a first in English. At school Richard was introduced to Socrates and the classics, both of which forever permeated his ideals and his unfaltering belief in the value of education to society at large. Literature was Richard\u2019s life, something that manifested itself in his ability to find an apt quotation for any occasion. His mind was a library, and the places he seemed most at ease in were libraries, too: his tutorial room, his wonderful study at home. Equal to these were the secondhand bookshops of Edinburgh, where his lifelong enthusiasm for collecting books was fostered. Richard passed on his ideals to his students, fellow colleagues and family. He taught first at George Heriot\u2019s school, Edinburgh, where he met Elspeth Greig, who was teaching there. They married in 1946, and that year he became a tutor in English and education at the College of St Mark and St John, Chelsea. In 1952 he moved to Birmingham University as a senior lecturer in education and then in 1957 to Edinburgh University, where he taught in both the education and philosophy departments until his retirement in 1988. Elspeth died in 2009. Richard is survived by my brother, Lewis, and me, and by his granddaughters, Laura, Rachel, Emily and Isobel, and his great-grandsons, Oscar and Elliot.",
+  "webTitle": "Richard Hamilton obituary",
+  "webPublicationDate": "2016-05-25T16:56:41Z",
+  "webUrl": "https://www.theguardian.com/education/2016/may/25/richard-hamilton-obituary",
+  "keyword": [
+    {
+      "webTitle": "Education",
+      "id": "education/education",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Philosophy",
+      "id": "education/philosophy",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Classics and ancient history",
+      "id": "education/classics",
+      "sectionId": "education",
+      "sectionName": "Education"
+    }
+  ],
+  "authors": [],
+  "guardianId": "education/2016/may/25/richard-hamilton-obituary"
+}

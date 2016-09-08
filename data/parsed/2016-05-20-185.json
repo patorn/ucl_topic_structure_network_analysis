@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/20/five-best-classical-concerts-this-week",
+  "id": "2016-05-20-185",
+  "sectionId": "music",
+  "body": "1: Saint Ludmila Despite the popularity of many of his orchestral pieces, Dvo\u0159\u00e1k\u2019s choral works tend to be overlooked. But the Hall\u00e9\u2019s Dvo\u0159\u00e1k festival ends with a rare outing for this oratorio, which chronicles Christianity\u2019s spread through pagan lands. It will be sung in a new translation by David Pountney; Mark Elder conducts. Bridgewater Hall, Manchester, Sat 2: Il Barbiere Di Siviglia Glyndebourne\u2019s season opens with a revival of one of the most sumptuous of its recent shows, David McVicar\u2019s staging of Wagner\u2019s Die Meistersinger (Sat to 27 Jun), as well as this brand new version of an old favourite. Glyndebourne Opera House, Lewes, Sun & Thu, to 17 Jul 3: Oedipe It has taken 80 years for George Enescu\u2019s treatment of the Oedipus legend, widely regarded as one of the neglected masterpieces of 20th-century opera, to make it on to a British stage. La Fura dels Baus\u2019s production comes to the Royal Opera from Brussels; Leo Hussain conducts a strong cast, headed by Johan Reuter. Royal Opera House, WC2, Mon to 8 Jun 4: 4.48 Psychosis Sarah Kane\u2019s final play, which chronicled her battle with depression, might seem an unlikely source for an opera. Philip Venables, the Royal Opera\u2019s composer-in-residence, has never shied away from difficult topics, and this will be his biggest test to date. Lyric Hammersmith, W6, Mon, Tue, Thu & Fri, to 28 May 5: English Music Festival The supply of neglected early 20th-century works shows no sign of waning. This year there\u2019s a focus on Butterworth, a century after his death on the Somme. Various venues, Oxfordshire, Thu to 30 May",
+  "webTitle": "Five of the best\u2026 classical concerts this week",
+  "webPublicationDate": "2016-05-20T12:00:09Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/20/five-best-classical-concerts-this-week",
+  "keyword": [
+    {
+      "webTitle": "Classical music",
+      "id": "music/classicalmusicandopera",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Andrew Clements",
+      "id": "profile/andrewclements"
+    }
+  ],
+  "guardianId": "music/2016/may/20/five-best-classical-concerts-this-week"
+}

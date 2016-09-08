@@ -1,0 +1,55 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/07/from-the-observer-archive-this-week-in-1926",
+  "id": "2016-05-07-16",
+  "sectionId": "uk-news",
+  "body": "Five days of the General Strike show that the community\u2019s moral and material power of resistance had not been overvalued. The Government rightly refuses to enter into conference while the strike continues. Its determination is approved and upheld by all the leaders of the older parties in both Houses. There is quiet and unflinching support for it in every part of the land. The General Council of the Trade Union Congress continues to insist that this is an industrial dispute. We recognise that its pronouncements and instructions since the strike began have been designed to limit the consequences of its own action. The strikers, for the most part, have responded well to its appeal for restraint up to the present. But the act of the Council has to be judged apart from its intentions. If trade unionists had wished to thrust proof upon the nation that its liberties were at stake, they would not have done so more forcibly than by the attempt to dragoon and stifle the press. The\u00a0General Strike has forced the constitutional issue. Obscured in its deep shadow stands the unsettled problem of the coal-fields. The strike must end before there can be any return to the problem it cannot solve, and the difficulties that have mainly obstructed the march of British industry for nearly two years will be unchanged except for the worse. Key quote \u201cOne step further and the Soviet Izvestia will be produced in the splendidly equipped printing offices of the Times.\u201d The Observer reports on what a jubilant and optimistic Soviet press is saying about the strike. Talking point The BBC is being overwhelmed with enquiries regarding news items, and it is suggested listeners should have pencil and paper to hand whilst news is being broadcast. Small news item on page two \u2013 of a two-page strike-hit Observer.",
+  "webTitle": "From the Observer archive: this week in 1926",
+  "webPublicationDate": "2016-05-07T23:05:06Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/07/from-the-observer-archive-this-week-in-1926",
+  "keyword": [
+    {
+      "webTitle": "Industrial action",
+      "id": "uk-news/industrial-action",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Politics past",
+      "id": "politics/past",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "TUC",
+      "id": "politics/tuc",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Trade unions",
+      "id": "politics/tradeunions",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "The Observer",
+      "id": "media/theobserver",
+      "sectionId": "media",
+      "sectionName": "Media"
+    }
+  ],
+  "authors": [],
+  "guardianId": "uk-news/2016/may/07/from-the-observer-archive-this-week-in-1926"
+}

@@ -1,0 +1,34 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/11/republican-dissident-terror-threat-level-raised-in-britain",
+  "id": "2016-05-11-210",
+  "sectionId": "uk-news",
+  "body": "The official threat level of attacks in Britain from Irish republican dissidents has been raised by the security services from moderate to substantial, the home secretary, Theresa May, has announced. May said the decision to raise the level meant \u201ca terrorist attack is a strong possibility and reflects the continuing threat from dissident republican activity\u201d. She said the Home Office was working closely with the police and other relevant authorities to ensure appropriate security measures were put in place. The threat level to the UK from international terrorists, including Islamic State, remains unchanged at the higher level of severe, which means an attack is highly likely. The threat level in Northern Ireland from Northern-Ireland-related terrorism also remains unchanged at severe. \u201cThe public should remain vigilant and report any suspicious activity to the police,\u201d the home secretary added in a written Commons statement. The threat level from Northern Irish terrorism in Britain was last rated as substantial nearly five years ago and downgraded to moderate in July 2011. The home secretary said: \u201cThe main focus of violent dissident republican activity continues to be in Northern Ireland, where they have targeted the brave police and prison officers who serve their communities day in and day out. The reality is that they command little support. They do not represent the views or wishes of the vast majority of people, both in Northern Ireland and the Republic of Ireland, who decisively expressed their desire for peace in the 1998 Belfast agreement and have been transforming Northern Ireland ever since.  \u201cHowever it is sensible, given their stated aims, that the public in Great Britain should also remain vigilant and report any suspicious activity to the police. But we should not be alarmed, and this should not affect how we go about our daily lives,\u201d she said. Dissident republican terror groups, particularly the New IRA, have increased their capacity to wage violence by obtaining semtex. Republican sources said the device used to kill the Northern Ireland prison officer Adrian Ismay in March contained the explosive. They said it had belonged to the Provisional IRA but was moved out of a central mainstream republican arms dump in the Irish Republic as far back as 1997.  It was taken out of the PIRA hide near the border with Northern Ireland by a senior Provisional who later became a key player in dissident republicanism.  He is believed to have wanted to hide as many armaments as possible because he feared, correctly as it turned out, that the mainstream republican leadership under Martin McGuinness and Gerry Adams would persuade PIRA to decommission its terror arsenal as part of a political deal with unionists.  The semtex, believed to be about a quarter of a tonne of Libyan-supplied, Czech-made explosive, was only recently handed over to the New IRA.  At Easter a New IRA source told the Guardian that Britain always remained a target of those republicans who opposed the power-sharing political settlement in Northern Ireland.  Semtex was used to trigger the huge bombs that caused such devastation to the City of London, Canary Wharf and Manchester city centre in the 1990s.  The explosive sets off a bomb containing huge amounts of a fertiliser mix that creates a massive blast. The Police Service of Northern Ireland warned at Easter that the terror threat from the New IRA, Continuity IRA and \u00d3glaigh na h\u00c9ireann had intensified. ACC Stephen Martin said the threat from the three hardline republican armed groups was \u201cthe upper end of severe\u201d.",
+  "webTitle": "Republican dissident terror threat level raised in Britain",
+  "webPublicationDate": "2016-05-11T12:49:52Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/11/republican-dissident-terror-threat-level-raised-in-britain",
+  "keyword": [
+    {
+      "webTitle": "Northern Ireland",
+      "id": "uk/northernireland",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Alan Travis",
+      "id": "profile/alantravis"
+    },
+    {
+      "webTitle": "Henry McDonald",
+      "id": "profile/henrymcdonald"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/11/republican-dissident-terror-threat-level-raised-in-britain"
+}

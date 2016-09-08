@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/26/olympics-tokyo-2020-papa-massata-diack",
+  "id": "2016-05-26-69",
+  "sectionId": "sport",
+  "body": "The International Olympic Committee has admitted to \u201cconcerns\u201d over suspect payments from Tokyo\u2019s successful bid for the 2020 Games to a company linked to the son of the disgraced former world athletics chief Lamine Diack.   Related: Questions over Tokyo 2020 Olympic bid are spreading far and wide    Insisting the IOC had a \u201czero-tolerance\u201d approach to corruption, its vice-president John Coates spoke out on the issue on a visit to the Japanese capital to check on preparations for the 2020 Games. \u201cWe share the same concerns as the Japanese public does about corruption,\u201d said the Australian, who heads the IOC\u2019s coordination commission for the Tokyo Games. \u201cI think that should be clear from our president [Thomas] Bach and the executive board\u2019s zero-tolerance approach whether it\u2019s in regard to doping or corruption in the bidding process.\u201d The Guardian revealed this month that French prosecutors were investigating payments either side of Tokyo\u2019s successful bid to win the Olympics in September 2013, sparking concern in Japan. The Japanese Olympic Committee eventually confirmed that it had made two payments totalling more than $2m to Black Tidings, a Singaporean company headed by the consultant Ian Tan Tong Han that was also linked to allegations surrounding extortion and cover-up of Russian drug tests. Tan was a close associate of Papa Massata Diack, the son of Lamine Diack, who is now the subject of an Interpol wanted notice. His father, who was an IOC member at the time of the vote, has also been accused by French prosecutors of accepting more than \u20ac1m in bribes to cover up positive drug tests. The JOC president Tsunekazu Takeda, who headed Tokyo\u2019s bid team and sits on the organising committee board, has confirmed the payments to Black Tidings but claimed they were for legitimate consultancy work. In the wake of questioning in the Japanese Parliament, the JOC has set up a three-man investigation team. Coates, said he had been assured by Takeda that \u201cthe JOC has a full open book\u201d. He added: \u201cThe IOC looks forward to the report of that investigation.\u201d The IOC has said that it will not set up its own parallel investigation but remains in close contact with the French prosecutors. Takeda has so far refused to say who negotiated the payments but has admitted signing them off. Papa Massata Diack, who remains in Senegal, has denied any wrongdoing. The role of Dentsu, the Japanese marketing giant that holds a contract with the IAAF until 2029, has also come under scrutiny. According to a Wada independent commission report, Tan was employed as a consultant by Athletics Managment & Services, a Lucerne based company with longstanding links to Dentsu. Dentsu has said that it was unaware of any payment to Black Tidings, that AMS was not a subsidiary and that it had never directly employed Tan as a consultant.",
+  "webTitle": "IOC concerned at suspect payments made by Tokyo 2020 bid team",
+  "webPublicationDate": "2016-05-26T19:11:42Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/26/olympics-tokyo-2020-papa-massata-diack",
+  "keyword": [
+    {
+      "webTitle": "Olympic Games 2020",
+      "id": "sport/olympic-games-2020",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Olympic Games",
+      "id": "sport/olympic-games",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Japan",
+      "id": "world/japan",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Asia Pacific",
+      "id": "world/asia-pacific",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Owen Gibson",
+      "id": "profile/owengibson"
+    }
+  ],
+  "guardianId": "sport/2016/may/26/olympics-tokyo-2020-papa-massata-diack"
+}

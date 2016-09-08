@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/society/2016/may/26/cannavaping-could-see-e-cigarettes-used-to-deliver-medicinal-cannabis",
+  "id": "2016-05-26-176",
+  "sectionId": "society",
+  "body": "Electronic cigarettes can be a safe and effective way to deliver cannabis for medicinal purposes, according to researchers in Switzerland. Scientists at the University of Lausanne created cannabis-laden oils for e-cigarettes and found that vaping the infusions could deliver useful levels of the active ingredients found in cannabis. The team claims that \u201ctherapeutic cannavaping\u201d, would be healthier than smoking the drug with tobacco, and would allow users to have regular microdoses of the drug\u2019s active ingredients throughout the day, which is not possible with pills containing cannabis extracts. \u201cThis could be a great approach to using these kinds of cannabinoids,\u201d said Vincent Varlet, who took part in the work. \u201cThe aim is not to get high, the aim is to get cured.\u201d Varlet and others used butane gas to extract the active substances, called cannabinoids, from cannabis to create concentrated butane hashish oil. They then tested how well the oil was atomised in e-cigarettes on the market. Writing in the journal Scientific Reports, the researchers describe how e-cigarettes can deliver therapeutic doses of cannabinoids without getting people stoned. \u201cCannavaping appears to be a gentle, efficient, user-friendly and safe alternative method for cannabis smoking for medical cannabis delivery,\u201d they say.   Related: Say Why To Drugs \u2013 the highs and lows of cannabis    In the course of their experiments, the scientists found that butane hashish oil is not very soluble in the liquid refills used in commercial e-cigarettes, leading them to suspect that the risks of people abusing the drug through vaping are low.  \u201cI think it\u2019s a great idea, but this would be illegal in the UK,\u201d said David Nutt, head of neuropsychopharmacology at Imperial College, London. In Britain, cannabinoids in vapable oil form would likely be considered \u201ccontrolled drugs\u201d under the Misuse of Drugs Act, or psychoactive substances under the Psychoactive Substances Act, which comes into force in the UK today. \u201cI hope parliament makes cannabis a medicine soon,\u201d Nutt added. But Michael Bloomfield, a clinical lecturer in psychiatry at University College London, has concerns about vaping cannabis oil. \u201cWe really need more studies and to look at whether cannabis through e-cigarettes can be use for medicinal purposes,\u201d he said. \u201cFrom a harm reduction point of view, cannavaping sounds like it may be a good thing, but if this is going to be used as a medicine, it has to go through all the same checks and balances as other medicines.\u201d \u201cBranding cannabis use through an electronic cigarette as \u2018therapeutic cannavaping\u2019 is worrying given that proper randomised controlled trials need to be conducted on any medical intervention to demonstrate their effectiveness, something that is currently lacking in much of the \u2018medical marijuana\u2019 market,\u201d he said. Another concern, he added, was the use of flavoured cannabis e-cigarettes that might become popular with younger people, who appear most at risk from some of the harms linked to heavy, long-term use of cannabis.",
+  "webTitle": "'Cannavaping' could see e-cigarettes used to deliver medicinal cannabis",
+  "webPublicationDate": "2016-05-26T13:59:04Z",
+  "webUrl": "https://www.theguardian.com/society/2016/may/26/cannavaping-could-see-e-cigarettes-used-to-deliver-medicinal-cannabis",
+  "keyword": [
+    {
+      "webTitle": "Cannabis",
+      "id": "society/cannabis",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "E-cigarettes",
+      "id": "society/e-cigarettes",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Smoking",
+      "id": "society/smoking",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Drugs",
+      "id": "society/drugs",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ian Sample",
+      "id": "profile/iansample"
+    }
+  ],
+  "guardianId": "society/2016/may/26/cannavaping-could-see-e-cigarettes-used-to-deliver-medicinal-cannabis"
+}

@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/11/china-sentences-man-to-seven-years-in-jail-for-watching-sensitive-film",
+  "id": "2016-05-11-283",
+  "sectionId": "film",
+  "body": "A man from China\u2019s ethnic Uighur minority has been sentenced to seven years in jail for watching a \u201csensitive\u201d film about Muslim migration, according to Radio Free Asia. Authorities claim Eli Yasin, from Chaghraq in Aksu, Xinjiang, is suspected of planning to go abroad with members of his family \u201cto wage jihad\u201d. But a local security chief for Yasin\u2019s village says none of the accused are in any position to leave China, as they are impoverished and need to work on the family farm to help provide for children and younger relatives.   Related: 'A brighter future beckons': China tries to get Xinjiang to join the party    \u201cAll of them were over 40 years of age,\u201d said Hesen Eysa, security chief for Yasin\u2019s Karasu village. \u201cThey had a farm, and they were struggling to survive and provide for their children\u2019s education,\u201d he told Radio Free Asia\u2019s Uighur service.  \u201cThey showed no signs of opposing the government. At least I never saw any signs of this. As a security chief, I am having a hard time explaining these charges to the people in my village. None of this makes any sense. It is very unjust.\u201d Detained along with Yasin were his two sisters and their husbands, between them responsible for between three and five children per family. The Chinese government says it faces a serious threat from Islamist terrorists and separatists in Xinjiang, which sits strategically on the borders of central Asia and where hundreds of civilians and police have died in deadly clashes and inter-ethnic rioting. But exiles and rights groups say China has never presented convincing evidence of the existence of a cohesive militant group fighting against the government, and that much of the unrest can be traced back to frustration at controls over the culture and religion of the Uighur people who make up the majority of the population in the far north-western province.",
+  "webTitle": "China sentences man to seven years in jail for watching 'sensitive' film",
+  "webPublicationDate": "2016-05-11T10:14:51Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/11/china-sentences-man-to-seven-years-in-jail-for-watching-sensitive-film",
+  "keyword": [
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "China",
+      "id": "world/china",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Xinjiang",
+      "id": "world/xinjiang",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Asia Pacific",
+      "id": "world/asia-pacific",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ben Child",
+      "id": "profile/benchild"
+    }
+  ],
+  "guardianId": "film/2016/may/11/china-sentences-man-to-seven-years-in-jail-for-watching-sensitive-film"
+}

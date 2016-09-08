@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/17/rougned-odor-jose-bautista-fight-suspension",
+  "id": "2016-05-17-9",
+  "sectionId": "sport",
+  "body": "Rougned Odor has been banned for eight games and fined $5,000 after his brawl with Jos\u00e9 Bautista on Sunday, MLB confirmed on Tuesday. Bautista has been suspended for one game. Odor said on Monday that he has no regrets about the straight right he landed on Bautista\u2019s jaw, and accepted he would probably be suspended over the incident. The Texas Rangers infielder was angered by what he saw as a hard slide by the Toronto Blue Jays\u2019 Bautista during the teams\u2019 game on Sunday. The incident escalated to a brawl between the Blue Jays and Rangers, and it took umpires 10 minutes to settle tempers down.   Related: Rougned Odor punches Jos\u00e9 Bautista as Rangers-Blue Jays descends into brawl     \u201cI think I just play the game how I play. I just play the game to win games,\u201d Odor said on Monday night before the game against the Oakland A\u2019s. \u201cI know I\u2019m going to be suspended for a couple games. I\u2019m just going to keep doing what I do.\u201d             Odor said he respected Bautista and did not hold a grudge. \u201cI just play for my team,\u201d Odor said. \u201cI just try to be a good team-mate, to do the best I can to win games.\u201d  The Rangers manager, Jeff Banister, said he expected Odor\u2019s punishment to be \u201csevere\u201d but accepted fights were part of the game. \u201cI\u2019m not going to criticize players for playing hard,\u201d he said. \u201cThings happen. It was ugly. It looked bad; the whole situation was not pretty at second. It\u2019s two guys who play the game with passion. It\u2019s all relevant.\u201d Blue Jays pitcher Jesse Chavez and manager John Gibbons, who returned to the field for the fight following his ejection five innings earlier, were suspended for three games each. Rangers shortstop Elvis Andrus and Blue Jays first base coach Tim Leiper were suspended for one game apiece. Odor and Bautista have notified MLB of their intention to appeal, and both were available to play Tuesday night. There has been tension between the two teams since last year\u2019s American League Division Series when Bautista flipped his bat after a home run, an action which the Rangers saw as disrespectful.",
+  "webTitle": "Rougned Odor given eight-game ban for punching Jos\u00e9 Bautista",
+  "webPublicationDate": "2016-05-17T22:17:20Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/17/rougned-odor-jose-bautista-fight-suspension",
+  "keyword": [
+    {
+      "webTitle": "Texas Rangers",
+      "id": "sport/texas-rangers",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Toronto Blue Jays",
+      "id": "sport/toronto-blue-jays",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "MLB",
+      "id": "sport/mlb",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Baseball",
+      "id": "sport/baseball",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "US sports",
+      "id": "sport/us-sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "sport/2016/may/17/rougned-odor-jose-bautista-fight-suspension"
+}

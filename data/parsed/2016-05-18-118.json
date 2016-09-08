@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/18/horse-racing-tips-thursday-19-may",
+  "id": "2016-05-18-118",
+  "sectionId": "sport",
+  "body": "Lingfield 2.00 Les Gar Gan 2.30 Sherdat 3.05 Astra Hall 3.40 Ayr Of Elegance 4.10 Anastazia 4.45 Aqua Ardens 5.15 Racing Angel Ripon 6.15 Zig Zag Girl 6.45 Dot Green 7.20 Always Resolute 7.50 Dolphin Vista 8.25 Regal Monarch 8.55 Roger Thorpe Worcester  2.10 Triggywinkle 2.40 Brook 3.15 Christmas In April 3.50 King Boru  4.20 Moon Racer 4.55 Looks Like Power 5.25 Perspicace 5.55 Strollawaynow Goodwood 1.50 Afandem 2.20 The Warrior 2.55 Wolf Of Windlesham 3.30 Bedrock 4.00 Zaakhir 4.35 Golden Reign 5.05 Oat Couture Sandown 5.50 Tropical Rock 6.25 Harbour Law (nb) 6.55 Defrocked (nap) 7.30 Primitivo 8.00 Regicide 8.35 Forest Lakes",
+  "webTitle": "Horse racing tips: Thursday 19 May",
+  "webPublicationDate": "2016-05-18T15:17:58Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/18/horse-racing-tips-thursday-19-may",
+  "keyword": [
+    {
+      "webTitle": "Horse racing tips",
+      "id": "sport/horse-racing-tips",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Horse racing",
+      "id": "sport/horse-racing",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Greg Wood",
+      "id": "profile/gregwood"
+    }
+  ],
+  "guardianId": "sport/2016/may/18/horse-racing-tips-thursday-19-may"
+}

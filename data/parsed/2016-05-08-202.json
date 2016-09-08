@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/08/debussy-piano-works-dennis-lee-review",
+  "id": "2016-05-08-202",
+  "sectionId": "music",
+  "body": "The Malaysian pianist Dennis Lee\u2019s recording of works by Szymanowski for Hyperion won high praise for his handling of the music\u2019s complex sonorities, and again, this time in Debussy, it is the clarity of Lee\u2019s playing that first strikes the listener. Despite the impressionistic intent of Debussy\u2019s piano pieces, their shifting harmonies and open pedal passages need clear direction to succeed. Jardins sous la pluie from Estampes (1903) is just such an example. Lee never lets the ceaseless raindrops wash away the contours of the piece. That same confident and yet sensitive approach imbues the first set of Images (1904) and the bubbling optimism of Deux Arabesques (1888). Hugely enjoyable.",
+  "webTitle": "Dennis Lee: Debussy Piano Works Vol 1 review \u2013 confidence and clarity",
+  "webPublicationDate": "2016-05-08T06:00:14Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/08/debussy-piano-works-dennis-lee-review",
+  "keyword": [
+    {
+      "webTitle": "Claude Debussy",
+      "id": "music/claude-debussy",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Classical music",
+      "id": "music/classicalmusicandopera",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Stephen Pritchard",
+      "id": "profile/stephenpritchard"
+    }
+  ],
+  "guardianId": "music/2016/may/08/debussy-piano-works-dennis-lee-review"
+}

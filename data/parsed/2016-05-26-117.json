@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/26/democratic-republic-of-congo-clashes-protests-joseph-kabila",
+  "id": "2016-05-26-117",
+  "sectionId": "world",
+  "body": "Police and demonstrators have clashed in the Democratic Republic of Congo amid growing fears that elections scheduled for later this year will be postponed. One protester died during running battles in Goma, the largest city in the east, while security forces in the capital, Kinshasa, fired teargas at an opposition march.   Related: Fears DRC president's push to keep power will spark major violence    Opposition parties and civil society groups had called for nationwide demonstrations to protest against a ruling earlier this month by Congo\u2019s highest court that would allow president Joseph Kabila to remain in power if presidential and parliamentary elections due in November are not held. While a march that was authorised in Kinshasa drew several thousand opposition supporters, demonstrations in other cities were banned by local authorities. In Goma, at least one civilian was killed and two wounded by gunfire that most likely came from police, said Jose Maria Aranaz, director of the United Nations\u2019 Congo-based human rights centre. There were also reports that a police officer had been killed by protesters throwing stones, but these could not be verified. The UN human rights office said on Twitter at least 59 people had been arrested. Protesters in the east also expressed anger at what they said was a lack of government action over a series of local massacres. Supporters of Kabila say major logistic shortcomings need to be overcome and a \u201csecure environment\u201d established across Congo before the scheduled elections can be held. This may take up to four years, they say. Kabila took office less than two weeks after his father was shot by a bodyguard in the presidential palace in 2001. He was elected president in disputed polls in 2006 and again in 2011. A third term is barred by Congo\u2019s constitution. Western nations, including the US, have warned Kabila to stick to the election calendar. Government officials deny Kabila is seeking to remain in power. A heavy deployment of riot police was visible in the streets of the southern mining hub of Lubumbashi, where supporters of the opposition presidential candidate Moise Katumbi have repeatedly clashed with police this month. Some analysts fear a violent showdown between Kabila and Katumbi, a former governor of Katanga province in the south-east and towner of Africa\u2019s top football team, TP Mazembe.  Katumbi left Congo last week to receive medical treatment in South Africa for injuries sustained during a demonstration. The charismatic tycoon has made no statement since arriving in Johannesburg. Ben Shepherd, an analyst at Chatham House, told the Guardian last week there was a sense among members of Congo\u2019s closely entwined political elite that \u201ca new deal\u201d was possible among major powerbrokers and their dependents. Though Kabila was given a boost when allies won more than two-thirds of the elections for governors of newly created provinces in March, he has failed to push through constitutional changes to allow him to stand for a third term, in contrast to other leaders in the region. The DRC is nearly two-thirds the size of western Europe and has a population of more than 79 million. Since it won independence from Belgium in 1960, there has never been a peaceful, democratic transition of power in the country. Ban Ki-moon, the UN secretary general, urged all parties in the central African nation to exercise restraint and express their views peacefully. He said the UN was ready to help foster political dialogue in the resource-rich but long troubled country.",
+  "webTitle": "Scores arrested in Democratic Republic of Congo clashes",
+  "webPublicationDate": "2016-05-26T16:56:45Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/26/democratic-republic-of-congo-clashes-protests-joseph-kabila",
+  "keyword": [
+    {
+      "webTitle": "Democratic Republic of the Congo",
+      "id": "world/congo",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Africa",
+      "id": "world/africa",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Protest",
+      "id": "world/protest",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jason Burke",
+      "id": "profile/jasonburke"
+    }
+  ],
+  "guardianId": "world/2016/may/26/democratic-republic-of-congo-clashes-protests-joseph-kabila"
+}

@@ -1,0 +1,96 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/23/cma-objects-land-registry-privatisation",
+  "id": "2016-05-23-103",
+  "sectionId": "business",
+  "body": "The competition watchdog has objected to government plans to privatise the Land Registry, warning that allowing a private firm to take possession of property ownership information could cause problems for other businesses. The Competition & Markets Authority (CMA) said selling off the organisation that keeps the official record of commercial and residential land ownership in England and Wales would give the new owner a monopoly on commercially valuable data with no incentive to improve access to it.  The government attracted criticism for announcing its plans for the \u00a31bn-plus sell-off just before the Easter break, opening a consultation that closes on Thursday. In a letter sent alongside its response to the consultation, CMA senior director John Kirkpatrick said: \u201cWe believe that consumers and the economy would be best served by a model that promotes wide access to Land Registry data at cost-reflective prices, encouraging its use and commercial exploitation by a range of individuals and businesses.\u201d He added: \u201cOur view is that a privatised, vertically integrated Land Registry [the government\u2019s preferred option] would be unlikely to deliver this outcome, despite the best efforts of oversight bodies to regulate prices and write safeguards into a contract or licence.\u201d   Related: Selling off assets such as Land Registry 'will leave government worse off'    The Land Registry employs more than 4,500 civil servants and plays an important role in the property market, holding 24m titles for the ownership of properties across England and Wales.  The information is available to the public at a small charge, and to businesses and other organisations. As well as providing the basis for its own house price index each month, the Land Registry\u2019s data is used by other organisations to produce regular indices and reports. It is also used by firms such as property websites to show recent prices. The CMA has no powers to block the proposed privatisation. The watchdog said its preferred option was for the Land Registry to remain in public ownership. Failing that, the organisation should be split into two with the register of properties remaining in public hands while a commercial arm was spun off. Kirkpatrick warned: \u201cHistory shows that it can be very difficult and time-consuming to solve problems arising from privatisations that give rise to anti-competitive market structures.\u201d The privatisation plans have drawn criticism from a wide range of organisations, including solicitors and the News Media Association, which warned it was a threat to investigative journalism.  A petition against privatisation has so far attracted more than 225,000 signatures. It will be presented to the Department of Business, Innovation and Skills on Thursday. Joy Bassett, a solicitor and one of the people behind the Save the Land Registry Campaign, said she was not surprised the petition had been so popular.   Related: Why do the Tories want to hide who owns our country\u2019s land? | Charles Arthur    \u201cWhen we talk to our conveyancing clients about it, they are outraged and are quick to sign the petition for two main reasons,\u201d she said. \u201cOut of concern that it\u2019s their data that is at risk - it\u2019s their names on the title deeds and mortgage deeds and it should be protected by the state, and that it\u2019s not in the hands of a commercial entity driven by profit.\u201d She added: \u201cNo matter how much the government promises to safeguard and monitor, they will have very little control or power over a privately owned business. It seems plain to us, that the reason for privatising the Land Registry is the wrong reason.\u201d  On Monday, a New Economic Foundation report for the campaign group We Own It found that selling the Land Registry would mean the British public would start to lose money in 25 years\u2019 time.",
+  "webTitle": "Competition watchdog objects to Land Registry sell-off",
+  "webPublicationDate": "2016-05-23T16:17:14Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/23/cma-objects-land-registry-privatisation",
+  "keyword": [
+    {
+      "webTitle": "Competition and Markets Authority",
+      "id": "business/competition-commission",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Property",
+      "id": "money/property",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Real estate",
+      "id": "business/realestate",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "House prices",
+      "id": "money/houseprices",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Housing market",
+      "id": "business/housingmarket",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Privatisation",
+      "id": "politics/privatisation",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economic policy",
+      "id": "politics/economy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Law",
+      "id": "law/law",
+      "sectionId": "law",
+      "sectionName": "Law"
+    },
+    {
+      "webTitle": "Regulators",
+      "id": "business/regulators",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Hilary Osborne",
+      "id": "profile/hilaryosborne"
+    }
+  ],
+  "guardianId": "business/2016/may/23/cma-objects-land-registry-privatisation"
+}

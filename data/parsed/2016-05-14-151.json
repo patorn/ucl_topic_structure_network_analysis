@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/14/gifs-giving-football-lebron-james-archery-scorpion-kick-goal",
+  "id": "2016-05-14-151",
+  "sectionId": "sport",
+  "body": "The scorpion king       You can keep your hat on       Face time       Travelling nowhere       Fallback option        Trick shoot       Foresight       A perfect 10       The art of fielding",
+  "webTitle": "The gifs that keep on giving: LeBron James, archery and a scorpion kick goal",
+  "webPublicationDate": "2016-05-14T08:45:32Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/14/gifs-giving-football-lebron-james-archery-scorpion-kick-goal",
+  "keyword": [
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "US sports",
+      "id": "sport/us-sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Basketball",
+      "id": "sport/basketball",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Baseball",
+      "id": "sport/baseball",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Paul Campbell",
+      "id": "profile/paul-campbell"
+    }
+  ],
+  "guardianId": "sport/2016/may/14/gifs-giving-football-lebron-james-archery-scorpion-kick-goal"
+}

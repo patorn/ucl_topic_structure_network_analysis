@@ -1,0 +1,30 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/06/belfast-scott-mchugh-shot-lower-falls",
+  "id": "2016-05-06-203",
+  "sectionId": "uk-news",
+  "body": "A man arrested in connection with the murder of a leading Belfast Provisional IRA member almost exactly a year ago has been shot and seriously wounded in the city. Local reports say Scott McHugh was shot three times, at least once in the head, shortly before 10am on Friday morning in west Belfast. The shooting happened in Distillery Court in the Lower Falls district of the city. Neighbours said the 27-year-old was blasted with a shotgun in a house but managed to stagger outside to seek help. He was rushed to the nearby Royal Victoria hospital where the Police Service of Northern Ireland said he was in a stable condition. Last year McHugh was arrested and questioned about the murder of IRA commander Gerard \u201cJock\u201d Davison in the Market area of central Belfast. Comrades of Davison later took revenge on another former IRA man, Kevin McGuigan, whom they blamed for killing his one-time colleague. However, McGuigan\u2019s family continued to insist he had nothing to do with the Davison murder. Following his release from custody after no charges were made against him, McHugh gave an interview to Irish tabloid the Sunday World, in which he said that \u201cin no way, shape or form was I involved in \u2018Jock\u2019 Davison\u2019s murder. The finger of suspicion is still being pointed at me, but I didn\u2019t do it. The police know it, but I\u2019m still being hassled.\u201d",
+  "webTitle": "Man questioned over IRA commander murder shot in Belfast",
+  "webPublicationDate": "2016-05-06T11:52:18Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/06/belfast-scott-mchugh-shot-lower-falls",
+  "keyword": [
+    {
+      "webTitle": "Northern Ireland",
+      "id": "uk/northernireland",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Henry McDonald",
+      "id": "profile/henrymcdonald"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/06/belfast-scott-mchugh-shot-lower-falls"
+}

@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/lifeandstyle/2016/may/20/cycling-campaigners-ask-government-spend-more-statistics-decline",
+  "id": "2016-05-20-225",
+  "sectionId": "lifeandstyle",
+  "body": "Campaigners have demanded that the government boost spending to match its stated commitment to cycling after official statistics showed an apparent decline last year. Road traffic figures published by the Department for Transport show that in 2015 cyclists travelled 3.2bn miles in Britain, down from 3.5bn in 2014, as general traffic rose.  But the lower mileage may owe more to a surge in 2014, possibly caused by the Tour de France starting in Yorkshire, as part of a long-term trend for steady growth, with cyclists still travelling further last year than in the previous 25 years. The number of miles travelled by buses and coaches also fell by nearly 5%, continuing its marked decline outside the capital in the last five years.  The traffic caused by delivery vans has continued to grow, fuelled by internet shopping, and is up 4.2% from 2014. Overall, the distance travelled by vehicles on British roads was up another 1.6% last year.   Cycling graph   Stephen Joseph, chief executive of the Campaign for Better Transport, said: \u201cIf you have more traffic going faster then you put people off cycling. We support the government\u2019s target of supporting cycling but they\u2019re barely spending tuppence outside London \u2013 they need to put some money behind it to stop the numbers falling off.\u201d He said planning changes had made it hard to demand decent walking and cycling routes in new housing developments. \u201cSome of them are being built with no pavements at all, let alone bike lanes \u2013 it\u2019s forcing people to drive and congest the roads for other motorists.\u201d  A consultation on the government\u2019s walking and investment strategy, which transport charities fear will not be adequately funded, closes on Monday.  Cycling UK spokesman Sam Jones said: \u201cThe growth in cycling has been steady, but we want to see a lot more. Cycling and walking spending will decline to less than \u00a31 a head outside London by the end of the decade \u2013 that\u2019s a far cry from the \u00a310 a head the government said it wanted before. If it wants to double the number of cyclists it needs to put its money where its mouth is.\u201d The DfT said the figures masked the increase in cycling. The National Travel Survey, published later in the year, shows travel habits rather than distance travelled, and helps the DfT gauge more accurately the number of cyclists. Andrew Jones, the transport minister, said the increase in overall road traffic showed the economy was thriving, adding: \u201cAs our roads get more popular, our record \u00a315bn investment is improving motorways and major A-roads to make journeys better for all.\u201d Meanwhile the mayor of London, Sadiq Khan, has launched a scheme for London businesses to sign up for company accounts with the city\u2019s cycle hire network, making it cheaper and easier for employees to use bikes. According to TfL, the total number of journeys by bike daily in 2014 was 645,000, about a 10% rate of growth, following major investment in cycle lanes.",
+  "webTitle": "Campaigners ask government to spend more to boost cycling",
+  "webPublicationDate": "2016-05-20T11:00:39Z",
+  "webUrl": "https://www.theguardian.com/lifeandstyle/2016/may/20/cycling-campaigners-ask-government-spend-more-statistics-decline",
+  "keyword": [
+    {
+      "webTitle": "Cycling",
+      "id": "lifeandstyle/cycling",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Road safety",
+      "id": "world/road-safety",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Transport",
+      "id": "uk/transport",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Transport policy",
+      "id": "politics/transport",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Gwyn Topham",
+      "id": "profile/gwyntopham"
+    }
+  ],
+  "guardianId": "lifeandstyle/2016/may/20/cycling-campaigners-ask-government-spend-more-statistics-decline"
+}

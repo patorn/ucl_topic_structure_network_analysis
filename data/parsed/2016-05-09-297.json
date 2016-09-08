@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/greenslade/2016/may/09/who-are-britains-journalists-and-what-do-they-think-of-their-trade",
+  "id": "2016-05-09-297",
+  "sectionId": "media",
+  "body": "What do Britain\u2019s journalists think of their trade? There are some 64,000 of them, but who are they? What\u2019s their educational background, their ethnicity and gender? How much do they earn? Has there been a \u201cLeveson effect\u201d and, if so, what difference has it made to the way in which journalists go about their work?  These questions, and many more, have been answered by a major survey report, Journalists in the UK, conducted by the Reuters Institute for the Study of Journalism.* It makes for fascinating reading. At least two of the findings are shaming. Although women make up a relatively high proportion of the total, they are paid on average less than men and are under-represented in senior positions. (This confirms previous research carried out by Women in Journalism). As for ethnicity, British journalism has a significant diversity problem. Black Britons are under-represented by a factor of more than 10 while just 2.5% of Asian Britons, who make up about 7% of the UK population, feature in the survey. One finding will confirm the prejudices of veteran reporters who think newspapers have become overly dominated by university recruits. It is clear, say the authors, that journalism is now fully \u201cacademised\u201d. Of those journalists who began their careers in the years 2013, 2014, and 2015, some 98% have a bachelor\u2019s degree and 36% a master\u2019s degree.  Here are 10 more of the findings: 1. How far should journalists go to obtain stories? Some 53% think it is justified to pay for confidential information in the public interest compared with just 5% of American journalists. And 81% think it acceptable, when stories are in the public interest, to use confidential business or government documents without permission (compared to 58% of US journalists). 2. How many journalists now work online? Since 2012, the proportion of journalists in the UK working in newsprint versions of newspapers has fallen from 56% to 44% while the proportion working online has risen from 26% to 52%. However, those working exclusively online receive less pay.  3. How much time do journalists spend on researching stories? The answer is depressing: 86% of journalists thought that the time available for researching stories had decreased, especially if they work online. Reporters who only work online were found to produce 186% more stories than those who did not. 4. How do journalists feel about editorial freedom? Twice as many journalists believe their freedom has decreased over time as those who believe it has increased. The report\u2019s authors argue that this could be due to the increasing influence of data that reveals audience \u201clikes\u201d and the growing power of PR.  5. How important is it that journalists should be detached observers? According to the survey, 77% of journalists said that being a detached observer was either very or extremely important. Journalists see themselves as providers of accurate information, analysis, entertainment and scrutinisers of those in power. Only a minority of said their role was to set the political agenda or acting as an adversary of government. 6. What\u2019s the political make-up of the journalistic community? About half of the surveyed journalists said they were left of centre. The other half were split between being rightwing and centrist. Significantly, right-of-centre political beliefs increase with seniority.  7. How important is it to maximise audiences? Some 45% see it as \u201cvery\u201d or \u201cextremely\u201d important to provide news that attracts the largest audience. According to the report, this may be partially explained by an increased pressure on outlets to return a profit (or, at least, minimise losses).  8. How religious are journalists? It appears that 61% of journalists are not members of a formal faith, a lower percentage than in the general population. And 76% of journalists think religion has little or no influence on their work.  9. How much trust do journalists have in politicians and trade unions?  Journalists have little trust in political institutions (arguably less than exists among the rest of the public). Only 8% of journalists place their trust in government, while almost half have little or no trust. As for trade unions, 34% say they have little or no trust.  10. How much do journalists earn? One of the eye-popping findings (though surely not to the National Union of Journalists) is that 83% of journalists in their mid- to late-20s earn less than \u00a329,000. Despite their academic qualifications, journalists are relatively poorly paid, with about 20% of them having yearly earnings of less than \u00a319,200, which means they are on incomes that are either close to, or under, the living wage. The report\u2019s lead author, Neil Thurman (professor of communication at LMU Munich), said: \u201cThis report shows the increasing pressures that journalists face due to the social, economic, and technological changes effecting journalism.\u201d  It also suggests, he said, that despite such pressures and the post-Leveson climate, \u201cUK journalists are still more aggressive than US media in their pursuit of important stories.\u201d His fellow authors were Alessio Cornia, a research fellow at the Reuters Institute for the Study of Journalism, and Jessica Kunert, a post-doctoral researcher at LMU Munich. *The 64-page report is based on a survey of 700 journalists that was carried out between 7 and 31 December 2015. It will be formally launched at City University London this evening (9 May) at 6.30pm .",
+  "webTitle": "Who are Britain's journalists, and what do they think of their trade?",
+  "webPublicationDate": "2016-05-09T07:15:42Z",
+  "webUrl": "https://www.theguardian.com/media/greenslade/2016/may/09/who-are-britains-journalists-and-what-do-they-think-of-their-trade",
+  "keyword": [
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers",
+      "id": "media/newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Leveson report",
+      "id": "media/leveson-report",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Higher education",
+      "id": "education/higher-education",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Opinion polls",
+      "id": "politics/polls",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "City University London",
+      "id": "education/cityuniversity",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Women",
+      "id": "lifeandstyle/women",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Education",
+      "id": "education/education",
+      "sectionId": "education",
+      "sectionName": "Education"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Roy Greenslade",
+      "id": "profile/roygreenslade"
+    }
+  ],
+  "guardianId": "media/greenslade/2016/may/09/who-are-britains-journalists-and-what-do-they-think-of-their-trade"
+}

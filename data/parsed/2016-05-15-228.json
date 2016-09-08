@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/15/rare-whale-found-on-australian-beach-believed-to-be-evolutionary-throwback",
+  "id": "2016-05-15-228",
+  "sectionId": "science",
+  "body": "Scientists believe they have an uncovered an evolutionary throwback in a rare deep ocean whale that washed ashore on a South Australian beach. The beaked whale, found dead on Waitpinga beach in February, confounded examiners from the South Australian Museum who discovered two mysterious teeth previously unseen in that family of deep diving mammals. Appeals to museum colleagues across the world, including at the renowned Smithsonian Institute in the US, have yielded no answers on the vestigial fangs, which are small and pointy. The ABC reported the teeth are not believed to be a deformity but an evolutionary throwback, or a trait that reappears after generations. South Australian Museum senior researcher Catherine Kemper told the ABC that the teeth, which defied the known norm in female whales by erupting above the jawline, were \u201cvery odd \u2026 something I had never seen before\u201d. \u201cMy mind was thinking, \u2018Do we have something new here?\u2019,\u201d Kemper said.     Researcher Catherine Kemper told the ABC that the teeth, which defied the known norm in female whales by erupting above the jawline, were \u2018very odd\u2019. Photograph: South Australian Museum    After the whale skull was stripped clean, the museum\u2019s collections manager, David Stemmer, yanked the tooth and was surprised to find the larger tooth of a Hector\u2019s beaked whale underneath. \u201cIt was still exciting and although we now knew we had a species we know, it\u2019s a species we don\u2019t get very often and it\u2019s only the third specimen we have collected here in South Australia,\u201d Stemmer told ABC. The museum team hopes the cataloguing of the carcass will help unlock the mystery of the teeth and reveal more about the species, seldom encountered because of their deep sea habitat and presumed rarity. Kemper said conservation of little-known species could depend on these kinds of revelations. \u201cWithout that knowledge, it\u2019s just very difficult to know what\u2019s going on and to monitor whether they\u2019re doing alright,\u201d she said.",
+  "webTitle": "Rare whale found on Australian beach believed to be evolutionary throwback",
+  "webPublicationDate": "2016-05-15T03:08:14Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/15/rare-whale-found-on-australian-beach-believed-to-be-evolutionary-throwback",
+  "keyword": [
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Wildlife",
+      "id": "environment/wildlife",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "South Australia",
+      "id": "australia-news/south-australia",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Joshua Robertson",
+      "id": "profile/joshua-robertson"
+    }
+  ],
+  "guardianId": "environment/2016/may/15/rare-whale-found-on-australian-beach-believed-to-be-evolutionary-throwback"
+}

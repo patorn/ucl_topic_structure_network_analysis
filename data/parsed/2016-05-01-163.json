@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/01/britta-phillips-luck-or-magic-cd-review",
+  "id": "2016-05-01-163",
+  "sectionId": "music",
+  "body": "The formula that the bassist Britta Phillips and her guitarist husband (and former Luna bandmate) Dean Wareham hit upon for their three albums together as Dean & Britta \u2013 sumptuous pop arrangements and an even mix of astutely chosen covers and original material \u2013 acts as a template for her solo debut. Fleetwood Mac\u2019s Landslide is given a Lana Del Rey makeover; the addition of warm synths makes the Cars\u2019 Drive even ghostlier. The original songs don\u2019t disappoint either: Million Dollar Bill benefits from its sense of urgency while the opener, Daydream, is woozily seductive. But while it\u2019s all elegantly presented, and each song is pleasing enough, nothing ever quite hits the heights Phillips has previously scaled.",
+  "webTitle": "Britta Phillips: Luck Or Magic review \u2013 elegant and woozily seductive",
+  "webPublicationDate": "2016-05-01T07:30:48Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/01/britta-phillips-luck-or-magic-cd-review",
+  "keyword": [
+    {
+      "webTitle": "Pop and rock",
+      "id": "music/popandrock",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Phil Mongredien",
+      "id": "profile/phil-mongredien"
+    }
+  ],
+  "guardianId": "music/2016/may/01/britta-phillips-luck-or-magic-cd-review"
+}

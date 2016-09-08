@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/19/chicken-review-fowl-play-deep-in-the-country",
+  "id": "2016-05-19-30",
+  "sectionId": "film",
+  "body": "Somewhere in what would seem to be East Anglia, judging by the road names, two brothers live together in a fetid caravan. Older brother Polly (Morgan Watkins), a bad-tempered thug, does the bare minimum to look after the younger Richard (Scott Chambers) who has learning difficulties but a gentle soul. Richard\u2019s only friend is his pet chicken Fiona, a docile bantam he takes everywhere, until he makes friends with new neighbour Annabel (Yasmin Paige, from Submarine).             Like a lot of British films grounded in rural poverty, this one works its way inevitably towards a climax sticky with violence and horrible secrets spilling like guts, but first-time director Joe Stephenson elicits lively, empathic performances from his small cast. Chambers is a particular standout, as a character just that tiny bit irritating enough to skirt feeling like the standard-issue movie martyr. His final meltdown is heart-wrenching all the same, even if the script, adapted from a stage play by Freddie Machin, lays on the melodrama a bit thick in the last scenes.",
+  "webTitle": "Chicken review \u2013 fowl play deep in the country",
+  "webPublicationDate": "2016-05-19T20:30:21Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/19/chicken-review-fowl-play-deep-in-the-country",
+  "keyword": [
+    {
+      "webTitle": "Drama",
+      "id": "film/drama",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Leslie Felperin",
+      "id": "profile/lesliefelperin"
+    }
+  ],
+  "guardianId": "film/2016/may/19/chicken-review-fowl-play-deep-in-the-country"
+}

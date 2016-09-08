@@ -1,0 +1,102 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/19/wikileaks-julian-assange-hillary-clinton-cannes-risk-laura-poitras",
+  "id": "2016-05-19-234",
+  "sectionId": "film",
+  "body": "Julian Assange, the Wikileaks founder who is still confined to the Ecuadorian embassy in London, would find life no easier under a President Hillary Clinton, according to the journalist, hacker and WikiLeaks representative Jacob Appelbaum.  Speaking at a Q&A after the Cannes film festival premiere of Risk, Laura Poitras\u2019s documentary about the WikiLeaks activist, Appelbaum said Clinton\u2019s representatives had made it clear that, thanks to Cablegate \u2013 the 2010 leak of more than 250,000 classified US State Department messages by WikiLeaks (published by media partners including the Guardian) \u2013 Clinton\u2019s office was in no mood to rethink their strategy when it came to Assange. \u201cI had a meeting with someone from then secretary of state Hillary Clinton\u2019s office some time after the Cablegate,\u201d Appelbaum said. \u201cHe let me know that Clinton did not like Julian or myself. I think that if Hillary Clinton were to run for president, she would continue to assert her political will and bitterness about the exposure of diplomatic cables that documented crimes.\u201d Poitras began filming Risk before she started work on Citizenfour, her Oscar-winning film about Edward Snowden. In Risk, Poitras follows Assange in the aftermath of the US diplomatic leaks as he learns of the accusations of sexual molestation and one of rape against him by two Swedish women that were, he believes, part of a smear campaign. The film shows Assange after he sought refuge from extradition in the Ecuadorian embassy, holding WikiLeaks meeting, working out with a boxing trainer and being interviewed by Lady Gaga.     Risk director Laura Poitras. Photograph: Grant Lamos IV/Getty Images    In October 2014, the New Yorker published an article suggesting that Assange had grown disillusioned with Poitras, thinking her timid. Asked by a Cannes audience member if reports of friction between the pair were true, Poitras questioned their source, before criticising the mainstream media for being distracted by minor details. \u201cWhen I first started doing the reporting on Edward Snowden\u2019s documents, one of the first things the mainstream media did was a comparison [with WikiLeaks whistleblower Chelsea Manning],\u201d she said. \u201cIt\u2019s a move by the mainstream media to try and separate people. Edward Snowden came very much after Chelsea Manning. It\u2019s not about comparing the two, it\u2019s about looking at what they\u2019re actually revealing.\u201d \u201cJulian is a political prisoner who has been demonised in the press,\u201d said Appelbaum to applause. \u201cThere\u2019s a real split between journalists who are working to reveal information and journalists who are propagandists. And in the United States most of the journalists are propagandists. They\u2019re stenographers for the state.\u201d The pair were joined on stage by Sarah Harrison, a journalist and legal researcher who is a close confidante of Assange\u2019s. She wore a T-shirt that read: \u201cLiberate Assange.\u201d She noted that 28 May will be Assange\u2019s 2,000th day in exile, cited a recent UN report that called the UK\u2019s detention of Assange \u201carbitrary\u201d, and called for his immediate release. \u201cHe\u2019s been in that space for four years,\u201d she said. \u201cThink of that when you\u2019re out in the Cannes sunshine\u201d.",
+  "webTitle": "WikiLeaks rep: Julian Assange would find life no easier under President Clinton",
+  "webPublicationDate": "2016-05-19T10:43:59Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/19/wikileaks-julian-assange-hillary-clinton-cannes-risk-laura-poitras",
+  "keyword": [
+    {
+      "webTitle": "Cannes 2016",
+      "id": "film/cannes-2016",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Julian Assange",
+      "id": "media/julian-assange",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Documentary",
+      "id": "film/documentary",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Cannes film festival",
+      "id": "film/cannesfilmfestival",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Festivals",
+      "id": "culture/festivals",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Hillary Clinton",
+      "id": "us-news/hillary-clinton",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Citizenfour",
+      "id": "film/citizenfour",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Edward Snowden",
+      "id": "us-news/edward-snowden",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "WikiLeaks",
+      "id": "media/wikileaks",
+      "sectionId": "media",
+      "sectionName": "Media"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Henry Barnes",
+      "id": "profile/henrybarnes"
+    }
+  ],
+  "guardianId": "film/2016/may/19/wikileaks-julian-assange-hillary-clinton-cannes-risk-laura-poitras"
+}

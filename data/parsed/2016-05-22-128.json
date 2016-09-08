@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/22/west-ham-united-borrow-ground-europa-league-olympic-stadium-athletics",
+  "id": "2016-05-22-128",
+  "sectionId": "football",
+  "body": "Manchester United\u2019s win means West Ham United can now offer Europa League football at their new Olympic Stadium home \u2013 but the bonus of European football comes with a complication. West Ham, who have played their final game at Upton Park, and finished seventh in the Premier League behind Southampton and United, will now enter into the qualifying stages of European football\u2019s second-tier football. United\u2019s win ensured the FA Cup winners\u2019 place was unused as they had already qualified from their league position. The Hammers are set are set to kick off in the third qualifying round in July. However, a friendly with Juventus has been organised as the Olympic Stadium\u2019s curtain-raiser on Sunday 7 August and the third qualifying round legs are scheduled to take place on 28 July and 4 August. Should Slaven Bilic\u2019s side be drawn at home then their new ground would not be ready for them. UK Athletics has events scheduled between 22-24 July and since the stadium takes seven days to set up as a football ground, that would not leave enough time for a home first-leg tie. The draw for the third qualifying round takes place on 15 July and Hammers would have less than two weeks for find a solution. West Ham\u2019s co-over David Gold tweeted: \u201cCongratulations Man Unt. I\u2019m sorry for all my friends at Crystal Palace but West Ham are in the Europa League a great end to our season.\u201d",
+  "webTitle": "West Ham United may need to borrow ground for Europa League qualifying",
+  "webPublicationDate": "2016-05-22T09:00:38Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/22/west-ham-united-borrow-ground-europa-league-olympic-stadium-athletics",
+  "keyword": [
+    {
+      "webTitle": "West Ham United",
+      "id": "football/westhamunited",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Europa League",
+      "id": "football/uefa-europa-league",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Andy Martin",
+      "id": "profile/andymartin"
+    }
+  ],
+  "guardianId": "football/2016/may/22/west-ham-united-borrow-ground-europa-league-olympic-stadium-athletics"
+}

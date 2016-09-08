@@ -1,0 +1,52 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/12/google-payday-loan-advertisement-facebook-microsoft-policies",
+  "id": "2016-05-12-155",
+  "sectionId": "technology",
+  "body": "Google was widely applauded this week for announcing it would stop selling ads for long-reviled payday loan companies. Facebook, it turns out,  banned payday loan ads last year, along with those for weapons and \u201cunsafe supplements\u201d.   Related: 'Dangerous' payday loans join guns and drugs on Google's banned ad list    Yahoo won\u2019t advertise paintball guns, knives or \u201cfireworks and other explosives\u201d, Microsoft prohibits erectile dysfunction ads for Xbox users and all major tech firms, it seems, ban pornography adverts. But does it matter how tech firms draw the line over who they do business with, or what type of ads users should be subjected to? Google\u2019s decision offers the latest evidence that technology companies are not just, as some perceive them, a neutral global commons where all ideas compete. They are also media behemoths, hosting content, soaking up advertising dollars and making the awkward decisions confronted by publishing outlets for decades. Questions about the morality of running ads aren\u2019t new. Congress banned cigarette television ads starting in 1971.  \u201cIt\u2019s all about protected first amendment choices and the discretion that publishers in this country enjoy,\u201d said Karlene Goller, the former press freedom attorney for the Los Angeles Times and now a media lawyer in private practice. Goller noted that when she was at the Times, the paper didn\u2019t run \u201ccigarette ads, escort service ads, or other ads that they decided were inappropriate for a newspaper of general circulation\u201d. What\u2019s different now is that an increasingly small number of technology firms control what an ever expanding number of people see online. And they\u2019re willing to go beyond what is circumscribed in law to make their own decisions \u2013 maybe shaping society in areas where governments won\u2019t act. \u201cThis change is designed to protect our users from deceptive or harmful financial products,\u201d Google\u2019s director of global product policy, David Graff, wrote in a blogpost announcing the ban, which goes into effect this summer.  Facebook officially banned payday loan ads last August, though in practice it wasn\u2019t permitting such ads before then, a person familiar with the matter said. Yahoo and Microsoft representatives did not respond to requests for comment on Wednesday. Chris Moore, marketing consultant and a principal with Greenwich, Connecticut-based Brains For Rent, has written about advertising ethics for the Advertising Educational Foundation. Google, he says, is continuing a long tradition of media companies managing their brands by deciding which ads they want to run.  \u201cThey are also rarely moral choices,\u201d Moore said.  Technology companies motives for policing ads can be hard to determine, but they often come under pressure to ditch certain companies.  Facebook has run into bad press \u2013 and angry parents \u2013 for occasionally allowing teens to see ads for inappropriate dating sites and weapons. And Google in 2011 agreed to forfeit $500m to the US justice department over ad sales to illegal pharmaceutical companies. \u201cFacebook and Google have the right to not run ads,\u201d said Jonathan Taplin, director of the Annenberg Innovation Lab at the University of Southern California.  In this case, Taplin said he was not convinced Google was acting to better society. \u201cI\u2019d call it a publicity stunt,\u201d he said. \u201cTheir notion of what\u2019s bad and what\u2019s good is fungible.\u201d",
+  "webTitle": "Google's ban on payday loan ads recasts debate of morality in media for digital age",
+  "webPublicationDate": "2016-05-12T15:00:02Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/12/google-payday-loan-advertisement-facebook-microsoft-policies",
+  "keyword": [
+    {
+      "webTitle": "Google",
+      "id": "technology/google",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Facebook",
+      "id": "technology/facebook",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Microsoft",
+      "id": "technology/microsoft",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Danny Yadron",
+      "id": "profile/danny-yadron"
+    },
+    {
+      "webTitle": "Maria L La Ganga",
+      "id": "profile/maria-l-la-ganga"
+    }
+  ],
+  "guardianId": "technology/2016/may/12/google-payday-loan-advertisement-facebook-microsoft-policies"
+}

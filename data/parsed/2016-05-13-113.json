@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/13/jeremy-corbyn-young-voters-eu-referendum",
+  "id": "2016-05-13-113",
+  "sectionId": "politics",
+  "body": "Young people are bored with politicians \u201cdroning on about each other\u201d in the EU debate, Jeremy Corbyn has said, launching a drive to get young people to register to vote before the 23 June referendum. Speaking to the Guardian after a speech to student supporters in Liverpool, the Labour leader said the referendum debate needed to focus more on the hopes of young people. \u201cYoung people get utterly bored with politicians droning on about each other,\u201d said Corbyn. \u201cThey\u2019re more interested in what the EU is going to do for [them].\u201d   Related: BBC may have shown bias against Corbyn, says former trust chair    The youth vote is vital for the remain campaign, with polling showing a strong correlation between support for EU membership and age.  A poll conducted by Opinium this month found that in the 18-34 age group, 53% said they backed staying in, against 29% who wanted to leave. But only just over half (52%) of young people said they were certain to go out and vote. The deadline to register to vote in the referendum is 7 June and campaigners are concerned that government changes to the system of voter registration mean many young people will fail to sign up in time. Previously, universities and colleges enrolled all their students automatically, and an individual could register anyone of voting age in their household. Under the new system, everyone has to sign up individually with a national insurance number. Corbyn said on Friday that his party\u2019s youth membership had more than trebled in the past year. \u201cWe have more Labour party members under 27 than Ukip or the Lib Dems have in total membership,\u201d he said.    Related: Sadiq of Streatham, royal faux pas and Woody Allen and son    \u201cIt fills me with hope to know that our movement is reaching out to young people again, because it is you that must shape your future. \u201cThe people who will be most affected by the decision we make in next month\u2019s EU referendum will not be my generation, but your generation. It is young people who will make the difference in this referendum.\u201d He said Labour was committed to fighting for progressive reform in Europe, in order to increase democratic accountability, tackle tax avoidance and climate change, and strengthen workers\u2019 rights across the European Union. \u201cThis is your chance to make it clear that a vote to remain is about taking control of your future,\u201d he told the audience. In a recent survey by the Electoral Reform Society, 21% of 18- to 24-year-olds said they were very interested in the EU referendum, compared with 47% of those over 65.  Responding to the findings, Katie Ghose, the society\u2019s chief executive, said: \u201cIt seems like young people haven\u2019t been engaged in a debate which has so far focused on personalities rather than the real issues which affect them. Not only do young people feel less interested but they are, as we know, far less likely to vote.\u201d",
+  "webTitle": "Jeremy Corbyn reaches out to young voters over EU referendum",
+  "webPublicationDate": "2016-05-13T15:35:16Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/13/jeremy-corbyn-young-voters-eu-referendum",
+  "keyword": [
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Jeremy Corbyn",
+      "id": "politics/jeremy-corbyn",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Labour",
+      "id": "politics/labour",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Frances Perraudin",
+      "id": "profile/frances-perraudin"
+    }
+  ],
+  "guardianId": "politics/2016/may/13/jeremy-corbyn-young-voters-eu-referendum"
+}

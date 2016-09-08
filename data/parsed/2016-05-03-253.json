@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/03/oprah-winfrey-star-henrietta-lacks-biopic-cancer-cells-medical-research",
+  "id": "2016-05-03-253",
+  "sectionId": "film",
+  "body": "Oprah Winfrey is to take on a rare acting role in a new film about Henrietta Lacks, a woman whose cells became instrumental in the field of medical research. According to Deadline, the media mogul will headline The Immortal Life of Henrietta Lacks, a film for HBO that she will also executive produce. Winfrey has teamed up with Six Feet Under creator Alan Ball, and George C Wolfe, best known for his stage work, who will write and direct. Based on the bestselling book of the same name, it will tell the story of Lacks, a black American woman whose cancerous cells were harvested in the 50s without her family\u2019s authorisation. The film will be told through the eyes of Lacks\u2019 daughter, to be played by Winfrey, as she discovers how these cells then led to medical breakthroughs and the creation of the first immortalised human cell line named HeLA. Lacks\u2019 story has previously been the subject of an award-winning documentary, The Way of All Flesh, directed by Adam Curtis. Winfrey has been developing her film as a passion project since 2010. The star\u2019s big-screen work in recent years has been in small supporting roles in Selma and The Butler. She is also set to star in new TV show Greenleaf on her Oprah Winfrey Network.",
+  "webTitle": "Oprah Winfrey to star in Henrietta Lacks movie",
+  "webPublicationDate": "2016-05-03T10:30:00Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/03/oprah-winfrey-star-henrietta-lacks-biopic-cancer-cells-medical-research",
+  "keyword": [
+    {
+      "webTitle": "Biopics",
+      "id": "film/biopics",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Oprah Winfrey",
+      "id": "tv-and-radio/oprah-winfrey",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Television & radio",
+      "id": "tv-and-radio/tv-and-radio",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Drama",
+      "id": "film/drama",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Medical research",
+      "id": "science/medical-research",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Cancer",
+      "id": "society/cancer",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "HBO",
+      "id": "media/hbo",
+      "sectionId": "media",
+      "sectionName": "Media"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Benjamin Lee",
+      "id": "profile/benjamin-lee-film"
+    }
+  ],
+  "guardianId": "film/2016/may/03/oprah-winfrey-star-henrietta-lacks-biopic-cancer-cells-medical-research"
+}

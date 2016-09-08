@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/15/meghan-trainor-thank-you-review",
+  "id": "2016-05-15-201",
+  "sectionId": "music",
+  "body": "Much of Thank You \u2013 the follow-up to 2015\u2019s 2m-selling Title \u2013 finds Meghan Trainor ditching her All About That Bass doo-wop shtick in favour of 90s chart R&B. Unfortunately, the core problem remains \u2013 Trainor just isn\u2019t a convincing pop star. While the Britney-lite lead single No has its moments, most of the other songs are identity-free filler. Me Too\u2019s bragging (\u201cIf I was you I\u2019d wanna be me too\u201d), for example, sounds misplaced, while the toe-curling \u201canthem\u201d Woman Up (\u201cYou\u2019re more than good enough\u201d) is plain embarrassing. Just when you think things can\u2019t get worse, however, Mom shows up, featuring a cameo from her actual mum, Kelli. No thank you.",
+  "webTitle": "Meghan Trainor: Thank You review \u2013 still an unconvincing pop star",
+  "webPublicationDate": "2016-05-15T06:00:17Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/15/meghan-trainor-thank-you-review",
+  "keyword": [
+    {
+      "webTitle": "Meghan Trainor",
+      "id": "music/meghan-trainor",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Pop and rock",
+      "id": "music/popandrock",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Michael Cragg",
+      "id": "profile/michaelcragg"
+    }
+  ],
+  "guardianId": "music/2016/may/15/meghan-trainor-thank-you-review"
+}

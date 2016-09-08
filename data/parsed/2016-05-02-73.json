@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/02/letter-mildred-gordon-obituary",
+  "id": "2016-05-02-73",
+  "sectionId": "politics",
+  "body": "In the later years of her retirement, in Hendon, north-west London, Mildred Gordon became a loyal supporter of her local amateur theatre group, the Garden Suburb theatre. She was at most performances, well into the years when her mobility had declined, particularly relishing the more serious works, including some staged readings of plays about political identity and social class by Francis Beckett.",
+  "webTitle": "Letter: Mildred Gordon obituary",
+  "webPublicationDate": "2016-05-02T17:00:45Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/02/letter-mildred-gordon-obituary",
+  "keyword": [
+    {
+      "webTitle": "Labour",
+      "id": "politics/labour",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "London",
+      "id": "uk/london",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [],
+  "guardianId": "politics/2016/may/02/letter-mildred-gordon-obituary"
+}

@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/29/brexit-dummies-blamed-for-anti-german-motorway-poster",
+  "id": "2016-05-29-40",
+  "sectionId": "politics",
+  "body": "Homemade posters proclaiming: \u201cHalt Ze German Advance: Vote Leave\u201d and placed in fields overlooking one of the busiest motorways in England have forced the official Brexit campaign team to disown them and claim they were put up by \u201cdummies on our side\u201d.   Brexit explained: Who is campaigning for UK to leave?   The billboard-size posters on grass banks overlooking the east and westbound carriageways of the M40, between the M25 and High Wycombe, include the official Vote Leave website address. Vote Leave campaign director Dominic Cummings said on Twitter he thought the posters had been made by \u201cdummies on our side\u201d and rejected the idea that the insensitive reference to the second world war was part of a smear campaign by the Remain camp.   Related: There\u2019s nothing a Brexiter loves more than a good conspiracy    A spokesperson for Vote Leave said they were \u201cnot our posters. We were made aware of them late last night. Staff in the area are endeavouring to have them removed.\u201d  But the posters were still in place on Sunday, in the view of thousands of bank holiday travellers.",
+  "webTitle": "Brexit 'dummies' blamed for anti-German motorway poster",
+  "webPublicationDate": "2016-05-29T18:51:38Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/29/brexit-dummies-blamed-for-anti-german-motorway-poster",
+  "keyword": [
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Dan Carrier",
+      "id": "profile/dan-carrier"
+    }
+  ],
+  "guardianId": "politics/2016/may/29/brexit-dummies-blamed-for-anti-german-motorway-poster"
+}

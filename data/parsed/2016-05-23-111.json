@@ -1,0 +1,30 @@
+{
+  "apiUrl": "https://content.guardianapis.com/science/2016/may/23/did-you-solve-it-dot-to-dot-puzzles-that-will-drive-you-dotty",
+  "id": "2016-05-23-111",
+  "sectionId": "science",
+  "body": "Earlier today I set you the following dot-to-dot puzzles. You had to draw lines between the dots, with the constraint that the number by the dot determines the number of lines joining that dot.     Linking park    I also said that any two dots can be linked by at most one line, and that for the 3-dot and 4-dot hexagons no lines could cross. Here are a set of solutions, but there are others.     A hexagon in braces skipping, a hexagon in braces and a sash showing off and a star.    The last challenge was to fill in this one with only two \u2018repeat\u2019 lines, which repeat a link between two dots.     Who eight the dots?    Here\u2019s a solution. Again, there are variations.     Repeated lines in red.    Thanks again to James Tanton, co-founder of The Global Math Project, for these puzzles.  I post a puzzle here on a Monday every two weeks. If you are reading this on the Guardian app, click where it says \u2018Follow Alex Bellos\u2019 and you\u2019ll get an alert when the next puzzle appears. I\u2019m the author of three popular maths books including Alex\u2019s Adventures in Numberland and the maths colouring book Snowflake Seashell Star. You can check me out on Twitter, Facebook, Google+, my personal website or my Guardian maths blog.",
+  "webTitle": "Did you solve it? Dot-to-dot puzzles that will drive you dotty",
+  "webPublicationDate": "2016-05-23T16:00:08Z",
+  "webUrl": "https://www.theguardian.com/science/2016/may/23/did-you-solve-it-dot-to-dot-puzzles-that-will-drive-you-dotty",
+  "keyword": [
+    {
+      "webTitle": "Mathematics",
+      "id": "science/mathematics",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Alex Bellos",
+      "id": "profile/alexbellos"
+    }
+  ],
+  "guardianId": "science/2016/may/23/did-you-solve-it-dot-to-dot-puzzles-that-will-drive-you-dotty"
+}

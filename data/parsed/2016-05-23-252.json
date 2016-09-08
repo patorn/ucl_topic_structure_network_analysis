@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/23/rock-music-is-dead-red-hot-chili-peppers-flea-pearl-jam",
+  "id": "2016-05-23-252",
+  "sectionId": "music",
+  "body": "Rock music is dead, or at least it is according to Red Hot Chili Peppers\u2019 bassist Flea.  The Californian rocker used an interview on SiriusXM\u2019s Pearl Jam Radio to bemoan the current state of rock, saying it was \u201ca dead form in a lot of ways\u201d.  Speaking to Pearl Jam guitarist Mike McCready, Flea recalled his days during the band\u2019s 90s heyday: \u201cI just remember being so excited that we were playing with [Pearl Jam] and with Smashing Pumpkins, because it was just an exciting time for rock music. A lot of times, especially recently, I look at rock music as kind of a dead form in a lot of ways. Nothing to take away from us and [Pearl Jam], because obviously I believe we\u2019re relevant bands that come with a real energy.\u201d  Flea said that when he expressed his desire to make it in a rock band he was told he was \u201ca fucking lunatic\u201d who would \u201cnever get a decent job\u201d, adding: \u201cI was like \u2018fuck it, I don\u2019t care, this is what I want to do, this means everything to me, I found a home.\u2019 I\u2019ve been a weird, neurotic, loner kid all my life, I was always the kid you called fag in high school, punk rock gave me a home.\u201d  This, he says, is a marked contrast to today\u2019s route into rock\u2019n\u2019roll: \u201cNowadays, you decide you want to be in a rock band [and] it\u2019s like, \u2018Oh great, let\u2019s get you an image consultant, and a lawyer, and a manager, and let\u2019s see what we can do here. It\u2019s a great money-making opportunity for you, junior.\u2019\u201d Red Hot Chili Peppers are set to release their eleventh album, The Getaway, in June. It will be produced by Danger Mouse.",
+  "webTitle": "Rock music is dead, says Red Hot Chili Peppers' bassist Flea",
+  "webPublicationDate": "2016-05-23T09:17:48Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/23/rock-music-is-dead-red-hot-chili-peppers-flea-pearl-jam",
+  "keyword": [
+    {
+      "webTitle": "Red Hot Chili Peppers",
+      "id": "music/redhotchilipeppers",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Pop and rock",
+      "id": "music/popandrock",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian music",
+      "id": "profile/guardianmusic"
+    }
+  ],
+  "guardianId": "music/2016/may/23/rock-music-is-dead-red-hot-chili-peppers-flea-pearl-jam"
+}

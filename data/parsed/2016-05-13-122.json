@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/books/2016/may/13/written-lives-javier-marias-review-26-literary-figures-examined",
+  "id": "2016-05-13-122",
+  "sectionId": "books",
+  "body": "We live, says the prolific Spanish author Javier Mar\u00edas, in an \u201cage of exhaustive and frequently futile erudition\u201d, in which every aspect of writers\u2019 lives is exposed to the public gaze. This book, translated by Margaret Jull Costa, is the succinct antidote to such biographical redundancy. It\u2019s an eclectic selection of 26 brief literary lives: all they have in common is that they are dead, not Spanish and were \u201call fairly disastrous individuals\u201d. These far from exemplary characters are described with a novelist\u2019s eye for the tragedy and absurdity of life: the taciturn William Faulkner carrying the coffin of his five-day-old daughter to the cemetery alone; the \u201cpersnickerty\u201d Joseph Conrad writing in his yellow-striped bathrobe; the \u201ccold and distant\u201d James Joyce penning obscene letters to his wife; Rainer Maria Rilke spending his short life \u201cwaiting for the lyric\u201d; and Yukio Mishima performing hara-kiri as \u201cthe ultimate act of masturbation\u201d. Roland Barthes may have announced the death of the author nearly 50 years ago, but this acutely observed book shows that we are still enthralled by our wordsmiths, however calamitous their lives. \u2022 To order Written Lives for \u00a37.99 (RRP \u00a39.99) go to bookshop.theguardian.com or call 0330 333 6846. Free UK p&p over \u00a310, online orders only. Phone orders min p&p of \u00a31.99.",
+  "webTitle": "Written Lives by Javier Mar\u00edas review \u2013 26 literary figures examined",
+  "webPublicationDate": "2016-05-13T15:15:10Z",
+  "webUrl": "https://www.theguardian.com/books/2016/may/13/written-lives-javier-marias-review-26-literary-figures-examined",
+  "keyword": [
+    {
+      "webTitle": "Biography",
+      "id": "books/biography",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Paperbacks",
+      "id": "books/paperbacks",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "William Faulkner",
+      "id": "books/williamfaulkner",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "James Joyce",
+      "id": "books/jamesjoyce",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Joseph Conrad",
+      "id": "books/josephconrad",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Books",
+      "id": "books/books",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "PD Smith",
+      "id": "profile/pdsmith"
+    }
+  ],
+  "guardianId": "books/2016/may/13/written-lives-javier-marias-review-26-literary-figures-examined"
+}

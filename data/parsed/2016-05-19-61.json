@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/19/google-virtual-reality-headset-smartphone-youtube",
+  "id": "2016-05-19-61",
+  "sectionId": "technology",
+  "body": "If Google gets its way, you will explore the world with your phone strapped over your eyes.  At its annual developer conference in Silicon Valley, the internet company showed how it plans to get more people using virtual reality in the coming year by baking the technology into newer smartphones. The vision is for the world\u2019s billions of people to ditch the physical world and explore far off places, take in the news, meet a friend or, as Google repeatedly demonstrated Thursday, water a virtual garden.  \u201cIt\u2019s very natural to water things in VR when you have a watering can,\u201d said Clay Bavor, Google\u2019s vice-president of virtual reality.  While rival technology companies such as Facebook are building state-of-the-art virtual reality tools that rely on powerful desktop computers, Google is taking a different path. On Thursday, it said it will soon start selling a plastic headset in which consumers will insert their smartphones and a controller that serves as a virtual hand. Google currently offers a cardboard smartphone holder that acts as a low-tech headset but offers a less-than-realistic virtual world.  \u201cWe\u2019re really obsessed about this idea of democratizing VR,\u201d Bavor said on stage. Google for instance announced it will start offering YouTube videos for virtual reality and has partnered with news organizations, such as the New York Times, to try to bring readers into stories.      Clay Bavor: \u2018We\u2019re really obsessed about this idea of democratizing VR.\u2019 Photograph: Stephen Lam/Reuters    VR has long been associated with games and has always seemed like a technology for the truly geeky. Indeed, some of the most popular apps for Facebook\u2019s Oculus Rift headset allow people to step into the shoes of an American football quarterback or star basketball player.  But Silicon Valley is betting the technology will gain true prominence as a way for people to consume information online. Why read about a Syrian refugee camp when you can visit one? Or who needs to look at pictures of Glacier National Park when you can hike it virtually? Repeatedly, Google executives Thursday talked about how they were discovering how to make virtual experiences just as satisfying as their physical counterparts. The key, they said, is giving people a controller that allows them to use their hands to manipulate the real world.  \u201cPicking something up with your hands is one of the most natural and satisfying experiences,\u201d said Stefan Welker, a VR software engineer at Google, before demonstrating the virtual watering can for the virtual garden.            Google unveils smart speaker Google Home    He then showed how people could build their own virtual drum kits they could play with virtual sticks before throwing the virtual drums across the virtual practice room. \u201cWe also learned everyone really likes throwing things in VR,\u201d Welker said.  Google executives acknowledged this begs an obvious question: why? \u201cWhere\u2019s the narrative? Where\u2019s the utility?\u201d asked Mike Podwal, product manager for Google\u2019s cardboard VR headset. His answer: \u201cWe learned that sometimes just being somewhere amazing is enough.\u201d Podwal then showed how Google could place users on the tip of a high dive dozens of feet above a virtual pool. People look down, he said, but many are too scared to take the plunge.",
+  "webTitle": "Google's vision for VR: YouTube, smartphones and a 'virtual hand'",
+  "webPublicationDate": "2016-05-19T18:21:47Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/19/google-virtual-reality-headset-smartphone-youtube",
+  "keyword": [
+    {
+      "webTitle": "Google",
+      "id": "technology/google",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Virtual reality",
+      "id": "technology/virtual-reality",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Software",
+      "id": "technology/software",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Silicon Valley",
+      "id": "technology/silicon-valley",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Danny Yadron",
+      "id": "profile/danny-yadron"
+    }
+  ],
+  "guardianId": "technology/2016/may/19/google-virtual-reality-headset-smartphone-youtube"
+}

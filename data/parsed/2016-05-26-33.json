@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/26/brexit-could-cost-pensioners-32000-chancellor-says",
+  "id": "2016-05-26-33",
+  "sectionId": "politics",
+  "body": "Leaving the European Union could wipe up to \u00a332,000 off the average pensioner\u2019s wealth, George Osborne claims, as the remain campaign seeks to woo older voters deemed more likely to turn out on 23 June. Treasury analysis suggests the uncertainty unleashed by a Brexit vote would rattle stock markets and undermine the value of pensioners\u2019 homes. A sell off of the pound on the foreign exchanges could also drive up inflation, eroding the value of pension savings.   Brexit explained: NHS   The Treasury claims these effects would wipe \u00a318,000 off the value of the property and pension pots held by the average over-65 \u2013 or up to \u00a332,000 in the event of a more severe market shock. In total, that would amount to \u00a3170bn wiped off the value of the assets held by Britain\u2019s over-65s \u2013 or \u00a3300bn in the more pessimistic scenario. Osborne, who has been closely involved in orchestrating what opponents have dubbed \u201cproject fear\u201d \u2013 the effort to convince voters of the risks of leaving \u2013 said: \u201cAs chancellor, I feel very strongly that my first responsibility is for people\u2019s jobs, livelihoods and living standards. I couldn\u2019t recommend something that we know would put all that at risk.\u201d Campaigners for Britain to leave the EU have become increasingly frustrated at the stark warnings emerging from Downing Street about the risks of Brexit, accusing the Stronger In campaign of talking down the economy. Former pensions secretary Iain Duncan Smith last night described the figures as \u201can utterly outrageous attempt by the government to do down people\u2019s pensions and ... little more than a cynical attempt to distract from the government\u2019s broken promises on immigration.\u201d Asked in an interview for Saga magazine whether pensions could be hit by a vote to leave, Vote Leave chief executive Matthew Elliott said: \u201cThe value of pensions and investments depends above all on the fundamentals of the British economy, which will become even stronger once we leave.\u201d David Cameron has in recent days stressed the importance of wooing younger voters and ensuring that they register to vote before the 7 June deadline. A social media campaign with the slogan \u201cVotin\u201d was unveiled, with the hope of persuading young people to sign up. But the Stronger In campaign is also acutely aware of the fact that older voters tend to be more likely to turn up to polling stations \u2013 and one recent poll for the Daily Telegraph suggested a shift towards remain among the over-65s, with just 44% saying they would vote for Brexit. As well as hitting stock markets and house prices, a vote to leave the EU could also \u2013 by driving up inflation \u2013 erode the value of the basic state pension, by between \u00a3137 and \u00a3142 a year in real terms, the Treasury warns. It also suggests that those now aged 50-55 could see the value of their pension pots eroded as share prices, wages and company dividends fall. Pensions minister Ros Altmann said leaving the EU would \u201cput all the hard work we\u2019ve done to reform and improve pensions in jeopardy in a self-defeating, pointless and unnecessary way\u201d. \u201cMillions of current pensioners would feel the impact of voting to leave the EU through inflation eroding their pensions as consumer prices rise and as volatility in financial markets hit their hard-earned pension savings, as well as suffering a fall in the value of their assets, including house prices,\u201d she said. The Treasury has produced a blizzard of analysis about the potential financial and economic impact of a vote to leave, and the chancellor confirmed recently that officials are carrying out contingency planning to mitigate the impact of a Brexit vote. Senior economic policymakers and experts have lined up to warn of the economic threats, including the Bank of England, the Institute for Fiscal Studies and the International Monetary Fund.  More than 250 economists have signed a letter endorsing the idea that leaving would be a threat to the economy \u2013 a rare display of unity in a notoriously disputatious profession.  A number of respected economists, including Boris Johnson\u2019s former advisor Gerard Lyons, continue to advocate a vote to leave, however.",
+  "webTitle": "Brexit could cost pensioners \u00a332,000, chancellor says",
+  "webPublicationDate": "2016-05-26T21:00:13Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/26/brexit-could-cost-pensioners-32000-chancellor-says",
+  "keyword": [
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Pensions",
+      "id": "money/pensions",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "House prices",
+      "id": "money/houseprices",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Heather Stewart",
+      "id": "profile/heatherstewart"
+    }
+  ],
+  "guardianId": "politics/2016/may/26/brexit-could-cost-pensioners-32000-chancellor-says"
+}

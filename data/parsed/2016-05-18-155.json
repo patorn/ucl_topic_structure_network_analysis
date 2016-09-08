@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/18/portugal-runs-for-four-days-straight-on-renewable-energy-alone",
+  "id": "2016-05-18-155",
+  "sectionId": "environment",
+  "body": "Portugal kept its lights on with renewable energy alone for four consecutive days last week in a clean energy milestone revealed by data analysis of national energy network figures. Electricity consumption in the country was fully covered by solar, wind and hydro power in an extraordinary 107-hour run that lasted from 6.45am on Saturday 7 May until 5.45pm the following Wednesday, the analysis says. News of the zero emissions landmark comes just days after Germany announced that clean energy had powered almost all its electricity needs on Sunday 15 May, with power prices turning negative at several times in the day \u2013 effectively paying consumers to use it.   Related: Wind power generates 140% of Denmark's electricity demand    Oliver Joy, a spokesman for the Wind Europe trade association said: \u201cWe are seeing trends like this spread across Europe - last year with Denmark and now in Portugal. The Iberian peninsula is a great resource for renewables and wind energy, not just for the region but for the whole of Europe.\u201d James Watson, the CEO of SolarPower Europe said: \u201cThis is a significant achievement for a European country, but what seems extraordinary today will be commonplace in Europe in just a few years. The energy transition process is gathering momentum and records such as this will continue to be set and broken across Europe.\u201d  Last year, wind provided 22% of electricity and all renewable sources together provided 48%, according to the Portuguese renewable energy association. While Portugal\u2019s clean energy surge has been spurred by the EU\u2019s renewable targets for 2020, support schemes for new wind capacity were reduced in 2012. Despite this, Portugal added 550MW of wind capacity between 2013 and 2016, and industry groups now have their sights firmly set on the green energy\u2019s export potential, within Europe and without.   Related: Solar power sets new British record by beating coal for a day    \u201cAn increased build-out of interconnectors, a reformed electricity market and political will are all essential,\u201d Joy said. \u201cBut with the right policies in place, wind could meet a quarter of Europe\u2019s power needs in the next 15 years.\u201d In 2015, wind power alone met 42% of electricity demand in Denmark, 20% in Spain, 13% in Germany and 11% in the UK. In a move hailed as a \u201chistoric turning point\u201d by clean energy supporters, UK citizens last week enjoyed their first ever week of coal-free electricity generation.  Watson said: \u201cThe age of inflexible and polluting technologies is drawing to an end and power will increasingly be provided from clean, renewable sources.\u201d \u2022 This article was amended on 19 May 2016. An earlier version said that in 2013 Portugal generated 27% of its electricity from nuclear, 13% from hydro, 7.5% from wind and 3% from solar, according to Eurostat figures. In fact those figures are for the whole of the EU; Portugal does not have any nuclear power plants.",
+  "webTitle": "Portugal runs for four days straight on renewable energy alone",
+  "webPublicationDate": "2016-05-18T13:59:56Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/18/portugal-runs-for-four-days-straight-on-renewable-energy-alone",
+  "keyword": [
+    {
+      "webTitle": "Renewable energy",
+      "id": "environment/renewableenergy",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Portugal",
+      "id": "world/portugal",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Wind power",
+      "id": "environment/windpower",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Solar power",
+      "id": "environment/solarpower",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Hydropower",
+      "id": "environment/hydropower",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Energy",
+      "id": "environment/energy",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Greenhouse gas emissions",
+      "id": "environment/carbon-emissions",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Arthur Neslen",
+      "id": "profile/arthurneslen"
+    }
+  ],
+  "guardianId": "environment/2016/may/18/portugal-runs-for-four-days-straight-on-renewable-energy-alone"
+}

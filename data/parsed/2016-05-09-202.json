@@ -1,0 +1,84 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/greenslade/2016/may/09/daily-record-sorry-for-alleging-hillsborough-insensitivity-by-celtic",
+  "id": "2016-05-09-202",
+  "sectionId": "media",
+  "body": "The Daily Record has had to apologise after running a piece on its website headlined \u201cCeltic safe standing announcement branded \u2018insensitive\u2019 by Hillsborough campaigner\u201d. The article claimed that a \u201cHillsborough campaigner\u201d had \u201cslammed\u201d the Glasgow football team for the \u201cinsensitive\u201d timing of its announcement.  But the Record later deleted the story, published on 5 May, and the following day carried what it called \u201ca clarification\u201d. It stated that Celtic\u2019s chief executive, Peter Lawwell, \u201cdid not make any announcement regarding safe standing on 4 May as we had reported. We apologise for this error and are happy to set the record straight.\u201d Publication came just ahead of Sunday\u2019s visit to Celtic Park by members of the Hillsborough Justice Campaign. There has been a close affinity between Liverpool FC and Celtic since the latter\u2019s staging of a memorial match two weeks after the tragedy in 1989 in which 96 people lost their lives. So who was the \u201cHillsborough campaigner\u201d cited in the Record story? It transpired that it was Margaret Aspinall, chair of the Hillsborough Family Support Group. But did she have the correct information before she was quoted? See my Daily Telegraph reference below.  There is no doubt about Celtic\u2019s intention to introduce safe-standing because, as the club\u2019s website reported in June last year, it has received city council permission to provide \u201crail seats\u201d for season ticket holders from next season. The BBC also reported that fact, pointing out that the new arrangement for about 2,600 supporters is \u201cbased on versatile seating common at German grounds.\u201d  Significantly, its article made no mention of a new announcement or a Hillsborough campaigner.  PS: A tweeter pointed rightly to the fact that a similar story was published on the Daily Telegraph site. It quoted Margaret Aspinall as saying: \u201cIt\u2019s insensitive to announce that right at this time, a week just after the [inquest] verdicts. It\u2019s very insensitive.\u201d But, since it wasn\u2019t announced, she was clearly responding after being told that it had been. PPS: I was originally informed that the campaigner was not named but, with the Record having deleted the story, I was unable to check what transpired to be incorrect information.",
+  "webTitle": "Daily Record sorry for alleging Hillsborough insensitivity by Celtic",
+  "webPublicationDate": "2016-05-09T12:09:37Z",
+  "webUrl": "https://www.theguardian.com/media/greenslade/2016/may/09/daily-record-sorry-for-alleging-hillsborough-insensitivity-by-celtic",
+  "keyword": [
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Daily Record",
+      "id": "media/daily-record",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Celtic",
+      "id": "football/celtic",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Hillsborough disaster",
+      "id": "football/hillsborough-disaster",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Scotland",
+      "id": "uk/scotland",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Glasgow",
+      "id": "uk/glasgow",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Liverpool",
+      "id": "football/liverpool",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Newspapers",
+      "id": "media/newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "BBC",
+      "id": "media/bbc",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Roy Greenslade",
+      "id": "profile/roygreenslade"
+    }
+  ],
+  "guardianId": "media/greenslade/2016/may/09/daily-record-sorry-for-alleging-hillsborough-insensitivity-by-celtic"
+}

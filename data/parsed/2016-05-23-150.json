@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/23/salud-hernandezc-olombia-search-missing-spanish-journalist",
+  "id": "2016-05-23-150",
+  "sectionId": "world",
+  "body": "Government troops are combing through a remote area of north-east Colombia for a Spanish journalist who went missing over the weekend and is feared to have been kidnapped by left-wing rebels. Salud Hern\u00e1ndez was last seen on Saturday in the town of El Tarra, in a region known as Catatumbo where both organized crime and leftist guerrillas operate. She is a correspondent for Spain\u2019s El Mundo newspaper and a columnist for the Colombian paper El Tiempo. Witnesses told the newspaper that she was last seen on Saturday arguing with an unidentified man before taking a motorcycle to an unknown destination. The town\u2019s mayor said it is possible she was taken hostage but the defense ministry said early on Monday it had not been able to confirm or deny whether she had been kidnapped. Rebels of the National Liberation Army (ELN) are active in the region, as are units of the Revolutionary Armed Forces of Colombia (Farc), which is closing in on a peace deal with the government. Organized crime groups are also present in the area. Mobile phone coverage is erratic in the mountainous region and roads are often perilous. The defense ministry said Hern\u00e1ndez, who holds dual Spanish-Colombian citizenship, had been on assignment in the region for about 20 days. El Mundo said on its website that Hern\u00e1ndez was due to leave the region on Saturday afternoon and had a flight booked from the city of C\u00facuta back to Bogot\u00e1, where she has been based for more than 15 years.",
+  "webTitle": "Colombia investigating whether missing Spanish journalist was kidnapped",
+  "webPublicationDate": "2016-05-23T14:19:34Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/23/salud-hernandezc-olombia-search-missing-spanish-journalist",
+  "keyword": [
+    {
+      "webTitle": "Colombia",
+      "id": "world/colombia",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Americas",
+      "id": "world/americas",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Newspapers",
+      "id": "media/newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Spain",
+      "id": "world/spain",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Newspapers & magazines",
+      "id": "media/pressandpublishing",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Journalist safety",
+      "id": "media/journalist-safety",
+      "sectionId": "media",
+      "sectionName": "Media"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Sibylla Brodzinsky",
+      "id": "profile/sibyllabrodzinsky"
+    }
+  ],
+  "guardianId": "world/2016/may/23/salud-hernandezc-olombia-search-missing-spanish-journalist"
+}

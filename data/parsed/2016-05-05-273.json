@@ -1,0 +1,108 @@
+{
+  "apiUrl": "https://content.guardianapis.com/social-care-network/2016/may/05/personal-budgets-health-care-nao-report",
+  "id": "2016-05-05-273",
+  "sectionId": "social-care-network",
+  "body": "The recent report on personal budgets (pdf) by the National Audit Office (NAO) has created a stir, not least because it was published as official enthusiasm for the budgets seems to be accelerating. Already available in the NHS for people with long-term conditions, personal maternity care budgets are now being proposed as a route for choice in child birth. Yet if there is one thing the NAO report confirms, it is that the evidence base for personal budgets in both health and social care is uncertain. David Brindle, public services editor at the Guardian, has already written about how the report suggests that \u201cthe Department of Health\u2019s monitoring of the impact of personalisation in social care is so poor that it is impossible to draw any firm conclusions about the way personal budgets are working\u201d.  On the other hand, Think Local Act Personal, a state-supported initiative which bangs the drum for personal budgets, has highlighted blogs challenging the assumptions of the NAO study.   Related: Department of Health does not know if personal budgets help service users, report finds    Indeed, a careful reading of the NAO report does suggest some of the questions it raises have actually already been answered. However, the answers available are not necessarily those either personal budget enthusiasts, or indeed the NAO report itself, might be looking for. This leaves an even bigger question \u2013 ultimately, who audits the auditor? The NAO report states: \u201cThe Department [of Health] now needs to gain a better understanding of the different ways to commission personalised services for users, and how these lead to improvements in user outcomes\u201d. The truth is that we have known what works best from when disabled people first set up direct payment schemes many years ago. Service users get the outcomes they need when they have enough money and help to obtain the support they want, and local user-led organisations to support them.  This is also highlighted in the third Poet (personal outcomes evaluation tool) survey (pdf) reported by user organisation In Control in 2015. This showed that the people who had a personal assistant and enough resources to meet social and leisure needs were the ones who achieved the better outcomes (p50). This has been known since 1996. But for many people accessing personal budgets this is not happening. The direct payments pioneered by the disabled people\u2019s movement were premised on service users receiving an adequate payment and the necessary support to manage it. The personal budgets introduced by the government since 2007 have been sold as increasing choice and control, cutting bureaucracy and costing less. Not surprisingly it has never been possible to support such massive claims with evidence. And there has never been adequate funding to implement personal budgets properly; to identify, let alone meet, all the needs people have to live a life of reasonable quality.   Related: Council considers capping personal budgets for homecare    The In Control model of personal budgets adopted by successive governments in health and social care has rested firmly on the notion of a resource allocation system; that people should know what they are entitled to right from the start. Unfortunately all the evidence is that this system has never really worked.  The NAO found that mostly the upfront allocation was unhelpful, inaccurate and wasn\u2019t even shared with the service user. What this means is that the prevailing policy of personal budgets \u2013 defined by the upfront allocation to enable a consumerist notion of choice \u2013 doesn\u2019t actually exist. Yet while the NAO is critical of present personal budgets policy, it seems to lay the blame at the door of individual local authorities and implementation difficulties. The real problem from the growing body of evidence we actually have is that this is an inherently defective policy (pdf). However it has been sold very hard and it appears the NAO might have joined the ranks of those reluctant to see that the emperor isn\u2019t actually wearing any clothes. The likelihood of this, or indeed any other new policy working in social care, seems very limited so long as funding declines while needs increase.  The wisdom of exporting a failing model from means-tested social care to our universalist NHS is even more questionable \u2013 unless the plan of policymakers is to use it as a stalking horse for a very different kind of health service, more like social care, based on charging, rationing and much more privatisation. Peter Beresford\u2019s new book, All Our Welfare: Towards Participatory Social Policy, is out now. Join the Social Care Network to read more pieces like this. Follow us on Twitter (@GdnSocialCare) and like us on Facebook to keep up with the latest social care news and views.",
+  "webTitle": "Personal budgets don't work. So why are we ignoring the evidence?",
+  "webPublicationDate": "2016-05-05T08:47:09Z",
+  "webUrl": "https://www.theguardian.com/social-care-network/2016/may/05/personal-budgets-health-care-nao-report",
+  "keyword": [
+    {
+      "webTitle": "Social Care Network",
+      "id": "social-care-network/social-care-network",
+      "sectionId": "social-care-network",
+      "sectionName": "Social Care Network"
+    },
+    {
+      "webTitle": "Social care",
+      "id": "society/social-care",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Policy",
+      "id": "social-care-network/policy",
+      "sectionId": "social-care-network",
+      "sectionName": "Social Care Network"
+    },
+    {
+      "webTitle": "Disability",
+      "id": "society/disability",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "NHS",
+      "id": "society/nhs",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Older people",
+      "id": "society/older-people",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "England",
+      "id": "social-care-network/england",
+      "sectionId": "social-care-network",
+      "sectionName": "Social Care Network"
+    },
+    {
+      "webTitle": "Work practices",
+      "id": "social-care-network/work-practices",
+      "sectionId": "social-care-network",
+      "sectionName": "Social Care Network"
+    },
+    {
+      "webTitle": "Public sector cuts",
+      "id": "society/public-sector-cuts",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Public services policy",
+      "id": "society/policy",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Public finance",
+      "id": "society/public-finance",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "social care network: adult social care hub",
+      "id": "social-care-network/adult",
+      "sectionId": "social-care-network",
+      "sectionName": "Social Care Network"
+    },
+    {
+      "webTitle": "Personalisation",
+      "id": "social-care-network/personalisation",
+      "sectionId": "social-care-network",
+      "sectionName": "Social Care Network"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Peter Beresford",
+      "id": "profile/peterberesford"
+    }
+  ],
+  "guardianId": "social-care-network/2016/may/05/personal-budgets-health-care-nao-report"
+}

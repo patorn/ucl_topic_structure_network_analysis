@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/lifeandstyle/2016/may/02/early-earlier-retirement-retire-death-risk-data-research-jobs",
+  "id": "2016-05-02-234",
+  "sectionId": "lifeandstyle",
+  "body": "A spot of gardening, going travelling \u2013 who hasn\u2019t daydreamed about early retirement? So damn the latest study in the Journal of Epidemiology and Community Health that shows an early retirement can mean less time to enjoy it.  You might assume the effect was caused by sicker people retiring earlier and dying prematurely, but this study really tries to take that into account. The researchers analysed data from 2,956 people who were part of the Healthy Retirement Study funded by the National Institute on Aging in America. People were divided into unhealthy and healthy retirees based on whether they said sickness influenced their decision to stop work: about two-thirds were healthy and a third unhealthy. During the 18 years of the study, 12% of the healthy and 25.6% of the unhealthy group died. After taking into account factors such as the healthy group\u2019s better education and finances, they found that healthy retirees who worked a year longer (over the age of 65) had an 11% lower \u2018all-cause mortality risk\u201d. Even the unhealthy group reduced their likelihood of dying by 9% if they delayed retirement. The solution This seems counterintuitive. If anything should kill you, surely it\u2019s dragging yourself into work until your late 60s. There is at least one study showing that people are happier, even if they\u2019re not healthier, after retiring, especially if it was their own decision, but the evidence overall is not clearcut. An Israeli study of 2,374 people found that those who retired earlier had the same lifespan as those who did not. A German study from 2009, Time to Retire \u2013 Time to Die?, is one of the few to find that healthier people who retire before the age of 61 may live longer than those who continue to work. But this study, like some others, may not fully account for differences in occupation \u2013 heavy manual jobs may take more of a toll than managerial ones. A Swedish study found that women in non-manual jobs who retired had a higher risk of dying from heart disease whenever they left work, compared with those who stayed in jobs. But a Swedish study of army officers found early retirement reduced the likelihood of dying by the age of 70 by 26%. Many people will continue working from financial necessity. But if you can afford to stop working earlier and you\u2019re healthy, you shouldn\u2019t postpone retirement out of fear it could kill you. Chenkai Wu, lead author of the latest paper, says that it may be what work represents to people that prolongs life \u2013 not employment itself. \u201cKeeping active and getting involved in voluntary work definitely brings retirees a lot of benefits that would have been brought about by keeping on working.\u201d",
+  "webTitle": "Does early retirement mean an early death?",
+  "webPublicationDate": "2016-05-02T06:30:16Z",
+  "webUrl": "https://www.theguardian.com/lifeandstyle/2016/may/02/early-earlier-retirement-retire-death-risk-data-research-jobs",
+  "keyword": [
+    {
+      "webTitle": "Health & wellbeing",
+      "id": "lifeandstyle/health-and-wellbeing",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Retirement age",
+      "id": "money/retirement-age",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Work & careers",
+      "id": "money/work-and-careers",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Ageing",
+      "id": "science/ageing",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Older people",
+      "id": "society/older-people",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Luisa Dillner",
+      "id": "profile/luisadillner"
+    }
+  ],
+  "guardianId": "lifeandstyle/2016/may/02/early-earlier-retirement-retire-death-risk-data-research-jobs"
+}

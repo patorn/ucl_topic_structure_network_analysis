@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/08/new-day-darkness-trinity-mirror",
+  "id": "2016-05-08-187",
+  "sectionId": "media",
+  "body": "If you spend some of your time writing about newspapers, then the more of them there are to write about the merrier. So the New Day got a cautiously benign welcome at launch two months ago. Even if you didn\u2019t think a cheap and determinedly cheerful paper for lapsed female readers was a real bet, rather than a fresh folly of market research, you hoped you were wrong. But old, residual doubts did for that New Day last week. It was selling maybe 30,000 \u2013 not the 200,000 planned. It was utterly inconspicuous. It didn\u2019t do stories that might get it noticed. It was cheap but not cheerful. Blame Simon Fox and the Trinity Mirror managers behind this flop? That\u2019s natural, and probably unavoidable. Look at the last ABC-audited national sales figures: the Mirror, down 12.66% in a year, the Sunday Mirror, down 14.34%, and the People, down 15.59%, are the three worst performers right along old Fleet Street. Well, of course, the future is digital, you may say: and Mirror figures are better there. So they are too, modestly, across Trinity\u2019s local paper empire. But newsprint nationals \u2013 including the New Day \u2013 tell a different story: of titles cut and cut so they can\u2019t come again, of a failure of nerve and vision. It\u2019s back to the basic question that\u2019s lingered ever since Trinity bought the Mirror some 17 years ago. Can the monopoly operators of our local press compete against Murdoch, Desmond et al on a national stage where brashness and boldness matter? Answer: alas, it would still seem not. And don\u2019t just write this failure off as some further triumph for digital potency. This New Day, as conceived, run and promoted, would have died from the same palsy any day in the last 100 years.",
+  "webTitle": "Darkness at the end of the New Day",
+  "webPublicationDate": "2016-05-08T06:00:15Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/08/new-day-darkness-trinity-mirror",
+  "keyword": [
+    {
+      "webTitle": "The New Day",
+      "id": "media/new-day",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Trinity Mirror",
+      "id": "media/trinity-mirror",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Regional & local newspapers",
+      "id": "media/local-newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "National newspapers",
+      "id": "media/national-newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers",
+      "id": "media/newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers & magazines",
+      "id": "media/pressandpublishing",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Peter Preston",
+      "id": "profile/peterpreston"
+    }
+  ],
+  "guardianId": "media/2016/may/08/new-day-darkness-trinity-mirror"
+}

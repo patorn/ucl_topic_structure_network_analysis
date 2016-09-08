@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/03/eu-refugee-crisis-closed-door-countries-pay-solidarity-contributions",
+  "id": "2016-05-04-323",
+  "sectionId": "world",
+  "body": "European countries that refuse to give shelter to refugees could be forced to pay into the coffers of states that do, under plans to be unveiled by the European commission on Wednesday.  The idea is part of a long-awaited proposal to reform the EU\u2019s asylum rules, which were stretched to breaking point by the arrival of more than one million refugees and migrants last year. A copy of the draft regulation confirms that the commission has watered down earlier ambitions to centralise European asylum policy by allocating refugees around the bloc according to a quota system determined by a country\u2019s wealth and size. The commission will also signal its approval for the lifting of visa restrictions on 79 million Turks. Granting Turks visa-free access to the EU\u2019s Schengen zone was a crucial part of the deal the EU struck with Ankara to reduce migrant flows The UK can choose whether or not to take part in the new EU asylum system.  EU countries would still be responsible for housing refugees who arrive on their territory, preserving a key principle of existing asylum rules known as the Dublin regulation. Unlike under Dublin, refugees could be dispersed around the EU via a \u201ccorrective fairness mechanism\u201d in the event that countries that are the first arrival point are unable to cope. Commission officials are anxious to ease the pressure on frontline states, notably Greece and Italy, which have been struggling to handle the large numbers of refugees and migrants arriving on their shores. Countries that refuse to take in refugees would be required to pay EU states that are doing more. Although the sum has not yet been finalised, the draft law suggests \u201ca solidarity contribution\u201d of \u20ac250,000 (\u00a3198,000) per asylum applicant. The idea chimes with the thinking of Italy\u2019s prime minister, Matteo Renzi, who has long argued that eastern and central European countries should be denied EU funds for refusing to help with the EU migration crisis. Hungary and Slovakia refused to take part in a one-off scheme to redistribute 160,000 refugees from Greece and Italy to other EU countries, but there was nothing in existing EU law to levy any financial penalty on them. The corrective fairness mechanism would be modelled on that redistribution scheme, which has seen painfully slow progress. Out of the 160,000 refugees, only 937 were resettled in first six months of its operation. Although the European court of justice routinely issues fines to countries that flout EU law, introducing fines for not taking refugees is likely to be controversial. Guy Verhofstadt, leader of the Liberal group in the European parliament, said reform of \u201cthe outdated Dublin regulation\u201d was essential. \u201cTough times require bold decisions, which is why I call on EU governments to give these proposals a fair hearing,\u201d he said. The plans represent something of a victory for David Cameron, who had strenuously campaigned to preserve the principle that countries that are the first port of arrival for asylum seekers should be responsible them.  A government source said the proposals showed that \u201cthe best way to get a good deal for the UK in Europe is to stay at the table and stand up for British interests\u201d, adding: \u201cIt shows that Britain can work with the European commission to come up with pragmatic solutions.  \u201cThese new plans give Britain the best of both worlds by retaining the right to remove asylum seekers to EU countries \u2013 but without opting in to the Schengen area\u2019s burden-sharing scheme. We now know that taking a leap into the dark by voting to leave the EU would leave the UK powerless to return thousands of asylum seekers to other European countries.\u201d Successive British governments have chosen to opt into EU asylum policy so they can send back asylum seekers to other countries. But Downing Street is likely to be concerned that a debate on the EU\u2019s asylum rules could boost the Brexit campaign. While European leaders have been scrambling to come up with a plan to stop migrants getting on boats bound for Greece, a parallel debate has been raging about reforming the EU\u2019s defunct asylum rules.  In another boost for the British government, the commission states that any mandatory redistribution of refugees will take into account government efforts to resettle refugees from third countries.  The UK has promised to resettle 20,000 Syrians from Turkey over five years, but has refused to take refugees currently in Greece, arguing that this would encourage more people to make perilous journeys across the sea. This stance has now gained tacit approval from the commission.",
+  "webTitle": "EU executive to propose asylum reforms and approve Turkey visa deal",
+  "webPublicationDate": "2016-05-04T06:17:14Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/03/eu-refugee-crisis-closed-door-countries-pay-solidarity-contributions",
+  "keyword": [
+    {
+      "webTitle": "Refugees",
+      "id": "world/refugees",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "European commission",
+      "id": "world/european-commission",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Immigration and asylum",
+      "id": "uk/immigration",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Migration",
+      "id": "world/migration",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jennifer Rankin",
+      "id": "profile/jennifer-rankin"
+    }
+  ],
+  "guardianId": "world/2016/may/03/eu-refugee-crisis-closed-door-countries-pay-solidarity-contributions"
+}

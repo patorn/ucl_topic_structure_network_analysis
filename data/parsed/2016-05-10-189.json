@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/society/2016/may/10/brexit-benefit-public-services-survey",
+  "id": "2016-05-10-189",
+  "sectionId": "society",
+  "body": "The Brexit debate often has much heat and little light. This is as true of the impact of leaving the EU on public services as of the more emotive issues of immigration and border controls. A few weeks ago Lord Owen on behalf of Vote Leave launched a campaign to \u201csave the NHS\u201d. In his speech, he argued that the health service could only be sustained by exit. Britain Stronger in Europe, in contrast, suggested that the economy would suffer, leading to fewer resources for the NHS. Both arguments have some merit, but they do not accurately reflect the complex nature of the relationship between the NHS and the EU. It is a trend replicated in most debates about the EU\u2019s impact on policy and public services. We often see binary arguments on a narrow set of the pros and cons with powerful and emotive headlines. But they do not take into account the often more intricate facts, nor whether we would actually choose to exercise policy differently outside the EU.    Public sector leaders worry that Brexit would cause significant staff shortages    To try to throw some light on this, we commissioned a survey of 1,000 members of the general public by ComRes, alongside in-depth interviews with public service leaders. We found that many voters see little EU influence on public services. Nearly half of those surveyed think that membership of the EU makes no difference to health and social care (46%), consumer protection (44%) or regional economic development (40%). Some 60% say it has no impact on the quality of higher education. Interestingly, public service workers in the poll are not appreciably pro- or anti-EU compared to the general workforce, but are more likely to think the EU has influence on our public services. Where people do think the EU affects public services, this tends to be a more general perception than relating to the services where they live. Yet our in-depth research among 20 public service chief executives, finance directors and service leaders found a much stronger belief that public services are affected by the EU, though this varies considerably: with less impact on housing and more on the police. We found that the principle of free movement of goods and people among EU member states has far-reaching impact on all public services, in particular by providing access to a wider pool of talent and skills. Other research from Oxford University, for example, shows social care greatly relies on professionals from other member states who are willing to work the unsocial hours required by 24/7 care. Public sector leaders worry that Brexit would cause significant staff shortages and increase the use of expensive locums and agency workers. They are also concerned about what would happen to the collaborative relationships formed with EU member states. This is keenly felt in the crime and security sectors. Those working in law enforcement believe that the European arrest warrant has enhanced their ability to respond to cross-border crime. In the healthcare sector, public health has benefited from EU research programmes. The coalition\u2019s balance of competences report praised the EU\u2019s impact on tackling issues such as alcohol abuse. But of course, the EU\u2019s impact on UK public services isn\u2019t all champagne and caviar. Sometimes there is a distinct hangover and an expensive bill too. Public service leaders told us that immigration, exacerbated by the free movement policy, is often placing a strain on local services, particularly in Kent and the south-east. And public service leaders have expressed concern that EU regulations are inflexible and over the top. For instance, state aid rules restrict the amount of discretionary business rates relief, which could incentivise regional economies. Overall, public service leaders think 19 to 1 that the drawbacks of leaving the EU outweigh the benefits in relation to public services. The lack of public understanding about the impact of the EU on public services is concerning. Whatever the pros and cons, leaving the EU would certainly cause years of upheaval and cost public services dearly. It is a decision to be made only in full possession of the facts.",
+  "webTitle": "Would Brexit really benefit public services? | Rob Whiteman",
+  "webPublicationDate": "2016-05-10T12:00:04Z",
+  "webUrl": "https://www.theguardian.com/society/2016/may/10/brexit-benefit-public-services-survey",
+  "keyword": [
+    {
+      "webTitle": "Public services policy",
+      "id": "society/policy",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Rob Whiteman",
+      "id": "profile/rob-whiteman"
+    }
+  ],
+  "guardianId": "society/2016/may/10/brexit-benefit-public-services-survey"
+}

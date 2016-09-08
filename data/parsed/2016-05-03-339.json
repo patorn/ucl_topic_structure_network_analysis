@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/03/baidu-investigated-in-china-after-death-of-student-who-sought-cancer-cure-on-internet",
+  "id": "2016-05-03-339",
+  "sectionId": "world",
+  "body": "China\u2019s state-run media has accused internet giant Baidu of putting profits before people following the death of a 21-year-old student who used its search engine to seek out ineffective treatment for cancer. Wei Zexi, from Shaanxi province, died on 12 April after undergoing expensive experimental treatment that he had learned about through the search engine of Baidu, China\u2019s answer to Google. On Monday, amid growing public anger, the Communist party\u2019s official mouthpiece, the People\u2019s Daily, attacked Baidu for allegedly promoting potentially dubious medical treatments in its search results in exchange for money. \u201cThere have been hospitals making profits at the cost of killing patients who were directed by false advertisements paid at a higher rank in search results,\u201d the newspaper claimed, adding: \u201cWith great power comes great responsibility... profit considerations shall not be placed over social responsibility.\u201d According to reports in the Chinese media, Wei died of synovial sarcoma, a rare form of soft tissue cancer that can affect a person\u2019s legs, arms or torso. In the months leading up to his death he underwent four rounds of experimental and ultimately unsuccessful treatment at the Second Hospital of the Beijing Armed Police Corps in the Chinese capital, for which his family paid more than 200,000 yuan (\u00a321,000). The treatment reportedly involved using cells produced by the patient\u2019s immune system to fight the illness. Just weeks before he died, Wei expressed anger at Baidu in an online post in which he said he regretted seeking a cure through the company\u2019s search engine. \u201cBaidu, we did not know how much evil it could do,\u201d Wei wrote, according to state media reports. There was outrage in China this week as online reports about Wei\u2019s case went viral and Baidu was accused of not doing enough to vet its advertisers.   Related: China\u2019s Baidu could beat Google to self-driving car with BMW    \u201c[Baidu] makes money by taking lives,\u201d one critic wrote according to Xinhua, which claimed the internet giant made at least 10bn yuan (\u00a31.05bn) last year from advertisements placed by private hospitals. On Monday, China\u2019s internet watchdog, the Cyberspace Administration of China, announced it was sending a team of investigators to examine what role, if any, Baidu played in the student\u2019s death. The company\u2019s shares slumped by nearly 8% after the announcement of that decision. In a statement Baidu said: \u201cOur deepest condolences go out to Wei Zexi\u2019s family. Baidu is a trusted company and we uphold extremely high standards to make our platform safe and trustworthy.\u201d The so-called \u201cWei Zexi incident\u201d is the second major controversy Baidu, which enjoys about 80% of China\u2019s search engine market, has faced this year. In January internet users rounded on the company after it emerged that Baidu had sold the rights to run an online group for haemophilia sufferers to a company that then filled it with dubious medical advice. State media alleged that in pursuit of profits, Baidu had allowed its online health forums to become \u201cflooded with quacks and advertisements for unlicensed hospitals\u201d. Thousands of internet users subsequently announced a boycott of Baidu.  In a strongly worded editorial Xinhua, China\u2019s official news agency, said Baidu\u2019s reputation had taken a \u201chuge battering\u201d as a result of the two cases. They suggested the company valued \u201cmonetary gain over the welfare of its users,\u201d it said. Xinhua also hit out at the company\u2019s \u201cdumb\u201d response to public criticism over its actions. \u201cFrom where we are standing, there seems to be a growing disconnect between Baidu and its corporate social responsibility,\u201d it said. On Tuesday Baidu said it paid \u201cparticular vigilance\u201d to its \u201chealthcare vertical\u201d and had \u201cproactively cleaned up the customer base\u201d using measures including the careful screening of potentially misleading adverts. But an opinion piece in the state-run China Daily newspaper blamed the company\u2019s \u201cvirtual monopoly of online searches\u201d for the controversies and suggested that needed to change. \u201cThe only way to stop such harmful activities is to break Baidu\u2019s search monopoly,\u201d it said.",
+  "webTitle": "China investigates Baidu after death of student who sought cancer cure on internet",
+  "webPublicationDate": "2016-05-03T05:40:23Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/03/baidu-investigated-in-china-after-death-of-student-who-sought-cancer-cure-on-internet",
+  "keyword": [
+    {
+      "webTitle": "China",
+      "id": "world/china",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Asia Pacific",
+      "id": "world/asia-pacific",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Internet",
+      "id": "technology/internet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Search engines",
+      "id": "technology/searchengines",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Tom Phillips",
+      "id": "profile/tomphillips"
+    }
+  ],
+  "guardianId": "world/2016/may/03/baidu-investigated-in-china-after-death-of-student-who-sought-cancer-cure-on-internet"
+}

@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/04/tom-hayes-jailed-libor-criminal-cases-review-commission",
+  "id": "2016-05-04-131",
+  "sectionId": "business",
+  "body": "Tom Hayes, serving 11 years for rigging Libor rates, has hired a high-profile lawyer to take his appeal to the Criminal Cases Review Commission, which investigates suspected miscarriages of justice. The 36-year-old\u2019s attempt to have his conviction overturned failed although three senior court of appeal judges reduced the sentence from 14 years. He has now hired Karen Todner \u2013 who led Gary McKinnon\u2019s case against extradiction to the US on charges of computer hacking \u2013 to present a case to the CCRC. Todner, head of crime, regulatory and extradition at Kaim Todner, said: \u201cBecause Tom has already appealed his conviction and sentence, the Criminal Cases Review Commission is now Tom\u2019s only hope of achieving justice. \u201cTom\u2019s family are now in possession of fresh evidence. We believe Tom has a strong case, which our submission to the CCRC will demonstrate,\u201d said Todner. In August, Hayes was found guilty of eight counts of conspiracy to defraud. He was diagnosed with mild Asperger\u2019s syndrome shortly before his 10-week trial last May. Hayes\u2019s family said: \u201cKaren has longstanding expertise in the areas where Tom\u2019s case needs urgent review in order to right this wrong. Tom knew from the moment he met Karen that she understands him and the way he thinks, and that is the single most important thing to him.\u201d It was not immediately clear what fresh evidence had been found but Hayes and his supporters are seeking to raise up to \u00a3150,000 via crowdfunding. So far \u00a32,135 has been raised on FundRazr.  Hayes, who is in Belmarsh prison,  has been ordered to pay \u00a3878,806 after a ruling in the Old Bailey that the money was the proceeds of crime. The Serious Fraud Office was seeking up to \u00a32.45m from Hayes.",
+  "webTitle": "Man jailed over Libor seeks 'miscarriage of justice' review",
+  "webPublicationDate": "2016-05-04T15:10:44Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/04/tom-hayes-jailed-libor-criminal-cases-review-commission",
+  "keyword": [
+    {
+      "webTitle": "Libor",
+      "id": "business/libor",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Criminal Cases Review Commission",
+      "id": "law/criminal-cases-review-commission",
+      "sectionId": "law",
+      "sectionName": "Law"
+    },
+    {
+      "webTitle": "Banking",
+      "id": "business/banking",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "UK criminal justice",
+      "id": "law/criminal-justice",
+      "sectionId": "law",
+      "sectionName": "Law"
+    },
+    {
+      "webTitle": "Law",
+      "id": "law/law",
+      "sectionId": "law",
+      "sectionName": "Law"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jill Treanor",
+      "id": "profile/jilltreanor"
+    }
+  ],
+  "guardianId": "business/2016/may/04/tom-hayes-jailed-libor-criminal-cases-review-commission"
+}

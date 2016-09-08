@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/science/head-quarters/2016/may/19/sea-hero-quest-mobile-game-dementia-alzheimers-disease-spatial-navigation",
+  "id": "2016-05-19-304",
+  "sectionId": "science",
+  "body": "If there\u2019s one thing that I\u2019ve learned in the few short years that I\u2019ve been a fully-fledged scientist, it\u2019s that time is one of the most valuable commodities that you can give a researcher. In all its myriad forms, time is invaluable to the scientific process \u2013 time to develop ideas, time to write grants. The time that you need to run an experiment. Critically, the time that participants are willing to give you in the pursuit of knowledge. It\u2019s a precious thing, for everyone involved. Like with many things we take for granted, it\u2019s easy to forget the importance of time until it\u2019s gone. This is a point that becomes acutely salient in the case of Alzheimer\u2019s disease. Once a definitive diagnosis has been made, the average life expectancy for patients with the disease is around six years. It robs people of their future, but more than that, Alzheimer\u2019s disease robs them of their past \u2013 short term memory loss is a common indicator, and as the disease progresses, it can eat into memories from earlier in life. But it\u2019s not just time that\u2019s an issue when it comes to Alzheimer\u2019s disease. Space is a problem too \u2013 or rather, spatial navigation. Being able to successfully steer your way around different sorts of surroundings is obviously a pretty important skill to have. Broadly, there are two frames of reference that you can use to do it. \u2018Egocentric\u2019 frames of reference rely on remembering the locations of landmarks in relation to your own body \u2013 so, for instance, if you take a fixed route to work, you might learn to turn left at the shop, then turn right when you see the petrol station. In contrast, \u2018allocentric\u2019 navigation relies on creating and remembering a mental map of an environment, and remembering the location of landmarks in relation to other landmarks. Deficits in both of these navigation systems appear in the early stages of Alzheimer\u2019s disease, but the precise way in which they decline isn\u2019t yet fully understood. Part of the problem is that we don\u2019t really have a good grasp of how healthy people use these systems, or what they do when they get lost. That has important implications in the clinic, because if a patient presents with spatial navigation problems, it\u2019s can be difficult to tell whether that\u2019s because they are showing signs of dementia, or whether it\u2019s just because they\u2019re generally poor at navigation.   Related: Alzheimer's treatment closer as brain inflammation shown to be key    This is where a team led by Professor Michael Hornberger at UEA and Dr Hugo Spiers at UCL come in. At the start of May, they launched a new mobile game called Sea Hero Quest. The game puts you in the shoes of an unnamed sailor, whose father is slowly losing memories of his life as a seafaring explorer. To try and help him remember his past, your job is to travel around cartoon waterways in search of pieces of his old journal. At the start of a level, you\u2019re given a top-down map of the waterways that shows a number of buoy markers you need to navigate through. Once you\u2019ve memorised it, you simply need to sail your ship around the 3D world and hit each buoy in numerical order. The information about the route you take, and what you do if you get lost, is saved and transmitted for further analysis. \u201cThe idea was to create a global benchmark for navigation behaviour in healthy people on a population level,\u201d says Professor Hornberger. \u201cThe perfect way to do this was via online gaming, as many online games use virtual reality and can be played anywhere.\u201d By getting this sort of data in a huge sample of people, the idea is that Hornberger and Spiers can gain a more nuanced insight into whether there are any differences in how people of different ages, sex and even geographical location navigate. \u201cFor example, what is the normal navigation for a 55 year old man from England?\u201d Hornberger explains. \u201cThe game is meant to be challenging, as we want to see how healthy people navigate and get lost. This will then inform new approaches towards dementia diagnosis and management.\u201d   Related: Detecting dementia: the first steps towards dignity | Tania Browne    While the game can\u2019t be used to diagnose dementia, the data collected from it has the potential to inform a wealth of research into Alzheimer\u2019s disease in the future. \u201cWe are sampling the position and heading direction from each player in the game every 500ms, which will allow us to use artificial intelligence approaches on the data to potentially predict where people get lost,\u201d explains Hornberger. Ultimately then, by understanding how healthy people lose their way, and whether there are any systematic patterns in the decline of spatial navigation abilities over time, it might be possible to better adapt the environments that people with Alzheimer\u2019s disease live in \u2013 from care homes to entire towns. Sea Hero Quest took 12 months to set up and launch, and initially, will be available to download until the end of the year. Hornberger explains that the goal by then was to have 100,000 people play the game for at least two minutes. As of this week, it\u2019s been downloaded over 960,000 times. The plan is to update the app in June, with more levels that investigate other aspects of spatial navigation. \u201cFrom the beginning it was clear to us that we didn\u2019t want to create another online cognitive experiment - instead we wanted to have a fun, casual mobile game which would collect valid scientific data,\u201d Hornberger says. \u201cThis was also important so that we wouldn\u2019t only get citizen scientists playing the game, but the general public.\u201d The key to this experiment being a success, then, is to get the best possible representation of the population at large. For that, all the research team needs is two minutes of time from as many people as possible. Two minutes. Nothing really, in the grand scheme of things. But in the quest to understand dementia, it could mean a potential lifetime.",
+  "webTitle": "Sea Hero Quest: how a new mobile game can help us understand dementia",
+  "webPublicationDate": "2016-05-19T07:00:01Z",
+  "webUrl": "https://www.theguardian.com/science/head-quarters/2016/may/19/sea-hero-quest-mobile-game-dementia-alzheimers-disease-spatial-navigation",
+  "keyword": [
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Psychology",
+      "id": "science/psychology",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Neuroscience",
+      "id": "science/neuroscience",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Alzheimer's",
+      "id": "society/alzheimers",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Dementia",
+      "id": "society/dementia",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Games",
+      "id": "technology/games",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Mobile",
+      "id": "technology/mobile",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Pete Etchells",
+      "id": "profile/pete-etchells"
+    }
+  ],
+  "guardianId": "science/head-quarters/2016/may/19/sea-hero-quest-mobile-game-dementia-alzheimers-disease-spatial-navigation"
+}

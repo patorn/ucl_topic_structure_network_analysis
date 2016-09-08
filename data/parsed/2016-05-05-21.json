@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/05/leicester-vice-chairman-jamie-vardy-focus",
+  "id": "2016-05-05-21",
+  "sectionId": "football",
+  "body": "The Leicester City vice-chairman, Aiyawatt Srivaddhanaprabha, has recounted how he helped Jamie Vardy turn around his career and fulfil a bold prophecy that the striker made when he joined Leicester from non-League Fleetwood Town in 2012 that he would go on to play for England.   Related: Claudio Ranieri: \u2018Whoever arrives at Leicester must have the same spirit\u2019    Srivaddhanaprabha, commonly referred to at Leicester by his nickname of Top, explained that Vardy initially struggled to cope with the transformation of his life after making the \u00a31m move to Leicester and there soon came a time when his excessive drinking had to be addressed. \u201cI talked to him,\u201d said Top. \u201cI said: \u2018Come on, you have to improve.\u2019 I knew he could be a better player than that.\u201d Vardy also knew he could be a better player and, when he came to terms with the demands of football at the higher level, he began to put in the performances that eventually gained him an England cap in last year\u2019s friendly against the Republic of Ireland. That was a goal he had vowed to achieve on the day Leicester signed him. \u201cHe told me he would play for England the day,\u201d said Top. \u201cI said: \u2018Come on Vards.\u2019 He said: \u2018Yes you will see, I will try everything.\u2019 And he said he would try everything to make the club successful.\u201d",
+  "webTitle": "Leicester vice-chairman intervened to force Jamie Vardy to focus",
+  "webPublicationDate": "2016-05-05T21:30:06Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/05/leicester-vice-chairman-jamie-vardy-focus",
+  "keyword": [
+    {
+      "webTitle": "Leicester City",
+      "id": "football/leicestercity",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Jamie Vardy",
+      "id": "football/jamie-vardy",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Paul Doyle",
+      "id": "profile/pauldoyle"
+    }
+  ],
+  "guardianId": "football/2016/may/05/leicester-vice-chairman-jamie-vardy-focus"
+}

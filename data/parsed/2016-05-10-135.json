@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/science/2016/may/10/virtual-hearts-help-doctors-spot-patients-most-at-risk-from-fatal-arrhythmias",
+  "id": "2016-05-10-135",
+  "sectionId": "science",
+  "body": "Personalised virtual hearts have been created for cardiac patients to help doctors spot those who are most at risk of developing fatal arrhythmias.   Related: Heart attacks kill thousands each year because of poor NHS aftercare, study says    The 3D computer models allow scientists to check the performance of patients\u2019 hearts in the weeks and months after an attack, and assess their chances of future heart rhythm problems that can lead to sudden cardiac death. When built and set beating inside a computer, the virtual hearts proved more effective than traditional tests at revealing which patients had the highest risk of deadly arrhythmias, the researchers report in the journal Nature Communications. \u201cThe goal is to create a virtual heart for every patient,\u201d said Natalia Trayanova, who runs a computational cardiology lab at Johns Hopkins University in Baltimore.     Patient-specific digital heart models are constructed from MRI scans. The virtual heart is then used to predict the patient\u2019s risk of developing a lethal arrhythmia. Illustration: Hermenegild Arevalo and Natalia Trayanova.    The work will help doctors spot patients who are most likely to benefit from small, implantable defibrillators which deliver a swift electric shock to the heart when lethal arrhythmias arise. Fatal arrhythmias in people with heart conditions kill 100,000 people in the UK each year. Trayanova used MRI images to build up detailed digital models of 41 individual hearts of patients who had experienced heart attacks. Each patient had scar tissue on the heart that hampered the organ\u2019s ability to pump blood efficiently. Now largely automated, the process of turning MRI images into a 3D virtual heart takes about two hours. Armed with the 3D virtual models, the scientists set about testing them. They stimulated each heart in different areas and watched to see what happened. \u201cIf a virtual heart develops an arrhythmia - the presence of a rotational electrical wave - in response to an electrical stimulus, then the patient is at risk for sudden cardiac death due to arrhythmia,\u201d Trayanova said.         Virtual heart showing electrical activity in a patient with a high risk of dangerous arrythmia. Credit: Trayanova et al. Nature Communications     Doctors normally decide which patients should have implantable defibrillators by measuring how much blood is pumped out of the heart. All of the 41 patients Trayanova made virtual hearts for qualified for the implants, because their scores on the test were so low. But a comparison of the virtual heart predictions with the patient records up to five years after they had defibrillators fitted showed that the 3D models were more accurate in identifying the patients most at risk from deadly arrhythmias.         Virtual heart showing electrical activity in a patient with a low risk of dangerous arrythmia. Credit: Trayanova et al. Nature Communications    Patients found to be at risk of fatal arrhythmias based on the 3D models were four times more likely to develop arrhythmias than those who tested negative. And when compared with other tests, the virtual hearts predicted arrhythmias in patients four to five times more accurately than the blood flow test and other methods doctors commonly use. \u201cThe location, size and geometrical shape of the zone of injury in each patient\u2019s heart is different, and so is the individual level of scarring,\u201d said Trayanova. \u201cThe combination of these multiple parameters makes some hearts more prone to life-threatening arrhythmias.\u201d     This shows risk prediction for two patients with previous cardiac injury, one classified as high risk, and the other as low risk. In the high risk heart, arrhythmia developed, indicated by the electrical wave that was \u201cstuck\u201d rotating around the injury. In the low risk heart, despite the presence of injury, no arrhythmia occurred. Illustration: Hermenegild Arevalo and Natalia Trayanova    Using virtual hearts, doctors could change radically how patients are assessed for implantable defibrillators, and cut the number of patients who have the devices fitted unnecessarily. While the risks from the implants are not great, patients can experience infections, device malfunctions and unexpected shocks when they are not in danger.   Related: Heart cells beating in a Petri dish offer new hope to heart patients    Peter Weissberg, medical director at the British Heart Foundation (BHF), said implantable defibrillators, known as ICDs, are life saving in patients who are prone to a cardiac arrest following a heart attack, but added that the devices are expensive and can lead to complications, making it important to use them only in patients who needed them most. While the US team\u2019s work was \u201cpromising\u201d, he said the study was too small to know how reliably it predicted patients at risk.  \u201cIf these findings are confirmed in a larger study they are likely to lead to this approach being used to help identify those patients who are likely to benefit from receiving an ICD in the future,\u201d he said.  \u201cWe recognise the need to minimise the negative effects of ICDs on people\u2019s emotional and physical wellbeing, and the BHF is funding research to find new ways of detecting and treating potentially dangerous heart rhythms.\u201d",
+  "webTitle": "Virtual hearts help doctors spot patients most at risk from fatal arrhythmias",
+  "webPublicationDate": "2016-05-10T15:03:24Z",
+  "webUrl": "https://www.theguardian.com/science/2016/may/10/virtual-hearts-help-doctors-spot-patients-most-at-risk-from-fatal-arrhythmias",
+  "keyword": [
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Heart attack",
+      "id": "society/heart-attack",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Medical research",
+      "id": "science/medical-research",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "3D",
+      "id": "technology/3d",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ian Sample",
+      "id": "profile/iansample"
+    }
+  ],
+  "guardianId": "science/2016/may/10/virtual-hearts-help-doctors-spot-patients-most-at-risk-from-fatal-arrhythmias"
+}

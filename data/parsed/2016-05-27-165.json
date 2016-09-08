@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/27/fingerprint-dna-potential-terror-suspects-deleted",
+  "id": "2016-05-27-165",
+  "sectionId": "uk-news",
+  "body": "Police and security services have deleted the fingerprint and DNA records of at least 100 potential terror suspects whose details should have been kept in the interests of national security, according to an official report.  The biometric commissioner, Alastair MacGregor QC, found that officers failed to meet deadlines in the paper trail that would have allowed them to store the data, which meant it was deleted six months after it was collected.    Related: UK police hold DNA profiles of 7,800 terrorism suspects    Between 31 October 2013 and 31 March 2016, these retention periods expired in the cases of about 810 people, MacGregor said in a special report requested by the home secretary (pdf) after he identified the failings in March. \u201cIt is now my understanding that applications for NSDs [national security determinations] would undoubtedly have been made in at least 108 of the cases,\u201d MacGregor said, adding that the true figure may have been much higher. NSDs are orders made by senior officers in the police or security services that allow biometric data to be retained on the basis of protecting against a threat to national security. Many of the 810 biometric profiles were likely to have been collected in the course of port stops under powers granted to officials under schedule 7 of the Terrorism Act 2000, MacGregor said. Schedule 7 is a power to stop and search individuals at ports, airports and international railway stations. It is possible that some of those from whom data was collected had been travelling to join Islamic State in Syria, which, during the period covered by MacGregor\u2019s report, attracted hundreds of recruits from Britain, as the country stood at a heightened state of terror alert. MacGregor said the retention process for the deleted biometric profiles was not completed despite \u201cvery nearly all\u201d of them being kept on file past their expiry dates. The commissioner identified a number of failings by police, border and security services, including: delays in transferring and processing biometric profiles, IT systems which further delayed assessments and wrongly informed officials that time limits had expired, delays by the security services in completing intelligence assessments, failures by intelligence teams to prioritise their caseload, and delayed decisions by senior officers.  The scale of the problem only became apparent last December after MacGregor began investigating statistical information as he prepared his 2015 report, \u201cand it is only since that time that they have been systematically investigated and addressed,\u201d he said.    Related: David Miranda ruling throws new light on schedule 7 powers    Liberty, the human rights group, has called the schedule 7 power used to collect many of the biometric profiles \u201cbreathtakingly broad and intrusive\u201d. It can be used to stop and search individuals without any suspicion of involvement in terrorism or criminal activity. It is the same power that was used to stop David Miranda, the partner of former Guardian reporter Glenn Greenwald, who had written a series of stories revealing mass domestic surveillance by Britain and the US, at Heathrow airport in August 2013. John Lamb, lecturer in criminology and security studies at Birmingham City University, said he believed the mix-up could have far-reaching implications for both protection and policy. He said: \u201cThat these 108 profiles have been deleted via an automatic process because the NSDs were not applied for in time is a serious flaw in the system.  \u201cIt means that 108 potentially high-risk individuals \u2013 that is people thought to pose a threat to national security \u2013 can no longer be automatically linked to crime scenes or evidence as they are no longer in the database and, thus, their profiles cannot be searched for matches against. The police and intelligence services can now do little more than hope that the individuals in question are rearrested for minor crimes so that their DNA can be re-uploaded to the database.\u201d The National Police Chiefs\u2019 Council, which coordinates strategy across the country\u2019s 43 police forces, said steps had been taken to make sure the failings identified by MacGregor did not continue.  \u201cThis error was the result of a number of different factors across our processes. We have worked with the biometrics commissioner to develop a comprehensive plan to rectify the immediate issues and to ensure this will not happen again,\u201d said assistant chief constable Alan Barr, the NPCC\u2019s deputy senior national coordinator for counter-terrorism. \u201cThe identity of these individuals is known and the risks they potentially pose are being managed in conjunction with partner agencies to minimise any long-term risk to the public.\u201d",
+  "webTitle": "Police deleted biometric profiles of at least 100 potential terror suspects",
+  "webPublicationDate": "2016-05-27T12:07:54Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/27/fingerprint-dna-potential-terror-suspects-deleted",
+  "keyword": [
+    {
+      "webTitle": "UK security and counter-terrorism",
+      "id": "uk/uksecurity",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Biometrics",
+      "id": "technology/biometrics",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Police",
+      "id": "uk/police",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Schedule 7",
+      "id": "law/schedule-7",
+      "sectionId": "law",
+      "sectionName": "Law"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Human rights",
+      "id": "law/human-rights",
+      "sectionId": "law",
+      "sectionName": "Law"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Damien Gayle",
+      "id": "profile/damien-gayle"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/27/fingerprint-dna-potential-terror-suspects-deleted"
+}

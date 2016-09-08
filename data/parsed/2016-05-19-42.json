@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/19/modern-baseball-holy-ghost-review",
+  "id": "2016-05-19-42",
+  "sectionId": "music",
+  "body": "Related: Modern Baseball: meet the band tackling pop-punk\u2019s crude image    Pop-punk, with its goofy songs full of knob and poo gags, in which women (girlfriends, mothers, etc) are mostly depicted as sources of irritation, has long been the genre of choice for a certain type of adolescent male. However, Philadelphia\u2019s Modern Baseball head the field of newer bands trying to take it somewhere deeper. With guitarists Jake Ewald and Brendan Lukens splitting vocal duties, chugging guitars abound, but their third album addresses alternative young adulthood concerns including grief, depression and mental health.  Ewald\u2019s conversational, candid storytelling has something of Bruce Springsteen or the Hold Steady\u2019s Craig Finn about it. Lukens\u2019s words are more personal and anguished, with his cries of \u201cI\u2019m a waste of time and space\u201d on Just Another Face providing the album\u2019s heartfelt standout. At only 28 minutes, there\u2019s not a lot of Holy Ghost, but it\u2019s never depressing or dull, and the tunes are sharply honed. Pop-punk may finally be (gulp) growing up.",
+  "webTitle": "Modern Baseball: Holy Ghost review \u2013 haunting and heartfelt pop-punk",
+  "webPublicationDate": "2016-05-19T20:00:20Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/19/modern-baseball-holy-ghost-review",
+  "keyword": [
+    {
+      "webTitle": "Pop and rock",
+      "id": "music/popandrock",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Indie",
+      "id": "music/indie",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Punk",
+      "id": "music/punk",
+      "sectionId": "music",
+      "sectionName": "Music"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Dave Simpson",
+      "id": "profile/davesimpson"
+    }
+  ],
+  "guardianId": "music/2016/may/19/modern-baseball-holy-ghost-review"
+}

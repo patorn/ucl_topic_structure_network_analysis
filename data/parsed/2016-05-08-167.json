@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/08/james-blake-colour-in-anything-review-bleakly-mesmerising",
+  "id": "2016-05-08-167",
+  "sectionId": "music",
+  "body": "Related: James Blake: \u2018I'm the opposite of punk. I've subdued a generation\u2019    Stealth-released two weeks after his pivotal guest spot on Beyonc\u00e9\u2019s Lemonade, The Colour in Anything finds James Blake consolidating an international reputation as digital music\u2019s premier little boy lost. More soulful, perhaps, than its predecessors, but overlong at 17 tracks, it expands Blake\u2019s bleak vision. Standout love songs like FOREVER dial it back to just voice and piano, while the mesmerising Meet You in the Maze, a digitally processed, revelatory a cappella (\u201cMusic can\u2019t be everything\u201d) takes the opposite approach. The influences of Frank Ocean and Rick Rubin and the presence of Bon Iver are all ghostly, while the occasional hardening of beats (Choose Me, I Hope My Life) brings Blake in from the fog.",
+  "webTitle": "James Blake: The Colour in Anything review \u2013 bleakly mesmerising",
+  "webPublicationDate": "2016-05-08T07:00:01Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/08/james-blake-colour-in-anything-review-bleakly-mesmerising",
+  "keyword": [
+    {
+      "webTitle": "James Blake",
+      "id": "music/james-blake",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Pop and rock",
+      "id": "music/popandrock",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Electronic music",
+      "id": "music/electronicmusic",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Kitty Empire",
+      "id": "profile/kittyempire"
+    }
+  ],
+  "guardianId": "music/2016/may/08/james-blake-colour-in-anything-review-bleakly-mesmerising"
+}

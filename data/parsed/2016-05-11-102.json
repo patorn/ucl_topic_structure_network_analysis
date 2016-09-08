@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/11/george-osborne-says-treasury-is-planning-for-brexit",
+  "id": "2016-05-11-102",
+  "sectionId": "politics",
+  "body": "George Osborne has conceded for the first time that the Treasury and the Bank of England are carrying out detailed contingency planning to prevent a vote to leave the European Union unleashing a financial crisis. Appearing before the Treasury select committee of backbench MPs, the chancellor said there would be \u201cvery significant financial volatility\u201d if voters chose to leave the EU in the 23 June referendum, which would push up interest rates and tighten credit conditions \u2013 making it harder for borrowers to get loans.   Related: Brexit would lead to shortage of construction staff, says Barratt boss    \u201cThe Bank of England and the Treasury are doing a serious amount of contingency planning for the impact on financial stability of a vote to leave,\u201d the chancellor said.  Downing Street had previously insisted civil servants were not involved in drawing up policies the government would adopt in the event of Brexit. But Osborne said the Treasury was working with Threadneedle Street to \u201cmitigate\u201d the potential risks \u2013 though he stressed they could not be eliminated. The prime minister\u2019s spokesman later said the Treasury was simply looking at the risks to financial stability \u2013 a responsibility it shares with the Bank of England \u2013 not laying out policy plans. The Bank\u2019s governor, Mark Carney, has said he believes Brexit poses the biggest risk to Britain\u2019s financial stability in the short term. The Bank had already announced that it is prepared to make massive amounts of liquidity available to the financial sector before and after the vote in order to avoid financial markets freezing up. The chancellor robustly defended the Treasury\u2019s claim, in its recent report about the consequences of Brexit, that the costs in terms of lost economic output would be \u00a34,300 per household. Andrew Tyrie, the committee\u2019s chair, said the estimates had an \u201carbitrary air of precision\u201d, and the Eurosceptic Conservative backbencher Jacob Rees-Mogg asked whether, rather than allow the independent Office for Budget Responsibility to make the forecasts, Osborne had \u201ctaken back control so that you can fiddle the figures\u201d. But the chancellor insisted the \u00a34,300 figure was the central estimate in a possible range, based on conservative assumptions. \u201cI think it\u2019s the job of the finance minister of the country to communicate the consequences of the decision the people may take,\u201d he insisted. Osborne said there were claims and counter-claims on both sides of the debate about Britain\u2019s future in the EU, but the weight of evidence was on the remain side.   Related: Gordon Brown enters EU debate with passionate appeal to Labour voters    \u201cIn the interests of balance, sometimes equal airtime is given to each side,\u201d he said, but the majority of experts, including the International Monetary Fund and the Bank of England, believed leaving would \u201cmake the country poorer, and it would make the individuals in the country poorer\u201d. He said: \u201cIt is important in this debate to look at the weight of the evidence.\u201d His response underlined the remain campaign\u2019s approach, closely coordinated by Downing Street, which has been to marshal a chorus of senior voices to warn about the risks of leaving, raising fears about matters ranging from Britain\u2019s ability to tackle terrorism to the cost of food. Tyrie asked Osborne whether the remain campaign had tarnished its own argument with this approach, with Cameron even suggesting peace in Europe could be undermined if Britain left. But Osborne said: \u201cI would say what we have done on the side of remain is to set out credible propositions for the very serious consequences for our country, were we to leave.\u201d He added that the hit to growth the Treasury expected in the event of a vote to leave the EU would have a knock-on effect on the public finances, as weaker output hit profits, wages and tax revenues. Osborne said the Treasury would offer more evidence about the short-term economic impact of Brexit \u2013 including on house prices and wages \u2013 in a second report in the coming days.",
+  "webTitle": "George Osborne says Treasury is planning for Brexit",
+  "webPublicationDate": "2016-05-11T17:13:16Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/11/george-osborne-says-treasury-is-planning-for-brexit",
+  "keyword": [
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "George Osborne",
+      "id": "politics/georgeosborne",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Economic policy",
+      "id": "politics/economy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Heather Stewart",
+      "id": "profile/heatherstewart"
+    }
+  ],
+  "guardianId": "politics/2016/may/11/george-osborne-says-treasury-is-planning-for-brexit"
+}

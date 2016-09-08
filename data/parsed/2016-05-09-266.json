@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/marketforceslive/2016/may/09/imagination-technologies-jumps-13-as-chinese-firm-takes-3-stake",
+  "id": "2016-05-09-266",
+  "sectionId": "business",
+  "body": "IPhone supplier Imagination Technologies has jumped nearly 13% following news that a Chinese state-backed business has taken a 3% stake in the chip designer. The news of the move by Tsinghua Unigroup has prompted speculation the company - which also counts Apple as a shareholder - could be a possible takeover target. Earlier this year Apple said it had held talks but did not plan to make an offer \u201cat this time.\u201d Analyst Roger Phillips at Investec said:  The announcement of Tsinghua Unigroup as 3% holders will likely reignite M&A speculation around Imagination once again. We update our numbers to account for new management cost cutting and Apple\u2019s quarterly numbers last week. The latter were not pretty for iPhone units for the June quarter, and there are a few tricky quarters in store here, but Mediatek share regain, Spreadtrum progress and management action on cost should offset. We remain buyers with an upgraded 200p price target.  He added:  Tsinghua Unigroup\u2019s acquisition of a 3% stake is interesting considering this is the Chinese state-backed technology holding company that acquired RDA Microelectronics and Spreadtrum... The idea that the Chinese state\u2019s acquisition of intellectual property is a strategic priority, and that Imagination could be a target, has been floated before, but considered slightly left-field. As a result, the announcement brings this idea to the forefront, with Tsinghua having stated in press reports that it expects to invest around $47bn in the next five years, and reignites M&A speculation over Imagination more generally.  Analysts at Liberum said:  Tsinghua Holdings has taken a 3% stake in Imagination. Tsinghua is a near $30bn Chinese state-owned fund that has been buying western technology companies. Tsinghua has already acquired Spreadtrum, RDA, HP\u2019s server business and tried to buy Micron, Spil and Western Digital. We presume Apple (owns 8%) would not let Imagination\u2019s technology go to China. This may ignite a sale process. The last four intellectual property acquisitions (Tensilica, MIPS, Arc, Artisan) have been at 7.7 times enterprise value/sales on average. Imagination trades on 3.3 times enterprise value/sales.  So Imagination\u2019s shares have climbed 19.5p to 170.5p . Apple holds an 8.3% stake in Imagination, although US semiconductor group Intel sold its remaining shares early last year.",
+  "webTitle": "Imagination Technologies jumps 13% as Chinese firm takes 3% stake",
+  "webPublicationDate": "2016-05-09T09:04:01Z",
+  "webUrl": "https://www.theguardian.com/business/marketforceslive/2016/may/09/imagination-technologies-jumps-13-as-chinese-firm-takes-3-stake",
+  "keyword": [
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Stock markets",
+      "id": "business/stock-markets",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Imagination Technologies",
+      "id": "business/imagination-technologies",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Apple",
+      "id": "technology/apple",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Nick Fletcher",
+      "id": "profile/nickfletcher"
+    }
+  ],
+  "guardianId": "business/marketforceslive/2016/may/09/imagination-technologies-jumps-13-as-chinese-firm-takes-3-stake"
+}

@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/05/consumer-lawsuits-banks-credit-card-companies-proposal",
+  "id": "2016-05-05-116",
+  "sectionId": "business",
+  "body": "Americans may soon be able to bring class action lawsuits against banks and other financial firms thanks to a new rule proposed by the Consumer Financial Protection Bureau. The new proposals will allow Americans to band together and sue over a range of products such as credit cards, checking and savings accounts, money transfer services, and auto and student loans. Financial firms have over the years perfected the use of fine print to prohibit consumers from bringing such lawsuits and instead force them into arbitrations, which can be costly for an individual consumer. The rule introduced by CFPB on Thursday would prohibit such mandatory arbitration clauses to be used on financial products. \u201cSigning up for a credit card or opening a bank account can often mean signing away your right to take the company to court if things go wrong,\u201d said Richard Cordray, CFPB director, said in a statement. \u201cMany banks and financial companies avoid accountability by putting arbitration clauses in their contracts that block groups of their customers from suing them. Our proposal seeks comment on whether to ban this contract \u2018gotcha\u2019 that effectively denies groups of consumers the right to seek justice and relief for wrongdoing.\u201d The proposed rule does not require congressional approval, but will be open to public for a 90-day comment period. Once finalized, the rule is expected to go into effect next year. It will not apply retroactively to existing accounts or products signed up for by consumers prior to its implementation.  Financial institutions came out against the new rule.  \u201cThe proposed rule is a wolf in sheep\u2019s clothing,\u201d the US Chamber of Commerce said in a statement. \u201cNow the agency designed to protect consumers is proposing a rule that will end up hurting them.\u201d Critics of the proposed rule argue that instead of benefiting consumers, it would result in profits for class action lawyers and stretch out resolution of consumer disputes. In a letter to the CFPB, the Chamber of Commerce described arbitration as \u201ccheaper, faster and more effective at delivering relief to consumers\u201d. Class action lawsuits will benefit consumers who would not usually pursue legal action to resolve a small-dollar dispute, CFPB noted in its statement.  \u201cThe proposed rules would allow groups of consumers to obtain relief when companies skirt the law. Most consumers do not even realize when their rights have been violated,\u201d it read. \u201cOften the harm may be too small to make it practical for a single consumer to pursue an individual dispute, even when the cumulative harm to all affected consumers is significant.\u201d In a 2015 survey, CFPB found that just 2% of consumers would consult a lawyer or pursue legal action to resolve small disputes. A New York Times investigation revealed that from 2010-2014, only 505 consumers chose to enter arbitration over disputes of $2,500 or less.",
+  "webTitle": "New rule would allow US consumers to sue banks and credit card companies",
+  "webPublicationDate": "2016-05-05T16:13:19Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/05/consumer-lawsuits-banks-credit-card-companies-proposal",
+  "keyword": [
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Consumer rights",
+      "id": "money/consumer-rights-money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Banking",
+      "id": "business/banking",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Law",
+      "id": "law/law",
+      "sectionId": "law",
+      "sectionName": "Law"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jana Kasperkevic",
+      "id": "profile/jana-kasperkevic"
+    }
+  ],
+  "guardianId": "business/2016/may/05/consumer-lawsuits-banks-credit-card-companies-proposal"
+}

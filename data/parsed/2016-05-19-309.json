@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/small-business-network/2016/may/19/late-payment-cashflow-worries-investly-technology",
+  "id": "2016-05-19-309",
+  "sectionId": "small-business-network",
+  "body": "Ask any business what their biggest concern is and cashflow tops the list. Government figures show nearly half (44%) of SMEs report cashflow problems. At the same time, research by accountancy software business Sage found 60% of companies are having to wait 60 days for invoices to be paid and nearly half (47%) say some invoices take 90 days to be honoured. This was the feedback Investly\u2019s co-founders, Ruth Chamberlain and Siim Maivel, kept hearing as they spent 2015 offering a peer-to-peer business loans service in Maivel\u2019s native Estonia. The issue prompted the pair to stop in their tracks and rethink their business before Investly was launched in the UK in February. Instead of using the bidding system they had developed for peer-to-peer loans, the technology was instead launched as a means of allowing investors to bid on an SME\u2019s invoices. This practice of invoice \u201cdiscounting\u201d is already established as a means for companies to turn invoices into near instant cash to alleviate short-term cashflow problems. For example small firms might need cash earlier than the agreed payment date. A business bank or investor will agree to give the small business a large proportion of the invoice, with some of the amount paid up front. The advantage for the company is it gets its money early and does not have to wait months for the account to be settled. When the invoice becomes due, the investor is paid the full amount. The difference between what the investor paid the company for the invoice and its total amount is the return on their investment. Chamberlain and Maivel thought the process was very complicated and could be simplified to work in the favour of SMEs offering their invoices for discounting. \u201cOne client of our loans business in Estonia commented that you need to be an accountant backed up with a team of lawyers to understand most invoice discounting services,\u201d she says. \u201cWe felt we were better off using our technology as an auction mechanism to match companies and their invoices with investors. We stand out for using technology to simplify the process and for making a stand against some practices we feel do not work in favour of the companies that are having their invoices discounted.\u201d The big issue with most invoice factoring, says Chamberlain, is that services vary and there is often an element that is not to the SME\u2019s advantage. Investly claims it is the only service to give companies all their money when the invoice is sold to an investor, whereas some services will split the payment into two, a process known as holding back a \u2018reserve\u2019. SMEs can still be left waiting for a portion of the cash until the client pays the original invoice. Investly claims opaque fees can also be an issue and agrees its charging structure with SMEs up front. Typically the charge for successfully using the service is 1% to 2.5% of the invoice total. This varies according to the value of the invoice and the creditworthiness of both the company and the organisation the invoice has been raised against, as well as the amount they raise through the system. Once an invoice is accepted on to the system, it is placed in a reverse auction where the company sets a proportion of the full amount it is happy to receive. This acts as a starting point and then investors bid against each other for the invoice, like an eBay auction. This pushes the purchase price closer to 100% of the invoice total with each additional bid and underlines, Chamberlain argues, how the service favours the companies that use it. \u201cThere are a few services which use auction models but ours is the only one which doesn\u2019t set a reserve so a company gets everything up front, rather than having to wait around,\u201d she says. \u201cSome services will only work with you if you put all your invoices through their service. That ties companies in when they may prefer to only put invoices out for discounting when it suits them.  \u201cHolding back a reserve is another thing we\u2019ve found SMEs don\u2019t react well to. They want all the money they\u2019re getting up front, they don\u2019t want to wait for the invoice to be paid to get the last slice of cash because it defeats the object of discounting in the first place. Hidden and opaque costs, such as charges for running credit checks, also put a lot of companies off.\u201d The obvious impact of allowing companies to use the service to discount one invoice at a time is that Investly does not automatically sign up a long line of repeat business with every new customer. The one-invoice-at-a-time approach means the service will need to win over many new businesses and hope to attract them back regularly. Isabel Fox, Head of Venture Capital at White Cloud Capital, says the prospects for the fairer, more transparent approach to invoice factoring could do very well so long as the co-founders can market the brand to drive a high volume of users.  \u201cInvestly has a lot of promise because they\u2019re in a hot space that\u2019s ripe for disruption because the banks don\u2019t offer anything similar at sensible fees,\u201d she says. \u201cThe customer friendly approach and clear terms will appeal to SMEs going through cash flow pain. The lower fees, though, will mean Investly will need significant volume and so strong marketing will be essential. If they get it right, though, they could end up as a market leader.\u201d Chamberlain accepts that attracting a high volume of customers is a challenge but claims the company expects to be at a point of breaking even by the end of the year, despite a modest start. \u201cWe opened in February and in our first two months we\u2019ve had two invoices discounted on the service,\u201d she says. \u201cWe obviously need to speed that up considerably but we\u2019re confident that the pipeline of deals we can see coming through will get us going in the right direction.\u201d Sign up to become a member of the Guardian Small Business Network here for more advice, insight and best practice direct to your inbox.",
+  "webTitle": "Late payment problem? Take it to auction",
+  "webPublicationDate": "2016-05-19T06:30:01Z",
+  "webUrl": "https://www.theguardian.com/small-business-network/2016/may/19/late-payment-cashflow-worries-investly-technology",
+  "keyword": [
+    {
+      "webTitle": "Guardian Small Business Network",
+      "id": "small-business-network/small-business-network",
+      "sectionId": "small-business-network",
+      "sectionName": "Guardian Small Business Network"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Small business",
+      "id": "business/small-business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Sean Hargrave",
+      "id": "profile/seanhargrave"
+    }
+  ],
+  "guardianId": "small-business-network/2016/may/19/late-payment-cashflow-worries-investly-technology"
+}

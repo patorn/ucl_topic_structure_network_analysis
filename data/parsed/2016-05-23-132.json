@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/23/world-could-warm-by-massive-10c-if-all-fossil-fuels-are-burned",
+  "id": "2016-05-23-132",
+  "sectionId": "environment",
+  "body": "The planet would warm by searing 10C if all fossil fuels are burned, according to a new study, leaving some regions uninhabitable and wreaking profound damage on human health, food supplies and the global economy.  The Arctic, already warming fast today, would heat up even more \u2013 20C by 2300 \u2013 the new research into the extreme scenario found. \u201cI think it is really important to know what would happen if we don\u2019t take any action to mitigate climate change,\u201d said Katarzyna Tokarska, at the University of Victoria in Canada and who led the new research. \u201cEven though we have the Paris climate change agreement, so far there hasn\u2019t been any action. [This research] is a warning message.\u201d The carbon already emitted by burning fossil fuels has driven significant global warming, with 2016 near certain to succeed 2015 as the hottest year ever recorded, which itself beat a record year in 2014. Other recent studies have shown that extreme heatwaves could push the climate beyond human endurance in parts of the world such as the Gulf, making them uninhabitable.  In Paris in December, the world\u2019s nations agreed a climate change deal intended to limit the temperature rise from global warming to under 2C, equivalent to the emission of a trillion tonnes of carbon. If recent trends in global emissions continue, about 2tn tonnes will be emitted by the end of the century.  The new work, published in Nature Climate Change, considers the impact of emitting 5tn tonnes of carbon emissions. This is the lower-end estimate of burning all fossil fuels currently known about, though not including future finds or those made available by new extraction technologies. The researchers used a series of sophisticated climate models and found this rise in CO2 would lead to surface temperatures rising by an average of 8C across the world by 2300. When the effect of other greenhouse gases is added, the rise climbs to 10C.  The heating predicted by the models was not uniform across the globe. In the Arctic, the higher CO2 levels led to 17C of warming, with another 3C from other greenhouse gases, across the year. These rises are higher than indicated by previous, less comprehensive models, which are less accurate at modelling how the oceans takes up heat. In February, parts of the Arctic had already recorded temperatures 16C above normal. The warming caused by burning all fossil fuels would also have enormous impact on rainfall. The new research shows rainfall falling by two-thirds over parts of central America and north Africa and by half over parts of Australia, the Mediterranean, southern Africa and the Amazon. Thomas Fr\u00f6licher, at ETH Z\u00fcrich in Switzerland and not involved in the new work, said: \u201cGiven that current trends in fossil fuel emissions would result in temperatures above [the 2C Paris] target, policymakers need to have a clear view of what is at stake both on decadal and centennial timescales if no meaningful climate policies are put in place. The unregulated exploitation of fossil fuel resources could result in significant, more profound climate change.\u201d",
+  "webTitle": "World could warm by massive 10C if all fossil fuels are burned",
+  "webPublicationDate": "2016-05-23T15:00:16Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/23/world-could-warm-by-massive-10c-if-all-fossil-fuels-are-burned",
+  "keyword": [
+    {
+      "webTitle": "Climate change",
+      "id": "environment/climate-change",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Greenhouse gas emissions",
+      "id": "environment/carbon-emissions",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Fossil fuels",
+      "id": "environment/fossil-fuels",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Energy",
+      "id": "environment/energy",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Arctic",
+      "id": "world/arctic",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Damian Carrington",
+      "id": "profile/damiancarrington"
+    }
+  ],
+  "guardianId": "environment/2016/may/23/world-could-warm-by-massive-10c-if-all-fossil-fuels-are-burned"
+}

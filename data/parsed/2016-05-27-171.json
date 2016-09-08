@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/27/five-best-gigs-this-week",
+  "id": "2016-05-27-171",
+  "sectionId": "music",
+  "body": "1 Kasabian If you go to just one Kasabian gig in your lifetime, you should probably make it this one. On the back of Leicester City\u2019s unlikely crowning as Premier League champions, the lairy Foxes fans will be unleashing even-more-lairy dance-rock at the team\u2019s stadium. The odds of them not doing something special for it are about as high as\u2026 well, the odds of Leicester winning the league. King Power Stadium, Leicester, Sat & Sun  2 Shura   Bedroom pop artist Shura earned a reputation for giving her 80s pop obsession a blissed-out, narcotic makeover. This year\u2019s The Space Tapes felt like a step into the unknown, however: nine minutes of looped samples, a lagging, lolloping beat and the odd ambient passage. How she plans on delivering such sprawling, chopped and screwed opuses live remains to be seen. KOKO, NW1, Wed 3 Floating Points Cosmic jazz, classical flourishes and a PhD in neuroscience don\u2019t sound like the vital ingredients for a dance artist, but Sam Shepherd is smart enough to pull it off. Last year\u2019s debut Elaenia placed him alongside the likes of Caribou and Matthew Herbert as a brainiac redefining our relationship with the dancefloor, so expect your hands to spend more time in the air than stroking your chin. Liverpool Sound City, Sat; Brighton Dome, Sun 4 Teleman   They may be indier than a Beat Happening gig at a vegan knitting convention (recording available on limited edition cassette), but Teleman\u2019s feyness disguises some hefty pop nous. Hidden Door festival, Edinburgh, Sun 5 Robert Forster   Oft billed as the less accessible songwriting partner in Brisbane band the Go-Betweens, Forster has nevertheless retained that outfit\u2019s cult following. These dates off the back of last year\u2019s Songs To Play album should delight the faithful. King Tut\u2019s, Glasgow, Sun; Islington Assembly Hall, N1, Wed",
+  "webTitle": "Five of the best\u2026 gigs this week",
+  "webPublicationDate": "2016-05-27T12:00:03Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/27/five-best-gigs-this-week",
+  "keyword": [
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Kasabian",
+      "id": "music/kasabian",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Leicester City",
+      "id": "football/leicestercity",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Tim Jonze",
+      "id": "profile/timjonze"
+    }
+  ],
+  "guardianId": "music/2016/may/27/five-best-gigs-this-week"
+}

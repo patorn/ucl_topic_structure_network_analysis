@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/06/five-best-classical-concerts",
+  "id": "2016-05-06-188",
+  "sectionId": "music",
+  "body": "1: Tectonics The music festival curated by conductor Ilan Volkov now takes place each year in Reykjav\u00edk, Adelaide and Glasgow. As usual, Volkov is very much present in the latest incarnation of the latter; he\u2019s conducting the BBC Scottish Symphony in two concerts, which will feature new works by Laurence Crane, Howard Skempton, Richard Emsley and Alwynne Pritchard.  Various venues, Glasgow, Sat & Sun 2: The Magic Flute Concert stagings of Mozart\u2019s operas directed and conducted by Iv\u00e1n Fischer have become a bit of a speciality of the Budapest Festival Orchestra. The latest comes to London this week, with a terrific cast led by Bernard Richter and Hanna-Elisabeth M\u00fcller as Tamino and Pamina. Royal Festival Hall, SE1, Tue 3: The Dark Mirror Composer Hans Zender\u2019s re-imagining of Schubert\u2019s song cycle Winterreise with chamber-orchestra accompaniment has already established its own niche in the repertory. Now it gets a multimedia staging, in a collaboration between tenor Ian Bostridge and director, designer and video artist Netia Jones, with accompaniment from the Britten Sinfonia conducted by Baldur Br\u00f6nnimann. Barbican Theatre, EC2, Thu to 14 May 4: In Parenthesis Welsh National Opera is celebrating its 70th birthday with the premiere of an opera specially commissioned from Iain Bell. This year also marks the centenary of the battle of the Somme, and Bell\u2019s work is based on David Jones\u2019s poem, about an English-Welsh regiment facing the horrors of the trenches. Millennium Centre, Cardiff, Fri to 3 Jun 5: Messiah The Dunedin Consort\u2019s performances of Handel\u2019s best-loved oratorio have become a regular Christmas treat for audiences in Scotland. Now John Butt and his choir and orchestra come south to show the capital what it has been missing. St John\u2019s Smith Square, SW1, Fri",
+  "webTitle": "Five of the best\u2026 classical concerts",
+  "webPublicationDate": "2016-05-06T12:00:26Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/06/five-best-classical-concerts",
+  "keyword": [
+    {
+      "webTitle": "Classical music",
+      "id": "music/classicalmusicandopera",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Andrew Clements",
+      "id": "profile/andrewclements"
+    }
+  ],
+  "guardianId": "music/2016/may/06/five-best-classical-concerts"
+}

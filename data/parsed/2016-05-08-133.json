@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/society/2016/may/07/british-medical-association-contract-jeremy-hunt-junior-doctors",
+  "id": "2016-05-08-133",
+  "sectionId": "society",
+  "body": "The British Medical Association has agreed to restart talks with the government over the contract for junior doctors which led last week to the first strike in NHS history to include emergency care. The announcement by the BMA on Saturday evening followed a meeting of its junior doctors committee which had been convened after the Department of Health agreed to listen to the concerns of the medics. Dr Johann Malawana, the chairman of the BMA\u2019s junior doctors committee, said he hoped \u201creal progress can now be made to ending this dispute\u201d. The BMA will call for any contract offer, whether it is agreed or not, to be voted on by junior doctors.  The health secretary, Jeremy Hunt, said on Thursday that he wanted written agreement from the junior doctors committee that discussions over the contentious issue of unsocial hours and Saturday pay would be held in good faith.  He added: \u201cI hope the BMA will take up the offer to talk constructively and we\u2019re seeking assurances by close of the day on Saturday that the BMA will negotiate constructively on the outstanding issues.\u201d The BMA had agreed to temporarily suspend further planned industrial action in an attempt to reach a compromise with ministers. It follows a series of strikes by junior doctors which saw thousands of operations cancelled after negotiations collapsed. Malawana said: \u201cThe BMA has agreed to re-enter talks with the government on outstanding issues in this dispute, which include, but are not limited to, unsocial hours.  \u201cJunior doctors\u2019 concerns extend far beyond pay, and our principle in talks will be to deliver a fair contract that does not discriminate against women or any other group, one which addresses the recruitment and retention crisis in the NHS and which provides the basis for delivering a world-class health service.  \u201cThe BMA will also call for any contract offer \u2013 agreed or not \u2013 to be put to a referendum of junior doctors, as is usual following a contract negotiation. We hope that with both parties back around the negotiating table, real progress can now be made to ending this dispute through talks.\u201d The new offer of talks follows a proposal put forward by the Academy of Medical Royal Colleges calling for a five-day pause in the imposition of the new contract in England.  In a letter to the academy\u2019s chairwoman, Prof Dame Sue Bailey, Hunt said the discussions should focus on outstanding concerns, not the 90% of issues already agreed.  Junior doctors stopped providing emergency care for the first time in NHS history during action on April 26 and 27. More than 125,000 appointments and operations were cancelled, on top of almost 25,000 procedures cancelled during previous action. The dispute began when the government took steps to introduce its manifesto commitment of a seven-day NHS. Hunt wants to change what constitutes unsocial hours for which junior doctors can claim extra pay, turning 7am to 5pm on Saturday into a normal working day. Currently, 7pm to 7am Monday to Friday and the whole of Saturday and Sunday attract a premium rate of pay for junior doctors.  Despite the government offsetting this change with a rise in basic pay of 13.5%, it has proved to be a sticking point with the BMA. The imposed contract, due to come into force in August, will still allow premium rates for Saturday evenings and all of Sunday.",
+  "webTitle": "British Medical Association  to reopen contract talks with Jeremy Hunt",
+  "webPublicationDate": "2016-05-08T09:04:30Z",
+  "webUrl": "https://www.theguardian.com/society/2016/may/07/british-medical-association-contract-jeremy-hunt-junior-doctors",
+  "keyword": [
+    {
+      "webTitle": "Doctors",
+      "id": "society/doctors",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Health policy",
+      "id": "politics/health",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "NHS",
+      "id": "society/nhs",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Jeremy Hunt",
+      "id": "politics/jeremy-hunt",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Public services policy",
+      "id": "society/policy",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Lin Jenkins",
+      "id": "profile/lin-jenkins"
+    }
+  ],
+  "guardianId": "society/2016/may/07/british-medical-association-contract-jeremy-hunt-junior-doctors"
+}

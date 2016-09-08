@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/australia-news/2016/may/03/asylum-seeker-boat-arrives-in-cocos-islands",
+  "id": "2016-05-03-319",
+  "sectionId": "australia-news",
+  "body": "A wooden boat, which observers said was clearly an asylum seeker vessel, made it to the Cocos Islands under its own steam and without interception on Monday. The boat, reported by the ABC\u2019s Hack program to be carrying asylum seekers from Sri Lanka, motored into the lagoon between the two largest islands in the archipelago on Monday morning.   Related: Witnesses in Christmas Island class action exempt from Border Force Act secrecy provisions | Richard Ackland    Guardian Australia has independently verified its arrival with two sources. Guardian Australia understands the boat arrived in the lagoon without interception by Australian officials. The 27 islands in the Cocos Keeling group, west of Christmas Island, are Australian territory. They have a population of just a few hundred people. One resident told Guardian Australia the boat was first seen by a passenger crossing between two populated islands. It then alerted the authorities, he said. \u201cThe [Australian Federal Police] were first on the scene and Customs missed it completely. It had got so far in it was close to the shallow waters. If the AFP hadn\u2019t intercepted it, it might have run aground.\u201d He said the AFP returned to port once Customs took over. He believed the passengers were transferred to the Ocean Protector vessel and moved to an uninhabited outer island, then back on the Ocean Protector on Tuesday. No passengers came ashore. The Customs boat sailed out on Tuesday morning without the wooden vessel in tow, leading residents to believe it had been destroyed overnight, he said. Awie Rasa, who was travelling on a ferry when the boat arrived, told the ABC he saw police and customs officials heading out to reach it. \u201cThe customs on the jetty are running up and down and getting their tenders into the water,\u201d Rasa said. \u201cI heard it didn\u2019t reach Home Island, just anchorage around about 500m away from Home Island. That\u2019s pretty close.\u201d Rasa, a boat skipper, told the ABC he had previously worked to escort asylum seeker vessels and he recognised this arrival as a Sri Lankan-style boat.  The Australian federal police referred questions to the immigration department, which in turn referred them to the minister, Peter Dutton. Dutton\u2019s office has not yet responded.",
+  "webTitle": "'Asylum seeker boat' arrives in the Australian territory of the Cocos Islands",
+  "webPublicationDate": "2016-05-03T06:30:08Z",
+  "webUrl": "https://www.theguardian.com/australia-news/2016/may/03/asylum-seeker-boat-arrives-in-cocos-islands",
+  "keyword": [
+    {
+      "webTitle": "Australian immigration and asylum",
+      "id": "australia-news/australian-immigration-and-asylum",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Refugees",
+      "id": "world/refugees",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Christmas Island",
+      "id": "australia-news/christmas-island",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Sri Lanka",
+      "id": "world/srilanka",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Peter Dutton",
+      "id": "australia-news/peter-dutton",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Asia Pacific",
+      "id": "world/asia-pacific",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Helen Davidson",
+      "id": "profile/helen-davidson"
+    }
+  ],
+  "guardianId": "australia-news/2016/may/03/asylum-seeker-boat-arrives-in-cocos-islands"
+}

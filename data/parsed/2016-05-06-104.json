@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/mediamonkeyblog/2016/may/06/local-tv-boaty-mcboatface-wave",
+  "id": "2016-05-06-104",
+  "sectionId": "media",
+  "body": "As far as PR piggy-backing goes, the Boaty McBoatface meme is solid gold. In a shameless move Made Television \u2013 one of the local TV outfits set up following ex-culture secretary Jeremy Hunt\u2019s grand plan to launch city television services \u2013 is to rebrand as Telly McTellyface. It will also rename its \u201cMade in...\u201d channels in Bristol, Cardiff, Leeds and Tyne & Wear \u2013 themselves apparently influenced by the success of Made in Chelsea \u2013 with the same moniker. \u201cWe hereby rename the good ship Made Television to \u2018Telly McTellyface\u2019 as a salute to the great British sense of humour and all who sail her,\u201d says a shameless Jamie Conway, chief executive and founder of Made Television. Ahoy me hearties.",
+  "webTitle": "Local TV group rides the Boaty McBoatface wave",
+  "webPublicationDate": "2016-05-06T15:23:04Z",
+  "webUrl": "https://www.theguardian.com/media/mediamonkeyblog/2016/may/06/local-tv-boaty-mcboatface-wave",
+  "keyword": [
+    {
+      "webTitle": "Local TV",
+      "id": "media/local-tv",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Television industry",
+      "id": "media/television",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Monkey",
+      "id": "profile/monkey"
+    }
+  ],
+  "guardianId": "media/mediamonkeyblog/2016/may/06/local-tv-boaty-mcboatface-wave"
+}

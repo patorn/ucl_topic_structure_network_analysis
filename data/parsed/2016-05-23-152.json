@@ -1,0 +1,96 @@
+{
+  "apiUrl": "https://content.guardianapis.com/education/2016/may/23/courtauld-institute-ships-manet-naked-painting-to-hull",
+  "id": "2016-05-23-152",
+  "sectionId": "artanddesign",
+  "body": "Related: City of Culture 2017: Will Hull have the last laugh?    A version of \u00c9douard Manet\u2019s once scandalous painting Le D\u00e9jeuner sur l\u2019Herbe is heading to Hull next year, where it will hang in the Ferens gallery during the city\u2019s reign as UK city of culture. The image of a relaxed and confidently naked woman sitting among suited and booted men was so shocking in 19th-century France that it was rejected by the Paris Salon and shown instead in the famous Salon des Refus\u00e9s in 1863.  The Manet is one of several masterpieces the Courtauld Institute of Art is to loan to regional museums across the UK. It is part of a project that will also involve the redevelopment of the gallery and art institute\u2019s own building in central London.  The Heritage Lottery Fund today announced a \u00a39.4m grant towards the first phase of the scheme. The Courtauld\u2019s donors have pledged an additional \u00a39m.  The phased project will include restoration work on the museum\u2019s existing galleries, new display spaces for 20th-century art and temporary exhibitions, and a new education centre. There will also be improved spaces for storage and the Courtauld\u2019s conservation department. An online archive will make 1.1m images from the photographic collection publicly available. The Courtauld is to announce new partnerships with cities including Norwich, Preston, and Belfast in regions that are connected with the textile industry on which the Courtauld Ltd fortune was based, which in turn funded the art institute.     Well travelled \u2026 Two Dancers on the Stage by Edgar Degas is on loan to the Herbert Art Gallery, in Coventry. Photograph: Samuel Courtauld Trust    A pilot project has been launched with the Herbert Art Gallery and Museum in Coventry, which has borrowed an important group of works by Edgar Degas, while Claude Monet\u2019s Vase of Flowers will travel to the Harris Museum in Preston. The Courtauld Institute of Art was founded in London in 1932 to teach art history using its own splendid collection, which was originally housed in the Portman Square townhouse of its patron, the textile millionaire Samuel Courtauld.  In 1989, it moved to its current stately but awkward premises in Somerset House on the Strand, where the teaching rooms, research spaces and galleries fit into a few grand halls and a warren of smaller rooms and converted corridors across several levels. In the 18th century its Great Exhibition Room was the home of the annual exhibition of the Royal Academy, before it moved to Burlington House on Piccadilly. Even then space was a problem: contemporary illustrations show the paintings covering every inch of the walls, from skirting board to ceiling.",
+  "webTitle": "Courtauld to ship Manet's naked lunch painting to Hull",
+  "webPublicationDate": "2016-05-23T14:09:50Z",
+  "webUrl": "https://www.theguardian.com/education/2016/may/23/courtauld-institute-ships-manet-naked-painting-to-hull",
+  "keyword": [
+    {
+      "webTitle": "Art and design",
+      "id": "artanddesign/artanddesign",
+      "sectionId": "artanddesign",
+      "sectionName": "Art and design"
+    },
+    {
+      "webTitle": "\u00c9douard Manet",
+      "id": "artanddesign/manet",
+      "sectionId": "artanddesign",
+      "sectionName": "Art and design"
+    },
+    {
+      "webTitle": "The Courtauld Institute of Art",
+      "id": "education/courtauldinstitute",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Painting",
+      "id": "artanddesign/painting",
+      "sectionId": "artanddesign",
+      "sectionName": "Art and design"
+    },
+    {
+      "webTitle": "Art",
+      "id": "artanddesign/art",
+      "sectionId": "artanddesign",
+      "sectionName": "Art and design"
+    },
+    {
+      "webTitle": "Claude Monet",
+      "id": "artanddesign/monet",
+      "sectionId": "artanddesign",
+      "sectionName": "Art and design"
+    },
+    {
+      "webTitle": "Edgar Degas",
+      "id": "artanddesign/degas",
+      "sectionId": "artanddesign",
+      "sectionName": "Art and design"
+    },
+    {
+      "webTitle": "Hull",
+      "id": "uk-news/hull",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Museums",
+      "id": "culture/museums",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Arts funding",
+      "id": "culture/arts-funding",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "UK city of culture",
+      "id": "culture/uk-city-of-culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Maev Kennedy",
+      "id": "profile/maevkennedy"
+    }
+  ],
+  "guardianId": "education/2016/may/23/courtauld-institute-ships-manet-naked-painting-to-hull"
+}

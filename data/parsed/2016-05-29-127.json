@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/26/volvo-driverless-mining-trucks-descent-machines",
+  "id": "2016-05-29-127",
+  "sectionId": "technology",
+  "body": "In a disused military aircraft hangar buried deep in a granite hillside, Johan Tofeldt flicks a switch on the future of mining. \u201cLook, no hands!\u201d he beams, as the truck lurches backwards and executes a precise reverse. \u201cIt\u2019s a little heavy on the clutch, but then it\u2019s not designed for driver comfort.\u201d The cheerful Swede is sitting in a standard Volvo FMX heavy duty truck, a haulage industry workhorse. But where once there was a narrow bed behind the seat there is now a laptop and a tangle of wires. This is Volvo Group\u2019s driverless truck, designed to work in underground mines far beyond the limits of GPS navigation. Hitting a button on the dashboard turns the vehicle into a robot. A controller in a remote location sends a digital \u201cmission\u201d to the truck, which sets off into the gloom, threading itself through narrow gaps in the deserted tunnels. Six lidar (light radar) laser sensors positioned around the vehicle generate a cloud of data points, creating a 3D map of the surroundings and enabling the truck to navigate precisely and, in principle, to respond to unexpected obstacles or people.         Volvo\u2019s self-driving lorry in action.    Challenged to leave his seat and jump out in front of the truck, however, Tofeldt declines: \u201cSafety comes first, and we still don\u2019t trust it,\u201d he says. This is an experimental model, and Volvo doesn\u2019t want the wrong sort of headlines at the launch of its flagship automation project. Driverless trucks are beginning to make business sense. The mining industry in particular \u2013 free from other road users and unpredictable pedestrians \u2013 is pioneering the technology. In October, Rio Tinto rolled out two fleets of fully automated driverless trucks at iron ore mines in Western Australia, in what it claimed to be a world first. Rivals BHP Billiton and Fortescue are not far behind.  Volvo has gone into partnership with Swedish mining group Boliden to develop the technology, spurred on by potential productivity gains, improvements in safety and environmental benefits. \u201cWe do things to make our customers more profitable \u2013 the difference between us and the car industry is that we don\u2019t just add technology for the fun of it: there has to be a business case,\u201d says Torbj\u00f6rn Holmstr\u00f6m, Volvo Group\u2019s chief technology officer. \u201cIndustry is strongly driven by what makes commercial sense right now, which also includes buses, excavators and dumpers \u2013 there is lots of potential for automation.\u201d From a ruthless costs point of view, autonomous vehicle technology eliminates the salaries of drivers, who also need to take meal breaks, sleep, and take time off sick. \u201cIn a confined area where you have control and no pedestrians, driverless is relatively easy \u2013 it is ridiculous to have the overheads of staff,\u201d says Kevin Curran, leader of the ambient intelligence research group at the University of Ulster. \u201cAnd with GPS you can build sensors for peanuts.\u201d For these reasons Volvo has gone straight for the highest possible level of automation straightaway. \u201cWe believe high levels of autonomy will come to mines first, where we are not restricted by legislation in the same way as we would be if we were preparing to drive on public highways,\u201d says Anders Kellstr\u00f6m, a senior planning manager at the company. \u201cIt makes sense and is technically possible to do, so we are doing it.\u201d     The modified Volvo FMX truck is being prepared for driverless tests in a real mine this autumn. Photograph: Cicci jonson/Bilduppdraget      The technical systems differ very much from how people drive. Human drivers are still the best  Ola Benderius, professor     There are other advantages, truck companies claim. Cost savings can be measured on a societal level, because there will be a need for fewer vehicles, reducing CO2 and fuel consumption, while driverless technology also has safety benefits. Mines are full of hazards, so reducing the number of people in them cuts the risk of accidents, and the costs associated with them. Is it realistic to expect to see driverless juggernauts not just in mines, but also hurtling along Europe\u2019s roads? Last month, six of the largest European truck brands took part in an EU programme to trial the driving of \u201cplatoons\u201d of driverless trucks in close proximity to each other, thereby cutting fuel consumption by reducing air drag. Companies such as Otto, formed by former Google executives this month, are racing to develop autonomous vehicle technology for the long-haul trucking industry. But Volvo Group is cautious. \u201cCustomers realise the challenges are quite significant to putting driverless trucks on the roads,\u201d Kellstr\u00f6m says. The Swedish truck maker\u2019s former stablemate, Volvo Cars, meanwhile, is pressing ahead with ambitious plans to bring driverless passenger cars to the streets. Next year it will trial 100 autonomous cars in Gothenburg and a similar number in London, promising to \u201crevolutionise Britain\u2019s roads\u201d to make them faster, cleaner and safer.  However, the cars will only use specified stretches of major roads in a data-collecting exercise aimed at mapping possible scenarios \u2013 a far cry from mining, where unpleasant surprises can be minimised and the environment is far more structured. \u201cIt is hard to speculate how long we will have to wait to see driverless cars on the roads \u2013 a decade, perhaps?\u201d says Ola Benderius, an assistant professor working with adaptive systems at the Department of Applied Mechanics at Chalmers University of Technology in Gothenburg, who is developing automated driving systems that mimic human behaviour. \u201cThe technical systems developed by the automotive industry differ very much from how people drive. Human drivers are still the best.\u201d Back in the underground hangar, Tofeldt has no illusions about the obstacles ahead. Volvo\u2019s driverless trucks will be piloted in a real mine in northern Sweden in the autumn, which will bring a host of complications. \u201cThese tunnels are like a living room compared to a mine,\u201d he says.",
+  "webTitle": "Descent of the machines: Volvo's robot mining trucks get rolling",
+  "webPublicationDate": "2016-05-29T08:37:27Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/26/volvo-driverless-mining-trucks-descent-machines",
+  "keyword": [
+    {
+      "webTitle": "Self-driving cars",
+      "id": "technology/self-driving-cars",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Volvo",
+      "id": "business/volvo",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Automotive industry",
+      "id": "business/automotive-industry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Mining",
+      "id": "business/mining",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Motoring",
+      "id": "technology/motoring",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "David Crouch",
+      "id": "profile/david-crouch"
+    }
+  ],
+  "guardianId": "technology/2016/may/26/volvo-driverless-mining-trucks-descent-machines"
+}

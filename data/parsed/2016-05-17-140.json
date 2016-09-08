@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/17/mp-attacks-manchester-devo-health-deal",
+  "id": "2016-05-17-140",
+  "sectionId": "uk-news",
+  "body": "The move to devolve Greater Manchester\u2019s \u00a36m health and social care budget is a sham, one of the region\u2019s MPs has said, calling for an independent assessment of the impact of the policy. Debbie Abrahams, the Labour MP for Oldham East and Saddleworth and a fellow of the Faculty of Public Health, said the initiative was about \u201cdelegation not devolution\u201d and raised concerns about a lack of clarity surrounding the plans. In April, Greater Manchester become the first local authority in England to take responsibility for health and social care funding from the central government.  Known locally as \u201cdevo health\u201d, the deal was struck behind closed doors in February 2015 by the Greater Manchester combined authority and the chancellor, George Osborne, who sees Manchester at the heart of his northern powerhouse project. Simon Stevens, the chief executive of NHS England, said the deal had \u201cthe potential to be the greatest act of devolution there has ever been in the history of the NHS\u201d. But the idea has also been criticised as technocratic and undemocratic. At the time of the deal, the then shadow health secretary, Andy Burnham, the MP for Leigh, said the policy risked producing a \u201cSwiss-cheese NHS\u201d that would run counter to the principle of a universal and comprehensive service. Burnham is currently considering running to be Labour\u2019s candidate for mayor of Greater Manchester. In a report on the state of the NHS in her constituency, Abrahams said she supported the principle of devolution, but added: \u201c[Devo health] is about delegation not devolution. There are concerns that \u00a36bn is considerably less than the size of the health and care economy, which is nearer \u00a38bn. At the time there was also controversy about the secrecy of the deal and the lack of democratic mandate for such a move.\u201d Abrahams, who serves as shadow minister for disabled people, said she had grave concerns about the lack of clarity surrounding the financial and governance arrangements of the policy. \u201cThe fact that the chief executive of health and social care in Greater Manchester will not take up his post until four months after devolved arrangements commenced is a case in point,\u201d she said. The MP called for \u201ca comprehensive, independent assessment of the impacts of the Devo Manc health and social care arrangements\u201d to be completed as soon as possible. \u201cI absolutely support the principles of devolution, but this deal is a sham,\u201d she said.",
+  "webTitle": "MP attacks Manchester devo health deal",
+  "webPublicationDate": "2016-05-17T14:17:41Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/17/mp-attacks-manchester-devo-health-deal",
+  "keyword": [
+    {
+      "webTitle": "Greater Manchester",
+      "id": "uk/greater-manchester",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Devolution",
+      "id": "politics/devolution",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Health policy",
+      "id": "politics/health",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Frances Perraudin",
+      "id": "profile/frances-perraudin"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/17/mp-attacks-manchester-devo-health-deal"
+}

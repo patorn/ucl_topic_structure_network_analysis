@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/11/gene-simmons-apologises-prince-death-pathetic-kiss-newsweek",
+  "id": "2016-05-11-315",
+  "sectionId": "music",
+  "body": "The surprise wasn\u2019t so much that Kiss\u2019s Gene Simmons might say something provocative and inflammatory about the death of Prince, but that he might then backtrack and apologise. After telling Newsweek it was \u201cpathetic that he killed himself\u201d, Simmons issued a public mea culpa on Twitter, admitting he \u201cjust got such shit from my family for my big mouth again. I apologise.\u201d Simmons had told Newsweek that Prince\u2019s death, was \u201ca choice\u201d, adding: \u201cHis drugs killed him. What do you think, he died from a cold?\u201d He had also said: \u201cPrince was heads, hands and feet above all the rest of them. I thought he left Michael [Jackson] in the dust.\u201d   Related: Warrant says doctor prescribed medication for Prince before death    In his apology, Simmons explained: \u201cI have a long history of getting very angry at what drugs do to the families/friends of the addicts. I get angry at drug users because of my experience being around them coming up in the rock scene. In my experience they\u2019ve made my life, and the lives of their loved ones, difficult. I was raised in a culture/crowd where drug addicts were written off as losers, and since that\u2019s the narrative I grew up with, it\u2019s been hard to change with the times. Needless to say, I didn\u2019t express myself properly here \u2013 I don\u2019t shy away from controversy, and angry critics really don\u2019t bother me at all. If I think I\u2019m right, I\u2019ll throw up a finger and dig my heels in and laugh. But this time, I was not. So, my apologies.\u201d His fellow Kiss frontman Paul Stanley was among those who condemned Simmons\u2019 initial remarks, tweeting a link to the Newsweek interview with the caption: \u201cEmbarrassed by cold clueless statements re Prince\u2019s death. Without the facts better to say nothing. My apologies.\u201d",
+  "webTitle": "Gene Simmons apologises after calling Prince's death 'pathetic'",
+  "webPublicationDate": "2016-05-11T08:19:41Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/11/gene-simmons-apologises-prince-death-pathetic-kiss-newsweek",
+  "keyword": [
+    {
+      "webTitle": "Prince",
+      "id": "music/prince",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Kiss",
+      "id": "music/kiss",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Pop and rock",
+      "id": "music/popandrock",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian music",
+      "id": "profile/guardianmusic"
+    }
+  ],
+  "guardianId": "music/2016/may/11/gene-simmons-apologises-prince-death-pathetic-kiss-newsweek"
+}

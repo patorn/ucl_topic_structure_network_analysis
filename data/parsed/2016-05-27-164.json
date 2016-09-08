@@ -1,0 +1,61 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/27/chicken-embryo-tests-can-prevent-practice-of-gassing-billions-of-cockerels",
+  "id": "2016-05-27-164",
+  "sectionId": "environment",
+  "body": "The current practice of gassing billions of male chicks within a day of hatching because they cannot lay eggs could be stopped thanks to a new embryo gender test. Globally some 3.2 billion cockerels are killed within hours of breaking free of their eggs each year. Now Dutch scientists have developed a simple test that identifies the sex of chicken embryos within eggs, meaning males could be terminated long before hatching. The practice of killing day-old male chicks has been a focus of animal cruelty campaigners in the UK and elsewhere. A bill in the German parliament sponsored by the Green party that aimed to ban the practice was defeated in March.   Related: Revealed: the dirty secret of the UK\u2019s poultry industry    Now researchers at the biotech start-up company In Ovo, based in Leiden in the Netherlands, have identified several chemical biomarkers present in the eggs that they say can be used to distinguish between males and females on day nine of incubation. Speaking at a conference on new food technologies in Wageningen in the Netherlands on Thursday, Wouter Bruins, In Ovo co-founder, said the company had completed a study showing that one of their biomarkers could be used to rapidly identify chicken embryo sex in their eggs with an accuracy of greater than 95%, and that he hopes to raise this to 99%. The technique involves using a needle 0.7mm across to take a sample of fluid from the allantois, a membrane that surrounds the embryo which helps it obtain calcium from the shell and deal with waste. The company then uses mass spectrometry to work out the level of a small molecule that is found in higher concentrations in males, with the result available in four seconds. In Ovo is keeping the identity of the molecules secret for commercial reasons. \u201cMost people think the industry doesn\u2019t care about the ethics of killing male chicks,\u201d said Bruins after presenting his novel test at the F&A Next food and agriculture innovation conference . \u201cIn fact, having spoken to many farmers, I know many of them would prefer to stop the practice and would be willing to pay a premium to do so.\u201d In Ovo has the backing of all four of the large Dutch hatcheries and is currently working with Danish machine manufacturer Sanovo Technology Group to optimise their process. They plan to launch a commercial device in 2018. The company claims the technique can reduce energy consumption in hatcheries by 30% and therefore lower greenhouse gas emissions, while lowering the labour costs involved in in checking the gender of chicks manually. In Ovo says each test will initially cost about 7p, but save around 2p in reduced costs. As each hen lays some 400 eggs, the extra price to the consumer should be negligible, it claims. Last year it was reported that the UK egg industry was facing a shortage of workers wanting to take up roles as \u201cchick-sexers\u201d who have to manually sort as many as 1,000 chicks per hour, despite annual salaries of around \u00a340,000. Other methods of gendering chicken embryos are under development in Germany and Canada, but it remains to be seen whether these are commercially viable. Mia Fernyhough, RSPCA senior scientific officer, said: \u201cIt is upsetting to think of young chicks being killed like this. \u201cThis work in the Netherlands is the first method we are aware of that appears to be commercially viable and so has real potential to have a positive impact on this controversial practice.\u201d A spokesperson from the British Egg Information Service said the disposal of male chicks in the UK by exposure to argon was quick and painless, and added they are used as a source of food for pets and other animals.",
+  "webTitle": "Chicken embryo tests can prevent practice of gassing billions of cockerels",
+  "webPublicationDate": "2016-05-27T12:10:01Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/27/chicken-embryo-tests-can-prevent-practice-of-gassing-billions-of-cockerels",
+  "keyword": [
+    {
+      "webTitle": "Farming",
+      "id": "environment/farming",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Animal welfare",
+      "id": "world/animal-welfare",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Netherlands",
+      "id": "world/netherlands",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Animals",
+      "id": "world/animals",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [],
+  "guardianId": "environment/2016/may/27/chicken-embryo-tests-can-prevent-practice-of-gassing-billions-of-cockerels"
+}

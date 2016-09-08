@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/26/shell-limit-solar-investment-until-profitable",
+  "id": "2016-05-26-81",
+  "sectionId": "business",
+  "body": "Shell will avoid investing too heavily in solar or other technologies until they can make financial profits, its chief executive has said. Ben van Beurden told a meeting of shareholders in London that the oil company was already established in windfarms, a carbon capture plant, and wanted to gradually increase its operations in clean energy. But he rejected the idea contained in a shareholder resolution that Shell should switch its investments from hydrocarbons to renewables although he firmly believed the Paris climate change agreement by world governments was to be welcomed.  \u201cWe want to be part of shaping the future ... in the face of growing environmental challenges,\u201d said Van Beurden. \u201cWe believe our current strategy provides much greater scope to play a wider role in that energy transition (to a lower carbon future).\u201d \u201cIts not going to happen overnight ... We will have to adapt to a more diverse portfolio to reduce carbon,\u201d he added, saying it would take time to develop and insisting \u201cwe are not the opposition\u201d to renewables. Van Beurden highlighted the investment it had already made in wind and solar but said it had learned a painful lesson with a previous foray in photovoltaics that taught the company that petroleum geologists did not make the best electrical engineers. The Shell boss offered both praise and scathing criticism of the wider solar industry, saying it had a very bright future but then claiming the top 10 solar companies last year made \u201czero profits and no dividends\u201d. He added: \u201cI am not against solar. Far from it but we have to find a way of making money out of it. We cannot rely on subsidies.\u201d Shell recently set up a separate division, called New Energies, to demonstrate its commitment to low carbon activities but admitted the amount of annual investment attached was less than 1% of the amount being put into oil and gas.",
+  "webTitle": "Shell says it will limit solar investment until it proves profitable",
+  "webPublicationDate": "2016-05-26T18:35:27Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/26/shell-limit-solar-investment-until-profitable",
+  "keyword": [
+    {
+      "webTitle": "Royal Dutch Shell",
+      "id": "business/royaldutchshell",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Solar power",
+      "id": "environment/solarpower",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Renewable energy",
+      "id": "environment/renewableenergy",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Energy",
+      "id": "environment/energy",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Oil and gas companies",
+      "id": "business/oilandgascompanies",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Energy industry",
+      "id": "business/energy-industry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Terry Macalister",
+      "id": "profile/terrymacalister"
+    }
+  ],
+  "guardianId": "business/2016/may/26/shell-limit-solar-investment-until-profitable"
+}

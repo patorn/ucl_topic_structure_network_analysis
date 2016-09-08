@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/science/2016/may/09/sir-denys-wilkinson-obituary",
+  "id": "2016-05-09-99",
+  "sectionId": "science",
+  "body": "In 1943, the physicist Sir Denys Wilkinson, who has died aged 93, gained his first degree, and was immediately drawn into second world war service, initially on radar. From there he went on to nuclear physics, as a member of the British nuclear reactor team relocated from Cambridge to Canada until 1946 to facilitate collaboration with the US in developing nuclear weapons. Though this was the first step in a career that saw Wilkinson become a professor at Oxford University (1957-76) and vice-chancellor of Sussex (1976-89), it almost took a quite different direction. In Canada, Wilkinson\u2019s job was to monitor neutrons in the reactor. This proved nearly fatal, as he got radiation sickness, his white blood count fell, and he was given six months to live. Having recovered, and back in Cambridge, for a time afterwards it looked as if he probably would not be able to go back to nuclear physics. He became interested in a mystery of bird migration, and applied to the problem analysis techniques that he had learned from nuclear physics to solving it. When birds have to travel thousands of miles, they reach home very slowly, and with a very wide distribution in their times of arrival. Wilkinson noticed that they cover about as many miles in a day as they are normally capable of flying in an hour. He realised that this is the behaviour you would expect if they were searching randomly for home. Such behaviour is similar to the random diffusion of neutrons, a subject in which Wilkinson had become expert. So he simply calculated what sort of distribution in time you would expect if the birds made a random search. The results agreed with the flight data perfectly. Then his blood got better and he was pronounced safe to go back to work, albeit in low radiation levels. In 1949 he developed electronics that could measure physical quantities such as voltages by converting electrical pulses into digital information. This became useful in detecting the presence of electrically charged particles, in nuclear and particle physics. The idea was to discharge some unknown charge or voltage; the time this takes is proportional to the initial charge or voltage, and this can be read with a digital clock. This \u201cpulse height analyser\u201d became a technical standard in the field and was known as \u201cthe Wilkinson\u201d, an expression still in use many decades after his invention. In order to develop this technique he turned to the \u201csimplest\u201d experiment he could devise in nuclear physics: photodisintegration of the deuteron. The deuteron is the simplest nucleus, consisting of one proton and one neutron, and the photon is the simplest particle; so placing deuteron targets in the way of projectile photons was the simplest thing that he could think of doing. There were at that time a number of fundamental questions that could be answered by this kind of experiment. Wilkinson became an expert on the nuclei of the light elements, and his experience from radar, which made him fluent in the complicated \u201cmultipole\u201d structures of electromagnetic radiation, helped him become an encyclopaedic resource on the photo-excitation and electromagnetic properties of nuclear isotopes. He had an analytical mind, geared to assess the logical solution to every problem, though not necessarily one that would find ready acceptance. In 1983 he pointed out that we are subjected to natural radiation from rocks, cosmic rays and even ourselves all the time, in amounts much larger than that from radioactive waste. Wilkinson thereby asserted that it was \u201cintellectually dishonest\u201d to be unduly concerned about waste. Logically correct, but psychologically flawed perhaps, as the National Radiological Protection Board did not adopt this position in their subsequent report. Born in Leeds, Denys was the son of Charles, who worked in an electrical goods factory, and Hilda (nee Haigh), who taught English for evening classes. From Loughborough grammar school Denys went to Jesus College, Cambridge, becoming a fellow in 1944 and completing his PhD in 1947. After 10 further years at Cambridge, where he became reader in nuclear physics, he was appointed to the chair of nuclear physics at Oxford, and was head of the nuclear physics department from 1962 to 1976. Although Wilkinson was destined to be a superb leader and administrator, his heart was always close to research, and every summer for two months he went to laboratories in the US or Canada, where he could not be reached so readily. At Sussex he also maintained a presence in the university\u2019s physics department, and retired as emeritus professor of physics there. He was elected Fellow of the Royal Society at the age of 34, won its Hughes medal (1965) and Royal medal (1980), and in 1974 was knighted. Awards abroad included the Bonner prize for nuclear physics of the American Physical Society, also in 1974. He served as president of the Institute of Physics (1980-82), and as a vice-president of the International Union of Pure and Applied Physics (1985-93). The high-rise science block built in 1967 at the junction of Keble Road and Banbury Road in Oxford was named the Denys Wilkinson Building in 2002, and his final paper on physics was written when he was 82 years old. In 1947, he married Christiane Clavier, with whom he had three daughters. After their divorce, in 1967 he married Helen Sellschop, as a result of which he acquired two stepdaughters. Helen and his children survive him. \u2022 Denys Haigh Wilkinson, physicist and academic, born 5 September 1922; died 22 April 2016",
+  "webTitle": "Sir Denys Wilkinson obituary",
+  "webPublicationDate": "2016-05-09T16:38:27Z",
+  "webUrl": "https://www.theguardian.com/science/2016/may/09/sir-denys-wilkinson-obituary",
+  "keyword": [
+    {
+      "webTitle": "Physics",
+      "id": "science/physics",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "People in science",
+      "id": "science/people-in-science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Education",
+      "id": "education/education",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "University of Oxford",
+      "id": "education/oxforduniversity",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "University of Sussex",
+      "id": "education/universityofsussex",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Birds",
+      "id": "environment/birds",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Frank Close",
+      "id": "profile/frank-close"
+    }
+  ],
+  "guardianId": "science/2016/may/09/sir-denys-wilkinson-obituary"
+}

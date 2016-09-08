@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/05/craig-wright-u-turn-on-pledge-to-provide-evidence-he-invented-bitcoin",
+  "id": "2016-05-05-185",
+  "sectionId": "technology",
+  "body": "Craig Wright, the Australian computer scientist who claimed to be Satoshi Nakamoto, the creator of bitcoin, has backtracked on a pledge to provide proof of his earlier claims. Despite promising on Tuesday that he would be offering \u201cextraordinary evidence\u201d to verify his claim that he is really Satoshi Nakamoto, Wright wiped his blog on Thursday, replacing it only with a message headlined: \u201cI\u2019m Sorry.\u201d In the new message, Wright continues to maintain that he really is Nakamoto, but accepts that the total absence of credible evidence means few are likely to believe him. \u201cI believed that I could do this,\u201d he writes. \u201cI believed that I could put the years of anonymity and hiding behind me. But, as the events of this week unfolded and I prepared to publish the proof of access to the earliest keys, I broke. I do not have the courage. I cannot.\u201d Initially, Wright attempted to prove his claim by posting what he said was a digital signature, signed using a private key that could only have been held by the real Satoshi Nakamoto. In fact, while Wright did post such a signature, it emerged that it had been directly copied from a 2009-era bitcoin transaction and was not freshly created, as he had claimed. That discrepancy led to Wright\u2019s claims being dubbed a \u201cscam\u201d and \u201ccryptographically verifiable fraud\u201d by security researcher Dan Kaminsky. Wright initially promised to provide further evidence, but has now reneged on that, seemingly permanently. Wright\u2019s post continues: \u201cWhen the rumors began, my qualifications and character were attacked. When those allegations were proven false, new allegations have already begun. I know now that I am not strong enough for this.\u201d He also apologised to the two senior bitcoin figures who had backed up his claim before he went public. \u201cI know that this weakness will cause great damage to those that have supported me, and particularly to Jon Matonis and Gavin Andresen. I can only hope that their honour and credibility is not irreparably tainted by my actions. They were not deceived, but I know that the world will never believe that now. I can only say I\u2019m sorry. And goodbye.\u201d Andresen had publicly questioned Wright\u2019s evidence a few days after it was made public, saying on Tuesday: \u201cI was as surprised by the \u2018proof\u2019 as anyone, and don\u2019t yet know exactly what is going on.\u201d Jon Matonis, however, seems to still believe in Wright, tweeting on Thursday that \u201cthere won\u2019t be an on-chain signing from early bitcoin blocks, but there also won\u2019t be another Satoshi.\u201d Wright made his initial claims to three publications: GQ, the BBC and the Economist. A fourth, the London Review of Books, is due to publish a longer feature written by Andrew O\u2019Hagan. It is unclear what will happen to the piece following Wright\u2019s climbdown. According to Rory Cellan-Jones, the BBC reporter who was one of the three journalists to publicise Wright\u2019s initial claims, Wright had already begun the process by which he intended to prove his identity before he reneged on his promise and published the apologetic statement. Cellan-Jones says that Wright had asked him, Andresen and Matonis to each transfer about \u00a35 to a bitcoin address used in the first bitcoin transaction. The plan was for Wright to then return the money, proving he had access to that address. But while they did send the money on Wednesday, Wright never returned it. Even if he had, that might not have been enough evidence to convince many skeptics. Multiple times, Wright has claimed to have access to that specific bitcoin address, which corresponds to the ninth block\u201d of bitcoin to be created, a little over an hour after the first. But the real Nakamoto should have access to many other private keys, including the \u201cgenesis block\u201d itself. Wright has apparently demonstrated his access to that block in private, to the Economist\u2019s Ludwig Siegele and Andresen among others, but has released no public proof of the same, something that both men say raises questions.",
+  "webTitle": "Craig Wright U-turns on pledge to provide evidence he invented bitcoin",
+  "webPublicationDate": "2016-05-05T12:55:49Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/05/craig-wright-u-turn-on-pledge-to-provide-evidence-he-invented-bitcoin",
+  "keyword": [
+    {
+      "webTitle": "Bitcoin",
+      "id": "technology/bitcoin",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Cryptocurrencies",
+      "id": "technology/cryptocurrencies",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "E-commerce",
+      "id": "technology/efinance",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Internet",
+      "id": "technology/internet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Alex Hern",
+      "id": "profile/alex-hern"
+    }
+  ],
+  "guardianId": "technology/2016/may/05/craig-wright-u-turn-on-pledge-to-provide-evidence-he-invented-bitcoin"
+}

@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/27/justice-system-failing-witnesses-victims-crime",
+  "id": "2016-05-26-6",
+  "sectionId": "uk-news",
+  "body": "Witnesses and victims of crime are being failed by a criminal justice system that is approaching breaking point, parliament\u2019s spending watchdog has said. The public accounts committee found that courts and prisons are \u201cbedevilled by long standing poor performance including delays and inefficiencies, and costs are being shunted from one part of the system to another\u201d. The accused and their accusers experience vastly different systems, largely dependent on where they live, according to a report released on Friday.  Meg Hillier MP, chair of the committee, said the government has overlooked the consequences of cutbacks with the result that the system\u2019s ability to deliver justice is under threat.  \u201cThe system is overstretched and disjointed. Victims of crime are entitled to justice yet they are at the mercy of a postcode lottery for access to that justice.   Related: Victims of crimes are ill-served by the justice system: this bill will change that | Keir Starmer    \u201cAbout two-thirds of crown court trials are delayed or do not go ahead at all and only 55% of those who have been a witness say they would be prepared to do so again. These are damning statistics.  \u201cThe government has dragged its heels in addressing these problems. The Ministry [of Justice] is now seeking to reform the system but there is more action it can take immediately to benefit struggling regions, and therefore taxpayers,\u201d she said.  Around two-thirds of trials in the crown court were delayed or did not go ahead at all, the committee said.  A backlog of 51,830 cases was awaiting a crown court hearing as of September last year and the committee found the system was \u201cnot good enough\u201d in supporting victims and witnesses. Just 55% of witnesses have said they would be prepared to do so again with one in five made to wait four hours or more to give evidence in court.  Victims were also waiting longer for their day in court and faced a postcode lottery in access to justice, the committee found.  An average 134-day wait between the case leaving the magistrates\u2019 court and the start of the crown court hearing was up from a 99-day average wait two years ago.  Victims of crime in north Wales had a seven in 10 chance that their crown court trial would go ahead but only a two in 10 chance in Greater Manchester, official data showed.    Related: CPS lacks empathy with crime victims and witnesses, report finds    The length of time victims were forced to wait between an offence being committed and the conclusion of their case ranged from 243 days in Durham and 418 days in Sussex. Examples of victims being sent conflating information on the same case by different parts of the system were also found.  The government spends around \u00a32bn a year on the criminal justice system, which in the year to September 2015 saw 1.7m cases dealt with through the courts.  Government spending on the criminal justice system has fallen by 26% and the number of Crown Prosecution Service (CPS) lawyers had dropped 27% since 2010, official figures show. A Ministry of Justice spokesman said Michael Gove, the justice secretary, has endorsed the view that the criminal justice system needs urgent reform and welcomes the report.  \u201cThat is why we have embarked on comprehensive measures to improve our prisons and courts, backed by over \u00a32bn of investment, to build a swifter, more certain justice system.  \u201cOur plans will bring modern technology into our courts to better meet the needs of everyone who uses our services, and will replace ageing and ineffective prisons with new buildings designed to support rehabilitation,\u201d he said.",
+  "webTitle": "Justice system is failing witnesses and victims of crime, say MPs",
+  "webPublicationDate": "2016-05-26T23:01:16Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/27/justice-system-failing-witnesses-victims-crime",
+  "keyword": [
+    {
+      "webTitle": "Crime",
+      "id": "uk/ukcrime",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Crown Prosecution Service",
+      "id": "law/crown-prosecution-service",
+      "sectionId": "law",
+      "sectionName": "Law"
+    },
+    {
+      "webTitle": "Law",
+      "id": "law/law",
+      "sectionId": "law",
+      "sectionName": "Law"
+    },
+    {
+      "webTitle": "UK criminal justice",
+      "id": "law/criminal-justice",
+      "sectionId": "law",
+      "sectionName": "Law"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Rajeev Syal",
+      "id": "profile/rajeev-syal"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/27/justice-system-failing-witnesses-victims-crime"
+}

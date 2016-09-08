@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/03/uk-manufacturing-suffers-worst-month-three-years",
+  "id": "2016-05-03-276",
+  "sectionId": "business",
+  "body": "Britain\u2019s factories suffered their worst month in three years in April as falling export orders and a lack of domestic demand for consumer goods squeezed manufacturing output. Growth in factory output has been on the slide for a year, but last month the manufacturing sector contracted for the first time since March 2013. Economists believe the decline will drag on GDP growth this year. Financial data provider Markit, which carried out the survey, said manufacturers had blamed slower growth in the UK and a downturn in new export orders alongside \u201crising uncertainty about the global economy, the oil and gas industry, retail sector and the EU referendum\u201d.  The slump in factory output provided a double blow for George Osborne after the European commission downgraded its forecast for UK growth this year to 1.8%, down from a previous forecast of 2.1%, before inching up to 1.9% in 2017. A fall in jobs was a knock-on effect of the factory activity downturn, said Markit. Its data shows almost 20,000 job losses over the past three months, mostly among large employers.   PMI graph   Lee Hopley, chief economist at EEF, the manufacturers\u2019 organisation, said the job cuts were \u201cthe clearest sign yet that referendum uncertainty is starting to weigh on the real economy\u201d. She added: \u201cHowever, this is just another straw on the back of a sector already grappling with the struggling oil and gas sector, softening domestic demand and weak order outlook from other parts of the world, all of which are failing to provide any counterbalance to the political uncertainty at home.\u201d Commenting on its growth downgrades, the European commission said: \u201cRisks to the outlook are tilted to the downside, reflecting less favourable external demand and uncertainty in the lead-up to the June referendum. Net exports are forecast to continue to detract from growth although less markedly in 2017.\u201d More widely, the JP Morgan global manufacturing index was stuck at 50.1 in April, reflecting a near standstill in production across the world stretching back over the last two of years. Much of the blame was heaped on a deterioration in international trade flows through 2015 and into this year. The level of new export business fell for the third straight month and to the greatest extent since September of last year.  Pro-EU ministers have blamed the uncertainty surrounding next month\u2019s referendum for undermining confidence among consumers and producers and restricting new orders and investment. However, the decline in factory output is a broad trend, indicated by a steep fall in the US manufacturing PMI on Sunday to its lowest level since 2009 and stagnation in China and much of Europe. Economists have also blamed the government\u2019s austerity measures for reducing government spending and hitting household incomes. The Markit/Cips purchasing managers\u2019 index (PMI) fell in April to 49.2, below the 50 mark that separates growth from contraction, for the first time since March 2013. The sector was still growing in March when the index registered a revised 50.7. Markit said the headline index was dragged lower by \u201clacklustre trends in production and new orders and declines in both employment and stocks of purchases\u201d.   Related: Most business leaders will vote to stay in EU, polls find    In the UK, new export orders fell for the fourth straight month as global economic growth continued to slow. To emphasise the point, firms producing equipment for international mining and infrastructure projects reported a sharp drop in new export business. Rob Dobson, Markit\u2019s senior economist, said: \u201cThe UK manufacturing PMI fell below its critical 50 mark for the first time in over three years in April, highlighting a further deepening of the sector\u2019s downturn at the start of the second quarter. \u201cOn this evidence, manufacturing production is now falling at a quarterly pace of around 1%, and will likely act as a drag on the economy again during the second quarter and putting greater pressure on the service sector to sustain GDP growth.\u201d",
+  "webTitle": "UK manufacturing sector suffers worst month in three years",
+  "webPublicationDate": "2016-05-03T09:37:33Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/03/uk-manufacturing-suffers-worst-month-three-years",
+  "keyword": [
+    {
+      "webTitle": "Manufacturing sector",
+      "id": "business/manufacturing-sector",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Manufacturing data",
+      "id": "business/manufacturingdata",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economic growth (GDP)",
+      "id": "business/economicgrowth",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economic recovery",
+      "id": "business/economic-recovery",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Phillip Inman",
+      "id": "profile/phillipinman"
+    }
+  ],
+  "guardianId": "business/2016/may/03/uk-manufacturing-suffers-worst-month-three-years"
+}

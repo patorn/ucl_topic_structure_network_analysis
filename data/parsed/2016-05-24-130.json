@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/24/horse-racing-tips-wednesday-may-25",
+  "id": "2016-05-24-130",
+  "sectionId": "sport",
+  "body": "Hamilton 2.00 Bourbonisto 2.30 Sophistica (nb) 3.05 Classy Anne 3.40 Millefiori 4.15 Maulesden May 4.45 Nonagon 5.15 My Valentinoy Market Rasen 2.10 Lettheriverrundry 2.40 Lady Persephone 3.15 Big Sound 3.50 Sir Note 4.25 Monkhouse 4.55 Harleys Max 5.25 Christmas In April Lingfield  1.50 Rapacity Alexander 2.20 Chetan 2.50 Tigserin 3.25 Here\u2019s Two 4.00 George Cinq 4.35 Barren Brook 5.05 Swashbuckle 5.35 Gold Eliza Kempton 6.20 New Agenda 6.50 Bond Trader 7.20 Mystical Sapphire 7.50 Al Khafji 8.20 Bouclier (nap) 8.50 Be My Sea Newton Abbot 6.10 Mia\u2019s Storm 6.40 Railway Storm 7.10 Beau Phil 7.40 Calin Du Brizais 8.10 Fuse Wire 8.40 Armaans Wish",
+  "webTitle": "Horse racing tips: Wednesday May 25",
+  "webPublicationDate": "2016-05-24T14:18:26Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/24/horse-racing-tips-wednesday-may-25",
+  "keyword": [
+    {
+      "webTitle": "Horse racing tips",
+      "id": "sport/horse-racing-tips",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Horse racing",
+      "id": "sport/horse-racing",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Greg Wood",
+      "id": "profile/gregwood"
+    }
+  ],
+  "guardianId": "sport/2016/may/24/horse-racing-tips-wednesday-may-25"
+}

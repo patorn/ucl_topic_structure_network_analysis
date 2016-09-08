@@ -1,0 +1,43 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/23/letter-alan-fountain-obituary",
+  "id": "2016-05-23-113",
+  "sectionId": "film",
+  "body": "I first knew Alan Fountain in the 1980s, before his time at Channel 4, when he was an Arts Council regional film officer and I an education officer at the British Film Institute. Alan helped the BFI set up courses, schools, and conferences for educationists keen to develop film studies in their institutions. His hard work and strategic thinking provided a model for subsequent collaborations between the arts and education sectors. As such, he played a key role in the growth of film, media and cultural studies. I remember him best for his calm, quiet interventions, often in the face of resistant political forces, as he advanced the cause of a modernised curriculum for teachers and students.",
+  "webTitle": "Letter: Alan Fountain obituary",
+  "webPublicationDate": "2016-05-23T15:47:35Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/23/letter-alan-fountain-obituary",
+  "keyword": [
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Channel 4",
+      "id": "media/channel4",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Television industry",
+      "id": "media/television",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    }
+  ],
+  "authors": [],
+  "guardianId": "film/2016/may/23/letter-alan-fountain-obituary"
+}

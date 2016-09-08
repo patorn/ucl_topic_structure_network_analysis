@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/science/life-and-physics/2016/may/08/esfri-europe-chooses-its-roadmap-for-science-facilities",
+  "id": "2016-05-08-127",
+  "sectionId": "science",
+  "body": "Some science facilities are just too big to have one each, even if you are quite a rich country. And there are many different types of big science facility, for many different kinds of science, technology and medicine. Lasers, particle beams, big computers, telescopes, aeroplanes, submarines, satellites - all are important for something somewhere.  So if there are other interested countries nearby, it makes sense to plan together and share costs and usage where appropriate. The European Strategy Forum on Research Infrastructures \u2013 ESFRI \u2013 is part of the way Europe does this, and it has just produced a new \u2018roadmap\u2019.    Being in Europe doesn\u2019t mean not being part of the wider world    I think the term \u2018roadmap\u2019 is used because it is more definite than a vision \u2013 there are a lot of specifics in there \u2013 but less definite than a plan. Physics World calls is a \u2018Euro wishlist\u2019. A lot of it is aspirational, in that the funding isn\u2019t in place for it all and politicians and funders can essentially choose a number of different routes through the map. The previous roadmap was published in 2006 and was very influential. Funding agencies of many countries consider the recommendations from ESFRI when making investment decisions with their own national research budgets; and the roadmap is actually addressed at the Commission of the European Union, and so informs many of the decisions about EU investment in science and infrastructure.    Related: Brexit could cost UK science millions in lost research funding, peers warn    The current chair of ESFRI is John Womersley, a particle physicist by training and currently CEO of the UK\u2019s Science and Technology Research Council (STFC). He talked to Physics World about the need for pooling of resources between nations:  This has long been the case in domains like particle physics, but we are seeing the approach become necessary much more widely, in areas as diverse as atmospheric physics, computing, and materials science.  He was talking about physics in that context (to Physics World, of course) otherwise he could also have mentioned medicine and the life sciences, archaelogy, marine and environmental science and more.  One important change this time is the CERN (which is not an EU organisation) was an integral part of the process, and features strongly, with the High Luminosity upgrade of the Large Hadron Collider appearing as a major landmark. This is good news for particle physics \u2013 not being directly involved was definitely a disadvantage last time for particle physicists in some countries \u2013 and good news for Europe as CERN is clearly a jewel in the European crown as far as international scientific facilties go, with an impact that goes well beyond Europe. Although ESFRI was set up by the EU and reports to it\u00b9, Brexiteers will be quick to note that non-EU members also participate as associated countires. So it is certainly true that we in the UK could still participate if we left the EU, though to access any of the investment we\u2019d likely have to pay in at least as much money as we already do, and to continue to allow EU citizens to settle and work in the UK, all whilst losing some of our influence on the decision-making process. I was an observer in the physical sciences group\u00b2, and I even contributed a few words which I think made it into the report. Given that, I can vouch for the fact that the influence any country has on the priorities depends on many things, including the size and resource of a country, the individuals round the table, and the strength of the national scientific communities. The UK does well in general, and being a member state definitely helps.  Considerations of the impact on scientific research probably won\u2019t determine most people\u2019s vote in the upcoming EU referendum in the UK, but it\u2019s a strong and clear argument and the small minority of scientists saying otherwise are either mistaken or deliberately trying to mislead. In that context, one important thing to note about the ESFRI report is the global outlook. Being in Europe doesn\u2019t mean not being part of the wider world, and the science doesn\u2019t stop at the borders. To take two examples close to my own area, current and future particle physics faciltities in America and Asia are discussed in the report, and the \u2018Square Kilometre Array\u2019, a future radio telescope which is one of the key projects for ESFRI, has its headquarters in Manchester, but the actual telescope will be sited in Africa and Australia.   Related: Why the EU matters for universities    Decisions need to be made on many different scales ranging from very local to very global. Full involvement in a European level of coordination is a vital part of that mix for science. As far as I can see the same is also true for many other areas of endeavour. That\u2019s probably enough of that for now. If you are interested in the future possibilties for science, the technologies that will make a big difference, and what the multiple acronyms stand for, the ESFRI roadmap is a great resource and I commend it to you. \u00b9 Added 10/5/16: Specifically, the Council of Ministers \u00b2See page 202 of the report for my 5mins of fame. And also the first picture here, from one of the meetings. Jon Butterworth\u2019s book Smashing Physics is available as \u201cMost Wanted Particle\u201d in Canada & the US and was shortlisted for the Royal Society Winton Prize for Science Books.",
+  "webTitle": "Europe chooses its 'roadmap' for science facilities",
+  "webPublicationDate": "2016-05-08T10:08:12Z",
+  "webUrl": "https://www.theguardian.com/science/life-and-physics/2016/may/08/esfri-europe-chooses-its-roadmap-for-science-facilities",
+  "keyword": [
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Physics",
+      "id": "science/physics",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Cern",
+      "id": "science/cern",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Science policy",
+      "id": "science/science-policy",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Particle physics",
+      "id": "science/particlephysics",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Large Hadron Collider",
+      "id": "science/large-hadron-collider",
+      "sectionId": "science",
+      "sectionName": "Science"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jon Butterworth",
+      "id": "profile/jon-butterworth"
+    }
+  ],
+  "guardianId": "science/life-and-physics/2016/may/08/esfri-europe-chooses-its-roadmap-for-science-facilities"
+}

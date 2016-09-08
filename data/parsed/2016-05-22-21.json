@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/science/2016/may/22/how-to-make-rain-by-splashing-water",
+  "id": "2016-05-22-21",
+  "sectionId": "science",
+  "body": "Need to make it rain? Try asking farmers to turn their water sprinklers on. New findings suggest that the act of water splashing on to ploughed fields throws up millions of microscopic particles \u2013 the remains of dead plants and animals. And it turns out that this special dust often helps to seed clouds and generate localised rainstorms.  Dust is well known for helping to trigger cloud formation, but not all clouds produce rain. Evidence is now emerging that organic dust (the remains of living things) is especially good at creating rain-bearing clouds, by helping water to freeze and encouraging raindrops to grow quickly. And now, Alexander Laskin and his colleagues, from the Pacific Northwest National Laboratory in Richland, Washington, have discovered one way in which organic dust becomes airborne. During 2014 they collected airborne particles above Oklahoma\u2019s southern great plains \u2013 a vast agricultural region. They found that at least one third of the dust was organic, and was most likely flung into the air by recent rainfall. \u201cSplashing of raindrops into puddles creates air bubbles, which rise upwards and burst, ejecting a fine mist of organic matter,\u201d Laskin says, whose findings were published in the Nature Geoscience journal. Meanwhile, irrigation of topsoil with a garden hose did the same trick. Previous studies in southern Australia and California have shown that, over agricultural land, the probability of rainfall increases following a rainstorm, suggesting that this is nature\u2019s way of generating its own rain. The big question now is whether we can mimic nature\u2019s clever trick, using organic dust to squeeze water from the sky, bringing rainfall to parched lands.",
+  "webTitle": "How to make rain \u2013 by splashing water",
+  "webPublicationDate": "2016-05-22T20:30:19Z",
+  "webUrl": "https://www.theguardian.com/science/2016/may/22/how-to-make-rain-by-splashing-water",
+  "keyword": [
+    {
+      "webTitle": "Meteorology",
+      "id": "science/meteorology",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Weather",
+      "id": "uk/weather",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Water",
+      "id": "environment/water",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Kate Ravilious",
+      "id": "profile/kate-ravilious"
+    }
+  ],
+  "guardianId": "science/2016/may/22/how-to-make-rain-by-splashing-water"
+}

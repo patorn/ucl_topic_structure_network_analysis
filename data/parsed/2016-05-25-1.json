@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/26/david-cameron-would-be-in-favour-of-leaving-eu-if-he-werent-pm-says-steve-hilton",
+  "id": "2016-05-25-1",
+  "sectionId": "politics",
+  "body": "David Cameron\u2019s former election adviser and trusted confidant has claimed the prime minister would advocate leaving the EU if he were not leading the country. Steve Hilton, who was Cameron\u2019s most senior adviser in the 2010 election and his first few years in Downing Street, said the prime minister was a natural supporter of Brexit. Hilton, who left No 10 for the US and later wrote a book, this week came out as a supporter of Britain leaving the EU, saying he wanted to put a stop to the \u201carrogant, unaccountable, hubristic elites\u201d running Europe. He told the Times he was sure that Cameron was instinctively on his side. \u201cIf he were a member of the public or a backbench MP, or a junior minister or even a cabinet minister, I\u2019m certain he would be for leave,\u201d Hilton said. He also claimed to remember a meeting in the early days on Cameron\u2019s team in which it was agreed that they were in favour of leaving the EU in Britain\u2019s best interests and that was the basis of the arguments they were making. The intervention is likely to annoy Downing Street as the prime minister intensifies his campaign to stay in the EU in the final few weeks before the 23 June referendum. Cameron has often said in stump speeches that he has become more in favour of staying in the EU compared with his position six years ago before he became prime minister as he has seen its importance for maintaining security. A Downing Street source said Hilton was \u201centitled to his own views\u201d but insisted that David Cameron was not instinctively a Brexit supporter. \u201cThe prime minister has set out his views on Europe. This is about the national interest, and it is bigger than any one politician. The prime minister thinks this is the best of both worlds.\u201d",
+  "webTitle": "David Cameron would be in favour of leaving EU if he weren't PM, says Steve Hilton",
+  "webPublicationDate": "2016-05-25T23:17:18Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/26/david-cameron-would-be-in-favour-of-leaving-eu-if-he-werent-pm-says-steve-hilton",
+  "keyword": [
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "David Cameron",
+      "id": "politics/davidcameron",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Rowena Mason",
+      "id": "profile/rowena-mason"
+    }
+  ],
+  "guardianId": "politics/2016/may/26/david-cameron-would-be-in-favour-of-leaving-eu-if-he-werent-pm-says-steve-hilton"
+}

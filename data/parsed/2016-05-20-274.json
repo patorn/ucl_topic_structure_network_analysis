@@ -1,0 +1,85 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media-network/2016/may/20/say-one-sentence-and-its-done-in-the-ai-first-world",
+  "id": "2016-05-20-274",
+  "sectionId": "media-network",
+  "body": "Google CEO Sundar Pichai said on Alphabet\u2019s Q1 earnings call: \u201cIn the long run, we will evolve in computing from a mobile-first to an AI-first world\u201d. This has prompted various speculation on what an AI-first world will look like. Pichai envisages that it will include \u201cassistive\u201d search, \u201cespecially on mobile,\u201d suggesting that artificial intelligence (AI) will be the platform for on-demand services accessed from any device \u2013 including smartphones. Dave Coplin, chief envisioning officer at Microsoft UK spoke at the AI Summit in London. He believes that AI first (AI as a platform) will \u201cchange how people relate to tech and to each other.\u201d For example, real-time natural language will surely replace translators and interpreters. Martin Hollywood, lead creative technologist at Razorfish London highlights the role of wearables as notification devices. Voice is emerging as the primary user interface (UI) to manage and facilitate human outcomes/experiences.  Pichai\u2019s prediction of AI-powered mobile assistive search became reality within three weeks of the Alphabet call. On May 9 at TechCrunch Disrupt NY, Siri creator Dag Kittlaus gave the first public demonstration of the next-generation voice assistant Viv.  Voice activated service as software The key to Viv \u2013 and Amazon\u2019s smart speaker Echo and digital assistant Alexa \u2013 is natural language. Viv uses sophisticated natural language processing and dynamic program generation, which understands the user\u2019s intent and generates appropriate software to address each query. While other software platforms have program manager where queries are hard coded, dynamic program generation is scalable \u2013 it writes its own software to generate the services that users need. Kittlaus demonstrated \u201cconversational commerce\u201d whereby Viv\u2019s a natural language interface and capacity to deal with follow-up questions (unlike Siri) makes it easy buy products and services. \u201cOne sentence and it\u2019s done,\u201d he said. In a 100% live demo Kittlaus completed four transactions in two minutes, ranging from sending $20 (\u00a314) to the friend who paid for last night\u2019s drinks, to getting a taxi for six people. Conversational commerce As AI-first replaces mobile centricity with (personalised) user centricity, brands will need to focus on human outcomes. \u201cThe key question will be what experience does your brand enable the consumer to have?\u201d says Coplin. Brands will need to forge a place in the workings of AI engines such as Viv that understand human intent and connect disparate services.  Conversational commerce is already big for brands, says Jason Alan Snyder, CTO at Momentum Worldwide. \u201cAI will add contextual intelligence to the brand experience by connecting interactions with relevant services so brands will have to work hard to become part of the vocabulary. If another brand gets to the customer first, via their personalised AI platform, that is really bad news for them.\u201d Hollywood agrees, highlighting brands\u2019 dual perspective. \u201c2016 is the year of the chatbot\u201d, he says. Beauty brand Sephora\u2019s messaging app, Kik, enables users to get makeup tips, browse and buy products by chatting to the company\u2019s bot. Microsoft\u2019s personal assistant, Cortana, is being integrated into Skype. During the recent Microsoft Build conference in San Francisco, Skype\u2019s Lilian Rincon used Skype and Cortana to book a hotel room, which also suggested she visit a friend who lived nearby. \u201cBrands know that whoever is close to the consumer controls the conversation,\u201d says Snyder.  Dave Cox, head of innovation at MC Saatchi, believes that AI-first will change the nature of app design. \u201cAt the moment the starting point might be how an app will work, but instead we may need to start by thinking about how it will communicate,\u201d he says. \u201cThe best solution is the one that doesn\u2019t make you think. So UI will get closer to natural communication.\u201d   AI-first will make customers\u2019 interaction with brands intuitive, real-time and personalised, as AI systems tailor the services they facilitate to individual user preferences, observes Joshua Sutton, managing director of Sapient. \u201cInstead of having to conform to the system, the system will conform to you.\u201d Voice as the dominant interface changes the human-machine interaction. \u201cThe ease with which we communicate \u2013 with Alexa, for example \u2013 changes how we interact with it.\u201d Sutton believes this will change the nature of websites, which will need to become more flexible, intuitive and interactive.  The cultural challenge However, there is a downside too \u2013 such as Microsoft\u2019s Tay incident, which has had damaged the perception of intelligent computing. Coplin explains that Tay was a cultural experiment and that in this respect AI-first is a cultural challenge. \u201cWe have choices about what we want AI to be,\u201d he says, \u201cConversational commerce means knowing that we are not always talking to other human beings.\u201d Snyder observes: \u201cTay was not a technology issue. Rather it was a marketing issue involving how Microsoft chose to introduce it to the world\u201d. Cox agrees that it is important to educate AI responsibly: \u201cBe careful how you bring it up. You wouldn\u2019t let Twitter or 4chan educate your child.\u201d He believes that AI will follow the product life cycle \u2013 if it is used badly, it won\u2019t get acceptance. A lot of the press around AI first focuses on virtual assistants, but AI is not necessarily synonymous with a personally tailored help desk which puts things at people\u2019s fingertips. It is also about how brands interact with customers and target markets. Consequently, as Coplin put it, in an AI-first world, brands are facilitators rather than providers. To get weekly news analysis, job alerts and event notifications direct to your inbox, sign up free for Media & Tech Network membership. All Guardian Media & Tech Network content is editorially independent except for pieces labelled \u201cPaid for by\u201d \u2013 find out more here.",
+  "webTitle": "Say one sentence and it\u2019s done in the AI-first world",
+  "webPublicationDate": "2016-05-20T09:00:36Z",
+  "webUrl": "https://www.theguardian.com/media-network/2016/may/20/say-one-sentence-and-its-done-in-the-ai-first-world",
+  "keyword": [
+    {
+      "webTitle": "Media & Tech Network",
+      "id": "media-network/media-network",
+      "sectionId": "media-network",
+      "sectionName": "Media Network"
+    },
+    {
+      "webTitle": "Artificial intelligence (AI)",
+      "id": "technology/artificialintelligenceai",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Marketing & PR",
+      "id": "media/marketingandpr",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Amazon.com",
+      "id": "technology/amazon",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Apple",
+      "id": "technology/apple",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "E-commerce",
+      "id": "technology/efinance",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Internet",
+      "id": "technology/internet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Computing",
+      "id": "technology/computing",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Microsoft",
+      "id": "technology/microsoft",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Skype",
+      "id": "technology/skype",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [],
+  "guardianId": "media-network/2016/may/20/say-one-sentence-and-its-done-in-the-ai-first-world"
+}

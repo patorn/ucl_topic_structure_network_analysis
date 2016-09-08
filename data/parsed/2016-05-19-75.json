@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/19/meet-robobee-the-tiny-drone-designed-to-perch-and-save-energy",
+  "id": "2016-05-19-75",
+  "sectionId": "technology",
+  "body": "Flapping two tiny wings, the small, thin robot wobbles its way towards the underside of a leaf, bumps into the surface and latches on, perching motionless above the ground. Moments later, its wings begin to flap once more and it jiggles off on its way.  The little flying machine, dubbed a \u201cRoboBee\u201d, has been designed to perch on a host of different surfaces, opening up new possibilities for the use of drones in providing a bird\u2019s-eye view of the world, scientists say.  Know as micro aerial vehicles, such robots could be invaluable in reconnaissance of disaster zones or to form impromptu communication networks. But there is a hitch: flying takes energy, so the time these robots can spend in the air is limited by the size of the battery pack they can carry.  \u201cMicro aerial vehicles run out of energy quickly. They can stay in the air for about 10 to 30 minutes,\u201d said Moritz Alexander Graule, a PhD student at Massachusetts Institute of Technology, who developed the robot while at Harvard University.    Related: RSPB uses drone to keep watch on Britain's vulnerable birds    The new flying robot, unveiled by Graule and co-authors from the US and Hong Kong, weighs just a tenth of a gram and measures only two centimetres in height. It can attach and detach from the underside of jutting-out surfaces including wood, glass and plant leaves. The development, say the researchers, offers a new approach to developing small-sized drones that can save energy while capturing a view of a scene below. What\u2019s more, they add, the development of new technologies, fabrication methods and components for use in these tiny devices are also benefiting other fields, such as the development of instruments for microsurgery. Writing in the journal Science, the authors describe how the robot attaches to its perch using electrostatic forces that are generated when a voltage is applied across a \u201clanding patch\u201d on the robot. Turn the power off, and the drone is released and ready to fly on.  A foam tube helps with landing and prevents the robot from bouncing off its perch as it touches down. The team used motion tracking cameras to help control the robot, whose approach to landing, they say, was inspired by the honeybee. Mirko Kovac, director of the Aerial Robotics Laboratory at Imperial College London, says the research shows how engineers can learn from nature, adding that the robot is a significant development in the field. \u201cIt shows that perching can be achieved in very small scale systems,\u201d he said. \u201cAs you get smaller the energy required to fly becomes more challenging, it becomes more difficult to fly for long durations of time, so perching can really help.\u201d The next step, says Graule is to develop the robot so that it is no longer \u201ctethered\u201d to a nearby power-source. \u201cThe plan is to get a drone that has onboard power in a laboratory environment,\u201d he said.",
+  "webTitle": "Meet 'Robobee' - the tiny drone designed to perch and save energy",
+  "webPublicationDate": "2016-05-19T18:00:18Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/19/meet-robobee-the-tiny-drone-designed-to-perch-and-save-energy",
+  "keyword": [
+    {
+      "webTitle": "Robots",
+      "id": "technology/robots",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Drones (non-military)",
+      "id": "technology/drones-non-military",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Nicola Davis",
+      "id": "profile/nicola-davis"
+    }
+  ],
+  "guardianId": "technology/2016/may/19/meet-robobee-the-tiny-drone-designed-to-perch-and-save-energy"
+}

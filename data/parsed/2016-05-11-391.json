@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/australia-news/2016/may/11/csiro-climate-scientists-earmarked-for-redundancy-to-finally-learn-their-fate",
+  "id": "2016-05-11-391",
+  "sectionId": "australia-news",
+  "body": "Climate scientists at the CSIRO who are earmarked for redundancy will learn their fate this week. Staff in the organisation\u2019s oceans and atmosphere business unit began being told of their \u201cpotential\u201d redundancies on Tuesday, and the process was expected to continue until Thursday. Last week a similar process occurred for scientists in the land and water business unit.   Related: We handled the job cuts badly, CSIRO boss admits in Senate hearing    After public outcry followed CSIRO management initially identifying nearly 100 climate scientists for redundancy in February this year, that number dropped quickly to 70 and was finally reduced to about 40. The scientists are given two weeks to explain why their position should be saved, followed by a two-month process during which management tries to find them another position in the organisation. After that, the scientists will have up to nine weeks to tie up loose ends before they leave. In the meetings, the scientists are told that their position has been \u201cimpacted\u201d. Reasons given centre on a lack of \u201ccustomer support\u201d for the work they do; a lack of \u201cexternal earnings\u201d associated with their work; and the fact that CSIRO needs to reduce some capabilities to invest in other areas. \u201cA lot of people are upset,\u201d a senior climate scientist at CSIRO told Guardian Australia. He said all the internal avenues for fighting the cuts had been exhausted. Only a political decision could stop it now, he said. \u201cUnless there is a change in government and they were ordered to stop the cut.\u201d",
+  "webTitle": "CSIRO climate scientists earmarked for redundancy to finally learn their fate",
+  "webPublicationDate": "2016-05-11T00:00:40Z",
+  "webUrl": "https://www.theguardian.com/australia-news/2016/may/11/csiro-climate-scientists-earmarked-for-redundancy-to-finally-learn-their-fate",
+  "keyword": [
+    {
+      "webTitle": "CSIRO",
+      "id": "australia-news/csiro",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Climate change",
+      "id": "science/scienceofclimatechange",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Climate change",
+      "id": "environment/climate-change",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Michael Slezak",
+      "id": "profile/michael-slezak"
+    }
+  ],
+  "guardianId": "australia-news/2016/may/11/csiro-climate-scientists-earmarked-for-redundancy-to-finally-learn-their-fate"
+}

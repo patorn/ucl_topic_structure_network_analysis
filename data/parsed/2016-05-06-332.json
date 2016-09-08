@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/australia-news/2016/may/06/reserve-bank-slashes-inflation-forecasts-casting-doubt-on-budget-figures",
+  "id": "2016-05-06-332",
+  "sectionId": "australia-news",
+  "body": "The official inflation forecasts in the Turnbull government\u2019s first budget have been thrown into doubt just three days into their life. The Reserve Bank of Australia has cut its inflation forecast for the end of this year by a whole percentage point, from a range of 2-3% to just 1-2%.   Related: Scott Morrison names Philip Lowe as next Reserve Bank governor    It has also revised downwards its inflation forecasts for 2017 and 2018 \u2013 from a range of 2-3% to just 1.5-2.5%. It has raised the spectre of ultra-low inflation plaguing Australia\u2019s economy for the next three years and raises serious doubts about the government\u2019s ability to shrink the deficit. Its job is to keep inflation within a range of 2-3%. \u201cThis is significant, because the budget is funded by income taxes and since inflation adds to incomes the less inflation means fewer taxes,\u201d Deloitte Access Economics director Chris Richardson said. That means the government\u2019s struggle to shrink the deficit will become even more difficult, he said. The RBA\u2019s downward revisions to inflation explain why it cut the official interest rate to a record low of 1.75% on Tuesday. On Thursday, the ratings agency Moody\u2019s warned the Turnbull government that its budget projections for nominal gross domestic product growth \u2013 the key to shrinking the deficit \u2013 were too optimistic. \u201cWe estimate that constraints on the ability of the government to reduce spending amid moderate nominal GDP growth will lead to somewhat wider deficits for longer than currently budgeted,\u201d Moody\u2019s said. Treasury assumes in the budget that inflation will be 2% until mid-2017 and 2.25% until mid-2018, and 2.5% for the following two years.   Related: Reserve Bank cuts cash rate by 0.25% to record low of 1.75%    The RBA estimates that inflation could be 1 percentage point lower than Treasury\u2019s forecasts for 2016 and three-quarters of a percentage point lower for 2017. In Senate estimates on Friday, Treasury officials admitted that the budget no longer projects the budget returning to a surplus of 1% of GDP.  When the Coalition was elected in 2013, it forecast a return to surplus \u2013 of 1% of GDP \u2013 by 2023-24.",
+  "webTitle": "Reserve Bank slashes inflation forecasts, casting doubt on budget figures",
+  "webPublicationDate": "2016-05-06T05:38:02Z",
+  "webUrl": "https://www.theguardian.com/australia-news/2016/may/06/reserve-bank-slashes-inflation-forecasts-casting-doubt-on-budget-figures",
+  "keyword": [
+    {
+      "webTitle": "Reserve Bank of Australia",
+      "id": "australia-news/reserve-bank-of-australia",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australian budget 2016",
+      "id": "australia-news/australian-budget-2016",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australian politics",
+      "id": "australia-news/australian-politics",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Business (Australia)",
+      "id": "australia-news/business-australia",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Gareth Hutchens",
+      "id": "profile/gareth-hutchens"
+    }
+  ],
+  "guardianId": "australia-news/2016/may/06/reserve-bank-slashes-inflation-forecasts-casting-doubt-on-budget-figures"
+}

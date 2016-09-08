@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/books/2016/may/26/most-orwellian-winner-yet-the-invention-of-russia-takes-orwell-prize",
+  "id": "2016-05-26-71",
+  "sectionId": "books",
+  "body": "An account of modern Russia, which in its investigation into media manipulation is \u201cabsolutely in [George] Orwell\u2019s own tradition\u201d has won the UK\u2019s most prestigious prize for political writing, the Orwell prize for books. Chair of judges for the prize Lord William Waldegrave compared Arkady Ostrovsky\u2019s The Invention of Russia to George Orwell\u2019s novels Nineteen Eighty-Four and Animal Farm, saying that Ostrovsky\u2019s non-fiction title was \u201cabsolutely about the central themes that Orwell is most famous of all for \u2026 the importance of language, and how he or she who controls the language, controls the narrative. And although there are many strong and brave liberal voices in Russia, if you get control of social and traditional media, you\u2019ve gone a long way to controlling the message.\u201d Given to the book which comes closest to Orwell\u2019s ambition to \u201cmake political writing an art\u201d, the \u00a33,000 Orwell prize has been won in the past by titles including Raja Shehadeh\u2019s Palestinian Walks, and DM Thomas\u2019s biography of Alexander Solzhenitsyn. Ostrovsky\u2019s book, which looks at Russia\u2019s post-Soviet transformation and the media\u2019s central role in the country\u2019s national narrative, is likely the most Orwellian winner to date, said Waldegrave, who judged the award with Andrew Gamble, David Goodhart and Fiammetta Rocco. \u201cIt\u2019s a wonderful book and it meets the tough criterion of making political writing an art, but it is extraordinary how the theme of it is absolutely in Orwell\u2019s own tradition,\u201d said Waldegrave. According to organisers of the Orwell prize, Nineteen Eighty-Four was one of the Top 10 bestselling books in Russia last year. In his book, Ostrovsky, a Russian-born correspondent for the Financial Times and the Economist, traces how Russia moved from Gorbachev\u2019s freedom in 1985 to Putin\u2019s war today, unpicking with research and interviews \u201cthe ideological conflicts, compromises and temptations that have left Russia on a knife edge\u201d. Ostrovsky was presented with his award on Thursday evening by Orwell\u2019s son, Richard Blair. The Invention of Russia beat titles including Jason Burke\u2019s The New Threat from Islamic Militancy, John Kay\u2019s Other People\u2019s Money and Emma Sky\u2019s The Unravelling to the prize.",
+  "webTitle": "'Most Orwellian winner yet': The Invention of Russia takes Orwell prize",
+  "webPublicationDate": "2016-05-26T19:00:10Z",
+  "webUrl": "https://www.theguardian.com/books/2016/may/26/most-orwellian-winner-yet-the-invention-of-russia-takes-orwell-prize",
+  "keyword": [
+    {
+      "webTitle": "Orwell prize",
+      "id": "books/orwellprize",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Books",
+      "id": "books/books",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Awards and prizes",
+      "id": "culture/awards-and-prizes",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "books/politics",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "History",
+      "id": "books/history",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Russia",
+      "id": "world/russia",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Alison Flood",
+      "id": "profile/alisonflood"
+    }
+  ],
+  "guardianId": "books/2016/may/26/most-orwellian-winner-yet-the-invention-of-russia-takes-orwell-prize"
+}

@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/11/mps-staff-given-redundancy-payments-weeks-before-starting-new-commons-jobs",
+  "id": "2016-05-10-11",
+  "sectionId": "politics",
+  "body": "Dozens of MPs\u2019 staff were given nearly \u00a31m in redundancy payments prior to the general election just weeks before returning to another publicly funded job, the expenses watchdog has disclosed.  Analysis from the Independent Parliamentary Standards Authority (Ipsa) also showed that staff members related to MPs were paid on average \u00a35,600 more than unrelated staff members during the last parliament. The disclosures came in a report into MPs\u2019 winding-up costs just before the last general election. The report shows 125 staff members received \u00a3925,000 in tax-free redundancy payments with a break of employment of less than 10 weeks.  In each case, the staff member was made redundant as a result of their employer standing down or losing their seat at the election and entered into a new employment with a different MP within two months of their prior employment ending.  This amounts to 22.2% of all redundancy payments made. In 60.3% of these cases there was no break in employment at all. The watchdog also found that \u00a3647,700 was handed over as pay in lieu of notice (Pilon) to 289 staff members; however, between \u00a3379,800 and \u00a3435,200 could have been avoided if the MPs had issued notice earlier, Ipsa concluded.  In each case the staff member was paid for not working some or all of their notice period even though the MP had enough time to issue notice before their leaving date. This amounts to between 58.6% and 67.2% of all Pilon paid by departing MPs. \u201cMost [MPs] claimed significantly less than the maximum budget limit,\u201d Ipsa said. \u201cHowever, their status as the employer of their staff could have enabled them to confer financial advantage on their former employees, some of whom were connected parties, in a manner that is not reflective of conditions in the wider public sector or employment best practice. These are issues that we should seek to address.\u201d The body also identified a \u201csurge\u201d in the claims made by MPs for equipment just before election restrictions began. Rules put in place to restrict spending on equipment, such as computers, in the six-month run-up to the general election have led to an 84% drop over the period, according to the watchdog.  However, it found a significant increase in the weeks before the tighter regulations came into force. \u201cThere was a surge in spending just before the deadline,\u201d Ipsa said. \u201cCapital purchases in September were four times the normal rate.\u201d The Ipsa chairman, Sir Ian Kennedy, said: \u201cWe aim to make the scheme simpler and clearer, whilst retaining a robust approach to regulating MPs\u2019 business costs and expenses and a commitment to supporting MPs in their parliamentary duties.  \u201cThere are places where we believe that we need to strengthen the rules to assure ourselves that public money is being spent appropriately; there are others where there is clear compliance and we can simplify overly restrictive rules. \u201cWe also wish to examine the rules relating to claims made just before and after general elections, in the light of our experience in 2015. We have not made any commitment to change any part of the scheme. It is important for us to consult widely and openly.\u201d",
+  "webTitle": "MPs\u2019 staff given redundancy payments weeks before starting new Commons jobs",
+  "webPublicationDate": "2016-05-10T23:01:43Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/11/mps-staff-given-redundancy-payments-weeks-before-starting-new-commons-jobs",
+  "keyword": [
+    {
+      "webTitle": "MPs' expenses",
+      "id": "politics/mps-expenses",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Public services policy",
+      "id": "society/policy",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Public sector pay",
+      "id": "society/public-sector-pay",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "House of Commons",
+      "id": "politics/houseofcommons",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Rajeev Syal",
+      "id": "profile/rajeev-syal"
+    }
+  ],
+  "guardianId": "politics/2016/may/11/mps-staff-given-redundancy-payments-weeks-before-starting-new-commons-jobs"
+}

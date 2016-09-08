@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/culture/2016/may/27/three-of-the-best-dance",
+  "id": "2016-05-27-173",
+  "sectionId": "culture",
+  "body": "1 Betroffenheit This collaboration between choreographer Crystal Pite and director Jonathon Young explores dark themes including grief, trauma and addiction. Sadler\u2019s Wells, EC2, Tue & Wed 2 Royal Ballet: Mixed Bill  The last programme in the Royal\u2019s current season includes a second outing for Christopher Wheeldon\u2019s finely crafted Within The Golden Hour. Royal Opera House, WC2, Sat to 11 Jun 3 Balletboyz: Life The all-male company shines in this superb double bill of Pontus Lidberg\u2019s emotionally charged Rabbit and Fiction, Javier de Frutos\u2019s wickedly funny musing on his own death. Lichfield, Tue; Cheltenham, Wed; Cambridge, Fri & 4 Jun",
+  "webTitle": "Three of the best\u2026 dance performances this week",
+  "webPublicationDate": "2016-05-27T12:00:03Z",
+  "webUrl": "https://www.theguardian.com/culture/2016/may/27/three-of-the-best-dance",
+  "keyword": [
+    {
+      "webTitle": "Dance",
+      "id": "stage/dance",
+      "sectionId": "stage",
+      "sectionName": "Stage"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Stage",
+      "id": "stage/stage",
+      "sectionId": "stage",
+      "sectionName": "Stage"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Judith Mackrell",
+      "id": "profile/judithmackrell"
+    }
+  ],
+  "guardianId": "culture/2016/may/27/three-of-the-best-dance"
+}

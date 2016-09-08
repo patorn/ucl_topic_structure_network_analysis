@@ -1,0 +1,70 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/21/egyptair-flight-ms804-smoke-detected-in-minutes-before-crash",
+  "id": "2016-05-21-104",
+  "sectionId": "world",
+  "body": "Smoke was detected in multiple places on board the missing EgyptAir flight MS804 minutes before it crashed, French investigators have confirmed, as the Egyptian military released pictures of the plane\u2019s debris. Signs of smoke were picked up in a toilet and in the aircraft\u2019s electronics, according to data from the Aircraft Communications Addressing and Reporting System (Acars), which routinely transmits data to airlines about the condition of their planes. As the search for the plane\u2019s flight recorders continued, the Egyptian military released pictures of some the debris recovered on Friday. Photographs of a life vest, parts of the plane\u2019s chairs and other wreckage were posted on Facebook. In France, investigators confirmed the data about smoke warnings that was first reported by the website Aviation Herald, while the French foreign minister Jean-Marc Ayrault said no theory on the cause of the crash has been ruled out. \u201cAt this time ... all theories are being examined and none is favoured,\u201d he said after meeting with relatives of victims. The warnings came at about 2.26am local time on Thursday, just before air traffic controllers lost contact with the plane, which plunged into the Mediterranean killing all 66 on board during a scheduled flight from Paris to Cairo.     A life vest from EgyptAir flight MS804, shown in a picture posted on the Facebook page of the Egyptian armed forces spokesman. Photograph: AP    David Learmount, a consulting editor at Flight Global, said the data presented the beginning of a sequence of events that could be \u201cthe answer to what happened\u201d, but he could not confirm whether the fire was triggered by an act of terrorism or an electrical fault.  \u201cThere\u2019s a report of smoke in the forward lavatory [and] a minute later there\u2019s smoke in the avionics bay, which is very worrying; and then two minutes later the flight control computers, one after the other, start to fail,\u201d Learmount told BBC Radio 4\u2019s Today programme. \u201cNow the question we are left with is did this start with an ordinary electrical fault, a short circuit which started a fire, or was the fire started deliberately with a small explosion or an incendiary device? \u201cIt could still be terrorism but it looks as if the aircraft went out of control because the controls were literally burning up.  But we don\u2019t know if it\u2019s terrorism that started this or an electrical fault.\u201d   EgyptAir locator map   Shaker Kelada, the former head of Egypt\u2019s plane crash investigations unit, cautioned against reading too much into the data. \u201cAlone, it means nothing. It\u2019s the last four seconds at the end of the transmission. If it\u2019s an indication of anything it could be a followup to an explosion. It could also happen if someone smokes in the cockpit or the bathroom. But there was no warning in the cockpit. \u201cThis could be the first indication of a bomb. Or it can be unrelated. Since we don\u2019t have any further information we cannot tell anything.\u201d Greece\u2019s lead air accident investigator Athanasios Binis said on Saturday that the search had been narrowed to a 900-square mile area, approximately 290km north of Alexandria. \u201cThat is where we are focusing and the sea there is between 7,500-10,000ft deep. Our priority, now, is to find the black boxes and as much wreckage as possible.\u201d  Investigators were still unclear whether the plane\u2019s sudden drop in altitude was controlled or not, he added. \u201cWe still don\u2019t know how it dropped from 37,000ft to 15,000ft or whether the pilot had tried to control it. It seems that they had a series of technical malfunctions before they lost control but what caused that we have yet to discover.\u201d  The passengers included 30 Egyptians, 15 French citizens, two Iraqis, two Canadians, and citizens from Algeria, Belgium, Britain, Chad, Portugal, Saudi Arabia and Sudan. They included a boy and two babies. Seven crew members and three security personnel were also on board.           Missing EgyptAir flight: what we know so far    Ayrault, who was joined by Egypt\u2019s ambassador to France at the meeting with passengers\u2019 relatives on Saturday, said: \u201cI strongly emphasised the desire of the French authorities to tell the entire truth about what happened. It\u2019s a legitimate and essential expectation for all the families.\u201d The meeting took place \u201cin a climate of intense emotion and great dignity,\u201d he said. Ayrault said finding the plane was a priority, along with finding black box recorders. A spokesman for France\u2019s Bureau of Investigations and Analysis told AFP on Saturday: \u201cThere were Acars messages emitted by the plane indicating that there was smoke in the cabin shortly before data transmission broke off.\u201d     A still taken from an Egyptian military video shows navy personnel looking for possible wreckage of flight MS804. Photograph: EPA    The spokesman said it was \u201cfar too soon to interpret and understand the cause of Thursday\u2019s accident as long as we have not found the wreckage or the flight data recorders\u201d. The plane had taken a normal course through Greek airspace before abruptly taking sharp turns. The plane crashed at about 2.30am local time on Thursday while carrying 56 passengers, including Briton Richard Osman, and 10 crew. All those on board died. Despite theories that a bomb may have been smuggled on board, no claim of responsibility has so far been made by Islamic State or other terrorist groups.  Additional reporting by Lara El Gibaly in Cairo",
+  "webTitle": "EgyptAir flight MS804: smoke detected in 'multiple locations' before crash",
+  "webPublicationDate": "2016-05-21T11:53:05Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/21/egyptair-flight-ms804-smoke-detected-in-minutes-before-crash",
+  "keyword": [
+    {
+      "webTitle": "EgyptAir flight MS804",
+      "id": "world/egyptair-flight-ms804",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Plane crashes",
+      "id": "world/plane-crashes",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Egypt",
+      "id": "world/egypt",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Africa",
+      "id": "world/africa",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "France",
+      "id": "world/france",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Middle East and North Africa",
+      "id": "world/middleeast",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jamie Grierson",
+      "id": "profile/jamie-grierson"
+    },
+    {
+      "webTitle": "Helena Smith",
+      "id": "profile/helenasmith"
+    }
+  ],
+  "guardianId": "world/2016/may/21/egyptair-flight-ms804-smoke-detected-in-minutes-before-crash"
+}

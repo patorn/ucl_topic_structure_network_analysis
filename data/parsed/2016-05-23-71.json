@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/23/rory-mcilroy-rio-olympics-zika-threat",
+  "id": "2016-05-23-71",
+  "sectionId": "sport",
+  "body": "Rory McIlroy has admitted to concerns over the Zika virus\u2019s threat to the Olympic Games, conceding for the first time he may reconsider his participation in Rio this summer. The four-time major winner is due to play golf for Ireland in Brazil and has previously spoken of his desire to see the sport embraced on its return to the Games. However, with rising coverage of Zika\u2019s potential impact, the 27-year-old has admitted to a personal dilemma. The virus is said to be particularly dangerous for those looking to have children. Speaking to the BBC on Monday, McIlroy said he is \u201cmonitoring\u201d the situation. His body language was arguably more telling than his words. McIlroy said: \u201cThere\u2019s going to be a point in the next couple of years where we [McIlroy and his fianc\u00e9e, Erica Stoll] are going to have to think about starting a family. Right now I\u2019m ready to go but I don\u2019t want anything to affect that.\u201d Pressed on whether that meant he could withdraw, McIlroy added: \u201cI mean, yeah \u2026Right now I am going and looking forward to it.\u201d Vijay Singh, Marc Leishman, Adam Scott, Louis Oosthuizen and Charl Schwartzel have already said they will not feature in Rio. The absence of McIlroy would be even more keenly felt by event organisers, with golf\u2019s longer-term Olympic future still to be determined. \u201cAs it gets closer, I am relishing the thought of going down there and competing for gold,\u201d McIlroy said. \u201cBut I have been reading a lot of reports about Zika and there have been some articles coming out saying that it might be worse than they are saying. I have to monitor that situation. \u201cI am actually going to get my injections on Wednesday. At least I will be immunised for whatever \u2026 if I do get bitten by a mosquito down there.\u201d   Related: Rory McIlroy produces sensational finish to win his first Irish Open",
+  "webTitle": "Rory McIlroy says he could withdraw from Rio Olympics over Zika threat",
+  "webPublicationDate": "2016-05-23T18:13:32Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/23/rory-mcilroy-rio-olympics-zika-threat",
+  "keyword": [
+    {
+      "webTitle": "Rory McIlroy",
+      "id": "sport/rory-mcilroy",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Rio 2016",
+      "id": "sport/rio-2016",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Olympic Games",
+      "id": "sport/olympic-games",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Zika virus",
+      "id": "world/zika-virus",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Golf",
+      "id": "sport/golf",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ewan Murray",
+      "id": "profile/ewanmurray"
+    }
+  ],
+  "guardianId": "sport/2016/may/23/rory-mcilroy-rio-olympics-zika-threat"
+}

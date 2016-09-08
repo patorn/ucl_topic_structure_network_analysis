@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/14/max-verstappen-red-bull-spanish-grand-prix-daniel-ricciardo-christian-horner",
+  "id": "2016-05-14-81",
+  "sectionId": "sport",
+  "body": "The prodigy that is Max Verstappen gave further evidence that he is a Formula One world champion of the future when he fully justified his upgrade to Red Bull\u2019s top team. The 18-year-old Dutch sensation, who bumped Daniil Kvyat out of the team last week, gave his senior colleague Daniel Ricciardo a tough time in qualifying for Sunday\u2019s Spanish Grand Prix, finishing faster in both Q1 and Q2.   Related: Max Verstappen\u2019s brilliance always spelt end for Daniil Kvyat at Red Bull | Paul Weaver    The Australian Ricciardo ultimately prevailed to take third place on the grid but Verstappen made it a second row lockout by finishing ahead of the two Ferraris. Christian Horner, the team principal, said: \u201cTo lock out the second row, the boys have done a magic job there. Daniel Ricciardo\u2019s last lap was pretty awesome and Max, well what can you say \u2013 it justifies why he is in that seat.\u201d Ricciardo looked relieved and said: \u201cI\u2019m really happy to be in front of both Ferraris. Max was doing really good \u2013 we are both on the second row so that\u2019s pretty awesome. We chipped away at it and it took a bit of time to come. I knew I had the pace and knew I could do it but it was just about putting it together. I did what I had to do, so I was really happy.\u201d In the morning, Verstappen had looked very much at home in his new car, beating Ricciardo by 0.097sec. But there was more misery for the demoted Kvyat, who struggled to keep up with his new Toro Rosso colleague Carlos Sainz. While Sainz made it to Q3 and ultimately qualified eighth, the Russian was eliminated in Q2.",
+  "webTitle": "Max Verstappen justifies Red Bull upgrade in Spanish Grand Prix qualifying",
+  "webPublicationDate": "2016-05-14T16:27:43Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/14/max-verstappen-red-bull-spanish-grand-prix-daniel-ricciardo-christian-horner",
+  "keyword": [
+    {
+      "webTitle": "Red Bull",
+      "id": "sport/red-bull",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Toro Rosso",
+      "id": "sport/toro-rosso",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Formula One 2016",
+      "id": "sport/formula-one-2016",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Formula One",
+      "id": "sport/formulaone",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Motor sport",
+      "id": "sport/motorsports",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Paul Weaver",
+      "id": "profile/paulweaver"
+    }
+  ],
+  "guardianId": "sport/2016/may/14/max-verstappen-red-bull-spanish-grand-prix-daniel-ricciardo-christian-horner"
+}

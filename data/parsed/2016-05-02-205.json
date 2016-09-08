@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/02/jeremy-corbyn-officially-confirmed-for-glastonbury",
+  "id": "2016-05-02-205",
+  "sectionId": "music",
+  "body": "Glastonbury Left Field 2016 lineup    Glastonbury have confirmed that Jeremy Corbyn is to appear at this year\u2019s festival. The Labour party leader is to take part in an \u201cin conversation with \u2026\u201d event in the Left Field on Sunday 26 June. Though his appearance had been pretty much certain, anyway \u2013 Left Field curator Billy Bragg had announced it \u2013 it had not been officially confirmed by the festival until now. Corbyn will be interviewed by the Guardian\u2019s John Harris.   Related: Can Glastonbury swing the EU referendum? Festival urges visitors to set up postal votes    The rest of the Left Field lineup sees several of the biggest current talking points in politics coming under scrutiny, with debates including: Is Feminism for Everybody?, Junior Doctors Unite and Strike, Immigration: A World Without Borders and #EUref: What Now for Europe and Britain? Live music in the Left Field area comes from artists including Rhoda Dakar, Billy Bragg, the King Blues, Tom Robinson, the Membranes and the Selecter. The festival, which takes place from 23-26 June at Worthy Farm in Somerset, is to be headlined by Muse, Adele and Coldplay.",
+  "webTitle": "Jeremy Corbyn officially confirmed for Glastonbury",
+  "webPublicationDate": "2016-05-02T09:09:38Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/02/jeremy-corbyn-officially-confirmed-for-glastonbury",
+  "keyword": [
+    {
+      "webTitle": "Glastonbury 2016",
+      "id": "music/glastonbury-2016",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Glastonbury festival",
+      "id": "music/glastonbury",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Festivals",
+      "id": "culture/festivals",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Music festivals",
+      "id": "music/music-festivals",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Jeremy Corbyn",
+      "id": "politics/jeremy-corbyn",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian music",
+      "id": "profile/guardianmusic"
+    }
+  ],
+  "guardianId": "music/2016/may/02/jeremy-corbyn-officially-confirmed-for-glastonbury"
+}

@@ -1,0 +1,102 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/greenslade/2016/may/23/daily-mail-publishes-correction-to-misleading-eu-migrants-story",
+  "id": "2016-05-23-158",
+  "sectionId": "media",
+  "body": "One of the eight newspaper articles that appeared in a dossier last week of so-called \u201chateful\u201d stories about the Brexit debate has been corrected. The Daily Mail carried a correction on page 2 on Monday for a story published in February this year which claimed that EU migrants were convicted of 700 crimes a week. It said:  \u201cIn common with other newspapers, an article on February 17 said that criminal \u2018convictions\u2019 for EU migrants had gone up by 40% in five years with 700 being found guilty every week.  In fact, as the article went on to explain, the figures related to \u2018notifications\u2019, which include breaches of court orders and appeals as well as convictions.\u201d  The correction was made following a complaint by InFacts, a group campaigning for Britain to remain in the European Union. A similar article was published by the Mail\u2019s companion website, Mail Online. It has now amended its original headline which said \u201cCriminal convictions for EU migrants leap by 40% in five years: 700 found guilty every week in the UK...\u201d to \u201cCriminal notifications for EU migrants leap by 40% in five years: now there are 700 every week in the UK...\u201d InFacts lodged a series of complaints with the Independent Press Complaints Organisation (Ipso) about ERU referendum stories in the Mail, Mail Online, the Daily Telegraph and Daily Express. But it held back from reporting the Mail and Mail Online over the criminal convictions story because Mail executives \u201cengaged in a dialogue\u201d with InFacts about the article. Ipso has received the \u201chateful eight\u201d dossier from InFacts, but I understand that its request for the complaints to be fast-tracked will be ignored. Should Ipso fail to broker corrections to the complained-of stories in the coming weeks, any ruling by the complaints committee - one way or the other - would not be published until after the 23 June referendum vote.",
+  "webTitle": "Daily Mail publishes correction to misleading EU migrants' story",
+  "webPublicationDate": "2016-05-23T13:58:39Z",
+  "webUrl": "https://www.theguardian.com/media/greenslade/2016/may/23/daily-mail-publishes-correction-to-misleading-eu-migrants-story",
+  "keyword": [
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Daily Mail",
+      "id": "media/dailymail",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Mail Online",
+      "id": "media/mail-online",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Migration",
+      "id": "world/migration",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Daily Telegraph",
+      "id": "media/dailytelegraph",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Daily Express",
+      "id": "media/dailyexpress",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "National newspapers",
+      "id": "media/national-newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers",
+      "id": "media/newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Ipso",
+      "id": "media/ipso",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Press regulation",
+      "id": "media/press-regulation",
+      "sectionId": "media",
+      "sectionName": "Media"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Roy Greenslade",
+      "id": "profile/roygreenslade"
+    }
+  ],
+  "guardianId": "media/greenslade/2016/may/23/daily-mail-publishes-correction-to-misleading-eu-migrants-story"
+}

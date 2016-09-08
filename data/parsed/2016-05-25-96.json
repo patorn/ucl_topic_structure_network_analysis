@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/25/top-liberian-politician-arrested-corruption-scandal-varney-sherman-uk-mining-firm-sable",
+  "id": "2016-05-25-96",
+  "sectionId": "business",
+  "body": "A Liberian lawyer accused of paying \u201cbribes\u201d on behalf of a company chaired by the former England cricketer Phil Edmonds has been arrested in connection with hundreds of thousands of dollars of political inducements that he allegedly distributed on behalf of a British mining firm. Varney Sherman is chairman of Liberia\u2019s ruling Unity party and is often described as the west African country\u2019s best-connected lawyer. He was arrested on Wednesday in the capital Monrovia after the launch of a government inquiry into the scandal. \u201cHe was arrested early this morning at his residence,\u201d a security source told Agence France-Presse. The move came after a cache of files was leaked to the campaign group Global Witness, which suggested that a Liberia business acquired by Sable Mining, a company created by Edmonds and business partner Andrew Groves, had a series of local officials on its pay roster. Edmonds and Groves \u201cstrenuously deny any wrongdoing\u201d. Sherman has denied the allegations. The leaked files, which have been seen by the Guardian, include a confidential email sent in August 2010 by Sherman in his role as Sable\u2019s lawyer. The message entitled \u201cCONFIDENTIAL \u2013 Sable Mining\u2019s Account with Sherman\u201d, lists a series of transactions, including: payments as high as $50,000 (\u00a334,000) that appear to have been made to several well-placed Liberian officials; plus a transfer for $75,000 that is labelled \u201cPayment (facilitation) revised PPCC Act\u201d \u2013 seemingly a reference to the country\u2019s Public Procurement and Concession Commission Act, which impacted on mining rights. Sable has confirmed to the Guardian that it funded the account and that the email was received by Groves and Heine van Niekerk, who it described as \u201cthe de facto chief operating officer for Sable in west Africa\u201d. Van Niekerk says he was not aware of any bribes being paid, while Sable said Groves paid no attention to the message. At the time of the payments, Groves was chief executive and Edmonds was chairman of Sable, which owned a 36.5% stake in the Liberia business. Sable increased its shareholding to 63.5% in 2011. Edmonds resigned as chairman of Sable in 2014, while Groves remains as chief executive. Global Witness has said the leaked documents show \u201cSable was able to bribe many of Liberia\u2019s top politicians, which is trying to turn the page on 14 years of civil war, corruption and most recently Ebola\u201d. Sable has said: \u201cAlthough many of the issues raised by Global Witness were subject to internal review a number of years ago, they have prompted a further review of all of these matters. We have found no evidence to support or justify this attack on the company or its directors, past and present.\u201d Sable did not add to its previous comments on Wednesday. Sherman\u2019s law firm, Sherman & Sherman, did not respond to efforts to contact it.",
+  "webTitle": "Top Liberian politician arrested in corruption scandal",
+  "webPublicationDate": "2016-05-25T16:36:49Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/25/top-liberian-politician-arrested-corruption-scandal-varney-sherman-uk-mining-firm-sable",
+  "keyword": [
+    {
+      "webTitle": "Mining",
+      "id": "business/mining",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Liberia",
+      "id": "world/liberia",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Simon Goodley",
+      "id": "profile/simongoodley"
+    }
+  ],
+  "guardianId": "business/2016/may/25/top-liberian-politician-arrested-corruption-scandal-varney-sherman-uk-mining-firm-sable"
+}

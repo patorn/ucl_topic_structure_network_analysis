@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/04/leopards-have-lost-75-percent-of-historical-habitat",
+  "id": "2016-05-04-176",
+  "sectionId": "environment",
+  "body": "The area of the world roamed by leopards has declined by three quarters over the last two and a half centuries, according to the most comprehensive effort yet to map the big cat. Researchers said they were shocked by the shrinking of the spotted hunter\u2019s range, and that the decline had been far worse for several of the nine subspecies of leopards and in some parts of the world. \u201cWe found the leopard had lost 75% of its historical habitat, we were blown away by that, it was much more than we feared,\u201d said Andrew Jacobson, a conservationist at the Zoological Society of London and lead author of a new study on their range published in the journal PeerJ. \u201cOur goal has to be to raise consciousness about the plight of the leopard, it\u2019s been flying under the conservation radar for a while. We hoped to raise its profile and say \u2018this cat needs your attention\u2019.\u201d The new work is the first known attempt to draw up a global, historical map of the leopard. Jacobson and researchers found that in 1750 it occupied a vast 35m sq km (13.5m sq mile) area throughout Africa, the Middle East and Asia. But after centuries of habitat loss and hunting caused by humans, that area shrank to just 8.5m sq km. Leopards in Asia have been particularly badly hit, with six regions losing over 95% of habitat where the species has been, in Jacobson\u2019s view, \u201calmost completely wiped out\u201d.  There appeared to be a clear link between Asia\u2019s economic development and the leopard\u2019s decline there, he said. \u201cSouth-east Asia and China have been developed for a long period of time and that\u2019s seriously constricted habitat in that area for decades. We worry this will be the trend we will see in Africa in coming decades, as economies grow.\u201d Even in Africa, the paper found, losses varied greatly, with their range decreasing 99% in North Africa, up to 95% in West Africa but only up to 51% in Southern Africa. Leopards are a famously reclusive but adaptable species, living nocturnally and hunting a wider variety of prey than other species. They also appear more capable than other big cats at adapting to environments transformed by humans, with leopards living in the outskirts of Mumbai and Johannesburg. There are no reliable population estimates but it is thought there are over a 100,000 left in Africa and perhaps fewer than 10,000 in Asia. Jacobson, who is also part of the National Geographic Society\u2019s Big Cats Initiative, said it was not too late for leopards to bounce back. \u201cI think the leopard can come back. The leopard is an incredibly adaptable animal, we just need to ease off on the hunting pressure, the persecution. They\u2019re cats, they breed pretty well.\u201d But greater conservation efforts were needed to stop them suffering the dramatic declines seen by some other species, he said. \u201cWhen people think of endangered animals they think of tigers, elephants, rhino. Thankfully the leopard isn\u2019t in that category yet, and if we are more proactive about them we can stop them being in there.\u201d The new study \u2013 Leopard (Panthera pardus) status, distribution, and the research efforts across its range \u2013 examined 6,000 records at 2,500 locations, from over 1,300 sources, including other scientific literature and experts\u2019 data, to draw up a detailed reconstruction of leopards\u2019 range today and in 1750.",
+  "webTitle": "Leopards have lost 75% of their historical habitat",
+  "webPublicationDate": "2016-05-04T13:20:21Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/04/leopards-have-lost-75-percent-of-historical-habitat",
+  "keyword": [
+    {
+      "webTitle": "Conservation",
+      "id": "environment/conservation",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Endangered habitats",
+      "id": "environment/endangered-habitats",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Wildlife",
+      "id": "environment/wildlife",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Endangered species",
+      "id": "environment/endangeredspecies",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Animals",
+      "id": "world/animals",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Africa",
+      "id": "world/africa",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Asia Pacific",
+      "id": "world/asia-pacific",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Adam Vaughan",
+      "id": "profile/adam-vaughan"
+    }
+  ],
+  "guardianId": "environment/2016/may/04/leopards-have-lost-75-percent-of-historical-habitat"
+}

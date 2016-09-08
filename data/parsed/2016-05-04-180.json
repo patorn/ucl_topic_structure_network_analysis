@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/greenslade/2016/may/04/london-evening-standard-plumps-for-zac-goldsmith-as-mayor",
+  "id": "2016-05-04-180",
+  "sectionId": "media",
+  "body": "This may come as little surprise to those who regard the London Evening Standard as the \u201cDaily Boris\u201d, but the paper has decided his successor as the capital\u2019s mayor should be... don\u2019t hold your breath... Zac Goldsmith. A leading article, \u201cOur manifesto for the next London mayor\u201d, compares the relative merits of Tory Goldsmith and Labour\u2019s Sadiq Khan. Both, evidently, \u201clack the charisma of Boris Johnson\u201d but the Standard says \u201cboth are public-spirited and intelligent individuals with sensible views on most of the big issues\u201d, which are \u201chousing, transport, crime \u2014 and clean air.\u201d The paper believes \u201cthere are significant areas of agreement between them\u201d and thinks Khan \u201chas fought the stronger and more combative campaign.\u201d But, over the past few weeks, it argues that Goldsmith \u201chas come into his own, and emerged as a candidate with interesting and thoughtful views.\u201d It continues:  \u201cThis paper has done its best to be even-handed over the course of this campaign and to do justice to all the candidates. Sadiq Khan has fought ably and well. He has sought to draw a coherent distinction between himself and his party under Jeremy Corbyn\u2019s leadership.  He has dealt creditably with questions about his perceived association with extremists by emphasising his commitment to deal robustly with those who seek to harm us. Indeed, it is to his advantage that he is Muslim: a London Muslim mayor would signify that this is a unified and cohesive city.\u201d  Even so, \u201con one key issue Zac Goldsmith has shown himself to be the stronger candidate. He has a vision of how London can grow in such a way as to be a green and beautiful city as well as a big and prosperous one.\u201d On housing, Khan accepts the need to build many more houses, especially affordable ones BUT Goldsmith has \u201cgiven thought to the question of how the housing stock is to grow in a way that will not diminish our quality of life. He has said that housing should be medium-rise rather than tall...\u201d On pollution, \u201cGoldsmith\u2019s commitment to the issue is of long standing... he promises to be London\u2019s greenest mayor, if elected.\u201d The Standard concedes that Goldsmith \u201cis not a combative politician and his wealthy background is a problem for some voters.\u201d But, says the paper which distributes 900,000 copies a day across the capital, it is Goldsmith\u2019s \u201cvision for the future of London as a safe, beautiful and harmonious city\u201d that is attractive. And it conclucdes:  \u201cOf the two strong candidates, he has more compelling ideas on tackling pollution and congestion. That is why we support him. Now our readers must make up their own minds.\u201d  Well, as I suggested, this desire to see a Conservative in City Hall is hardly likely to come as a shock. Just last week the Media Reform Coalition produced research showing that the Standard appeared to be acting as \u201cthe mouthpiece for the Conservative party.\u201d It found almost twice as many positive headlines about Goldsmith than for Khan, and that the Labour man was subjected to the strongest negative bias in the paper\u2019s coverage. In spite of that, the two latest opinion polls suggest that Khan is the favourite to attract most votes. So no-one can accuse the Standard\u2019s editor, Sarah Sands, of wanting to end up on the winning side.",
+  "webTitle": "London Evening Standard plumps for Zac Goldsmith as mayor",
+  "webPublicationDate": "2016-05-04T13:08:21Z",
+  "webUrl": "https://www.theguardian.com/media/greenslade/2016/may/04/london-evening-standard-plumps-for-zac-goldsmith-as-mayor",
+  "keyword": [
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "London Evening Standard",
+      "id": "media/london-evening-standard",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "London",
+      "id": "uk/london",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Zac Goldsmith",
+      "id": "politics/zac-goldsmith",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Sadiq Khan",
+      "id": "politics/sadiq-khan",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Newspapers",
+      "id": "media/newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Roy Greenslade",
+      "id": "profile/roygreenslade"
+    }
+  ],
+  "guardianId": "media/greenslade/2016/may/04/london-evening-standard-plumps-for-zac-goldsmith-as-mayor"
+}

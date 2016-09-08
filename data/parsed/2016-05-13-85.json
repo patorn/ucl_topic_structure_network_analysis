@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/13/horse-racing-tips-saturday-14-may",
+  "id": "2016-05-13-85",
+  "sectionId": "sport",
+  "body": "Bangor 1.55 Mazovian 2.30 Monsieur Gibraltar 3.05 Dexcite 3.40 Doitforthevillage 4.15 Mighty Missile 4.50 Rebel Benefit 5.20 Arctic Lady 5.50 Diamond Dust   Related: Midterm fifth as Frankie Dettori wins Dante Stakes on Wings Of Desire    Doncaster 5.45 Mysterial 6.15 Insurplus 6.45 Dubai Knight 7.15 Miss Van Gogh 7.45 Ultimate Star 8.15 Dandyleekie  8.45 Always Welcome Newbury 2.10 Global Applause 2.45 Carnachy 3.20 Dream Dubai 3.55 Belardo 4.30 Vivre Pour Vivre 5.05 Beautiful Morning  5.35 Arthenu Newmarket 1.50 Smaih 2.25 Justice Lucky 3.00 Desert Encounter 3.35 Thikriyaat 4.10 Suqoor 4.45 Coroberee 5.15 Escalating (nap) Thirsk 1.45 Queen Celeste 2.15 Bond Bombshell 2.50 Torrid (nb) 3.25 Trinity Star 4.00 Kimberella 4.35 Alpha Delphini 5.10 Gran Paradiso 5.40 Captain Dunne Uttoxeter 5.30 Royal Supremo 6.00 Two Smokin Barrels 6.30 Indian Stream 7.00 Castletown 7.30 Prince Of Thieves 8.00 Lee Side Lady 8.30 Rockportian",
+  "webTitle": "Horse racing tips: Saturday 14 May",
+  "webPublicationDate": "2016-05-13T16:52:36Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/13/horse-racing-tips-saturday-14-may",
+  "keyword": [
+    {
+      "webTitle": "Horse racing tips",
+      "id": "sport/horse-racing-tips",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Horse racing",
+      "id": "sport/horse-racing",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Chris Cook",
+      "id": "profile/chriscook"
+    }
+  ],
+  "guardianId": "sport/2016/may/13/horse-racing-tips-saturday-14-may"
+}

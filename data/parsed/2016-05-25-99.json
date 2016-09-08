@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/society/2016/may/25/four-in-hospital-legal-highs-rochdale",
+  "id": "2016-05-25-99",
+  "sectionId": "society",
+  "body": "Two people from a tobacconist in Greater Manchester in connection with the collapse of nine men after they consumed legal highs in Rochdale. The owner of Clear Vapour on Oldham Road in Rochdale was arrested on Tuesday, along with an employee, Greater Manchester police (GMP) said. The shop has now closed. On Tuesday in Rochdale, one man in his 30s had a heart attack and was left in a life-threatening condition. Police believe he had taken Clockwork Orange, a synthetic cannabinoid containing chemicals that are made to act like the active part of cannabis. Two other men, in their 30s and 40s, were also found in various states of consciousness around Rochdale on Tuesday afternoon. There were a series of incidents in the town on Friday and Saturday, which saw five men fall ill after taking legal highs known as Annihilation and Cherry Bombs. Police say the latest casualties had taken a variety of substances including Clockwork Orange, Pandora\u2019s Box and Kronic.  DI Lee Hopwood of Greater Manchester police said: \u201cDespite issuing warnings about the dangers of these so-called legal highs, these are now the latest people to have been taken ill after taking them in the past few days. I cannot stress enough how dangerous they are, and even though they might not be illegal, please do not take the risk. They can seriously harm you, and in the case of these men they are now in hospital because of it. \u201cPlease think about the effects of these substances and do not take them. If you think someone you know might have taken legal highs, then please get medical attention immediately.\u201d Paramedics say legal high consumption is one of the main problems they see in Manchester. Steve Hynes, Greater Manchester head of service for the North West Ambulance Service, said: \u201cWe have seen a marked increase in the number of calls received from people who have reacted badly to these drugs \u2026 Their symptoms can range from dizziness and nausea to confusion, cardiac problems and even death. Add to this the injuries they can sustain while under the influence, such as head injuries and broken bones.  \u201cBecause there are so many different substances on the market, it is difficult for us to know how to treat someone, as we don\u2019t know what chemicals they have ingested. This can delay treatment and have long-term consequences for the individual. We hope the introduction of this legislation will send out a clear message that when taking these legal highs you are risking your safety and even your life.\u201d Jessica White, community safety coordinator at the LGBT Foundation in Manchester, said legal highs were a particular problem in Manchester\u2019s Gay Village. \u201cRarely will a night go by when the Village Angels don\u2019t have to support someone who is suffering from the effects of taking legal highs on their night out,\u201d she said. \u201cOverdoses are sadly a common sight in the Village, with individuals often seen fainting and vomiting, or even having seizures as a consequence of legal high consumption.  \u201cThe Village Angels will often have to spend hours supporting people who are very unwell as a consequence. These substances are unsafe for individuals, and also often result in the Angels being unable to fully support the Village community for parts of the evening.\u201d People who have taken legal highs often display symptoms such as profuse sweating, racing heartbeat, extreme muscle tension, delirious ranting and very high body temperature.",
+  "webTitle": "Two arrested after nine men collapse from taking legal highs in Rochdale",
+  "webPublicationDate": "2016-05-25T16:27:21Z",
+  "webUrl": "https://www.theguardian.com/society/2016/may/25/four-in-hospital-legal-highs-rochdale",
+  "keyword": [
+    {
+      "webTitle": "Legal highs",
+      "id": "society/legal-highs",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Drugs",
+      "id": "society/drugs",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Greater Manchester",
+      "id": "uk/greater-manchester",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Helen Pidd",
+      "id": "profile/helenpidd"
+    }
+  ],
+  "guardianId": "society/2016/may/25/four-in-hospital-legal-highs-rochdale"
+}

@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/12/facebook-twitter-google-snapchat-news-bias",
+  "id": "2016-05-12-285",
+  "sectionId": "technology",
+  "body": "Silicon Valley is trying to make the news business as neutral as its code. The problem is the humans. Facebook learned this the hard way this week after a report that staff it contracted to manage its \u201ctrending\u201d articles section had suppressed certain stories, such pieces about Facebook or news of interest to conservative users.  CEO Mark Zuckerberg, who has spoken out against Donald Trump in the past, now faces an inquiry from US Senate Republicans over whether his company has misled users over its objectivity.   Related: Angry about Facebook censorship? Wait until you hear about the news feed    Yet a look around the technology industry suggests Facebook will not be the last firm to face such questions. In the past year, Apple, Twitter, Snapchat and Google have also built up news divisions filled with ex-journalists who are charged with making judgments about what is news. These people aren\u2019t computers. Like journalists working for more orthodox news organizations, they have biases, senses of humor and different interpretations of what constitutes news at any given moment.  Andrew Fitzgerald, the head of curation for Twitter\u2019s Moments service and a former journalist for al-Jazeera, crafted guidelines for how his team would navigate political balance. Moments attempts to form Twitter-based stories around major events by collecting what curators decide are the most relevant tweets for an event.  \u201cIndividual moments should be free from bias,\u201d it reads. \u201cWe will use data-driven decision making when choosing Tweets around controversial topics, and highlight the tweets already receiving the most engagement on Twitter.\u201d  But, like many journalists, Fitzgerald has a penchant for snark on Twitter. For instance, he recently posted a picture of himself trying to mimic Ted Cruz\u2019s trademark moue next to a picture of the former GOP presidential candidate.  His caption: \u201cI am the Zodiac killer,\u201d a joking reference to the frivolous internet meme that Cruz resembles a sketch of the famous uncaught murderer.     I am the Zodiac Killer pic.twitter.com/NaZB1AWo28\u2014 Andrew Fitzgerald (@magicandrew) May 3, 2016    Apple News editor Joseph Burgess, a former New York Times editor, has recently retweeted several articles and tweets which are critical of Donald Trump. As has Katy Byron, the managing editor for news at Snapchat and a former journalist of CNN and CNBC.  It\u2019s not that any of these posts are problematic. (The Guardian reporter who wrote this story has posted his own snarky comments about Trump, Apple and Facebook.)    An editorial company is built to withstand the tension of doing news, and a tech company is not.  Jay Rosen, media scholar     The issue for technology companies, which seek to get just as many millions of conservatives as liberals to use their products, is that curating the news carries political judgments that selling smartphones and promoting apps don\u2019t. And many seasoned news journalists can attest, such judgments, when being made by humans, can never be considered value-neutral.  Snapchat has seemed to acknowledge this with the hiring of experienced journalists that get interviews with major newsmakers, including a recent one with vice-president Joe Biden. Apple has tried to split the difference by having users select what types of stories they\u2019re interested in. Its editors then appear to help shape which stories users should see.  After Twitter launched Moments, media scholar Jay Rosen, who teaches at New York University, interviewed executives in charge of the news team. While the executives had a real passion for media, they were unwilling to give any sort of mission statement on how Twitter would document the \u201cbest\u201d of what\u2019s happening among users.  \u201cThere\u2019s a big resistance to digging through crucial editorial questions,\u201d Rosen said. \u201cAn editorial company is built to withstand the tension of doing news, and a tech company is not.\u201d That said, there isn\u2019t much specific evidence tech firms are actually producing biased curation of the news.  A snapshot on recent afternoon revealed Apple News featuring a piece by a Washington Post blogger about Donald Trump trying to keep his tax returns secret alongside another, from the conservative outlet, the Daily Caller, about how retired baseball pitcher \u201cCurt Schilling just DESTROYED Hillary Clinton\u201d with a personal Facebook post. Twitter Moments was promoting a collection of mean things Senator Elizabeth Warren said about Trump on Twitter and also that the presumptive GOP nominee had taken to calling Senator Bernie Sanders, \u201cCrazy Bernie\u201d. A spokeswoman said the Google News homepage \u201cis 100% algorithms\u201d, a fact that appears to mark it apart from its rivals. But the company also has its News Lab division, that features ex-journalists helping their former colleagues use Google tools to tell stories.  Social media firms have become more attuned to the commercial value of news in recent years although they have for the most part studiously avoided producing content. Instead, they seek to attract new users (and retain existing ones) through departments dedicated to curating the \u201cbest\u201d and \u201ctrending\u201d news of the day. The services, in effect, become front pages. To curate its trending news section, Facebook hired a series of part-time contractors, many of whom previously worked for news organizations. This month, Gizmodo reported these curators were pressured to suppress conservative news or stories about Facebook while inserting other articles.    Related: Think Facebook isn't political? Think again | Nellie Bowles    Facebook has denied the allegations but says it is investigating.  In 2015, Twitter launched its Moments collections and has some of the same contractors provided through the same temp agencies as Facebook to curate the sections. It\u2019s also hired several former journalists, including former New York Times editor-at-large Marcus Mabry, to help collect what is the best content surrounding trending events on the service.  The technology companies and their employees either declined or didn\u2019t return requests for comment.  Facebook at least appears to be intent on proving the accusations against it are incorrect. On Wednesday, Facebook trending featured a story about Duck Dynasty star Phil Robertson arguing transgender people shouldn\u2019t be allowed to use the bathroom of their choice. On Monday, it featured the Gizmodo article alleging it censored conservative news stories.",
+  "webTitle": "Facebook controversy shows journalists are more complicated than algorithms",
+  "webPublicationDate": "2016-05-12T10:00:02Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/12/facebook-twitter-google-snapchat-news-bias",
+  "keyword": [
+    {
+      "webTitle": "Facebook",
+      "id": "technology/facebook",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Twitter",
+      "id": "technology/twitter",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Internet",
+      "id": "technology/internet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Social networking",
+      "id": "media/socialnetworking",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Danny Yadron",
+      "id": "profile/danny-yadron"
+    }
+  ],
+  "guardianId": "technology/2016/may/12/facebook-twitter-google-snapchat-news-bias"
+}

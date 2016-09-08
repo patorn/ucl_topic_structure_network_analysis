@@ -1,0 +1,43 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/13/west-bromwich-albion-liverpool-match-preview",
+  "id": "2016-05-13-147",
+  "sectionId": "football",
+  "body": "With Liverpool\u2019s focus very much on Wednesday\u2019s Europa League final against Sevilla in Basel, J\u00fcrgen Klopp is likely to name an under-strength side for the final league game. That could help Tony Pulis\u2019s attempts to deliver some entertainment to Albion fans in their final match of a season in which they have steered clear of trouble but had precious few reasons to cheer. Paul Doyle Kick-off Sunday 3pm  Venue The Hawthorns Last season West Bromwich Albion 0 Liverpool 0 Referee Robert Madley This season G25, Y66, R5, 3.04 cards per game Odds H 6-4 A 2-1 D 12-5 West Bromwich Albion Subs from Myhill, Chester, Gardner, Field, McManaman, Sandro, Roberts, Lambert, Pritchard, Berahino, Anichebe Doubtful Morrison (hamstring) Injured Brunt (knee, Oct) Suspended None Form LLLDLD Discipline Y62 R4 Leading scorer Rond\u00f3n 8 Liverpool Subs from Mignolet, Sturridge, Can, Coutinho, Lovren, Firmino, Clyne, Tour\u00e9, Moreno, Milner, Lallana, Caulker, Brannagan, Chirivella, Can\u00f3s Injured Origi (ankle, 18 May), Henderson (knee, 18 May), Ings (knee, Aug), Gomez (knee, Aug), Rossiter (hamstring, unknown) Doubtful None Suspended None Form WWDLWD Discipline Y62 R3 Leading scorer Firmino 10",
+  "webTitle": "West Bromwich Albion v Liverpool: match preview",
+  "webPublicationDate": "2016-05-13T14:07:32Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/13/west-bromwich-albion-liverpool-match-preview",
+  "keyword": [
+    {
+      "webTitle": "West Bromwich Albion",
+      "id": "football/westbrom",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Liverpool",
+      "id": "football/liverpool",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Premier League",
+      "id": "football/premierleague",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [],
+  "guardianId": "football/2016/may/13/west-bromwich-albion-liverpool-match-preview"
+}

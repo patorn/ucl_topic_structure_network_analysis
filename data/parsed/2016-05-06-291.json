@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/society/2016/may/06/fewer-die-in-hospital-weekends-study-jeremy-hunt-doctors-contract",
+  "id": "2016-05-06-291",
+  "sectionId": "society",
+  "body": "Fewer people \u2013 not more \u2013 die in hospital at weekends than during the week, according to a major study which contradicts evidence cited by the health secretary, Jeremy Hunt, to justify the imposition of new contracts on junior doctors. Hunt has repeatedly stated that junior doctors must routinely work at weekends because the higher death rate is linked to lower staffing levels. When the Department of Health and the junior doctors\u2019 leaders failed to agree on weekend working, Hunt announced he would impose a new contract. But a team from Manchester University has found an apparently simple answer to the question of why the death rate rises at the weekend among patients admitted to hospital as an emergency. Their analysis looks at the numbers of people arriving in accident and emergency (A&E) as well as the numbers admitted to a bed. It finds that there is indeed a \u201cweekend effect\u201d, because fewer people are admitted and they are the sickest patients, leading to a higher death rate than in the week. In terms of actual numbers, the deaths are fewer. Prof Matt Sutton led the research, which looked at deaths in hospital within 30 days of admission. \u201cHospitals apply a higher severity threshold when choosing which patients to admit to hospital at weekends \u2013 patients with non-serious illnesses are not admitted, so those who are admitted at the weekend are on average sicker than during the week and more likely to die regardless of the quality of care they receive,\u201d he said. \u201cAs a result, the figures comparing death rates at weekends and weekdays are skewed. The NHS has rushed to fix a perceived problem that further research shows does not exist.\u201d Hunt\u2019s argument was bolstered by a study published in the British Medical Journal last September, one of the authors of which was NHS England\u2019s medical director, Prof Sir Bruce Keogh. It looked only at patients admitted to hospital \u2013 not the numbers coming through A&E. It also found that the patients admitted at the weekend were sicker than in the week, but suggested that having more staff working could reduce the death rate. The team from the University of Manchester\u2019s Centre for Health Economics dispute that. They looked at all patients attending A&E departments between April 2013 and February 2014. They say the earlier study did not take into account the drop in the numbers. At the weekend, they have found, hospitals admitted 7% fewer patients. Patients can be admitted as emergencies to hospital either from A&E or directly by their GP. The Manchester study shows a drop in both types of admissions. A&E departments admitted 5% fewer patients and GP admissions dropped by a massive 61% at the weekend.  Overall, says the study, published in the Journal of Health Services Research and Policy, patients attending A&E at the weekend are no more likely to die than patients attending A&E during the week. Rachel Meacock, lead author of the study, said they were surprised by the findings. They embarked on the study following research which found that seven-day working would not be cost-effective for the NHS \u2013 a paper which, she said, had been largely ignored. The latest study, she said, \u201cwas just trying to understand it a bit more. We had this weekend effect and nobody understands the cause of it. \u201cThe so-called \u2018weekend effect\u2019 is a statistical artefact and extending services will not reduce the number of deaths. Instead, the most likely impact of the planned service extensions will be an increase in the number of less severely ill patients who are admitted at the weekend, further pushing up NHS costs.\u201d  NHS England said: \u201cThis analysis confirms the fundamental point that patients admitted to hospital at weekends are sicker, and need to have the right medical cover available, ensuring patients can see a senior doctor as soon as possible.\u201d",
+  "webTitle": "Fewer people die in hospital at weekends, study finds",
+  "webPublicationDate": "2016-05-06T08:00:19Z",
+  "webUrl": "https://www.theguardian.com/society/2016/may/06/fewer-die-in-hospital-weekends-study-jeremy-hunt-doctors-contract",
+  "keyword": [
+    {
+      "webTitle": "NHS",
+      "id": "society/nhs",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Health policy",
+      "id": "politics/health",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Doctors",
+      "id": "society/doctors",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Jeremy Hunt",
+      "id": "politics/jeremy-hunt",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Sarah Boseley",
+      "id": "profile/sarahboseley"
+    }
+  ],
+  "guardianId": "society/2016/may/06/fewer-die-in-hospital-weekends-study-jeremy-hunt-doctors-contract"
+}

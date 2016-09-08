@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/04/wada-insists-laboratory-bans-testing-rio-olympics",
+  "id": "2016-05-04-33",
+  "sectionId": "sport",
+  "body": "The World Anti-Doping Agency has insisted that testing in the run-up to the Rio Olympic Games will not be adversely affected despite four accredited laboratories now being suspended. On Tuesday the Bloemfontein laboratory in South Africa \u2013 the only Wada\u2011accredited lab in Africa \u2013 was added to a list that includes Lisbon and Beijing. The Moscow laboratory\u2019s accreditation was revoked last year following revelations of state\u2011sponsored doping in Russia. The ruling means all samples previously examined in Bloemfontein, which can appeal against its suspension to the court of arbitration for sport, must be sent for analysis in a different continent, with 30 other laboratories still accredited worldwide by Wada. A spokesman from the organisation said: \u201cThere is a very robust pre-Rio anti-doping programme\u200b in place. Central to this is the establishment of an intelligence group that will have oversight of all pre\u2011Games testing conducted by national anti-doping organisations and international federations. \u201cThe work of this intelligence group will allow for target testing, and ensure that there are no gaps in the pre-Games programme. \u201cOnce the Olympic Village opens, the information obtained by this intelligence group will be transferred to the IOC, Brazilian Anti-Doping Agency, Wada Independent Observer team and other experts to ensure that effective testing continues during that period and the Games itself. \u201cDuring the period of suspension for the Bloemfontein, Lisbon and Beijing laboratories, all samples will be sent securely to another Wada-accredited laboratory where they will be analysed, ensuring that athletes can have full confidence in continued high-quality sample analysis and the wider anti-doping system. \u201cWhenever a laboratory does not meet the stringent standards set by Wada, we have the ability to suspend the laboratory\u2019s accreditation \u2013 this demonstrates the importance of upholding the highest standards, so that athletes retain full confidence in the system.\u201d In 2013 Wada suspended the accreditation for the laboratory in Rio, because of repeated failures to meet standards. Concerns were raised before the 2014 World Cup in Brazil but samples were sent to Switzerland for examination.   Related: Beijing\u2019s anti-doping laboratory says Wada suspension due to \u2018oversight\u2019",
+  "webTitle": "Wada insists laboratory bans will not affect testing before Rio Olympics",
+  "webPublicationDate": "2016-05-04T20:15:47Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/04/wada-insists-laboratory-bans-testing-rio-olympics",
+  "keyword": [
+    {
+      "webTitle": "Wada",
+      "id": "sport/wada",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Drugs in sport",
+      "id": "sport/drugs-in-sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Rio 2016",
+      "id": "sport/rio-2016",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Olympic Games",
+      "id": "sport/olympic-games",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "South Africa",
+      "id": "world/southafrica",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Africa",
+      "id": "world/africa",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "James Riach",
+      "id": "profile/james-riach"
+    }
+  ],
+  "guardianId": "sport/2016/may/04/wada-insists-laboratory-bans-testing-rio-olympics"
+}

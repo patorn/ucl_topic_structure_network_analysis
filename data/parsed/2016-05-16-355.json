@@ -1,0 +1,84 @@
+{
+  "apiUrl": "https://content.guardianapis.com/australia-news/2016/may/16/direct-action-funds-likely-spent-on-projects-that-would-have-happened-anyway",
+  "id": "2016-05-16-355",
+  "sectionId": "australia-news",
+  "body": "The government\u2019s $2.55bn emissions reduction fund, which pays greenhouse gas emitters to pollute less, will inevitably pay for reductions that would have happened anyway, for the same reason that secondhand car markets are full of lemons, an economic analysis has concluded. The centrepiece of the government\u2019s Direct Action climate policy is a reverse-auction, in which polluters bid for funding to pollute less. But the government could not know for sure whether those reductions would have happened anyway, the economist Paul Burke from the Australian National University has argued in the journal Economic Papers. And any reduction scheme that was going to go ahead anyway would be able to outbid schemes that required funding to go ahead, he wrote. \u201cThey have a cost advantage that makes them well placed to win the auction,\u201d Burke said.   Related: Greg Hunt hasn't a lot to show for $660m spent on reducing greenhouse emissions    Similar criticism of Direct Action has been raised before, but had received little attention from economists, Burke said.  \u201cAnyway projects\u201d, as Burke called them, were likely win the reverse auction for the same reason that buyers of secondhand cars were likely to buy a lemon. In both cases, the buyer could not know whether the product was good quality, and the seller with a bad product could undercut the rest of the market. The government used dozens of methods to avoid paying for abatement that would have happened anyway, but it could not know what a company was planning to do, Burke said. In his discussions with local stakeholders, he said, some recipients of emissions reduction fund money described it as \u201ccream\u201d and \u201ctoo good to be true\u201d. Burke said it was entirely possible some projects would end up, perversely, funding emissions increases. An example of that could be farmers getting a payment not to clear one piece of land, and using that money to fund the clearing of land elsewhere. Examining some of the projects that were awarded payments in the first two rounds of the auction, Burke found farmers were often paid more than the value of their land simply not to clear parts of it. In some cases, he said, the incentive for the farmers to clear the land was low, and it would have been expensive, so might not have happened anyway.  Energy efficiency projects that upgraded lighting in supermarkets or reduced fuel use in vehicles fell into a similar category. \u201cThat\u2019s the sort of activity that private companies are supposed to do,\u201d Burke said. \u201cCompanies do do this sort of activity \u2013 it\u2019s not uncommon for companies to replace their vehicles with newer or more fuel efficient ones,\u201d he said. \u201cNot all the projects are like this, but it\u2019s a pity that some projects can get into the scheme when they are not delivering true additional abatements,\u201d he said.   Related: Two-thirds of Australia's emissions fund spent for just 7% of 2030 target    He said a carbon price or an emissions trading scheme was more effective, partly because it didn\u2019t require the government to know unknowable facts such as a company\u2019s plans. \u201cThe previous policy of carbon pricing was a more effective approach than Direct Action,\u201d he said. Labor has promised to implement a type of emissions trading scheme if elected in July. The environment minister, Greg Hunt, said he rejected the report \u201cclearly, categorically, absolutely\u201d. \u201cThe head of the emissions reduction assurance committee is from ANU \u2013 Professor Andrew Macintosh. He takes a very different view to one of his colleagues. And what we\u2019ve seen is 143m tonnes of emissions reduction allocated by the independent Clean Energy Regulator. These are using overwhelmingly Labor\u2019s methods, but for new projects.\u201d",
+  "webTitle": "Direct Action funds 'spent on projects that would have happened anyway'",
+  "webPublicationDate": "2016-05-16T04:32:13Z",
+  "webUrl": "https://www.theguardian.com/australia-news/2016/may/16/direct-action-funds-likely-spent-on-projects-that-would-have-happened-anyway",
+  "keyword": [
+    {
+      "webTitle": "Australian politics",
+      "id": "australia-news/australian-politics",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Climate change",
+      "id": "environment/climate-change",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Emissions trading",
+      "id": "environment/emissionstrading",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Greenhouse gas emissions",
+      "id": "environment/carbon-emissions",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Farming",
+      "id": "environment/farming",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Liberal party",
+      "id": "australia-news/liberal-party",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Coalition",
+      "id": "australia-news/coalition",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Labor party",
+      "id": "australia-news/labor-party",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Business (Australia)",
+      "id": "australia-news/business-australia",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Michael Slezak",
+      "id": "profile/michael-slezak"
+    }
+  ],
+  "guardianId": "australia-news/2016/may/16/direct-action-funds-likely-spent-on-projects-that-would-have-happened-anyway"
+}

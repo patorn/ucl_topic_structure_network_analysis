@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media-network/2016/may/05/google-deepmind-patient-data-privacy-data-sharing",
+  "id": "2016-05-05-184",
+  "sectionId": "media-network",
+  "body": "Data-sharing has become a new front line in battles over privacy in healthcare, raising crucial questions about the ways in which information about patients is shared within and between the public and private sectors. Given that this is not \u201cpatient data\u201d but \u201cpatients\u2019 data\u201d, handling large personal private datasets is a highly delicate issue. The manner in which they are shared should be subject to the scrutiny of those whose data is exchanged, and how this is done should be a matter for open public debate.  But the fact that it required a leaked document to reveal the true scale of the recently announced high-profile data-sharing deal between the Royal Free Hospital and the UK\u2019s most successful AI company, Google DeepMind, does not bode well. #DataSavesLives is the hashtag of a campaign run by Manchester\u2019s Health e-Research Centre, a centre of excellence in delivering public health through precision medicine. The challenge for those of us who believe in this message is delivering on this promise while balancing privacy concerns of the individual. An example of where the balance can be misjudged was the NHS care.data scheme, which suffered a disastrous launch. In a major misjudgement of patients\u2019 wishes, this intended to offer a \u201cone-time only\u201d opt-out. While I am optimistic about the long-term prospects for saving lives through data, my feelings on care.data\u2019s launch were similar to those of Ben Goldacre who felt severely let down by its deployment.  There was a wave of optimism at its potential, followed by the horror of watching the slow car crash of the reality. It may be that there were a number of lessons learned from that fiasco. But what shocked many in the data analysis community was the extent to which those in charge were insensitive to the pitfalls of data sharing. It is one of my main research goals to be able to access patient data to produce insights on disease. But I don\u2019t want to do it under any circumstances. Principled approaches to sharing data that protect privacy are the subject of ongoing research. Under current arragements, the NHS is the arbiter of our data, but it seems ill equipped and often stumbles as it moves forward.  Control of patients\u2019 data should be returned to the patient. We should welcome the interest of private companies in delivering solutions, but we should not suppress the interest of patients in data that originated through their treatments. Data can save lives, and for that reason there would seem to be a moral duty to apply \u201cbest of class\u201d approaches to its analysis. This is vital to ensure we are obtaining the best individual outcomes. In a rapidly moving field, it\u2019s highly unlikely that any individual company has all the correct people to provide the right solutions without any interaction with the wider international community. The wider community also provides oversight and comment. However, doing all this requires working in the open. In practice, there is a natural, and important, tension between the nature of that openness and the need for individual privacy.  This circle is difficult to square, but private companies, in particular, have no incentive to broach this problem. The very existence of privacy concerns allows them to lock down their activities, meaning they can then market themselves without any oversight of what they are doing. Curing illness through biomedical intervention, or the provision of drugs, is carefully regulated. But we may be entering a period where digitally driven interventions become just as important. Imagine if drugs trials were done in private, with no independent verification of methodology or results. That would be unacceptable. Unfortunately, it seems algorithmic deployment is unlikely to be subject to the same public scrutiny that drugs trials are. These are big challenges that require innovative thinking. Innovative thinking is what DeepMind has already shown itself capable of delivering. However, the challenges of health data also require sophisticated thinking and an awareness of the pitfalls of patient privacy. Data can save lives, but data can also destroy lives. The best way to ensure that the balance is shifted to the former is not to sign backroom deals to share data, but to interact openly with the wider community that shares the same vision to deliver on the promise of that data. To get weekly news analysis, job alerts and event notifications direct to your inbox, sign up free for Media and Tech Network membership. All Guardian Media and Tech Network content is editorially independent except for pieces labelled \u201cPaid for by\u201d \u2013 find out more here.",
+  "webTitle": "Google's NHS deal does not bode well for the future of data-sharing",
+  "webPublicationDate": "2016-05-05T12:59:20Z",
+  "webUrl": "https://www.theguardian.com/media-network/2016/may/05/google-deepmind-patient-data-privacy-data-sharing",
+  "keyword": [
+    {
+      "webTitle": "Media & Tech Network",
+      "id": "media-network/media-network",
+      "sectionId": "media-network",
+      "sectionName": "Media Network"
+    },
+    {
+      "webTitle": "Google",
+      "id": "technology/google",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Alphabet",
+      "id": "technology/alphabet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "NHS",
+      "id": "society/nhs",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Neil Lawrence",
+      "id": "profile/neil-lawrence"
+    }
+  ],
+  "guardianId": "media-network/2016/may/05/google-deepmind-patient-data-privacy-data-sharing"
+}

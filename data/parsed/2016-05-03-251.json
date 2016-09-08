@@ -1,0 +1,108 @@
+{
+  "apiUrl": "https://content.guardianapis.com/healthcare-network/2016/may/03/sunshine-rule-quick-guide",
+  "id": "2016-05-03-251",
+  "sectionId": "healthcare-network",
+  "body": "What is the Sunshine rule?  The rule, or rather set of initiatives, will mean senior medical staff in England and Wales will have to declare gifts and hospitality received from pharmaceutical companies, or they could be dismissed and or prosecuted under the Bribery Act. If found guilty, they may face unlimited fines or imprisonment. NHS clinical commissioning groups (CCGs) and NHS hospital trusts will be responsible for maintaining registers that will document the pharma-related business interests of medics, rather like the UK parliament\u2019s register of MPs\u2019 financial interests.  Why was it created?  A Telegraph investigation revealed that many NHS workers were directly benefiting from hospitality, gifts and payments or even directly working for pharmaceutical companies. It discovered that more than 130 NHS officials involved in assessing which drugs are given to patients were also acting as paid consultants to pharmaceutical companies. Even members of the government panel responsible for NHS drug procurement, the Pharmaceutical Market Support Group, were revealed to be receiving payment as consultants for large pharmaceutical companies. Don\u2019t they have something like this in the US already?  Yes. US manufacturers of drugs, medical devices and other biological products are required under federal law \u2013 the Physicians Payments Sunshine Act \u2013 to disclose payments and items of value given to physicians and teaching hospitals. The legislation applies to a range of doctors, operating in areas from dentistry to chiropractors. But medical residents (junior doctors), nurse practitioners and office staff are not included.   Related: How does the pharmaceutical industry work with healthcare professionals? Event    When will it come into force? This is difficult to establish. Different parts of the Sunshine rule will be coming into force at different times. As of 1 April 2016, there is a new clause in the NHS standard contract around conflicts of interest and transparency on gifts and hospitality. NHS England said it is still consulting on whether or not to introduce strengthened statutory guidance for CCGs, which would set out how they should \u201creinforce their own internal arrangements so that conflicts of interest are managed effectively\u201d. NHS England is also setting up what it describes as a \u201ctask and finish group\u201d to be chaired by Sir Malcolm Grant, which will \u201cdevelop a set of rules on how conflicts should be identified and managed, to be adopted across the health system\u201d. How do healthcare professionals feel about it? GPs are the most likely group of healthcare professionals to be affected by any rule changes, given their increased responsibilities for the commissioning of primary care services.  Prof Nigel Mathers, honorary secretary of the Royal College of General Practitioners, told the Guardian Healthcare Professionals Network: \u201cConflicts of interest (COIs) are inevitable but they are manageable. The important thing is that any COIs are declared and managed appropriately and transparently in order to maintain public confidence in healthcare professionals.\u201d He added that GPs are the most trusted healthcare professionals in the UK and that \u201cas a college we trust our members to declare COIs without the need for introducing new legislation, but of course, GPs will abide by any laws that are passed\u201d. What does the pharmaceutical industry have to say about it all?  The pharmaceutical industry has welcomed the Sunshine rule initiatives. The Association of the British Pharmaceutical Industry (ABPI) represents companies supplying around 90% of all medicines used by the NHS and it\u2019s happy to encourage what it describes as \u201ca common ambition for greater transparency in our relationships\u201d. It also points to efforts to promote openness about relationships between healthcare workers and the pharma industry, including the industry\u2019s longstanding code of practice. This code includes a range of activities from the appropriate use of direct mail to \u201cthe sponsorship of scientific and other meetings including payment of travel and accommodation expenses\u201d. And the Department of Health?  Having tasked NHS England with addressing issues of transparency around relationships with NHS workers and medical businesses, the Department of Health felt it was inappropriate to comment on the progress being made on the Sunshine rule. It highlighted previous comments made by the health secretary, Jeremy Hunt, in March outlining his hopes that new rules with stop extravagant hospitality and gifts from influencing commissioning in the NHS: \u201cFurther transparency in the way that decisions on how precious NHS resources are spent is welcome. These tough new rules will ensure every penny possible is directed to providing frontline patient care.\u201d Join the Healthcare Professionals Network to read more pieces like this. And follow us on Twitter (@GdnHealthcare) to keep up with the latest healthcare news and views.",
+  "webTitle": "The Sunshine rule: a quick guide",
+  "webPublicationDate": "2016-05-03T10:37:38Z",
+  "webUrl": "https://www.theguardian.com/healthcare-network/2016/may/03/sunshine-rule-quick-guide",
+  "keyword": [
+    {
+      "webTitle": "Healthcare Network",
+      "id": "healthcare-network/healthcare-network",
+      "sectionId": "healthcare-network",
+      "sectionName": "Healthcare Professionals Network"
+    },
+    {
+      "webTitle": "Work practices",
+      "id": "healthcare-network/work-practices",
+      "sectionId": "healthcare-network",
+      "sectionName": "Healthcare Professionals Network"
+    },
+    {
+      "webTitle": "Policy",
+      "id": "healthcare-network/policy",
+      "sectionId": "healthcare-network",
+      "sectionName": "Healthcare Professionals Network"
+    },
+    {
+      "webTitle": "Careers",
+      "id": "healthcare-network/careers",
+      "sectionId": "healthcare-network",
+      "sectionName": "Healthcare Professionals Network"
+    },
+    {
+      "webTitle": "Doctors",
+      "id": "society/doctors",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "NHS",
+      "id": "society/nhs",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Health policy",
+      "id": "politics/health",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Jeremy Hunt",
+      "id": "politics/jeremy-hunt",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Public services policy",
+      "id": "society/policy",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "GPs",
+      "id": "society/gps",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "England",
+      "id": "healthcare-network/england",
+      "sectionId": "healthcare-network",
+      "sectionName": "Healthcare Professionals Network"
+    },
+    {
+      "webTitle": "Wales",
+      "id": "healthcare-network/wales",
+      "sectionId": "healthcare-network",
+      "sectionName": "Healthcare Professionals Network"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Anna Isaac",
+      "id": "profile/anna-isaac"
+    }
+  ],
+  "guardianId": "healthcare-network/2016/may/03/sunshine-rule-quick-guide"
+}

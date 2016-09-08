@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/09/internal-report-slams-culture-in-uk-foreign-office",
+  "id": "2016-05-09-31",
+  "sectionId": "politics",
+  "body": "A scathing internal report into what is described as an often hierarchical, amateurish and under informed British diplomatic service has been issued by the Foreign Office. The report finds that British diplomats are hampered by slow, clunky technology, poor language skills and a culture averse to risk in which too many managers proliferate. The report says that staff \u201cneed to be liberated from process and hierarchy, in order to provide the bold and creative foreign policy advice that FCO [Foreign and Commonwealth Office] ministers and No 10 crave\u201d. The report was commissioned by the Foreign Office from the former British ambassador to Lebanon and senior Downing Street official Tom Fletcher. It represents a wake-up call for a department struggling to assert its authority in Whitehall and overseas. The report finds: \u201cWhen fewer people practised diplomacy, there was a greater margin for amateurs. But the proliferation of diplomatic actors \u2013 state and non-state \u2013 and competing sources of information drive an urgent need to refine our skills base. The FCO is a knowledge based organisation but our present culture does not reflect that.\u201d It adds: \u201cThe Foreign Office has, unlike business, not woken up to the transformational potential of big data,\u201d and instead seeks to keep too much information secret both from the public and internally. \u201cThe FCO is not yet in a position to \u2018mine\u2019 even its own internal data for insight, which means we miss important patterns and trends,\u201d the report says. \u201cFew senior diplomats have handovers, and \u2013 thanks to WikiLeaks and time pressures \u2013 we write down fewer of our insights in a way that our successors can use. We are a knowledge-based organisation. We need urgently to overhaul our knowledge management. \u201cInternally, the FCO has relatively little data to guide the choice between competing policy priorities, and corporate decisions can be made on the basis of inaccurate or incomplete information: we lack accurate data on language speakers, on previous postings and on staff numbers. This means that we do not understand the true costs of inefficient processes.\u201d The report also finds not enough diplomats know how to engage with modern audiences in the countries they are posted to, via such platforms as Twitter. It asserts: \u201cOur diplomats should be at the forefront of cultural activity in their host country, yet diplomatic communication remains patchy, patronising or amateurish. Many diplomatic channels have embraced the shift to digital but are sharing too much \u2013 hourly updates on what the ambassador is doing, or retweets of every statement made by the ministry. \u201cWe should see media work as contributing to our wider purpose, not as an awkward distraction. We need to be in the arguments, constantly rethinking how to reach and influence the widest possible audience. Empty rhetoric and purposeless platitudes make diplomacy less connected to those it needs to engage.\u201d It also finds the Foreign Office structure \u201chas contributed to a centralised and heavily-layered approach to decision making. The structures do not generate clear accountability and have trapped posts in a quality assurance feedback loop, which can grind progress on the ground to a halt\u201d. A head of mission may face at least eight separate funding tools through which to deliver three strategic objectives, it says. The report finds a \u201ctendency to micro-manage small amounts of funding and over-anticipate their results. If the FCO does not address these shortcomings, it faces serious reputational risk in a context of rising public scrutiny\u201d. It adds: \u201cWe are a ministry of Foreign Affairs. Our core purpose is to work overseas to increase the UK\u2019s influence, prosperity and security. But only one-third of our UK staff are overseas and two-thirds of our staff [hired] overseas are working on corporate issues. \u201cPresent levels of duplication are confusing and demotivating. We should re-establish where the FCO can best add value to the rest of government: as a department at the centre with a lead voice on all bilateral and multilateral relationships, including the UK\u2019s relationship with Europe.\u201d The report also finds that rather than make use of specially-tailored encryption, many British diplomats reportedly use WhatsApp to discuss sensitive topics such as the bloody conflicts in Syria and Ukraine.",
+  "webTitle": "Internal report slams culture in UK Foreign Office",
+  "webPublicationDate": "2016-05-09T21:17:39Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/09/internal-report-slams-culture-in-uk-foreign-office",
+  "keyword": [
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Patrick Wintour",
+      "id": "profile/patrickwintour"
+    }
+  ],
+  "guardianId": "politics/2016/may/09/internal-report-slams-culture-in-uk-foreign-office"
+}

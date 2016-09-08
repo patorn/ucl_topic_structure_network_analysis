@@ -1,0 +1,30 @@
+{
+  "apiUrl": "https://content.guardianapis.com/stage/2016/may/13/three-of-the-best-new-dance-performances",
+  "id": "2016-05-13-190",
+  "sectionId": "stage",
+  "body": "1: Jane Eyre  Cathy Marston\u2019s new work extracts the radical and romantic heart from the Charlotte Bront\u00eb classic for Northern Ballet, with a score by Philip Feeney that incorporates music by the 19th-century composer Fanny Mendelssohn.   Cast, Doncaster, Thu to 21 May 2: Fagin\u2019s Twist  The superbly inventive choreographer Tony Adigun puts a unique hip-hop spin on Charles Dickens\u2019s Oliver Twist.   Wyvern Theatre, Swindon, Tue; The Lowry, Salford, Fri to 21 May 3: Nederlands Dans Theater 2   The 18 sleekly athletic and expressive young dancers who make up NDT 2 are the junior wing of that country\u2019s leading contemporary dance company. For this UK tour they bring their usually impressive and eclectic repertory.  Sadler\u2019s Wells, EC1, Tue to Fri",
+  "webTitle": "Three of the best\u2026 new dance performances",
+  "webPublicationDate": "2016-05-13T12:00:15Z",
+  "webUrl": "https://www.theguardian.com/stage/2016/may/13/three-of-the-best-new-dance-performances",
+  "keyword": [
+    {
+      "webTitle": "Stage",
+      "id": "stage/stage",
+      "sectionId": "stage",
+      "sectionName": "Stage"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Judith Mackrell",
+      "id": "profile/judithmackrell"
+    }
+  ],
+  "guardianId": "stage/2016/may/13/three-of-the-best-new-dance-performances"
+}

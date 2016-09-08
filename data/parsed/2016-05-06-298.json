@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/06/ba-adds-superfast-wi-fi-transatlantic-trips",
+  "id": "2016-05-06-298",
+  "sectionId": "business",
+  "body": "British Airways passengers will be able to stream films on transatlantic flights from next year after the airline\u2019s owners, IAG, announced a deal to install what it claims will be the fastest Wi-Fi in the air. While BA has lagged behind competitors in providing Wi-Fi on its flights, Willie Walsh, the IAG chief executive, said technological advances have vindicated the decision to wait. No decision has been taken on the cost to passengers but Walsh hinted it was likely to be free for basic browsing with charges for a faster service allowing downloads and video streaming. The technology would in theory allow Skype or Facetime conversations, though they are likely to be blocked to avoid annoying other passengers.   Related: Cheaper Heathrow expansion plan 'should be put back on table'    The Wi-Fi will be provided by Gogo, a Chicago-based aircraft communications firm that has rolled out web access for US domestic flights, including Delta\u2019s 6,000-plane fleet, largely via ground-to-air networks. It said the average price for US flyers was typically around $13 (\u00a38) an hour for fast internet. The latest \u201c2ku\u201d technology employs satellites, with more compact and aerodynamic antennae on planes than previous versions, lowering the operating costs in terms of fuel burn for airlines. The terms of the deal were not disclosed but with BA looking to fit out 118 planes, as well as four from Aer Lingus and 15 from Iberia, IAG\u2019s investment in Wi-Fi with Gogo is thought to reach tens of millions of pounds per year. BA\u2019s British rival Virgin Atlantic and its US part-owners Delta are rolling out similar satellite Wi-Fi with Gogo, though the capacity of the modems on IAG\u2019s planes at 70Mbps would allow more passengers to have fast internet access, a Gogo spokesman said. AeroMexico already has the system in operation. Walsh said: \u201cWe believe this will be the fastest Wi-Fi in the air. You can have everyone on board using multiple devices and streaming. There\u2019s nothing more frustrating for a passenger than being told it\u2019s there and you\u2019re waiting there with your screen to upload or refresh. \u201cGiven the global scale we have we needed something to guarantee connectivity right across the network.\u201d IAG said 90% of its long-haul fleet will have fast Wi-Fi by 2019, many retrofitted, while new A350s on order will have the antenna built in. Walsh said: \u201cThe key concern we had was making sure that the technology was mature enough. If you start drilling holes in an aircraft you want to make sure it\u2019s going to be there permanently and going to work.\u201d He added that he had learned from personal experience in buying a Betamax video player decades ago, before it was supplanted by VHS. \u201cA few airlines, I wouldn\u2019t say they panicked, but to get in the game they got technology quickly which they are now having to change.\u201d Fast Wi-Fi could likely see the eventual end of wired-in seat-back entertainment on planes, Walsh said, with passengers preferring to stream as they would at home.  But Skyping will likely be blocked. Making phonecalls has been possible, albeit costly, for years, Walsh said: \u201cWhat we\u2019ve found is that the demand is very little.\u201d  BA has had a limited Wi-Fi service on its New York A318 jets from London City airport, and passengers surveys showed the majority did not want voice conversations permitted.",
+  "webTitle": "BA adds superfast Wi-Fi to its transatlantic checklist",
+  "webPublicationDate": "2016-05-06T07:55:50Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/06/ba-adds-superfast-wi-fi-transatlantic-trips",
+  "keyword": [
+    {
+      "webTitle": "British Airways",
+      "id": "business/britishairways",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Wi-Fi",
+      "id": "technology/wifi",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Travel & leisure",
+      "id": "business/travelleisure",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Airline industry",
+      "id": "business/theairlineindustry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "International Airlines Group",
+      "id": "business/international-consolidated-airlines-group",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Iberia",
+      "id": "business/iberia",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Air transport",
+      "id": "world/air-transport",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Internet",
+      "id": "technology/internet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Gwyn Topham",
+      "id": "profile/gwyntopham"
+    }
+  ],
+  "guardianId": "business/2016/may/06/ba-adds-superfast-wi-fi-transatlantic-trips"
+}

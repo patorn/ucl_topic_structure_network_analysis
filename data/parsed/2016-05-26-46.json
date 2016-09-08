@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/26/streetdance-family-review-barking-entity",
+  "id": "2016-05-26-46",
+  "sectionId": "film",
+  "body": "Not strictly affiliated to the established British franchise, this cheery documentary nevertheless rotates in similar circles, tracking U-16 dance crew Entity from their Barking clubhouse to the world championships in Bochum. Directors Debbie Shuter and Adam Tysoe shake up the usual contest-doc choreography by remaining open to the element of surprise. While the kids bust spectacular moves, the mums get tiddly on the sidelines, and the UK\u2019s streetdance ambassador is revealed as a greying Greg Davies-alike named Derek. Objectivity is soon abandoned \u2013 the film-makers\u2019 son Ethan is in this troupe, so on-screen graphics deploy the first-person plural \u2013 yet that\u2019s a small sacrifice set against the heartening community spirit evoked either side of the camera: here are people working against the odds, with presumably limited resources, to give these youngsters a rare sense of achievement. More than any Britain\u2019s Got Talent montage, it makes backflips and voguing seem an urgent, possibly even life-altering concern.",
+  "webTitle": "Streetdance Family review \u2013 from Barking to the world championships",
+  "webPublicationDate": "2016-05-26T20:30:12Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/26/streetdance-family-review-barking-entity",
+  "keyword": [
+    {
+      "webTitle": "Documentary",
+      "id": "film/documentary",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Dance",
+      "id": "stage/dance",
+      "sectionId": "stage",
+      "sectionName": "Stage"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Mike McCahill",
+      "id": "profile/mike-mccahill"
+    }
+  ],
+  "guardianId": "film/2016/may/26/streetdance-family-review-barking-entity"
+}

@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/commentisfree/2016/may/13/the-guardian-view-on-migration-we-need-a-stronger-state",
+  "id": "2016-05-13-60",
+  "sectionId": "commentisfree",
+  "body": "There are some debates that it seems the facts cannot settle. Immigration is the most obvious one and the most important in contemporary politics. Friday\u2019s release of figures for the number of EU migrants was greeted by the rightwing papers as proof that they had been right all along, and that there was a government conspiracy to conceal the true rate of immigration. We, on the other hand, truthfully reported that it showed the official statistics had all along been measuring what they should. It is a fair bet that few people on either side would have been persuaded to change their mind by these unassailable facts, however persuasive these same facts seem to their opponents. Yet it would be wrong to conclude from this that politics is necessarily irrational, or that people are not at all swayed by evidence. Minds do change over time with the arrival of fresh evidence. Palpably false theories are over time completely discredited. Who now believes in trickle-down economics? Climate change denialism will go the same way. With migration statistics, though, there is a different process at work. Statistics cannot measure what it is that really worries people. This is in part because the arguments in favour of labour migration are economic, and so easy to measure, while the arguments against are cultural and very hard to quantify. There is a sense in which the old French argument against EU enlargement \u2013 that it would bring in \u201cthe Polish plumber\u201d \u2013 was much more honest than the contemporary British version, which is laced with claims about tens of thousands of Polish plumbers. The numbers lend a misleading shimmer of statistical verisimilitude to what is, in the end, only a single bogey figure. To argue that the numbers are wrong is to miss the point entirely. But there is a deeper and more worrying way in which statistics about migration are misleading, even when they are true. This is because there is an assumption about government statistics that they will lead to action. What can be measured must, surely, be possible to manage. Yet, as our report from the bleak Fenland town of Wisbech makes clear, the existence of laws about migrant workers is no guarantee that they will be enforced. The economic and indeed the cultural benefits of migration depend on the rules meaning what they say. And in practice, all too often today, they do not. This is not just the obvious or eye-catching lawlessness. Just as there are some crimes that are more common among British-born residents, there may be other crimes, drink-driving perhaps, that are more common among particular migrant groups. These can be dealt with by the ordinary process of criminal law, but the police are powerless when no one will talk to them, and though this is sometimes the result of alienation, it appears in some cases to be the result of intimidation too. Still more corrupting is the slow withdrawal of the state from the policing of the labour market and even the housing market. It is no use having rules about the minimum wage if these are not enforced for migrant workers. It is no use having laws regulating the activities of gangmasters when there are in practice often no sanctions for those who operate without licences. None of those things can ever show up in official statistics, by definition. We can measure, and we will certainly argue about, the number of workers who have registered for national insurance. But the really worrying figure, which can\u2019t be known, is those who have not registered for the system at all. It is fears like this that give force and vitality to the anti-immigration movements in social democratic states all across Europe. The sense that people are not playing by the rules cannot be addressed by exhortation alone. What is needed is to re-establish the sense that the rules matter for everyone. This cannot be accomplished by Trumpish demands to \u201csend them all home\u201d or similar dramatic gestures. What\u2019s needed is a quiet, persistent bureaucratic effort to enforce the rules we have: to see that the minimum wage is actually paid to workers, and that they work no more than the permitted hours; to see that housing standards are upheld; that taxes are paid, cars are insured and even cigarettes and alcohol are properly taxed. It is out of such small dull predictable measures that trust is slowly built up in a society. Al Capone was brought down by the Internal Revenue Service and not the FBI. But if we want people to trust government statistics \u2013 and that is really important in a democracy \u2013 we need to understand that the free movement of labour will only work to society\u2019s advantage when it is regulated by a strong and energetic state.",
+  "webTitle": "The Guardian view on migration: we need a stronger state | Editorial",
+  "webPublicationDate": "2016-05-13T17:40:41Z",
+  "webUrl": "https://www.theguardian.com/commentisfree/2016/may/13/the-guardian-view-on-migration-we-need-a-stronger-state",
+  "keyword": [
+    {
+      "webTitle": "Immigration and asylum",
+      "id": "uk/immigration",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Tax and spending",
+      "id": "politics/taxandspending",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Migration",
+      "id": "world/migration",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Editorial",
+      "id": "profile/editorial"
+    }
+  ],
+  "guardianId": "commentisfree/2016/may/13/the-guardian-view-on-migration-we-need-a-stronger-state"
+}

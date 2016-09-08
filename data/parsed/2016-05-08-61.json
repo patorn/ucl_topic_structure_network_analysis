@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/commentisfree/2016/may/08/embryo-rule-science",
+  "id": "2016-05-08-61",
+  "sectionId": "commentisfree",
+  "body": "Scientists have maintained the life of human embryos outside the womb for 13 days. Or, as they might put it, have grown blastocysts on an \u201cin vitro implantation platform\u201d to the brink of mesoderm formation. Whatever. It\u2019s a big deal.   Related: It\u2019s time to extend the 14-day limit for embryo research | John Harris    That\u2019s partly because this breakthrough moves science to the edge of an internationally agreed ethical boundary, which sets a 14-day limit on human embryo experimentation, established in the UK since the Warnock committee adopted it in 1984. But it\u2019s also because of the content of the research itself, which has confirmed, as the research team put it in the journal Nature Cell Biology, \u201cthe remarkable and unanticipated self-organising properties of human embryos\u201d. Basically, even at such an early stage, embryos have autonomy. For those who believe that any intervention at all in the creation of human life is a bit dodgy, this news will be disturbing. Thus far, the 14-day rule has proved consoling to all sorts of people who are uncertain about how much human beings should mess around with human life. It\u2019s at 14 days that an embryo can no longer split into twins, confirming individuality; and the \u201cprimitive streak\u201d appears, denoting that the basic body has begun to be determined (or as some put it, marking the start of the existence of a \u201cmorally significant being\u201d). So it\u2019s no surprise that some people with an investment in scientific ethics are already feeling a bit antsy. Within days of the research being published, a long letter appeared in the journal Nature, suggesting that it was time for the 14-day rule to be reassessed. They\u2019re aware of how it looks: as if science is happy with the position of a set of goalposts, until it\u2019s within striking distance. But it\u2019s not that simple.    If only other disciplines, like technology or economics, could be as carefully considered and well-regulated as science    As the letter writers say: \u201cSome might conclude from such developments that policymakers redefine boundaries expediently when the limits become inconvenient for science. If restrictions such as the 14-day rule are viewed as moral truths, such cynicism would be warranted. But when they are understood to be tools designed to strike a balance between enabling research and maintaining public trust, it becomes clear that, as circumstances and attitudes evolve, limits can be legitimately recalibrated.\u201d Which is one way of saying that it all depends on your point of view. Scientists tend to be consequentialist in their view of research. They\u2019ll argue that their research will stretch the bounds of knowledge, and thereby promote the wellbeing of all humans. Already the 13-day research is being hailed as potentially useful in understanding early miscarriage, improving assisted conception and generally increasing insight into things that can go wrong during pregnancy. The implication in this case is that a more generous time limit on research could help with these matters even more. Others will say that such views are speculative, and that there\u2019s simply no guarantee that anything at all can be learned about how an embryo develops in the womb from how it develops on a tightly controlled in-vitro implantation platform. Yet the possibility that great good could emerge from such research remains, and science is fairly well known for its capacity to transform what\u2019s possible. For those who crave moral truths, however, it\u2019s precisely this uncertainty - the fact that no amount of hard study and hard thinking can produce a guaranteed and definite outcome -that promotes a distrust of science. There\u2019s comfort in certainty, in believing that human life is sacrosanct from the moment of primitive streak, or conception, or even from the moment of legover. Why? In part, just because it\u2019s nice to feel certain. In the most egregious cases, it\u2019s because it makes it very easy to set yourself up as judge, jury and executioner, as fatal violence against believers in abortion choice in the US all too graphically confirms. The US \u201cculture wars\u201d also confirm something that the writers of that letter in Nature are very concerned about: keeping as many people on board as you can, in decisions about medicine, science and ethics, is crucial to the smooth and peaceable functioning of society. Science is good at this; other fields of human endeavour are not.   Related: Violent anti-choice rhetoric must end, or anti-abortion violence never will    The great thing about the scientific community, on the whole, is that it understands and respects this grave responsibility at a deep and serious level. (We\u2019ll leave Big Pharma out of this vision of Arcadia, because it doesn\u2019t belong in it, for which assertion this week\u2019s LA Times investigation into Oxycontin provides just the latest evidence.) Scientists may complain about the actions of people in militant opposition to what they are doing. But no decent scientist is unwilling to listen to reason, and no decent scientist is unaware that indecent scientists who don\u2019t listen to reason do exist and are dangerous. Science is well used to working under the limitations of philosophical checks and balances, and understands that robust intellectual underpinning promotes public support and trust. In the coming months and years, debate and discussion about the 14-day limit will be engaging and interesting, far beyond the realm of science. My only wish is that other disciplines, including economics and industries on the cutting-edge of intellectual discovery, such as technology, were anything like as carefully and sensitively examined and considered, anything like as well regulated. Everyone knows how much can be learned from science. Maybe it\u2019s time for people to start learning from science about how to maintain international consensus in the face of change, complexity and the perils of self-interest.",
+  "webTitle": "The embryo rule shows how much our leaders can learn from science | Deborah Orr",
+  "webPublicationDate": "2016-05-08T17:26:44Z",
+  "webUrl": "https://www.theguardian.com/commentisfree/2016/may/08/embryo-rule-science",
+  "keyword": [
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Embryos",
+      "id": "science/embryos",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Biology",
+      "id": "science/biology",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Ethics",
+      "id": "world/ethics",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Pregnancy",
+      "id": "lifeandstyle/pregnancy",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Parents and parenting",
+      "id": "lifeandstyle/parents-and-parenting",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Health & wellbeing",
+      "id": "lifeandstyle/health-and-wellbeing",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Family",
+      "id": "lifeandstyle/family",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Deborah Orr",
+      "id": "profile/deborah-orr"
+    }
+  ],
+  "guardianId": "commentisfree/2016/may/08/embryo-rule-science"
+}

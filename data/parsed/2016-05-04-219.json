@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/greenslade/2016/may/04/john-mullin-promoted-to-top-sports-job-at-telegraph-group",
+  "id": "2016-05-04-219",
+  "sectionId": "media",
+  "body": "John Mullin, the former editor of the Independent on Sunday, has been appointed as the Telegraph Media Group\u2019s deputy head of sport. Mullin\u2019s new job is part of a reorganisation reported by the Sports Journalists\u2019 Association (SJA) following  the departure of sports editor Jim Bruce-Ball. Mullin will be deputy to Adam Sills, the head of sport. And Andy Fifield now has the post of sports editor (features and planning). Another appointment, to a new role of sports editor (live), is yet to be announced . Mullin, once of this parish in a variety of roles including Ireland correspondent, was deputy editor of The Scotsman for three years until joining the Independent as executive editor in 2003. He went on to edit the Sindy for six years until 2013, leaving the paper when it became part of a seven-day operation that encompassed the Independent and London Evening Standard. Mullin joined the Telegraph as head of sports news last August after having worked at the BBC as editor of its Scottish referendum coverage. Sills, quoted by the SJA, said: \u201cWe\u2019re delighted that John and Andy will continue in their new roles.\u201d As he pointed out, this summer \u201cholds much excitement for sports fans with the Euros and the Rio Olympics to look forward to.\u201d",
+  "webTitle": "John Mullin promoted to a top sports job at Telegraph group",
+  "webPublicationDate": "2016-05-04T11:44:52Z",
+  "webUrl": "https://www.theguardian.com/media/greenslade/2016/may/04/john-mullin-promoted-to-top-sports-job-at-telegraph-group",
+  "keyword": [
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Telegraph Media Group",
+      "id": "media/telegraphmediagroup",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Independent on Sunday",
+      "id": "media/independent-on-sunday",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "National newspapers",
+      "id": "media/national-newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "The Guardian",
+      "id": "media/theguardian",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "The Scotsman",
+      "id": "media/the-scotsman",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "The Independent",
+      "id": "media/theindependent",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers",
+      "id": "media/newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers & magazines",
+      "id": "media/pressandpublishing",
+      "sectionId": "media",
+      "sectionName": "Media"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Roy Greenslade",
+      "id": "profile/roygreenslade"
+    }
+  ],
+  "guardianId": "media/greenslade/2016/may/04/john-mullin-promoted-to-top-sports-job-at-telegraph-group"
+}

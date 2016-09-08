@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/19/maria-sharapova-not-play-again-russian-official",
+  "id": "2016-05-19-233",
+  "sectionId": "sport",
+  "body": "The head of the Russian Tennis Federation backtracked on his earlier comments on Thursday, saying he did not mean to suggest that Maria Sharapova\u2019s failed doping test could spell the end of her career. Russian news agency R-Sport had earlier quoted Shamil Tarpishchev as saying that Sharapova\u2019s situation is \u201cbad\u201d and that it is \u201cvery doubtful\u201d that she will resume her career.   Related: Maria Sharapova to discover length of ban at anti-doping panel in London    \u201cI only said that she can\u2019t play now because no ruling on her case has been issued,\u201d Tarpishchev told the Tass news agency. Sharapova tested positive for meldonium at the Australian Open in January. She said she had taken the drug for a decade for medical purposes and did not know it had been banned for 2016. Sharapova remains provisionally suspended from competition pending a ruling from the International Tennis Federation. The 29-year-old Russian failed a doping test at the Australian Open in January. The ITF provisionally suspended the five-times grand slam winner on 12 March. Sharapova was facing an anti-doping panel in London on Wednesday. The maximum punishment available for her positive test is four years. Meldonium was only banned from the start of the year but, while confusion over how long the drug remains in the system led to the issuing of guidance in March allowing certain levels to be ignored, Sharapova is not covered by this amnesty as she had admitted taking it throughout January. Meldonium is used to treat ischaemia: a lack of blood flow to parts of the body, particularly in cases of angina or heart failure. It is manufactured in Latvia and only distributed in Baltic countries and Russia. It is not approved by the Food and Drug Administration for use in the United States and is not authorised in the rest of Europe. It increases blood flow, which improves exercise capacity in athletes.",
+  "webTitle": "Russian tennis official backtracks over Maria Sharapova suggestion",
+  "webPublicationDate": "2016-05-19T10:52:26Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/19/maria-sharapova-not-play-again-russian-official",
+  "keyword": [
+    {
+      "webTitle": "Maria Sharapova",
+      "id": "sport/maria-sharapova",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Tennis",
+      "id": "sport/tennis",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Drugs in sport",
+      "id": "sport/drugs-in-sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "sport/2016/may/19/maria-sharapova-not-play-again-russian-official"
+}

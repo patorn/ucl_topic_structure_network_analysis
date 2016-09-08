@@ -1,0 +1,30 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/blog/2016/may/25/legal-general-understates-chief-executives-pay-in-annual-report",
+  "id": "2016-05-25-205",
+  "sectionId": "business",
+  "body": "Executive pay can be fiendishly hard to calculate and even harder for the public to comprehend \u2013 and now it seems that the same is true for the owners of one of the biggest fund managers in the UK. Legal & General, the insurance company, has been forced to admit that it made a mistake in the pay of its chief executive, Nigel Wilson, when it published its annual report almost 10 weeks ago.  In a statement to the stock exchange, L&G said Wilson was paid almost \u00a35.5m in 2015 rather than the \u00a34.7m previously disclosed in March. \u201cWe apologise for this error,\u201d the insurer said. The revelation, on the eve of its annual general meeting where investors will vote on the remuneration report, is embarrassing for the insurer.    Related: Why the revolt against executive pay is not going away    As a result of changes introduced by Vince Cable when he was business secretary, companies are required to publish a \u201csingle figure\u201d for pay which covers salary, benefits, annual bonuses and payouts from long-term incentive schemes. L&G failed to include in the \u201csingle figure\u201d for Wilson 291,765 share options, worth \u00a3781,000, that were released to him last August. Although he did not cash them in until January, under the rules they should have been included from the moment they vested, not when they were exercised. The error was uncovered by Deloitte, which L&G uses as an advisor on pay. The accounts were audited by PricewaterhouseCoopers, which declined to comment.",
+  "webTitle": "Legal & General understates CEO's pay in annual report",
+  "webPublicationDate": "2016-05-25T10:34:44Z",
+  "webUrl": "https://www.theguardian.com/business/blog/2016/may/25/legal-general-understates-chief-executives-pay-in-annual-report",
+  "keyword": [
+    {
+      "webTitle": "Executive pay and bonuses",
+      "id": "business/executive-pay-bonuses",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Legal and General",
+      "id": "business/legalandgeneralgroup",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jill Treanor",
+      "id": "profile/jilltreanor"
+    }
+  ],
+  "guardianId": "business/blog/2016/may/25/legal-general-understates-chief-executives-pay-in-annual-report"
+}

@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/11/first-class-allocation-on-trains-could-be-reduced-to-ease-overcrowding",
+  "id": "2016-05-10-5",
+  "sectionId": "uk-news",
+  "body": "The amount of space set aside on train carriages for first class travel could be reduced as a way of tackling overcrowding, a government document has suggested. The idea is floated in a consultation document asking the public for their views on how rail services can be improved on the west coast mainline which runs between London, Birmingham, Manchester, Liverpool, Glasgow, Edinburgh and Holyhead.   Related: Privatised, nationalised, electrified? A guide to the UK's railways    \u201cBidders will be asked to consider innovative solutions to address capacity issues such as changing the balance of first and standard class provision on carriages or by encouraging more passengers to travel at quieter times where they have the option to do so,\u201d it states. It suggests that other solutions could include new ticketing schemes, which could be linked to smart technology, or providing passengers with better information on which are the busiest services and train carriages. The Department for Transport document was published on Tuesday before the submission of bids by operators hoping to run the new InterCity West Coast (ICWC) franchise. The winning operator will be announced in November next year, in time for the franchise to begin in April 2018. High levels of crowding and difficulty moving through the train have been highlighted as key concerns for passengers as reported in focus groups, according to the consultation document. \u201cWith train use continuing to grow significantly, options to increase capacity for passengers need to be explored and bidders will be asked to consider how they might do this based on current passenger usage and predicted growth,\u201d it says.   Related: Public v private: what next for the ownership of Britain's railways?    The document goes on to state that options for addressing this problem, such as additional or longer trains, are limited until the launch of the HS2 high-speed rail link.  \u201cThey also may not be affordable or operationally deliverable in all areas of crowding due to constraints such as platform lengths and space within timetables and at stations to fit extra trains in,\u201d the document says. The transport secretary, Patrick McLoughlin, said it was essential that passengers\u2019 needs were \u201cat the heart of franchises\u201d as the government was investing \u00a338bn in railways. He said: \u201cThe ICWC line covers a vitally important part of our rail network, linking major cities in England, Scotland and Wales. I want to see improvements to customer satisfaction, investment and better journeys for passengers during the next franchise.\u201d",
+  "webTitle": "First class allocation on trains could be reduced to ease overcrowding",
+  "webPublicationDate": "2016-05-10T23:01:48Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/11/first-class-allocation-on-trains-could-be-reduced-to-ease-overcrowding",
+  "keyword": [
+    {
+      "webTitle": "Rail transport",
+      "id": "uk/rail-transport",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Transport",
+      "id": "uk/transport",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "West coast mainline",
+      "id": "uk/west-coast-mainline",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Transport policy",
+      "id": "politics/transport",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ben Quinn",
+      "id": "profile/benquinn"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/11/first-class-allocation-on-trains-could-be-reduced-to-ease-overcrowding"
+}

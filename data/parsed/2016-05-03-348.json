@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/03/driverless-cars-dent-motor-insurers-volvo",
+  "id": "2016-05-03-348",
+  "sectionId": "business",
+  "body": "It is predicted that driverless cars will prevent the vast majority of crashes and dramatically reduce the cost of insuring a car, according to industry experts. Volvo\u2019s chief executive will tell a seminar on driverless cars on Tuesday that autonomous vehicles are the \u201csingle most important advance in automotive safety\u201d in years. The Swedish carmaker\u2019s boss, H\u00e5kan Samuelsson, will cite US government research predicting that driverless cars will lead to an 80% fall in the number of car crashes by 2035. Even when an accident cannot be avoided, the impact speed will also drop due to automatic crash avoidance systems, according to the National Highway Traffic Safety Administration.   Related: Volvo to test self-driving cars on London's roads next year    The result will be a huge decrease in the cost of car insurance premiums, according to separate research by insurer Swiss Re and the technology group Here. Premiums in the 14 largest car markets in the world are set to drop by $20bn (\u00a313.5bn) by 2020 alone, according to their projections. \u201cCar connectivity and the introduction of increasingly sophisticated driver-assist technologies and autonomous driving will lead to significantly improved road safety,\u201d they said. The report predicts that by 2020, more than two-thirds of cars sold worldwide will have some form of connectivity to the internet and other cars. Vehicle safety firm Thatcham Research said existing technology such as Autonomous Emergency Braking (AEB) had already reduced the frequency of road accidents. Its chief executive, Peter Shaw, said technology that allows drivers to \u201cdrop out of the loop\u201d for parts of the journey would be available as soon as 2021. \u201cWithout doubt, crash frequency will also dramatically reduce,\u201d he said. While drivers will welcome tumbling premiums, motor insurance experts warned that the industry will need to be overhauled or face extinction. \u201cVolvo believes the insurance industry will have no choice but to react to these seismic challenges to its existing business model by fundamentally restructuring \u2013 or face competition from new entrants into its market from technology-savvy disrupting companies,\u201d said Samuelsson. Insurance analyst Barrie Cornes, of stockbroker Panmure Gordon, warned that firms with a strong presence in motor insurance, such as Admiral or RAC, were under threat. He said specialist motor insurers would have to diversify into other areas. \u201cBusinesses will have to transform or motor insurers are going to die,\u201d Cornes said. \u201cIt\u2019s a number of years before we get there and there will be a transition period during which premiums are still going to be high. But it could well be that [motor insurers] move into home insurance, pet insurance and other areas.\u201d Volvo will begin the largest driverless car trial yet seen in the UK next year, with around 100 autonomous vehicles set to hit the streets. Britain is hoping to be at the forefront of autonomous driving, partly due to a legal loophole. The UK is one of the European countries not to have ratified the 1968 Vienna convention on road traffic that stipulates a driver must be in the front seat of a car. However, the government is still working on its own regulations to keep pace with changing technology. Samuelsson called on the government to help carmakers get driverless cars on the road as soon as possible. \u201cThe automotive industry cannot do this on its own,\u201d he said. The business secretary, Sajid Javid, said he was determined that the UK should lead the way in making the technology a reality. \u201cSuch advances in technology prove the fourth industrial revolution is just around the corner and our determination to be at the forefront is why we are attracting top names from across the globe for real-world testing,\u201d he said. However, the Association of British Insurers warned drivers not to get complacent about driving safely before the technology was fully developed. \u201cAutomation could be the biggest breakthrough in road safety since the invention of the seatbelt and insurers fully support its development,\u201d said James Dalton, the ABI\u2019s director of general insurance policy. \u201cHowever we need to get there safely. The growth in features like automatic braking and lane assistance systems may give drivers a false sense of security that they can relax while their car looks after them. But unless a vehicle is fully automated and able to respond appropriately in an emergency, drivers still have to be ready to take back control at a moment\u2019s notice.\u201d",
+  "webTitle": "Driverless cars to dent insurance industry, warns Volvo chief",
+  "webPublicationDate": "2016-05-03T05:00:46Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/03/driverless-cars-dent-motor-insurers-volvo",
+  "keyword": [
+    {
+      "webTitle": "Insurance industry",
+      "id": "business/insurance",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Insurance",
+      "id": "money/insurance",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Motoring",
+      "id": "money/motoring",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Motoring",
+      "id": "technology/motoring",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Volvo",
+      "id": "business/volvo",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Self-driving cars",
+      "id": "technology/self-driving-cars",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Rob Davies",
+      "id": "profile/rob-davies"
+    }
+  ],
+  "guardianId": "business/2016/may/03/driverless-cars-dent-motor-insurers-volvo"
+}

@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/us-news/2016/may/26/baylor-university-art-briles-kenneth-starr",
+  "id": "2016-05-26-110",
+  "sectionId": "us-news",
+  "body": "Baylor University announced on Thursday that it has suspended football coach Art Briles with the intent to fire him, and has re-assigned president Kenneth Starr to a separate role, as America\u2019s biggest Baptist school attempts to deal with a high-profile sexual assault scandal that has rocked campus. Briles, 60, will be fired. Starr has been demoted from his role as university president, but will remain a professor at Baylor\u2019s law school and has been given the position of chancellor. Athletic director Ian McCaw has been placed on probation. The school of 16,000 students in Waco, Texas, has been widely criticised for its handling of multiple sexual assault allegations filed against a number of players on its football program. One victim has sued the university, saying it was deliberately indifferent to her allegations against a former player who was eventually convicted of sexually assaulting her. Last year, Baylor asked an independent law firm to conduct a review of its handling of sexual assault cases. The university said the review revealed \u201ca fundamental failure\u201d, and \u201cthere are significant concerns about the tone and culture within Baylor\u2019s football program as it relates to accountability for all forms of student athlete misconduct\u201d. Board of regents chairman Richard Willis said in the statement announcing Briles\u2019 suspension: \u201cWe were horrified by the extent of these acts of sexual violence on our campus. This investigation revealed the university\u2019s mishandling of reports in what should have been a supportive, responsive and caring environment for students. The depth to which these acts occurred shocked and outraged us. \u201cOur students and their families deserve more, and we have committed our full attention to improving our processes, establishing accountability and ensuring appropriate actions are taken to support former, current and future students.\u201d Former football player Sam Ukwuachu was convicted of sexually assaulting a former Baylor soccer player in 2015. Baylor reportedly ignored repeated allegations of assault against former football player Tevin Elliott, who was convicted of sexual assault in 2014. Since 2011, Briles has guided Baylor to a 50-15 record, winning 10 games or more four of the last five seasons. The Bears won at least a share of consecutive Big 12 titles in 2013 and 14; the 2013 title was the school\u2019s first outright conference championship since 1980. Briles came to Baylor from Houston, where he led the Cougars to four bowl games in five seasons. Starr took over as the university\u2019s president in 2010, about a decade after the former prosecutor investigated former President Clinton\u2019s sexual relationship with White House intern Monica Lewisnky.",
+  "webTitle": "Baylor fires football coach Art Briles and re-assigns president Kenneth Starr",
+  "webPublicationDate": "2016-05-26T17:12:20Z",
+  "webUrl": "https://www.theguardian.com/us-news/2016/may/26/baylor-university-art-briles-kenneth-starr",
+  "keyword": [
+    {
+      "webTitle": "US universities",
+      "id": "us-news/us-universities",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "College football",
+      "id": "sport/college-football",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "College sports",
+      "id": "sport/college-sports",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "US sports",
+      "id": "sport/us-sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "US education",
+      "id": "education/education-us",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Education",
+      "id": "education/education",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Texas",
+      "id": "us-news/texas",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "us-news/2016/may/26/baylor-university-art-briles-kenneth-starr"
+}

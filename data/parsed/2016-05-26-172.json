@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/26/number-of-uk-neets-increases-for-second-consecutive-quarter",
+  "id": "2016-05-26-172",
+  "sectionId": "business",
+  "body": "The number of young people in Britain not in education, employment or training increased for a second consecutive quarter between January and March, to 865,000. The proportion of so-called Neets among 16- to 24-year-olds edged up 0.1 percentage points \u2013 or 2,000 people \u2013 to 12%, compared with the previous quarter, according to the Office for National Statistics. Ian Brinkley, chief economic adviser at the Work Foundation thinktank, said the figures echoed broader trends in the UK economy.   Number of Neets rises in the first quarter of 2016   \u201cThe modest increase reflects the general slowdown in the labour market, with fewer job opportunities for young people seeking work,\u201d he said. \u201cWhile there are certainly some risks and headwinds lurking in the economic background, this alone is not sufficient to signal a reversal of the improvements that we have seen in the jobs market.\u201d   Related: More youngsters shut out of work or training, study finds    Of the young people in the UK who were Neet between January and March, 44% were classed as unemployed because they were looking for work and available. The remaining 56% were economically inactive \u2013 either not looking for work, not available for work or both.  The annual trend was more positive, showing a 69,000 drop in the number of Neets in the first quarter, compared with the same period a year earlier. Britain\u2019s Neet population has been steadily falling after hitting a peak of 1.25 million, or 16.9%, in the third quarter of 2011. However, the number has edged higher in the past two quarters. Unemployment was the driver of the increase in the number of Neets in the first quarter. The number of people in this category rose by 18,000, compared with the previous quarter, to 381,000. The number of economically inactive people within the younger age bracket fell by 15,000 to 485,000. \u201cIf the labour market weakness persists, then we can expect the number of economically inactive Neets to also increase,\u201d said Brinkley. \u201cSome inactive Neets are excluded from the labour market by multiple disadvantages and are likely to suffer long-term damage in terms of their economic and social progress as a result. Any increase in this extremely disadvantaged group would be very worrying, both for the individuals and for society as a whole.\u201d More younger men than younger women were unemployed in the first quarter, while the opposite was true for economic inactivity. Claudia Harris, chief executive of the Careers and Enterprise Company, said the UK needed to establish better links between schools, colleges and the workplace in order to deal with the issue of Neets over the longer term. She said: \u201cResearch by the Education and Employers Taskforce shows young people who have multiple encounters with business while at school are significantly less likely to be Neet, and earn on average 18% more than their peers who don\u2019t. Yet figures from GTI Trendence UK reveal that over a third (36%) of secondary school pupils have never been off-site to visit an employer.\u201d A separate report published by the ONS earlier this month showed Britain\u2019s employment rate hit a record high of 74.2% in March. The ONS said much of the rise in employment could be attributed to rules forcing women to retire later.   In recent years, the government has pushed up the retirement age for women from 60, which has meant that thousands of people who would previously have retired are still working. The employment rate for women reached 69.2% in March, the highest since comparable records began in 1971.",
+  "webTitle": "Number of UK 'Neets' increases for second consecutive quarter",
+  "webPublicationDate": "2016-05-26T14:04:59Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/26/number-of-uk-neets-increases-for-second-consecutive-quarter",
+  "keyword": [
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "UK unemployment and employment statistics",
+      "id": "business/uk-unemployment-and-employment-statistics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Office for National Statistics",
+      "id": "uk/office-for-national-statistics",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Youth unemployment",
+      "id": "society/youth-unemployment",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Unemployment",
+      "id": "society/unemployment",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Young people",
+      "id": "society/youngpeople",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Angela Monaghan",
+      "id": "profile/angela-monaghan"
+    }
+  ],
+  "guardianId": "business/2016/may/26/number-of-uk-neets-increases-for-second-consecutive-quarter"
+}

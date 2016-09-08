@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/16/tiger-woods-return-date-golf-back-surgery",
+  "id": "2016-05-16-99",
+  "sectionId": "sport",
+  "body": "Tiger Woods said on Monday he is making progress in his recovery from back surgery but still does not have a date in mind for his return. Woods hit a ceremonial shot at Congressional on Monday but found the water three times, showing that a return at the US Open \u2013 a tournament he has registered for \u2013 appears unlikely. \u201cI have been practicing at home, and I\u2019m progressing nicely. I\u2019m hoping to play,\u201d Woods said. \u201cThat\u2019s the overriding question I keep hearing: when are you coming back, when are you playing? I get it all the time. If I knew, I\u2019d tell you, because it\u2019d be fun to know.\u201d   Related: With friends like Michael Jordan, why would Tiger Woods need enemies? | Marina Hyde    The 40-year-old has not played tournament golf since last August after a series of surgeries on his back, and last won a major in 2008. He is now outside the world top 500. Woods confirmed that he has played casual games at Medalist, a club near his home in Florida, but is far from the level where he can compete against the world\u2019s best.  \u201cEverything about my game is coming around. Now it\u2019s just a matter of being consistent with it,\u201d Woods said. \u201cAnd then being able to do that not only at home against the boys at Medalist and trying to take their cash, but trying to come out here and doing it against the best players in the world is a completely different deal.\u201d",
+  "webTitle": "Tiger Woods still unsure of return date to golf: 'If I knew, I\u2019d tell you'",
+  "webPublicationDate": "2016-05-16T17:27:16Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/16/tiger-woods-return-date-golf-back-surgery",
+  "keyword": [
+    {
+      "webTitle": "Tiger Woods",
+      "id": "sport/tigerwoods",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "US sports",
+      "id": "sport/us-sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Golf",
+      "id": "sport/golf",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "sport/2016/may/16/tiger-woods-return-date-golf-back-surgery"
+}

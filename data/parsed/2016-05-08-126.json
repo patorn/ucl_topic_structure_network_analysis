@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/08/donald-trump-given-a-fighting-chance-by-ailing-us-economy-election-stock-market",
+  "id": "2016-05-08-126",
+  "sectionId": "business",
+  "body": "The experts said it could never happen. There was no way in which Donald Trump could win the Republican nomination for the US presidency. Could a billionaire who had never held office, was distrusted by the party hierarchy, lacked a political machine and seemed to take delight in upsetting large chunks of the electorate really survive the primaries and have a shot at the White House? Well, really. The smart money now says that Trump has no chance in a head-to-head presidential race with Hillary Clinton, who looks nailed-on as the candidate for the Democrats. Opinion polls suggest that Clinton would beat Trump by a margin of 10 percentage points were the election to be held now. But Americans are not going to pick the next resident of the White House for another six months. That is an awfully long time in politics and 10-point deficits have been overturned in the past. It is by no means inconceivable that Trump will succeed Barack Obama. Indeed, the state of the US economy suggests that he has a fighting chance. The first point to recognise is that the economy is struggling. Growth slowed to an annualised 0.5% in the first three months of 2016, which means that it was barely expanding at all. Unlike in previous years, this could not be blamed on inclement weather. Jobs are still being created but at a slower pace. Last week\u2019s figures for non-farm payrolls \u2013 the benchmark for the state of the labour market \u2013 showed an increase of 160,000 in employment last month, well below the 200,000 Wall Street had been expecting. Disappointing economic data has become rather too common in recent months. Investment activity has been weak, with companies taking advantage of low interest rates to buy back their own shares rather than investing in new plant and machinery. That has helped keep share prices high but at a cost. Productivity growth, as in the UK, has been poor. The result has been only a modest growth in wages, which are still only growing at 2.5% a year despite the recovery from the Great Recession of 2008-09 now into its eighth year. But the pick-up in pay has been enough to squeeze corporate profits, which makes share prices look overvalued. At best, the US looks set for growth of about 2% this year, but it would not take much \u2013 a sharp plunge on Wall Street, for example \u2013 for the economy to turn sour in the run-up to polling day in early November. The second point to recognise is that millions of Americans think they have been left behind. This has certainly not been a period where a rising tide lifts all boats; the gains from what has been a strikingly undynamic recovery by US standards have gone to the few, not the many. Trump, despite being a billionaire, has managed to tap into a seething well of discontent. So has Bernie Sanders. This has created a political dynamic in which it is possible for Trump to portray himself as the anti-establishment figure who voices the concerns of the little guy in the states the elite fly over as they travel from coast to coast. His platform is unashamedly populist: he wants interest rates to stay low and the minimum wage and spending on the military to go up. He is in favour of a big expansion of infrastructure spending, higher benefits for armed forces veterans, 40% tariff barriers on imported goods, an end to free trade deals, and curbs on immigration including the building of a wall along the border with Mexico. Some of Trump\u2019s shoot-from-the-hip comments are economically illiterate. He says he would take advantage of the fact that the US government can borrow money at very attractive rates to finance his public investment plans. There is absolutely nothing wrong with that. Many Democrats think that would be a good idea. But Trump has also said that if he spent a bit too much on rebuilding roads and bridges he would consider defaulting on the US national debt. This, of course, sends out a clear message to the investors who would be lending the US government the money to pay for these schemes. If there is a chance that Washington would renege on its debts, interest rates on the loans will be higher to take account of the extra risk. The same applies to the plan to oust Janet Yellen as chair of the Federal Reserve Board. Trump does not object to the way in which the US central bank has tried to keep interest rates as low as possible, merely the fact that Yellen is a Democrat not a Republican. The threat that Trump would replace Yellen with a Republican at the first opportunity makes the future conduct of US monetary policy look less certain and, again, long-term interest rates may rise as a result. Slowing US growth has already given Yellen and her Fed colleagues a good reason to delay the increase in US interest rates that some on Wall Street are expecting next month. Trump has just provided the most powerful central banker in the world with another. On the one hand, she knows that if she keeps the economy out of recession she improves Clinton\u2019s chances of winning. On the other, she could be out of a job if the economy stagnates, because in those circumstances the odds on Trump will shorten. Who knows, there may be a method to Trump\u2019s madness. By coming out with inflammatory statements he makes it more likely that there will be a tightening of financial market conditions over the summer, leading to weaker economic activity and the real possibility of a stock market crash. Clinton would no doubt try to blame any problems on her opponent and say that he has demonstrated how unfit he is for the highest office in the land. But she knows from the experience of 1992, when her husband Bill was running for the White House, how important the economy is in deciding the race. As far as Clinton is concerned, the longer Yellen refrains from raising interest rates the better. Imagine there is a Wall Street crash over the summer and the economy tanks. Would America opt for experience or the self-styled outsider? Trump does not have a coherent programme and it may well collapse under the intense scrutiny of the next few months. But he is gambling that what he says will have an appeal at a gut level and will contrast with the dry arguments presented by his opponent. Clinton is going to find herself attacked from the left on some issues and from the right on others. She is going to have to be quick on her feet because one thing the Republican primaries have shown is that Trump is one heck of a salesman.",
+  "webTitle": "Donald Trump given a fighting chance by ailing US economy",
+  "webPublicationDate": "2016-05-08T10:08:20Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/08/donald-trump-given-a-fighting-chance-by-ailing-us-economy-election-stock-market",
+  "keyword": [
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Donald Trump",
+      "id": "us-news/donaldtrump",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "US economy",
+      "id": "business/useconomy",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Janet Yellen",
+      "id": "business/janet-yellen",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "US economic growth and recession",
+      "id": "business/useconomicgrowth",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "US elections 2016",
+      "id": "us-news/us-elections-2016",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Federal Reserve",
+      "id": "business/federal-reserve",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Larry Elliott",
+      "id": "profile/larryelliott"
+    }
+  ],
+  "guardianId": "business/2016/may/08/donald-trump-given-a-fighting-chance-by-ailing-us-economy-election-stock-market"
+}

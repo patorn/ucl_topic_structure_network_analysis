@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/science/2016/may/09/woman-told-she-could-not-have-children-has-baby-with-dna-method",
+  "id": "2016-05-08-2",
+  "sectionId": "science",
+  "body": "A woman who was told she would never have children has given birth to a baby boy after doctors used a new DNA procedure to screen her embryos. Ewa Wybacz, 36, gave birth to her son, Biagio Russu, in January despite a history of medical problems that had led her to believe she would never conceive. Biagio is the first baby to be born in the UK from a trial of next generation sequencing (NGS) which gives IVF doctors a detailed picture of the health of an embryo\u2019s chromosomes. \u201cWe are so happy,\u201d said her husband, Sergio Russu, 42. \u201cTo be honest, I thought it wasn\u2019t going to happen. But then it did happen and we got a shock.\u201d     Sergio and Biagio Russu.    Tim Child, the medical director at Oxford Fertility, said NGS replaced older, less precise techniques already used in the pre-implantation genetic screening (PGS) of embryos. NGS costs \u00a32,000 to \u00a33,500 on top of standard IVF fees, which is about half the price of existing screening. The procedure is not available on the NHS, but it may be offered in the future if the trial finds that NGS cuts costs and reduces the time infertile couples wait for a live birth. \u201cI think this will become the standard way to do PGS,\u201d said Child. To screen an embryo, doctors remove a few cells at the five-day-old stage. The cells are taken from the tissue around the embryo that will turn into the placenta that attaches it to the mother\u2019s womb. Unlike traditional screening methods, NGS can spot embryos that have more subtle DNA faults, and embryos that have only some cells with chromosomal defects. More than half of embryos created through IVF do not have the right number of chromosomes, and the faults underlie nearly three-quarters of miscarriages. The NGS procedure should reduce the chances of couples having faulty embryos transferred and give them more confidence in the health of embryos they have frozen after screening. Sergio was working as a scientist in Britain when he met Ewa on a visit to Rome. When the two became close, Ewa explained that she could probably never have children because of past surgery for peritonitis and an ovarian cyst that exploded and nearly killed her at the age of 21. They became a couple and tried to conceive but had no luck. When they married three years ago, they decided to visit an IVF clinic as a last-ditch attempt to have a baby. At Oxford Fertility, a partnership of clinics, doctors found no cause for the couple\u2019s infertility, and offered them a place on the NGS trial. The couple\u2019s first cycle of IVF produced 10 embryos, but DNA screening revealed that only three of them had the normal set of chromosomes in their cells. The other seven had the wrong number of chromosomes and had little chance of producing a healthy baby. Ewa had one embryo transferred to her womb, and the other two healthy embryos frozen for future use. It was the couple\u2019s first attempt at IVF and they did not have high hopes. But one morning, Ewa went downstairs to do a pregnancy test. \u201cIt was positive. She came up the stairs crying,\u201d said Sergio. \u201cWe still have the test.\u201d Ewa had monthly screenings throughout her pregnancy. They showed that the baby was growing well. Then, in January, Biagio was born a very healthy baby. \u201cEverything went magically by the book,\u201d said Sergio. Once the couple have settled into their role as parents, they plan to use the remaining embryos to add to their family. \u201cAs soon as we can support them, we\u2019ll go for the other two, for sure,\u201d said Sergio.",
+  "webTitle": "Woman told she could not have children has baby with DNA method",
+  "webPublicationDate": "2016-05-08T23:01:20Z",
+  "webUrl": "https://www.theguardian.com/science/2016/may/09/woman-told-she-could-not-have-children-has-baby-with-dna-method",
+  "keyword": [
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Fertility problems",
+      "id": "society/fertility-problems",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ian Sample",
+      "id": "profile/iansample"
+    }
+  ],
+  "guardianId": "science/2016/may/09/woman-told-she-could-not-have-children-has-baby-with-dna-method"
+}

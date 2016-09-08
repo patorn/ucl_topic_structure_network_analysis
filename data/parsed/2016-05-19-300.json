@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/healthcare-network/2016/may/19/mental-health-nhs-revolution",
+  "id": "2016-05-19-300",
+  "sectionId": "healthcare-network",
+  "body": "Improving the UK\u2019s mental health system is among the greatest challenges facing the NHS. Rising suicide rates, long waiting times for inpatient and community mental health team appointments, and people in crisis unable to find a hospital bed anywhere near home are just some of these challenges. Mental health has never been so high profile, with politicians lining up almost weekly to declare it a priority and even the prime minister pledging earlier this year to set in motion a mental health \u201crevolution\u201d. However, translating rhetoric about paving the way for radical improvements and achieving \u201cparity of esteem\u201d, so that people in need of mental health support can expect swift, appropriate treatment on a par with physical health, is proving tricky. In a time of austerity and unprecedented funding constraints, there is a huge mountain still to climb. Figures released last month by the charity Mind revealed that almost half of people (46%) with mental health problems had considered or attempted to take their own life due to social factors such as debt and welfare difficulties. This comes at a time when cuts to community services are making it harder to access local support and advice. Despite repeated government announcements of extra cash, mental health services continue to face relentless strain. According to the charity Rethink Mental Illness, as a proportion of the NHS budget, mental health is just 13% despite accounting for more than 23% of the disease burden. Against this backdrop there have, nevertheless, been considerable efforts to improve the overall quality of care, focusing on prevention as well as treatment, which have been widely welcomed. In March, The Kings Fund\u2019s highly significant report on the potential benefits to patients and NHS finances of integrating mental and physical health services demonstrated how restructuring could save billions. The continuing separation of physical and mental-health services is a formidable obstacle to progress \u2013 it comes with \u201ca high human cost\u201d and adds \u00a311bn a year to the NHS\u2019s financial burden. The report\u2019s recommendations include improving mental health expertise in general hospitals to identify where people have such needs and physical health checks in psychiatric facilities to become routine. However, a report by the National Audit Office published last month questions whether the government has a grip on the true cost of achieving parity of esteem and that its ambition to meet new mental health targets was \u201cchallenging\u201d in the current climate. The recent publication of the independent Mental Health Taskforce\u2019s report on the state of mental health services shone a spotlight on the level of underinvestment and shocking lack of access to care many people experienced. Commissioned by England\u2019s NHS chief executive Simon Stevens, the report laid bare the complexity and scale of the undertaking to achieve parity, but it also provided a blueprint for a system-wide, strategic change to tackle striking failures and gaps in care. Its proposals \u2013 including how to improve care through prevention and early intervention, seven-day access to care for people in crisis, and integrated physical and mental health provision \u2013 precipitated a national NHS strategy to transform services. At the same time a report by the Centre for Mental Health (CMH), Priorities for Mental Health, drilled down even further, providing robust evidence of the economic case for reform, particularly when it comes to prevention and early intervention. CMH deputy chief executive Andy Bell says scarce resources can be better deployed by, for example, reshaping services for children and young people; creating community-based alternatives to inpatient crisis care can also be effective. However, Bell warns that there is no getting away from the need for much greater investment. \u201cThe evidence is absolutely clear cut. At the moment, the current level of provision is way below what it should be. We know that if you focus on [investment], you will get good returns both in terms of reduced costs down the line and of better health.\u201d The chief executive of Mind and chair of the Mental Health Taskforce, Paul Farmer, says the challenges may be formidable, but long-lasting change is achievable if there is consistent political will and the cash to back it up. \u201cWe\u2019re trying to do something that\u2019s not easy, especially in the current climate. But I do think there\u2019s a momentum and a new level of confidence from people that this is the moment that things not just should change, but really will change.\u201d Join the Healthcare Professionals Network to read more pieces like this. And follow us on Twitter (@GdnHealthcare) to keep up with the latest healthcare news and views.",
+  "webTitle": "Mental health services kept waiting for promised 'revolution'",
+  "webPublicationDate": "2016-05-19T07:05:01Z",
+  "webUrl": "https://www.theguardian.com/healthcare-network/2016/may/19/mental-health-nhs-revolution",
+  "keyword": [
+    {
+      "webTitle": "Healthcare Network",
+      "id": "healthcare-network/healthcare-network",
+      "sectionId": "healthcare-network",
+      "sectionName": "Healthcare Professionals Network"
+    },
+    {
+      "webTitle": "Mental health",
+      "id": "healthcare-network/mental-health",
+      "sectionId": "healthcare-network",
+      "sectionName": "Healthcare Professionals Network"
+    },
+    {
+      "webTitle": "Work practices",
+      "id": "healthcare-network/work-practices",
+      "sectionId": "healthcare-network",
+      "sectionName": "Healthcare Professionals Network"
+    },
+    {
+      "webTitle": "Policy",
+      "id": "healthcare-network/policy",
+      "sectionId": "healthcare-network",
+      "sectionName": "Healthcare Professionals Network"
+    },
+    {
+      "webTitle": "Mental health",
+      "id": "society/mental-health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "NHS",
+      "id": "society/nhs",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Mary O'Hara",
+      "id": "profile/maryohara"
+    }
+  ],
+  "guardianId": "healthcare-network/2016/may/19/mental-health-nhs-revolution"
+}

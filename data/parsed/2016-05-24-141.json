@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/24/middlesbrough-viktor-fischer-ajax",
+  "id": "2016-05-24-141",
+  "sectionId": "football",
+  "body": "Middlesbrough are poised to make Viktor Fischer their first signing of the summer after agreeing to pay Ajax \u20ac5m (\u00a33.8m) for the Denmark international. Fischer, 21, travelled to England on Tuesday to discuss personal terms after a successful bid from Aitor Karanka\u2019s side beat off competition from the big-spending Austrian side Red Bull Salzburg. The 21-year-old is due to have his medical on Teesside on Wednesday before returning to join the Danish national side ahead of the friendly against Bosnia-Herzegovina next week.   Related: Eric Cantona: \u2018I love Jos\u00e9 Mourinho but he is not Manchester United\u2019    It is understood that the prospect of fulfilling his dream of playing in the Premier League and the presence of Karanka as Boro manager were major factors in his decision. Fischer, a versatile forward who can play in several positions across the front line but is best known as a left winger, has been at Ajax since the age of 15 having signed from FC Midtjylland in 2011. He has been compared to the Danish legend Michael Laudrup in the past having been named Holland\u2019s Talent of the Year in 2013 after scoring 10 goals in the Eredivisie. However, lengthy injury problems last season restricted him to just four appearances, although Fischer was a regular as Ajax finished as runners-up behind PSV Eindhoven. With just one year of his Ajax contract remaining, he had already hinted last week that his time at the club was coming to an end. \u201cI\u2019m ready to prove myself again, but probably somewhere else. I think that it is a mutual desire,\u201d he said.",
+  "webTitle": "Middlesbrough set to sign Viktor Fischer from Ajax for \u00a33.8m",
+  "webPublicationDate": "2016-05-24T13:58:21Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/24/middlesbrough-viktor-fischer-ajax",
+  "keyword": [
+    {
+      "webTitle": "Middlesbrough",
+      "id": "football/middlesbrough",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Ajax",
+      "id": "football/ajax",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Transfer window",
+      "id": "football/transfer-window",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ed Aarons",
+      "id": "profile/ed-aarons"
+    }
+  ],
+  "guardianId": "football/2016/may/24/middlesbrough-viktor-fischer-ajax"
+}

@@ -1,0 +1,43 @@
+{
+  "apiUrl": "https://content.guardianapis.com/science/2016/may/19/jaap-lucassen-obituary",
+  "id": "2016-05-19-114",
+  "sectionId": "science",
+  "body": "Our friend and colleague Jaap Lucassen, who has died aged 84, was a Dutch scientist working mainly in the UK, who made a distinguished contribution to physical chemistry. The great Anglo-Dutch food and soap company Unilever provided the platform for Jaap\u2019s scientific career. Unilever Research spawned in the early 1960s two small basic science groups, at Vlaardingen (Rotterdam) and Port Sunlight (Merseyside), each scrutinising fundamental properties of soap-related materials (surfactants). These groups rapidly gained international respect. Jaap and his wife, Emmie Reynders, joined Vlaardingen in 1961. In 1969, Jaap and Emmie, now leading names in their field, moved to Merseyside, where Jaap joined a group wryly christened \u201cthe University of Port Sunlight\u201d. For 16 happy years he collaborated widely, a flair for practical work partnering real theoretical acumen producing significant contributions on surface waves, wetting and bubbles. Jaap was born in Zuilen, near Utrecht, the eldest child of Herman Lucassen, a tobacconist, and Antje Pranger, whose family farmed tulip bulbs. After schooldays partly overshadowed by the wartime occupation of the Netherlands, he read chemistry at Utrecht University, finishing with a doctorate. Here, too, he met and, in 1958, married Emmie. Their lifelong partnership produced two daughters and a series of seminal papers unravelling the intricate behaviour of detergent solution surfaces. After his years at Port Sunlight, Jaap rejoined Unilever\u2019s Vlaardingen group, and retired soon afterwards. He was then free to accept invitations from universities around the world as a distinguished adviser and lecturer, most notably from the Nobel laureate PG de Gennes at the Coll\u00e8ge de France, recognition for ground-breaking insights into the dynamics of wetting, unpublished for commercial reasons, that proved equivalent to ideas expounded a decade later by de Gennes himself. Jaap\u2019s painstaking and frequently playful scientific curiosity always impressed. He could not resist challenging received wisdom, from championing non-equilibrium thinking in surface science to an infamous controlled explosion of egg in a microwave despite, or more accurately because of, dire warnings. His helpfulness with problems besetting others recalls a laconic placard on his office door reading \u201cLet us solve your superficial problems\u201d. Many such problems, deconstructed by him to basic principles, resolved themselves. Jaap is fondly remembered by colleagues as an inspirational scientist and good friend whose somewhat hesitant stammer covered a steely resolve, especially evident on the squash court. He is survived by Emmie, their daughters, Anneke and Emy, and six grandchildren.",
+  "webTitle": "Jaap Lucassen obituary",
+  "webPublicationDate": "2016-05-19T16:07:19Z",
+  "webUrl": "https://www.theguardian.com/science/2016/may/19/jaap-lucassen-obituary",
+  "keyword": [
+    {
+      "webTitle": "Chemistry",
+      "id": "science/chemistry",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Physics",
+      "id": "science/physics",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Unilever",
+      "id": "business/unilever",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [],
+  "guardianId": "science/2016/may/19/jaap-lucassen-obituary"
+}

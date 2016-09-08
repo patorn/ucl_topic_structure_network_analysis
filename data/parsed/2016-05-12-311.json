@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/12/frank-de-boer-leaves-ajax-everton",
+  "id": "2016-05-12-311",
+  "sectionId": "football",
+  "body": "The Ajax coach Frank de Boer is to leave the Dutch side after five and a half years in charge, the club announced on Thursday.   Related: Sunderland safe after Lamine Kon\u00e9 double sinks crumbling Everton    De Boer has been mentioned as a potential replacement at Everton for Roberto Mart\u00ednez, whose hold on his job looks increasingly flimsy after a 3-0 defeat at Sunderland on Tuesday. Everton have won only one of their past 10 matches. De Boer\u2019s agent, Guido Albers, claimed last weekend that the former Holland international \u201cwould love to join a club like Everton\u201d. De Boer said on confirming his departure from Ajax that he did not know what his next move would be. The 45-year-old\u2019s contract at Ajax runs out next year but after their final-day implosion in the Dutch title race the club announced they had agreed to part ways after their tour of China is completed. That begins on Friday and ends next Thursday. Ajax went into Sunday\u2019s final round of matches level on points with the defending champions PSV Eindhoven but with a superior goal difference. With their opponents, De Graafschap, sitting second from bottom, Ajax were favourites to deliver a fifth title under De Boer but could manage no better than a 1-1 draw, allowing PSV to finish two points clear at the top of the table. \u201cI began to realise it was time for something else,\u201d De Boer said on Thursday. \u201cThat is better for me and I think also for Ajax. What I will do, I do not know yet. A year without a club is also an option. I\u2019ll see what comes my way.\u201d His agent recently told the Dutch broadcaster NOS: \u201cHe would love to join a club like Everton or Valencia. It\u2019s all about the right philosophy and how they play football. That is what Frank is looking for. I have told Ajax there is no other club and I have not held discussions with anyone.\u201d",
+  "webTitle": "Frank de Boer to leave Ajax after agent says Dutchman would love Everton job",
+  "webPublicationDate": "2016-05-12T08:36:53Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/12/frank-de-boer-leaves-ajax-everton",
+  "keyword": [
+    {
+      "webTitle": "Ajax",
+      "id": "football/ajax",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Everton",
+      "id": "football/everton",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "European club football",
+      "id": "football/europeanfootball",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "football/2016/may/12/frank-de-boer-leaves-ajax-everton"
+}

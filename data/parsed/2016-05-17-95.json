@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/greenslade/2016/may/17/three-russian-editors-resign-amid-threats-to-press-freedom",
+  "id": "2016-05-17-95",
+  "sectionId": "media",
+  "body": "Three senior editors have resigned from the leading Russian media group RBC in a further sign of official pressure on independent journalism. RBC said that the resignations on 13 May of editor-in-chief Yelizaveta Osetinskaya and her two close colleagues - newspaper editor Maxim Solyus and news agency editor Roman Badanin - were due to \u201cdifferences regarding the media company\u2019s future\u201d. But there was little surprise following a raid on the offices of RBC\u2019s owner, the liberal-leaning billionaire Mikhail Prokhorov, who ran against Vladimir Putin for the presidency in 2012. Rumours of a criminal investigation into RBC\u2019s management have also been swirling for weeks. RBC\u2019s newspaper is regarded as one of the last independent publications in Russia and its website has been among the most popular news sites in the country. Its investigative reporting was championed by Osetinskaya after her arrival in January 2014. It covered the Panama Papers revelations and has published reports about the business links of people close to Putin, including members of his family.  According to the BBC\u2019s report, most observers think that it is RBC\u2019s reporting on Putin\u2019s family that is the root of official displeasure. And an RBC source quoted by in the Reuters report said the final straw appears to have been an article about an oyster farm that was set up near a luxury Black Sea residence known as \u201cPutin\u2019s palace\u201d. The editorial departures have been condemned by the International Federation of journalists (IFJ) and its European counterpart along with their affiliate, the Russian Union of Journalists (RUJ). The RUJ, in expressing its concerns over the situation at the RBC, denounced the wider escalation of attacks against Russian media. Last week, the newsprint version of the independent national newspaper Novye Izvestia, also known for its investigations, was closed by a sudden decision of its investors. IFJ president Jim Boumelha said: \u201cThe resignation of three top editors is not only a loss for the RBC but also a major blow for press freedom in the whole country.  \u201cIt is disheartening to see that the Russian government continues to adopt a censorship approach that is putting freedom of expression and journalists\u2019 work at risk every day.\u201d Russian government officials have denied that the editors\u2019 departures had anything to do with pressure from the Kremlin. Sources: Reuters/IFJ/BBC",
+  "webTitle": "Three Russian editors resign amid threats to press freedom",
+  "webPublicationDate": "2016-05-17T16:17:12Z",
+  "webUrl": "https://www.theguardian.com/media/greenslade/2016/may/17/three-russian-editors-resign-amid-threats-to-press-freedom",
+  "keyword": [
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Press freedom",
+      "id": "media/press-freedom",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Russia",
+      "id": "world/russia",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Vladimir Putin",
+      "id": "world/vladimir-putin",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Newspapers",
+      "id": "media/newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Digital media",
+      "id": "media/digital-media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Roy Greenslade",
+      "id": "profile/roygreenslade"
+    }
+  ],
+  "guardianId": "media/greenslade/2016/may/17/three-russian-editors-resign-amid-threats-to-press-freedom"
+}

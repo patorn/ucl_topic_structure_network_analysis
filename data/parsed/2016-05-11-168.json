@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/11/boris-johnson-launches-the-vote-leave-battlebus-in-cornwall",
+  "id": "2016-05-11-168",
+  "sectionId": "politics",
+  "body": "Launching the Vote Leave battlebus with an impromptu speech in Cornwall, Boris Johnson has listed several factors he said mean the Brexit camp had \u201cright on its side\u201d and 24 June \u2013 the day after Britain\u2019s EU referendum \u2013 would prove to be \u201cIndependence Day for Britain\u201d. Brandishing a Cornish pasty (rather ironically, one of more than 60 British food and drink products that have protected geographical status under EU law, meaning they cannot be ripped off by imitations made elsewhere), Johnson said it was \u201cabsolutely crazy that the EU is telling us how powerful our vacuum cleaners have got to be, what shape our bananas have got to be, and all that kind of thing\u201d. He said it was \u201ccosting UK businesses about \u00a3600m a week in unnecessary regulation\u201d and that he was \u201cdelirious\u201d with Vote Leave\u2019s claim, repeated on the side of the battlebus, that Britain \u201csends the EU \u00a3350m a week\u201d. But how fair are his claims? There was outcry in some parts of the press in 2014 about what was described as an EU ban on certain kinds of about 30 different electrical appliances \u2013 including vacuum cleaners, kettles, toasters and lawnmowers. The ban is on appliances that use too much energy: for vacuum cleaners, for example, the maximum input power has been 1,600 Watts since 2014 and will be 900W from September 2017.  It is aimed at increasing energy efficiency \u2013 producing more effective vacuum cleaners that use less electricity. Similar rules introduced two decades ago for white goods mean fridges and freezers, for example, now use about one-third less electricity than they did then. Vacuum cleaner makers backed the new rules when the industry was consulted before their introduction. And far from Britain \u201cbeing told\u201d how powerful vacuum cleaners could be, the UK government actively supported the measures and, like every member state, could have blocked them if it wanted to. A Brussels ban on bendy bananas is one of the EU\u2019s most persistent myths.  Bananas have always been classified by quality and size for international trade. Because the standards, set by individual governments and the industry, were confusing, the European Commission was asked to draw up new rules. Commission regulation 2257/94 decreed that bananas in general should be \u201cfree from malformation or abnormal curvature\u201d. Those sold as \u201cextra class\u201d must be perfect, \u201cclass 1\u201d can have \u201cslight defects of shape\u201d and \u201cclass 2\u201d can have full-scale \u201cdefects of shape\u201d. Nothing is banned under the regulation, which sets grading rules requested by industry to make sure importers \u2013 including UK wholesalers and supermarkets \u2013 know exactly what they will be getting when they order a box of bananas. The claim that EU regulations cost British businesses \u00a3600m a week comes from the thinktank Open Europe, which calculated that the 100 most expensive EU rules cost UK companies and the public sector \u00a333.3bn a year. But as the InFacts website points out, the same study also found that quantifiable benefits from these rules were worth about \u00a358.6bn a year, or \u00a31.1bn a week: a net gain of about \u00a3487m a week.  Many other, less easily quantifiable benefits of EU membership \u2013 such as the boost to trade from the single market \u2013 and benefits for individual citizens were not factored into the equation.  Moreover, many of these \u201cunnecessary regulations\u201d are either rules \u2013 on banking security, for example \u2013 that the UK would want to keep after a British exit from the EU, or derive from international agreements Britain would still have to abide by.  Overall, Open Europe found that once the benefits of these rules were deducted, the overall saving that might be achieved by \u201cpolitically feasible\u201d cuts to red tape after leaving the EU might be about \u00a38.5bn annually \u2013 against which would have to be offset all the unquantifiable costs of a Brexit. The same kind of problem occurs with Vote Leave\u2019s claim that \u201cBritain sends \u00a3350m a week to the EU\u201d. First, the figure does not take account of Britain\u2019s rebate, worth nearly \u00a3100m a week (which also means some of Britain\u2019s \u201cmembership fee\u201d never actually leaves the UK). Second, roughly half of what Britain does pay comes straight back in EU spending in the UK. So arguably a more accurate reflection of the cost to Britain of EU membership might be \u00a38.5bn last year, or about \u00a3160m (as opposed to \u00a3350m) a week. And once more, that adjusted figure does not take into account any of the economic and financial benefits to Britain of being in the single market. Sir Andrew Dilnot, chair of the UK Statistics Authority, has written to Vote Leave saying the \u00a3350m figure \u201cappears to be a gross figure, which does not take into account the rebate, or other flows from the EU to the UK public sector [or flows to non-public sector bodies]\u201d. As such, Dilnot added: \u201cWithout further explanation I consider these statements to be potentially misleading and it is disappointing that this figure has been used without such explanation.\u201d",
+  "webTitle": "Is the EU really dictating the shape of your bananas?",
+  "webPublicationDate": "2016-05-11T14:38:26Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/11/boris-johnson-launches-the-vote-leave-battlebus-in-cornwall",
+  "keyword": [
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Boris Johnson",
+      "id": "politics/boris",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jon Henley",
+      "id": "profile/jonhenley"
+    }
+  ],
+  "guardianId": "politics/2016/may/11/boris-johnson-launches-the-vote-leave-battlebus-in-cornwall"
+}

@@ -1,0 +1,82 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/26/oil-price-rises-above-50-dollars-barrel",
+  "id": "2016-05-26-116",
+  "sectionId": "business",
+  "body": "Oil prices have broken through the $50 per barrel mark for the first time in almost seven months after storage figures suggested that the glut in global crude supplies was easing. Many analysts have predicted that the recovery, which will help the North Sea oil industry and could steady the global economy but hurt motorists through higher petrol costs, could be short-lived. The price of Brent crude edged up 0.9% to $50.2 a barrel, boosted by data from the US government showing a sharper than expected fall in crude stocks last week, and it later fell back slightly. It was Brent\u2019s highest price since early November, and a sign that supply disruption triggered by the wildfires in Canada\u2019s Alberta province and outages in Nigeria is starting to be felt across the global oil industry. The crude price, which compares with $118 nearly two years ago, was also helped by a fall in the price of the dollar.   Brent crude price graph   Julian Jessop, chief global economist at Capital Economics, said that while a recovery in crude prices should be positive for the global economy, there were downsides. He said: \u201cThe recovery is, on balance, good news for the global economy and for equity prices. Prices in the $50-$60 range would be high enough to ease some of the pressure on producers, while still low enough to boost spending on other goods and services. \u201cHigher oil prices are clearly better news for producers, or mixed producers/consumers such as the US, than they are for consumers. In particular, the rebound in oil prices will sap some of the momentum from the economic recoveries in the eurozone and Japan.\u201d Jessop added that a rebound in oil prices would remove another reason for the Federal Reserve to delay raising US interest rates.  But Sebastien Marlier, the senior commodities editor at the Economist Intelligence Unit, remained doubtful that the current rally would last: \u201cOverall, demand growth is still slower than last year. Meanwhile, Saudi Arabia and Russia are still pumping at record levels and Iran has come back faster than many expected \u2026 A sustained recovery will more probably take hold in 2017-18.\u201d   Related: Shell to cut 2,200 more jobs in reaction to low oil prices    Chad Holliday, the chairman of Shell, told investors at a company meeting in London that it remained a \u201cvery demanding time for our industry\u201d, pointing out that 42 oil and gas companies filed for bankrupcy in the US last year.  Ric Spooner, the chief market analyst at Sydney\u2019s CMC Markets, told Reuters that the world was still oversupplied with oil, even given increased demand and supply disruptions from Canadian wildfires and violence in Libya and Nigeria. \u201cCertainly [$50] is a psychological barrier. There is a momentum \u2013 people will try and push it up over that,\u201d he said. \u201cFrom a practical point of view, will there or will there not be a sustainable increase above $50? At the $50-$55 range there has got to be a good chance of seeing the peak.\u201d US crude stocks fell at the steepest rate in seven weeks last week, by 4.2m barrels to 537.1m, much larger than the 2.5m-barrel drop analysts were expecting. The price of US oil futures also rose by 33 cents to $49.89 a barrel, the highest since October. Michael Hewson, the chief market analyst at CMC Markets, said: \u201cWhile oil inventory levels continue to remain high, the fact that we are now starting to see bigger than expected draws on a much more regular basis is helping keep the momentum behind the current rally sustained for now, as both Brent and US prices move in lockstep with each other.\u201d",
+  "webTitle": "Oil price rises above $50 a barrel",
+  "webPublicationDate": "2016-05-26T16:58:21Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/26/oil-price-rises-above-50-dollars-barrel",
+  "keyword": [
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Oil",
+      "id": "business/oil",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Commodities",
+      "id": "business/commodities",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Fossil fuels",
+      "id": "environment/fossil-fuels",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Fracking",
+      "id": "environment/fracking",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Canada",
+      "id": "world/canada",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Oil and gas companies",
+      "id": "business/oilandgascompanies",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Energy industry",
+      "id": "business/energy-industry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Angela Monaghan",
+      "id": "profile/angela-monaghan"
+    },
+    {
+      "webTitle": "Terry Macalister",
+      "id": "profile/terrymacalister"
+    }
+  ],
+  "guardianId": "business/2016/may/26/oil-price-rises-above-50-dollars-barrel"
+}

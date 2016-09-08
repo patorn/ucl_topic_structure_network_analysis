@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/09/galatasaray-besiktas-fans-brawl-wheelchair-basketball-iwbf-eurocup",
+  "id": "2016-05-09-204",
+  "sectionId": "sport",
+  "body": "A wheelchair basketball match in Germany was abandoned after a huge fight broke out in the crowd between fans of rival clubs Galatasaray and Besiktas, leaving seven supporters needing treatment. Around 60 fans, some armed with weapons including knives and baseball bats, were involved in the brawl that took place during an IWBF Eurocup game at a sports hall in the Saxony town of Zwickau. However police confirmed but there were no serious injuries. In a statement, local police said: \u201cThe game had to be abandoned and seven fans were taken to nearby hospitals. Six of them were released after receiving treatment.\u201d           Turkish football fans riot at another wheelchair basketball game in 2012     A bus containing around 50 supporters left the venue after fighting broke out and were briefly detained by police near Erfurt, about 120km west of Zwickau, while their bus was searched. Following the abandoned match, the tournament \u2013 hosted by BSC Rollers Zwickau \u2013 continued, with the Madrid-based Club Deportivo Ilunion going on to win their second title, having finished runner-up in the last two years. Galatasaray and Besiktas finished equal-fifth out of eight teams. The incident is not the first between the clubs at a wheelchair basketball match. Back in 2012, fans of the two sides had to be separated by riot police using teargas in Istanbul. Fans of the two clubs are banned from visiting opposing grounds for football and basketball games but the ban does not extend to wheelchair basketball.",
+  "webTitle": "Galatasaray and Besiktas fans brawl during wheelchair basketball match",
+  "webPublicationDate": "2016-05-09T12:04:10Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/09/galatasaray-besiktas-fans-brawl-wheelchair-basketball-iwbf-eurocup",
+  "keyword": [
+    {
+      "webTitle": "Basketball",
+      "id": "sport/basketball",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Besiktas",
+      "id": "football/besiktas",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Galatasaray",
+      "id": "football/galatasaray",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Disability sport",
+      "id": "sport/disability-sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "sport/2016/may/09/galatasaray-besiktas-fans-brawl-wheelchair-basketball-iwbf-eurocup"
+}

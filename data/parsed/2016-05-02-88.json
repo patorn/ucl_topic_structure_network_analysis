@@ -1,0 +1,55 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/02/craig-wright-the-reluctant-multimillionaire-behind-bitcoin",
+  "id": "2016-05-02-88",
+  "sectionId": "technology",
+  "body": "Name: Dr Craig Wright. Age: 45. Appearance: Reluctant. Who is he? Satoshi Nakamoto. And who is he? The mysterious inventor of bitcoin.     Bitcoins Photograph: Karen Bleier/AFP/Getty Images    And what\u2019s that? A kind of internet money. Just like a pound or a dollar or a euro, one bitcoin is worth whatever people will give you in exchange for it, and just like pounds or dollars or euros, the supply of bitcoins has to be controlled or they end up being worth nothing. So Nakamoto owns the machine that prints bitcoins? No. \u2018Nakamoto\u2019 invented bitcoin by publishing an academic paper in 2008 which explained, roughly speaking, how new bitcoins could be awarded to anybody who was willing to donate vast amounts of their computer\u2019s processing time to maintaining the bitcoin system. Sounds a bit clever. It\u2019s very clever. Since being launched in January 2009, it seems to work. Some bitcoin fans think it might even become the global currency one day. Nakamoto himself is believed to own about a million bitcoins, currently worth \u00a3305m. No one could congratulate him for his brilliance, however, because no one knew who he was. Who needs congratulations? \u00a3305m is its own reward. Yeah. There were rumours though. In December some sources claimed he was actually Craig Wright, an Australian computer scientist now based in London, after receiving apparently stolen documents about him. Now Wright has come forward to admit it \u2013 seemingly proving the matter by using a special cryptographic key previously linked to the same blocks of bitcoin sent by Nakamoto. Hurrah! So are the nerds carrying him shoulder-high? They are not. For one thing, there are still some doubts about what Wright claims, and he is being very grumpy about the whole thing. \u201cI don\u2019t want money, I don\u2019t want fame, I don\u2019t want adoration,\u201d he says. \u201cI just want to be left alone.\u201d He should follow James Goodfellow\u2019s example. Who\u2019s James Goodfellow? Exactly. Goodfellow patented the first cash machine 50 years ago today, but he never got rich or famous from it. Sounds great. Or maybe it\u2019s better just not to do anything impressive in the first place. Good idea. It works for me. Do say: \u201cAll right, I admit I\u2019m a multimillionaire genius, but you are not allowed to praise me.\u201d Don\u2019t say: \u201cI think I can manage that.\u201d",
+  "webTitle": "Is Craig Wright the reluctant multimillionaire behind Bitcoin?",
+  "webPublicationDate": "2016-05-02T16:30:33Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/02/craig-wright-the-reluctant-multimillionaire-behind-bitcoin",
+  "keyword": [
+    {
+      "webTitle": "Bitcoin",
+      "id": "technology/bitcoin",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Cryptocurrencies",
+      "id": "technology/cryptocurrencies",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Currencies",
+      "id": "business/currencies",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Computing",
+      "id": "technology/computing",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [],
+  "guardianId": "technology/2016/may/02/craig-wright-the-reluctant-multimillionaire-behind-bitcoin"
+}

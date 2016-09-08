@@ -1,0 +1,49 @@
+{
+  "apiUrl": "https://content.guardianapis.com/books/2016/may/16/beatrix-potter-had-little-time-for-freudian-criticism",
+  "id": "2016-05-16-84",
+  "sectionId": "books",
+  "body": "While I enjoyed \u201cThe dystopian world of Beatrix Potter\u201d (11 May), she herself may have had some comments to make. In his essay \u201cBeatrix Potter\u201d, Graham Greene traces her books\u2019 development, from what he calls the \u201cvintage years in comedy\u201d, from 1904 to 1907, which started with Two Bad Mice and Peter Rabbit, to the \u201cgreat near-tragedies\u201d which included Mr Tod\u2019 and Samuel Whiskers. He attributes this darkening to some sort of emotional ordeal. By 1930, however, with Little Pig Robinson, he says she had reached her \u201cisland, her escape from tragedy to safe serene fancy\u201d. A note by Greene adds: \u201cOn the publication of this essay I received a somewhat acid letter from Mrs Potter correcting certain details. Little Pig Robinson, although the last published of her books, was in fact the first written. She denied that there had been any emotional disturbance at the time she was writing Mr Tod: she was suffering however from the after-effects of flu. In conclusion, she deprecated sharply the \u2018Freudian school\u2019 of criticism.\u201dJudy TurnerMalvern, Worcestershire  \u2022 Join the debate \u2013 email guardian.letters@theguardian.com",
+  "webTitle": "Beatrix Potter had little time for Freudian criticism | Letters",
+  "webPublicationDate": "2016-05-16T18:03:06Z",
+  "webUrl": "https://www.theguardian.com/books/2016/may/16/beatrix-potter-had-little-time-for-freudian-criticism",
+  "keyword": [
+    {
+      "webTitle": "Beatrix Potter",
+      "id": "books/potter-beatrix",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Literary criticism",
+      "id": "books/literary-criticism",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Books",
+      "id": "books/books",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Graham Greene",
+      "id": "books/grahamgreene",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Sigmund Freud",
+      "id": "books/sigmundfreud",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [],
+  "guardianId": "books/2016/may/16/beatrix-potter-had-little-time-for-freudian-criticism"
+}

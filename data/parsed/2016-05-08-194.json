@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/money/2016/may/08/fraudsters-talktalk-scam-calls",
+  "id": "2016-05-08-194",
+  "sectionId": "money",
+  "body": "I have been communicating with TalkTalk for a number of months following its cyber attack, regarding scam calls I\u2019ve been receiving from people claiming to be TalkTalk. This culminated in me making a complaint. During this time I was told that my account details were definitely not accessed. Having just renewed my contract, I asked for a letter to confirm this. But this morning I received another call, and when I asked the caller to confirm my details, they had my full name, address and postcode. TalkTalk has confirmed that it was a scam call.  I am extremely concerned that the company previously told me that none of my account details were taken, and now I don\u2019t know if other details have also been taken. I wish to terminate my contract but TalkTalk will not guarantee that I won\u2019t be charged a fee. AM, Londonderry \u2022 My elderly and partially sighted father was recently scammed out of \u00a34,900 by a bogus TalkTalk engineer who managed to convince him he really was from TalkTalk. My father has endured great stress and his bank account is still frozen some weeks later. TalkTalk said it had sent him an email warning about scams, but he has problems reading emails and usually just deletes the ones that are not in large print. However, had they sent a physical letter he would have been able to read that using his magnifying glass. My father was completely unaware that such a scam was going on. TalkTalk has offered him \u00a350 as a goodwill gesture, but in my opinion this is them accepting responsibility but refusing to pay the money he lost. My father\u2019s bank is also refusing to give him any information about why they cannot trace the payment he made to the bogus TalkTalk engineer so he can be reimbursed. NH, by email Last year Guardian Money revealed how scammers were using customer details hacked from TalkTalk or a subsidiary to con customers out of varying sums \u2013 often several thousand pounds The scammers call a customer, quote their TalkTalk account and other personal details to make the caller believe they work for the company, and offer to make refunds for some imagined inconvenience. Having persuaded the customer to give them access to their computer they are able to empty their bank account. It\u2019s a very clever scam \u2013 one that relies on the victim thinking they are talking to genuine TalkTalk staff. In almost all the cases we are aware of, both the bank and TalkTalk have always denied any responsibility. The above letters, plus another that we received this week, show this is still going on. We suspect the list of customer details has been sold on many times, as various groups have targeted TalkTalk customers. At the time of its data breach, TalkTalk shamefully chose to email its customers \u2013 it\u2019s cheaper than sending out letters \u2013 and inevitably many didn\u2019t see the warnings as they ended up in their spam filters. We asked the company about both the above cases. It said it has again checked AM\u2019s details and is adamant that they were not taken as part of the data breach. It is possible they have been called up randomly and the scammers have quoted personal details available from other sources, it suggests. In the second case, it again said it bears no responsibility. \u201cWe sympathise with NH\u2019s loss but unfortunately the scam described would not have been possible without him providing confidential information to the scammers. We\u2019ve taken a number of significant steps to alert, inform and advise customers to help them protect themselves, and we would advise anyone who has fallen victim to a scam, and revealed banking information, to contact their bank immediately,\u201d it says. We are rapidly coming to the conclusion that the risks of online banking for some people outweigh the benefits. We welcome letters but cannot answer individually. Email us at consumer.champions@theguardian.com or write to Consumer Champions, Money, the Guardian, 90 York Way, London N1 9GU. Please include a daytime phone number",
+  "webTitle": "Targeted by fraudsters despite TalkTalk\u2019s denials",
+  "webPublicationDate": "2016-05-08T06:00:14Z",
+  "webUrl": "https://www.theguardian.com/money/2016/may/08/fraudsters-talktalk-scam-calls",
+  "keyword": [
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "TalkTalk",
+      "id": "business/talk-talk-telecom",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Scams",
+      "id": "money/scamsandfraud",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Consumer affairs",
+      "id": "money/consumer-affairs",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Consumer rights",
+      "id": "money/consumer-rights-money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Telecommunications industry",
+      "id": "business/telecoms",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Miles Brignall",
+      "id": "profile/milesbrignall"
+    }
+  ],
+  "guardianId": "money/2016/may/08/fraudsters-talktalk-scam-calls"
+}

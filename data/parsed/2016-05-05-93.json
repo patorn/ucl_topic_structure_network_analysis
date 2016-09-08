@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/05/damir-imamovics-sevdah-takht-dvojka-review",
+  "id": "2016-05-05-93",
+  "sectionId": "music",
+  "body": "Sevdah is one of the great musical styles of the Balkans, with its songs of melancholia, loss or longing inviting comparisons with the blues, Portuguese fado or the sad-edged morna of Cape Verde. Damir Imamovi\u0107 comes from a family of sevdah singers, but has set out to modernise the style, working with producer Chris Eckman, the American guitarist best known for his work with Dirtmusic and the great desert blues band Tamikrest. The result is a classy, accessible set that could bring sevdah to a wider audience. Imamovi\u0107 has a fine, suitably pained voice, as he shows on the opening Sarajevo, his own powerful song about his home city, where children \u201cwill be taught venom and hate\u201d. He\u2019s backed by his own custom-made tambur (a guitar-like long-necked lute), and by an impressive violinist, while the electric bass and percussion add unexpected echoes of jazz and even African styles.",
+  "webTitle": "Damir Imamovi\u0107's Sevdah Takht: Dvojka review \u2013 a new take on Balkan blues",
+  "webPublicationDate": "2016-05-05T17:20:00Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/05/damir-imamovics-sevdah-takht-dvojka-review",
+  "keyword": [
+    {
+      "webTitle": "World music",
+      "id": "music/worldmusic",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Folk music",
+      "id": "music/folk",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Blues",
+      "id": "music/blues",
+      "sectionId": "music",
+      "sectionName": "Music"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Robin Denselow",
+      "id": "profile/robindenselow"
+    }
+  ],
+  "guardianId": "music/2016/may/05/damir-imamovics-sevdah-takht-dvojka-review"
+}

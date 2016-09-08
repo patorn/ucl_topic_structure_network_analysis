@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/news/2016/may/11/rail-hotline-study-buckle-sag-steel-cables-early-summer-train-delays",
+  "id": "2016-05-11-42",
+  "sectionId": "news",
+  "body": "Train delays are not unusual in the UK, but you may notice that they become even more frequent when warm spring weather arrives. Even moderately low spring temperatures of 20C can cause our railways to flag.  A new study shows that the greatest number of heat-related incidents tends to occur early in the summer season, and, by high summer, when temperatures are at their peak, trains are running smoothly again. Heat causes a number of problems for railways. Steel rails (which are attached directly to concrete sleepers) expand and buckle, risking derailment of trains. Overhead electric lines also expand and start to sag, sometimes causing electric trains to lose their connection to the power supply. And electrical signalling equipment also struggles to cope with overheating.   Related: Privatised, nationalised, electrified? A guide to the UK's railways    In theory, UK rail infrastructure should be able to cope with temperatures up to 27\u00b0C or so, but in practice it only takes one poorly maintained section of line to cause delays up and down the country.  Emma Ferranti, from the University of Birmingham, and her colleagues, studied such heat-related incidents in south-east England and found that over half were to do with signalling problems, and a fifth with track failure.    Related: UK's coastal railways vulnerable to climate threat, expert warns    In the journal Weather, Climate and Society, the authors show how most of these incidents happen early in the season. They postulate that by late summer most of the dodgy bits of track and ropey signalling systems have been fixed. All of which suggests that some well-targeted railway maintenance earlier in the year could prevent many of these heat related delays.",
+  "webTitle": "Rail hotline: study pins down the buckle and sag of summer timetables",
+  "webPublicationDate": "2016-05-11T20:30:08Z",
+  "webUrl": "https://www.theguardian.com/news/2016/may/11/rail-hotline-study-buckle-sag-steel-cables-early-summer-train-delays",
+  "keyword": [
+    {
+      "webTitle": "Rail transport",
+      "id": "uk/rail-transport",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Network Rail",
+      "id": "business/network-rail",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Transport policy",
+      "id": "politics/transport",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Transport",
+      "id": "uk/transport",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Rail travel",
+      "id": "travel/railtravel",
+      "sectionId": "travel",
+      "sectionName": "Travel"
+    },
+    {
+      "webTitle": "Spring",
+      "id": "environment/spring",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Climate change",
+      "id": "science/scienceofclimatechange",
+      "sectionId": "science",
+      "sectionName": "Science"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Kate Ravilious",
+      "id": "profile/kate-ravilious"
+    }
+  ],
+  "guardianId": "news/2016/may/11/rail-hotline-study-buckle-sag-steel-cables-early-summer-train-delays"
+}

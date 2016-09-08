@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/26/us-military-photos-syria-soldiers-fighting-isis",
+  "id": "2016-05-26-62",
+  "sectionId": "world",
+  "body": "Elite US military forces have been photographed for the first time in Syria as they join largely Kurdish forces on an advance toward, Raqqa, the Islamic State terror group\u2019s capital. A photographer with Agence France-Presse captured US special operations forces with Kurdish forces known as the YPG, part of the US-mentored Syrian Democratic Forces, in a rural village less than 40 miles from Raqqa. Some US troops wear the insignia of the YPG in an apparent show of support. Peter Cook, the Pentagon press secretary, resisted commenting on the photographs and would only describe the US special operations forces\u2019 mission in generic terms. \u201cOur special operations forces in the past have, yes, worn insignias and other identifying marks with their partner forces,\u201d Cook told reporters on Thursday.     Fighters from the Kurdish People\u2019s Protection Units (YPG), part of the Syrian Democratic Forces (SDF), in the village of Fatisah in the northern Syrian province of Raqqa. Photograph: Delil Souleiman/AFP/Getty Images    Barack Obama announced last month that he would increase US special operations forces in Syria to 300, for what the Pentagon has consistently described as merely an advisory mission. AFP described the troops as \u201cnear the frontline\u201d north of Raqqa, despite the Pentagon\u2019s frequent claims that the forces are consistently behind the forward lines. Cook denied any mission creep had occurred, saying the \u201cadvise-and-assist role has not changed\u201d, and that the elite forces, the only ones thus far acknowledged in Syria, conduct \u201cmeetings\u201d with indigenous forces \u201cthat are taking the fight to Isil\u201d, another term for Isis. \u201cThey are not on the forward line. They are providing advice and assistance,\u201d Cook said.      Armed men in uniform identified by Syrian Democratic forces as US special operations forces ride in the back of a pickup truck. Photograph: Delil Souleiman/AFP/Getty Images    It is not clear how far the YPG forces or their US mentors intend to push southward toward Raqqa, which has been in Isis\u2019s hands for years, nor how robust their logistics and resupply chains are. But the commander of the US air war in Iraq and Syria heralded the advance and pledged fire support for it.  \u201cAs the air component, we\u2019re able to strike ahead of the ground maneuver, and so that\u2019s my goal. If I know where the next fight\u2019s going to be, then what I want to do is actually soften it with strikes ahead of the ground component,\u201d Lt Gen Charles Q Brown Jr told reporters on Thursday.   Related: Kurdish fighters say US special forces have been fighting Isis for months    \u201cIf you\u2019re looking over your shoulder worried about an airstrike you have a hard time building defensive positions, or building IEDs [improvised explosive devices] or booby traps for when the ground force gets there.\u201d US special operations forces have conducted at least two raids in Syria that the Pentagon has acknowledged, despite the typical insistence that US forces are not conducting combat operations in the nearly two-year-old war against Isis.  In Iraq, the Guardian has also published accounts from the front of Kurdish commanders describing US special operators as full combatants. Earlier this month, the Guardian published cellphone video showing US forces amid a sustained battle near the Isis-controlled Iraqi city of Mosul that killed Special Warfare Operator First Class Charles H Keating IV.",
+  "webTitle": "US military special forces pictured aiding Kurdish fighters in Syria",
+  "webPublicationDate": "2016-05-26T19:55:18Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/26/us-military-photos-syria-soldiers-fighting-isis",
+  "keyword": [
+    {
+      "webTitle": "Syria",
+      "id": "world/syria",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Islamic State",
+      "id": "world/isis",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "US military",
+      "id": "us-news/us-military",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Spencer Ackerman",
+      "id": "profile/spencerackerman"
+    }
+  ],
+  "guardianId": "world/2016/may/26/us-military-photos-syria-soldiers-fighting-isis"
+}

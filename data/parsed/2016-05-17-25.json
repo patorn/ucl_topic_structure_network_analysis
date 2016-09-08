@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/17/mexico-same-sex-marriage-legal-president",
+  "id": "2016-05-17-25",
+  "sectionId": "world",
+  "body": "Mexico\u2019s president, Enrique Pe\u00f1a Nieto, has called for the nationwide legalization of same-sex marriage, announcing that he had signed initiatives proposing that marriage equality be written into the country\u2019s constitution and federal civil code.   Related: Anti-LGBT views still prevail, global survey finds    The announcement, which coincides with the National Day Against Homophobia in Mexico, came after Nieto met at a roundtable with representatives of LGBT groups. In a series of tweets, Nieto wrote, in Spanish, that he had \u201clistened to their ideas and proposals\u201d, adding that he had \u201creiterated the commitment of [the government of Mexico] to combat all forms of discrimination, including sexual preferences.\u201d    Hoy, en el D\u00eda Nacional de la Lucha contra la Homofobia, me reun\u00ed con representantes de colectivos LGBTI. Escuch\u00e9 sus ideas y propuestas.\u2014 Enrique Pe\u00f1a Nieto (@EPN) May 17, 2016      Reiter\u00e9 el compromiso del @gobmx de combatir todo tipo de discriminaci\u00f3n, incluyendo la motivada por preferencias sexuales #SinHomofobia\u2014 Enrique Pe\u00f1a Nieto (@EPN) May 17, 2016    He also changed his avatar on social media to include the rainbow flag. Same-sex marriage has been legal in some parts of Mexico for some time; it was legalized first by ordinance in Mexico City \u2013 the first Latin American jurisdiction to do so \u2013 and the law was then upheld by the supreme court in August 2010. In 2011, the first same-sex marriages occurred in the state of Quintana Roo after it was discovered that the state\u2019s legal code did not explicitly forbid it. Those were annulled by the governor in April 2012, but that annulment was overturned almost immediately by Quintana Roo\u2019s secretary of state. Currently, only three of Mexico\u2019s 31 states \u2013 Campeche, Coahuila and Nayarit \u2013 plus Mexico City have passed laws enacting marriage equality, and four more have de facto marriage equality by either gubernatorial decree, as in the case of Chihuahua, or decisions by the secretary of state or director of civil registry. In 2015, the country\u2019s supreme court published a ruling which said that defining marriage as only between a man and a woman was discriminatory, which was a kind of de facto legalization.  But this judicial ruling did not invalidate state bans \u2013 same-sex marriage is still banned by the province of Yucat\u00e1n, for example \u2013 meaning couples that want to marry in states where it is still illegal can do so, but only after obtaining a court injunction.",
+  "webTitle": "Mexico's president calls for nationwide legalization of same-sex marriage",
+  "webPublicationDate": "2016-05-17T20:45:20Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/17/mexico-same-sex-marriage-legal-president",
+  "keyword": [
+    {
+      "webTitle": "LGBT rights",
+      "id": "world/lgbt-rights",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Mexico",
+      "id": "world/mexico",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Gay marriage",
+      "id": "society/gay-marriage",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Americas",
+      "id": "world/americas",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Nicky Woolf",
+      "id": "profile/nicky-woolf"
+    }
+  ],
+  "guardianId": "world/2016/may/17/mexico-same-sex-marriage-legal-president"
+}

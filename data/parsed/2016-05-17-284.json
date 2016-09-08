@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/17/connecting-everyone-to-internet-global-economy-poverty",
+  "id": "2016-05-17-284",
+  "sectionId": "technology",
+  "body": "Bringing internet access to the 4.1 billion people in the world who do not have it would increase global economic output by $6.7 trillion (\u00a34.6tr), raising 500 million people out of poverty, according to a study by PwC. The report, titled Connecting the world: Ten mechanisms for global inclusion, was prepared for Facebook by PwC\u2019s strategy consultants Strategy&. Getting everyone in the world online is not as tall an order as one might think, according to the company: affordability, rather than infrastructure, is the main barrier to internet adoption in most areas. More than nine-tenths of the the world\u2019s population live in places where the infrastructure exists to get them online, but the majority of them cannot afford to do so. For 66% of the world, a 500MB data plan costs more than 5% of their monthly income, the level the report\u2019s authors describe as \u201cunaffordable\u201d. But some people decide to get online despite the cost \u2013 in China, just 22% of people can have a high enough income by that measure to make internet access affordable for them, even though 46% of the population is online. Even if it\u2019s expensive, if there\u2019s enough of a reason for someone to get online, they may look past the cost. By contrast, in most of the developing world, the necessary infrastructure is already in place to get internet to the whole population, if they could afford it. China, Brazil and Indonesia all have 100% of their populations covered by internet-capable infrastructure. While cost reductions sound easier to achieve than total infrastructure creation, that can understate the magnitude of the reductions needed. To get 80% of their populations online, for instance, Ethiopia, Nigeria and the Philippines would all have to see a cut in the price of internet access by well over 90%. Improvement of existing technology, or even simply installing existing technology in developing nations, will suffice to bring about much of this cost reduction. For instance, the vast majority of the world\u2019s mobile spectrum is being used to deliver 2G internet: if it was upgraded to 3G or 4G, the cost of mobile data would plummet. But such an upgrade requires money spent upfront, not only by carriers, but also by users, who must buy (comparatively) more expensive phones.     Facebook\u2019s solar-powered 4G drone, Aquila. Photograph: Facebook    The focus on cost reductions marries with Facebook\u2019s own Internet.org project, which is aimed at partnering carriers in developing nations to give low-cost internet access. It has come under criticism, however, from web luminaries such as Tim Berners-Lee, who dislike Facebook\u2019s approach of limiting the low-cost access to a subsection of the web. So-called zero rating, which lies at the heart of Internet.org\u2019s efforts to expand web access, involves allowing internet users to access some websites, such as Wikipedia and Facebook, without paying for the data they use. But the approach is criticised by net neutrality advocates like Berners-Lee, who said: \u201cI tend to say \u2018Just say no.\u2019 In the particular case of somebody who\u2019s offering \u2026 something which is branded internet, it\u2019s not internet, then you just say no.\u201d But Jonathan Tate, technology consulting leader at PwC, argues that Facebook\u2019s approach is worth it in the long term. While zero rating provides access to a slimmer version the internet than the full web, he says it\u2019s a crucial stepping stone to full access. \u201cThe important thing here is to get things moving,\u201d he added. Facebook\u2019s motivation for paying for Internet.org is partially explained by PwC\u2019s estimates of where the benefits of new access accrue. While most of the economic benefits of new internet access come to those freshly online, the consultancy estimates that content providers such as Facebook stand to gain a $200bn (\u00a3138bn) opportunity over the next five years. But new technology will still be needed to achieve total connectivity. The reports\u2019 authors estimate that the last 500 million people to get online won\u2019t be able to rely on piecemeal improvements. Instead, they\u2019ll need new \u201cdisruptive technologies\u201d being created by companies like Google, with its Project Loon plan to mount internet access points on balloons, and Facebook, with its solar-powered, laser-armed 4G drone called Aquila.",
+  "webTitle": "Connecting everyone to internet 'would add $6.7tn to global economy'",
+  "webPublicationDate": "2016-05-17T07:24:00Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/17/connecting-everyone-to-internet-global-economy-poverty",
+  "keyword": [
+    {
+      "webTitle": "Internet",
+      "id": "technology/internet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Facebook",
+      "id": "technology/facebook",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Global development",
+      "id": "global-development/global-development",
+      "sectionId": "global-development",
+      "sectionName": "Global development"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Alex Hern",
+      "id": "profile/alex-hern"
+    }
+  ],
+  "guardianId": "technology/2016/may/17/connecting-everyone-to-internet-global-economy-poverty"
+}

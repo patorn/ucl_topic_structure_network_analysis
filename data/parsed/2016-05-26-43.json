@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/26/google-wins-copyright-lawsuit-oracle-java-code",
+  "id": "2016-05-26-43",
+  "sectionId": "technology",
+  "body": "Google has won a six-year court case brought by software firm Oracle, which claimed Google had infringed its copyright by using 11,500 lines of Java code in its Android operating system. The jury ruled that Google\u2019s use of 37 Java APIs (application programming interfaces) was fair use. The news will be welcomed by developers, who typically rely on free access to APIs to develop third-party services. \u201cI salute you for your extreme hard work in this case,\u201d US district judge William Alsup told the jury, who had deliberated for three days at San Francisco federal court. \u201cI know there will be appeals and the like.\u201d  Oracle had contested that Google\u2019s use of its proprietary Java code exceeded fair use, and was seeking damages of up to $9bn. Android is by far the most popular mobile operating system, with 1.4 billion monthly active users worldwide and a market share of more than 80%. Those users downloaded 65bn apps in 2015 alone. More importantly, the \u201cfair use\u201d decision in this case sets a strong precedent in an industry where programs and apps are often as much constructed from various building blocks of code that already exist as they are from whole cloth. If the company that owns the original code language \u2013 as Oracle does with Java \u2013 can claim ownership over systems which use parts of its code, in varying sizes, that might have a serious dampening effect on developers, few of whom have Google\u2019s deep pockets and batteries of legal artillery to call into battle in their defence. That means today\u2019s verdict marks a victory for Google of the latest battle in a years-long war between these two titanic companies. It will probably not be the last, as Oracle is likely to appeal. When it was developed, Android partly used the programming language Java to build its API. Java was a widely used language, developed by a company called Sun Microsystems in the 1990s. Sun was bought by Larry Ellison\u2019s $169bn software conglomerate Oracle in 2010, and after unsuccessfully trying to negotiate for a deal which would allow Google to license the Java APIs, Oracle sued for copyright and patent infringement, firing the first shot in the legal war. The key question in the case was this: between a patent, in which the mechanism is the idea being protected by law, and a copyrighted text, in which the language is the idea being protected by law, where does a program \u2013 in which the language is the mechanism \u2013 fall? First blood went to Google when in 2012 a Washington DC judge sided with Google, saying that APIs can\u2019t be copyrighted, effectively torpedoing Oracle\u2019s case that the Java APIs used in Android infringed upon Oracle\u2019s intellectual property. That order which followed a jury trial which had a patent phase \u2013 which Google also won \u2013 and a copyright phase, which ended in a split verdict. In his order, Judge Allsup \u2013 who described the action as \u201cthe first of the so-called \u2018smartphone war\u2019 cases\u201d \u2013 dismissed Oracle\u2019s case, saying that \u201cthe particular elements replicated by Google were free for all to use under the Copyright Act.\u201d But that was just the beginning. In 2013, the federal circuit court of appeals heard Oracle\u2019s case again, and in May 2014 the federal judge reversed Allsup\u2019s ruling, holding that the \u201cstructure, sequence and organization\u201d of the Java API packages \u2013 there are 37 in total which Oracle claimed Google copied \u2013 and remanded the case back to the district court to be retried, this time to discover whether Google\u2019s actions constituted \u201cfair use\u201d of Oracle\u2019s technology. If you think that all sounds rather arcane, you\u2019d be right. Lawyers for both sides in the San Francisco trial attempted in various ways to explain to the jury how \u201cfair use\u201d might be contemplated in the context of programming language, often using tortuous metaphors. \u201cDuring opening and closing arguments, Google had filing cabinets to point to as a [metaphor for a] system of organising things,\u201d said the Electronic Frontier Foundation\u2019s Parker Higgins, who watched the trial closely. At other moments, he said, lawyers pointed to dishes on a menu, pointing out that chefs still have to prepare those dishes themselves, or at a steering wheel and pedals as common factors in all cars of all makes, meaning that drivers don\u2019t have to learn entire systems in each new car. \u201cAnd that seems simple enough,\u201d he said, \u201cthe jurors seemed to be taking notes, but the underlying question of whether they understood the technical aspects, the standard business practices, remains to be seen.\u201d \u201cThis case should never have gotten this far,\u201d Tyler Ochoa, a professor at Santa Clara University school of law who specializes in copyright law. \u201cIn my opinion, the federal circuit got it wrong when it reversed [the original trial] ruling and sent the case back for a retrial on fair use.\u201d \u201cOracle [was] trying to use software copyright to protect a portion of the software thats basically functional, and copyright isn\u2019t supposed to protect functional things,\u201d he added.",
+  "webTitle": "Google wins six-year legal battle with Oracle over Android code copyright",
+  "webPublicationDate": "2016-05-26T20:46:48Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/26/google-wins-copyright-lawsuit-oracle-java-code",
+  "keyword": [
+    {
+      "webTitle": "Google",
+      "id": "technology/google",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Oracle",
+      "id": "technology/oracle",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Alphabet",
+      "id": "technology/alphabet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Software",
+      "id": "technology/software",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Nicky Woolf",
+      "id": "profile/nicky-woolf"
+    }
+  ],
+  "guardianId": "technology/2016/may/26/google-wins-copyright-lawsuit-oracle-java-code"
+}

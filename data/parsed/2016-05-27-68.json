@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/27/austerity-policies-do-more-harm-than-good-imf-study-concludes",
+  "id": "2016-05-27-68",
+  "sectionId": "business",
+  "body": "A strong warning that austerity policies can do more harm than good has been delivered by economists from the International Monetary Fund, in a critique of the neoliberal doctrine that has dominated economics for the past three decades. In an article seized on by the shadow chancellor, John McDonnell, the IMF economists said rising inequality was bad for growth and that governments should use controls to cope with destabilising capital flows. The IMF team praised some aspects of the liberalising agenda that was ushered in by Ronald Reagan and Margaret Thatcher in the 1980s, such as the expansion of trade and the increase in foreign direct investment. But it said other aspects of the programme had not delivered the expected improvements in economic performance. Looking specifically at removing barriers to flows of capital and plans to strengthen the public finances, the three IMF economists came up with conclusions that contradicted neoliberal theory. \u201cThe benefits in terms of increased growth seem fairly difficult to establish when looking at a broad group of countries,\u201d they said. \u201cThe costs in terms of increased inequality are prominent. Such costs epitomise the trade-off between the growth and equity effects of some aspects of the neoliberal agenda.\u00ad \u201cIncreased inequality in turn hurts the level and sustainability of growth. Even if growth is the sole or main purpose of the neoliberal agenda, advocates of that agenda still need to pay attention to the distributional effects.\u00ad\u201d The UK chancellor, George Osborne, announced austerity plans when he took over at the Treasury in May 2010, in an effort to tackle Britain\u2019s record peacetime budget deficit and rising national debt . But his view that paying off the debt accumulated during the deep slump of 2008-09 was vital for the economy\u2019s long-term growth prospects was challenged by the IMF. Osborne said his austerity programme would give the government more flexibility in the event of a future crisis, but the IMF said taking out this sort of insurance policy would only be worth it if the benefits exceeded the costs. \u201cIt turns out, however, that the cost could be large \u2013 much larger than the benefit. The reason is that, to get to a lower debt level, taxes that distort economic behaviour need to be raised temporarily or productive spending needs to be cut \u2013 or both. The costs of the tax increases or expenditure cuts required to bring down the debt may be much larger than the reduced crisis risk engendered by the lower debt.\u201d The economists rejected the notion that austerity could be good for growth by boosting the confidence of the private sector to invest. It said that in practice, \u201cepisodes of fiscal consolidation have been followed, on average, by drops rather than by expansions in output. On average, a consolidation of 1% of GDP increases the long-term unemployment rate by 0.6 percentage points.\u201d  McDonnell said: \u201cThe International Monetary Fund has summarised what a growing consensus among economists across the globe now think, that Osborne-style austerity economics increases inequality and instability, and undermines growth. \u201cIt\u2019s time for the chancellor to listen to the experts, change course and put an end to his failed policy of austerity with a solid commitment by government to deliver an industrial strategy backed up by patient investment to create the high-tech, high-wage economy of the future.\u201d The three IMF research department economists \u2013 Jonathan Ostry, Prakash Loungani and Davide Furceri \u2013 said the benefits of some important parts of the neoliberal agenda appeared to have been overplayed, while the risks from short-term flows of hot money in and out of countries loomed large. \u201cIn the case of fiscal consolidation, the short-run costs in terms of lower output and welfare and higher unemployment have been underplayed, and the desirability for countries with ample fiscal space of simply living with high debt and allowing debt ratios to decline organically through growth is underappreciated.\u201d They concluded that the increase in inequality threatened to be self-defeating. \u201cThe increase in inequality engendered by financial openness and austerity might itself undercut growth, the very thing that the neoliberal agenda is intent on boosting. There is now strong evidence that inequality can significantly lower both the level and the durability of growth.\u201d",
+  "webTitle": "Austerity policies do more harm than good, IMF study concludes",
+  "webPublicationDate": "2016-05-27T16:44:12Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/27/austerity-policies-do-more-harm-than-good-imf-study-concludes",
+  "keyword": [
+    {
+      "webTitle": "Austerity",
+      "id": "business/austerity",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "International Monetary Fund (IMF)",
+      "id": "business/imf",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "George Osborne",
+      "id": "politics/georgeosborne",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Economic policy",
+      "id": "politics/economy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Larry Elliott",
+      "id": "profile/larryelliott"
+    }
+  ],
+  "guardianId": "business/2016/may/27/austerity-policies-do-more-harm-than-good-imf-study-concludes"
+}

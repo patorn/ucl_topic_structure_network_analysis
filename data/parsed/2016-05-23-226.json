@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/23/chromebook-mac-google-pc-sales",
+  "id": "2016-05-23-226",
+  "sectionId": "technology",
+  "body": "More Google Chromebooks are sold in the US than Apple Macs, according to the latest figures from analyst firm IDC. While few think of the company, famous more for its mobile and internet software, as a major creator of PC operating systems, the slimmed-down Chrome OS has powered almost 2m laptops sold to Americans in the first quarter of 2016, IDC told the Verge. By comparison, Apple sold 1.76m Macs in the same period. Chrome OS, the operating system that underpins the low-cost \u201cchromebook\u201d laptops made by manufacturers including Lenovo, HP and Dell, has taken a slow route to success. Initially announced in 2009, the operating system strips the computer back to just a web browser plus a small amount of local storage. Users are encouraged to use web apps like Google Docs and Photos instead of full desktop apps such as Microsoft Office. But while the first chromebooks came out in 2011, the operating system took a few years to take off, powering just 400,000 laptops sold in America in the first 11 months of 2012, and 1.76m in the same period of 2013. The key to its success in the past three months has been the education market, where the low price has sparked uptake and the limited capabilities of the machine are seen as a positive rather than a downside. While the sales puts Chrome OS ahead of Mac OS in shipments, Apple doesn\u2019t have much to worry about. The average sales price of Macs remains hundreds of pounds higher than that of Chromebooks, and the market share in direct-to-consumer sales is likely to be very different indeed. But Google and Apple aren\u2019t really in direct competition, as the former doesn\u2019t build the majority of the laptops, or even profit from their sales: like Android, Chrome OS is given away to manufacturers to install for free, and Google makes money from adverts and services sold on top of that. The bigger target of increasing Chromebook sales is Microsoft, which not only loses the potential income from Windows licenses, but also from software such as Office typically sold on top of those licenses. But Microsoft is still very much on top: IDC\u2019s figures suggest almost 10 million PCs running Windows were sold in the last quarter.",
+  "webTitle": "Chromebooks outsell Macs for the first time",
+  "webPublicationDate": "2016-05-23T10:33:10Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/23/chromebook-mac-google-pc-sales",
+  "keyword": [
+    {
+      "webTitle": "Chromebook",
+      "id": "technology/chromebook",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Google",
+      "id": "technology/google",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Alphabet",
+      "id": "technology/alphabet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Laptops",
+      "id": "technology/laptops",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Computing",
+      "id": "technology/computing",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Alex Hern",
+      "id": "profile/alex-hern"
+    }
+  ],
+  "guardianId": "technology/2016/may/23/chromebook-mac-google-pc-sales"
+}

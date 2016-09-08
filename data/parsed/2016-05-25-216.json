@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/marketforceslive/2016/may/25/tesco-shares-slip-on-property-and-growth-concerns",
+  "id": "2016-05-25-216",
+  "sectionId": "business",
+  "body": "On a day when retailers have seen varying reactions to their results - Marks & Spencer down, Dixons Carphone up - Tesco is also in the spotlight. The supermarket\u2019s shares are down 2.45p at 168.55p after a downgrade from Credit Suisse. The bank has cut its target price from 135p to 115p, partly on concerns about its property estate. It said:  Large-store performance looks worse than reported. We deconstruct Tesco\u2019s UK sales by format, adjusting for differing sales densities and growth in online, and conclude that like for likes at Tesco\u2019s largest stores (46% of its UK grocery space) were 2.3% lower in 2016. Our proprietary analysis indicates that these stores create a structural EBIT headwind of -1.7%. Real estate burden appears unique and intractable. Tesco spent \u00a31.7bn buying back leases and joint ventures in 2016,but we expect this trend to slow as fewer large packages become available to purchase. We also analyse the \u00a33.6bn of structured debt transactions comprising 106 stores that average 70,000 square feet, which further limit real estate flexibility. UK operating profit margins likely to be permanently rebased lower. After incorporating our unique analysis of Brand Guarantee, Farm Brands, online, and scale, we see no obvious path back to historical margin levels (or what \u2018normal\u2019 margins should be). We reduce our UK terminal margin to 2.2% from 2.8%, which already assumes Tesco can mitigate 50% of the structural drag of its large stores. We also reduce our 2018-19 UK and Republic of Ireland EBIT estimates by 14% and 29%, respectively, resulting in group operating profit estimates falling by 8.0% and 17.8%, respectively.",
+  "webTitle": "Tesco shares slip on property and growth concerns",
+  "webPublicationDate": "2016-05-25T10:01:42Z",
+  "webUrl": "https://www.theguardian.com/business/marketforceslive/2016/may/25/tesco-shares-slip-on-property-and-growth-concerns",
+  "keyword": [
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Stock markets",
+      "id": "business/stock-markets",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Tesco",
+      "id": "business/tesco",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Nick Fletcher",
+      "id": "profile/nickfletcher"
+    }
+  ],
+  "guardianId": "business/marketforceslive/2016/may/25/tesco-shares-slip-on-property-and-growth-concerns"
+}

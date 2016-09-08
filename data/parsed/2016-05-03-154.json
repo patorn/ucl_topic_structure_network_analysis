@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/03/nils-pratley-guardian-staff-ballot-scott-trust",
+  "id": "2016-05-03-154",
+  "sectionId": "media",
+  "body": "Nils Pratley, the Guardian\u2019s financial editor, has won an indicative ballot of staff for the journalist director of the Scott Trust, the body responsible for ensuring the newspaper\u2019s long-term survival. The ballot, which attracted a turnout of 65% of eligible Guardian and Observer staff, placed Pratley first out of five candidates including economics correspondent Phillip Inman, columnist Polly Toynbee, defence and intelligence correspondent Ewan MacAskill and cartoonist Steve Bell. Pratley\u2019s appointment will have to be approved by 75% of the directors on the Scott Trust, with \u201cdue regard\u201d given to the result of the journalists\u2019 indicative ballot. The five-year appointment to the Scott Trust comes with a \u00a314,000 salary. Alan Rusbridger, who stood down as Guardian editor-in-chief after two decades last summer, is set to take up the role of chairman of the Scott Trust from September. Guardian Media Group is expected to announce operating losses in excess of \u00a350m when its annual financial report for 2015 is published in the summer. In January, Guardian editor-in-chief Katharine Viner and GMG chief executive David Pemsel announced plans to cut costs by 20% \u2013 a little over \u00a350m \u2013 in a bid to break even within three years. The plans include cutting 250 jobs, including 100 editorial roles, this year by means of a voluntary redundancy scheme.",
+  "webTitle": "Nils Pratley wins Guardian staff ballot for Scott Trust representative",
+  "webPublicationDate": "2016-05-03T14:30:47Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/03/nils-pratley-guardian-staff-ballot-scott-trust",
+  "keyword": [
+    {
+      "webTitle": "The Guardian",
+      "id": "media/theguardian",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Guardian Media Group",
+      "id": "media/guardianmediagroup",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "National newspapers",
+      "id": "media/national-newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers",
+      "id": "media/newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers & magazines",
+      "id": "media/pressandpublishing",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Mark Sweney",
+      "id": "profile/marksweney"
+    }
+  ],
+  "guardianId": "media/2016/may/03/nils-pratley-guardian-staff-ballot-scott-trust"
+}

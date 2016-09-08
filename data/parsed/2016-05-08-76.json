@@ -1,0 +1,49 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/08/graham-tayar-obituary",
+  "id": "2016-05-08-76",
+  "sectionId": "music",
+  "body": "My father, Graham Tayar, who has died aged 83, was a creative force best known for his many BBC radio series in the 1970s and for his trad jazz band, the Crouch End All Stars, which has had a loyal following across north London for the past 40 years. Born in Birmingham to Robert, a research chemist and Muriel (nee Aaron), he attended King Edward\u2019s school in the city, and then won a scholarship to Jesus College, Cambridge, where he obtained, as he proudly put it, \u201cthe best third in my year\u201d, as he had devoted most of his time to politics, partying and punting. After graduating, Graham started an artists\u2019 colony in the south of France, but eventually the group ran out of money and had to be repatriated by the British embassy. In the early 1960s he went to Ethiopia, where he taught English, met Emperor Haile Selassie and took up playing jazz piano. He also worked freelance for the BBC World Service, reporting on earthquakes and revolutions all over Africa. On his return to Britain, he spent many years producing and presenting programmes for what is now BBC Radio 3, the most successful of which was Personality and Power, in which Graham gathered high profile figures such as the historian Asa Briggs, the psychiatrist Anthony Storr, the British fascist leader Sir Oswald Mosley and the Conservative historian Lord Blake to discuss the processes by which politicians achieve power. Graham\u2019s infectious love of music and his unflagging energy meant that he was a force behind a significant amount of London jazz in the 1970s and 80s. One of his main contributions was to run for many years a well-known pub jazz session at the New Merlin\u2019s Cave in Islington, north London, where the resident band led by well-known musicians such as Bruce Turner, Wally Fawkes and John Barnes drew big crowds. The Crouch End All Stars also had a following. John Wain, the poet, critic and jazz lover, commented: \u201cAs the evening goes on \u2026 either individual soloists or the whole group suddenly take off into that timeless dimension of excitement and invention that is jazz.\u201d Graham wrote poetry all his life and published a volume, Not Too Late for Loving: A Lifetime of Occasional Verse (2000), which he would try to sell to every unsuspecting person he met. His poetry was described by the Guardian as \u201cpersonal lyrics that remind one of Hardy and Housman \u2026 his work is effective, often moving\u201d. He is survived by his wife, Catherine; by his children Penny, Imogen and me from two previous marriages; by his five grandchildren, Laura, Jethro, Atticus, Pearl and Erik; and by his brother, Clifford.",
+  "webTitle": "Graham Tayar obituary",
+  "webPublicationDate": "2016-05-08T16:22:46Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/08/graham-tayar-obituary",
+  "keyword": [
+    {
+      "webTitle": "Jazz",
+      "id": "music/jazz",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Radio 3",
+      "id": "media/radio-3",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "BBC",
+      "id": "media/bbc",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "London",
+      "id": "uk/london",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [],
+  "guardianId": "music/2016/may/08/graham-tayar-obituary"
+}

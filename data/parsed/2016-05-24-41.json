@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/commentisfree/2016/may/24/the-guardian-view-on-housing-in-london-bricks-and-mortals",
+  "id": "2016-05-24-41",
+  "sectionId": "commentisfree",
+  "body": "There is no longer room for argument about the fact that Britain\u2019s capital is, like much of the country, gripped by an appalling housing crisis. The statistics about average property prices being the wrong side of 10 times the average London wage make the same point in the language of economics that reports of toilets being installed inside kitchen cupboards in studio flats convey by anecdote. After the mayoral election at the start of this month, in which housing emerged as the dominant campaign theme, its political salience is also an established fact. Where swing voters once sat pretty, watching the value of their homes rise through the roof, London is now slipping back towards being a city of tenants, with a younger generation of renters left cash-strapped in the immediate term, and locked out of ownership deep into the future. There is, then, a growing consensus that there is a real problem here, and that Something Must Be Done. The irony, however, evident to every eye which scans the crane-streaked skyline, is that there is no shortage of activity connected with London real estate. Properties are endlessly extended, refitted and converted, and the steady spread of high-rise towers continues. No doubt the great draw of this world city, which pulls in so many internal economic migrants from other parts of the UK as well as from overseas, is one big part of the problem. But the overall volume of demand is not the only question; the other is what sort of demand gets addressed by all the activity on the supply side. And it is here that the Guardian\u2019s analysis of an iconic 50-storey development near the Thames \u2013 the Tower, at Vauxhall \u2013 sheds some unforgiving light. London, the Land Registry records for the Tower suggest, is failing to address its housing crisis because it is building homes for ghosts instead of people. There are several senses in which the 210 flats here, in the very heart of the capital, can be said to have been snapped up by spectres. The clear majority, 131, are owned by foreigners, many of whom may haunt their properties for only a couple of months a year. Indeed, 184 flats do not house a single citizen on the electoral roll. A few of the flats, a member of staff reports, are entirely and permanently empty, Mary Celeste homes which serve no purpose whatsoever beyond speculative investment. The clocks set to Abu Dhabi and Hong Kong time and the feel of a five-star atrium feed the Tower\u2019s sense that real life is something that happens somewhere else. Trying to find out where, however, is not always easy, because one in four of these flats is owned offshore, sometimes through the same sort of shell company structures which are familiar from the Panama Papers. Despite efforts to conceal ownership from public view and very likely the taxman in such cases, there is enough information for the Guardian to link several of the flats to particular members of a wealthy international elite, among them a Nigerian politician who chaired a collapsed bank, a Kyrgyzstan vodka magnate and a Russian billionaire who is in a partnership with an ally of Vladimir Putin. It was not the current Conservative government, but former deputy prime minister John Prescott, a man more often identified with working-class concerns than property speculators, who signed off on the original plan for the Tower. As ever, however, he will have faced tricky dilemmas. The promise of attached social housing, albeit relegated to another site down the road, will have been a factor. The advice, as ever, will have been that if you fix the supply at the top end, it will free up capacity right down the ladder. But when it comes to tax cuts and top pay, the discredited doctrine of trickle-down no longer commands a serious hearing. The doctrine of trickle-down housing now needs to go the same way. In place of failed laissez-faire, the new London mayor Sadiq Khan needs to look at rent controls, increased social housing quotients and a requirement that all new developments must first seek to make sales for local first homes. Planning decisions and ownership registration rules must all be directed to just one end \u2013 meeting the human need for affordable shelter.",
+  "webTitle": "The Guardian view on housing in London: bricks and mortals | Editorial",
+  "webPublicationDate": "2016-05-24T18:37:49Z",
+  "webUrl": "https://www.theguardian.com/commentisfree/2016/may/24/the-guardian-view-on-housing-in-london-bricks-and-mortals",
+  "keyword": [
+    {
+      "webTitle": "London",
+      "id": "uk/london",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "House prices",
+      "id": "money/houseprices",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Property",
+      "id": "money/property",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Real estate",
+      "id": "business/realestate",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Housing",
+      "id": "society/housing",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Cities",
+      "id": "cities/cities",
+      "sectionId": "cities",
+      "sectionName": "Cities"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Editorial",
+      "id": "profile/editorial"
+    }
+  ],
+  "guardianId": "commentisfree/2016/may/24/the-guardian-view-on-housing-in-london-bricks-and-mortals"
+}

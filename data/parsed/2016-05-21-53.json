@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/21/egyptair-plane-crash-ms804",
+  "id": "2016-05-21-53",
+  "sectionId": "world",
+  "body": "Terrorism\u2019s primary aim is to cause and spread fear. Whether the issue is a fake bomb in a men\u2019s lavatory at Old Trafford or a plane unaccountably disappearing over the Mediterranean, the immediate response, rational or otherwise, is conditioned by recent collective memories of very real horrors. Given that in the current, deeply unsettled international climate the threat posed by cross-border terrorism seems to be intensifying, it is unsurprising that speculation about the cause of Thursday\u2019s EgyptAir crash has focused on terrorist action. The fact that so far there has been no claim of responsibility from the obvious suspects, Islamic State, which blew up a Russian plane over Egypt in October, adds to the uncertainty. By their silence, the terrorists play on our nerves. Or perhaps, in truth, they know as little about what happened as we do. Because we live in such disturbed times, because we feel beset by almost daily acts of heinous terror that seemingly move ever closer to home, because the world, never easier to travel, appears an increasingly dangerous place, we fear the worst. In this case the worst is not that 66 people have died, dreadful though that reality is. It is that they were, possibly, victims of a calculated act of mass murder. Unspoken is the thought that, next time, the victims could be ourselves and our families. Obviously this is not an objective response. It is a human one. And naturally so. It is our shared humanity that is under attack. It may not have been terrorism. The only really hard information to date about what happened in the last three minutes of EgyptAir flight MS804 from Paris to Cairo has been garnered from the automatic Aircraft Communications Addressing and Reporting System. The plane\u2019s sensors reportedly detected smoke in a lavatory and the avionics bay, window or windows suddenly open to the skies, and rapidly ramifying computer problems. Some experts warn the Acars data is incomplete. Others say it gives the first reliable indication of what occurred. It can be interpreted in different ways, as evidence of a catastrophic technical failure sparking an on-board fire, or of a bomb explosion. Other theoretical variations \u2013 a hijacking, a deadly cockpit struggle, a suicidal pilot, a missile strike or a different form of unusual technical fault \u2013 appear less credible at this point. Yet all that would change if a fanatic were suddenly to pop up in a Raqqa video, celebrating another blow against the kuffar. Whatever conclusions the investigators ultimately reach \u2013 and it may take months to get final answers \u2013 the broadly held perception that this was yet another terrifying and violent event in an international landscape inadequately protected from ruthless extremists has probably already taken irreversible root. It raises pressing questions for the French and Egyptian governments. Regardless of whether the plane was sabotaged, this episode has highlighted the serious concerns about security at Charles de Gaulle airport outside Paris and, in particular, the potential for the radicalisation of the Muslim workforce. Patrick Calvar, head of France\u2019s equivalent of MI5, warned recently that the country remained a top target for Isis, which he said was seeking \u201cnew ways\u201d of hitting home. For President Fran\u00e7ois Hollande, who vowed to \u201ceradicate terrorism\u201d after last November\u2019s Paris attacks, personal as well as political credibility is now at stake. Egypt\u2019s authoritarian, military-backed government, whose harsh and divisive policies since seizing power in a 2013 coup have done much to undermine moderate Muslim opinion, also has questions to answer. It took nearly four weeks before President Abdel Fatah al-Sisi admitted that the Russian passenger jet that crashed last October on the Sinai peninsula had been blown up. There must be no cover-ups and face-saving this time. Fear and uncertainty is bound to continue as long as the battle against Isis, al-Qaida and like-minded affiliates in Libya and elsewhere remains inconclusive. Optimistic American assessments must be taken with a large pinch of salt. When the dust clears after this latest incident, we should also remember that Europeans or westerners are not the main target. In this ongoing civil war within Islam, it is Muslims who are by far the most numerous victims. But fear makes victims of us all.",
+  "webTitle": "EgyptAir uncertainty shows fear makes victims of us all",
+  "webPublicationDate": "2016-05-21T20:16:34Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/21/egyptair-plane-crash-ms804",
+  "keyword": [
+    {
+      "webTitle": "EgyptAir flight MS804",
+      "id": "world/egyptair-flight-ms804",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Islamic State",
+      "id": "world/isis",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Paris",
+      "id": "world/paris",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Egypt",
+      "id": "world/egypt",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "France",
+      "id": "world/france",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Simon Tisdall",
+      "id": "profile/simontisdall"
+    }
+  ],
+  "guardianId": "world/2016/may/21/egyptair-plane-crash-ms804"
+}

@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/australia-news/2016/may/03/victoria-told-to-brace-for-wild-winds-and-high-seas",
+  "id": "2016-05-03-357",
+  "sectionId": "australia-news",
+  "body": "Winds of up to 110km/h and large swells will hit parts of Victoria on Tuesday and the Bureau of Meteorology has warned the state to brace for wild weather.   Related: Natural disasters costing Australia 50% more than estimated    A severe weather warning has been issued for the north-east, south-west, central, west and south Gippsland and east Gippsland districts. Wild weather has already hit Tasmania with road closures and power outages forcing some schools to close. Cars and cargo were thrown around on the Spirit of Tasmania ferry and it arrived two hours late into Devonport from Melbourne after a rough crossing for passengers, a spokesman told AAP on Tuesday. \u201cAll of sudden there was one big wave and we all went sideways,\u201d a passenger told 3AW. Wind speeds reached in excess of 100km/h at Burnie and Devonport in the northwest overnight, knocking out power to some 15,000 properties and on Tuesday at least four schools were closed at the two centres and at Ulverstone. \u201cPolice advise all motorists in the north and northwest of the state that due to storms we have numerous reports of power lines and trees down across roads,\u201d police said in a statement. Large swells were expected to affect coastal areas in Victoria as the storm system hits the mainland. Waves up to seven metres are forecast for Tuesday night and Wednesday morning on Victoria\u2019s south-west coast. The average significant wave height for western Bass Strait is about 2.8 metres. A senior forecaster with the bureau in Victoria, Peter Newham, said the weather would be more widespread than the severe storm which hit Melbourne\u2019s east and south-west on Sunday night, when 40mm of rain fell in some areas and the State Emergency Service (SES) took more than 1,300 calls. \u201cToday the heavy winds will be quite general across the state, with localised damaging wind gusts in certain districts,\u201d he said. \u201cThere is a front coming through in the afternoon with showers but there will not be the thunderstorms that we saw on Sunday, which produce very localised and very extreme winds.\u201d By midnight the winds will have eased, Newham said. Tomorrow rainfall totals will be 2mm to 10mm across southern and mountain districts, and 1mm to 5mm in the Melbourne area. The SES has advised people to clear backyards and secure items such as outdoor furniture, umbrellas and trampolines, and move vehicles under cover or away from trees. \u201cTake care on the roads. Trees can be brought down during high winds causing dangerous and unexpected traffic hazards, such as fallen power lines,\u201d the SES said.",
+  "webTitle": "Victoria braces for wild weather as storm hits Tasmania",
+  "webPublicationDate": "2016-05-03T01:12:35Z",
+  "webUrl": "https://www.theguardian.com/australia-news/2016/may/03/victoria-told-to-brace-for-wild-winds-and-high-seas",
+  "keyword": [
+    {
+      "webTitle": "Australia weather",
+      "id": "australia-news/australia-weather",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Victoria",
+      "id": "weather/victoria",
+      "sectionId": "weather",
+      "sectionName": "Weather"
+    },
+    {
+      "webTitle": "Victoria (news)",
+      "id": "australia-news/victoria--news-",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Melissa Davey",
+      "id": "profile/melissa-davey"
+    }
+  ],
+  "guardianId": "australia-news/2016/may/03/victoria-told-to-brace-for-wild-winds-and-high-seas"
+}

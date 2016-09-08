@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/australia-news/2016/may/03/aged-care-funding-nursing-homes-cut-federal-budget",
+  "id": "2016-05-03-223",
+  "sectionId": "australia-news",
+  "body": "Aged care funding for nursing homes will be cut by $1.2bn over four years in response to higher than expected growth in expenditure and Medicare benefits will remain frozen for a further two years.  The budget papers report the \u201csavings\u201d will come from changes to the aged care funding instrument which determines the level of funding paid to aged care providers.    Related: New welfare recipients to get less as carbon tax compensation dropped    The government will also reduce the indexation of the complex healthcare component of the funding instrument by half, while establishing a $53m \u201ctransitional assistance\u201d fund. Health officials said funding to aged care providers was provided in three streams: behavioural assistance, physical assistance and complex care needs. Officials said the complex care category funding had grown disproportionately to the other two and so needed to be reassessed. Funding was $3.8bn higher than expected.  The government will spend a further $10m on surprise compliance visits to aged care homes until June 2017. Medicare benefits for GPs, specialists and other health practitioners will remain frozen for two years, saving the government $925m until 2018-19.  A further $66m will be cut over four years using \u201cenhanced data analytics\u201d to crack down on \u201cfraud, abuse, waste and errors\u201d in Medicare. The Coalition also plans to save money by improving debt recovery rates.",
+  "webTitle": "Aged care funding for nursing homes cut by $1.2bn in federal budget",
+  "webPublicationDate": "2016-05-03T11:23:38Z",
+  "webUrl": "https://www.theguardian.com/australia-news/2016/may/03/aged-care-funding-nursing-homes-cut-federal-budget",
+  "keyword": [
+    {
+      "webTitle": "Australian budget 2016",
+      "id": "australia-news/australian-budget-2016",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Health (Australia)",
+      "id": "australia-news/health",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Medicare Australia",
+      "id": "australia-news/australian-medicare",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Gabrielle Chan",
+      "id": "profile/gabrielle-chan"
+    }
+  ],
+  "guardianId": "australia-news/2016/may/03/aged-care-funding-nursing-homes-cut-federal-budget"
+}

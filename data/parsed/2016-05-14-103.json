@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/14/belfast-shooting-victim-identified-gunman-from-hospital-bed",
+  "id": "2016-05-14-103",
+  "sectionId": "uk-news",
+  "body": "The victim of a republican paramilitary shooting identified the alleged gunman from his hospital bed just before undergoing surgery, a court heard. At the hearing in Belfast on Saturday, a man was remanded in custody over a paramilitary-style shooting in the northern part of the city last week. Paul Francis Magee, 51, is accused of attempted murder and possession of a firearm or imitation firearm with intent to commit attempted murder. A detective from the Police Service of Northern Ireland told the court that the victim identified Magee from his hospital bed as the person who allegedly shot him. This was before the wounded man was about to be taken in for an operation, the PSNI officer said. The detective also said that Magee refused to answers questions put to him by officers. He said the weapon used in the attack off the Antrim Road in north Belfast on 9 May has not been found.",
+  "webTitle": "Belfast shooting victim identified gunman from hospital bed",
+  "webPublicationDate": "2016-05-14T13:40:51Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/14/belfast-shooting-victim-identified-gunman-from-hospital-bed",
+  "keyword": [
+    {
+      "webTitle": "Northern Ireland",
+      "id": "uk/northernireland",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Belfast",
+      "id": "uk/belfast",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Henry McDonald",
+      "id": "profile/henrymcdonald"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/14/belfast-shooting-victim-identified-gunman-from-hospital-bed"
+}

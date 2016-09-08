@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/04/chilcot-inquiry-iraq-war-after-eu-referendum-says-no-10",
+  "id": "2016-05-04-162",
+  "sectionId": "uk-news",
+  "body": "The Chilcot inquiry into the Iraq war will not be published until after the EU referendum, Downing Street has confirmed. Ministers had previously said the report by Sir John Chilcot would appear in the summer, amid pressure for publication as soon as it is handed over to the government. In the firmest timetable so far, David Cameron told MPs on Wednesday that it would be \u201cnot too much longer\u201d after the EU referendum on 23 June.  That would be almost exactly seven years after the inquiry was ordered by Labour prime minister Gordon Brown in late July 2009. In a response to a question from Tory backbencher David Amess about whether his 100-year-old mother could expect to live to see the report as well as the EU referendum, the Cameron said: \u201cI think I can reassure Maud that this summer she\u2019ll have I think a double opportunity to deal with these things, a referendum on 23 June, and I\u2019m sure the Chilcot report will come not too much longer after that.\u201d  Downing Street sources later confirmed that July was the most likely timing for the publication. The report is shortly to undergo security vetting, which should take about two weeks.  There is nothing in purdah rules that mean it cannot be published before the EU referendum, but publication before 23 June would be an unhelpful distraction for the government during the campaign. David Davis, the Conservative MP, has described it as \u201cincomprehensible and unacceptable\u201d that the report cannot be released in early May and questioned why Chilcot could not just \u201cpress send\u201d. The Chilcot report is more than 2 million words in length and is likely to contain a damning critique of military commanders, Tony Blair, former ministers, intelligence officers and top officials.",
+  "webTitle": "Chilcot report will not be published until after EU referendum",
+  "webPublicationDate": "2016-05-04T14:01:12Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/04/chilcot-inquiry-iraq-war-after-eu-referendum-says-no-10",
+  "keyword": [
+    {
+      "webTitle": "Iraq war inquiry",
+      "id": "uk/iraq-war-inquiry",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "David Cameron",
+      "id": "politics/davidcameron",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Middle East and North Africa",
+      "id": "world/middleeast",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Iraq",
+      "id": "world/iraq",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Rowena Mason",
+      "id": "profile/rowena-mason"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/04/chilcot-inquiry-iraq-war-after-eu-referendum-says-no-10"
+}

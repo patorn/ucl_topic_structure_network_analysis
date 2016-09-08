@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/02/australia-post-to-charge-for-delay-collecting-pacakages",
+  "id": "2016-05-02-228",
+  "sectionId": "business",
+  "body": "Australia Post will slug customers up to $9 for delaying to collect their packages from a post office, the company announced on Monday. Currently, missed deliveries are held by a post office for 10 days free of charge, then returned to sender. From 1 August, packages will be held for free for five business days, and cost $3 to collect after six to 10 business days; $6 after 11 to 15 business days; and $9 for 16 to 30 days.    Related: Australia Post increases stamp prices for regular mail from 70 cents to $1    Australia Post said the changes were about \u201cgiving customers more time to collect their parcels\u201d and that 92% of customers collected their parcels within five days anyway, avoiding any fee. \u201cWe believe this service will help the small amount of customers who can\u2019t collect their parcel straight away,\u201d a spokeswoman said. Packages belonging to MyPost customers will continue to be held for free for 10 days. The Communication Workers Union has described the new charges as a \u201cgouge\u201d. \u201cWe\u2019re concerned that the community is being gouged for more money when already their letters have doubled in price and halved in the quality of service, so we\u2019re very concerned about it,\u201d the CWU\u2019s Joan Doyle told the ABC. \u201cWe think it\u2019s outrageous that they\u2019ve introduced fees for people to pick up their parcels and we foresee that there will be a lot of fights about whether people got a card in the first place, whether they were at home when the postie or the parcel driver went past, and how long the parcel has been waiting.\u201d The company upped the price of stamps in January from 70c to $1 as it seeks to recover from a $222m loss last year. It announced in April it had completed a so-called digital transformation, to ensure the company\u2019s profitability as letter volumes decline, including the use of delivery drones.",
+  "webTitle": "Australia Post to charge up to $9 for delay in collecting packages",
+  "webPublicationDate": "2016-05-02T07:06:46Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/02/australia-post-to-charge-for-delay-collecting-pacakages",
+  "keyword": [
+    {
+      "webTitle": "Australia Post",
+      "id": "business/australia-post",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Business (Australia)",
+      "id": "australia-news/business-australia",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Michael Safi",
+      "id": "profile/michael-safi"
+    }
+  ],
+  "guardianId": "business/2016/may/02/australia-post-to-charge-for-delay-collecting-pacakages"
+}

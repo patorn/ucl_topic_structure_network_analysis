@@ -1,0 +1,64 @@
+{
+  "apiUrl": "https://content.guardianapis.com/australia-news/datablog/2016/may/08/pooling-the-polls-how-were-tracking-opinion-polling-for-the-australian-election",
+  "id": "2016-05-08-224",
+  "sectionId": "australia-news",
+  "body": "Opinion polls are essential to modern election coverage. However, polls have a problem in that while they provide good fodder for headlines, they\u2019re not so good for looking at day-to-day variation in voter sentiment. Political scientist Simon Jackman puts it best: \u201cMedia-commissioned polls employ sample sizes that are too small to reliably detect the relatively small day-to-day or week-to-week movements in voter sentiment we would expect to occur over an election campaign. Thus, as they currently stand, media-commissioned polls are essentially of \u2018news value\u2019 rather than social-scientific value.\u201d Sometimes journalists play up polls \u2013 reporting that their latest, expensive poll found no significant difference to the previous poll with any satisfactory scientific standard of statistics is boring reading. On the other hand there are those who scoff at polls as being unreliable with utter imprecision due to sampling error and the possibility of bias, due to the procedures and methods employed by a particular polling organisation. However, there are ways to counter both problems. There are advanced statistical techniques appropriate for removing those in-house pollster bias uncertainties and polls can be combined with statistical techniques to improve precision and provide day-to-day estimates of voting intention.  Here, we present a model of Australian voting intentions over a 20-year period and will continue to track public opinion as the 2 July election nears. The estimate is a precision weighted-average, which pools publicly available polls.   Poll of polls   You can read more detail in the methods below but essentially this chart shows an estimate of the two-party preferred value for the Coalition over time. When the value is above 49.1% (see below for how this number is determined), the Coalition is more likely to win if an election is held. When the value is below, Labor are more likely to win. If election 2016 is anything like previous elections, as the campaign draws closer to the election day pollsters will begin to move from sampling 1,400 or 2,000 respondents per survey to 3,000 or 4,000 respondents per survey. This will allow for significantly more confidence in movements in public opinion in the final days before the election. Methodology The aggregation model used is known as a Hidden Markov model. In the model public opinion is allowed to transition from an observed point in time, ie elections, and then transition through over a modelled time period through mathematical space. This sort of model can be referred to as a state space model which is from the Markov Chain Monte Carlo class from Bayesian statistics family.  What the model is measuring is cannot be observed directly for most of the period of analysis. This is why it is referred to as a \u201chidden\u201d. The only time that the true national voting intention is revealed is at elections. These rare observations of the true national voting intention can then be used to anchor models. Election results provide prior information to the model that constrains its estimate of the polls. The two-party preferred national voting intention is a hidden latent variable that is modelled everyday in the period of analysis. Election results provide anchors, which allow for polls to predict national voting intentions while simultaneously taking into account of systematic in-house bias and sample size of polls.  The model is informed by irregular and noisy data. The model disregards the noise and finds the underlying trend. Like beads on a string, the model is solved by finding the day-to-day path through which to transition. Given we know the election results, voting intention is allowed to transition from the election days where the true voting intention is known and using the known poll results transitions through the most likely path which links each of the days.  Each day that voting intentions are modelled is known as a state. Public opinion transitions through mathematical space from the previous day\u2019s state to the next day\u2019s state. As each day\u2019s estimates are dependent upon the previous day, or are known election results, they link together much like beads on a string. This feature means that the model assumes that voting intention on one day is similar to the previous day and the next day will also be similar because of the Markov process which is employed.   Related: Political polls matter, but the overall trend is what to look at | Ben Raue    The model makes a provision for the long-run tendency of each pollster to systematically favour either the Coalition or Labor. This could be because of sampling bias, response bias, social desirability bias or some other methodical bias in survey research. This small tendency to overestimate or underestimate voting intention for the Coalition of Labor is known as the \u201cin-house bias\u201d. Once the model determines the extent to which the average divergence of each pollster from the from real population voting intention, the model then corrects the estimate of voting intention doing away with the problem of in-house bias.  This model does not make a provision for discontinuities where public opinion would be assumed to make a rapid change. For instance a leadership change where on a specific day is expected to shift suddenly and markedly rather than remain relatively stable. This can be an appropriate over a shorter period of analysis when a single significant leadership challenge or political event occurs (for example). But many discontinuities complicate modelling over a particularly long time series and a discontinuity in the chain may be considered by some as arbitrary selected. As there is no discontinuities, a caveat when reading the estimate would be to acknowledge that, for example, when Malcolm Turnbull replaced Tony Abbott, voting intentions most likely shifted over one day but the estimate may show voting intentions transitioning over three or four days as the model presumes each day is similar to the previous one. Nevertheless the model performs quite well with steep transitions these sudden political events. As of 19 April 2016, the analysis was based on 2017 polls in the period from the 2 March 1996 federal election and includes the seven election results in the period. The algorithm used for the analysis, known as a Kalman filter, was applied by Jackman, the chief executive of the United States Studies Centre at the University of Sydney. The method was established in an article published in the Australian Journal of Political Science. For more technical details see his book: Bayesian Analysis for the Social Sciences. Additionally the claim that the Coalition\u2019s two-party preferred vote must be 49.1% for there to be even odds of either the Labor party or Coalition forming government is based on log-odd on log-odds regression of seat share regressed on vote share over the period with the current House of Representative voting arrangement (1949-2013).      Log-odd on log-odds regression of ALP seat share regressed on ALP vote share ALP vote share for 1949-2013 Illustration: Luke Mansillo    The replication of Edward Tufte\u2019s analysis of the relationship between vote shares and seat shares in two-party systems finds a systematic anti-Labor electoral bias. This can be explained by one or a combination of two factors: the Coalition\u2019s vote is more efficiently distributed and less locked up in safe-seats than Labor\u2019s vote, or the Coalition is more effective in campaigning in marginal electorates. Luke Mansillo is a doctoral candidate in the Department of Government and International Relations at the University of Sydney.",
+  "webTitle": "Pooling the polls: how we're tracking opinion polling for the Australian election",
+  "webPublicationDate": "2016-05-08T03:46:43Z",
+  "webUrl": "https://www.theguardian.com/australia-news/datablog/2016/may/08/pooling-the-polls-how-were-tracking-opinion-polling-for-the-australian-election",
+  "keyword": [
+    {
+      "webTitle": "Australian election 2016",
+      "id": "australia-news/australian-election-2016",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Coalition",
+      "id": "australia-news/coalition",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Liberal party",
+      "id": "australia-news/liberal-party",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Labor party",
+      "id": "australia-news/labor-party",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "National party",
+      "id": "australia-news/national-party",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australian politics",
+      "id": "australia-news/australian-politics",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Luke Mansillo",
+      "id": "profile/luke-mansillo"
+    },
+    {
+      "webTitle": "Nick Evershed",
+      "id": "profile/nick-evershed"
+    }
+  ],
+  "guardianId": "australia-news/datablog/2016/may/08/pooling-the-polls-how-were-tracking-opinion-polling-for-the-australian-election"
+}

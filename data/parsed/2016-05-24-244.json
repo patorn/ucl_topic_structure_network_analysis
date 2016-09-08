@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/24/eurovision-melts-icelandic-hearts-as-pop-extravaganza-captivates-tv-viewers",
+  "id": "2016-05-24-244",
+  "sectionId": "media",
+  "body": "More than 200 million viewers watched Eurovision TV coverage, which proved particularly popular in Iceland where it had a 95% share of the audience \u2013 and they didn\u2019t even make the final. Eurovision organisers said the grand final on 14 May, along with the two live semi-finals which preceded it, reached 204 million viewers, up 5 million on 2015. In the UK, which enjoyed its traditional dismal showing with this year\u2019s representatives, Joe and Jake, the final drew 7.1 million viewers, bouncing back from last year\u2019s five-year low.  Eurovision had a 37% share of the audience in the UK \u2013 the percentage of people watching television who were tuned into BBC1 \u2013 but that was nothing compared with some of the enthusiasm shown on the continent. In host country Sweden, the grand final, had an 85% share of the audience.  In Iceland it was even more dominant, with a 95% share, despite not making it into the grand final for the second consecutive year, begging the question \u2013 how many people would watch if they were actually in it?   Related: Eurovision 2016: Ukraine's Jamala wins with politically charged 1944    Germany had the biggest single audience with 9.3 million viewers, a 37% share, and were rewarded for the interest with bottom place in this year\u2019s competition, Jamie Lee\u2019s effort Ghost, scoring just 11 points. This year\u2019s contest was won by Ukraine and the haunting, politically charged ballad 1944 sung by singer-songwriter Jamala.",
+  "webTitle": "Eurovision melts Icelandic hearts as pop extravaganza captivates TV viewers",
+  "webPublicationDate": "2016-05-24T09:07:32Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/24/eurovision-melts-icelandic-hearts-as-pop-extravaganza-captivates-tv-viewers",
+  "keyword": [
+    {
+      "webTitle": "TV ratings",
+      "id": "media/tvratings",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Television industry",
+      "id": "media/television",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Eurovision",
+      "id": "tv-and-radio/eurovision",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Television & radio",
+      "id": "tv-and-radio/tv-and-radio",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "John Plunkett",
+      "id": "profile/johnplunkett"
+    }
+  ],
+  "guardianId": "media/2016/may/24/eurovision-melts-icelandic-hearts-as-pop-extravaganza-captivates-tv-viewers"
+}

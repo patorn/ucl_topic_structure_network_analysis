@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sustainable-business/2016/may/30/data-is-the-secret-weapon-in-the-battle-to-save-australias-urban-forests",
+  "id": "2016-05-30-215",
+  "sectionId": "sustainable-business",
+  "body": "Deforestation. It is a word that conjures up mental images of loggers cleaving their way through pristine woodlands and grim statistics measuring how many football pitches worth of Amazon jungle get cleared every minute, but it isn\u2019t something that only happens in the wild. Trees in the city are also being chopped down, a fact that is of increasing concern to urban planners as it becomes apparent that tree canopies serve as much more than a decorative backdrop for the lives of residents.  Research indicates so-called \u201curban forests\u201d also ameliorate localised water and air pollution (although this is contested), deliver measurable health benefits [pdf], provide shade, act as an air conditioner, and serve as a carbon sink to help mitigate the climate change that threatens to turn the world\u2019s civic landscapes into concrete ovens. If trees were to thrive in any Australian cityscape, it would have to be in the sprawling backyards of suburbia, but even here increased population density is thought to be placing pressure on tree numbers. The quintessential great Australian dream of a home on a quarter-acre block has made way for the dreams of enterprising developers, the green space of backyards replaced with ever-more housing.   Related: How circadian rhythms and Roman baths are transforming Australian cities    Then there\u2019s the room required for the infrastructure to service these higher-density cities: a need that has recently led to protesters chaining themselves to century-and-a-half old Moreton Bay figs standing in the path of the Sydney light rail, and to a collection of mourners tying black ribbons to the 70-plus trees in Adelaide\u2019s Rundle Park before they were cleared to create space for a bus tunnel extension.  The decline in trees has sparked a range of interventions, from urban areas being included in Australian government plans to plant 20m trees by 2020 down to the local efforts of Brimbank City Council on the outskirts of Melbourne, which has mandated a minimum of two trees in the front yards of sub-divided blocks of land. Another government project is the establishment in 2014 of the Clean Air and Urban Landscapes Hub (CAUL), a research consortium. One of the research group\u2019s leaders is RMIT university senior lecturer Joe Hurley, who is examining the conflict between the redevelopment of cities and the provision of urban forests. \u201cThere\u2019s pressure to consolidate cities for good reason, but the way in which we change traditional suburban landscapes of house and garden to more consolidated forms has an impact,\u201d he says. \u201cThere\u2019s been a change over a 30-year period which shows huge numbers of blocks through the suburbs [being subdivided] or being rebuilt to the maximum allowed under the planning code with paved driveways and alfresco dining spaces.\u201d Hurley says he is \u201cexcited\u201d about government efforts to address this issue, but argues that better data is needed to inform and coordinate such initiatives.   Related: Not a drop to waste: how expanding Australian cities can tackle water shortages    One of the key areas of research for the CAUL hub is the search for the best way to measure the state of urban forest canopies. They aren\u2019t the first to attempt this, with Horticulture Innovation Australia\u2019s 2014 report [pdf] Where Are All The Trees? using software from the US department of agriculture that made assumptions about urban tree cover across entire cities based on sample areas.  The study concluded that, of Australian urban areas, Hobart led with 59% tree canopy cover, while bottom-placed Adelaide had just 27%. The report\u2019s authors conceded, however, that the analysis was limited by the nature of the data.  Hurley describes the Horticulture Innovation Australia document as a \u201cgreat first step\u201d. Melbourne city council\u2019s urban forest visual project made further progress by mapping out every individual tree in the public spaces at the centre of the city, but Hurley says the CAUL hub is seeking to go beyond 2D mapping. \u201cMelbourne city council have catalogued all trees on public land, but what they don\u2019t have is those on private land. To derive the shading and cooling impact from individual trees, you would need data on the diameter and how tall they are,\u201d he says. Google Earth 3D maps of Australian cities are already available, but Hurley says to go through and manually identify and assess every single tree would be exhaustive. Instead, the CAUL hub is utilising remote-sensing techniques to automate the process.  \u201cThe leaders in this space are the CSIRO in Perth, who have developed a methodology using high-resolution digital imagery, bringing multiple images together to create a 3D rendering, using algorithms to identify and extract objects, to recognise what is and isn\u2019t a tree,\u201d he says.  If the research bears fruit, Australian federal, state and local authorities would have at their fingertips the first precise measure of tree numbers that could potentially serve as a starting point to assess the scale of deforestation within cities. Until then, they simply won\u2019t be able to see the urban forest for the trees.",
+  "webTitle": "Data is the secret weapon in the battle to save Australia's urban forests",
+  "webPublicationDate": "2016-05-30T00:20:21Z",
+  "webUrl": "https://www.theguardian.com/sustainable-business/2016/may/30/data-is-the-secret-weapon-in-the-battle-to-save-australias-urban-forests",
+  "keyword": [
+    {
+      "webTitle": "Guardian sustainable business",
+      "id": "sustainable-business/sustainable-business",
+      "sectionId": "sustainable-business",
+      "sectionName": "Guardian Sustainable Business"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Energy",
+      "id": "environment/energy",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Smart cities",
+      "id": "cities/smart-cities",
+      "sectionId": "cities",
+      "sectionName": "Cities"
+    },
+    {
+      "webTitle": "Business (Australia)",
+      "id": "australia-news/business-australia",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Sydney",
+      "id": "australia-news/sydney",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Melbourne",
+      "id": "australia-news/melbourne",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Max Opray",
+      "id": "profile/max-opray"
+    }
+  ],
+  "guardianId": "sustainable-business/2016/may/30/data-is-the-secret-weapon-in-the-battle-to-save-australias-urban-forests"
+}

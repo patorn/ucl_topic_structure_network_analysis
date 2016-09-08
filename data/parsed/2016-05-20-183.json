@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/culture/2016/may/20/three-best-dance-shows-this-week",
+  "id": "2016-05-20-183",
+  "sectionId": "stage",
+  "body": "1: Northern Ballet: 1984 Jonathan Watkins is making a name for himself with adaptations of literary works. Following his acclaimed version of A Kestrel For A Knave, he turns his hand to Orwell. Sadler\u2019s Wells, EC1, Tue to 28 May  2: What Remains\u2026 Anatomy Of An Artist This short festival premieres 10 new works inspired by creative minds including Samuel Beckett and Fred Herko. Among the participating choreographers are Julie Cunningham and veteran maverick Ian Spink. Siobhan Davies Studio, SE1, Sat & Sun  3: International Dance Festival Birmingham As this ever-excellent festival comes to a close, highlights include a celebration of Bollywood and bhangra and an all-female triple bill from Ballet British Columbia. Various venues, to Sun",
+  "webTitle": "Three of the best\u2026 dance performances this week",
+  "webPublicationDate": "2016-05-20T12:00:09Z",
+  "webUrl": "https://www.theguardian.com/culture/2016/may/20/three-best-dance-shows-this-week",
+  "keyword": [
+    {
+      "webTitle": "Dance",
+      "id": "stage/dance",
+      "sectionId": "stage",
+      "sectionName": "Stage"
+    },
+    {
+      "webTitle": "Stage",
+      "id": "stage/stage",
+      "sectionId": "stage",
+      "sectionName": "Stage"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Judith Mackrell",
+      "id": "profile/judithmackrell"
+    }
+  ],
+  "guardianId": "culture/2016/may/20/three-best-dance-shows-this-week"
+}

@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/20/leicester-city-claudio-ranieri-italian",
+  "id": "2016-05-20-226",
+  "sectionId": "football",
+  "body": "Claudio Ranieri has been appointed a Grand Officer of the Italian Order of Merit, one of his home country\u2019s highest honours. Ranieri\u2019s award has reportedly been approved by the Italian president, Sergio Mattarella, meaning the Leicester City manager will receive the third-highest honour in Italy\u2019s six-tier grading system. The award comes as recognition for Ranieri\u2019s achievement in leading Leicester to the Premier League title, as well as for a lengthy career that has seen him coach Napoli, Chelsea, Juventus, Roma and Atl\u00e9tico Madrid over the last 30 years. The World Cup-winning striker Silvio Piola, who won the tournament with Italy in 1938, is among the other sporting figures to have received the honour.",
+  "webTitle": "Leicester City manager Claudio Ranieri awarded Italian honour",
+  "webPublicationDate": "2016-05-20T11:00:32Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/20/leicester-city-claudio-ranieri-italian",
+  "keyword": [
+    {
+      "webTitle": "Claudio Ranieri",
+      "id": "sport/claudio-ranieri",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Leicester City",
+      "id": "football/leicestercity",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "football/2016/may/20/leicester-city-claudio-ranieri-italian"
+}

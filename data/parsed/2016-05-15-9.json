@@ -1,0 +1,96 @@
+{
+  "apiUrl": "https://content.guardianapis.com/money/2016/may/16/uk-economy-gloomy-outlook-for-workers-pay-rises",
+  "id": "2016-05-15-9",
+  "sectionId": "money",
+  "body": "Workers are being warned to expect meagre wage rises until at least 2020, as weak productivity and new costs such as the national living wage curb employers\u2019 readiness to raise salaries. Even though employment is expected to rise, pay growth is forecast to be just 1.7% over the next year, as an ample supply of labour helps employers hold back on wage rises in a \u201cjobs-rich, pay-poor\u201d economy, said the Chartered Institute for Personnel and Development (CIPD). The gloomy outlook for workers comes as business group the CBI has warned that the economy is losing steam, cutting its growth forecasts for this year and next, and retail industry figures have revealed continuing trouble on the high street. Numbers of shoppers visiting retail centres fell in April, in the latest evidence that cautious consumers are cutting back or going online to hunt for better deals. Consumers have been the main drivers of the UK\u2019s economic recovery but recent business surveys suggest confidence is flagging, affected by a range of factors from economic uncertainty ahead of the EU referendum to a darker global outlook. Weak pay growth has also added to pressures on households and the CIPD, the trade group for the HR industry, warned that the pattern of low rises in pay is set to continue. It is calling for more practical government measures to help employers raise productivity, a measure of output per hour worked. \u201cFor now, there\u2019s no sign of the economy running out of jobs, or out of people to fill those jobs,\u201d said Mark Beatson, CIPD chief economist. \u201cHowever, the UK is now in its eighth year of productivity go-slow which continues to limit the scope for employers to pay more, and recruitment and retention problems have so far proved manageable without across-the-board pay rises.\u201d The group surveyed more than 1,000 employers and found the expected average pay rise over the next year, at 1.7%, was higher than the 1.2% in its previous survey three months ago. But it noted that was a relatively weak pace of growth and predicted various factors meant workers were unlikely to see much of a boost to the real, or post-inflation, value of their pay \u201cuntil at least the end of this decade\u201d. Pay growth was running at around 3%-5% in the year before the financial crisis took hold in 2008. It then petered out and workers saw their wages fall in real terms for several years. Real pay growth returned last year but some experts say it will never return to pre-crisis levels as immigration and increasing automation have sapped workers\u2019 bargaining power. Low inflation, expanding labour supply and a lack of productivity growth were working in combination to reduce the economic pressure for employers to pay their staff more, the CIPD said. At the same time, government-imposed increases in labour costs such as the apprenticeship levy, pension auto-enrolment and the new national living wage would reduce the scope for employers to raise pay. \u201cThe national living wage and roll-out of pension auto-enrolment were introduced to improve the living standards of low-paid employees, but this can only happen without significant job losses if the productivity of low-paid employees also increases,\u201d said Beatson. \u201cSimply making low-paid labour more expensive is not the answer and the government should not be surprised if some employers choose easier options, such as reducing hours, chipping away at other benefits or making a less generous pay award the next time pay is reviewed.\u201d The data on falling shopper numbers in April noted fragile consumer confidence but also longer-standing pressures on the bricks and mortar retail industry, which has suffered the high profile collapse of BHS in recent weeks.  Footfall fell 2.4% compared with a year ago when measured across high street stores, retail parks and shopping centres, according to research company Springboard and lobby group, the British Retail Consortium (BRC). That was only slightly shallower than the 2.7% drop in footfall in March. The biggest decline was seen at high street stores where footfall fell 4.7%. Shopping centre footfall was down 0.7% although at retail parks it rose 1.1%. \u201cThe rise in unemployment and economic uncertainty in this pre EU referendum period has undoubtedly adversely impacted consumer activity. We know that cuts in retail spending are the first line of defence against threats to household budgets when consumer confidence is knocked,\u201d said Diane Wehrle, Springboard\u2019s marketing and insights director.   CBI sees growth slowing   The CBI also cited pre-referendum uncertainty as it cut its forecasts for UK economic growth to 2% this year and next, compared with 2.3% growth in 2015. In February, the CBI had pencilled in growth of 2.3% for 2016 and 2.1% for 2017. Much of the 2016 downgrade was blamed on a softer than expected start to the year.  \u201cA dark cloud of uncertainty is looming over global growth, particularly around weakening emerging markets and the outcome of the EU referendum, which is chilling some firms\u2019 plans to invest,\u201d said CBI director-general Carolyn Fairbairn. \u201cAt present, the economic signals are mixed \u2013 we are in an unusually uncertain period.\u201d The CBI has come under criticism from campaigners for Britain to leave the EU, who have dismissed the business group\u2019s analysis of Brexit costs as \u201cscare stories\u201d.",
+  "webTitle": "UK economy: gloomy outlook for workers' pay rises",
+  "webPublicationDate": "2016-05-15T23:01:19Z",
+  "webUrl": "https://www.theguardian.com/money/2016/may/16/uk-economy-gloomy-outlook-for-workers-pay-rises",
+  "keyword": [
+    {
+      "webTitle": "Pay",
+      "id": "money/pay",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economic growth (GDP)",
+      "id": "business/economicgrowth",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Family finances",
+      "id": "money/family-finances",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Retail industry",
+      "id": "business/retail",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Confederation of British Industry (CBI)",
+      "id": "business/cbi",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "National living wage",
+      "id": "business/national-living-wage",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Consumer spending",
+      "id": "business/consumerspending",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Katie Allen",
+      "id": "profile/katieallen"
+    }
+  ],
+  "guardianId": "money/2016/may/16/uk-economy-gloomy-outlook-for-workers-pay-rises"
+}

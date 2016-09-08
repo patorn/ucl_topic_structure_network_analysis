@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/27/justin-bieber-skrillex-sued-sorry-casey-dienel-white-hinterland-ring-the-bell-riff",
+  "id": "2016-05-27-223",
+  "sectionId": "music",
+  "body": "Justin Bieber and Skrillex are being sued by the indie artist Casey Dienel, according to reports by TMZ.  Dienel, who records under the name White Hinterland, claims the duo used one of her vocal loops without permission on their track Sorry. The eight-second snippet in question is used repeatedly through her 2014 song Ring the Bell. Dienel reportedly claims that the \u201cunique characteristics of the female vocal riff\u201d have been copied. According to TMZ, Bieber\u2019s team received warnings not to use the part but ignored them.             Sorry was a huge hit for Skrillex and Bieber, topping the charts in several countries including the US and the UK. It has been streamed over 6.5m times on Spotify. Ring the Bell, meanwhile, is White Hinterland\u2019s most popular song, with 500,000 streams on Spotify.  Other songwriters on the Bieber track \u2013 Julia Michaels, Justin Tranter and Michael Tucker \u2013 are reportedly included in the lawsuit.",
+  "webTitle": "Justin Bieber and Skrillex sued over vocal loops on Sorry",
+  "webPublicationDate": "2016-05-27T09:56:08Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/27/justin-bieber-skrillex-sued-sorry-casey-dienel-white-hinterland-ring-the-bell-riff",
+  "keyword": [
+    {
+      "webTitle": "Justin Bieber",
+      "id": "music/justin-bieber",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Skrillex",
+      "id": "music/skrillex",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Pop and rock",
+      "id": "music/popandrock",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian music",
+      "id": "profile/guardianmusic"
+    }
+  ],
+  "guardianId": "music/2016/may/27/justin-bieber-skrillex-sued-sorry-casey-dienel-white-hinterland-ring-the-bell-riff"
+}

@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/money/2016/may/28/bt-no-internet-six-months-openreach",
+  "id": "2016-05-28-164",
+  "sectionId": "money",
+  "body": "It is one of central London\u2019s most striking landmarks and dominates the skyline over Sheila Coombes\u2019s flat in Fitzrovia. But for her, the very sight of the BT Tower \u2013 a mere three-minute walk away \u2013 adds insult to injury over what she describes as appalling treatment by the telecommunications giant. Nearly six months since moving into a new-build apartment in her first property purchase through shared ownership, Coombes (not her real name) still has no BT internet access. Working full-time in finance but studying part-time for accountancy exams, Coombes has been unable to study at home (when she needs to answer timed, online papers), and instead has to work in a local library late into the night, rather than in her new home.   Related: A put-down for BT, as it charges us \u00a383 for a one-minute phone call    \u201cI moved into my flat in December 2015 and tried to apply for internet access from my move-in date,\u201d she told Guardian Money. \u201cI didn\u2019t need or want a landline but was told I had no choice of provider and could only get it through BT. Six months later I am still struggling to get internet access and am just going round and round in circles.\u201d To date, Coombes claims to have sent more than 100 emails to BT customer services, BT high-level complaints, and BT chief executive Gavin Patterson, and also to the engineering company, KN Group, appointed by the developers to help new residents with broadband installation. In addition, she was forced to make numerous lunch time calls to BT customer services \u2013 in turn directed to Openreach \u2013 while taking time off work for both BT and KN Group engineers, who failed to materialise. Openreach is the BT company that manages the landline infrastructure in Britain on behalf of all phone operators, but has been subject to intense criticism from some who have waited for months for connections and repairs. \u201cIt\u2019s been a complete joke,\u201d says Coombes. \u201cI was one of the first people to move in, before Christmas, and I hadn\u2019t anticipated there would be any problems. There are 14 flats in my building, on six floors, and as far as I can tell there has only been a problem with the homes on the second floor. I have ended up asking people I meet in the lift if they\u2019ve had problems. A lady who moved in on the fifth floor in March was connected straight away, which I found rather annoying.\u201d   Related: BT is just coasting with \u00a36bn wave of broadband investment    Coombes was told by a KN Group engineer that the developers were responsible for registering the individual postcodes of the flats, but if this was not done on time \u2013 as they said was the case \u2013 the residents would get no service. This affected and delayed the network installation, although it was not the fault of Openreach. After numerous complaints to BT her case was escalated to executive complaints and she was promised separate poling and cabling work. \u201cThe lack of internet has greatly inconvenienced my life,\u201d she says. \u201cIt is really not fun walking home at 11pm from the library from winter to spring. No one from BT has demonstrated any form of sincere apology or a proactive update on when things can be resolved. As I have heard from the other occupants in my block, I had no other option to pick another provider. I still do not have any internet and don\u2019t know when I can be connected to the world again. It is an irony that I am just a three-minute walk away from the BT Tower.\u201d Coombes has since been sent a BT routing hub, which was scheduled to be activated last week \u2013 but which failed to work. It declined to explain what was causing the problems but a spokesperson said: \u201cWe\u2019re sorry for the delay in providing [her] with broadband. We are trying to provide her with service as quickly as possible and an engineer\u2019s appointment has been booked for 26 May. We will discuss compensation and a goodwill gesture with her once her broadband is installed.\u201d",
+  "webTitle": "Left without internet for six months (and I\u2019m in the shade of the BT Tower)",
+  "webPublicationDate": "2016-05-28T06:00:26Z",
+  "webUrl": "https://www.theguardian.com/money/2016/may/28/bt-no-internet-six-months-openreach",
+  "keyword": [
+    {
+      "webTitle": "Broadband",
+      "id": "money/broadband",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Internet, phones & broadband",
+      "id": "money/internetphonesbroadband",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "BT",
+      "id": "business/btgroup",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Property",
+      "id": "money/property",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "London",
+      "id": "uk/london",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Consumer affairs",
+      "id": "money/consumer-affairs",
+      "sectionId": "money",
+      "sectionName": "Money"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Rebecca Smithers",
+      "id": "profile/rebeccasmithers"
+    }
+  ],
+  "guardianId": "money/2016/may/28/bt-no-internet-six-months-openreach"
+}

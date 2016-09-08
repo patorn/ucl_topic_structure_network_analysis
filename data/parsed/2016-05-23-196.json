@@ -1,0 +1,30 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/23/dog-attacks-kills-man-in-cumbria",
+  "id": "2016-05-23-196",
+  "sectionId": "uk-news",
+  "body": "A man has died after being attacked by a dog at his home in Cumbria.  The 45-year old man was killed by a dog at a property in Cleator Moor on Sunday afternoon, Cumbria police said. The dog was destroyed.  Three other dogs seized from the property in Robert Owen Avenue were to be assessed by a specialist police officer.  Police were called to the scene at about 2pm in response to a report that a man was being attacked by a dog.  A Cumbria police spokesman said: \u201cA 45-year-old male who lived at the property was pronounced dead at the scene. The dog who attacked the male was destroyed. \u201cThe death is being treated as non-suspicious and the coroner has been informed.\u201d The North West ambulance service said it also went to the incident after receiving a call shortly before 2pm.  Official statistics published last year showed that hospital admissions for injuries caused by dogs had risen by 76% in England in a decade. Last week, a Staffordshire bull terrier attacked more than a dozen children at a park in Northumberland. Since 2005, there have been more than 20 deaths, including children or babies, in dog attacks. The deaths have led to a toughening up of the law, increasing the liability of owners and the potential punishments they face.",
+  "webTitle": "Dog attacks and kills man in Cumbria",
+  "webPublicationDate": "2016-05-23T11:42:15Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/23/dog-attacks-kills-man-in-cumbria",
+  "keyword": [
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Animals",
+      "id": "world/animals",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Haroon Siddique",
+      "id": "profile/haroonsiddique"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/23/dog-attacks-kills-man-in-cumbria"
+}

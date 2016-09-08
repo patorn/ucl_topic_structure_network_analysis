@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/13/mps-vote-against-emergency-use-of-banned-bee-harming-pesticides",
+  "id": "2016-05-13-261",
+  "sectionId": "environment",
+  "body": "Ministers have rejected an \u201cemergency\u201d application from the National Farmers Union (NFU) to use banned pesticides on a third of all oilseed rape crops. Neonicotinoid pesticides have been shown to be harmful to bees and were banned from use on flowering crops by the EU in 2013, a move opposed by the UK government. But ministers granted a temporary lifting of the ban in 2015 after the NFU argued it was needed to fight the cabbage stem flea beetle (CSFB). However the government\u2019s scientific advisers said this year\u2019s application, from the NFU and the Agriculture and Horticulture Development Board, should not be granted. Farming minister George Eustice then rejected the plan, the first time the government has ruled against neonicotinoid use.  The Expert Committee on Pesticides (ECP) said the application contained \u201cinsufficient information to ensure that use will be limited only to those areas where there is a danger or threat to plant protection and [did not] offer adequate assurance that the use will be controlled in an appropriate fashion\u201d. Matt Shardlow, chief executive of Buglife, said: \u201cOilseed rape yields went up by 7% last year - this is not an \u2018emergency\u2019, the loss of bees and pollinating insects is the emergency.  \u201cThe decision is great news for the bees and for the hundreds of thousands of British people who have asked the government to do more to protect our disappearing pollinators.\u201d \u201cIt is disappointing that the reasoning of the ECP in refusing to support the applications focusses more on technical issues relating to targeting and control, rather than the more obvious point that the confirmed risks of using these agrotoxins clearly outweigh the elusive claimed benefits,\u201d Shardlow said. Friends of the Earth\u2019s Dave Timms said: \u201cThe ECP has given a damning verdict on the applications. We hope the NFU will get the message and give up trying to bring back these dangerous chemicals. Ministers must now push for the ban on these chemicals to be made permanent.\u201d The NFU said it will persist in applying for the emergency use of neonicotinoids on behalf of farmers facing pressure from CSFB. \u201cThis [rejection] is a blow for arable farmers across the country whose oilseed rape crops are under heavy threat from CSFB,\u201d said NFU vice president Guy Smith. \u201cWe remain committed to obtaining approval for the emergency use of neonicotinoid seed treatments for this planting season. These plant protection products are absolutely vital in protecting England\u2019s oilseed rape crop from pests.\u201d The applications and supporting evidence are kept secret but Shardlow said they should be published. \u201cThis only favours the manufacturers \u2013 who have been allowed to attend the ECP meetings \u2013 and profoundly disadvantages the public.\u201d In 2015, the ECP declined the NFU\u2019s first application and the government delayed publication of this decision in order to prevent campaigners lobbying ministers on the issue, according to documents seen by the Guardian. The NFU\u2019s second application, for a smaller area, was accepted.",
+  "webTitle": "Ministers reject plan for 'emergency' use of banned bee-harming pesticides",
+  "webPublicationDate": "2016-05-13T09:14:29Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/13/mps-vote-against-emergency-use-of-banned-bee-harming-pesticides",
+  "keyword": [
+    {
+      "webTitle": "Pesticides",
+      "id": "environment/pesticides",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Bees",
+      "id": "environment/bees",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Farming",
+      "id": "environment/farming",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Insects",
+      "id": "environment/insects",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Wildlife",
+      "id": "environment/wildlife",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Animals",
+      "id": "world/animals",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Damian Carrington",
+      "id": "profile/damiancarrington"
+    }
+  ],
+  "guardianId": "environment/2016/may/13/mps-vote-against-emergency-use-of-banned-bee-harming-pesticides"
+}

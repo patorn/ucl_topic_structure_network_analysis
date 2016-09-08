@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/tv-and-radio/datablog/2016/may/28/how-to-win-britains-got-talent",
+  "id": "2016-05-28-142",
+  "sectionId": "tv-and-radio",
+  "body": "\u201cAnd the winner of Britain\u2019s Got Talent is \u2026\u201d (insert unnecessarily long pause here) If you were thinking about entering BGT, whose 10th champion will be named tonight, how would you ensure that the name at the end of that sentence was yours? Well, the statistics may help a little. This year\u2019s final includes a sword swallower, dancers, an impressionist, a dog act and a magician. But, as has almost always been the case, singers dominate: five will grace the stage tonight, and they have accounted for 45% of past finalists.   Graphic showing which kinds of acts win Britain's Got Talent most often   Dance acts are the next most popular, at over a quarter of all finalists. Instrumentalists are next (7%), followed by dog acts (4%). Three of the nine winners to date were singers, and two were dance acts. While dogs have only reached the final four times before, they\u2019ve won twice. But given that all the BGT finals have featured at least one dance act and multiple singers, it is fair to say that unique acts are holding their own. And unique acts seem to do well when they qualify: gymnastic troupe Spelbound won in 2010, and shadow theatre act Attraction in 2013. So \u2013 if you want to get to the final, sing. But if you want to win it once you get there, be different \u2013 or be a dog.",
+  "webTitle": "How to win Britain's Got Talent",
+  "webPublicationDate": "2016-05-28T08:00:29Z",
+  "webUrl": "https://www.theguardian.com/tv-and-radio/datablog/2016/may/28/how-to-win-britains-got-talent",
+  "keyword": [
+    {
+      "webTitle": "Britain's Got Talent",
+      "id": "tv-and-radio/britains-got-talent",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Television",
+      "id": "culture/television",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Television & radio",
+      "id": "tv-and-radio/tv-and-radio",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Pamela Duncan",
+      "id": "profile/pamela-duncan"
+    }
+  ],
+  "guardianId": "tv-and-radio/datablog/2016/may/28/how-to-win-britains-got-talent"
+}

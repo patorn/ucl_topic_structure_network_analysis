@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/19/steven-spielberg-warns-vr-technology-dangerous-for-film-making",
+  "id": "2016-05-19-218",
+  "sectionId": "film",
+  "body": "Related: The BFG review: delicate touch of Spielberg and Rylance proves hugely charming    Steven Spielberg has warned the rise of virtual reality technology represents a potentially \u201cdangerous\u201d development for traditional film-makers. Speaking at the Cannes film festival, where a number of VR movies are screening alongside his own movie, The BFG, the three-time Oscar-winner suggested the new format risked undermining directors\u2019 control of their art. \u201cI think we\u2019re moving into a dangerous medium with virtual reality,\u201d he said. \u201cThe only reason I say it is dangerous is because it gives the viewer a lot of latitude not to take direction from the storytellers but make their own choices of where to look.    Related: Virtual Reality: the immersive film-making wowing Sundance    \u201cI just hope it doesn\u2019t forget the story when it starts enveloping us in a world that we can see all around us and make our own choices to look at,\u201d added Spielberg. Film-maker Eric Darnell, whose six-minute VR film Invasion is also playing at the festival, said he believed virtual reality film-making would one day become the norm. \u201cIt\u2019s not, in my mind, just an extension of cinema. It is its own thing and we have to discover so much about what are the tools in our toolbox,\u201d Darnell told Reuters. \u201cIt really is just a brand new language.\u201d Another virtual reality film, Milica Zec\u2019s Giant, is also playing at Cannes. The festival has dedicated a pavilion to the immersive technology, featuring screenings and discussions, as part of its March\u00e9 du Film programme.",
+  "webTitle": "Steven Spielberg warns VR technology could be 'dangerous' for film-making",
+  "webPublicationDate": "2016-05-19T11:15:30Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/19/steven-spielberg-warns-vr-technology-dangerous-for-film-making",
+  "keyword": [
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Steven Spielberg",
+      "id": "film/stevenspielberg",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Virtual reality",
+      "id": "technology/virtual-reality",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Cannes 2016",
+      "id": "film/cannes-2016",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Cannes film festival",
+      "id": "film/cannesfilmfestival",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Festivals",
+      "id": "culture/festivals",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ben Child",
+      "id": "profile/benchild"
+    }
+  ],
+  "guardianId": "film/2016/may/19/steven-spielberg-warns-vr-technology-dangerous-for-film-making"
+}

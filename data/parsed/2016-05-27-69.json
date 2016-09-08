@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/27/crystal-palace-steven-caulker-qpr-england-defender",
+  "id": "2016-05-27-69",
+  "sectionId": "football",
+  "body": "Crystal Palace have opened negotiations with Queens Park Rangers aimed at making Steven Caulker, a former England defender, their first signing of the summer. Caulker, a former Tottenham Hotspur youth-team graduate who moved to Loftus Road from Cardiff City in 2014 for \u00a38m, spent last season on loan at Southampton and Liverpool from the Championship club, though he managed only one Premier League start all term. The 24-year-old, whose solitary cap was gained against Sweden in 2012, is keen to revive his stuttering career in the top flight, with QPR happy to listen to offers. They are seeking a deal worth a potential \u00a36.5m for the defender, whom Palace would consider a long-term partner for Scott Dann at centre-half. Damien Delaney has signed a new 12-month deal at Selhurst Park, but Palace could lose Adrian Mariappa on a free transfer despite the Jamaica international having been offered new terms in south London. Another defender, the veteran Brede Hangeland, is also out of contract while Martin Kelly is interesting both West Bromwich Albion and Sunderland. Alan Pardew, the Palace manager, has indicated a desire to make three or four major signings this summer, with interest expected in the likes of Lewis Cook at Leeds, West Ham\u2019s James Tomkins, the Chelsea goalkeeper Asmir Begovic and the Norwich winger Nathan Redmond. Some fringe players will also depart the beaten FA Cup finalists, with the likes of Jordon Mutch, Fraizer Campbell, Lee Chung-yong and Alex McCarthy all effectively available. Marouane Chamakh and Emmanuel Adebayor are both out of contract, with the latter the subject of interest from clubs in the Chinese Super League.",
+  "webTitle": "Crystal Palace open talks with QPR over \u00a36.5m Steven Caulker",
+  "webPublicationDate": "2016-05-27T16:42:50Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/27/crystal-palace-steven-caulker-qpr-england-defender",
+  "keyword": [
+    {
+      "webTitle": "Crystal Palace",
+      "id": "football/crystalpalace",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "QPR",
+      "id": "football/qpr",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Transfer window",
+      "id": "football/transfer-window",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Dominic Fifield",
+      "id": "profile/dominicfifield"
+    }
+  ],
+  "guardianId": "football/2016/may/27/crystal-palace-steven-caulker-qpr-england-defender"
+}

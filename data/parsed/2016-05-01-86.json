@@ -1,0 +1,73 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/01/how-well-do-you-know-british-wildlife",
+  "id": "2016-05-01-86",
+  "sectionId": "environment",
+  "body": "Which of the following animal paw prints belong to a fox?\n      \n       a\n       b\n       c\n       d\n      \n     Which of these edible plants isn't associated with the seashore?\n      \n       Samphire\n       Sea Pea\n       Three-cornered leek\n       Sea Beet\n      \n     Which is the odd one out and why?\n      \n       Agaricus xanthodermus, yellow stainer\n       Boletus edulis, the penny bun\n       Agaricus arvensis, the horse mushroom\n       Calvatia gigantea, the giant puffball\n      \n     What animal's scientific name is Cupido minimus?\n      \n       Red fox\n       European otter\n       Small blue butterfly\n       Wren\n      \n     Which of the following bird names do you complete with tern?\n      \n        The roseate \u2026\n       The marsh \u2026\n       The long-tailed \u2026\n       The Coal...\n      \n     Which bird is the odd one out and why?\n      \n       Cuckoo\n       Turtle dove\n       Swift\n       Wren\n      \n     Which of these creatives is a non-native arrival in this country?\n      \n       Harlequin ladybird \n       Seven-spot \n       Roe deer \n      \n     What has been successfully brought back from extinction in Britain just next to the nuclear power stations at Dungeness in Kent?\n      \n       The great bustard\n       The crane\n       The short-haired bumblebee\n       The large blue butterfly\n      \n     What species is most commonly found on Isle of Mull, Scotland?\n      \n       The red-barbed ant\n       The white-tailed eagle\n       The red squirrel\n       The lundy cabbage\n      \n     Nature reserves. Identify which of these lovely wild places is The North York Moors, Yorkshire\n      \n       a\n       b\n       c\n       d\n      \n    \n    Solutions\n    1:A, 2:C, 3:A - Agaricus xanthodermus, yellow stainer. It\u2019s poisonous: the rest are edible, 4:C - Small blue butterfly, 5:A, 6:D - The others are migrants, 7:A - Harlequin ladybird , 8:C, 9:B - The white-tailed eagle, 10:C\n    Scores",
+  "webTitle": "How well do you know British wildlife?",
+  "webPublicationDate": "2016-05-01T14:55:09Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/01/how-well-do-you-know-british-wildlife",
+  "keyword": [
+    {
+      "webTitle": "Wildlife",
+      "id": "environment/wildlife",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Zoology",
+      "id": "science/zoology",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Biology",
+      "id": "science/biology",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Animals",
+      "id": "world/animals",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Birds",
+      "id": "environment/birds",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Insects",
+      "id": "environment/insects",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    }
+  ],
+  "authors": [],
+  "guardianId": "environment/2016/may/01/how-well-do-you-know-british-wildlife"
+}

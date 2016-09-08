@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/29/marcus-rashford-manchester-united-new-deal-england",
+  "id": "2016-05-29-13",
+  "sectionId": "football",
+  "body": "Marcus Rashford has been rewarded for his breakthrough season at Manchester United with a \u00a320,000-a-week contract. The striker, 18, has one year left on his current deal and United have acted swiftly, offering him a long\u2011term extension.   Related: Jos\u00e9 Mourinho more of a risk for Manchester United than three years ago | Paul Wilson    Rashford, who scored after 138 seconds for England in their 2-1 victory against Australia on Friday night, will find out on Tuesday whether he has made Roy Hodgson\u2019s Euro 2016 squad. It has been a whirlwind few months for the teenager who broke into the United side only in February, scoring twice on his debut against FC Midtjylland in the Europa League before hitting two goals against Arsenal in the Premier League. Rashford scored eight times in 18 appearances in his debut season and has now been offered the extension following his display on the international stage. United are also reportedly close to agreeing a new deal for the defender Cameron Borthwick-Jackson, who has one year left on his current terms.",
+  "webTitle": "Marcus Rashford earns \u00a320,000-a-week long-term deal from Manchester United",
+  "webPublicationDate": "2016-05-29T21:24:31Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/29/marcus-rashford-manchester-united-new-deal-england",
+  "keyword": [
+    {
+      "webTitle": "Manchester United",
+      "id": "football/manchester-united",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "England",
+      "id": "football/england",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Mark Dobson",
+      "id": "profile/mark-dobson"
+    }
+  ],
+  "guardianId": "football/2016/may/29/marcus-rashford-manchester-united-new-deal-england"
+}

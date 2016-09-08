@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/culture/2016/may/24/interview-james-dyson-vacuum-cleaner",
+  "id": "2016-05-24-292",
+  "sectionId": "artanddesign",
+  "body": "James Dyson, inventor and designer In the late 1970s, I bought the most powerful vacuum cleaner on the market \u2013 the Hoover Junior. I got irritated when it started losing suction and tore the bag open. Its pores were clogged with dust: a fundamental flaw, but valuable to the industry because it meant consumers continually had to buy new bags. At the time, consumables were worth something like \u00a3500m a year. Then one day I was at a local sawmill and noticed how the sawdust was being removed from the air by large industrial cyclones. My engineering instinct kicked in. Could that work on a smaller scale? So I created a cardboard prototype and strapped it on to my machine. It didn\u2019t look great, but it picked up more dust. Fifteen years and 5,000 prototypes later, I had a bagless vacuum cleaner.     Big in Japan \u2026 the 1986 Dyson G-force. Photograph: Science & Society Picture Library/SSPL via Getty Images    By that point, though, I was heavily in debt and didn\u2019t know where to turn to bring my machine to the market. Then I received a call from a Japanese company, Apex. I got on a flight and, after several all-night meetings, signed a deal. In 1986, production of what we called G-force began. It looked quite different from the final Dyson design \u2013 it was bright pink \u2013 but it won a prize and was very successful in Japan. Twenty-two months later, we launched the DC01, the first Dyson vacuum cleaner. It was soon a bestseller. My wife Deirdre and I had moved to the countryside in the 1970s to set about renovating a dilapidated farmhouse. Having to use a wheelbarrow so much, I couldn\u2019t get over how bad the design was: the wheel would get stuck or clogged with dirt, and the barrow was made of metal, which went rusty and dented walls. So I added a plastic ball instead of a wheel, which increased stability and manoeuvrability. I called it the Ballbarrow; the design is still a large part of our vacuum machines today.  We have a number of famous designs around our campus in Wiltshire to inspire our engineers. We\u2019ve recently taken delivery of the world\u2019s only running Whittle jet engine, named after the inventor of the turbojet, which a team of engineers have started to restore. And we\u2019ve also suspended an English Electric Lightning aircraft, an early British supersonic fighter, in our new cafe. People have praised the look of Dyson products \u2013 our use of bright colours and clear plastic, the industrial appearance \u2013 and the vacuum has been called a design icon. I\u2019m flattered that people consider it as such. But I\u2019m a firm believer in function over form. You quickly fall out of love with something that\u2019s easy on the eye if it doesn\u2019t do the job.         Advert for the first Dyson.    Peter Gammack, director of design  We think a lot about design, but appearance always goes hand in hand with how something works. James wanted a clear bin so you could see how much dust the machine was picking up. Many people were uncomfortable with that idea \u2013 who wants to look at the nasty stuff you\u2019re sucking off the floor \u2013 but he stuck to his guns and it\u2019s now a hallmark piece of design. We coloured the handles and the parts you interact with yellow to make it clear that\u2019s what they were for. We were proud of the fact that if you pull the handle out, it turns into a hose \u2013 that kind of thing is satisfying, very neat. I worked on the DC02, the second vacuum, which came a lot more quickly than the first \u2013 two years as opposed to 15, with a team of six design engineers working closely with James. The idea was to make a compact model, so you could perch it on stairs. It didn\u2019t help that our lab was broken into one day and all our computer-aided design stations stolen. We had to go back to the drawing board, redrawing a lot from scratch. I am a bit surprised that people now think of it as a piece of iconic design, and want to put it in museums and the like. You\u2019re just thinking about the product. But it\u2019s flattering, of course.          Advert for the DC02.    We got sick of big, bulky motors, so we decided to design our own, which needed an investment of something like \u00a3250m. We ended up having to develop our own robots because of the precision required. We\u2019re set to make one every 4.6 seconds this year. It sounds obvious, but it\u2019s so rewarding when all the work culminates in a prototype that actually performs properly. It\u2019s not as easy as it looks.",
+  "webTitle": "How we made the Dyson vacuum cleaner",
+  "webPublicationDate": "2016-05-24T06:25:44Z",
+  "webUrl": "https://www.theguardian.com/culture/2016/may/24/interview-james-dyson-vacuum-cleaner",
+  "keyword": [
+    {
+      "webTitle": "Design",
+      "id": "artanddesign/design",
+      "sectionId": "artanddesign",
+      "sectionName": "Art and design"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Art and design",
+      "id": "artanddesign/artanddesign",
+      "sectionId": "artanddesign",
+      "sectionName": "Art and design"
+    },
+    {
+      "webTitle": "Dyson Ltd",
+      "id": "technology/dyson-ltd",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "James Dyson",
+      "id": "technology/james-dyson",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Andrew Dickson",
+      "id": "profile/andrewdickson"
+    }
+  ],
+  "guardianId": "culture/2016/may/24/interview-james-dyson-vacuum-cleaner"
+}

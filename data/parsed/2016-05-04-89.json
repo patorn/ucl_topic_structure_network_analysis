@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/04/chancellor-says-banks-payments-to-regulators-are-tax-deductible",
+  "id": "2016-05-04-89",
+  "sectionId": "business",
+  "body": "Payments by banks to the City regulator are \u201ca routine cost of doing business\u201d, which means they can be deducted from their tax bills, according to George Osborne. The chancellor set out his view in a letter to Andrew Tyrie, who has been seeking clarity from the Treasury after changes in the budget stopped banks being able to deduct compensation paid to customers from their tax bill. That move, aimed at the billions handed out in compensation for payment protection insurance, is expected to add \u00a31bn to banks\u2019 tax payments in the next five years. Tyrie, the Conservative MP who chairs the Treasury select committee, had wanted to know whether fines and other payments to regulators such as the Financial Conduct Authority would be covered by the change.  In a letter dated 4 April, Osborne wrote: \u201cPayments made to regulators are generally deductible for corporation tax purposes. This applies to routine payments made by banks operating in the UK to regulatory authorities to cover the cost of their supervision and oversight.\u201d The chancellor added that payments banks make to the regulators to cover investigations - often known as section 166s - are also deductible, so that banks which have not made any errors are not penalised. This is in line with the tax treatment given to law firms, accountants and those in the oil and gas sector when making payments to regulators.    Related: George Osborne\u2019s great income tax pretence | Letters    Tyrie, though, is on guard for the currently hypothetical situation that payments made by banks, which might be construed as fines, should create tax benefits for banks. \u201cAs long as regulatory payments are made by compliant and non-compliant alike, it is reasonable that they should be treated as a cost of doing business and therefore tax deductible. But in cases where such payments are tantamount to fines, they should not be tax deductible,\u201d Tyrie said. In an earlier letter, dated 15 February, the chancellor had said that fines should not be able to offset tax bills. \u201cI can confirm that fines imposed as a punishment by regulators are non-deductible for UK corporation tax purposes,\u201d Osborne said. In the wake of the Libor rigging scandal, Osborne changed the way that fines were used. In the past they had gone back the regulator, but after the public outcry that followed the \u00a3290m fine imposed on Barclays they have have been used to fund a variety of things, including military charities.",
+  "webTitle": "Chancellor says banks' payments to regulators are tax deductible",
+  "webPublicationDate": "2016-05-04T17:05:24Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/04/chancellor-says-banks-payments-to-regulators-are-tax-deductible",
+  "keyword": [
+    {
+      "webTitle": "Regulators",
+      "id": "business/regulators",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Financial Conduct Authority",
+      "id": "business/financial-conduct-authority",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Banking",
+      "id": "business/banking",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "George Osborne",
+      "id": "politics/georgeosborne",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jill Treanor",
+      "id": "profile/jilltreanor"
+    }
+  ],
+  "guardianId": "business/2016/may/04/chancellor-says-banks-payments-to-regulators-are-tax-deductible"
+}

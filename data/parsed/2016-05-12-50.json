@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/12/kygo-cloud-nine-review",
+  "id": "2016-05-12-50",
+  "sectionId": "music",
+  "body": "Norwegian producer Kygo has accrued more than a billion streams on Spotify ahead of his debut LP, partly via irresistible banger Firestone \u2013 the urtext for tropical house. This success has secured a lobotomised brains trust of neo-MOR singers, weaving grimly competent songwriting through Kygo\u2019s catchy backings, where flutes and pianos form neatly resolving ringtones. Tom Odell gives Fiction some bright falsetto, but is torpedoed by a ghastly honky-tonk melody ripped from Avicii\u2019s playbook; John Legend should be ashamed of Happy Birthday, which sounds like it was commissioned for the sweet 16 of a kleptocrat\u2019s daughter. And with Foxes finding herself sinking in quicksand and lost in a desert, the lyrics are as earnest and emotionally inarticulate as a 19-year-old on Tinder. Well, this is pop, where cliche can be transcendent, but these joyless songs are chemically castrated of any passion or sexuality. It falls to \u2013 ahem \u2013 Kodaline to conjure the keenest feeling, on the laughably titled Raging.",
+  "webTitle": "Kygo: Cloud Nine review \u2013 tropical house by committee",
+  "webPublicationDate": "2016-05-12T19:30:06Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/12/kygo-cloud-nine-review",
+  "keyword": [
+    {
+      "webTitle": "Dance music",
+      "id": "music/dance-music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Electronic music",
+      "id": "music/electronicmusic",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ben Beaumont-Thomas",
+      "id": "profile/ben-beaumont-thomas"
+    }
+  ],
+  "guardianId": "music/2016/may/12/kygo-cloud-nine-review"
+}

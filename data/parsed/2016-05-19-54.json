@@ -1,0 +1,52 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/19/bhs-rescue-matalan-tycoon",
+  "id": "2016-05-19-54",
+  "sectionId": "business",
+  "body": "The race to acquire BHS has entered its final stages with Matalan tycoon John Hargreaves understood to have offered somewhere between \u00a360m and \u00a375m to acquire the stricken retailer.  After an initial flurry of interest, the field of buyers has narrowed to a couple of serious contenders as the administrators Duff & Phelps consider only bids for the whole business in the hope of saving as many jobs as possible. The offer from Hargreaves, who has formed an alliance with Turkish businessman Cafer Mahiroglu \u2013 the owner of the value fashion retailer Select \u2013 is for the business and an estimated \u00a340m to \u00a350m of unsold stock.  A well-funded European investor is thought to be their only real rival after Sports Direct owner Mike Ashley tabled a \u201clow-ball offer\u201d and Edinburgh Woollen Mill owner Philip Day stepped back. Reports that Poundstretcher owner Aziz Tayub has entered the fray are considered wide of the mark. No deal is expected to be finalised until next week at the earliest as the Hargreaves consortium pores over BHS\u2019s books. BHS went into administration at the end of last month, putting 11,000 high street jobs at risk. The 88-year-old retailer failed little more than a year after Topshop owner Sir Philip Green sold it to a little-known collection of financiers, lawyers and accountants, led by Dominic Chappell, who has been declared bankrupt at least twice. Industry sources continue to question whether BHS\u2019s administrators will be able to pull off a deal that will preserve BHS\u2019s place on the high street given its history of losses and string of unprofitable stores. At the outset, retail watchers considered a break-up of the retailer the most likely scenario.",
+  "webTitle": "Race to acquire BHS enters final stages with Matalan tycoon ahead",
+  "webPublicationDate": "2016-05-19T18:52:24Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/19/bhs-rescue-matalan-tycoon",
+  "keyword": [
+    {
+      "webTitle": "BHS",
+      "id": "business/bhs",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Retail industry",
+      "id": "business/retail",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Mike Ashley",
+      "id": "football/mike-ashley",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Sarah Butler",
+      "id": "profile/sarahbutler"
+    },
+    {
+      "webTitle": "Zoe Wood",
+      "id": "profile/zoewood"
+    }
+  ],
+  "guardianId": "business/2016/may/19/bhs-rescue-matalan-tycoon"
+}

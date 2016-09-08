@@ -1,0 +1,96 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/24/george-osborne-financial-year-government-borrowing-deficit-reduction-ons",
+  "id": "2016-05-24-189",
+  "sectionId": "business",
+  "body": "The chancellor, George Osborne, has fallen behind in his deficit-reduction programme just a month into the new financial year, with the government borrowing more than expected in April. The UK government had to borrow \u00a37.2bn last month to plug the gap between spending and earnings, according to the Office for National Statistics.  It was \u00a3300m less than April 2015, but higher than the \u00a36.6bn that economists expected. Alan Clarke, economist at Scotiabank, said the figures marked \u201ca disappointing start\u201d to the 2016-17 financial year. He added: \u201cWhile it was still an improvement, it wasn\u2019t big enough to keep the public finances on track. \u201cTo hit the chancellor\u2019s borrowing goal for this year we needed to see borrowing down by an average of \u00a31.5bn per month compared with the same month a year ago so we are running behind schedule already.\u201d In a further blow to George Osborne, the March borrowing figures were revised up by about \u00a32bn, taking the total for 2015-16 to \u00a376bn \u2013 almost \u00a34bn more than official forecasters at the Office for Budget Responsibility expected. Osborne\u2019s borrowing target for this year is \u00a355.5bn, according to the OBR forecasts at the time of the budget in March. The Treasury said the figures showed an improvement in the public finances, with borrowing down on the same month a year ago and the lowest April monthly deficit since the recession. However, the spokeswoman warned that a vote to leave the European Union on 23 June would worsen the public finances, as tax receipts would fall during a fresh recession. \u201cThe fiscal repair job is not finished and it would be dangerous to put this at risk,\u201d she said. \u201cAs uncertainty ahead of the referendum weighs on our outlook, Treasury analysis has shown that if the UK votes to leave the EU on 23 June, we would be tipped into a year-long recession and receipts could fall by \u00a336bn in the long term, unwinding years of hard work.\u201d",
+  "webTitle": "George Osborne's new financial year gets off to 'a disappointing start'",
+  "webPublicationDate": "2016-05-24T11:52:47Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/24/george-osborne-financial-year-government-borrowing-deficit-reduction-ons",
+  "keyword": [
+    {
+      "webTitle": "Government borrowing",
+      "id": "business/government-borrowing",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Budget deficit",
+      "id": "business/budget-deficit",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economic growth (GDP)",
+      "id": "business/economicgrowth",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economic recovery",
+      "id": "business/economic-recovery",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Austerity",
+      "id": "business/austerity",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "George Osborne",
+      "id": "politics/georgeosborne",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Tax and spending",
+      "id": "politics/taxandspending",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Office for Budget Responsibility",
+      "id": "business/office-for-budget-responsibility",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Office for National Statistics",
+      "id": "uk/office-for-national-statistics",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Angela Monaghan",
+      "id": "profile/angela-monaghan"
+    }
+  ],
+  "guardianId": "business/2016/may/24/george-osborne-financial-year-government-borrowing-deficit-reduction-ons"
+}

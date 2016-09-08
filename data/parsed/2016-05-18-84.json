@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/18/judge-examine-claims-uk-troops-drowned-iraqis-wetting",
+  "id": "2016-05-18-84",
+  "sectionId": "uk-news",
+  "body": "A judge is to examine claims that Iraqi civilians drowned after being thrown into rivers by British troops following the 2003 invasion of the country. Sir George Newman, who is presiding over a series of inquiries known as the Iraq Fatality Investigations, said on Wednesday he would be looking into allegations that a practice known as \u201cwetting\u201d was adopted to deal with suspected looters amid growing lawlessness in the wake of the overthrow of Saddam Hussein\u2019s regime. Newman made the announcement during an investigation into the death of a 15-year-old Iraqi civilian, Ahmed Jabbar Kareem Ali, who died in May 2003 after he was arrested with three other youths and forced into the Shatt al-Basra waterway in southern Iraq. Four soldiers serving with the Irish and Coldstream Guards were subsequently charged with manslaughter but cleared at courts martial. The four gave evidence before Newman on Wednesday after receiving assurances from the attorney general and the international criminal court that they would not face any further charges. Newman asked that they be identified in media reports on his investigation only by ciphers used in court \u2013 SO15 to 18 \u2013 and urged all four to give candid evidence. The sergeant in command of the group, SO15, denied that he had heard of wetting, and insisted that although the four youths had been driven about five miles to the waterway, there had been no intention to force them into the water. This had happened while he was inside the unit\u2019s Warrior armoured vehicle, he said. Two of the other soldiers said that SO15 had been at the water\u2019s edge when the youths were forced into the water. One, SO16, who won the Military Cross while serving in Afghanistan and was made an officer, described how he had grabbed two of the youths under their armpits and forced them towards the water\u2019s edge. He described how Ali began floundering and slipped below the water. He said that SO15 had initially ordered him to rescue the youth and he began to undress. \u201cI have a recollection of being upset that I was going to have to get wet,\u201d he said. SO18 described how Ali had a look of panic on his face as he began to slip under the water. He then heard an order to get back into the Warrior. SO16 said he stopped getting undressed. \u201cThe conversation changed and we got back into the vehicle and that was that.\u201d Newman said that Ali and the other looters had been detained at a time when British troops in Basra were struggling to contain a wave of looting, which they had not been expecting. \u201cVarious homemade procedures were devised and, probably through gossip rather than instruction, spread to different companies and platoons.\u201d He would be attempting to establish whether wetting was one of these. Newman is expected to report on his findings later in the year.",
+  "webTitle": "Judge to examine claims UK troops drowned Iraqis during 2003 invasion",
+  "webPublicationDate": "2016-05-18T17:20:33Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/18/judge-examine-claims-uk-troops-drowned-iraqis-wetting",
+  "keyword": [
+    {
+      "webTitle": "Military",
+      "id": "uk/military",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Iraq",
+      "id": "world/iraq",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Middle East and North Africa",
+      "id": "world/middleeast",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ian Cobain",
+      "id": "profile/iancobain"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/18/judge-examine-claims-uk-troops-drowned-iraqis-wetting"
+}

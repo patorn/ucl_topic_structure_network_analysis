@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/shortcuts/2016/may/11/can-you-pit-stop-everyday-life",
+  "id": "2016-05-11-112",
+  "sectionId": "sport",
+  "body": "You\u2019ve heard of the four-minute mile and, perhaps, the race to dip under two hours in the marathon. In Formula 1, it\u2019s all about breaking the two-second barrier. Or at least it was, until at the 2013 US grand prix, the Red Bull pit crew replaced Mark Webber\u2019s tyres in 1.923 seconds, beating their own world record. Increasingly, the tech and know-how required to achieve such a feat of choreography has created a science. And pit-stop methodology is being applied to other worlds where speed and accuracy in a confined space can be the difference between life and death \u2013 or efficiently made toothpaste and less efficiently made toothpaste. Doctors from the University Hospital of Wales have visited the Williams F1 team to improve its performance in resuscitating newborn babies. They learned how to better organise their instruments trolley and create a floorplan with places marked for each team member. \u201cWe\u2019ve re-audited the streamlined trolley after six months and we found a significant improvement in the accessibility and the organisation of the equipment,\u201d specialist registrar Rachel Hayward told BBC Wales, explaining that this had had a knock-on effect on speed. \u201cThey\u2019ve also learned how to use hand signals, which is what we do because of the engine noise,\u201d says Clare Williams, the deputy team principal of Williams (and daughter of its founder Sir Frank Williams). \u201cAnd they\u2019re considering slow-motion video analysis, which we use to improve our pit stops.\u201d The physical and mental demands of a two-second stop are such that F1 teams employ specialists to train and prepare mechanics, who must be as agile and focused as the drivers. Adam Hill is a surgeon and engineer at McLaren Applied Technologies, a spin-off from the McLaren F1 team. He\u2019s responsible for things such as \u201ctask sequencing\u201d and \u201cdesigning out failure\u201d, as well as the care of the mechanics, who work under stress in a risky environment (less so since the 2009 ban on mid-race refuelling, which allowed pit times to drop significantly). But McLaren has also installed a version of the telemetrics it uses to check car performance to monitor heart patients at Birmingham Children\u2019s Hospital. \u201cAnd when Great Ormond Street were so frustrated that they couldn\u2019t get a child from the operating theatre 100 metres to intensive care on a Saturday because it required 17 people, they contacted us,\u201d Hill adds. Drugs giant GSK used McLaren\u2019s pit-stop skills to cut the time it takes to switch toothpaste flavours in one of its production lines from 39 to 15 minutes, allowing it to produce an extra 6.7m tubes a year. But can we pit stop everyday life, saving seconds in pasta preparation or the school run? Absolutely, Hill says. \u201cWe hear so much about disruptive innovation but very little about incremental innovation. I\u2019m obsessed with making improvements in everything I do, measuring it and analysing that data.\u201d Away from the track, he also takes this approach with his kids. \u201cIt helps me modify their behaviour, whether it\u2019s eating their carrots or going to bed earlier,\u201d he says.",
+  "webTitle": "Can the science of F1 pit stops transform everyday life?",
+  "webPublicationDate": "2016-05-11T16:54:11Z",
+  "webUrl": "https://www.theguardian.com/sport/shortcuts/2016/may/11/can-you-pit-stop-everyday-life",
+  "keyword": [
+    {
+      "webTitle": "Formula One",
+      "id": "sport/formulaone",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Motor sport",
+      "id": "sport/motorsports",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Formula One 2016",
+      "id": "sport/formula-one-2016",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Hospitals",
+      "id": "society/hospitals",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Simon Usborne",
+      "id": "profile/simon-usborne"
+    }
+  ],
+  "guardianId": "sport/shortcuts/2016/may/11/can-you-pit-stop-everyday-life"
+}

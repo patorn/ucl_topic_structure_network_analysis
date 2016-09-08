@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/12/pat-metheny-unity-sessions-jazz-cd-review-nonesuch-band",
+  "id": "2016-05-12-108",
+  "sectionId": "music",
+  "body": "This successor to the Grammy-winning Kin \u2013 styled as Kin (\u2190\u2192) \u2013 was recorded last year while the Metheny group, with prodigious saxophonist Chris Potter, was still hot from a 150-gig tour. The Unity Band lets Metheny develop new music and revisit old favourites, so an exquisite solo-guitar medley of his famous themes features alongside reworkings of the Kin (\u2190\u2192) tracklist, covers of the classic jazz vehicle Cherokee, and a jubilantly hooting account of Ornette Coleman\u2019s Police People. Roofdogs, with Metheny and Potter wailing like sirens and Antonio Sanchez\u2019s cymbal chime and lashing offbeats driving them on, is more urgently thrilling than it was on Kin (\u2190\u2192), and there\u2019s a generally exhilarating sense of freedom here, notably in improv exchanges between the players and with Metheny\u2019s one-man-band Orchestrion machine, that testifies to how attuned constant gigging has made them. This set is simultaneously released with Nonesuch\u2019s Cuong Vu Trio Meets Pat Metheny, a reunion of the guitarist and his former trumpeter/singer.",
+  "webTitle": "Pat Metheny: The Unity Sessions review \u2013 old gems and new favourites",
+  "webPublicationDate": "2016-05-12T17:00:03Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/12/pat-metheny-unity-sessions-jazz-cd-review-nonesuch-band",
+  "keyword": [
+    {
+      "webTitle": "Jazz",
+      "id": "music/jazz",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [],
+  "guardianId": "music/2016/may/12/pat-metheny-unity-sessions-jazz-cd-review-nonesuch-band"
+}

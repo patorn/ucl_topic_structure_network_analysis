@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/03/undercover-policing-inquiry-judge-rejects-blanket-anonymity",
+  "id": "2016-05-03-94",
+  "sectionId": "uk-news",
+  "body": "The senior judge leading a public inquiry into the covert police infiltration of political groups has decided that undercover officers will not be given blanket anonymity during the hearings. The ruling by Lord Justice Pitchford follows an attempt by the police to have large parts of the inquiry held in private. They have argued that none of the undercover officers should be identified to the public to protect them from harm.  Pitchford said he still had to determine how much of the inquiry would be heard in secret, and he would decide at a later date how many applications for secrecy to approve. This would be done on a case-by-case basis, he said. He has received 33 applications from undercover officers and those who were the targets of the police operations for different degrees of secrecy.  Inidviduals who were spied on have argued that the inquiry should be heard in public to enable a proper examination of the conduct of the undercover officers.  The inquiry will examine how more than 100 undercover officers infiltrated hundreds of political groups from 1968 onwards. The inquiry was set up by the home secretary, Theresa May, after what she called the \u201cvery real and substantial failings\u201d of undercover officers were disclosed.  It has been revealed that undercover officers deceived women into having long-term relationships with them, spied on grieving families fighting for justice, and stole the identities of dead children.  In his ruling, Pitchford said there would be \u201cno blanket solution\u201d to the question of whether information about the covert deployments would be made public during the inquiry.  In a key stance, police have routinely argued that they can neither confirm nor deny the identity of an undercover officer. Pitchford concluded that this \u201cneither confirm nor deny\u201d stance could not in itself be a reason for granting an application to conceal the identity of an undercover officer. However, he added that he may take into account this stance when deciding whether to grant an application for secrecy. \u201cThe weight, if any, to be afforded to it will depend upon the precise risk of harm or damage its application seeks to avoid or reduce,\u201d he said. In legal submissions, police said they would be \u201capplying for much of the detail of past or current deployments\u201d to be heard in the absence of the general public and the targets of the surveillance, in order to preserve the covert techniques.  The police said it was likely that \u201cin the overwhelming majority of instances\u201d the Met would argue that \u201cthe fact of or details of an undercover police deployment\u201d must not be disclosed in the open sessions of the inquiry.",
+  "webTitle": "Judge in undercover policing inquiry rejects blanket anonymity",
+  "webPublicationDate": "2016-05-03T17:04:11Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/03/undercover-policing-inquiry-judge-rejects-blanket-anonymity",
+  "keyword": [
+    {
+      "webTitle": "Undercover police and policing",
+      "id": "uk/undercover-police-and-policing",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Police",
+      "id": "uk/police",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Rob Evans",
+      "id": "profile/robevans"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/03/undercover-policing-inquiry-judge-rejects-blanket-anonymity"
+}

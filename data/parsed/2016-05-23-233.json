@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/23/prince-harry-and-pippa-middleton-articles-in-mail-given-all-clear",
+  "id": "2016-05-23-233",
+  "sectionId": "media",
+  "body": "The Daily Mail and its companion website Mail Online have been cleared by the UK press regulator over articles repeating claims that Prince Harry was forming a \u201csecret relationship\u201d with his sister-in-law Pippa Middleton.  The ruling follows the Independent Press Standards Organisation finding against the Daily Star over the same story, which originated in the US edition of OK! magazine. The prince\u2019s complaint to Ipso concerned accuracy, intrusion into privacy and failure to provide an opportunity to reply to the story.  The complaint said the Daily Mail had repeated the magazine\u2019s claims that \u201cthe Duchess of Cambridge found her sister and brother-in-law \u2018snogging in a bathroom\u2019 at the royal wedding\u201d, while Mail Online had reported allegations that Middleton had \u201cspent the night several times\u201d and that Prince William had \u201cfound the pair in a compromising position\u201d. However, while Ipso ruled that the Star had reported the claims in a misleading manner, it said both Mail outlets had reported the claims in a sceptical tone, and unlike the Star had sought comment from representatives of the royal family. On the first count of accuracy, Ipso said the print title \u201chad taken care to ensure that the claims were reported with due scepticism\u201d, while its online sister outlet had \u201con balance \u2026 cast doubt over the claims\u201d. In both cases, it said the fact that the newspapers had presented doubts about the accuracy of the OK! article reduced the impact on the prince\u2019s privacy and the requirement to obtain a right to reply before publication. Ipso\u2019s decision to clear the Mail outlets contrasted sharply with its ruling on the Star last weekend, which said the story in the Richard Desmond-owned title had been \u201csignificantly misleading\u201d in the way it had repeated OK!\u2019s claims and had failed to approach Kensington Palace for comment.  It added that: \u201cWhile it had not contained a positive assertion of their truth, there was no suggestion that there was reason to doubt their veracity.\u201d Ipso also rejected the Star\u2019s defence that other papers, including the Mail, had picked up the story, and was highly critical of the newspaper\u2019s handling of the complaint, saying it had \u201c failed to engage substantively with Ipso\u2019s investigation\u201d. The rulings follow hard on the heels of Ipso\u2019s ruling against the Sun article headlined \u201cQueen Backs Brexit\u201d, which was the regulator\u2019s first under an updated clause that requires papers to ensure headlines reflect the content of a story.",
+  "webTitle": "Prince Harry and Pippa Middleton articles in Mail given all-clear",
+  "webPublicationDate": "2016-05-23T10:03:27Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/23/prince-harry-and-pippa-middleton-articles-in-mail-given-all-clear",
+  "keyword": [
+    {
+      "webTitle": "Ipso",
+      "id": "media/ipso",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers & magazines",
+      "id": "media/pressandpublishing",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Press regulation",
+      "id": "media/press-regulation",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Daily Mail",
+      "id": "media/dailymail",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Mail Online",
+      "id": "media/mail-online",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers",
+      "id": "media/newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Prince Harry",
+      "id": "uk/prince-harry",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jasper Jackson",
+      "id": "profile/jasper-jackson"
+    }
+  ],
+  "guardianId": "media/2016/may/23/prince-harry-and-pippa-middleton-articles-in-mail-given-all-clear"
+}

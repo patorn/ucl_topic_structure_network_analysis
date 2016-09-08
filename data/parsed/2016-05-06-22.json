@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/06/liberia-abandoned-oil-tanker-tamaya-1-washed-ashore",
+  "id": "2016-05-06-22",
+  "sectionId": "world",
+  "body": "An abandoned oil tanker has washed up on the shores of Liberia in west Africa, prompting an investigation \u2013 and speculation over the fate of the ship\u2019s crew. The Tamaya 1, which is registered in Panama, ran aground on a beach near Robertsport earlier this week, apparently without a crew or lifeboats. On Thursday the Liberia national police and bureau of immigration inspected the ship, days after local residents first discovered it on the beach.   map   The 64-meter (210ft) tanker\u2019s last known position was on 21 April near Gambia and Senegal, according to shipping site Marine Traffic \u2013 well north of Liberia along the west African coast. The ship was en route to the Senegalese port of Dakar, according to the site. The Liberia national police and the Liberia maritime authority did not immediately respond to a call for comment. \u201cOur best bet is that the vessel\u2019s owner might have gone broke and had no money to pay crew members,\u201d a source at the nation\u2019s port authority told the Liberian Daily Observer. \u201cAnd therefore, the crew abandoned the ship.\u201d Asked about why maritime authorities had responded so slowly to the mystery of a crewless oil tanker, the source said: \u201cRobertsport does not have a seaport.\u201d After several days beached on the shoreline, the ship was reportedly looted and vandalized and speculation was rife that pirates or a fire had caused the crew to abandon the ship. Since investigation began, police have tried to keep civilians away from the ship. Although tankers were once prized by pirates off the African coasts, the long decline in oil prices combined with a sustained military campaign have reduced hijackings. Off west Africa, piracy has been largely held south of Liberia, in the waters off Nigeria and Ghana.",
+  "webTitle": "Oil tanker washes up on Liberia beach with no crew or lifeboats",
+  "webPublicationDate": "2016-05-06T20:56:51Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/06/liberia-abandoned-oil-tanker-tamaya-1-washed-ashore",
+  "keyword": [
+    {
+      "webTitle": "Liberia",
+      "id": "world/liberia",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Africa",
+      "id": "world/africa",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Alan Yuhas",
+      "id": "profile/alan-yuhas"
+    }
+  ],
+  "guardianId": "world/2016/may/06/liberia-abandoned-oil-tanker-tamaya-1-washed-ashore"
+}

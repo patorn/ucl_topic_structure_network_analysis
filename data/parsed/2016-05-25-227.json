@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/25/royal-mail-escapes-price-caps-after-ofcom-says-service-working-well",
+  "id": "2016-05-25-227",
+  "sectionId": "business",
+  "body": "Royal Mail has escaped new price controls after the communications regulator said the universal postal system was working in its current form. Ofcom investigated the company over concerns it no longer had competition in the delivery of letters following the withdrawal of Whistl from the market. Publishing the initial findings of its review, launched last July, the regulator said it would not impose new price caps on the company. \u201cGiven the declining letters market, and increased competition in parcels, Ofcom is not proposing to impose new price controls on Royal Mail\u2019s wholesale or retail products.\u201d It added: \u201cThe universal postal service is financially sustainable, while current rules and safeguards for people and businesses who use post are generally working well.\u201d Shares in Royal Mail rose 1.8% to 530p after Ofcom delivered the findings, making it one of the FTSE 100\u2019s biggest risers on Wednesday morning. Ofcom said that, as the postal regulator, it had a duty to secure the universal postal service, which requires Royal Mail to deliver to every address in the UK, six days a week, at a uniform price. Royal Mail could do more to improve efficiency to benefit customers, Ofcom said, because there was too much variation in performance at different delivery depots. The regulator added that it intended to introduce new rules to ensure the safe arrival of letters. Postal operators which failed to follow these rules would be fined. Jonathan Oxley, competition director at Ofcom, said: \u201cConsumers should have utmost confidence in using postal services. We want to ensure that letters which haven\u2019t been tracked, but may still contain important contents, arrive safely.\u201d The regulator said it was concerned Royal Mail had the potential to subsidise its parcels business through its letters business \u2013 where it has a much larger market share and established delivery network - in a way that might disadvantage other parcel delivery companies. \u201cOfcom will closely monitor whether Royal Mail is appropriately allocating its costs between parcels and letters,\u201d it said. The regulator said it would publish a final report later in the year, following a further consultation period that will close on 3 August. Royal Mail said in response to Ofcom\u2019s initial findings: \u201cRoyal Mail notes that Ofcom has today published its consultation document containing proposals in relation to the regulatory framework for Royal Mail.  \u201cThe company is reviewing the proposals and will issue a further announcement in due course.\u201d",
+  "webTitle": "Royal Mail escapes price caps after Ofcom says service working well",
+  "webPublicationDate": "2016-05-25T09:38:51Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/25/royal-mail-escapes-price-caps-after-ofcom-says-service-working-well",
+  "keyword": [
+    {
+      "webTitle": "Royal Mail",
+      "id": "business/royal-mail",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Ofcom",
+      "id": "media/ofcom",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Postal service",
+      "id": "uk/post",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Post Office",
+      "id": "business/post-office",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Angela Monaghan",
+      "id": "profile/angela-monaghan"
+    }
+  ],
+  "guardianId": "business/2016/may/25/royal-mail-escapes-price-caps-after-ofcom-says-service-working-well"
+}

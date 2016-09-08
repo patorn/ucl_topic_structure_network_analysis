@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/marketforceslive/2016/may/18/housebuilders-gain-more-ground-after-taylor-wimpey-update",
+  "id": "2016-05-18-256",
+  "sectionId": "business",
+  "body": "Housebuilders continue to be supported by Tuesday\u2019s positive update from Taylor Wimpey. Taylor has climbed another 2p to 195.6p as JP Morgan raised its target price from 220p to 250p and Deutsche Bank issued a buy note, lifting its forecast share price from 247p to 261p. Deutsche said:  We believe investors will strongly appreciate Taylor Wimpey\u2019s commitment to pay dividends across each year of the cycle (at more than 2% yield) even in a downside scenario. With special dividends supplementing dividend yield to 5.6% in 2016 with Deutsche Bank estimates suggesting scope for more than 7% from 2017 (even while Deutsche Bank estimates remain short of the group EBIT margin target) we believe the stock is difficult to ignore despite the industry uncertainties ahead of the Brexit vote.   Liberum was slightly more cautious, keeping its hold recommendation:  We have upgraded our 2016E-2019 earnings per share forecasts by 1-7% to reflect management\u2019s clear statement of confidence in near term profitability. We remain more cautious than most as returns are close to peak, in our view, as inflation will moderate and labour costs remain a challenge.  Among the other housebuilders, Berkeley Group is up 41p to \u00a331, Persimmon has put on 32p to \u00a320.42, and Bovis Homes is 14p better at 941p.",
+  "webTitle": "Housebuilders gain more ground after Taylor Wimpey update",
+  "webPublicationDate": "2016-05-18T09:47:32Z",
+  "webUrl": "https://www.theguardian.com/business/marketforceslive/2016/may/18/housebuilders-gain-more-ground-after-taylor-wimpey-update",
+  "keyword": [
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Stock markets",
+      "id": "business/stock-markets",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Taylor Wimpey",
+      "id": "business/taylorwimpey",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Berkeley",
+      "id": "business/berkeleygroupholdings",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Persimmon",
+      "id": "business/persimmon",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Bovis Homes",
+      "id": "business/bovishomesgroup",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Nick Fletcher",
+      "id": "profile/nickfletcher"
+    }
+  ],
+  "guardianId": "business/marketforceslive/2016/may/18/housebuilders-gain-more-ground-after-taylor-wimpey-update"
+}

@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/money/2016/may/24/talktalk-credit-card-fraud-scams",
+  "id": "2016-05-24-297",
+  "sectionId": "money",
+  "body": "I have lost \u00a31,800 in a credit card scam by a fraudster posing as TalkTalk. An email arrived, purportedly from TalkTalk, to say it had been unable to take the outstanding monthly payment from my bank account (from a standing order that has existed for years) and that I needed to rectify this or I would be disconnected in two days. I was required to supply my personal details and card and bank account numbers again. The email looked genuine, with all the right colours, format and typeface for TalkTalk \u2013 just as I have been accustomed to seeing so often. I assumed that this was yet another cock-up by TalkTalk to which I had better respond. My bank has advised that the culprit could be operating \u201canywhere in the world\u201d and I am to be issued with a new credit card so that this crook may not instigate more transactions against me. BH, Uxbridge, Greater London More fallout from the data breach. Other readers take note that this email is doing the rounds. We are getting large numbers of emails from readers who have been called by fraudsters posing as TalkTalk staff. Despite extensive media coverage, many people have not yet woken up to the scale of this scam. Warn elderly friends and family that this is going on and, if anything, is getting worse. TalkTalk consistently refuses to offer compensation. We welcome letters but cannot answer individually. Email us at consumer.champions@theguardian.com or write to Consumer Champions, Money, the Guardian, 90 York Way, London N1 9GU. Please include a daytime phone number",
+  "webTitle": "Fraudster posing as TalkTalk took \u00a31,800 from my account",
+  "webPublicationDate": "2016-05-24T06:00:02Z",
+  "webUrl": "https://www.theguardian.com/money/2016/may/24/talktalk-credit-card-fraud-scams",
+  "keyword": [
+    {
+      "webTitle": "TalkTalk",
+      "id": "business/talk-talk-telecom",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Scams",
+      "id": "money/scamsandfraud",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Consumer affairs",
+      "id": "money/consumer-affairs",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Consumer rights",
+      "id": "money/consumer-rights-money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Household bills",
+      "id": "money/household-bills",
+      "sectionId": "money",
+      "sectionName": "Money"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Miles Brignall",
+      "id": "profile/milesbrignall"
+    }
+  ],
+  "guardianId": "money/2016/may/24/talktalk-credit-card-fraud-scams"
+}

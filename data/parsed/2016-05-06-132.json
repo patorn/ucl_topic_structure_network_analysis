@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media-network/2016/may/06/data-dashboards-insight-customers-marketing",
+  "id": "2016-05-06-132",
+  "sectionId": "media-network",
+  "body": "Throw a life ring to a marketer drowning in data and it\u2019s likely they won\u2019t notice it. While many companies have amassed huge amounts of data and automated dashboards, they can ultimately be overwhelming. Part of the problem is that data companies have long made a sharp distinction between data and insight \u2013 and promise to deliver the latter rather than the former. This has given marketers the impression that insight is something that should drop out of the sky in neat, multicoloured rows. They also think that the tools they buy should make it easy. This isn\u2019t true. A good data solution has the potential to deliver insights faster and easier than ever. But no matter how much data you have, or how beautifully arranged your dashboards are, you won\u2019t get meaningful insight from them alone. That requires something else \u2013 a human brain.  To see why, the marketing industry has to acknowledge some key truths about the relationship between data and usable information. Return on investment comes from people, not tools Dashboards are an essential tool that can provide a unified view of your business. They track progress and help you to understand what\u2019s working well (or not).  But they are also only the beginning of insight. They are merely the place where the real work begins. You\u2019re probably underutilising your analysts Analysts in the marketing industry typically spend the bulk of their time aggregating data sets and creating spreadsheets and dashboards for executives. That\u2019s important work and, yes, it requires sharp minds and good instincts.  To merge disparate data sets, you must know how to balance their importance and create processes that are repeatable for future analysis. The end result is the beginning of insight, not insight itself. Insight comes from asking questions When a good analyst looks at key performance indicators, it isn\u2019t merely information. Rather, it prompts them to ask ask questions: why did this happen; what produced this result? Then they can dive in to the data, pivot the numbers and research other correlations to find the answer. That kind of analysis, not passive data consumption, is what delivers true insight.   Related: How to embed agency teams in client companies    It also comes from discovery and iteration. Once you start asking questions of data, the answers will suggest further questions. You may run a test to determine if something works \u2013 and then run follow-ups to deepen your knowledge. Eventually, you will iterate to a true understanding of your business and customers. Compound data can be gold  The best questions involve multiple data sources. For example, it\u2019s a common practice in marketing to use data to target segments. To do this, we survey customers up-front to determine what we think works.  But, oddly enough, we never go back and compare those initial predictions with data about what people said they did. The survey data is just the start; the behavioural data shows the real results. When you compare them, you get real insight into why people are acting as they are. Granularity is the goal Insight also increases the more specific you get with data. You can learn a little about your customers from a generic dataset. But you learn more if you focus sharply on a specific platform, such as mobile, or look at usage at specific times (eg morning v evening). By digging into this level of data, you learn what people want and when. It\u2019s time we stopped using drowning metaphors for what data is (and isn\u2019t) doing for us. Insight is available for those who are willing to go out and get it. It\u2019s not available if you expect it to magically appear in a spreadsheet. Only if we invest in the analysis we need will we get the true picture of our customers that everyone desires. Harmony Crawford is director of marketing sciences at POSSIBLE Seattle To get weekly news analysis, job alerts and event notifications direct to your inbox, sign up free for Media & Tech Network membership. All Guardian Media & Tech Network content is editorially independent except for pieces labelled \u201cPaid for by\u201d \u2013 find out more here.",
+  "webTitle": "Data and dashboards are only the beginning of insight",
+  "webPublicationDate": "2016-05-06T14:30:08Z",
+  "webUrl": "https://www.theguardian.com/media-network/2016/may/06/data-dashboards-insight-customers-marketing",
+  "keyword": [
+    {
+      "webTitle": "Media & Tech Network",
+      "id": "media-network/media-network",
+      "sectionId": "media-network",
+      "sectionName": "Media Network"
+    },
+    {
+      "webTitle": "Marketing & PR",
+      "id": "media/marketingandpr",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Big data",
+      "id": "technology/big-data",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [],
+  "guardianId": "media-network/2016/may/06/data-dashboards-insight-customers-marketing"
+}

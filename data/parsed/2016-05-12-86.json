@@ -1,0 +1,84 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/12/european-parliament-denies-china-equal-trading-rights",
+  "id": "2016-05-12-86",
+  "sectionId": "business",
+  "body": "The timing of the steel crisis could hardly have been worse for China. Beijing is desperate to be granted market economy status within the World Trade Organisation but is running into stiff opposition from both the US and Europe. With Chinese steel being dumped on global markets, the European parliament on Thursday voted against the idea that China should be treated the same as the EU or the US by a thumping margin. The decision puts pressure on the European commission to either oppose market economic status outright or include safeguards for specific industries.   Related: UK steel boost as MEPs oppose giving China market economy status    Market economy status (or MES) matters to the Chinese for both symbolic and practical reasons. It would be a sign that the country is being treated as an equal by the west and it would make it more difficult to impose tariffs on Chinese goods in anti-dumping cases. Beijing says MES was guaranteed when it joined the WTO in 2001. But many of China\u2019s trading partners believe it doesn\u2019t deserve to be treated as a proper market economy, because the state makes all the important calls when it comes to investment decisions. There is merit in this criticism. Beijing has flooded the global market with cheap steel, avoiding higher unemployment at home by causing job losses elsewhere, including in the UK. The anger felt in Europe and America is wholly understandable, and comes at a time when Donald Trump and Bernie Sanders have helped move US trade policy in a much more protectionist direction. Brokering a compromise deal is not going to be easy. It would represent a big loss of face for China to be deprived of MES, but the 546-28 vote in the European parliament is an indication of the mounting anti-China mood in the west. All the ingredients are there for a trade war.",
+  "webTitle": "European parliament gives China a black eye over trade status",
+  "webPublicationDate": "2016-05-12T18:00:13Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/12/european-parliament-denies-china-equal-trading-rights",
+  "keyword": [
+    {
+      "webTitle": "International trade",
+      "id": "business/internationaltrade",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "China",
+      "id": "world/china",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Steel industry",
+      "id": "business/steel-industry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Asia Pacific",
+      "id": "world/asia-pacific",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "WTO",
+      "id": "world/wto",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Global economy",
+      "id": "business/global-economy",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Larry Elliott",
+      "id": "profile/larryelliott"
+    }
+  ],
+  "guardianId": "business/2016/may/12/european-parliament-denies-china-equal-trading-rights"
+}

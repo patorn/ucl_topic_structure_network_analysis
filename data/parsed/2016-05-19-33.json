@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/us-news/2016/may/19/san-francisco-police-fatal-shooting-black-woman-bayview-mario-woods",
+  "id": "2016-05-19-33",
+  "sectionId": "us-news",
+  "body": "San Francisco police officers shot and killed a 27-year-old black woman near the city\u2019s Bayview neighborhood on Thursday morning, authorities said.  The woman, who has not been identified, was allegedly in a stolen car when she was approached by two uniformed officers. The woman \u201cdid not comply originally with the investigation\u201d and drove off, then quickly crashed the car, police chief Greg Suhr said at the scene of the shooting.    Related: San Francisco's liberal image marred by scandal-prone police department    One of the officers, a sergeant, fired a single shot at the woman, striking her. The officers immediately removed the woman from her car and administered CPR, Suhr said.  The woman was transported to the hospital, where she died. \u201cThis is exactly the kind of thing, with all of our reforms, that we\u2019re trying to avoid,\u201d Suhr told reporters.  The chief did not state whether or not the woman was armed.  The shooting comes amid a string of controversial shootings and scandals for the San Francisco Police Department.  It took place less than two miles from where a group of police shot and killed Mario Woods, a 26-year-old black man, in a barrage of gunfire on 2 December 2015. Bystander video of the shooting contradicted police statements that Wood, who was carrying a knife, extended his arm toward police prior to their opening fire.  The neighborhood, known as the Bayview, is one of the only remaining black neighborhoods in San Francisco, a city whose black population has fallen to less than 6%.  In April, police shot and killed Luis Gongora, a homeless man who they claimed had charged at the officers with a knife. Numerous eye witnesses challenged the police version of the incident, which surveillance footage showed unfolded in just 30 seconds.  Since 2015, the department has also been forced to reveal two separate batches of racist and homophobic text messages exchanged between groups of officers, forcing prosecutors to reexamine thousands of criminal cases.  The department is currently under a voluntary review by the Department of Justice\u2019s office of community oriented policing services.  Four of the city\u2019s 11 supervisors have called for chief Suhr to resign.  If you have information about this shooting, please contact julia.wong@theguardian.com",
+  "webTitle": "San Francisco police fatally shoot black woman in city's Bayview neighborhood",
+  "webPublicationDate": "2016-05-19T20:20:09Z",
+  "webUrl": "https://www.theguardian.com/us-news/2016/may/19/san-francisco-police-fatal-shooting-black-woman-bayview-mario-woods",
+  "keyword": [
+    {
+      "webTitle": "US policing",
+      "id": "us-news/us-police",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "San Francisco",
+      "id": "us-news/san-francisco",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Julia Carrie Wong",
+      "id": "profile/julia-carrie-wong"
+    }
+  ],
+  "guardianId": "us-news/2016/may/19/san-francisco-police-fatal-shooting-black-woman-bayview-mario-woods"
+}

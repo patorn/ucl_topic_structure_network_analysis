@@ -1,0 +1,30 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/19/readers-recommend-share-your-songs-about-ships-and-boats",
+  "id": "2016-05-19-51",
+  "sectionId": "music",
+  "body": "This week we want to hear your songs on the theme of ships and boats. Think lyrics and song titles and post your nomination in the comments. You can find a list of all songs previously picked and so ineligible for the series here. You have until 11pm on Monday 23 May to post your nomination and make your justification. A regular RR contributor (this week, Scott Blair, who posts below the line as misterbadexample) will then select a playlist from your recommendations. If you would like to volunteer to compile a playlist from readers\u2019 suggestions \u2013 and potentially blog about the process/selection for the Guardian \u2013 please email matthew.holmes@theguardian.com with the subject line \u2018RR guru\u2019 or make yourself known in the comments. Here\u2019s a reminder of the guidelines for RR:  Tell us why it\u2019s a worthy contender. Quote lyrics if helpful, but for copyright reasons no more than a third of a song\u2019s words. Provide a link to the song. We prefer YouTube, but Spotify or Soundcloud are fine. Listen to others people\u2019s suggestions and add yours to a collaborative Spotify playlist. If you have a good theme, or if you\u2019d like to volunteer to compile a playlist from readers\u2019 suggestions, please email matthew.holmes@theguardian.com. There\u2019s a wealth of data on RR, including the songs that are \u201czedded\u201d, at the Marconium. It also tells you the meaning of \u201czedded\u201d (picked for a previous playlist so ineligible), \u201cdonds\u201d and other strange words used by RR regulars. Many RR regulars also congregate at the \u2019Spill blog.",
+  "webTitle": "Readers recommend: share your songs about ships and boats",
+  "webPublicationDate": "2016-05-19T19:00:19Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/19/readers-recommend-share-your-songs-about-ships-and-boats",
+  "keyword": [
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian music",
+      "id": "profile/guardianmusic"
+    }
+  ],
+  "guardianId": "music/2016/may/19/readers-recommend-share-your-songs-about-ships-and-boats"
+}

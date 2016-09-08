@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/16/shell-gulf-of-mexico-oil-spill-leak",
+  "id": "2016-05-16-107",
+  "sectionId": "business",
+  "body": "Shell has said it has begun work to repair a fault in a flowline that has resulted in around 2,000 barrels worth of oil spewing into the Gulf of Mexico. More than 88,000 gallons of oily-water mixture has been released from the Glider Field, a group of four underwater oil wells located around 97 miles south of Port Fourchon in Louisiana. The company said it suspects a line connecting these wells to a Shell platform leaked oil on Thursday, creating a 13 mile-wide slick on the surface of the water. Shell said the oil is not expected to reach the shoreline and that no fisheries have been closed. The company said vessels and aircraft have been deployed to mop up the spill.   Related: Shell creates green energy division to invest in wind power    \u201cThe trajectory is in a westerly direction with no shoreline impacts anticipated at this time,\u201d Shell said in a statement.  \u201cSkimming continued today using infrared technology with support from aerial resources. Joint efforts have recovered approximately 1,826 barrels, over 76,600 gallons, of oily-water mixture. On-water recovery efforts are ongoing. Shell has mobilized equipment to begin repairs.\u201d The Bureau of Safety and Environmental Enforcement said it has deployed its \u201cfull investigative resources\u201d to identify the cause of the oil spill and any potential improvements needed to underwater infrastructure. Shell\u2019s platform, called Brutus, started operation in 2001. The oil giant has been given permission by the BSEE to resume its operations in the gulf. The US federal government has tightened up drilling regulations following the Deepwater Horizon disaster in 2010, which resulted in the deaths of 11 people, as well as the coating of thousands of seabirds and marine animals in oil. Last month, the Obama administration outlined further measures to help prevent \u201cblowouts\u201d that result in oil spells, as well as requirements for operators to put in place several back-ups in case something goes wrong. However, there have been criticism of government and oil industry response to the 2010 disaster. A US Chemical Safety Board report released last month found regulations nor industry practices have improved since the BP spill. \u201cThe last thing the Gulf of Mexico needs is another oil spill,\u201d said Vicky Wyatt, a Greenpeace campaigner. \u201cThe oil and gas industry\u2019s business-as-usual mentality devastates communities, the environment, and our climate. Make no mistake, the more fossil fuel infrastructure we have, the more spills and leaks we\u2019ll see. It\u2019s past time to keep it in the ground for good.\u201d",
+  "webTitle": "Shell working to repair leak that spilled 2,000 barrels of oil into Gulf of Mexico",
+  "webPublicationDate": "2016-05-16T17:09:30Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/16/shell-gulf-of-mexico-oil-spill-leak",
+  "keyword": [
+    {
+      "webTitle": "Royal Dutch Shell",
+      "id": "business/royaldutchshell",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Oil spills",
+      "id": "environment/oil-spills",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Louisiana",
+      "id": "us-news/louisiana",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Oil",
+      "id": "business/oil",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Oil",
+      "id": "environment/oil",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Oil and gas companies",
+      "id": "business/oilandgascompanies",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Commodities",
+      "id": "business/commodities",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Oliver Milman",
+      "id": "profile/oliver-milman"
+    }
+  ],
+  "guardianId": "business/2016/may/16/shell-gulf-of-mexico-oil-spill-leak"
+}

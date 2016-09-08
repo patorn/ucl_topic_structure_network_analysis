@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/greenslade/2016/may/26/the-times-runs-a-non-story-about-a-non-existent-bbc-backlash",
+  "id": "2016-05-26-279",
+  "sectionId": "media",
+  "body": "\u201cBBC accused of racism over documentary\u201d, said the headline over a short news article on page 17 of the Times on Thursday. I was about to turn over until I read the first paragraph:   \u201cThe BBC has faced a backlash on social media over its documentary Last Whites of the East End, about ethnicity in London.\u201d  Now \u201cbacklash\u201d is a favourite tabloid word, almost always misused. Here\u2019s a dictionary definition: \u201cA strong negative reaction by a large number of people, especially to a social or political development.\u201d But surely the Times would have good reason to use it? No, it most definitely did not.  After a couple of paragraphs describing the programme, which was screened by BBC1 on Tuesday night, came the following sentences:  \u201cSome viewers praised the show for giving an honest glimpse of life in areas that have experienced huge demographic changes, but Stephen Timms, the Labour MP for East Ham, said that the portrayal was one-sided. One Twitter user said that the title \u2018suggests there\u2019s only a handful left [and] plays into racist lies\u2019. A BBC source said that there had been only seven complaints and a spokesman said: \u2018The film features a wide range of people voicing their personal opinions and shows many different facets of life in Newham, exploring both positive and negative views.\u2019\u201d  Some backlash, eh? An MP, a single Twitter user and just seven complaints to the BBC. A commenter to the story\u2019s online version, Nicholas Watson, wrote:   \u201cI don\u2019t understand [the] Times\u2019s presentation of this \u2018story\u2019 - if it is even one. There were only 7 complaints, meaning it\u2019s not really a story. And if anything, it should be: \u2018The BBC only received 7 complaints about a documentary that the MP for the area said gave a one-sided portrayal about the changing ethnic mix.\u2019\u201d  Quite so, sir. There was no story, as such. Quite apart from the hyping of the \u201cbacklash,\u201d the headline relies on the anonymous tweet, which is the only mention of \u201cracism\u201d (since we, and the paper, have no clue about the nature of the complaints to the corporation. So why publish? I can\u2019t quite decide the reasoning. Another chance to knock the BBC, perhaps? If so, pretty pathetic. The Times should run a correction and an apology.",
+  "webTitle": "The Times runs a non-story about a non-existent BBC 'backlash'",
+  "webPublicationDate": "2016-05-26T08:32:02Z",
+  "webUrl": "https://www.theguardian.com/media/greenslade/2016/may/26/the-times-runs-a-non-story-about-a-non-existent-bbc-backlash",
+  "keyword": [
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "The Times",
+      "id": "media/thetimes",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "BBC",
+      "id": "media/bbc",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "London",
+      "id": "uk/london",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Race issues",
+      "id": "world/race",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "National newspapers",
+      "id": "media/national-newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers",
+      "id": "media/newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Roy Greenslade",
+      "id": "profile/roygreenslade"
+    }
+  ],
+  "guardianId": "media/greenslade/2016/may/26/the-times-runs-a-non-story-about-a-non-existent-bbc-backlash"
+}

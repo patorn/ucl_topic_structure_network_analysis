@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/australia-news/2016/may/06/sydney-lockout-facial-trauma-cases-fall-60-after-laws-introduced-hospitals-say",
+  "id": "2016-05-06-343",
+  "sectionId": "australia-news",
+  "body": "Serious facial trauma admissions have dropped about 60% since Sydney\u2019s lockout laws were introduced, according to research presented to a medical conference on Friday.   Related: 'They're treating us like children': a generation rages against Sydney's lockout laws    There were 145 facial trauma patients who received operations in the two years before the liquor reforms were implemented in February 2014. That compared with 58 patients in the two years after, research led by St Vincent\u2019s hospital surgeons found. Similarly, single-punch attacks that were known to be alcohol-related also fell sharply from 26 between February 2012 and 2014, to four in the following two years. \u201cIt\u2019s reasonable to assume that the NSW government\u2019s laws changed the dynamics and resulted in a significant reduction in patients presenting to St Vincent\u2019s with facial injuries requiring operations,\u201d the lead researcher Elias Moisidis said of Friday\u2019s paper. \u201cThe most notable reduction regarding the location of injuries was in the Kings Cross and city areas, where the liquor law reforms were implemented. The greatest reduction regarding the time of injuries was between 10pm and 6am.\u201d Health professionals have been among the strongest advocates for the lockout laws, which prohibit large venues within a precinct stretching from Surry Hills to the Rocks, and from Kings Cross to Cockle Bay, from allowing entry after 1.30am.   Related: Sydney lockout laws a 'sledgehammer' to night life: Clover Moore    Drinks cannot be served after 3am and new liquor licences have been suspended across the city centre and Kings Cross as part of the reforms, which are under review. They were introduced after a spate of killings at nightspots around Kings Cross but have sparked a backlash from the hospitality and creative industries, which say the laws are stifling Sydney\u2019s nighttime culture and are forcing several venues to shut down. An April 2015 report showed that in the year after the lockouts commenced, there was an immediate and substantial reduction in assaults in Kings Cross (down 32%) and a less immediate but substantial reduction in assaults in the city centre (down 40%). Another study last month found that violence at the nearby Star casino, which is exempt from the regulations, had increased only slightly since their introduction. Nor has it spiked in nearby areas exempt from the laws such as Newtown, Glebe or Paddington. Friday\u2019s research was presented at the Royal Australasian College of Surgeons Annual Scientific Congress in Brisbane.",
+  "webTitle": "Sydney lockout: facial trauma cases fall 60% after laws introduced, hospitals say",
+  "webPublicationDate": "2016-05-06T03:00:14Z",
+  "webUrl": "https://www.theguardian.com/australia-news/2016/may/06/sydney-lockout-facial-trauma-cases-fall-60-after-laws-introduced-hospitals-say",
+  "keyword": [
+    {
+      "webTitle": "Sydney",
+      "id": "australia-news/sydney",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Crime - Australia",
+      "id": "australia-news/crime-australia",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "New South Wales",
+      "id": "australia-news/new-south-wales",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Alcohol",
+      "id": "society/alcohol",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Health (Australia)",
+      "id": "australia-news/health",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Michael Safi",
+      "id": "profile/michael-safi"
+    }
+  ],
+  "guardianId": "australia-news/2016/may/06/sydney-lockout-facial-trauma-cases-fall-60-after-laws-introduced-hospitals-say"
+}

@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/11/harlequins-prop-seb-adeniran-olule-dies",
+  "id": "2016-05-11-162",
+  "sectionId": "sport",
+  "body": "Harlequins, who are preparing for their European Challenge Cup final against Montpellier on Friday, are mourning the death of their England youth player Seb Adeniran-Olule in a road accident. The 20-year-old prop, who had been at the club since he was 13, had just begun breaking into the first team. The club said: \u201cHarlequins is deeply saddened to learn the news of the untimely death of Seb Adeniran-Olule in a road traffic collision.\u201d Conor O\u2019Shea, Harlequins director of rugby, added: \u201cOur thoughts and prayers are with Seb\u2019s family and friends at this difficult time. Seb was an incredible talent and had already represented England at under-age level as well as making his senior debut for Quins at just 20. \u201cHe will be sorely missed by the whole squad as well as by the wider club.\u201d Adeniran-Olule, an England Under-20 international, made three first-team appearances for Quins, including in this season\u2019s European Challenge Cup pool game against Italian side Calvisano.",
+  "webTitle": "Harlequins\u2019 England youth player Seb Adeniran-Olule dies in road accident",
+  "webPublicationDate": "2016-05-11T14:54:35Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/11/harlequins-prop-seb-adeniran-olule-dies",
+  "keyword": [
+    {
+      "webTitle": "Harlequins",
+      "id": "sport/harlequinsru",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "European Challenge Cup",
+      "id": "sport/european-challenge-cup",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Rugby union",
+      "id": "sport/rugby-union",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "sport/2016/may/11/harlequins-prop-seb-adeniran-olule-dies"
+}

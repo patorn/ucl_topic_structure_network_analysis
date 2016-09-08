@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/08/afghanistan-executes-six-taliban-prisoners-ashraf-ghani",
+  "id": "2016-05-08-85",
+  "sectionId": "world",
+  "body": "The Afghan government has executed six Taliban prisoners, solidifying a change in policy that further threatens the likelihood of peace talks. Sunday\u2019s executions followed a promise from the president, Ashraf Ghani, to take a harder line against the Taliban after a massive truck bomb on 19 April in Kabul killed at least 64 people. In a statement, the palace said the six were executed for perpetrating serious crimes against civilians and security forces, and after demands from victims\u2019 families. In the aftermath of the April truck bomb, which elicited an outcry for the government to clamp down on militants rather than attempt diplomacy, Ghani declared that the \u201ctime of unjustified amnesty\u201d was over. He vowed to execute people involved in terrorism.     Ashraf Ghani.    Meanwhile, human rights defenders such as Amnesty International warned against executing prisoners for the sake of revenge. \u201cBy hastily seeking retribution \u2026 the government of Afghanistan\u2019s plans to execute those convicted of terror offences will neither bring the victims the justice they deserve, nor Afghanistan the security it needs,\u201d said Jameen Kaur, the group\u2019s deputy director for South Asia. Some speculated that the executions would include that of the brother of the leader of the Haqqani network, which has taken a central role in the Afghan insurgency. Instead, the hanged men included those convicted of involvement in the 2011 assassination of ex-president Burhanuddin Rabbani, and the 2009 killing of deputy intelligence chief Mohammad Laghmani. Since coming to power in 2014, Ghani has tried to revive the stalled peace process. But in his speech after the Kabul attack, he called parts of the Taliban \u201cthe enemy\u201d, a sharp change in rhetoric, and said not all Taliban factions were welcome in negotiations. Ghani\u2019s deputy spokesman, Dawa Khan Menapal, denied that the peace process had been a factor in deciding Sunday\u2019s executions. \u201cIf they want to talk with us, we are ready. If they want to continue the war, we are ready to fight,\u201d he said. Thomas Ruttig, co-director of the Afghanistan Analysts Network, said the executions helped perpetuate \u201ca cycle of revenge\u201d, making peace talks difficult. \u201cThis tit-for-tat is absolutely unhelpful,\u201d he said. Though capital punishment is inscribed in Afghan law, executions are rare. Sunday\u2019s executions were the first since five alleged gang rapists were hanged in October 2014 after a controversially swift trial and public pressure on Ghani to stay the executions.",
+  "webTitle": "Afghanistan executes six Taliban prisoners",
+  "webPublicationDate": "2016-05-08T14:30:24Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/08/afghanistan-executes-six-taliban-prisoners-ashraf-ghani",
+  "keyword": [
+    {
+      "webTitle": "Afghanistan",
+      "id": "world/afghanistan",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Capital punishment",
+      "id": "world/capital-punishment",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "South and Central Asia",
+      "id": "world/south-and-central-asia",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Taliban",
+      "id": "world/taliban",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Sune Engel Rasmussen",
+      "id": "profile/sune-engel-rasmussen"
+    }
+  ],
+  "guardianId": "world/2016/may/08/afghanistan-executes-six-taliban-prisoners-ashraf-ghani"
+}

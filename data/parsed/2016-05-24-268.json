@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/books/2016/may/24/shelf-life-rachel-cooke-great-explosion-brian-dillon-first-world-war-kent-marshes",
+  "id": "2016-05-24-268",
+  "sectionId": "books",
+  "body": "The Ondaatje prize is given by the Royal Society of Literature to a book by a citizen of the Commonwealth or Ireland that best evokes the spirit of a place, and since place is what I\u2019m into right now, I thought I\u2019d try one of the titles on this year\u2019s shortlist: Brian Dillon\u2019s The Great Explosion, whose setting is the eerie north Kent marshlands. I imagined that it might link, in turn, to David Seabrook\u2019s out-of-print Kentish odyssey All the Devils Are Here \u2013 which, incidentally, has recently rocketed in price. Before I talked about it on the Backlisted podcast and wrote about it here, you could pick up a copy for a few quid. Now, like strange contraband, a tatty paperback will set you back \u00a335. But back to The Great Explosion. Its starting point is a terrible accident that occurred at Uplees, near Faversham, on 2 April 1916, when two local gunpowder factories were working overtime to produce the munitions demanded by the war. A fire, which may have started in a pile of sacks, ignited a building in which TNT was (stupidly) stored next to ammonium nitrate \u2013 and so, boom, the great explosion of the book\u2019s title. Its effects could be felt in Great Yarmouth. At the site itself, the factories completely disappeared, replaced by a crater 14ft deep. There were 108 deaths. Dillon, who is Irish, is living in Kent by default, and has previously maintained a \u201csullen indifference\u201d to its countryside. Now, though, he is (appropriately) on fire, his excited explorations in marked contrast to the saturated lands he has taken to wandering. His book is a history of the gunpowder industry in Britain, and a meditation on the nation\u2019s industrial past; it is also, he writes, \u201ca story about flatness, and the way that sound and force and information \u2013 maybe also memory \u2013 travel across such level ground\u201d. Along the way, though, he makes several intriguing detours: here is Marcel Duchamp holidaying at Herne Bay; here is Russell Hoban, writing his 1980 post-apocalypse novel, Riddley Walker; and here is Derek Jarman in his garden at Dungeness. Evocative and melancholy, The Great Explosion is a singular book, odd in all the right ways.",
+  "webTitle": "The Great Explosion: Brian Dillon's big bang in Kent",
+  "webPublicationDate": "2016-05-24T08:00:05Z",
+  "webUrl": "https://www.theguardian.com/books/2016/may/24/shelf-life-rachel-cooke-great-explosion-brian-dillon-first-world-war-kent-marshes",
+  "keyword": [
+    {
+      "webTitle": "Books",
+      "id": "books/books",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "History",
+      "id": "books/history",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "First world war",
+      "id": "world/firstworldwar",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Rachel Cooke",
+      "id": "profile/rachelcooke"
+    }
+  ],
+  "guardianId": "books/2016/may/24/shelf-life-rachel-cooke-great-explosion-brian-dillon-first-world-war-kent-marshes"
+}

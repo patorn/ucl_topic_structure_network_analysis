@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/us-news/2016/may/06/jeb-bush-donald-trump-support",
+  "id": "2016-05-06-9",
+  "sectionId": "us-news",
+  "body": "Jeb Bush has joined his brother and father in declaring that he will not support Donald Trump, the presumptive nominee, in the presidential election in November.   Related: Democrats unveil their secret general election weapon: Donald Trump    On Friday, a day after House speaker Paul Ryan said he could not support Trump just yet, Bush posted to Facebook a declaration that, like his fellow former candidate Lindsey Graham, he will abstain from voting for either Trump or the likely Democratic nominee Hillary Clinton.  Trump \u201chas not demonstrated that temperament or strength of character\u201d required to serve as president, Bush wrote. Bush, once governor of Florida and the sibling and son of presidents who was an early favorite for the Republican nomination, withdrew from the race in February. His standing in the field gradually deteriorated, under withering fire from Trump. \u201cIn November, I will not vote for Donald Trump or Hillary Clinton, but I will support principled conservatives at the state and federal levels, just as I have done my entire life,\u201d he wrote on Friday.  \u201cFor Republicans, there is no greater priority than ensuring we keep control of both chambers of Congress. I look forward to working hard for great conservatives in the Senate and House in the coming months.\u201d Speaker Ryan, whose responsibilities include the coordination of Senate and House re-election campaigns, is due to meet Trump at the Capitol next week. Bush added: \u201cAmerican voters have made it clear that Washington is broken, but I\u2019m not optimistic that either of the leading candidates for president will put us on a better course. \u201cTrump has not demonstrated that temperament or strength of character. He has not displayed a respect for the constitution. And, he is not a consistent conservative. These are all reasons why I cannot support his candidacy.\u201d Clinton, he wrote, \u201chas proven to be an untrustworthy liberal politician who, if elected, would present a third term of the disastrous foreign and economic policy agenda of Barack Obama\u201d.   Related: Reality check: Does the electoral map work in Trump's favor?    Trump responded first to Graham, who withdrew from the Republican race in December. \u201cI fully understand why Lindsey Graham cannot support me,\u201d Trump said, in a statement. \u201cIf I got beaten as badly as I beat him, and all the other candidates he endorsed, I would not be able to give my support either.  \u201cEvery time I see Lindsey Graham spew hate during interviews I ask why the media never questions how I single handily [sic] destroyed his hapless run for president. \u201cAs a candidate who did not receive 1% in his own state \u2013 compared to my victory at nearly 40% with many others in the race \u2013 he has zero credibility.\u201d Trump also called Graham \u201ca poor representative and an embarrassment to the great people of South Carolina\u201d who had \u201cshown himself to be beyond rehabilitation\u201d.",
+  "webTitle": "Bush-whacked: Jeb joins brother and father in vowing not to vote for Trump",
+  "webPublicationDate": "2016-05-06T22:02:20Z",
+  "webUrl": "https://www.theguardian.com/us-news/2016/may/06/jeb-bush-donald-trump-support",
+  "keyword": [
+    {
+      "webTitle": "Republicans",
+      "id": "us-news/republicans",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Donald Trump",
+      "id": "us-news/donaldtrump",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Jeb Bush",
+      "id": "us-news/jeb-bush",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US elections 2016",
+      "id": "us-news/us-elections-2016",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US politics",
+      "id": "us-news/us-politics",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Scott Bixby",
+      "id": "profile/scott-bixby"
+    }
+  ],
+  "guardianId": "us-news/2016/may/06/jeb-bush-donald-trump-support"
+}

@@ -1,0 +1,68 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/17/bbc-climbdown-over-online-recipes-after-public-outcry",
+  "id": "2016-05-17-79",
+  "sectionId": "media",
+  "body": "A huge public outcry, including a petition signed by more than 159,000 people, has provoked a climbdown at the BBC, which promised to keep many of its most popular recipes online less than 24 hours after announcing the closure of its food website. In a statement issued late on Tuesday, the corporation said it would move as much as possible of the content currently on its BBC Food website over to the BBC Good Food site, which is owned by commercial arm BBC Worldwide.  \u201cIn response to the massive public reaction, we have decided to accelerate our plans to move our content,\u201d said one source. \u201cPeople won\u2019t lose the recipes they love.\u201d   Related: Save BBC recipe archive petition signed by more than 100,000 people    During the day more than 120,000 people signed a petition calling for the BBC Food site to be maintained in its current form, while politicians and public figures expressed their outrage the BBC was culling a service used by many millions of licence-fee payers.  The plan to mothball the BBC Food site is part of a \u00a315m cost-cutting plan that is also driven by the corporation\u2019s attempts to make its services more distinctive as laid out in the white paper published by the government last week. The shadow culture secretary, Maria Eagle, had branded the move \u201cmindless destruction\u201d while Labour\u2019s deputy leader, Tom Watson, said it would make the \u201cbusy lives\u201d of millions of UK citizens a \u201clittle less easy\u201d. Chef and food blogger Jack Monroe described the service as \u201cvital\u201d and to reduce it was \u201can abomination\u201d. The plan will mean the homepage of the BBC Food website and other parts of the site will be taken down and links to recipes removed. It was intended that the recipes would remain online, but may now be harder to find. Recipes associated with TV shows will be maintained, but only for 30 days after the show is broadcast. A BBC source had said the recipes would \u201cfall off the face of the internet\u201d after the food site was closed.  A BBC source had said the recipes would \u201cfall off the face of the internet\u201d after the food site was closed. However, moving them to Good Food would make them easy to find and help ensure they continue to appear near the top of Google search results. Complaints prompted the culture secretary, John Whittingdale, to distance himself from the BBC plans to axe \u201csoft\u201d content, pointing the finger instead at pressure from commercial rivals. \u201cIt\u2019s not my job to tell the BBC whether [or not] to broadcast The Voice, or Strictly Come Dancing or indeed to put recipes up on its website,\u201d he told a conference in London. \u201cWe have said firstly that the BBC needs to be more distinctive. And also it has to be sensitive to its market impact and not be directly going out of its way to compete with commercial offerings.\u201d The BBC director of news, James Harding, said of the review: \u201cWe don\u2019t accept the argument that the BBC should step off the internet. We are making the case for what we do online.\u201d The review decided to remove duplication, halt publishing in areas where there are much bigger competitors, and cut bespoke services that are accessed online, such as youth-focused news site Newsbeat, which is being rolled into the main news operation. The local news index pages, travel section and the science-focused iWonder site, which was launched only two years ago, will also be axed, as will ring-fenced budgets for programming that will only be on iPlayer. One BBC source said that no more than 50 jobs would be affected. Although the closure of the Newsbeat website could be controversial, given the BBC\u2019s key role in providing content for children, a BBC spokesman described the separate site as a \u201clow volume service\u201d as most users access content through the main news site. \u201cLooking at the numbers, people don\u2019t go to it via the website or app but via news online,\u201d he said. Good Food, which also has a magazine published on behalf of Worldwide by the owner of Radio Times, Immediate Media, is the UK\u2019s number one food website, while BBC Food is number three. According to the latest Comscore data in March, Good Food had a 16.6% share while the publicly funded food site had a 6% share. A BBC spokesperson said: \u201cWe currently have two websites and we\u2019ll move to one. The recipes you love will still be available, and we\u2019ll migrate as much of the content as possible to the BBC Good Food website. So you\u2019ll still be able to carry on baking and cooking with the BBC.\u201d The move to Good Food means the BBC is likely to generate additional revenue from the recipes because the Good Food site is able to show ads as opposed to the food website earmarked for closure. All of Worldwide\u2019s profits are directed back into the BBC. The move is likely to anger commercial competitors because of this competition for online ad revenues. The chancellor, George Osborne, said in an interview last year that the government was talking to the BBC about its market impact.  \u201cIf you\u2019ve got a website that\u2019s got features and cooking recipes, effectively the BBC website becomes the national newspaper as well as the national broadcaster. There are those sorts of issues we need to look at very carefully,\u201d he said.  \u201cYou wouldn\u2019t want the BBC to completely crowd out national newspapers. If you look at the BBC website it is a good product but it is becoming a bit more imperial in its ambitions.\u201d",
+  "webTitle": "BBC climbdown over online recipes after public outcry",
+  "webPublicationDate": "2016-05-17T17:14:16Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/17/bbc-climbdown-over-online-recipes-after-public-outcry",
+  "keyword": [
+    {
+      "webTitle": "BBC",
+      "id": "media/bbc",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Food & drink",
+      "id": "lifeandstyle/food-and-drink",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "BBC Worldwide",
+      "id": "media/bbc-worldwide",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Digital media",
+      "id": "media/digital-media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jane Martinson",
+      "id": "profile/janemartinson"
+    },
+    {
+      "webTitle": "Jasper Jackson",
+      "id": "profile/jasper-jackson"
+    },
+    {
+      "webTitle": "Mark Sweney",
+      "id": "profile/marksweney"
+    }
+  ],
+  "guardianId": "media/2016/may/17/bbc-climbdown-over-online-recipes-after-public-outcry"
+}

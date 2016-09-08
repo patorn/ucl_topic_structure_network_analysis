@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/18/acdc-brian-johnson-jim-breuer-album",
+  "id": "2016-05-18-263",
+  "sectionId": "music",
+  "body": "Having taken a sidestep from the stage, AC/DC frontman Brian Johnson has put his vocals to use on a new album by the Saturday Night Live comedian Jim Breuer. Johnson appears on two tracks on Songs from the Garage, Breuer\u2019s debut album: Mr Rock n Roll and My Rock n Roll Dream. \u201cTo me, Brian is the most powerful voice in rock\u2019n\u2019roll,\u201d Breuer told Rolling Stone. \u201cHe is also the funniest and most generous man I have ever known. I am still in awe of how he recorded the song and forever thankful.\u201d Due for release on 27 May via Metal Blade, the album was inspired by the comic\u2019s love of rock and metal music, with AC/DC, Judas Priest and Ozzy Osbourne cited as influences.       \u201cI plan on making great, funny videos for every song and have videos up during the concerts,\u201d Breuer says. \u201cI want pure entertainment when you come see this live, and now my rock and roll dream is to play this not only in America, but anywhere else in the world that will accept it! I\u2019m taking it one day at a time, living the dream.\u201d Johnson recently revealed details about his departure from AC/DC\u2019s tour, for which he was replaced by Guns N\u2019 Roses frontman Axl Rose. He confirmed that while he would continue to record with his band, he would no longer be able to play live.  \u201cOn March 7th, after a series of examinations by leading physicians in the field of hearing loss, I was advised that if I continued to perform at large venues I risked total deafness,\u201d Johnson said in a statement. \u201cWhile I was horrified at the reality of the news that day, I had for a time become aware that my partial hearing loss was beginning to interfere with my performance on stage \u2026 and because I was not able to hear the other musicians clearly, I feared the quality of my performance could be compromised.\u201d The recruitment of Axl Rose was met with praise following AC/DC\u2019s debut performance with its new lineup in Lisbon last month, which received five stars from the Guardian.",
+  "webTitle": "AC/DC frontman Brian Johnson returns on Jim Breuer's metal album",
+  "webPublicationDate": "2016-05-18T09:39:50Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/18/acdc-brian-johnson-jim-breuer-album",
+  "keyword": [
+    {
+      "webTitle": "AC/DC",
+      "id": "music/acdc",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Pop and rock",
+      "id": "music/popandrock",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Comedy",
+      "id": "culture/comedy",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian music",
+      "id": "profile/guardianmusic"
+    }
+  ],
+  "guardianId": "music/2016/may/18/acdc-brian-johnson-jim-breuer-album"
+}

@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/01/the-innovators-desalination-unit-brings-clean-water-on-wheels",
+  "id": "2016-05-01-96",
+  "sectionId": "business",
+  "body": "Travelling around Thailand in the 1990s, William Janssen was impressed with the basic rooftop solar heating systems that were on many homes, where energy from the sun was absorbed by a plate and then used to heat water for the home.  Two decades later and Janssen has developed that basic idea he saw in south-east Asia into a portable device that uses the power from the sun to purify water. The \u201cDesolenator\u201d operates as a mobile desalination unit that can take water from the sea, rivers and boreholes \u2013 as well as rain \u2013 and clean it for human consumption. The device, which looks like a thick solar photovoltaic panel on wheels, is aimed at a wide range of users \u2013 from homeowners in the developing world who do not have a constant supply of water to people living off the grid in rural parts of the US.     Dutch engineer William Janssen has created the Desolenator. Photograph: William Janssen    Janssen saw that there was a need for a sustainable way to clean water in both the developing and the developed countries when he moved to the United Arab Emirates and saw large-scale water processing. \u201cI was confronted with the enormous carbon footprint that the Gulf nations have because of all of the desalination that they do ,\u201d he said. The Desolenator, which measures 120cm by 90cm, is a solar panel that converts sunlight into electricity, but also uses the heat that is generated from the sun as part of the process. In operation, water flows over the panel and soaks up the heat to bring it to a high temperature. It then flows into a small boiler in the device, which is powered by the electricity produced from the solar panel, and converted to steam. The steam is then converted back into cleaned water via a tube that changes the temperature again, while the waste flows out of the machine.  Boiling the water gets rid of pollutants, said Janssen, such as arsenic and fluoride. \u201cThe device has a particle filter, a very simple filter which you can just shake empty, and the device is ready to deal with water which is slightly cloudy or slightly murky. It just flows through,\u201d he said. There are two tubes for liquid coming out \u2013 one for the brine waste and another for the distilled water. The water flows constantly through the device during the cleaning process \u2013 one litre flows through a number of times \u2013 and small volumes of water are distilled through boiling and heat exchange. It can produce 15 litres of distilled water in a day, which Janssen said is enough to sustain a family for cooking and drinking.   An analysis released earlier this year found at least two-thirds of the world\u2019s population live with severe water scarcity for at least a month every year. Janssen said that by 2030, half of the world\u2019s population will be living with water stress \u2013 where the demand exceeds the supply over a certain period of time. \u201cIt is really important that a sustainable solution is brought to the market that is able to help these people and make sure there is an independence for themselves to be protected from this crisis,\u201d he said. \u201cIf you go to places like Somalia, Yemen or Bangladesh, it is an immense problem because these people don\u2019t have the money for desalination plants, which are very expensive to build. They don\u2019t have the money to operate them, they are very maintenance intensive and they don\u2019t have the money to buy the diesel to run the desalination plants so it is really bad situation.\u201d The first commercial versions of the Desolenator are expected to be in operation in India early next year, after field tests are carried out.  The market for the self-sufficient devices in developing countries is twofold \u2013 those who cannot afford the money for the device outright and pay through microfinance or by use, and middle income homes who can lease their own equipment. \u201cPeople in India don\u2019t pay for a fridge outright, they pay for it over six months. They would put the Desolenator on their roof and hook it up to their municipal supply and they would get very get very reliable drinking water on a daily basis,\u201d he said. In the developed world, it is aimed at niche markets where tap water is unavailable \u2013 for camping, on boats, for the military or even for survivalists preparing for a doomsday scenario. Prices will vary on where it is bought. In the developing world, the price will depend on what deal aid organisations can negotiate. In developed countries, it is likely to come in at $1,000 (\u00a3685) a unit, said Janssen.  \u201cWe are a venture with a social mission. We are aware that the product we have envisioned is mainly finding application in the developing and humanitarian world and that this the way we will proceed. We do realise that to be a viable company there is a bottom line to keep in mind,\u201d he said. The company itself is based at Imperial College London although Janssen, its chief executive, still lives in the UAE. It has so far raised \u00a3340,000 in funding. Within two years, he said, the company aims to be selling 1,000 units a month, mainly in the humanitarian field. They are expected to be sold in areas such as Australia, northern Chile, Peru, Texas and California. \u2022 You can read our archive of The Innovators columns on the Big Innovation Centre website where you will find more information on how Big Innovation Centre supports innovative enterprise in Britain and globally.",
+  "webTitle": "The innovators: desalination unit brings clean water on wheels",
+  "webPublicationDate": "2016-05-01T13:39:50Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/01/the-innovators-desalination-unit-brings-clean-water-on-wheels",
+  "keyword": [
+    {
+      "webTitle": "Entrepreneurs",
+      "id": "business/entrepreneurs",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Small business",
+      "id": "business/small-business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Water",
+      "id": "environment/water",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Global development",
+      "id": "global-development/global-development",
+      "sectionId": "global-development",
+      "sectionName": "Global development"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Shane Hickey",
+      "id": "profile/shane-hickey"
+    }
+  ],
+  "guardianId": "business/2016/may/01/the-innovators-desalination-unit-brings-clean-water-on-wheels"
+}

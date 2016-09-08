@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/15/jessy-lanza-oh-no-review",
+  "id": "2016-05-15-189",
+  "sectionId": "music",
+  "body": "Jessy Lanza\u2019s remarkable 2013 album Pull My Hair Back debuted a strange and thrilling sound nestled between afterhours and peak time, a sort of post-pubstep, blossoming intermittently into beauty. While that album saw the Canadian singer-writer\u2019s voice float, untethered, from the pin-sharp production, her follow-up seems brasher, more memorable yet less substantial, lacking the eeriness that made her last work so compelling. Melodramatic Moroder power ballad I Talk BB, the twitching Vivica and a joyous title track build on her early promise, but too often Lanza\u2019s free-form 80s pop can\u2019t quite yoke its desire to challenge to an ability to entertain.",
+  "webTitle": "Jessy Lanza: Oh No review \u2013 lacks the eeriness of her debut",
+  "webPublicationDate": "2016-05-15T07:00:18Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/15/jessy-lanza-oh-no-review",
+  "keyword": [
+    {
+      "webTitle": "Pop and rock",
+      "id": "music/popandrock",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Damien Morris",
+      "id": "profile/morris-damien"
+    }
+  ],
+  "guardianId": "music/2016/may/15/jessy-lanza-oh-no-review"
+}

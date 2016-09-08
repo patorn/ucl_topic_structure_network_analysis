@@ -1,0 +1,90 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/23/imf-warns-eu-bailout-greece-debt-relief",
+  "id": "2016-05-23-76",
+  "sectionId": "business",
+  "body": "The International Monetary Fund has called for \u201cupfront\u201d and \u201cunconditional\u201d debt relief for Greece as it warned that without immediate action the financial plight of the recession-ravaged country would deteriorate dramatically over the coming decades. In a strongly worded assessment, the IMF said that there was no prospect of Greece meeting the draconian terms of its current bailout plan and that interest payments on the soaring national debt would eat up 60% of the budget by 2060 in the absence of debt forgiveness. The debt sustainability analysis by the Washington-based Fund said Greece should have longer to pay, have the interest rate on its loans fixed at 1.5%, and that its creditors should make debt relief automatic once the bailout programme ends in 2018. \u201cThe implementation of debt relief should be completed by the end of the programme period\u201d, the IMF said. \u201cProviding an upfront, unconditional component to debt relief is critical to provide a strong and credible signal to markets about the commitment of official creditors to ensuring debt sustainability, which in itself could contribute to lowering market financing costs. An upfront component can also help garner more ownership for reforms.\u201d The report\u2019s hard-hitting nature makes it clear to the EU that the IMF is not prepared to put its own money into the \u20ac86bn bailout unless Germany and other eurozone countries ease their hardline stance towards Greece. EU finance ministers are likely to hand Greece an emergency lifeline of up to \u20ac11bn on Tuesday but believe that IMF cash would add to the plan\u2019s credibility. In its debt sustainability analysis (DSA), the Fund insisted it would provide support for the third Greek bailout since 2010 on two conditions. It said it was \u201ccritical for the credibility of the DSA that it be based on ambitious but realistic policy commitments from the authorities\u201d. However, it added that \u201cfront-loaded debt relief, to be fully delivered during the programme\u201d was \u201cequally important\u201d. The Fund admitted its proposals for easing Greece\u2019s debt burden would not be easy for some countries to accept, because it would involve member states making a commitment to compensate the European Stability Mechanism \u2013 Europe\u2019s bailout fund \u2013 for any losses occurred from fixing interest rates at 1.5%. \u201cThis would clearly be highly controversial among member states in view of the constraints \u2013 political and legal \u2013 on such commitments within the currency union,\u201d the report said.   Related: Greece close to bailout funds after austerity vote, but IMF warns on debt -\u00a0as it happened    But it added that it was unrealistic to assume that Greece, faced with a prolonged period of slow growth following a 25% contraction in its economy since 2009, could run permanent budget surpluses excluding debt interest payments of 3.5% of GDP. The Syriza government headed by Alexis Tispras has agreed to far-reaching and painful measures in return for receiving financial help. On Sunday, the Greek parliament agreed to tax increases \u2013 including an increase in VAT \u2013 estimated to raise \u20ac1.8bn, together with contingency measures to raise more revenue in the event that the government in Athens fails to keep to its stringent budget plans. The IMF expressed strong doubts about Greece\u2019s ability to undertake the sweeping economic reforms needed. \u201cIn all key policy areas \u2013 fiscal, financial sector stability, labour, product and service markets \u2013 the authorities\u2019 current policy plans fall well short of what would be required to achieve their ambitious fiscal and growth targets.\u201d It added: \u201cEven if Greece, through a heroic effort, could temporarily reach a surplus close to 3.5% of GDP, few countries have managed to reach and sustain such high levels of primary balances for a decade or more, and it is highly unlikely that Greece can do so considering its still weak policy making institutions and projections suggesting that unemployment will remain at double digits for several decades.\u201d The IMF said that Greece\u2019s national debt as a share of GDP would fall from just over 180% this year to around 140% by 2030 if debt relief was provided. The alternative, it added, was that Greece would face an ever-higher bill for servicing its rising debts.",
+  "webTitle": "IMF tells EU it must give Greece unconditional debt relief",
+  "webPublicationDate": "2016-05-23T17:55:38Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/23/imf-warns-eu-bailout-greece-debt-relief",
+  "keyword": [
+    {
+      "webTitle": "International Monetary Fund (IMF)",
+      "id": "business/imf",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Eurozone crisis",
+      "id": "business/debt-crisis",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Debt relief",
+      "id": "world/debt-relief",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "European Central Bank",
+      "id": "business/european-central-bank",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "European banks",
+      "id": "business/europeanbanks",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Financial crisis",
+      "id": "business/financial-crisis",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Greece",
+      "id": "world/greece",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Financial sector",
+      "id": "business/financial-sector",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Larry Elliott",
+      "id": "profile/larryelliott"
+    }
+  ],
+  "guardianId": "business/2016/may/23/imf-warns-eu-bailout-greece-debt-relief"
+}

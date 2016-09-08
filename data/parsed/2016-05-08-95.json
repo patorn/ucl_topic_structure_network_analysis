@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/culture/2016/may/08/earliest-view-of-niagara-falls-saved-from-export-after-public-appeal",
+  "id": "2016-05-08-95",
+  "sectionId": "culture",
+  "body": "The earliest known eyewitness view of Niagara falls, an awed record of the rainbow crowned horseshoe of cascading water recorded in 1762 by an English army officer and amateur artist, has been acquired by the National Army Museum after a public appeal to save it from export. It was painted by Capt Thomas Davies, a Royal Artillery officer who served four tours of duty in North America between 1757 and 1790 \u2013 a tempestuous period covering the period of the war of independence which lost Britain the United States, but also the victories of General Wolfe over the French that secured Canada.  He managed to find time to create a wealth of both military maps and landscape paintings, including the scene of two indigenous men in elaborate feathered headdresses admiring the view at Niagara \u2013 a scene still recognisable from millions of postcards and tourist photographs today despite the encroaching hotels and souvenir shops.   Related: Export bar placed on first eyewitness painting of Niagara Falls    The government placed a temporary export bar on the painting last year, after it was sold for \u00a3146,500 at a Christie\u2019s auction of the immense collection of works of art and other material relating to the history of Canada assembled by the late Peter Winkworth. The picture would have hung in his London dining room, which was lined with views of the falls. The Army Museum managed to acquire it with grants, including \u00a350,000 each from the Art Fund charity and the Heritage Lottery Fund, as well as public donations. Ian Maine, assistant director of the museum, called it \u201ca fantastically important piece of military art\u201d, not just as the earliest view of one of the famous falls, but as evidence of relations with the indigenous peoples, some of whom sided with the French, some with the British. The museum, which has a vast art collection, is currently closed for a major redevelopment project but will reopen next year.",
+  "webTitle": "Earliest view of Niagara falls kept in UK after public appeal",
+  "webPublicationDate": "2016-05-08T13:44:33Z",
+  "webUrl": "https://www.theguardian.com/culture/2016/may/08/earliest-view-of-niagara-falls-saved-from-export-after-public-appeal",
+  "keyword": [
+    {
+      "webTitle": "Heritage",
+      "id": "culture/heritage",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Museums",
+      "id": "culture/museums",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Art",
+      "id": "artanddesign/art",
+      "sectionId": "artanddesign",
+      "sectionName": "Art and design"
+    },
+    {
+      "webTitle": "Art and design",
+      "id": "artanddesign/artanddesign",
+      "sectionId": "artanddesign",
+      "sectionName": "Art and design"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Maev Kennedy",
+      "id": "profile/maevkennedy"
+    }
+  ],
+  "guardianId": "culture/2016/may/08/earliest-view-of-niagara-falls-saved-from-export-after-public-appeal"
+}

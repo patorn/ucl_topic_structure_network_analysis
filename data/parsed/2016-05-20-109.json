@@ -1,0 +1,30 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/20/gawain-jones-david-howell-european-championship-chess-leonard-barden",
+  "id": "2016-05-20-109",
+  "sectionId": "sport",
+  "body": "England\u2019s two youngest grandmasters, Gawain Jones, 28, and David Howell, 25, face a tough task this weekend as they play the final rounds of the European Championship at Gjakova, Kosovo. Games will be shown free and live online with move-by-move computer commentary, starting 14.30 BST. The tournament situation for Jones and Howell is precarious and they need a winning streak.   Related: Leonard Barden on Chess    The target for both is to finish in the top 23 in a mammoth field of 245 players and so qualify for the 2017 World Cup, a 128-player knockout which is a key step towards the highest echelons of global chess and where even first-round losers earn $6,000. A good start is the proven key for such qualification events since once a player achieves a plus three or plus four score he or she can maintain the position by halving with similarly well-placed rivals. But Jones became bogged down in several gritty drawn endgames in the early rounds in Kosovo while Howell, after scoring impressively in round two against Armenia\u2019s Olympiad gold medallist and No11 seed, Gabriel Sargissian, spoiled it next day by overstepping the time limit at move 32 when a pawn up with good chances. The English pair, both former British champions, are seeded 18 (Howell) and 27 (Jones), so on paper are right on the borderline for World Cup qualification. Their trip to the southern Balkans reflects a new English Chess Federation policy to send our best talents to major international events and so improve the national team\u2019s chances in the biennial 150-nation Olympiad, whose 2016 renewal takes place at Baku, Azerbaijan, in September.   Related: Magnus Carlsen: the cool grandmaster who cries when he loses to himself    The top seeds in Kosovo are the Czech David Navara and the Pole Radoslaw Wojtaszek, who are already on the invitation circuit so can go for the continental title. Navara showed his class with this speedy opening-round win, where Black delays d6-d5 for too long and White pounces on the Black king via f6. David Navara v Mikael Agopov 1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6 6 Be2 e6 7 O-O Be7 8 f4 O-O 9 Kh1 Qc7 10 a4 Nc6 11 Be3 Re8 12 Bf3 Bf8 13 Qd2 Na5 14 b3 Bd7 15 Nde2 Bc6 16 Bd4 e5 17 Be3 b6? 18 f5 Rad8 19 Ng3 d5 20 exd5 Bb7 21 Bg5 Bb4? 22 Bxf6! 1-0 If gxf6 23 Nh5! Bf8 (else 24 Qh6) 24 Ne4 and White wins the exchange at e8 with more to follow. Many GMs prepare for a major over-the-board event by a brisk internet workout and Howell here achieves the rare feat of a win against Hikaru Nakamura, the former US champion, who is at the very top in online blitz chess, in a mere 10 moves. White\u2019s 10 Nc3, piece development while guarding the b5 bishop, was the fatal mistake where 10 Qd5 or 10 e5 would keep a slight edge. Hikaru Nakamura v David Howell, chesscom 2016 1 e4 e5 2 Nf3 Nc6 3 Bb5 Nge7 4 0-0 Ng6 5 d4 exd4 6 Nxd4 Bc5 7 Be3 Bxd4 8 Bxd4 Nxd4 9 Qxd4 Qg5 10 Nc3?? Nh4! 0-1 Black mates or wins the queen. 3443 1 Rfb4? Rxc6! 2 dxc6 Bh2+ 3 Kxh2 Qxf5 wins.",
+  "webTitle": "Leeonard Barden on Chess",
+  "webPublicationDate": "2016-05-20T15:07:12Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/20/gawain-jones-david-howell-european-championship-chess-leonard-barden",
+  "keyword": [
+    {
+      "webTitle": "Chess",
+      "id": "sport/chess",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Leonard Barden",
+      "id": "profile/leonardbarden"
+    }
+  ],
+  "guardianId": "sport/2016/may/20/gawain-jones-david-howell-european-championship-chess-leonard-barden"
+}

@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/27/horse-racing-tips-saturday-28-may",
+  "id": "2016-05-27-103",
+  "sectionId": "sport",
+  "body": "Beverley 1.50 Evenlode 2.25 Logi 3.00 Grizzel 3.35 La Superba 4.10 King Of The Celts (nb) 4.45 Relight My Fire 5.20 Briyouni   Related: Time Test fights off Western Hymn to win Brigadier Gerard Stakes    Catterick 2.20 Lawless Louis 2.55 Incomparable 3.30 Jacbequick 4.05 Roc De Prince 4.40 Breakable 5.15 Manatee Bay 5.45 Sabrewing Chester 1.45 Havelock 2.15 Justice Angel 2.50 Predominance 3.25 Winterlude 4.00 Edward Lewis 4.35 Gunnery 5.10 Bakht A Rawan Cartmel 2.05 Kilronan Castle 2.40 Boruma 3.15 Feat Of Fire 3.50 Desoto County 4.25 Cruchain 5.00 Amuse Me 5.35 Magic Money Ffos Las 6.05 Maxi Chop 6.35 Kinari 7.05 Deebaj 7.35 Red Six 8.05 Dardanella 8.35 Curious Carlos 9.05 Western Ryder Haydock 2.00 Clotilde 2.35 Journey 3.10 So Beloved 3.45 Gifted Master 4.20 Dollar Reward 4.55 Daisy Bere 5.30 Firesnake (nap) Salisbury 5.50 Repton 6.20 One Big Surprise 6.50 Dark Shot 7.20 Starchitect 7.50 Scarlet Pimpernel 8.20 Third Rock",
+  "webTitle": "Horse racing tips: Saturday 28 May",
+  "webPublicationDate": "2016-05-27T15:13:59Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/27/horse-racing-tips-saturday-28-may",
+  "keyword": [
+    {
+      "webTitle": "Horse racing tips",
+      "id": "sport/horse-racing-tips",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Horse racing",
+      "id": "sport/horse-racing",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Chris Cook",
+      "id": "profile/chriscook"
+    }
+  ],
+  "guardianId": "sport/2016/may/27/horse-racing-tips-saturday-28-may"
+}

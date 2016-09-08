@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/03/martin-shkreil-turing-pharmaceuticals-fraud-charges",
+  "id": "2016-05-03-40",
+  "sectionId": "business",
+  "body": "Martin Shkreli, the reviled former drug company entrepreneur, may face yet more charges in a securities fraud investigation, his defense attorneys revealed at a hearing on Tuesday in New York City.  Shkreli became infamous when his former drug company Turing purchased the patent for Daraprim, a drug that can make the difference between life and death for some patients with HIV, and boosted the price to $750 a pill.  In December, he was ousted from his own company after being arrested on charges of securities fraud and insider trading. The charges \u2013 which he denies \u2013 are unrelated to the Daraprim controversy. The new charges may relate to another drug company the 33-year-old ran.   Related: Pharmaceutical (and Wu-Tang) villain Martin Shkreli has courted controversy    On Tuesday, Shkreli attended a hearing before US district judge Kiyo Matsumoto where his attorneys asked that he be given further time in case additional charges were filed, according to Bloomberg News. The government may prosecute Shkreli for defrauding shareholders over the distribution of shares in another pharmaceutical company Shkreli ran, Retrophin. Shkreli\u2019s social media presence has been defiant throughout his public disgrace, and on Tuesday, his Twitter feed was no exception: \u201cHow much spaghetti can you throw at a wall in an attempt to see what sticks? Asking for a friend...\u201d     How much spaghetti can you throw at a wall in an attempt to see what sticks? Asking for a friend...\u2014 Martin Shkreli (@MartinShkreli) May 3, 2016    US attorney Winston Paes told Shkreli and his counsel that an additional indictment might be filed as soon as next month. The new charges, should they be filed, probably relate to allegations that Shkreli paid off investors who had lost money in his hedge funds with cash from Retrophin. The lawyer involved with Shkreli\u2019s Turing dealings, Evan Greebel, is involved with the Retrophin controversy as well. Shkreli\u2019s next court date is 6 June.",
+  "webTitle": "Ex-drug company boss Martin Shkreli may face new charges in fraud inquiry",
+  "webPublicationDate": "2016-05-03T19:06:34Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/03/martin-shkreil-turing-pharmaceuticals-fraud-charges",
+  "keyword": [
+    {
+      "webTitle": "Pharmaceuticals industry",
+      "id": "business/pharmaceuticals-industry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "US crime",
+      "id": "us-news/us-crime",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Sam Thielman",
+      "id": "profile/sam-thielman"
+    }
+  ],
+  "guardianId": "business/2016/may/03/martin-shkreil-turing-pharmaceuticals-fraud-charges"
+}

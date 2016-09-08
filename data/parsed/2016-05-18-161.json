@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/18/sse-sheds-370000-customers-gas-prices-profits-competition",
+  "id": "2016-05-18-161",
+  "sectionId": "business",
+  "body": "A row over \u201crip-off energy prices\u201d has resurfaced after SSE admitted it had lost 370,000 customers over the last 12 months but still managed to keep its retail operating profits level at \u00a3455m. Critics said that SSE group profits hitting \u00a31.5bn showed that customers who did not switch provider were likely to enrich one of the big six firms that still control over 85% of the market. \u201cSSE\u2019s results show once more that if you don\u2019t switch it\u2019s only your supplier who will get rich. If you stay on standard prices you will get ripped off and overpay massively for your energy,\u201d said Mark Todd, co-founder of price comparison site energyhelpline.com. Peter Earl, the head of energy at comparethemarket.com, agreed: \u201cOur research indicates that consumers have been leaving the big six in droves over the past months, often in favour of smaller challengers \u2013 and SSE\u2019s loss of 370,000 customers in the past year demonstrates that SSE has not done enough in terms of pricing or perceived service levels.\u201d The cost of energy and the behaviour of the large companies has long been a subject of public anger and political debate but bills have generally fallen in the last 18 months, albeit slowly compared with a collapse in commodity prices. An 18-month investigation by the Competition and Markets Authority concluded that there had been overcharging but radical options such as breaking up the big six has been abandoned in favour of lighter measures such as a price cap for those on prepaid meters and encouraging customers to switch to lower cost providers. SSE said its overall group profits before tax and after adjustments were down by 3.3% to \u00a31.5m due to lower gas prices, mild weather and price controls in the distribution side of the business. But the company still raised its annual dividend by 1.1% to 89.4p. SSE said the retail arm has been bolstered by growth in business customers but it had suffered from cutting gas prices to domestic customers earlier this year, its third such reduction in 12 months. Alistair Phillips-Davies, SSE\u2019s chief executive, admitted the company was feeling the heat from newer independent retail supply companies such as First Utility, Ecotricity and Ovo Energy: \u201cThe operating environment presented a number of complex issues, including the impact of low wholesale gas prices and intense retail market competition.\u201d SSE said its retail customer base in Britain and Ireland had fallen from 8.58 million to 8.21 million. The figures are released a month after British Gas revealed it had lost 119,000 last year but an additional 225,000 in the first three months of 2016 alone. But Phillips-Davies also signalled SSE was happier that there was less pressure on the suppliers now that the CMA had finished most of its work and that energy appeared off the frontline agenda in Westminster. Although it had been a challenging year, said Phillips-Davies, \u201csome of the mist is beginning to clear around the legislative, political and regulatory environment and SSE will continue to invest for the future\u201d. The company said it would spend up to \u00a36bn over the next four years on upgrading the UK\u2019s electricity and gas infrastructure, with some of the cash going on new transmission lines and some on wind farms.  The company continued to bring new onshore wind capacity and now generates more than a third of its total wholesale power from renewable sources. SSE also announced it would be considering the sale of its stake in the SGN gas distribution business.",
+  "webTitle": "SSE profits reignite row over energy prices",
+  "webPublicationDate": "2016-05-18T13:41:01Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/18/sse-sheds-370000-customers-gas-prices-profits-competition",
+  "keyword": [
+    {
+      "webTitle": "SSE",
+      "id": "business/scottishandsouthernenergy",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Energy industry",
+      "id": "business/energy-industry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Utilities",
+      "id": "business/utilities",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Energy bills",
+      "id": "money/energy",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Terry Macalister",
+      "id": "profile/terrymacalister"
+    }
+  ],
+  "guardianId": "business/2016/may/18/sse-sheds-370000-customers-gas-prices-profits-competition"
+}

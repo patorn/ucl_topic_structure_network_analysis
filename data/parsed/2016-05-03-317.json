@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/03/leicester-city-kings-of-england-richard-iii",
+  "id": "2016-05-03-317",
+  "sectionId": "football",
+  "body": "Now is the winter of our discontentMade glorious summer by this championship.Although, in truth, a York man in my heart(Though some of course dispute I have that valve)The Minstermen this term have shown such poor defenceThey are condemn\u00e9d to the Conference. Since Leicester was my final resting place,Following my reverse at Bosworth Field,The Foxes have became my second love,A steady passion for my vulpine ways.And after last year\u2019s fight with relegationHow sweet the plaudits of a smitten nation. Unheralded when this campaign began,Our team of misfits put the stars to flight.Vardy, Mahrez, the tireless N\u2019Golo Kant\u00e9,Huth, Simpson, Schlupp, inspiring captain Wes.The vigilant Schmeichel patrolling his steely lineDrinkwater you will say, but I prefer wine. \u201cWho gives a Fuchs?\u201d That was always my motto.I rose against the odds to win the crown.In Leicester I see that same will to succeed,Doing down the critics and naysayers, all.I, too, was mocked, my public always wary,Just like the mighty Claudio Ranieri. Together we are vindicated, Claudio and I,My move from car park to cathedralMirroring his from tinker to talisman.The King Power Stadium, how I love that name,A palace of fire and fury, fame and favour,All funded by Vichai Srivaddhanaprabha. Next season we will do it all again, and more.Madrid and Munich will feel our stern resolve.Doubters will mock, bookmakers price us down,But we will prick their baseless prophecies.Our team will steer us through the fearsome thicket.Oh! my kingdom for a premium season ticket.",
+  "webTitle": "Richard III on Leicester City, kings of England",
+  "webPublicationDate": "2016-05-03T06:35:55Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/03/leicester-city-kings-of-england-richard-iii",
+  "keyword": [
+    {
+      "webTitle": "Leicester City",
+      "id": "football/leicestercity",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Leicester",
+      "id": "uk/leicester",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Richard III",
+      "id": "uk/richard-iii",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Stephen Moss",
+      "id": "profile/stephenmoss"
+    }
+  ],
+  "guardianId": "football/2016/may/03/leicester-city-kings-of-england-richard-iii"
+}

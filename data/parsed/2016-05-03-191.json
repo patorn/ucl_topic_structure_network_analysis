@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/03/anthony-mackie-play-johnnie-cochran-signal-hill-police-brutality-drama",
+  "id": "2016-05-03-191",
+  "sectionId": "film",
+  "body": "Anthony Mackie is set to follow in the recent footsteps of Courtney B Vance by playing Johnnie Cochran, in a new film about a landmark police brutality case. According to Deadline, the Captain America: Civil War star will play the lawyer during a 1981 case that preceded his defence of OJ Simpson in 1995, a trial that was recently dramatised for the small screen. The role of Cochran in the TV series, The People v OJ Simpson, was played by Vance in a widely-praised performance. The as yet untitled big-screen drama focuses on the story of American football player Ron Settles, who was arrested for speeding and later found dead in his cell. It was initially deemed a suicide, but an autopsy showed that Settles had been choked to death. The family were awarded $760,000 in a civil suit and the police chief resigned. The film is written by David McMillan, who has worked on TV drama Lucifer, with a director yet to be announced. Mackie is currently starring in Captain America: Civil War, after roles in Triple 9 and The Night Before and will next be seen on television, playing Martin Luther King Jr in the HBO drama All the Way. He\u2019s also set to star in thriller Wetlands and is developing a film about Olympian sprinter Jesse Owens. As well as OJ Simpson, Cochran\u2019s celebrity clients included Michael Jackson, Tupac and Snoop Dogg. He died in 2005.",
+  "webTitle": "Anthony Mackie to play Johnnie Cochran in police brutality drama",
+  "webPublicationDate": "2016-05-03T12:19:37Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/03/anthony-mackie-play-johnnie-cochran-signal-hill-police-brutality-drama",
+  "keyword": [
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Drama",
+      "id": "film/drama",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Benjamin Lee",
+      "id": "profile/benjamin-lee-film"
+    }
+  ],
+  "guardianId": "film/2016/may/03/anthony-mackie-play-johnnie-cochran-signal-hill-police-brutality-drama"
+}

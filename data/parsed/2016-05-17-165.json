@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/17/premier-league-2015-16-review-polls-season",
+  "id": "2016-05-17-165",
+  "sectionId": "football",
+  "body": "Check out the 10 categories in full  Player of the season Manager of the season Goal of the season Match of the season Signing of the season Flop of the season Gripe of the season Pundit of the season Referee of the season Innovations for the future",
+  "webTitle": "Premier League 2015-16 review: vote for the best and worst of the season",
+  "webPublicationDate": "2016-05-17T12:48:12Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/17/premier-league-2015-16-review-polls-season",
+  "keyword": [
+    {
+      "webTitle": "Premier League",
+      "id": "football/premierleague",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian readers",
+      "id": "profile/guardian-readers"
+    }
+  ],
+  "guardianId": "football/2016/may/17/premier-league-2015-16-review-polls-season"
+}

@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/australia-news/2016/may/05/isis-members-can-now-be-stripped-of-australian-citizenship",
+  "id": "2016-05-05-312",
+  "sectionId": "australia-news",
+  "body": "The immigration minister, Peter Dutton, has placed Islamic State on a list of organisations whose members can be stripped of their Australian citizenship, clearing the way to begin revoking the nationality of accused terrorists.   Related: All of Australia's national security changes since 9/11 in a timeline    The government in December passed controversial amendments to citizenship legislation allowing those deemed to have joined a terrorist organisation to have their Australian nationality revoked, provided the move does not leave them stateless. It is not necessary to be a formal member of a terrorist organisation to lose citizenship under the law, only to undertake \u201cterrorist-related conduct\u201d. Initially the government proposed to strip those with just single citizenship of their status, but backed down after a cabinet revolt, reportedly including the attorney general, George Brandis, and the then-communications minister, Malcolm Turnbull. Dutton said on Thursday the new measures \u201crecognise that people who engage in terrorism-related conduct have severed that bond with their community and denied their allegiance to Australia\u201d.   Related: Law to strip dual nationals of Australian citizenship set to pass parliament    Isis is the first organisation to be listed. Declared organisations must be drawn from an existing list of terrorist organisations in the criminal code that include Jabhat al-Nusra, al-Qaida, Hezbollah\u2019s external security organisation and the Kurdistan Workers\u2019 party. Children as young as 14 can have their citizenship revoked under the legislation, which allows those targeted to have the decision reviewed by the high or federal court. The children of suspected terrorists can also have their citizenship revoked. The laws apply retrospectively for those convicted of a terrorism-related offence and sentenced to at least 10 years\u2019 jail.  Among those who could lose their citizenship is Abdul Nacer Benbrika, who was sentenced to 15 years\u2019 jail for plotting a terrorist attack in Australia, and Mohamed Ali Elomar, who was sentenced to 28 years\u2019 jail for conspiracy to prepare for a terrorist attack. As many as half of the estimated 110 Australians believed to be fighting in Iraq and Syria are reportedly dual citizens.   Related: Hollande drops plan to revoke citizenship of dual-national terrorists    Dutton has said he expects a high court challenge to the laws, which have been criticised by leading constitutional lawyers, human rights groups, ethnic community organisations, refugee organisations and the human rights commissioner, Gillian Triggs. The French government scrapped a similar plan to strip dual citizens of their nationality in March after a backlash from within the Hollande cabinet, including the resignation of his justice minister, Christiane Taubira. In the UK, the home secretary, Theresa May, is reportedly considering extending existing citizenship-stripping laws to apply to serious crimes other than terrorism.",
+  "webTitle": "Isis members can now be stripped of Australian citizenship",
+  "webPublicationDate": "2016-05-05T06:21:52Z",
+  "webUrl": "https://www.theguardian.com/australia-news/2016/may/05/isis-members-can-now-be-stripped-of-australian-citizenship",
+  "keyword": [
+    {
+      "webTitle": "Australian security and counter-terrorism",
+      "id": "australia-news/australian-security-and-counter-terrorism",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australian politics",
+      "id": "australia-news/australian-politics",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Peter Dutton",
+      "id": "australia-news/peter-dutton",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australian immigration and asylum",
+      "id": "australia-news/australian-immigration-and-asylum",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Islamic State",
+      "id": "world/isis",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Coalition",
+      "id": "australia-news/coalition",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australian law",
+      "id": "australia-news/australian-law",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Michael Safi",
+      "id": "profile/michael-safi"
+    }
+  ],
+  "guardianId": "australia-news/2016/may/05/isis-members-can-now-be-stripped-of-australian-citizenship"
+}

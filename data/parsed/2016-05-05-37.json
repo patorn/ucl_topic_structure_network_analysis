@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/05/butterflies-timing-everything",
+  "id": "2016-05-05-37",
+  "sectionId": "environment",
+  "body": "For me, spring truly begins when the first male orange tip passes on its ceaseless jinking search for females. It was late this year, and this small white butterfly with unmistakable orange tips to its wings only materialised in my garden last week. What worried me was not its tardiness but its food plant\u2019s. The garlic mustard on which superbly-camouflaged (and occasionally cannibalistic) orange tip caterpillars feed (they also devour that lovely spring flower, lady\u2019s smock, in damper spots) had barely sprouted any leaves last week. A week later, though, it\u2019s burst into flower and, with consummate timing, the furtive female, which lacks orange tips but possesses an exquisitely-dappled green underwing, has emerged too. Scientists are worried about \u201cphenological asynchrony\u201d \u2013 climate change and warmer temperatures disrupting the vital timing of species which have evolved together. The famous example is oak tree buds eaten by moths whose caterpillars feed young great tits, but there are bees and butterflies too. In some parts of Britain, marbled whites are emerging before their key nectar source, greater knapweed, is flowering. We can help butterflies and other insects adapt by saving as wide a range of microclimates as possible \u2013 different altitudes, for instance. Scientists studying climate change impacts on butterflies in Spain suggest that the key factor in the Mediterranean is not temperature but aridity. In this way, the unusually wet spring (in my patch, East Anglia, at least) may not be as bad for butterflies as it first appears: food plants should be lusciously edible for the new generation of caterpillars. Eat well, my friends.",
+  "webTitle": "For butterflies, timing is everything",
+  "webPublicationDate": "2016-05-05T20:30:04Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/05/butterflies-timing-everything",
+  "keyword": [
+    {
+      "webTitle": "Butterflies",
+      "id": "environment/butterflies",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Climate change",
+      "id": "environment/climate-change",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Insects",
+      "id": "environment/insects",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Wildlife",
+      "id": "environment/wildlife",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Patrick Barkham",
+      "id": "profile/patrickbarkham"
+    }
+  ],
+  "guardianId": "environment/2016/may/05/butterflies-timing-everything"
+}

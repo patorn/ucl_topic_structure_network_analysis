@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/04/michael-fassbender-play-killer-jack-unterweger-entering-hades",
+  "id": "2016-05-04-247",
+  "sectionId": "film",
+  "body": "Michael Fassbender will play Austrian serial killer Jack Unterweger, known as the \u201cprison poet\u201d and the \u201cVienna Strangler\u201d in new thriller Entering Hades, reports Variety. Based on John Leake\u2019s true crime novel of the same title, the story is currently being adapted by the Oscar-winning co-writer of Birdman, Alexander Dinelaris, from an original script by Bill Wheeler. Unterweger became a cause celebre of the Austrian literary scene in the mid-1980s as the author of short stories, poems, plays, and an autobiography, later made into a film. These were all written while Unterweger was in jail for the sexually aggravated murder of an 18-year-old woman, in 1976. Among the famous figures campaigning for his release were the celebrated poet, author and artist G\u00fcnter Grass and playwright and novelist Elfriede Jelinek.  Eventually released in 1990 at the end of his 15-year sentence, Unterweger was initially considered an example of successful rehabilitation. He went on to work as a journalist across Europe and in the US, but began killing again within months of his release. The H\u00e4fenpoet (prison poet) murdered at least 11 women over the next two years in multiple European countries and the US. As a journalist for Austrian state broadcaster ORF, he sometimes reported on the very murders he had just committed. Following his arrest in Miami, Florida in 1992, Unterweger was convicted of nine murders and sentenced to life imprisonment without the possibility of parole. He committed suicide by hanging at Graz-Karlau prison in Graz, Austria, before an appeal could be heard. The project is being set up at Broad Green Pictures (makers of critically acclaimed drama 99 Homes, as well as Terrence Malick\u2019s Knight of Cups), along with Storyscape Entertainment.",
+  "webTitle": "Michael Fassbender to play Austrian serial killer",
+  "webPublicationDate": "2016-05-04T10:29:38Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/04/michael-fassbender-play-killer-jack-unterweger-entering-hades",
+  "keyword": [
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Michael Fassbender",
+      "id": "film/michael-fassbender",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Biopics",
+      "id": "film/biopics",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Thriller",
+      "id": "film/thriller",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Crime",
+      "id": "film/crime",
+      "sectionId": "film",
+      "sectionName": "Film"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ben Child",
+      "id": "profile/benchild"
+    }
+  ],
+  "guardianId": "film/2016/may/04/michael-fassbender-play-killer-jack-unterweger-entering-hades"
+}

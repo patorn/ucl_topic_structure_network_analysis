@@ -1,0 +1,90 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/12/london-stock-exchange-listed-companies-tax-havens-uk",
+  "id": "2016-05-12-163",
+  "sectionId": "world",
+  "body": "Almost 400 companies listed on the London Stock Exchange (LSE), with a collective market capitalisation of \u00a3225bn, are based in offshore havens connected to the UK. Research shows that 389 companies trading their shares in London are registered in British overseas territories or crown protectorates.  The findings illustrate the scale of the relationship between the City and offshore tax havens, which were in the spotlight at David Cameron\u2019s anti-corruption conference in London on Thursday. The prime minister has been under pressure to invoke special powers that would force British tax havens to end their fiercely protected secrecy since the emergence of the Panama Papers. The files leaked from the Panama law firm Mossack Fonseca revealed the extent to which UK overseas territories, including the British Virgin Islands (BVI), were being used to hide money offshore. The prime minister, who has blocked previous attempts by the EU to clamp down on offshore havens, is being urged to set a timetable for imposing tighter anti-corruption laws on the Channel Islands, the Isle of Man and tax havens in the Caribbean.  The overseas territories have said they will not sign up to central registers of beneficial ownership which would be available to the public and are one of the key demands of the charities and anti-corruption campaign groups eager to expose money launderers hiding their gains offshore. To counter the rising criticism, Cameron said all foreign companies buying property in the UK would be required to disclose their true owners in a public register for the first time, though this falls short of proposals for a central register. The largest number of companies listed in London, 129, are registered in Guernsey, a British crown dependency. The BVI is the place of registration for 42 companies. Nick Dearden, the director of Global Justice Now, which produced the findings, said the London-listed companies gave offshore financial centres a legitimacy they did not deserve. \u201cThese companies have a combined market capitalisation of hundreds of billions of pounds, which represents an enormous sum of money that should be being taxed appropriately to resource important public services that are being threatened by the austerity agenda,\u201d he said. \u201cIf companies want to get the legitimacy and reputational enhancement of being listed on the London Stock Exchange, then they shouldn\u2019t be allowed to be registered in known secrecy jurisdictions.\u201d Richard Murphy, a professor of practice in international political economy at City University, who has advised the Labour leader, Jeremy Corbyn, said the government should force the stock exchange and the Financial Conduct Authority (FCA) to take a harder line against firms that register offshore. \u201cThe opacity tax havens create is the enemy of good decision-making. If the City regulator and the London Stock Exchange really believe in effective markets, they would not list companies registered in such places,\u201d he said. The 389 companies listed in London and registered offshore had a combined market capitalisation of \u00a3224.5bn at the end of April. The UK territories rank highly on the Financial Secrecy Index produced annually by the Tax Justice Network. This lists jurisdictions known for their high levels of banking and company secrecy. The Treasury, which is leading talks with offshore havens, said the UK had called for public country-by-country reporting \u201cto stop businesses using gaps in international tax rules to get out of paying their fair share\u201d. A spokesman said: \u201cAnd because of our leadership, tax jurisdictions around the world, including crown dependencies and overseas territories, have made groundbreaking commitments to share information that will enable tax authorities to clamp down on tax dodgers.\u201d The FCA, which verifies the companies listed on the LSE\u2019s main market, said: \u201cThe objective of the listing regime is to provide effective securities regulation based on the disclosure of information to the market, to enable investors to make well-informed decisions and to support effective shareholder engagement. \u201cOne of the key strengths of the London market is its international nature, with an almost unrivalled depth of both liquidity and choice across a wide range of businesses and industries, yet still within an overall framework of investor protection.  \u201cAs a consequence, the listing regime does not prescribe specific requirements over jurisdiction, nor does it prohibit specific types of corporate structure.\u201d A spokesman for the LSE, which has direct control of the smaller Aim market, mostly made up of smaller companies and startups, said it applied the listings rules to maintain an orderly market. \u201cThe focus of our rules is on disclosures that are material to the company\u2019s share price and to ensure that all investors have equal access to information. We are not the tax regulator and do not have the remit to take any position on companies\u2019 tax payments,\u201d the spokesman said.",
+  "webTitle": "Nearly 400 LSE-listed companies based in tax havens linked to UK",
+  "webPublicationDate": "2016-05-12T14:34:05Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/12/london-stock-exchange-listed-companies-tax-havens-uk",
+  "keyword": [
+    {
+      "webTitle": "Tax havens",
+      "id": "world/tax-havens",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "London Stock Exchange",
+      "id": "business/londonstockexchangegroup",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Stock markets",
+      "id": "business/stock-markets",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "David Cameron",
+      "id": "politics/davidcameron",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Tax avoidance",
+      "id": "business/taxavoidance",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Corporate governance",
+      "id": "business/corporate-governance",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Financial Conduct Authority",
+      "id": "business/financial-conduct-authority",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Regulators",
+      "id": "business/regulators",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Phillip Inman",
+      "id": "profile/phillipinman"
+    }
+  ],
+  "guardianId": "business/2016/may/12/london-stock-exchange-listed-companies-tax-havens-uk"
+}

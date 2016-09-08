@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/10/amazon-jumps-the-price-gun-as-morrisons-staples-go-online-early",
+  "id": "2016-05-10-73",
+  "sectionId": "business",
+  "body": "Amazon is poised to start selling fresh groceries including staples such as milk and bananas on the back of its tie-up with supermarket chain Morrisons. Amazon inadvertently made public its listings for Morrisons branded fresh food on Tuesday, including diced chicken breasts, smoked ham slices and ready meals. All had been removed by the end of the day.    Related: Amazon and Morrisons tie-up: a customer's guide    According to industry magazine Retail Week, some goods were listed on Amazon.co.uk at sky-high prices, with four pints of the grocer\u2019s milk listed for \u00a368.75 while five bananas cost \u00a327.99. The imagery was also confused, with Morrisons Tastes of Home shepherd\u2019s pie appearing beside a picture of the Teenage Mutant Ninja Turtles. It is understood the listings were in test mode with shoppers unable to buy the items on display. Morrisons has now struck deals with both Amazon and Ocado to sell its food. In February, the Morrisons chief executive, David Potts, announced it would make fresh, frozen and ambient food available on Amazon as well as via its own website.  Last week, Morrisons posted its second consecutive quarter of like-for-like sales growth. At that time Potts said he expected its ranges to be available \u201cimminently\u201d via the Amazon Fresh service. It has already supplied 800 product lines to the online retailer, he said. The UK grocery industry is on tenterhooks amid industry reports that Amazon is gearing up to launch its own grocery service in the UK. It operates Amazon Fresh in a handful of US cities but to date has concentrated on selling canned and packaged goods in the UK.",
+  "webTitle": "Amazon jumps the price gun as Morrisons staples go online early",
+  "webPublicationDate": "2016-05-10T17:56:10Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/10/amazon-jumps-the-price-gun-as-morrisons-staples-go-online-early",
+  "keyword": [
+    {
+      "webTitle": "Morrisons",
+      "id": "business/morrisons",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Amazon.com",
+      "id": "technology/amazon",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Retail industry",
+      "id": "business/retail",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Supermarkets",
+      "id": "business/supermarkets",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "E-commerce",
+      "id": "technology/efinance",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Internet",
+      "id": "technology/internet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Zoe Wood",
+      "id": "profile/zoewood"
+    }
+  ],
+  "guardianId": "business/2016/may/10/amazon-jumps-the-price-gun-as-morrisons-staples-go-online-early"
+}

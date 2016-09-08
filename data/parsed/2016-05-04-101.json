@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/04/bhp-billiton-faces-30bn-compensation-claims-over-brazil-dam-disaster",
+  "id": "2016-05-04-101",
+  "sectionId": "business",
+  "body": "The mining group BHP Billiton and its partner Vale are facing a 155bn reais (\u00a330bn) claim from Brazilian prosecutors over an iron ore mine dam collapse last year that released a torrent of toxic mud, killing 19 people and leaving 700 homeless. Shares in the London-listed BHP plunged almost 10% after the charges were revealed into what is being called Brazil\u2019s worst ever environmental disaster. They closed down nearly 6%. The damages claim has been based on the clean-up costs of BP\u2019s Deepwater Horizon accident in the US, say federal prosecutors in Minas Gerais, south-east Brazil, where the two companies\u2019 joint mining venture, Samarco, is based. \u201cPreliminary studies show the human, economic and socio-environmental impacts of the collapse of the dam are, at least, equivalent to those verified in the Gulf of Mexico,\u201d they said. \u201cIt does not seem credible, neither technically nor morally, that the value of the human, cultural and physical environment in Brazil should be worth less than other countries,\u201d they added in a statement. BHP said it had not yet received any formal notice of the legal claim but \u201cremains committed to helping Samarco to rebuild the community and restore the environment affected by the failure of the dam\u201d. The Melbourne-based company said a separate lawsuit, which Samarco, Vale and BHP settled with the Brazilian government in March, in which the companies would pay an estimated 20bn reais, was the best way to repair damage caused by the spill. \u201cWe believe that the agreement (once approved by the court) provides the long-term remedial and compensation framework for responding to the impact of the Samarco tragedy and the appropriate platform for the parties to work together,\u201d BHP said.   Related: Brazil iron miner Samarco sued for billions in disaster that killed 19 people    That unusually quick deal was praised by President Dilma Rousseff but Brazil\u2019s political climate is turbulent, with Rousseff fighting off a potential impeachment over a completely unrelated bribery scandal. Paul Gait, a senior analyst at Bernstein Investment Research in London, told Reuters the case was politically motivated, with prosecutors wanting to raise the pressure on Rousseff. \u201cThey\u2019re implying she had radically undersold the Brazilian people and was in the pockets of business,\u201d he said. Financial analysts see no reason to use BP\u2019s Deepwater Horizon accident as a benchmark for claims as the cases are quite different but it puts the pressure on BHP given BP has so far handed over US$50bn (\u00a335bn). Mining operations have been suspended since the dam burst triggered a tide of mud which buried the village of Bento Rodrigues and swept down the Doce river. The dam was holding \u201ctailings\u201d, a mining waste product of metal filings, dirty water and possibly chemicals. The yellow brown waste travelled 300 miles downstream before cascading into the Atlantic Ocean and threatening beaches. Izabella Teixeira, the environment minister, told the newspaper O Globo that it could take decades for the natural environment to be fully repaired. \u201cIt\u2019s clear what happened in the Doce river is the biggest environmental catastrophe in this country\u2019s history. We can\u2019t let it happen again. Our current environmental laws are insufficient to deal with an accident of this kind.\u201d Brazilian prosecutors have a reputation for demanding very high compensation payments, although settlements are sometimes agreed at a much lower cost later on \u2013 as was the case with US group Chevron in 2011. That involved an oil spill off the coast of Rio de Janeiro and led to a \u00a312bn claim being lodged but the case was settled three years later for less than \u00a330m. Prosecutors have demanded that BHP, Vale and Samarco put 7.7bn reais into an independently managed fund within 30 days. They have promised to bring in an independent team to assess what the full financial claim should be. Samarco is trying to bring the mine back into operation as quickly as possible but a state environment officer has demanded it should not happen until the company can show pollution has ended. BHP is already struggling with a collapse in its profits as it struggles to cope with rock bottom iron ore, coal and oil prices. In February the group reported a half-year net loss of $5.67bn (\u00a34bn), its first deficit in 16 years.",
+  "webTitle": "BHP Billiton faces \u00a330bn compensation claim over Brazil dam disaster",
+  "webPublicationDate": "2016-05-04T16:31:12Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/04/bhp-billiton-faces-30bn-compensation-claims-over-brazil-dam-disaster",
+  "keyword": [
+    {
+      "webTitle": "BHP Billiton",
+      "id": "business/bhpbilliton",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Mining",
+      "id": "business/mining",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Mining",
+      "id": "environment/mining",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Brazil",
+      "id": "world/brazil",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Americas",
+      "id": "world/americas",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Terry Macalister",
+      "id": "profile/terrymacalister"
+    }
+  ],
+  "guardianId": "business/2016/may/04/bhp-billiton-faces-30bn-compensation-claims-over-brazil-dam-disaster"
+}

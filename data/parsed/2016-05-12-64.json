@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/12/yak-alas-salvation-review-pop-cd-octopus-electrical",
+  "id": "2016-05-12-64",
+  "sectionId": "music",
+  "body": "It can sometimes be hard to feel optimistic about rowdy, new guitar music. So much sounds grubby and calculated, grabbing at the receding coat-tails of past fads. And then you come across a band like Yak, a three-piece whose live shows are a force of nature, and whose debut album is barely less than that. Credit must go to producer Steve Mackey, who captures the sense of a band whose instruments sound almost as if they\u2019re playing themselves. Everything\u2019s in the red, the guitars sound as if they wondered what it would sound like if you layered 60s garage rock, Stooges-style noise, 70s punk and a couple of pneumatic drills on top of each other: it\u2019s like being run over by a steamroller for 41 minutes, but in a good way. You\u2019re unlikely to be writing critical analyses of the lyrics, but you don\u2019t need to with a record that sounds as exciting as this. Even better, there\u2019s melody to go with noise. What with the new album from White Lung, too, there\u2019s hope for the rowdies yet.",
+  "webTitle": "Yak: Alas Salvation review \u2013 a force of nature",
+  "webPublicationDate": "2016-05-12T18:45:05Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/12/yak-alas-salvation-review-pop-cd-octopus-electrical",
+  "keyword": [
+    {
+      "webTitle": "Pop and rock",
+      "id": "music/popandrock",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Indie",
+      "id": "music/indie",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Michael Hann",
+      "id": "profile/michaelhann"
+    }
+  ],
+  "guardianId": "music/2016/may/12/yak-alas-salvation-review-pop-cd-octopus-electrical"
+}

@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/stage/2016/may/06/three-best-new-dance-shows",
+  "id": "2016-05-06-198",
+  "sectionId": "stage",
+  "body": "1: Charles Linehan Company Dance at the Brighton festival opens with this double bill, featuring a duet for original BalletBoyz Michael Nunn and William Trevitt that riffs on the conventions of ballet mime and A Quarter Plus Green, exploring ideas of transformation. Brighton Dome, Sat & Sun 2: Rambert The excellent dancers of Rambert are showcased in this nicely mixed bill, which features a new work from pioneering Australian dance maker Lucy Guerin, with music by sound artist Scanner. Sadler\u2019s Wells, EC1, Tue to 14 May 3: New Shoots   Freddie Opoku-Addaie has co-programmed this evening of new work, exploring the range of styles and themes embraced by choreographers of the African diaspora. The Place, WC1, Thu",
+  "webTitle": "Three of the best\u2026 new dance shows",
+  "webPublicationDate": "2016-05-06T11:59:25Z",
+  "webUrl": "https://www.theguardian.com/stage/2016/may/06/three-best-new-dance-shows",
+  "keyword": [
+    {
+      "webTitle": "Dance",
+      "id": "stage/dance",
+      "sectionId": "stage",
+      "sectionName": "Stage"
+    },
+    {
+      "webTitle": "Stage",
+      "id": "stage/stage",
+      "sectionId": "stage",
+      "sectionName": "Stage"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Judith Mackrell",
+      "id": "profile/judithmackrell"
+    }
+  ],
+  "guardianId": "stage/2016/may/06/three-best-new-dance-shows"
+}

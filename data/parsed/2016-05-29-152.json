@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/29/scriabin-stockhausen-light-vanessa-benelli-mosell-review",
+  "id": "2016-05-29-152",
+  "sectionId": "music",
+  "body": "Pianist Vanessa Benelli Mosell has named her second album for Decca Light, a subject that preoccupied both of the composers she features. As with Licht, Stockhausen\u2019s cycle of seven operas, the visionary Scriabin wanted to create massive, total works of art, integrating light and colour with music and dance. Benelli Mosell, once mentored by Stockhausen, plays his Klavierstuck XII, drawn from Donnerstag aus Licht, with considerable aplomb (complete with the required shouts, clicks and whistles), but it\u2019s her performance of Scriabin\u2019s 24 Preludes Op. 11 that stands out. Powerful, emotional, romantic and dramatic, she sweeps us along in a dazzling display of assured technique.",
+  "webTitle": "Scriabin, Stockhausen: Light CD review \u2013 dazzling technique",
+  "webPublicationDate": "2016-05-29T07:00:00Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/29/scriabin-stockhausen-light-vanessa-benelli-mosell-review",
+  "keyword": [
+    {
+      "webTitle": "Classical music",
+      "id": "music/classicalmusicandopera",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Karlheinz Stockhausen",
+      "id": "music/karlheinz-stockhausen",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Stephen Pritchard",
+      "id": "profile/stephenpritchard"
+    }
+  ],
+  "guardianId": "music/2016/may/29/scriabin-stockhausen-light-vanessa-benelli-mosell-review"
+}

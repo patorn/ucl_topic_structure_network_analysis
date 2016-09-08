@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/18/rupert-murdoch-sun-brexit-gaffe",
+  "id": "2016-05-18-203",
+  "sectionId": "media",
+  "body": "Rupert Murdoch\u2019s Sun may have printed what the press watchdog described as a \u201csignificantly misleading\u201d headline on the Queen\u2019s views about Brexit \u2013 but that hasn\u2019t stopped the News Corp mogul visiting Buckingham Palace. Murdoch and his new wife, Jerry Hall, joined celebrities including Joan Collins, Pixie Lott, Sir Roger Moore and Fearne Cotton at a garden party on Tuesday to mark the 40th anniversary of the Prince\u2019s Trust.  Murdoch was spotted chatting with an eclectic range of fellow guests including music star manager and adviser Tony King, who works with clients including Elton John, and Peter Willis, editor of Sun rival the Daily Mirror.    Related: Sun editor defends 'Queen backs Brexit' headline as watchdog rules it inaccurate       Prince Charles meets Pixie Lott and Fearne Cotton at the Buckingham Palace garden party. Photograph: Anthony Devlin/PA    Other media industry attendees spotted included Alan Edwards, former PR man to OK! owner Richard Desmond. Monkey has not been informed whether the Queen considered releasing the hounds, er, corgis to drive Murdoch off the property. Brexit stage left?",
+  "webTitle": "Rupert Murdoch gets right royal welcome despite Sun's Brexit headline",
+  "webPublicationDate": "2016-05-18T11:37:14Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/18/rupert-murdoch-sun-brexit-gaffe",
+  "keyword": [
+    {
+      "webTitle": "Rupert Murdoch",
+      "id": "media/rupert-murdoch",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "The Sun",
+      "id": "media/sun",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "National newspapers",
+      "id": "media/national-newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers",
+      "id": "media/newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers & magazines",
+      "id": "media/pressandpublishing",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "The Queen",
+      "id": "uk/queen",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Monarchy",
+      "id": "uk/monarchy",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Monkey",
+      "id": "profile/monkey"
+    }
+  ],
+  "guardianId": "media/2016/may/18/rupert-murdoch-sun-brexit-gaffe"
+}

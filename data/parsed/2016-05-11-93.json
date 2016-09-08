@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/11/labour-party-jeremy-corbyn-ivan-lewis-antisemitism-manchester",
+  "id": "2016-05-11-93",
+  "sectionId": "politics",
+  "body": "A senior Labour MP representing an area of Manchester with a large Jewish population has met Jeremy Corbyn to urge him to deal with what he called the party\u2019s \u201cserious problem\u201d with antisemitism. Ivan Lewis, a former minister, demanded that the Labour leader demonstrate \u201ctotal opposition to the views and violence of organisations such as Hamas and Hezbollah\u201d.  He claimed two councillors in his Bury North constituency in Greater Manchester lost their seats because Jewish constituents turned against Labour in protest at comments by Ken Livingstone about Hitler being a Zionist. Lewis, who hopes to be selected as Labour\u2019s candidate in next year\u2019s mayoral elections in Greater Manchester, met with Corbyn on Wednesday to discuss concerns about antisemitism in the party.     Ivan Lewis met with the Labour leader on Wednesday. Photograph: AllStar/SportsPhoto Ltd    After the meeting he said: \u201cI made it clear that while the vast majority of Labour members are not antisemitic, there is a serious problem among a minority which has to be tackled decisively. \u201cI pointed out to Jeremy that we lost council seats in Bury as a result of a protest vote on this issue by former Labour voters.\u201d In the local elections last week, two of three Labour councillors lost their seats in Bury\u2019s Prestwich ward, where 5,913 residents \u2013 17.2% of the population \u2013 are Jewish. At the count, the councillor Alan Quinn said the party had lost two \u201chard-working and proud\u201d councillors because of a \u201cbacklash against the Labour party\u201d, blaming \u201cbigots like Ken Livingstone\u201d. Livingstone, who served two terms as mayor of London, was suspended by the party for the remarks he made while trying to defend the suspended Bradford MP Naz Shah. Lewis said Corbyn agreed to submit his five-point plan to the inquiry into antisemitism and racism established by Labour.  It includes a proposal to amend the party\u2019s constitution to explicitly state there will be zero tolerance of all forms of racism in the party and society; the establishment of a \u201cnon-aligned\u201d Labour for Middle East peace organisation that supports a two-state solution; and \u201cto make it clear that zero-tolerance of antisemitism includes total opposition to the views and violence of organisations such as Hamas and Hezbollah\u201d.",
+  "webTitle": "Senior Labour MP urges Corbyn to tackle party's antisemitism 'problem'",
+  "webPublicationDate": "2016-05-11T17:47:06Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/11/labour-party-jeremy-corbyn-ivan-lewis-antisemitism-manchester",
+  "keyword": [
+    {
+      "webTitle": "Labour",
+      "id": "politics/labour",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Jeremy Corbyn",
+      "id": "politics/jeremy-corbyn",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Greater Manchester",
+      "id": "uk/greater-manchester",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Helen Pidd",
+      "id": "profile/helenpidd"
+    }
+  ],
+  "guardianId": "politics/2016/may/11/labour-party-jeremy-corbyn-ivan-lewis-antisemitism-manchester"
+}

@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/26/school-pupil-dies-in-scotland-after-collapsing-during-800m-race",
+  "id": "2016-05-26-85",
+  "sectionId": "uk-news",
+  "body": "A school student has collapsed while running an 800m race on Thursday afternoon and died in hospital. The 14-year-old girl was a pupil at Calderhead high school in Shotts, North Lanarkshire. The emergency services were called to the school at about 2.30pm and the pupil was taken by air ambulance to the Royal Hospital for Sick Children in Edinburgh. Police Scotland said the death was being treated as unexplained, but that there were not thought to be any suspicious circumstances.  \u201cA postmortem will be carried out in due course to establish the exact cause of death and a report will be submitted to the procurator fiscal,\u201d a spokesperson said. Headteacher John Robertson said everyone at Calderhead was shocked and deeply saddened by the student\u2019s death. \u201cAt this time, all our thoughts and sympathy go out to her family and friends,\u201d he said. \u201cWe will provide our young people at Calderhead with our full support to help them at this most difficult time.\u201d  Alex Neil, the MSP for Airdrie and Shotts, tweeted:    Absolutely shocked and saddened by news of the passing of a Calderhead High pupil. My thoughts are with her family and friends.\u2014 AlexNeilSNP (@AlexNeilSNP) May 26, 2016    Neil Grey, the Westminster MP for the constituency, tweeted:    Absolutely devastating news, so sorry to hear this. Thoughts with the family and friends at Calderhead https://t.co/WbfiMSYaKZ\u2014 Neil Gray MP (@NeilGrayMP) May 26, 2016",
+  "webTitle": "School pupil dies in Scotland after collapsing during 800m race",
+  "webPublicationDate": "2016-05-26T18:12:18Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/26/school-pupil-dies-in-scotland-after-collapsing-during-800m-race",
+  "keyword": [
+    {
+      "webTitle": "Scotland",
+      "id": "uk/scotland",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Schools",
+      "id": "education/schools",
+      "sectionId": "education",
+      "sectionName": "Education"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Chris Johnston",
+      "id": "profile/chris-johnston"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/26/school-pupil-dies-in-scotland-after-collapsing-during-800m-race"
+}

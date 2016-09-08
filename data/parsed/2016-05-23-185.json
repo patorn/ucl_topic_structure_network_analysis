@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/money/2016/may/23/accuracy-ons-food-prices-data-challenged-cpi-office-for-national-statistics",
+  "id": "2016-05-23-185",
+  "sectionId": "money",
+  "body": "The price of food and drink may have fallen faster than official estimates, according to the government body charged with collecting the data. The Office for National Statistics said the official consumer prices index (CPI) figure for food shows that prices have fallen by 3.3% since June 2014, while alcoholic drinks have dropped by 3%.  But a project set up by the ONS to \u201cscrape\u201d price data from the websites of Tesco, Sainsbury\u2019s and Waitrose found that between June 2014 and February 2016 food fell in price by 4.5%, while drinks were down 6.8% over the same period. The gaps between the official and supermarket data are in some cases alarmingly wide, and may call into question the validity of the CPI numbers issued each month.    Related: The surprising fall in the cost of\u00a0the\u00a0UK\u2019s food    For example, the CPI data shows that the price of breakfast cereals has gone up by 2.4%, while the data from the supermarkets reveals that prices have fallen by 32.2%. Tomatoes, according to the CPI index, have gone up in price by 4.1% since June 2014, but the supermarket price is down 23.5%. The differences aren\u2019t just one way \u2013 the supermarket prices for apples, cola and pasta were all higher than those recorded under the CPI measure.  The ONS said the data should be treated with caution, and that there are many reasons not to draw direct comparisons.  Government statisticians check the price of a fixed basket of 700 goods and services when they calculate the CPI, of which 520 are checked by price collectors from stores around the country, with the rest checked from websites, catalogues and by phone.  But the project using Tesco, Sainsbury\u2019s and Waitrose website data checks on only 33 items each month, and can be affected by changes in the range on offer at any one time. \u201cWhile the local collection item descriptions are tightly defined to ensure it is easy to find comparable replacements, the web scrapers collect prices from a broader range of products because the websites do not distinguish between these criteria. For example, the web-scraped data for the item vodka, 70cl bottle may contain products that have different volumes to 70cl. Discounts are only recorded in the data if they are available to everyone, for example a single product discount such as a reduced price. Multi-buys and other discounts are not included,\u201d the report said. It added that delays caused by supermarkets updating their websites also contributed to data differences.  Earlier this month Sainsbury\u2019s boss Mike Coupe said prices at the chain had fallen by 4% over the past two years, and that it expected further grocery price deflation over the summer.  The current overall CPI rate, which includes clothing, transport, energy and housing costs as well as groceries, fell to 0.3% in April from 0.5% the month before. The ONS attributed this to cheaper air fares and clothing.  Ryanair said it plans to cut airfares by 5%-7% during the summer, and by as much as 12% in the winter.",
+  "webTitle": "Food prices falling faster than official figures show",
+  "webPublicationDate": "2016-05-23T12:02:07Z",
+  "webUrl": "https://www.theguardian.com/money/2016/may/23/accuracy-ons-food-prices-data-challenged-cpi-office-for-national-statistics",
+  "keyword": [
+    {
+      "webTitle": "Consumer affairs",
+      "id": "money/consumer-affairs",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Household bills",
+      "id": "money/household-bills",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Food & drink",
+      "id": "lifeandstyle/food-and-drink",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Food & drink industry",
+      "id": "business/fooddrinks",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Inflation",
+      "id": "business/inflation",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Patrick Collinson",
+      "id": "profile/patrickcollinson"
+    }
+  ],
+  "guardianId": "money/2016/may/23/accuracy-ons-food-prices-data-challenged-cpi-office-for-national-statistics"
+}

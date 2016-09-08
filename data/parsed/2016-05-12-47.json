@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/12/serena-williams-dog-food-italian-open",
+  "id": "2016-05-12-47",
+  "sectionId": "sport",
+  "body": "The benefits of special diets for athletes have been well documented, but Serena Williams may have taken things too far on Wednesday when she decided to sample her pet dog\u2019s dinner.   Related: Roger Federer finds time catching up with him as French Open decision awaits | Kevin Mitchell    Williams is playing in the Italian Open, and her hotel had prepared a special menu for her Yorkshire terrier, Chip, including a tempting salmon and rice dish. The world No1 sampled some of it, telling fans on Snapchat: \u201cI ate a spoonful. Don\u2019t judge me.\u201d Williams\u2019s verdict? It tasted \u201ca little bit like a house-cleaner thing.\u201d That was followed by an urgent trip to the bathroom a few hours later. \u201cI don\u2019t think it\u2019s consumable for humans. They should have wrote that,\u201d noted Williams. The incident did little to slow down Williams once she played Christina McHale in the third round in Rome: she won 7-6 (7-5), 6-1. Chip\u2019s thoughts on the matter were not available at the time of publication.",
+  "webTitle": "Serena Williams falls ill after eating dog food ... then wins at Italian Open",
+  "webPublicationDate": "2016-05-12T19:39:34Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/12/serena-williams-dog-food-italian-open",
+  "keyword": [
+    {
+      "webTitle": "Serena Williams",
+      "id": "sport/serena-williams",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Tennis",
+      "id": "sport/tennis",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Pets",
+      "id": "lifeandstyle/pets",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Dogs",
+      "id": "lifeandstyle/dogs",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "US sports",
+      "id": "sport/us-sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Animals",
+      "id": "world/animals",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "sport/2016/may/12/serena-williams-dog-food-italian-open"
+}

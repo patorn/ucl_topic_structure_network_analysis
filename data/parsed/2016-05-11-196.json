@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/11/scotland-cabinet-post-economy-secretary",
+  "id": "2016-05-11-196",
+  "sectionId": "uk-news",
+  "body": "Nicola Sturgeon is to create a new cabinet post to focus on Scotland\u2019s struggling economy following a slump in job creation and amid faltering productivity. The first minister, who retained power after the Scottish National party\u2019s emphatic victory in the Holyrood election last week, will split the post of finance secretary into two separate roles in a cabinet reshuffle next week. Sturgeon acknowledged that Scotland\u2019s economy was facing \u201csome very significant challenges\u201d and continuing \u201cfragility\u201d; this was linked in part, she said, to the North Sea oil industry crisis following the decline in global oil prices. Scotland\u2019s joblessness rate rose by 20,000 over the last quarter, reaching 6.2%, compared with 5.1% across the UK as a whole, with major North Sea employers such as Wood Group laying off staff.  Despite record levels of government borrowing, the latest economic data shows that Scotland\u2019s GDP fell by 1% in cash terms last year and has risen by only 4% since 2008. In this time, the UK economy has grown by 23%. Speaking in her first press briefing of the new parliament, Sturgeon said the economy\u2019s fragility could be seen \u201cin the latest employment figures in the continuing challenges facing the North Sea and in the number of businesses experiencing difficulties\u201d.  She added: \u201cWe also, of course, see some threats to jobs that are completely unnecessary, such as the threats posed to the jobs in the Clyde shipyards by the broken promises of the UK government.  \u201cJobs and the economy will always be a top priority for the Scottish government, but during this period of continuing economic fragility, that will be especially and particularly so.\u201d The new economy secretary would \u201cfight the corner\u201d for all businesses in trouble, she said, and reinforce the strengths of the economy.  Sturgeon said that from next week, the finance secretary, a post held since 2007 by the deputy first minister, John Swinney, would focus on implementing Holyrood\u2019s recently acquired tax and welfare powers, worth about \u00a314bn a year, and overseeing the budget.  With the SNP two seats short of an overall majority, the finance secretary will have to broker a series of deals with opposition parties to get the next budget approved, despite widespread criticism of the SNP\u2019s tax plans.  Labour, the Scottish Green party and the Scottish Liberal Democrats want Scotland\u2019s income tax rates to rise for higher earners, while the Scottish Conservatives want them lower than planned by the SNP. Speaking on Tuesday, Sturgeon said she had no plans to accept the demands.  Sturgeon repeated her criticism of the UK government\u2019s imminent decision to postpone the start of work on a fleet of type-26 frigates at BAE\u2019s two shipyards on the Clyde. She said trade unions at the yards had expected to start cutting steel for those vessels this week. Instead, the work is likely to be delayed by 18 months.  Last year, a Guardian investigation found that Scotland\u2019s public sector debt and liabilities on areas directly under Holyrood\u2019s control, such as railway investment, road, hospitals and school building, and local council borrowing, are forecast to reach \u00a350bn by 2020. The borrowing includes \u00a322bn in private finance contracts signed off by previous Labour and Lib Dem administrations, and the SNP. Much of the new borrowing is directly or closely linked to Scottish government policy decisions. Sturgeon said she would honour promises made during the election campaign to extend the Borders railway to the market town of Hawick, and then possibly to Carlisle in north-west England, by ordering a feasibility study.  The 35-mile rail link cost \u00a3350m, but there is no money allocated to its extension. Scottish ministers have committed to borrow up to \u00a34.9bn for rail projects by 2019, and would have to borrow further in order to fund an extension.",
+  "webTitle": "Scotland to get new cabinet post focusing on faltering economy",
+  "webPublicationDate": "2016-05-11T13:39:11Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/11/scotland-cabinet-post-economy-secretary",
+  "keyword": [
+    {
+      "webTitle": "Scotland",
+      "id": "uk/scotland",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Scottish politics",
+      "id": "politics/scotland",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Nicola Sturgeon",
+      "id": "politics/nicola-sturgeon",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Scottish National party (SNP)",
+      "id": "politics/snp",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Economic growth (GDP)",
+      "id": "business/economicgrowth",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Severin Carrell",
+      "id": "profile/severincarrell"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/11/scotland-cabinet-post-economy-secretary"
+}

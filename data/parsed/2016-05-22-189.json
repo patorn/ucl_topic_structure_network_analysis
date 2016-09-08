@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/money/2016/may/22/extra-energy-dissatisfied-customers",
+  "id": "2016-05-22-189",
+  "sectionId": "money",
+  "body": "I wanted to bring your attention to the Trustpilot reviews for the small gas and electricity supplier Extra Energy. I am a dissatisfied customer of theirs and it seems that there are hundreds more who have taken the time to share their views. Its score from 189 reviews is 0.3 out of 10. I\u2019ve never seen such a low score. It seems impervious to customer complaints. MT, by email If you do an energy price comparison with the likes of ComparetheMarket, uSwitch or, ideally, the Guardian\u2019s service, you will see a series of little-known companies in the top 10 cheapest places \u2013 including Extra Energy. The business model for startups is simple: offer the cheapest price on the market for a short period and grab the switching business. The problem is you have to be able to cope with the demand \u2013 and it seems that, after a long spell at the top of the tables, Extra Energy couldn\u2019t. We\u2019ve seen several similar complaints detailing poor customer service, so asked what was going on. Ben Jones, head of operations at Extra Energy, has apologised to all the affected customers. \u201cIt\u2019s true that we had some problems last year and some of that flowed through into the beginning of this year, but we\u2019ve worked tirelessly to bring in the measures needed to fix these problems, including moving to new offices and recruiting over 200 additional staff.\u201d He went on to say these issues were \u201cproblems of the past\u201d. We are not so sure. We\u2019d be inclined to switch to one of the other energy firms vying for your business. We welcome letters but cannot answer individually. Email us at consumer.champions@theguardian.com or write to Consumer Champions, Money, the Guardian, 90 York Way, London N1 9GU. Please include a daytime phone number",
+  "webTitle": "Extra Energy gets customers hot under the collar",
+  "webPublicationDate": "2016-05-22T06:00:34Z",
+  "webUrl": "https://www.theguardian.com/money/2016/may/22/extra-energy-dissatisfied-customers",
+  "keyword": [
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Consumer affairs",
+      "id": "money/consumer-affairs",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Consumer rights",
+      "id": "money/consumer-rights-money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Energy bills",
+      "id": "money/energy",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Energy industry",
+      "id": "business/energy-industry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Miles Brignall",
+      "id": "profile/milesbrignall"
+    }
+  ],
+  "guardianId": "money/2016/may/22/extra-energy-dissatisfied-customers"
+}

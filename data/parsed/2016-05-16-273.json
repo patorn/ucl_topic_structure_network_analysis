@@ -1,0 +1,96 @@
+{
+  "apiUrl": "https://content.guardianapis.com/social-care-network/2016/may/16/hospital-discharge-patients-failed-ombudsmans-report",
+  "id": "2016-05-16-273",
+  "sectionId": "social-care-network",
+  "body": "The latest report by the parliamentary and health service ombudsman into unsafe discharges from hospital presents a depressingly familiar tale. In 2014-15 the ombudsman saw complaints about discharge rise by more than a third, and upheld (or partly upheld) more than half of the 221 complaints it investigated (considerably higher than the average rate of 37% for all complaints). The report highlights nine \u201cof our most serious cases\u201d to illustrate the issues; these are not claimed to be representative, but are held to be indicative \u201cthat this is an area that needs attention\u201d. Four serious issues are identified: patients being discharged before they are clinically ready to leave hospital; patients not being assessed or consulted properly before discharge; relatives and carers not being told that their loved one has been discharged; and patients being discharged with no homecare plan in place, or being kept in hospital due to poor coordination of services. The report observes that \u201cbest practice guidance has been consistent over the last decade\u201d, seeing discharge as a process, not an isolated event. In 2015 Nice issued guidelines once more recommending that a single named health or social care professional should be identified as the discharge coordinator.  None of this is new; none of it is rocket science. Hospital discharge has been problematic and repeatedly identified in reports, reviews and guidance for more than 30 years. What is evident is that the state of discharge arrangements, and the quality of patients\u2019 experience of discharge, is a critical marker for the quality of partnership working between health and social care. Repeated efforts to ensure smooth transition have continued to flounder on structural and organisational fragmentation, with sometimes catastrophic consequences for patients and their families.  Hasty and poorly organised discharges are the result of rushed efforts to clear beds and ensure acute hospitals can continue to function. Without capacity, patients (emergency and elective) cannot be admitted, and the implications of this resonate throughout the health system and back to urgent and emergency care, compromising the delivery of the politically sensitive four-hour target wait in A&E.  The experience of major incidents being declared by hospitals unable to manage A&E demand throughout the winter (despite it being exceptionally mild) underlines once again the complexity of the hospital admission and discharge relationship, and capacity issues across the entire health and social care system.   Related: NHS and social care must not play the blame game on delayed discharges    In 2002 a major shift in the approach to tackling hospital discharges was introduced with legislation to impose financial penalties for delays (described by ministers as \u201cstronger incentives in the system\u201d). Although much criticised at the time, not least by the health select committee, which regarded it as a \u201ccrude solution\u201d to delayed discharges that risked penalising social services authorities for wider structural failings.  Adjustments softened the idea of penalties but created new statutory duties around notifications of discharges, and encouraged the development of genuinely joint solutions. This should have embedded good practice as the new normal, but any return to old-style adversarial modes of operation would be likely to see a return of familiar difficulties, and so it has proved to be.  Furthermore, evidence has increased that points to delayed discharges being reduced at the cost of higher readmission rates, increased patient dissatisfaction, and a rise in admissions for older patients directly from hospitals to care homes, thereby reducing their chances of any return to independence.  The ombudsman\u2019s report acknowledges that there is no absence of guidance nor of apparent consensus on what constitutes good practice. What is lacking is \u201csystem-wide leadership and shared ownership across health and social care services\u201d.  The nine cases featured in the report make for miserable reading, as they detail the avoidable distress, suffering and even death for the people involved. The ombudsman recommends three areas needing particular attention: checking people\u2019s mental capacity and offering legal protection for those lacking capacity to ensure their dignity and liberty are safeguarded; treating carers and relatives as partners in the discharge planning process, rather than as an \u201cafterthought\u201d; and improving coordination within and between services.  How are these changes to be achieved? Certainly there is no lack of information and knowledge about the nature of the problems. The ombudsman\u2019s report comes on the heels of a 2015 inquiry from Healthwatch England that focused on people\u2019s experiences when leaving hospital and other care settings, and once again documented delays and a lack of coordination between agencies. Healthwatch expressed the hope that \u201cthe power of people\u2019s stories will bring a new imperative for change and drive health and social care agencies nationally and locally to ensure they get discharge right\u201d.  But this rational-optimistic view of policy and practice is unlikely to be sufficient to bring about change. If it were that simple, problematic discharge would not have been such an enduring challenge. The Department of Health has established a national programme board to \u201cdevelop a vision for improving discharge\u201d.  However, it is not so much \u201cvision\u201d about the way forward that is the problem, but achieving the reality. After decades of the same issues recurring around the point of discharge, there is enough understanding both about the causes and consequences of delays, and of premature and inappropriate discharges.  For years we have explored and investigated the problems, and experimented with solutions and innovation to relatively little effect. It is surely time for something more radical. Bringing about the necessary transformational change will demand more than vision. Further guidance, more leadership and greater clarity about responsibilities may all play a part, but the current situation also points to a wider malaise reflecting fundamental resource pressures on all parts of the system. Hospital discharge is the canary in the health and social care coalmine. Addressing operational and practice issues while failing to tackle the underlying organisational and structural causes of fragmentation and discord \u2013 of which problematic discharge is primarily an indicator \u2013 will ensure the recurrence of these apparently insoluble and unacceptable practices.  Join the Social Care Network to read more pieces like this. Follow us on Twitter (@GdnSocialCare) and like us on Facebook to keep up with the latest social care news and views.",
+  "webTitle": "Hospital discharge is not rocket science. Why are patients still being failed?",
+  "webPublicationDate": "2016-05-16T09:43:00Z",
+  "webUrl": "https://www.theguardian.com/social-care-network/2016/may/16/hospital-discharge-patients-failed-ombudsmans-report",
+  "keyword": [
+    {
+      "webTitle": "Social Care Network",
+      "id": "social-care-network/social-care-network",
+      "sectionId": "social-care-network",
+      "sectionName": "Social Care Network"
+    },
+    {
+      "webTitle": "Integration",
+      "id": "social-care-network/integration",
+      "sectionId": "social-care-network",
+      "sectionName": "Social Care Network"
+    },
+    {
+      "webTitle": "Work practices",
+      "id": "healthcare-network/work-practices",
+      "sectionId": "healthcare-network",
+      "sectionName": "Healthcare Professionals Network"
+    },
+    {
+      "webTitle": "Work practices",
+      "id": "social-care-network/work-practices",
+      "sectionId": "social-care-network",
+      "sectionName": "Social Care Network"
+    },
+    {
+      "webTitle": "Healthcare Network",
+      "id": "healthcare-network/healthcare-network",
+      "sectionId": "healthcare-network",
+      "sectionName": "Healthcare Professionals Network"
+    },
+    {
+      "webTitle": "social care network: adult social care hub",
+      "id": "social-care-network/adult",
+      "sectionId": "social-care-network",
+      "sectionName": "Social Care Network"
+    },
+    {
+      "webTitle": "Hospitals and acute care",
+      "id": "healthcare-network/hospitals-and-acute-care",
+      "sectionId": "healthcare-network",
+      "sectionName": "Healthcare Professionals Network"
+    },
+    {
+      "webTitle": "Homecare",
+      "id": "social-care-network/homecare",
+      "sectionId": "social-care-network",
+      "sectionName": "Social Care Network"
+    },
+    {
+      "webTitle": "Social care",
+      "id": "society/social-care",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "NHS",
+      "id": "society/nhs",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Older people",
+      "id": "society/older-people",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Melanie Henwood",
+      "id": "profile/melanie-henwood"
+    }
+  ],
+  "guardianId": "social-care-network/2016/may/16/hospital-discharge-patients-failed-ombudsmans-report"
+}

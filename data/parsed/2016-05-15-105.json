@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/15/eu-referendum-donald-trump-brexit-uk-back-queue-us",
+  "id": "2016-05-15-105",
+  "sectionId": "politics",
+  "body": "Donald Trump has said leaving the EU would not put Britain at the back of the queue to secure a US trade deal under his presidency \u2013 a move applauded by the Ukip leader, Nigel Farage, who admitted he had reservations about backing the controversial Republican. Referring to Barack Obama\u2019s warning to Britain over the EU referendum, Trump, who is on track to secure the Republican nomination, said: \u201cI think if I were from Britain I would probably want to go back to a different system.\u201d   Related: Boris, the EU and Hitler: bad taste, bad judgment | Michael White    Questioned about Britain\u2019s place in any queue under a Trump presidency in an interview with Piers Morgan, to be broadcast on ITV on Monday, he said: \u201cI don\u2019t want to say front or anything else. \u201cI mean, I\u2019m going to treat everybody fairly but it wouldn\u2019t make any difference to me whether they were in the EU or not. You\u2019d certainly not be at the back of the queue, that I can tell you.\u201d Responding to clips from the broadcast, shown on ITV\u2019s Peston on Sunday, Farage, who had criticised Obama\u2019s intervention, welcomed Trump\u2019s comments. He said: \u201cIt just goes to show Donald Trump is measured, neutral, doesn\u2019t want to get stuck into the punch-up. He\u2019s given a very diplomatic answer.\u201d     Nigel Farage on Peston on Sunday. Photograph: Ken McKay/ITV/REX/Shutterstock    Asked if he would back Trump, Farage, who has said he shares concerns about an out-of-touch political class with the American, implied he would do so, but reluctantly. \u201cI have difficulty with that,\u201d Farage told Peston. \u201cLet\u2019s put it like this, I couldn\u2019t vote for [Hillary Clinton] even if you paid me. \u201cIf you put me up against a wall it would be [Trump] not Hillary, but I have reservations. Encouraging people to beat up protesters, one or two things like that bother me, but look, I tell you what, I think he\u2019s going to win.\u201d",
+  "webTitle": "Donald Trump: Brexit would not put UK at back of queue with US",
+  "webPublicationDate": "2016-05-15T12:36:52Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/15/eu-referendum-donald-trump-brexit-uk-back-queue-us",
+  "keyword": [
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Donald Trump",
+      "id": "us-news/donaldtrump",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Caroline Davies",
+      "id": "profile/carolinedavies"
+    }
+  ],
+  "guardianId": "politics/2016/may/15/eu-referendum-donald-trump-brexit-uk-back-queue-us"
+}

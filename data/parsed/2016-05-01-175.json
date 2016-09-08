@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/01/gods-not-dead-2-review-melissa-joan-hart",
+  "id": "2016-05-01-175",
+  "sectionId": "film",
+  "body": "This message movie sequel is essentially a feature-length advertisement for Jesus. Melissa Joan Hart stars as Grace (get it?), a teacher who happens to make a passing reference to Jesus during a class discussion. She is hauled over the coals by mealy-mouthed non-believers in a courtroom drama which owes more to pantomime than legal procedure. Shot in holy high-definition, with lots of histrionic crane shots that swoop down like angels from on high and a score that batters the audience into observance, this is a film that will work best when preaching to the converted.         Watch the trailer for God\u2019s Not Dead 2.",
+  "webTitle": "God\u2019s Not Dead 2 \u2013 one for the faithful",
+  "webPublicationDate": "2016-05-01T07:00:48Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/01/gods-not-dead-2-review-melissa-joan-hart",
+  "keyword": [
+    {
+      "webTitle": "Drama",
+      "id": "film/drama",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Wendy Ide",
+      "id": "profile/wendy-ide"
+    }
+  ],
+  "guardianId": "film/2016/may/01/gods-not-dead-2-review-melissa-joan-hart"
+}

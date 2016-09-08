@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/19/bb-8-star-wars-force-awakens-windows-xp-nightmares",
+  "id": "2016-05-19-262",
+  "sectionId": "technology",
+  "body": "Everyone knows that Star Wars: The Force Awakens is actually an uplifting story about a little robot named BB-8 overcoming adversity with the help of his human servants. But that feelgood film quickly turns into a horror movie with the introduction of Windows XP. YouTuber Brian Elder took BB-8 and gave him a 2001 makeover, complete with Microsoft\u2019s best hits such as critical stop, Windows XP shut down, Clippy and even the classic ImgBurn \u201cI\u2019ve just made a coaster out of your recordable CD\u201d error.     Doh, your X-Wing has just been turned into a coaster. Photograph: YouTube    BB-8 is transformed into a critical error machine, and with it our dreams of a peaceful, droid-infused life. Bill Gates would be proud.  Top dog: watch what happens when a real canine meets a robo-pooch Windows 10 is now ruining weather forecasts",
+  "webTitle": "BB-8's Windows XP makeover is the stuff of nightmares",
+  "webPublicationDate": "2016-05-19T09:45:06Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/19/bb-8-star-wars-force-awakens-windows-xp-nightmares",
+  "keyword": [
+    {
+      "webTitle": "Windows",
+      "id": "technology/windows",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Microsoft",
+      "id": "technology/microsoft",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Robots",
+      "id": "technology/robots",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Star Wars: The Force Awakens",
+      "id": "film/star-wars-episode-vii",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Computing",
+      "id": "technology/computing",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "HAL 90210",
+      "id": "profile/hal-90210"
+    }
+  ],
+  "guardianId": "technology/2016/may/19/bb-8-star-wars-force-awakens-windows-xp-nightmares"
+}

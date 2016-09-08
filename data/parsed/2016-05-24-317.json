@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/australia-news/2016/may/24/campbell-newman-525000-payout-leak-investigated-by-commission",
+  "id": "2016-05-24-317",
+  "sectionId": "australia-news",
+  "body": "Queensland\u2019s Crime and Corruption Commission has launched an investigation into a Guardian journalist\u2019s sources surrounding disclosures about a costly defamation settlement involving the former premier Campbell Newman. Guardian Australia revealed in May that taxpayers had paid out more than $500,000 to settle a defamation suit over comments by Newman and the former attorney general Jarrod Bleijie about bikies\u2019 lawyers. The suit was brought by solicitors Chris and Daniel Hannay and led to a $525,000 payout. Both Bleijie and Newman declined to publicly apologise, which could have reduced the amount taxpayers were required to pay.   Related: Futile and costly bikie laws have not addressed \u2018organised\u2019 crime but then, they didn\u2019t need to | Richard Ackland    It has now emerged that Bleijie asked the commission to launch an investigation into the disclosure of information. He told state parliament on Tuesday the commission had agreed to investigate. A letter from the commission\u2019s director, Kylee Rumble, to Bleijie said: \u201cI write to advise that the CCC has finalised its assessment of your complaint and has determined to undertake an investigation into the alleged leak of confidential information.\u201d The disclosures about Newman and Bleijie\u2019s settlement have drawn intense public debate. The Queensland premier, Annastacia Palaszczuk, has flagged a review of indemnity guidelines following the revelations. A spokesman for the Crime and Corruption Commission said: \u201cThe Crime and Corruption Commission can confirm that it has completed its assessment of complaints received in relation to the alleged leaking of confidential information relating to a settlement of a defamation case against the former premier and former attorney general. \u201cUpon completion of this assessment, the CCC has commenced an investigation into the matter that was raised in parliament today by the shadow minister for employment, industrial relations, skills and training and fair trading. While the matter remains under investigation, the CCC will make no further comment.",
+  "webTitle": "Campbell Newman $525,000 payout leak investigated by crime commission",
+  "webPublicationDate": "2016-05-24T02:29:52Z",
+  "webUrl": "https://www.theguardian.com/australia-news/2016/may/24/campbell-newman-525000-payout-leak-investigated-by-commission",
+  "keyword": [
+    {
+      "webTitle": "Queensland",
+      "id": "australia-news/queensland",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Campbell Newman",
+      "id": "australia-news/campbell-newman",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Annastacia Palaszczuk",
+      "id": "australia-news/annastacia-palaszczuk",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Queensland politics",
+      "id": "australia-news/queensland-politics",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Paul Farrell",
+      "id": "profile/paul-farrell"
+    }
+  ],
+  "guardianId": "australia-news/2016/may/24/campbell-newman-525000-payout-leak-investigated-by-commission"
+}

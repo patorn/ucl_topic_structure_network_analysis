@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/01/afro-celt-sound-system-the-source-review-daring-triumphant",
+  "id": "2016-05-01-165",
+  "sectionId": "music",
+  "body": "World fusions come no more eclectic than that of the Afro Celts, with their meld of west Africa and the Gaelic diaspora. The group\u2019s first album in 10 years tones down the electronica of earlier incarnations for a more acoustic but no less propulsive approach in which the kora, balafon and chants of Guinea vie with the pipes, flutes and reels of Highland and Ireland, and the dhol drums of bhangra. It\u2019s an often giddy mashup: nowhere else will you hear a female African chorus alongside Gaelic rap and jazz bagpipes. Yet the group also conjures moments of beauty like Mansani Ciss\u00e9/T\u00e0ladh, where harp, kora and lyrical vocals entwine majestically. A daring, triumphant creation.",
+  "webTitle": "Afro Celt Sound System: The Source review \u2013 daring and triumphant",
+  "webPublicationDate": "2016-05-01T07:15:48Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/01/afro-celt-sound-system-the-source-review-daring-triumphant",
+  "keyword": [
+    {
+      "webTitle": "World music",
+      "id": "music/worldmusic",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Folk music",
+      "id": "music/folk",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Neil Spencer",
+      "id": "profile/neilspencer"
+    }
+  ],
+  "guardianId": "music/2016/may/01/afro-celt-sound-system-the-source-review-daring-triumphant"
+}

@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/19/mls-salary-report-kaka-frank-lampard",
+  "id": "2016-05-19-27",
+  "sectionId": "football",
+  "body": "The pay disparity in Major League Soccer was laid bare on Thursday as MLS released its biannual salary figures \u2013 which showed how the league\u2019s top 20 players receive nearly 50% of all guaranteed salary money. The best paid player in MLS is Orlando City\u2019s Kak\u00e1, with nearly $7.2m guaranteed for this season. Sebastian Giovinco, Michael Bradley, Steven Gerrard and Frank Lampard come next, each with guaranteed compensation of more than $6m. David Villa, Andrea Pirlo and Clint Dempsey earn more than $4m each, while Tim Howard should do well at Colorado Rapids, with more than $2.5m guaranteed. The figures were released Thursday by the MLS players union. But a large number of MLS stalwarts earn much less than that. Diego Valeri, one of the league\u2019s most skilful playmakers, earns $550,000 at Portland, and his midfield team-mate Darlington Nagbe earns $500,000. Ignacio Piatti at Montreal is guaranteed $425,000, while Tommy McNamara, Lampard\u2019s team-mate at New York City FC, is paid just $73,500 in base salary, and $85,000 overall. McNamara has impressed with his whole-hearted style; Lampard has not played a league game this season. A successful career in Europe is no guarantee of a large salary, though. Shaun Wright-Phillips, who won the Premier League with Chelsea, will earn $107,500 this year; he earned $83,000 a week in his last contract in England, with QPR. The top 20 highest-paid players in the league account for about $73m, or 48% of the league\u2019s total compensation of $151m. The top 10 players draw in more than 38% of MLS\u2019s total compensation. The data does little to dispel the notion of MLS as a league for haves and have-nots. Toronto FC, LA Galaxy and NYC FC account for about 40% of the league\u2019s paid salary \u2013 about $61m of total salary compensation. Orlando City also pay big wages, but some of the more successful teams of recent times \u2013 Portland Timbers, for example, last season\u2019s MLS cup winners \u2013 spend less on salary, at about $7m. Portland\u2019s biggest earner is Liam Ridgewell, with $1.25m guaranteed for this season. FC Dallas, who impressed last year and have started this season well, guarantee about just over $4m for the entire squad, with Carlos Gruezo their biggest earner with just under $700,000 per year. The Denver Post has compiled a list of team salaries here. Last season MLS raised the salary floor for senior players in 2015, to about $60,000, after it was heavily criticised for the wide pay gap. Thursday\u2019s figures include compensation from each player\u2019s contract with MLS, but don\u2019t include additional payments from sponsorship deals or agreements with the clubs. MLS salaries are limited by a salary cap, but each team is allowed to go over the cap using the \u201cdesignated player\u201d rule, which allows them to bring in big names. David Beckham was the first player signed under the DP rule, but critics have it merely leads to increased inequality.",
+  "webTitle": "MLS's top 20 earners make nearly half of league's wages, salary report shows",
+  "webPublicationDate": "2016-05-19T20:44:18Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/19/mls-salary-report-kaka-frank-lampard",
+  "keyword": [
+    {
+      "webTitle": "MLS",
+      "id": "football/mls",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Kak\u00e1",
+      "id": "football/kaka",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Frank Lampard",
+      "id": "football/frank-lampard",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "US sports",
+      "id": "sport/us-sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "football/2016/may/19/mls-salary-report-kaka-frank-lampard"
+}

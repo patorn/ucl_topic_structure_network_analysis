@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/11/uber-drivers-villages-heathrow-huge-distress",
+  "id": "2016-05-11-232",
+  "sectionId": "technology",
+  "body": "Uber drivers waiting in villages around Heathrow have been blocked from collecting air passengers after causing \u201chuge distress\u201d to local communities, according to the airport\u2019s boss.  The number of arriving passengers requesting a car via the global firm\u2019s app rather than taking an airport taxi has led to a surge in vehicles waiting unofficially in neighbouring villages such as Stanwell and Sipson.  Heathrow\u2019s chief executive, John Holland-Kaye, said: \u201cUber drivers are parking in people\u2019s driveways, leaving a load of rubbish in the drives and causing a huge amount of distress.\u201d Uber has \u201cgeo-fenced\u201d the villages in its app, he said, so that its drivers cannot pick up fares from Heathrow while waiting in those areas.    Related: An Uber for everything: the surge in on-demand apps    Instead, Heathrow has announced it is planning to build a waiting area capable of holding about 800 private hire vehicles on the airport\u2019s northern perimeter road.  A spokesman said the move was in response to \u201cunacceptable behaviour\u201d from Uber drivers that had become a major local concern.  Residents had reported drivers dropping litter, blocking access and urinating in gardens.  Uber said it had voluntarily installed the geo-fencing in response to complaints, and had been urging Heathrow for some time to come up with the alternative parking solution announced on Wednesday.  The move was announced as Heathrow unveiled new proposals, including curbs on night flights, and agreed to meet or exceed the Airports Commission\u2019s conditions, should permission for a third runway be granted by the government.",
+  "webTitle": "Uber drivers waiting in villages near Heathrow cause 'huge distress'",
+  "webPublicationDate": "2016-05-11T11:54:36Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/11/uber-drivers-villages-heathrow-huge-distress",
+  "keyword": [
+    {
+      "webTitle": "Uber",
+      "id": "technology/uber",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Heathrow airport",
+      "id": "uk-news/heathrow-airport",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Transport",
+      "id": "uk/transport",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Air transport",
+      "id": "world/air-transport",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Gwyn Topham",
+      "id": "profile/gwyntopham"
+    }
+  ],
+  "guardianId": "technology/2016/may/11/uber-drivers-villages-heathrow-huge-distress"
+}

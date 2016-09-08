@@ -1,0 +1,96 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/shortcuts/2016/may/15/meep-meep-screen-stars-with-only-one-thing-to-say",
+  "id": "2016-05-15-89",
+  "sectionId": "film",
+  "body": "Sean Penn is one of the defining actors of our generation. A two-time Oscar-winner, his presence alone can add nuance and gravitas to the lightest of projects. These projects now include The Angry Birds Movie, in which all he is asked to do is growl. It\u2019s a wonderful growl, full of depth and sorrow, but where does Penn stand among history\u2019s other one-note characters? Terence            Project: The Angry Birds Movie.Portrayed by: Sean Penn.Line: \u201cGrrr.\u201d What does it mean? \u201cDear distressingly spherical green pigs, your abduction and subsequent housing of my unborn children inside your bizarrely dynamite-strewn shacks will not stand. I may look like a flying tumour, but my determination is real. Sirs, prepare to die.\u201d Groot            Project: Guardians of the Galaxy.Portrayed by: Vin Diesel.Line: \u201cI am Groot.\u201d What does it mean? \u201cI am a tree. I do not adhere to the basic principles of time. I exist outside the realms of your petty ephemera. Chop me down and I will simply resprout. I have seen so much that all I can be certain of is my name. I am Groot. We are Groot.\u201d Hodor            Project: Game of Thrones.Portrayed by: Kristian Nairn.Line: \u201cHodor.\u201d What does it mean? \u201cMy name is not Hodor. Hodor is simply the only word I choose to say, thanks to a great, unseen trauma in my past. However, I am strong and loyal, and the actor who plays me can\u2019t believe his bloody luck.\u201d Road Runner            Project: Looney Tunes.Portrayed by: Mel Blanc.Line: \u201cMeep meep.\u201d What does it mean? \u201cI am the worst cartoon character in the history of animation. I am perfect and unobtainable. Look at this idiot coyote, with his madcap schemes and human flaws. He is a fool, and you are a fool. If you have ever related to me, even in the smallest way, you are probably a sociopath, and you should be ashamed of yourself.\u201d Matt Damon            Project: Team America: World Police.Portrayed by: Trey Parker.Line: \u201cMatt Damon.\u201d What does it mean? \u201cAlong with Sean Penn, I represent the stereotype of outwardly caring but inwardly self-absorbed celebrity. Although I desperately want to be a part of Hollywood\u2019s liberal agenda, I am doomed forever to repeat my own name in a funny voice.\u201d Annyong Bluth            Project: Arrested Development.Portrayed by: Justin Lee.Line: \u201cAnnyong.\u201d What does it mean? \u201cHello. That\u2019s all it means. It isn\u2019t even my name. I\u2019m just saying \u2018Hello\u2019 in Korean, but this dysfunctional family of entitled nitwits haven\u2019t even taken the time to look beyond my basic courtesy. This joke gets old fast, which is why I don\u2019t appear much after series one.\u201d Beaker            Project: The Muppets.Portrayed by: Richard Hunt.Line: \u201cMeep.\u201d What does it mean? \u201cI have shut down. Years of abuse at the hands of Dr Bunsen Honeydew have caused me to withdraw so far into myself that he can no longer hurt me. Blow me up all you like, Honeydew. Set fire to my hair again. You can\u2019t hurt me, because I barely exist. I am a silent, eternal anguished howl in Muppet form.\u201d Maggie Simpson            Project: The Simpsons.Portrayed by: Gabor Csupo, Liz Georges and Matt Groening.Line: A dummy suck. What does it mean? \u201cI am young, and yet I see all. Although my personality hasn\u2019t sufficiently formed to take in the chronic dysfunction that propels this family, know that I am always watching, and that one day I will find a way out.\u201d",
+  "webTitle": "Meep meep! Screen stars with only one thing to say",
+  "webPublicationDate": "2016-05-15T15:00:09Z",
+  "webUrl": "https://www.theguardian.com/film/shortcuts/2016/may/15/meep-meep-screen-stars-with-only-one-thing-to-say",
+  "keyword": [
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Sean Penn",
+      "id": "film/seanpenn",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Angry Birds",
+      "id": "technology/angry-birds",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Television",
+      "id": "culture/television",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Television & radio",
+      "id": "tv-and-radio/tv-and-radio",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "The Simpsons",
+      "id": "tv-and-radio/the-simpsons",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "US television",
+      "id": "tv-and-radio/us-television",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Animation",
+      "id": "tv-and-radio/animation",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Game of Thrones",
+      "id": "tv-and-radio/game-of-thrones",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Team America: World Police",
+      "id": "film/team-america-world-police",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "The Muppets",
+      "id": "culture/the-muppets",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "The Muppets",
+      "id": "film/the-muppets",
+      "sectionId": "film",
+      "sectionName": "Film"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Stuart Heritage",
+      "id": "profile/stuart-heritage"
+    }
+  ],
+  "guardianId": "film/shortcuts/2016/may/15/meep-meep-screen-stars-with-only-one-thing-to-say"
+}

@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/16/journey-sue-monster-energy-drinks",
+  "id": "2016-05-16-274",
+  "sectionId": "music",
+  "body": "Journey simply won\u2019t stop believin\u2019 in the power of their lawyers. The US band are suing the Monster energy drinks company for $500,000 (\u00a3350,000), claiming the firm breached a contract when it cancelled a booking for them to appear at the 2016 Consumer Electronics Show, which took place in Las Vegas in January. According to The Hollywood Reporter, Journey\u2019s attorney Howard King filed the suit on Friday 13 May, claiming the band\u2019s appearance was cancelled when Monster Inc realised it did not have the funds to pay them.   Related: Don't Stop Believin': the power ballad that refused to die    The suit states that the group had signed a deal whereby they would be paid $500,000, even if their appearance was cancelled. The deal was signed in October, but a month later the gig was pulled, with no money, only an apology, given. Journey want the $500,000 they were guaranteed, plus pre-judgment interest and legal costs. This isn\u2019t the first time Monster has found itself facing musicians\u2019 lawyers. In June 2014, the company was ordered to pay $1.7m (\u00a31m) in damages to the Beastie Boys \u2013 with a further $668,000 in costs awarded a year later \u2013 after infringing the group\u2019s copyright by using a five-song Beasties \u201cmegamix\u201d in a promotional video. Adam Yauch of the Beastie Boys, who died in 2012, had specified in his will that the group\u2019s music was not to be used for advertising.",
+  "webTitle": "Journey sue Monster for $500,000 over cancelled gig",
+  "webPublicationDate": "2016-05-16T09:41:34Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/16/journey-sue-monster-energy-drinks",
+  "keyword": [
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Pop and rock",
+      "id": "music/popandrock",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian music",
+      "id": "profile/guardianmusic"
+    }
+  ],
+  "guardianId": "music/2016/may/16/journey-sue-monster-energy-drinks"
+}

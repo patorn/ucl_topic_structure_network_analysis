@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/australia-news/2016/may/03/coalition-sells-50bn-infrastructure-plan-new-spending-709m",
+  "id": "2016-05-03-273",
+  "sectionId": "australia-news",
+  "body": "The Turnbull government has spruiked a $50bn national infrastructure plan in its election budget but the new spend in Tuesday\u2019s statement is $709m for two projects. The government has set aside \u201cup to\u201d $594m worth of new equity for the Australian Track Rail Corporation to progress an inland rail project that will ultimately connect Brisbane and Melbourne. The capital allocation for the project covers land acquisition, the continuation of pre-construction activity and \u201cdue diligence\u201d.   Related: Infrastructure funds spent on dubious projects in marginal seats, report says    It also includes $3.8m funding for \u201cmarket testing to examine opportunities to optimise private- sector involvement in delivering and financing inland rail\u201d. The government has previously flagged value capture financing as a means of funding transport projects, which is a type of financing that recovers some or all of the of the value that public infrastructure generates for private owners. The government has also allocated $115m for preparatory works at the second Sydney airport site of Badgerys Creek. The commitment includes $26.2m to undertake concept design for a rail link to the site. The budget papers say the money will provide specialist advice on planning and development of the project including \u201congoing management and security of the site, minor land acquisitions and design work for the provision of utilities\u201d. Separately to the two projects, there is a $2bn scheme for new dams and pipelines, which is a concessional loan facility. The treasurer, Scott Morrison, used his budget address to point to 180 road projects under construction. \u201cIn this budget we are adding new commitments for the Ipswich motorway, Monash freeway, Murray basin freight rail and the Perth freight link,\u201d he said on Tuesday night. The government is also using the Abbott government\u2019s asset recycling initiative \u2013 a program that encouraged state governments to sell assets and invest the proceeds in new infrastructure \u2013 to fund urban rail projects in Sydney and Melbourne. Tuesday\u2019s budget also pulled $162.7m out of uncommitted contingency funding for infrastructure programs and booked the savings \u201cto fund new policy priorities in the infrastructure and regional development portfolio\u201d.",
+  "webTitle": "Coalition sells $50bn infrastructure plan, but new spending only $709m",
+  "webPublicationDate": "2016-05-03T09:45:11Z",
+  "webUrl": "https://www.theguardian.com/australia-news/2016/may/03/coalition-sells-50bn-infrastructure-plan-new-spending-709m",
+  "keyword": [
+    {
+      "webTitle": "Australian budget 2016",
+      "id": "australia-news/australian-budget-2016",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australian politics",
+      "id": "australia-news/australian-politics",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Scott Morrison",
+      "id": "australia-news/scott-morrison",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Air transport",
+      "id": "world/air-transport",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Rail transport",
+      "id": "world/rail-transport",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Katharine Murphy",
+      "id": "profile/katharine-murphy"
+    }
+  ],
+  "guardianId": "australia-news/2016/may/03/coalition-sells-50bn-infrastructure-plan-new-spending-709m"
+}

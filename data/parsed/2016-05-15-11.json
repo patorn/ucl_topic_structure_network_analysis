@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/us-news/2016/may/15/nebraska-republicans-resolution-donald-trump",
+  "id": "2016-05-15-11",
+  "sectionId": "us-news",
+  "body": "At the Nebraska Republican convention on Saturday, a resolution condemning \u201cdegrading remarks toward women, minorities and other people by Republican elected office holders or party officials, including candidates for president of the United States\u201d was quashed.    Related: In Nebraska's key Walmart parking lot, voters dissatisfied with election choice    The resolution, which fell in the name of party unity, had been intended as an implicit rebuke to Donald Trump, the party\u2019s presumptive presidential nominee. The Republicans were meeting to design their state party platform ahead of the national convention in July, at which delegates will create the campaign platform with Trump. However, state school board member Pat McPherson, who has a history of controversy surrounding racial remarks and has faced allegations of inappropriate behavior towards a woman, made the motion to put the resolution aside. Last year it was reported that repeated references to Barack Obama as \u201ca half-breed\u201d had appeared on McPherson\u2019s blog. The Republican activist insisted that an anonymous contributor wrote the posts in question. He declined to identify that person. A majority of the state school board called for McPherson to resign, as did Republican Nebraska governor Pete Ricketts and both its Republican senators, Ben Sasse and Deb Fischer. It was not McPherson\u2019s first brush with scandal. In 2003, he was forced to step down as a county election commissioner after being charged with third-degree sexual assault and disturbing the peace, over an incident at a Red Robin restaurant. McPherson was acquitted of the charges, which involved allegations that he groped a 17-year-old waitress. Another man, then vice-president of Omaha city council Chuck Sigerson, was charged with one count of disturbing the peace. That charge was dismissed. On Saturday, the Nebraska GOP passed overwhelmingly a resolution condemning any third-party bid in opposition to both Trump and Hillary Clinton.  This was seen as a rebuke to Sasse, the state\u2019s junior senator, a vocal opponent of Trump who has pledged never to support the presumptive nominee.  In the Nebraska primary this week, held after Ted Cruz and John Kasich ended their campaigns, Trump received 61.4% of the vote.",
+  "webTitle": "Nebraska Republicans drop resolution meant as rebuke to Trump",
+  "webPublicationDate": "2016-05-15T22:28:51Z",
+  "webUrl": "https://www.theguardian.com/us-news/2016/may/15/nebraska-republicans-resolution-donald-trump",
+  "keyword": [
+    {
+      "webTitle": "Nebraska",
+      "id": "us-news/nebraska",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Republicans",
+      "id": "us-news/republicans",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US elections 2016",
+      "id": "us-news/us-elections-2016",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US politics",
+      "id": "us-news/us-politics",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Donald Trump",
+      "id": "us-news/donaldtrump",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ben Jacobs",
+      "id": "profile/ben-jacobs"
+    }
+  ],
+  "guardianId": "us-news/2016/may/15/nebraska-republicans-resolution-donald-trump"
+}

@@ -1,0 +1,96 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/25/major-fishing-deal-offers-protection-to-arctic-cod-mcdonalds-tesco",
+  "id": "2016-05-25-209",
+  "sectionId": "environment",
+  "body": "Fishermen and seafood suppliers struck a major deal on Wednesday that will protect a key Arctic region from industrial fishing for cod.  Companies including McDonald\u2019s, Tesco, Birds Eye, Europe\u2019s largest frozen fish processor, Espersen, Russian group Karat, and Fiskeb\u00e5t, which represents the entire Norwegian oceangoing fishing fleet, have said their suppliers will refrain from expanding their cod fisheries further into pristine Arctic waters. \u201cFrom the 2016 season the catching sector will not expand their cod fishing activities with trawl gear into those areas where regular fishing has not taken place before,\u201d the deal reads. The agreement follows an investigation by Greenpeace in March which revealed that suppliers of cod to major British seafood brands were taking advantage of melting Arctic ice to push further north with fleets of destructive giant bottom trawlers.  Using satellite tracking data, it found that an increasing number of Russian and Norwegian trawlers had fished in the northern Barents Sea around Svalbard in the past three years, an area deemed by scientists to be ecologically significant.    Related: Major British seafood brands linked to fishing in fragile Arctic area    The region, which includes the Svalbard archipelago - the \u201cArctic Galapagos\u201d, is home to vulnerable species including the polar bear, bowhead whale and Greenland shark. Experts consider bottom trawlers - often dubbed giant \u201cbulldozers\u201d - to be a highly destructive fishing method, which is already responsible for damaging up to half of Norway\u2019s coldwater corals reefs. Marine conservation biologist Prof Callum Roberts said: \u201cOver the last 200 years it has converted once rich and complex seabed habitats to endless expanses of shifting sands and mud. Areas of the Arctic protected by sea ice represent one of the last pristine refuges from trawling and need urgent protection to prevent them from suffering the same fate.\u201d The area of the Barents Sea covered by the agreement is adjacent to major fishing grounds where at least 70% of all the Atlantic cod that ends up on dinner plates around the world comes from. The agreement, which spans the whole supply chain and covers an area twice the size of France, is the first time the seafood sector has voluntarily imposed limitations to industrial fishing in the Arctic. Any fishing companies operating in these pristine Arctic waters will not be able to sell their cod to the brands supporting this agreement.     Map of the area of northern Barents Sea including the waters around Svalbard where some of the world\u2019s largest seafood and fishing companies have committed not to expand their search for cod into. Photograph: Greenpeace    Greenpeace UK campaigner, Daniela Montalto, said: \u201cThis is a major step in the right direction. This unprecedented alliance have today taken a stand for the fragile Arctic environment, and set an important precedent for other industries eyeing up this region. The challenge for these companies is now to deliver on their commitment to Arctic protection and show real results out on the water. The melting ice should be a stark warning of the dangers of climate change, not an opportunity to plunder this fragile ecosystem.\u201d Giles Bolton, responsible sourcing director for Tesco, said: \u201cOur customers tell us it\u2019s important they can be sure the fish on our shelves is caught in a way that doesn\u2019t harm the ocean environment, and this landmark agreement means vulnerable marine life in the Barents and Norwegian seas will be protected. We will keep working with our suppliers, relevant authorities and NGOs to help safeguard this unique marine habitat for future generations.\u201d The deal comes after a record low for Arctic sea ice this winter. A huge expanse of the Arctic sea never froze over and remained open water as a season of freakishly high temperatures produced deep \u2013 and likely irreversible \u2013 changes on the far north.   Arctic sea ice loss   Currently there is no law in place to protect Arctic areas that were once covered by ice. Greenpeace welcomed the \u201ctemporary stop-gap\u201d the agreement brought but warned that large areas of water left open for longer periods made an urgent case for legal protection by the Norwegian government.  \u201cThe Norwegian government must now acknowledge the growing resistance to reckless exploitation of the fragile Arctic environment, not only from the millions of people around the world who want the Arctic protected but also from the corporate world. Now is the time to take concrete steps towards legal protection of Svalbard and the northern Barents Sea so that Norway can meet its international obligation for marine protection,\u201d Montalto said.",
+  "webTitle": "Major fishing deal offers protection to Arctic waters",
+  "webPublicationDate": "2016-05-25T10:27:30Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/25/major-fishing-deal-offers-protection-to-arctic-cod-mcdonalds-tesco",
+  "keyword": [
+    {
+      "webTitle": "Fishing",
+      "id": "environment/fishing",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Food",
+      "id": "environment/food",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Marine life",
+      "id": "environment/marine-life",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Wildlife",
+      "id": "environment/wildlife",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Animals",
+      "id": "world/animals",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Conservation",
+      "id": "environment/conservation",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Fish",
+      "id": "lifeandstyle/fish",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Food & drink",
+      "id": "lifeandstyle/food-and-drink",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Seafood",
+      "id": "lifeandstyle/seafood",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Arctic",
+      "id": "world/arctic",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jessica Aldred",
+      "id": "profile/jessicaaldred"
+    }
+  ],
+  "guardianId": "environment/2016/may/25/major-fishing-deal-offers-protection-to-arctic-cod-mcdonalds-tesco"
+}

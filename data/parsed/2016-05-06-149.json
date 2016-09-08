@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/06/tim-hecker-review-st-john-at-hackney-london",
+  "id": "2016-05-06-149",
+  "sectionId": "music",
+  "body": "For a hotly tipped band with plenty of airplay, filling this 1,400-capacity converted church would be an impressive career marker. For an experimental noise artist, whose music shuns rhythm or melody in favour of dense crests of sound, it\u2019s quite the feat; cheering evidence that audiences are prepared to wander ever further out of their comfort zones in search of enlightenment. Hecker\u2019s music, inspired by Renaissance masses, certainly purports to offer a contemplation of the divine in the way that more conventional forms do not. By shrouding the venue in darkness and pumping it full of dry ice, he sets the conditions for a transformative ritual. But unlike, say, Sunn O))), there is no sense of spectacle to accompany the noise assault. The darkness is presumably intended to focus your attention on the music, but the lack of identifiable human contribution is glaring.            Hecker\u2019s music does contain traces of organic matter \u2013 bells, woodwind, voices \u2013 but they are pummelled by digital distortion in a way that flattens the sound. It is punishingly loud but rarely enveloping. Occasionally a ghostly techno pulse emerges to pull everything together, and when the implied harmonics of Stigmata I cascade down like church bells, you get a brief glimpse of what Hecker is hoping to achieve. There were rumours that tonight\u2019s gig would feature the Icelandic choir whose celestial harmonies illuminate his current acclaimed album, Love Streams. But Hecker omits standout numbers such as Castrati Stack entirely and ends his set abruptly after 45 largely uninvolving minutes. It feels like an opportunity squandered.",
+  "webTitle": "Tim Hecker review \u2013 punishingly loud and rarely enveloping",
+  "webPublicationDate": "2016-05-06T13:49:06Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/06/tim-hecker-review-st-john-at-hackney-london",
+  "keyword": [
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Dance music",
+      "id": "music/dance-music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Electronic music",
+      "id": "music/electronicmusic",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Sam Richards",
+      "id": "profile/samrichards"
+    }
+  ],
+  "guardianId": "music/2016/may/06/tim-hecker-review-st-john-at-hackney-london"
+}

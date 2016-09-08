@@ -1,0 +1,24 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/25/police-searching-missing-man-two-bodies-torquay",
+  "id": "2016-05-25-191",
+  "sectionId": "uk-news",
+  "body": "Police searching for a man who has been missing since Saturday have found two bodies in woods in Torquay. A body, believed to be 39-year-old David Cauldwell, and other human remains were discovered around 200 metres apart on the coastal path where there are signs of a recent landslide. Devon and Cornwall police say they do not believe the two finds are related. Cauldwell was last seen leaving the Artful Dodger pub in Teignmouth Road, Torquay, at around midnight on Saturday. He was reported missing on Sunday, prompting wide-ranging searches by specialist police teams, Dartmoor Rescue Group, the coastguard helicopter and Torbay RNLI.  On Tuesday, at around 8.45pm, officers found human remains, believed to have been there for a considerable amount of time. Items discovered with the remains are being used to assist officers with identification. The second body was discovered at around 8.10am on Wednesday. A police spokeswoman said: \u201cDavid Cauldwell\u2019s family have been informed of the developments in relation to the second body but formal identification has not yet taken place. \u201cThe area has been cordoned off and a full investigation is being carried out to establish the circumstances of both deaths.\u201d She said support would be offered to families and friends when the identities had been confirmed.",
+  "webTitle": "Police searching for missing man find two bodies in Torquay",
+  "webPublicationDate": "2016-05-25T11:33:08Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/25/police-searching-missing-man-two-bodies-torquay",
+  "keyword": [
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Haroon Siddique",
+      "id": "profile/haroonsiddique"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/25/police-searching-missing-man-two-bodies-torquay"
+}

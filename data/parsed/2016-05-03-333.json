@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/money/2016/may/03/endsleigh-wont-refund-insurance-policy-travel-zika-virus",
+  "id": "2016-05-03-333",
+  "sectionId": "money",
+  "body": "My husband and I booked to do volunteering work in Bolivia in late May. Later we discovered that we are expecting our first child and, due to the risk of contracting the Zika virus, our GP advised us to cancel the trip. Despite a letter from the doctor confirming this, our insurer Endsleigh is refusing to reimburse us. It claims the policy does not cover cases of pregnancy without complications. I would argue that the pregnancy is complicated by the presence of Zika, and the fact that I have been medically advised not to travel. VM, London Endsleigh\u2019s website promises cover for trips cancelled due to an \u201cunforeseen circumstance\u201d, but it seems yours doesn\u2019t tick the right boxes. \u201cThis policy doesn\u2019t cover cancelled or delayed trips due to the possibility of contracting an illness ,\u201d the company says. If you did travel your policy would not be valid anyway, because the Foreign Office advises pregnant women to heed public health warnings against non-essential travel to Bolivia. \u201cMost policies do not cover travel which is against directives issued by the FCO,\u201d says Endsleigh. Given that you booked before the Zika virus was common knowledge, and before you knew you were pregnant, its stance seems unreasonable \u2013 and unusual. The Association of British Insurers says most insurers will consider a refund if you have a letter from a doctor. Your next step is to seek a refund from the airline and the company which organised your volunteering. Failing that, write to Endsleigh, and if it won\u2019t compromise then go to the Financial Ombudsman. If you need help email Anna Tims at your.problems@observer.co.uk or write to Your Problems, The Observer, Kings Place, 90 York Way, London N1 9GU. Include an address and phone number.",
+  "webTitle": "Endsleigh won\u2019t refund our insurance policy despite a warning not to travel",
+  "webPublicationDate": "2016-05-03T06:00:47Z",
+  "webUrl": "https://www.theguardian.com/money/2016/may/03/endsleigh-wont-refund-insurance-policy-travel-zika-virus",
+  "keyword": [
+    {
+      "webTitle": "Travel insurance",
+      "id": "money/travelinsurance",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Consumer rights",
+      "id": "money/consumer-rights-money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Consumer affairs",
+      "id": "money/consumer-affairs",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Zika virus",
+      "id": "world/zika-virus",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Insurance",
+      "id": "money/insurance",
+      "sectionId": "money",
+      "sectionName": "Money"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Anna Tims",
+      "id": "profile/annatims"
+    }
+  ],
+  "guardianId": "money/2016/may/03/endsleigh-wont-refund-insurance-policy-travel-zika-virus"
+}

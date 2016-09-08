@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/04/little-richard-denies-claims-of-poor-health-illness-untrue",
+  "id": "2016-05-04-251",
+  "sectionId": "music",
+  "body": "Little Richard has denied claims that he is \u201cclinging to life\u201d. According to his attorney, William Sobel, who has represented him for 30 years, reports of the singer\u2019s poor health are untrue. \u201cI just spoke to him today,\u201d Sobel told Rolling Stone. \u201cHe said, \u2018You know, I want you to talk to [the press] because I\u2019m really annoyed this thing started on Facebook. Not only is my family not gathering around me because I\u2019m ill, but I\u2019m still singing. I don\u2019t perform like I used to, but I have my singing voice, I walk around, I had hip surgery a while ago but I\u2019m healthy.\u2019\u201d Rumours concerning the 83-year-old rock\u2019n\u2019roll legend\u2019s health were reported by several sources earlier this week, following Bootsy Collins\u2019 seemingly misinformed message on Facebook on 28 April:  \u201cA friend, a legend & some say the true King of Rock & Roll,\u201d he wrote. \u201cLil-Richard needs our love & understanding right now. He is not in the best of health so I ask all the Funkateers to lift him up.\u201d Although Little Richard continues to sing, he avoids the spotlight and hasn\u2019t performed live in two years. \u201cHe had hip surgery,\u201d Sobel told Rolling Stone. \u201cHe\u2019s 83. I don\u2019t know how many 83-year-olds still get up and rock it out every week, but in light of the rumours, I wanted to tell you that he\u2019s vivacious and conversant about a ton of different things and he\u2019s still very active in a daily routine. I used to represent Prince and he just engaged me in all kinds of Prince conversations, calling him a \u2018creative genius\u2019.\u201d Little Richard, real name Richard Wayne Penniman, is cited as one of the forefathers of rock\u2019n\u2019roll. Admitted into the Rock and Roll Hall of Fame at its inaugural ceremony in 1986, he released his last album, Little Richard Meets Masayoshi Takanaka, in 1992.",
+  "webTitle": "Little Richard denies claims that he\u2019s 'clinging to life'",
+  "webPublicationDate": "2016-05-04T10:19:41Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/04/little-richard-denies-claims-of-poor-health-illness-untrue",
+  "keyword": [
+    {
+      "webTitle": "Little Richard",
+      "id": "music/little-richard",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Pop and rock",
+      "id": "music/popandrock",
+      "sectionId": "music",
+      "sectionName": "Music"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian music",
+      "id": "profile/guardianmusic"
+    }
+  ],
+  "guardianId": "music/2016/may/04/little-richard-denies-claims-of-poor-health-illness-untrue"
+}

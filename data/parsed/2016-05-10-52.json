@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/10/uber-drivers-guild-monthly-meetings-executives",
+  "id": "2016-05-10-52",
+  "sectionId": "technology",
+  "body": "Uber has agreed to create an organization called the Drivers\u2019 Guild that will hold monthly meetings with Uber executives, heading off a call for more formal unionization.    Related: Uber trials penalty fees for late passengers    The guild, part of the International Association of Machinists and Aerospace Workers, will not have a contract, will not negotiate fares, and will have no say in the benefits offered to Uber drivers. Independent contractors are not typically allowed to create unions. However, the legal status of Uber drivers has been hotly contested. In April the company settled two lawsuits over whether or not Uber drivers were legally employees at an initial settlement of $84m with the possibility of another payment of $16m; on settling those suits, the company made sure to include the condition that it would be allowed to continue to classify its drivers as independent contractors. But if the company\u2019s workers are found to fit the legal definition of an employee, Uber will have an organizational structure in place with the Drivers\u2019 Guild. James Conigliaro Jr, the Drivers\u2019 Guild founder, told the New York Times that the guild would be able to try to unionize workers at their request. As it stands, the guild will at least be able to appeal against dismissals. Uber has recently published a driver deactivation policy which lists reasons an Uber driver could get kicked off the app; the company has also begun using an appeals board in Seattle to hear the complaints of drivers who believe they have been cut off unfairly. \u201cThere\u2019s no one-size-fits-all approach that can address the myriad different needs of the drivers using our app,\u201d wrote David Plouffe, former campaign manager for President Obama and now senior VP of policy and strategy for Uber. \u201cIt\u2019s why creative, individually tailored solutions \u2013 like today\u2019s agreement with the Machinists Union \u2013 are the best way forward. \u201cWe look forward to working closely with the guild over the years ahead.\u201d",
+  "webTitle": "Uber to create drivers' guild to hold monthly meetings with executives",
+  "webPublicationDate": "2016-05-10T19:22:00Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/10/uber-drivers-guild-monthly-meetings-executives",
+  "keyword": [
+    {
+      "webTitle": "Uber",
+      "id": "technology/uber",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "US unions",
+      "id": "us-news/us-unions",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Sam Thielman",
+      "id": "profile/sam-thielman"
+    }
+  ],
+  "guardianId": "technology/2016/may/10/uber-drivers-guild-monthly-meetings-executives"
+}

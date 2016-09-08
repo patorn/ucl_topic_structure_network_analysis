@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/04/horse-racing-tips-thursday-5-may",
+  "id": "2016-05-04-122",
+  "sectionId": "sport",
+  "body": "Chester 2.10 Felix De Vega 2.40 Cannock Chase 3.10 US Army Ranger 3.45 Arcanada 4.20 Mehmas 4.55 Reflektor (nap) 5.25 Lord Franklin (nb)   Related: BHA defends ban on Paul Gilligan despite clear appeal risk     Carlisle 5.40 Violoniste 6.10 Gurkha Brave 6.40 Jovial Joey 7.10 Looking Well 7.40 Baraboy 8.10 Nortonthorpelegend 8.40 Mutdula Newton Abbot 2.20 Whipcord 2.50 Carobello 3.20 Starchitect 3.55 Bilbrook Blaze 4.30 Zulu Oscar 5.05 Rye House 5.35 Delta Borget Uttoxeter 1.30 Phobiaphiliac 2.00 Wotzizname 2.30 Tara Mac 3.00 Loughlader 3.30 Milly Malone 4.05 Penmore Mill 4.40 China Grey 5.15 G For Ginger Wincanton 5.50 Kentucky Star 6.20 Rainy City 6.50 Wizards Bridge 7.20 Memory Of Light 7.50 Widow On The Run 8.20 Glimpse Of Gold",
+  "webTitle": "Horse racing tips: Thursday 5 May",
+  "webPublicationDate": "2016-05-04T15:37:13Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/04/horse-racing-tips-thursday-5-may",
+  "keyword": [
+    {
+      "webTitle": "Horse racing tips",
+      "id": "sport/horse-racing-tips",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Horse racing",
+      "id": "sport/horse-racing",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Greg Wood",
+      "id": "profile/gregwood"
+    }
+  ],
+  "guardianId": "sport/2016/may/04/horse-racing-tips-thursday-5-may"
+}

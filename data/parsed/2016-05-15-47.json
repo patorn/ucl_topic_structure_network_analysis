@@ -1,0 +1,49 @@
+{
+  "apiUrl": "https://content.guardianapis.com/science/2016/may/15/latin-scholars-line-up-their-auxiliaries",
+  "id": "2016-05-15-47",
+  "sectionId": "science",
+  "body": "Mea culpa, mea culpa, mea minima culpa: Michael Bulley (Letters, 10 May) is right to correct me \u2013 Latin does have the modal verbs he names, which cover possibility (possum), permission (licet) and obligation (debeo, oportet); these and other aspects of modality can also be expressed through the (fusional) subjunctive mood. I should have been more specific: Latin does not have modal auxiliary verbs such as English can, could, may, might, must, shall, should, will, would; the only auxiliary (but non-modal) verb in Latin is esse (to be) which is used to form the present perfect, future perfect and past perfect passive tenses of regular transitive verbs, and corresponding forms of deponent and semi-deponent verbs.Greg BrooksEmeritus professor of education, Sheffield  \u2022 Join the debate \u2013 email guardian.letters@theguardian.com",
+  "webTitle": "Latin scholars line up\u00a0their auxiliaries | Letters",
+  "webPublicationDate": "2016-05-15T18:33:57Z",
+  "webUrl": "https://www.theguardian.com/science/2016/may/15/latin-scholars-line-up-their-auxiliaries",
+  "keyword": [
+    {
+      "webTitle": "Language",
+      "id": "science/language",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Languages",
+      "id": "education/languages",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Education",
+      "id": "education/education",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Classics and ancient history",
+      "id": "education/classics",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "English and creative writing",
+      "id": "education/english",
+      "sectionId": "education",
+      "sectionName": "Education"
+    }
+  ],
+  "authors": [],
+  "guardianId": "science/2016/may/15/latin-scholars-line-up-their-auxiliaries"
+}

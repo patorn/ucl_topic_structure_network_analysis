@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/13/english-teams-europe-champions-league-europa",
+  "id": "2016-05-13-94",
+  "sectionId": "football",
+  "body": "So who\u2019s in the Champions League? Leicester City, Tottenham Hotspur and Arsenal have qualified for next season\u2019s group stage. Manchester City will finish fourth and enter the play-off round if they avoid defeat at Swansea or if Manchester United fail to win at home to Bournemouth. United will take that spot if they win and City lose.   Related: Premier League will resist attempts to play Champions League at weekends    But can\u2019t Liverpool qualify as well? Yes, if Liverpool beat Sevilla in Wednesday\u2019s Europa League final they will be in the Champions League group stage. The fourth-placed team in the Premier League would not be affected. How many Europa League places are up for grabs? England has three places, which usually go to the FA Cup winners, Capital One Cup winners and the fifth-placed team but this season it is more complicated. Why the complication? Manchester City\u2019s Capital One Cup win earned a place in the Europa League third qualifying round but their league placing of at least fifth (realistically) will entitle them to a place in the group stage as a minimum, so the League Cup place filters down the table. Two of Manchester City, Manchester United, West Ham United, Southampton and Liverpool will finish fifth and sixth. What about the FA Cup? If Manchester United beat Crystal Palace in the final, having finished in the top six, a Europa League place filters down to seventh. If Palace win they are in the Europa League at the group stage. What other difficulties are there? If Liverpool finish in a Europa League place and win this season\u2019s competition, they go into the Champions League. In those circumstances their Europa League place will not filter down the table. Instead England will have only two clubs in the Europa League. Is it true there could be a play-off to settle a Europa League place? Yes, it\u2019s unlikely but possible that West Ham and Liverpool will face a play-off. They will tie for sixth or seventh place (depending on Southampton\u2019s result) if West Ham lose 1-0 at Stoke and Liverpool win 2-1 at West Brom, or if West Ham lose 2-1 and Liverpool win 3-2 etc. If a Europa League place is at stake, a play-off at a neutral venue will then be required if Liverpool lose to Sevilla.",
+  "webTitle": "Which English teams will be contesting what in Europe next season?",
+  "webPublicationDate": "2016-05-13T16:37:51Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/13/english-teams-europe-champions-league-europa",
+  "keyword": [
+    {
+      "webTitle": "Premier League",
+      "id": "football/premierleague",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Champions League",
+      "id": "football/championsleague",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Europa League",
+      "id": "football/uefa-europa-league",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "football/2016/may/13/english-teams-europe-champions-league-europa"
+}

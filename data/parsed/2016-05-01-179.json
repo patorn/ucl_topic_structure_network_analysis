@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/01/jonathan-harvey-deo-review",
+  "id": "2016-05-01-179",
+  "sectionId": "music",
+  "body": "Jonathan Harvey (1939-2012) had links both with Andrew Nethsingha \u2013 they grew up, decades apart, in the surroundings of St Michael\u2019s College, Tenbury, where Harvey was a chorister and Nethsingha\u2019s father was organist \u2013 and with St John\u2019s College, Cambridge, where Harvey was a student and Nethsingha now directs the choir. This album of liturgical choral music pays wonderful tribute to Harvey. Works include the ecstatic Praise Ye the Lord and Toccata for Organ and Tape, the richly challenging Missa Brevis and several other short works. Harvey used to describe music coming out of silence and dissolving back into it. It\u2019s a good starting point. The Choir of St John\u2019s tackles all with confidence and clarity.",
+  "webTitle": "Jonathan Harvey: Deo CD review \u2013 ecstatic and richly challenging",
+  "webPublicationDate": "2016-05-01T07:00:48Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/01/jonathan-harvey-deo-review",
+  "keyword": [
+    {
+      "webTitle": "Classical music",
+      "id": "music/classicalmusicandopera",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Choral music",
+      "id": "music/choral-music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Fiona Maddocks",
+      "id": "profile/fiona-maddocks"
+    }
+  ],
+  "guardianId": "music/2016/may/01/jonathan-harvey-deo-review"
+}

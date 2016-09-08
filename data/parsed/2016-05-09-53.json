@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/09/gus-poyet-real-betis-head-coach",
+  "id": "2016-05-09-53",
+  "sectionId": "football",
+  "body": "Gus Poyet has been named as the new head coach of Real Betis on a two-year deal. Poyet had been in charge of AEK Athens, but the 47-year-old was recently labelled as \u201cimmoral\u201d by the owner Dimitris Melissanidis after announcing he would be leaving at the end of the season.   Related: Gus Poyet to be sacked by Sunderland after taking final training session    The former Brighton and Sunderland manager will take over a Betis side currently 14th in La Liga with only one game remaining in the season. He was recently linked with Nottingham Forest. A statement from the club read: \u201cReal Betis have signed Uruguayan coach Gustavo Poyet as new Betis coach for the next two seasons. Poyet will be one of the cornerstones of the new sports project headed by Miguel Torrecilla. \u201cReal Betis want to especially thank the work done by Juan Merino and his coaching staff this season, who has managed to ward off the team from the lower part of the division.\u201d Merino will lead the side for the final time in the season-ending clash with Getafe on Sunday, with Poyet due to be unveiled on Wednesday.",
+  "webTitle": "Gus Poyet is named as the Real Betis head coach",
+  "webPublicationDate": "2016-05-09T19:07:13Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/09/gus-poyet-real-betis-head-coach",
+  "keyword": [
+    {
+      "webTitle": "Gus Poyet",
+      "id": "football/gus-poyet",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Real Betis",
+      "id": "football/realbetis",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sunderland",
+      "id": "football/sunderland",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Chelsea",
+      "id": "football/chelsea",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Brighton & Hove Albion",
+      "id": "football/brightonfootball",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "football/2016/may/09/gus-poyet-real-betis-head-coach"
+}

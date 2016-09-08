@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://content.guardianapis.com/stage/2016/may/30/john-avery-obituary",
+  "id": "2016-05-30-71",
+  "sectionId": "stage",
+  "body": "My friend John Avery, who has died aged 89, was general manager of the London Palladium for 20 years until his retirement in 1992. In that time he worked with some of the best in show business \u2013 including Frank Sinatra, Judy Garland, Bing Crosby and Bob Hope. He was also director of all 12 Stoll Moss theatres in London. His elegant flat in Fitzrovia, central London \u2013 a short walk from what he regarded as the best theatre in the world \u2013 was lined with photographs of Hollywood stars. \u201cYour graciousness will long be remembered,\u201d was scrawled over one. It was from Ginger Rogers. But it was the British stars of whom he was fondest \u2013 Bruce Forsyth, Michael Crawford and Les Dawson. Around his fireplace was what he called his royal wall. In 18 years of Royal Variety Performances at the Palladium, he met many members of the royal family. The Queen Mother and Princess Diana were his favourites. Diana would bring her sons up to his office \u201cfor a natter\u201d. John was born in the mining town of Swadlincote in Derbyshire, where his parents, Bill and Doris, ran the Bear Inn. He was bullied at school and left as soon as he could, getting a job as projectionist in the Majestic cinema. He soon became manager and started putting on charity variety shows on Sunday evenings when no screenings were allowed. From there he went on to run the Winter Gardens circus in Skegness, the Birmingham Hippodrome, a chain of cinemas in north London, and the Cambridge theatre before he got his dream job at the Palladium. He had a good word to say about everyone, except for the notoriously difficult Yul Brynner, who starred in The King and I at the Palladium. One of his favourite stories was of a woman who would wait at the stage door every time she went to see the show, hoping to get his autograph. Brynner ignored her, so one night she brought a bunch of flowers, which she tried to hand to him. He brushed her off, so she hit him over the head with them. \u201cIt was the only time I saw the fan hit the shit,\u201d John would say. At his funeral service at St Paul\u2019s, the actors\u2019 church in Covent Garden, John was given a standing ovation. Outside was a sandwich board saying House Full. He was carried out to the organ strains of There\u2019s No Business Like Show Business. John is survived by his brothers Michael and David.",
+  "webTitle": "John Avery obituary",
+  "webPublicationDate": "2016-05-30T16:10:08Z",
+  "webUrl": "https://www.theguardian.com/stage/2016/may/30/john-avery-obituary",
+  "keyword": [
+    {
+      "webTitle": "Theatre",
+      "id": "stage/theatre",
+      "sectionId": "stage",
+      "sectionName": "Stage"
+    },
+    {
+      "webTitle": "Stage",
+      "id": "stage/stage",
+      "sectionId": "stage",
+      "sectionName": "Stage"
+    },
+    {
+      "webTitle": "London",
+      "id": "uk/london",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [],
+  "guardianId": "stage/2016/may/30/john-avery-obituary"
+}

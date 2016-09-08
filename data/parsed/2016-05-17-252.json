@@ -1,0 +1,90 @@
+{
+  "apiUrl": "https://content.guardianapis.com/healthcare-network/2016/may/17/accident-and-emergency-mental-health-crisis",
+  "id": "2016-05-17-252",
+  "sectionId": "healthcare-network",
+  "body": "If you are facing a mental health crisis, sitting in a busy accident and emergency department is unlikely to be the best place for you to be. People with mental health issues are three times as likely to attend A&E and almost five times as likely to be admitted as an emergency. But as the Care Quality Commission reported last year, their experience is not always a positive one, with many A&E departments just not geared up to offer the empathic care they need. In February, the independent Mental Health Taskforce recommended that 24/7 mental health liaison teams \u2013 currently present in only a minority of A&E departments in England \u2013 should be rolled out across the country so that people in crisis can get specialised help at A&E when they need it. In Birmingham, a trailblazing initiative to provide a round-the-clock mental health service to people presenting at A&E and to those admitted to acute hospital beds has been demonstrating the benefits of offering specialist support. An economic review of the Rapid, Assessment, Interface and Discharge (Raid) service revealed it saved the NHS more than \u00a33.5m a year, thanks to reduced hospital admissions and speedier discharges. The service, established in 2009, has inspired a network of 30 other similar services across England; it has since been expanded in Birmingham to offer a specialised psychiatric decision unit, where staff have longer to assess patients outside the A&E target waiting times. Mary Elliffe, associate director of acute and urgent care at Birmingham and Solihull mental health NHS foundation trust, says patients with mental-health issues have historically not always had a good experience in A&E. \u201cThere\u2019s been quite a poor tolerance for them and quite a poor attitude towards them,\u201d she says. \u201cThere\u2019s been a feeling that people with mental health issues have no right to be there.\u201d Paula Reid, policy manager at the charity Rethink Mental Illness, says good A&E mental health liaison teams do a great job, but it is crucial that earlier interventions are available in the community. \u201cThings need to be in place so we are not waiting until the stage where the police or A&E are the only options,\u201d she says. In Birmingham, plans are in place to extend the Raid service to do just that. The trust has just been awarded \u00a31.8m by NHS England to develop a digital platform for people at risk of a mental health crisis to help them to manage their conditions in the community. Professor George Tadros, clinical lead for Raid, says: \u201cPeople end up in A&E because it\u2019s their only option. Using digital technology will mean they can be in communication with us before a crisis happens and we can help them before they walk into emergency.\u201d Brighton & Hove: \u2018When people call, they have access to someone with a lot of experience and understanding\u2019 A year ago, Brighton and Hove had one of the highest national rates for people detained in police custody when they were struggling with a mental health crisis. An initiative designed to offer more support for those presenting at A&E is helping to turn that around. Sussex Partnership NHS foundation trust\u2019s Mental Health Rapid Response Service (MHRRS) grew out of an earlier project to cut the number of inappropriate admissions for people with mental-health issues to A&E.  The service, which now offers a 24/7 phone line is still having a big impact on A&E admission rates \u2013 its figures suggest 91% of more than 300 out-of-hours calls taken in the first three months this year meant people did not need to spend time in A&E. But partnership working with the police, who can refer people to the service, has also seen those with mental health issues in Brighton and Hove taken into custody fall from 158 in 2014-15 to 31 in 2015-16. Steve Eaton, MHRSS team leader, says the service, led by specialist mental health nurses, gets 600 to 700 calls a month, with patients able to be seen in a community mental health setting or at home. \u201cWhen people call us, they have quick access to a mental health practitioner who is aware of what\u2019s available, has a lot of experience working with mental health crisis and has an understanding of their issues.\u201d  Trust clinical director Dr Gurprit Pannu says the service has had a \u201cmassive impact\u201d on quality of care for people who might otherwise have ended up in custody and those who would benefit from specialised mental health services rather than A&E.  \u201cWhen people are diverted straight to mental health services, it\u2019s quite clearly an improvement,\u201d he says. \u201cIt\u2019s vital we get it right, as that\u2019s when people first form an impression of what mental health services are and that impacts on whether they will engage with us and trust us. Join the Healthcare Professionals Network to read more pieces like this. And follow us on Twitter (@GdnHealthcare) to keep up with the latest healthcare news and views.",
+  "webTitle": "How A&E could offer round-the-clock support to mental health patients",
+  "webPublicationDate": "2016-05-17T09:49:02Z",
+  "webUrl": "https://www.theguardian.com/healthcare-network/2016/may/17/accident-and-emergency-mental-health-crisis",
+  "keyword": [
+    {
+      "webTitle": "Healthcare Network",
+      "id": "healthcare-network/healthcare-network",
+      "sectionId": "healthcare-network",
+      "sectionName": "Healthcare Professionals Network"
+    },
+    {
+      "webTitle": "Mental health",
+      "id": "healthcare-network/mental-health",
+      "sectionId": "healthcare-network",
+      "sectionName": "Healthcare Professionals Network"
+    },
+    {
+      "webTitle": "Mental health",
+      "id": "society/mental-health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Social Care Network",
+      "id": "social-care-network/social-care-network",
+      "sectionId": "social-care-network",
+      "sectionName": "Social Care Network"
+    },
+    {
+      "webTitle": "Social care",
+      "id": "society/social-care",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Emergency services",
+      "id": "society/emergency-services",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "NHS",
+      "id": "society/nhs",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Communities",
+      "id": "society/communities",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Policy",
+      "id": "healthcare-network/policy",
+      "sectionId": "healthcare-network",
+      "sectionName": "Healthcare Professionals Network"
+    },
+    {
+      "webTitle": "Policy",
+      "id": "social-care-network/policy",
+      "sectionId": "social-care-network",
+      "sectionName": "Social Care Network"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Kate Murray",
+      "id": "profile/kate-murray"
+    }
+  ],
+  "guardianId": "healthcare-network/2016/may/17/accident-and-emergency-mental-health-crisis"
+}

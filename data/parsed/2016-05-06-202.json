@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/06/radiohead-release-trailer-for-new-track",
+  "id": "2016-05-06-202",
+  "sectionId": "music",
+  "body": "Radiohead have released what appears to be another trailer for a second track.    Related: 'Disarmingly melodic': fans (and a newbie) review Radiohead's new single Burn the Witch    Set in an empty carpark, the footage features Thom Yorke wandering alone between industrial pillars lit by stark sunlight. The sound of warped, delicate electronic stirrings resound \u2013 a contrast to the dense, intense soundscape of Burn the Witch, described by the Guardian\u2019s Michael Hann as \u201cthrilling \u2013 a burst of taut, tense music, driven by pizzicato strings, that had more in common with conventional rock than some hints had led us to believe.\u201d If the same pattern as Burn the Witch\u2019s roll-out is to be followed, another clip and a full video could be on its way. We\u2019ll be writing about the new track as soon as it\u2019s released.",
+  "webTitle": "Radiohead release trailer for new track",
+  "webPublicationDate": "2016-05-06T11:53:42Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/06/radiohead-release-trailer-for-new-track",
+  "keyword": [
+    {
+      "webTitle": "Radiohead",
+      "id": "music/radiohead",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Indie",
+      "id": "music/indie",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Pop and rock",
+      "id": "music/popandrock",
+      "sectionId": "music",
+      "sectionName": "Music"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Harriet Gibsone",
+      "id": "profile/harriet-gibsone"
+    }
+  ],
+  "guardianId": "music/2016/may/06/radiohead-release-trailer-for-new-track"
+}

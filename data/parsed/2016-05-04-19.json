@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/04/gmail-yahoo-email-password-hack-hold-security",
+  "id": "2016-05-04-19",
+  "sectionId": "technology",
+  "body": "The internet on Wednesday gave you another reminder that everyone has been hacked.  Hold Security, a Wisconsin-based security firm famous for obtaining hoards of stolen data from the hacking underworld, announced that it had persuaded a fraudster to give them a database of 272m unique email addresses along with the passwords consumers use to log in to websites. The escapade was detailed in a Reuters article.  It might sound bad, but it is also easily mitigated. The passwords and email addresses, which include some from Gmail, Yahoo and Russia\u2019s mail.ru service, aren\u2019t necessarily the keys to millions of email accounts. Rather, they had been taken from various smaller, less secure websites where people use their email addresses along with a password to log in.  People who use a different password for both their email account and, say, Target.com, won\u2019t be affected. But those who tend to use the same password for multiple sites as well as their email should change their email password.  \u201cSome people use one key for everything in their house,\u201d Hold Security founder Alex Holden says. \u201cSome people have a huge set of keys that they use for each door individually.\u201d    Related: As easy as 123456: the 25 worst passwords revealed    Holden said there is no way for consumers to check if their emails were included in his firm\u2019s latest find. In 2014, when his firm tried to set up such a service after obtaining a billion hacked login credentials, his site crashed. The hacker appears to have been largely targeting Russian users. Some 57m of the email addresses were for the country\u2019s largest email provider mail.ru, which claims 100 million monthly users. Around 40m of the addresses were Yahoo Mail, 33m Hotmail and 24m for Google\u2019s Gmail service.  In this case, the hacker had been bragging on internet chat forums that he had a treasure trove of login credentials that he was trying to sell. Holden, who is fluent in Russian, said he wouldn\u2019t pay for the data but would give him \u201clikes\u201d on various social media posts in exchange.  The hacker, who apparently is quite young, agreed. \u201cWe kind of call him the collector,\u201d Holden says in a heavy Russian accent. \u201cEventually, almost everyone gets breached.\u201d",
+  "webTitle": "Hacker collects 272m email addresses and passwords, some from Gmail",
+  "webPublicationDate": "2016-05-04T21:41:14Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/04/gmail-yahoo-email-password-hack-hold-security",
+  "keyword": [
+    {
+      "webTitle": "Hacking",
+      "id": "technology/hacking",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Data and computer security",
+      "id": "technology/data-computer-security",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Data protection",
+      "id": "technology/data-protection",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Computing",
+      "id": "technology/computing",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Wisconsin",
+      "id": "world/wisconsin",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Gmail",
+      "id": "technology/gmail",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Email",
+      "id": "technology/email",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Danny Yadron",
+      "id": "profile/danny-yadron"
+    }
+  ],
+  "guardianId": "technology/2016/may/04/gmail-yahoo-email-password-hack-hold-security"
+}

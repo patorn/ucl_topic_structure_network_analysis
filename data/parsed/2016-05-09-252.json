@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/09/terry-wogan-thanksgiving-service-bbc-anniversary",
+  "id": "2016-05-09-252",
+  "sectionId": "media",
+  "body": "The BBC is to hold a service of thanksgiving for Terry Wogan, 50 years after the late broadcaster made his debut on BBC radio. Wogan, who died in January at the age of 77 from cancer, began his career with the corporation on the BBC Light Programme on 27 September 1966. Further details of the service, taking place on 27 September 2016, will be announced at a later date. The Radio Academy\u2019s Radio Festival at the British Library will be moved to 26 September to avoid a clash.  Wogan presented the Radio 2 breakfast show up until 2009, when he was replaced by Chris Evans. He was last on air on November, and had also presented the Proms in the Park from London\u2019s Hyde Park on 12 September.",
+  "webTitle": "Terry Wogan service of thanksgiving 50 years after his radio debut",
+  "webPublicationDate": "2016-05-09T09:44:39Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/09/terry-wogan-thanksgiving-service-bbc-anniversary",
+  "keyword": [
+    {
+      "webTitle": "Terry Wogan",
+      "id": "media/terry-wogan",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "BBC",
+      "id": "media/bbc",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jasper Jackson",
+      "id": "profile/jasper-jackson"
+    }
+  ],
+  "guardianId": "media/2016/may/09/terry-wogan-thanksgiving-service-bbc-anniversary"
+}

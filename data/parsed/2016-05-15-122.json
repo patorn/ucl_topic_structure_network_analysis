@@ -1,0 +1,102 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/15/the-innovators-irish-coating-superbug-mrsa-e-coli",
+  "id": "2016-05-15-122",
+  "sectionId": "business",
+  "body": "George Osborne was just one of the latest people to warn about the growing threat of antibiotic resistant superbugs, telling the International Monetary Fund (IMF) in Washington last month that without urgent action the bugs would soon kill more people every year than cancer. The chancellor\u2019s warning echoed the sentiments of many within the medical community. Infections such as MRSA which have developed resistance to drugs have become a notorious threat in hospitals, where the bacteria can survive on surfaces for up to seven months. But a new discovery by scientists in Ireland could soon be working to combat them. A research team led by Prof Suresh Pillai has developed a coating for everyday objects that prevents the spread of MRSA and E coli bacteria. The coating, which can be used on items such as smartphones, door handles and remote controls as well as surgical surfaces, has a 99.99% success rate in killing the bugs.  John Browne, the chief executive of Dublin-based company Kastus, which is working to commercialise the solution, says: \u201cIt is very hard to get rid of these things once they are there. Some studies have shown that with a deep clean on an [intensive care unit] ward where there is a critical care bed in one room \u2026 the entire room is cleaned with bleach over a 24-hour period and the bacteria are back on the surface within 24 hours.\u201d  In a 2014 study, the resistance of MRSA to meticillin, one of the first antibiotics used to treat the bacteria, was at almost 12% in UK hospitals. Another study showed that almost 93% of writing tools taken from a group of 42 doctors were contaminated. The Kastus anti-microbial solution is made up of titanium oxide, with fluoride and copper. The solution is first baked on to a surface such as glass. When light is shined on it, a series of reactions on the surface of the material make it resistant to MRSA and E coli as well as trichophyton rubrum, the main cause of athlete\u2019s foot.     Prof Pillai in the nanotechnology laboratory at IT Sligo with the new anti-superbug solution. Photograph: Handout    \u201cYou prepare the material in a water-based solution and spray it on the surface. It will form a thin coating on the surface and then you bake it in the oven or furnace and that will make a transparent thin film. You will not even see that there is a coating there,\u201d says Pillai, who is from the nanotechnology research group at the Institute of Technology, Sligo. Any MRSA or E coli landing on the surface of the tile will die over the subsequent 24 hours, so the solution stops it forming a colony and spreading \u2013 in effect creating a reliably sterile surface, he says.  Even when doctors adhere to proper hygiene practices, everyday objects and areas such as door handles and other surfaces can foster the bacteria. \u201cIn the [US], if you go into a hospital with a broken leg and get a case of MRSA and don\u2019t survive it, your estate has to sue that hospital because the health insurance won\u2019t pay because the hospital is being treated as liable. I think a lot of us know people who have gone into hospital for minor surgeries as patients and have contracted bugs,\u201d says Browne. \u201cI think we have all been in hospitals and we have seen dirt in floors and corners that have just not been cleaned. They are ceramic tiles. If there is a dirty corner then it is likely that the entire surface has been affected and it is likely that you are walking it through the building.\u201d Browne aims to have the solution applied to smartphone and tablet screens, said to be fertile grounds for bacteria because they typically do not go through rigorous cleansing. In 2012, a man contracted Ebola after stealing a mobile phone from an isolation ward in Uganda. \u201cThe product is scaleable so the idea is that it gets out there and becomes a standard on smartphones and on ATMs. It is there and it is not adding any significant cost for the manufacturer of the end product,\u201d he says.  \u201cYou are using an eco product, it is safe and it is helping to stop the spread of harmful bacteria.\u201d    Related: The innovators: slow fashion that cuts waste and lasts longer    There is little hard data to show how wide a problem the spread of bacteria via mobile devices is, but they certainly harbour bacteria and some of the keenest interest in the new product has so far come from electronics companies.  \u201cMobile phones contain 10 times more bacteria than the toilet seat because toilet seats are cleaned regularly and mobile phones are never cleaned,\u201d says Pillai. There are plans to develop towels which will stop the spread of superbugs by the solution adhering to the fabric. \u201cYou need special types of spray or cottons which will withstand several washes,\u201d he says.  Pharmaceutical firms that use \u201cclean rooms\u201d for research will also be targeted, says Browne. \u201cIf a fungus enters a clean room, it could close a building down. A lot of these clean rooms are separated into different buildings to stop this happening. The cost to do that is enormous and if a fungus gets in, it is serious.\u201d The company also plans to investigate possible uses for the technology in food packaging, for instance as the coating on a glass bottle. \u201cThere has been a test on milk bottles showing that an anti-bacterial coating can extend the life of milk by 15 days,\u201d adds Browne.",
+  "webTitle": "The innovators: Irish lab develops coating to ward off superbug",
+  "webPublicationDate": "2016-05-15T10:58:15Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/15/the-innovators-irish-coating-superbug-mrsa-e-coli",
+  "keyword": [
+    {
+      "webTitle": "Entrepreneurs",
+      "id": "business/entrepreneurs",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Small business",
+      "id": "business/small-business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "MRSA and superbugs",
+      "id": "society/mrsa",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Biochemistry and molecular biology",
+      "id": "science/biochemistrymolecularbiology",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Ireland",
+      "id": "world/ireland",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Pharmaceuticals industry",
+      "id": "business/pharmaceuticals-industry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Nanotechnology",
+      "id": "science/nanotechnology",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Biology",
+      "id": "science/biology",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Chemistry",
+      "id": "science/chemistry",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Antibiotics",
+      "id": "society/antibiotics",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Shane Hickey",
+      "id": "profile/shane-hickey"
+    }
+  ],
+  "guardianId": "business/2016/may/15/the-innovators-irish-coating-superbug-mrsa-e-coli"
+}

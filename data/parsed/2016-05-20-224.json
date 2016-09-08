@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/20/bbc-bargain-hunt-peaky-blinders-tv-ratings",
+  "id": "2016-05-20-224",
+  "sectionId": "media",
+  "body": "It encapsulates much of what culture secretary John Whittingdale thinks is wrong with BBC1, but Bargain Hunt drew more viewers on Thursday than BBC2\u2019s acclaimed drama Peaky Blinders. And it was a repeat. Bargain Hunt, which started on BBC1 43 series and 16 years ago, was singled out by the government\u2019s white paper on the future of the BBC as evidence that its biggest channel played it safe and should show greater creative ambition in its programming. Thursday\u2019s repeat fronted by former presenter Tim Wonnacott, in which two teams picked through an antiques fair in Hexham, Northumberland, attracted 1.7 million viewers, a 32% share, at 12.15pm.   Related: The BBC boss in charge of Bake Off: \u2018Distinctiveness v popularity is absurd\u2019    The episode, which which an old wooden heated \u201cfootbox\u201d sold for \u00a332 and a model of a Romany caravan was snapped up for \u00a3100, was more popular than the BBC2\u2019s Birmingham gangster epic, Peaky Blinders, which drew 1.5 million viewers, an 8% share, in its 9pm slot. Last night\u2019s BBC1 schedule was presumably made up of exactly the sort of thing Whittingdale would like to see, including Paxman in Brussels: Who Really Rules Us?, which the former Newsnight presenter and self-confessed one nation Tory travelled to the European Union HQ a month before the EU referendum. The hour-long Paxman documentary picked up 3.1 million viewers, a 16% share, from 8pm.  It was followed on BBC1 by another hour-long documentary, The Truth About \u2026 Dementia, which was attracted 3.3 million viewers, a 17% share of the audience. The white paper said BBC1 \u201ccould have greater levels of creative ambition in its programming, while staying true to its overall positioning as a more mainstream TV channel\u201d. It highlighted research which showed that BBC1 had become less innovative and risk-taking, with a \u201cstatic daytime schedule highly reliant on long-running property and collectables programming: Homes Under the Hammer in its 20th series, Bargain Hunt in its 43rd series, and Escape to the Country in its 16th series\u201d. Later on BBC1, another politicians\u2019 favourite, Question Time, had 2.5 million viewers (25.6%).",
+  "webTitle": "BBC's Bargain Hunt repeat outbids Peaky Blinders in TV ratings",
+  "webPublicationDate": "2016-05-20T11:01:26Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/20/bbc-bargain-hunt-peaky-blinders-tv-ratings",
+  "keyword": [
+    {
+      "webTitle": "TV ratings",
+      "id": "media/tvratings",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "BBC1",
+      "id": "media/bbc1",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "BBC",
+      "id": "media/bbc",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Television industry",
+      "id": "media/television",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Television",
+      "id": "culture/television",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Television & radio",
+      "id": "tv-and-radio/tv-and-radio",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "John Plunkett",
+      "id": "profile/johnplunkett"
+    }
+  ],
+  "guardianId": "media/2016/may/20/bbc-bargain-hunt-peaky-blinders-tv-ratings"
+}

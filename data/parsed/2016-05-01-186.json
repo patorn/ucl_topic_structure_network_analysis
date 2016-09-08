@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/01/brian-eno-the-ship-review",
+  "id": "2016-05-01-186",
+  "sectionId": "music",
+  "body": "In his sleeve notes to 1978\u2019s Music for Airports, Brian Eno wrote that ambient music \u201cmust be as ignorable as it is interesting\u201d. That is true of The Ship, his first solo album in four years, which is inspired by the sinking of the Titanic and comprises two epic songs, one of which, Fickle Sun, is a three-movement piece featuring the comedian Peter Serafinowicz. The opener, the title track, is eerie and portentous, Eno\u2019s impossibly deep spoken vocal perched atop synth washes that slowly unfurl. At 21 minutes long it could do with a trim, but the closing part, a cover of the Velvet Underground\u2019s I\u2019m Set Free, shows that Eno remains one of the great shape shifters.",
+  "webTitle": "Brian Eno: The Ship review \u2013 epic eeriness  ",
+  "webPublicationDate": "2016-05-01T06:59:48Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/01/brian-eno-the-ship-review",
+  "keyword": [
+    {
+      "webTitle": "Brian Eno",
+      "id": "music/brianeno",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Pop and rock",
+      "id": "music/popandrock",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Paul Mardles",
+      "id": "profile/paulmardles"
+    }
+  ],
+  "guardianId": "music/2016/may/01/brian-eno-the-ship-review"
+}

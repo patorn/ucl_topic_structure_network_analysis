@@ -1,0 +1,49 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/03/milton-keynes-and-its-vibrant-third-sector",
+  "id": "2016-05-03-50",
+  "sectionId": "uk-news",
+  "body": "The physical structure of Milton Keynes is a crucial part of its success (Struggles for the soul of Milton Keynes, 3 May) but the development corporation and its successors also understood the equal emphasis needed to develop its social infrastructure. Sites within the grid squares were set aside for schools, health centres, play areas and parks, shops, and community facilities. The schools were built as the housing in each grid was developed, ready for the children as they arrived. In the early days families arriving received a welcome pack with information on local facilities, and one house was designated a temporary community centre to create a focus for the new neighbourhood. Later the Milton Keynes Community Foundation was created to support the developing voluntary sector. With income from property and raising funds from local businesses, its grant funding to voluntary groups of all types has supported a diverse and vigorous third sector, and incidentally a protection against the effects of austerity on public funding. Just a few more reasons why Milton Keynes is a model worth following.Dr Phyllis StarkeyMP for Milton Keynes South West, 1997-2010 \u2022 Join the debate \u2013 email guardian.letters@theguardian.com",
+  "webTitle": "Milton Keynes and its vibrant third sector | Letters",
+  "webPublicationDate": "2016-05-03T18:52:52Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/03/milton-keynes-and-its-vibrant-third-sector",
+  "keyword": [
+    {
+      "webTitle": "Milton Keynes",
+      "id": "uk/milton-keynes",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Architecture",
+      "id": "artanddesign/architecture",
+      "sectionId": "artanddesign",
+      "sectionName": "Art and design"
+    },
+    {
+      "webTitle": "Art and design",
+      "id": "artanddesign/artanddesign",
+      "sectionId": "artanddesign",
+      "sectionName": "Art and design"
+    },
+    {
+      "webTitle": "Voluntary sector",
+      "id": "society/voluntarysector",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [],
+  "guardianId": "uk-news/2016/may/03/milton-keynes-and-its-vibrant-third-sector"
+}

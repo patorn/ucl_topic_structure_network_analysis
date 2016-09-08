@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/10/one-fifth-uk-film-workers-were-women-2015-southampton-university-report",
+  "id": "2016-05-10-202",
+  "sectionId": "film",
+  "body": "Women made up just a fifth of production personnel working on UK films in 2015, according to a new study. The University of Southampton report, funded by the Arts and Humanities Research Council, also found that women from black and ethnic minority backgrounds made up only 1.5% of all film workers.    Related: Give half of UK film funding to projects led by women, directors say    The study, titled Calling the Shots: Women and Contemporary Film Culture in the UK, found that women were most prominent in producer roles, at 27%, but concluded that the \u201cvast majority of key production personnel in the UK film industry are still men\u201d. The report was published ahead of an event at the BFI Southbank on Tuesday entitled Calling the Shots? Counting Women Filmmakers in British Cinema Today. Kate Kinninmont, chief executive of Women in Film and Television, told Screen: \u201cThis is a crucial piece of research laying bare the grotesque discrepancy between the sexes in the film industry. Equal numbers of men and women enter this industry but women are relentlessly squeezed out. Black and minority ethnic women have the hardest time of all. It is the film industry itself which suffers from this, with a narrowing of its vision and an impoverishment of its creativity.\u201d The new study follows the publication of a report commissioned by Directors UK, which found that, between 2005 and 2014, just 13.6% of British films were directed by women. Only 14.6% of these had a female screenwriter, as a result of what the authors labelled \u201cunconscious, systemic bias\u201d. Directors UK, the leading organisation for UK film directors, subsequently called for half of all public funding to go to female-led projects by 2020, in order to combat systemic sexism. Chair Beryl Richards said the move represented \u201cthe only way we will break the vicious cycle, where public money is going to a narrow, privileged few\u201d.",
+  "webTitle": "Only one fifth of UK film workers were female in 2015, study finds",
+  "webPublicationDate": "2016-05-10T11:22:52Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/10/one-fifth-uk-film-workers-were-women-2015-southampton-university-report",
+  "keyword": [
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Gender",
+      "id": "world/gender",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Film industry",
+      "id": "film/film-industry",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Women",
+      "id": "lifeandstyle/women",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ben Child",
+      "id": "profile/benchild"
+    }
+  ],
+  "guardianId": "film/2016/may/10/one-fifth-uk-film-workers-were-women-2015-southampton-university-report"
+}

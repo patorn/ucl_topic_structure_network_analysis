@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/greenslade/2016/may/16/everest-mountaineer-supports-newspapers-dispossessed-fund",
+  "id": "2016-05-16-197",
+  "sectionId": "media",
+  "body": "One of Britain\u2019s leading climbers, Kenton Cool, chose to celebrate his latest conquest of Everest by endorsing the London Evening Standard\u2019s dispossessed fund. When he reached the summit - becoming the first foreigner in two years to do so - he unfurled a banner to show his support for the fund that helps grassroots charities tackle poverty and inequality.  During his descent he managed to speak to a Standard journalist via satellite phone: \u201cI want to show young Londoners living in poverty that anything is possible when you have the willpower\u201d. Cool, who has climbed Everest 11 times before, was paying tribute to his roots after growing up in poverty on the outskirts of London. As the Standard reports on its front page in today\u2019s issue, Cool also had to overcome an injury incurred during a rock climbing fall in 1996 when he was 22. He shattered both heel bones and was told he would never walk again. But he was determined to succeed and amazed doctors by walking and climbing after a year of surgery and therapy. Cool has compared the challenge of climbing Everest to the challenges faced by disadvantaged Londoners who, he argues, need to discover the inner drive needed to rise above their circumstances by choosing \u201cmind over matter\u201d. \u201cPart of what you learn on a mountain is how to get yourself out of tight spots\u201d, he said.  The Standard\u2019s fund, launched in 2010, has raised \u00a316m, with more than \u00a310m of that having been given out in grants.",
+  "webTitle": "Everest mountaineer supports newspaper's dispossessed fund",
+  "webPublicationDate": "2016-05-16T12:45:22Z",
+  "webUrl": "https://www.theguardian.com/media/greenslade/2016/may/16/everest-mountaineer-supports-newspapers-dispossessed-fund",
+  "keyword": [
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "London Evening Standard",
+      "id": "media/london-evening-standard",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Mount Everest",
+      "id": "world/everest",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Mountaineering",
+      "id": "world/mountaineering",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "London",
+      "id": "uk/london",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Charities",
+      "id": "society/charities",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Newspapers",
+      "id": "media/newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Roy Greenslade",
+      "id": "profile/roygreenslade"
+    }
+  ],
+  "guardianId": "media/greenslade/2016/may/16/everest-mountaineer-supports-newspapers-dispossessed-fund"
+}

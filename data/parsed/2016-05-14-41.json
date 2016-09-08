@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/14/fugitive-london-priest-arrested-kosovo",
+  "id": "2016-05-14-41",
+  "sectionId": "world",
+  "body": "A priest wanted in connection with child sex abuse allegations at a school where he taught for 12 years has been arrested in Kosovo five years after he failed to respond to police bail.  Laurence Soper, the former abbot of the Benedictine monastery of Ealing Abbey in west London, failed to respond to bail in March 2011 and was thought to have been in Rome when a European arrest warrant was put out for him months later. He had been arrested and released on police bail the previous year. A Scotland Yard spokesman said: \u201cWe are aware of an arrest and are currently in liaison with the relevant authorities.\u201d News of the arrest was delivered on Saturday by the Albeu news agency, which said that the priest, who was known in Kosovo as Andrew Soper, was arrested on Thursday in the street where he lived, in the town of Peja . Neighbours told a reporter that Soper, 72, had lived in the town for some years, did not have a job and had said he was writing a book. A damning review by Lord Carlile QC into decades of paedophile activity at St Benedict\u2019s school, a Catholic school attached to the abbey, published in 2011, listed 21 abuse cases starting in 1970. Soper was named as one of five clergy wanted for questioning in relation to paedophile activity involving pupils. Soper taught at the school between 1972 and 1984. He was abbot from 1991 to 2000. The inquiry at the school was prompted after a former headteacher, Father David Pearce, was convicted of abusing five boys. He was jailed for eight years in 2009 for the abuse over 36 years. Four of the victims were under 14. Ten days ago a former deputy head of the school was jailed for 33 months at Blackfriars crown court for possession of child sex images and class A drugs. Peter Allott, 37, spent his weekends at chemsex child porn parties with paedophiles he had met online.  He admitted possessing MDMA, a class A drug, which was found in a raid of his home \u2013 a property tied to the school \u2013 and was charged with possessing nearly 700 illegal images and videos, most of which were found on the hard drive of his computer at the school. Lord Carlile\u2019s main recommendation was that Ealing Abbey monks lose control of St Benedict\u2019s. The report said: \u201cIn a school where there has been abuse, mostly \u2013 but not exclusively \u2013 as a result of the activities of the monastic community, any semblance of a conflict of interest, of lack of independent scrutiny, must be removed. \u201cPrimary fault lies with the abusers, in the abject failure of personal responsibility, in breach of their sacred vows \u2026 and in breach of all professional standards and of the criminal law. \u201cSecondary fault can be shared by the monastic community, in its lengthy and culpable failure to deal with what at times must have been evident behaviour placing children at risk; and what at all times was a failure to recognise the sinful temptations that might attract some with monastic vocations.\u201d Historic fault also lay with the trustees and the school for their failure to understand and prepare for the possibility of abuse with training and solid procedures for \u201cunpalatable eventualities\u201d. In his criticism of school governance, Carlile wrote that the existing structure lacked \u201cindependence, transparency, accountability and diversity, and is drawn from too narrow a group of people\u201d.",
+  "webTitle": "London priest arrested in Kosovo",
+  "webPublicationDate": "2016-05-14T21:56:10Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/14/fugitive-london-priest-arrested-kosovo",
+  "keyword": [
+    {
+      "webTitle": "Kosovo",
+      "id": "world/kosovo",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "London",
+      "id": "uk/london",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Catholicism",
+      "id": "world/catholicism",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Christianity",
+      "id": "world/christianity",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Religion",
+      "id": "world/religion",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Lin Jenkins",
+      "id": "profile/lin-jenkins"
+    }
+  ],
+  "guardianId": "world/2016/may/14/fugitive-london-priest-arrested-kosovo"
+}

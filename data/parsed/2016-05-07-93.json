@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/07/mount-st-helens-earthquakes-detected-washington",
+  "id": "2016-05-07-93",
+  "sectionId": "world",
+  "body": "A swarm of more than 130 earthquakes has been detected beneath Mount St Helens over the last eight weeks, according to the US Geological Survey. Since March, the rate of such earthquakes under the Washington state volcano has been \u201csteadily increasing\u201d, the USGS reported. At its peak, nearly 40 earthquakes have been located per week. Most of the quakes have occurred about one to four miles beneath the active volcano, and most have been extremely weak at magnitudes of 0.5 or less, the largest a 1.3-level quake.  The USGS said there had been many more earthquakes that have been too small to be felt at the surface or precisely located. A 0.7-level quake \u201cwould not be felt if you were standing on the surface above it\u201d, the seismologists wrote. The quakes do not mean the volcano is any more likely to erupt in the near future, the USGS said, describing the earthquakes as common, \u201cvolcano-tectonic in nature [and] indicative of a slip on a small fault\u201d. They do, though, suggest the volcano is recharging its stores of magma, the scientists said. As the molten rock rises to fill the volcano\u2019s magma chamber, it presses against the colder rock around it, increasing stress. This push and pull creates quakes.  The USGS noted that similar swarms caused minor convulsions beneath Mount St Helens in 2013 and 2014, and that earthquakes swarmed in the 1990s with more energy and at much higher rates. The seismologists said they had detected \u201cno anomalous gases, increases in ground inflation or shallow seismicity\u201d and \u201cno signs of an imminent eruption\u201d.  \u201cAs was observed at Mount St Helens between 1987 [and] 2004, recharge can continue for many years beneath a volcano without an eruption,\u201d they wrote. Mount St Helens last erupted in 2008, after a surprise reawakening in 2004 and several years of sporadic activity. Swarms of earthquakes before the 2004 eruption averaged between magnitudes of two to four. On 18 May 1980, it erupted to devastating effect, a column of ash reaching 80,000ft and pyroclastic flows of boiling ash, gas and rock cascading off its slopes. Part of the volcano collapsed, ash fell as far away as New Mexico and 57 people died as a result of the eruption.         Mount St Helens erupts in 1980.    The volcano is now one of the most closely monitored in the world. Researchers at three universities have placed thousands of sensors around the volcano, to investigate its bowels. \u201cIt\u2019s telling us [that] years to decades from now, St Helens will erupt again,\u201d Seth Moran, scientist-in-chief at the Cascades Volcano Observatory, told local KOIN news. \u201cOur best long-term forecast is that the next eruption will be a lava dome building eruption, which will have some explosivity to it, but nothing as catastrophic as St Helens in 1980.\u201d Erik Klemetti, an assistant professor of geosciences at Denison University, noted in Wired magazine that recharging magma can take years.  \u201cIt might have been five years between the big recharge event in 1998-99 and the 2004 eruptions,\u201d he said. The swarms are normal volcanic activity, Klemetti wrote. Magma rising up within the sleeping volcano will have a long path through the remains of past eruptions before it can load Mount St Helens for a new one.",
+  "webTitle": "What lies below: swarm of earthquakes detected beneath Mount St Helens",
+  "webPublicationDate": "2016-05-07T15:38:35Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/07/mount-st-helens-earthquakes-detected-washington",
+  "keyword": [
+    {
+      "webTitle": "Earthquakes",
+      "id": "world/earthquakes",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Washington state",
+      "id": "us-news/washington-state",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Natural disasters and extreme weather",
+      "id": "world/natural-disasters",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Alan Yuhas",
+      "id": "profile/alan-yuhas"
+    }
+  ],
+  "guardianId": "world/2016/may/07/mount-st-helens-earthquakes-detected-washington"
+}

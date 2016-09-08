@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/science/2016/may/28/eu-ministers-2020-target-free-access-scientific-papers",
+  "id": "2016-05-28-75",
+  "sectionId": "science",
+  "body": "All publicly funded scientific papers published in Europe could be made free to access by 2020, under a \u201clife-changing\u201d reform ordered by the European Union\u2019s science chief, Carlos Moedas. The Competitiveness Council, a gathering of ministers of science, innovation, trade and industry, agreed on the target following a two-day meeting in Brussels last week.  The move means publications of the results of research supported by public and public-private funds would be freely available to and reusable by anyone. It could affect the paid-for subscription model used by many scientific journals, and undermine the common practice of releasing reports under embargo.  At present the results of some publicly funded research are not accessible to people outside universities and similar institutions without one-off payments, which means that many teachers, doctors, entrepreneurs and others do not have access to the latest scientific insights. In the UK, funding bodies generally require that researchers publish under open access terms, with open access publishing fees paid from the researcher\u2019s grant. The council said this data must be made accessible unless there were well-founded reasons for not doing so, such as intellectual property rights or security or privacy issues. The changes are part of a broader set of recommendations in support of Open Science, a concept that also includes improved storage of and access to research data, Science magazine reports. Open Science has been heavily lobbied for by the Dutch government, which currently holds the presidency of the Council of the EU, as well as by Moedas, the European commissioner for research and innovation. Moedas told a press conference: \u201cWe probably don\u2019t realise it yet, but what the Dutch presidency has achieved is unique and huge. The commission is totally committed to help move this forward.\u201d   Related: After 350 years of academic journals it\u2019s time to shake things up    Sander Dekker, the Dutch state secretary for education, culture, and science, said in a statement: \u201cResearch and innovation generate economic growth and more jobs and provide solutions to societal challenges. And that means a stronger Europe. \u201cTo achieve that, Europe must be as attractive as possible for researchers and startups to locate here and for companies to invest. That calls for knowledge to be freely shared. The time for talking about open access is now past. With these agreements, we are going to achieve it in practice.\u201d The League of European Research Universities called the decision \u201ca major boost for the transition towards and Open Science system\u201d. But while the council has called for immediate open access \u201cwithout embargoes or with as short as possible embargoes\u201d, some said the 2020 target was unrealistic.  A spokesperson for the council told Science magazine that it \u201cmay not be an easy task\u201d, but spoke of the council\u2019s resolve. \u201cThis is not a law, but it\u2019s a political orientation for the 28 governments. The important thing is that there is a consensus.\u201d \u2022 This article was amended on 31 May 2016. An earlier version quoted a spokesperson for the Competitiveness Council as saying \u201cthis is now a law\u201d. That has been corrected to \u201cthis is not a law\u201d.",
+  "webTitle": "All scientific papers to be free by 2020 under EU proposals",
+  "webPublicationDate": "2016-05-28T15:43:23Z",
+  "webUrl": "https://www.theguardian.com/science/2016/may/28/eu-ministers-2020-target-free-access-scientific-papers",
+  "keyword": [
+    {
+      "webTitle": "Open access scientific publishing",
+      "id": "science/open-access-scientific-publishing",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Peer review and scientific publishing",
+      "id": "science/peer-review-scientific-publishing",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Research",
+      "id": "education/research",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Nadia Khomami",
+      "id": "profile/nadia-khomami"
+    }
+  ],
+  "guardianId": "science/2016/may/28/eu-ministers-2020-target-free-access-scientific-papers"
+}

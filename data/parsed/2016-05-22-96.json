@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/22/david-cameron-criticism-donald-trump-muslim-ban",
+  "id": "2016-05-22-96",
+  "sectionId": "politics",
+  "body": "David Cameron has said Donald Trump\u2019s call for a temporary ban on Muslims arriving in the US is \u201cdangerous\u201d, and he is not willing to withdraw his criticism of it. The British prime minister said he was sticking to his earlier claim that the proposal was \u201cdivisive, stupid and wrong\u201d but he would be happy to meet the presumptive Republican presidential candidate if he travelled to the UK before the US election. \u201cAmerican presidential candidates have made a habit of coming through Europe and through the UK, so if that happens I would be very happy to,\u201d he told ITV\u2019s Robert Peston, saying he believed in maintaining the special relationship. But he added: \u201cI don\u2019t withdraw in any way what I said about the policy of not letting Muslims into America. I do think that is wrong and divisive. \u201cWe have got to demonstrate that what we\u2019re up against here is a very small minority of a minority, Islamist extremists, that want to divide our societies, and we have got to explain that there are billions of people in our world who are devout Muslims but who believe in liberal democracy and all the things we believe in.\u201d He added that the original statement from Trump was \u201ca very dangerous thing to say \u2026 as well as a divisive and wrong one\u201d.  Trump had said he feared the US might not have a good relationship with the UK under his presidency following the prime minister\u2019s comments. But he later said he had been invited to visit Cameron at No 10. \u201cI will do just fine with David Cameron. I think he\u2019s a nice guy. I will do just fine,\u201d he said. \u201cBut they have asked me to visit 10 Downing Street \u2013 and I might do it.\u201d Downing Street has indicated that formal invites are not generally sent to presidential candidates but traditionally they do meet the prime minister when travelling in Europe. Trump\u2019s reference to an invite might relate to press reports around that.",
+  "webTitle": "Cameron repeats criticism of Trump's 'dangerous' Muslim ban",
+  "webPublicationDate": "2016-05-22T11:47:42Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/22/david-cameron-criticism-donald-trump-muslim-ban",
+  "keyword": [
+    {
+      "webTitle": "David Cameron",
+      "id": "politics/davidcameron",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Donald Trump",
+      "id": "us-news/donaldtrump",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US elections 2016",
+      "id": "us-news/us-elections-2016",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Republicans",
+      "id": "us-news/republicans",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US politics",
+      "id": "us-news/us-politics",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Islam",
+      "id": "world/islam",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Anushka Asthana",
+      "id": "profile/anushkaasthana"
+    }
+  ],
+  "guardianId": "politics/2016/may/22/david-cameron-criticism-donald-trump-muslim-ban"
+}

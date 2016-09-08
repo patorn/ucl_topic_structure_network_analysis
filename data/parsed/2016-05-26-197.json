@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/26/european-union-japan-trade-agreement-g7-summit-david-cameron",
+  "id": "2016-05-26-197",
+  "sectionId": "world",
+  "body": "A trade deal between the EU and Japan that has been discussed since 2013 will be completed this year, as early as the autumn, world leaders have claimed at the G7 summit in Japan. David Cameron attended a side event at the summit, with the leaders of France, Italy and Germany as well as the presidents of the European commission and council to discuss the agreement, which was initially expected to be tied up last year.  The prime minister used the meeting as an opportunity to make the argument for Britain remaining in the EU by suggesting the deal \u2013 which could be worth \u00a35bn for the British economy \u2013 was possible because of the scale of the EU. \u201cAs Prime Minister Abe said when visiting the UK, Japan\u2019s priority is negotiating with large trade blocs \u2013 not individual states in Europe. And this is something we hear time and again from foreign leaders,\u201d he said.\u201cNot only will UK households lose out to the tune of \u00a34,300 a year if we vote to leave, but we will be turning our backs on global trade deals which underpin our security and prosperity.\u201d The deal would mean the elimination of the vast majority of trade tariffs, and boost imports and exports in key areas such as agriculture, car manufacturing and clothing, according to Downing Street.",
+  "webTitle": "EU aiming to complete trade agreement with Japan later this year",
+  "webPublicationDate": "2016-05-26T12:24:24Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/26/european-union-japan-trade-agreement-g7-summit-david-cameron",
+  "keyword": [
+    {
+      "webTitle": "G7",
+      "id": "world/g7",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Japan",
+      "id": "world/japan",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Shinzo Abe",
+      "id": "world/shinzo-abe",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Anushka Asthana",
+      "id": "profile/anushkaasthana"
+    }
+  ],
+  "guardianId": "world/2016/may/26/european-union-japan-trade-agreement-g7-summit-david-cameron"
+}

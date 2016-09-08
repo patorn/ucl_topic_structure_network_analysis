@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/marketforceslive/2016/may/27/astrazeneca-slips-as-us-delays-approval-of-potassium-treatment",
+  "id": "2016-05-27-232",
+  "sectionId": "business",
+  "body": "AstraZeneca has suffered a setback after US regulators delayed approval of a key drug it acquired when it paid $2.7bn for ZS Pharma last year. The company has received a complete response letter from the US Food and Drug Administration about its ZS-9 treatment for high potassium levels, outlining concerns which must be addressed to gain approval. It said it was evaluating the content of the letter, but Reuters reports some analysts as saying the drug\u2019s launch could be delayed until 2017 because of a manufacturing issue. AstraZeneca, which expected peak annual sales of $1bn for the drug, said:  The [letter] refers to observations arising from a pre-approval manufacturing inspection. The FDA also acknowledged receipt of recently-submitted data which it has yet to review. The [letter] does not require the generation of new clinical data. AstraZeneca and ZS Pharma are evaluating the content of the [letter] and will work closely with the FDA to determine the appropriate next steps for the NDA [new drug application].  The news overshadowed positive results from a clinical trial of its Faslodex treatment for breast cancer, and AstraZeneca\u2019s shares have slipped 9.5p at \u00a340.02.  Shore Capital said:  Although ZS-9 is unlikely to receive a black box warning [pointing out risks] relating to binding of other oral medications, in our view, there are concerns it may receive a warning related to increasing sodium levels. We forecast sales of $40m in 2016 for ZS-9, reaching $1,163m in 2023.",
+  "webTitle": "AstraZeneca slips as US delays approval of potassium treatment",
+  "webPublicationDate": "2016-05-27T09:39:27Z",
+  "webUrl": "https://www.theguardian.com/business/marketforceslive/2016/may/27/astrazeneca-slips-as-us-delays-approval-of-potassium-treatment",
+  "keyword": [
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Stock markets",
+      "id": "business/stock-markets",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "AstraZeneca",
+      "id": "business/astrazeneca",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Nick Fletcher",
+      "id": "profile/nickfletcher"
+    }
+  ],
+  "guardianId": "business/marketforceslive/2016/may/27/astrazeneca-slips-as-us-delays-approval-of-potassium-treatment"
+}

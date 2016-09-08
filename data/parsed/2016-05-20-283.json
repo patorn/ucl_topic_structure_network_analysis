@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/society/2016/may/20/nhs-in-england-set-to-announce-23bn-deficit",
+  "id": "2016-05-20-283",
+  "sectionId": "society",
+  "body": "The NHS in England is expected to announce an unprecedented deficit of more than \u00a32.3bn, amid claims that unorthodox accounting is being used to mask the true size of the overspend. Figures published on Friday for the financial year 2015/16 are predicted to show a slight improvement on the worst-case-scenario deficit of \u00a32.8bn, but will still be the poorest on record.   Related: Junior doctors split over deal with Jeremy Hunt to end contract dispute    The BBC reported that an anonymous NHS trust finance director had accused the Department of Health of \u201ccooking up accounting alchemy\u201d to try to keep the deficit within government spending limits. The hospital boss told the BBC that unorthodox measures were being used to mask the true size of the NHS deficit and that funds for capital spending were being moved into day-to-day running costs.  However Chris Hopson, the chief executive of NHS Providers, which represents the trusts, said it was \u201cperfectly ordinary\u201d to balance the books by considering capital budgets. He told BBC Radio 4\u2019s Today programme: \u201cThere\u2019s no doubt that the pressure this year is much greater than it ever has been. Therefore each individual finance director and each individual board is having to make a decision about what it believes is appropriate, and that\u2019s as it should be. They are the people who are ultimately accountable for the financial performance and financial reporting.\u201d Hopson said he had heard concerns from some NHS figures that the accounting was \u201cgetting very, very close to the edge of the envelope\u201d, but added: \u201cI\u2019ve not had anybody say that what they feel is happening is illegal or putting them in a position where they\u2019re being pressured to do something that would breach their formal fiduciary duties.\u201d He described the unprecedented deficit as a \u201cclassic symptom\u201d of skyrocketing demand with just a 1% increase in NHS funding. Official figures released in February showed that NHS trusts in England had hit a \u00a32.3bn deficit in the first nine months of the financial year, busting an estimate for the whole financial year by the King\u2019s Fund. The thinktank said at the time that the worst-case scenariowould be a \u00a32.8bn deficit for the full financial year. High spending on agency staff has been blamed for having a serious detrimental effect on the financial position of NHS trusts. The government has introduced hourly price caps limiting the amount of money that can be earned by various types of agency staff working in the NHS. But some trusts have said they are struggling to fill rota gaps and are finding it difficult to keep within the agency cap.  Controls on spending on management consultants also came into force over the summer and were expected to have had an impact by the end of the financial year.  Over the last five months, NHS trusts have come under increased pressure to change the way they present their deficits in an attempt to balance the books. Anita Charlesworth, of the Health Foundation thinktank, said the mood in the NHS \u201ccould not be bleaker\u201d and that capital budgets \u2013 money set aside for building projects \u2013 were being raided. \u201cThe level of deficits in terms of scale and how many hospitals are in deficit is unprecedented. It puts organisations under stress, which makes them fragile and risky,\u201d she said. \u201cThere is pressure on recruitment, pressure on management and that has an impact on services. We are already seeing waiting time targets being breached.\u201d",
+  "webTitle": "NHS in England set to announce \u00a32.3bn deficit",
+  "webPublicationDate": "2016-05-20T08:15:19Z",
+  "webUrl": "https://www.theguardian.com/society/2016/may/20/nhs-in-england-set-to-announce-23bn-deficit",
+  "keyword": [
+    {
+      "webTitle": "NHS",
+      "id": "society/nhs",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Health policy",
+      "id": "politics/health",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Public services policy",
+      "id": "society/policy",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Josh Halliday",
+      "id": "profile/josh-halliday"
+    }
+  ],
+  "guardianId": "society/2016/may/20/nhs-in-england-set-to-announce-23bn-deficit"
+}

@@ -1,0 +1,37 @@
+{
+  "apiUrl": "https://content.guardianapis.com/stage/2016/may/29/a-cheap-take-on-the-threepenny-opera",
+  "id": "2016-05-29-37",
+  "sectionId": "stage",
+  "body": "The Threepenny Opera at the English National Theatre (Songs for the louche and low-life, 28 May) gave that theatre an unparalleled opportunity to intervene in our public life, as the authors, Bertolt Brecht and Kurt Weill, would have wished. \u201cRobbing a bank\u2019s no crime compared to owning one,\u201d Brecht wrote in their next joint work, Happy End, a line he quickly transported back to the revived The Threepenny Opera. How this barbed satire might have resonated with today\u2019s bankers\u2019 millions. Instead we get, in Michael Billington\u2019s words, Peachum as \u201ca louche figure in high heels\u201d and \u201ca past liaison between Macheath and Tiger Brown\u201d. Could anything indicate our decadence more powerfully?Robert LeachSelkirk, Borders",
+  "webTitle": "A cheap take on The Threepenny Opera | Letters",
+  "webPublicationDate": "2016-05-29T18:57:21Z",
+  "webUrl": "https://www.theguardian.com/stage/2016/may/29/a-cheap-take-on-the-threepenny-opera",
+  "keyword": [
+    {
+      "webTitle": "Bertolt Brecht",
+      "id": "stage/bertolt-brecht",
+      "sectionId": "stage",
+      "sectionName": "Stage"
+    },
+    {
+      "webTitle": "Stage",
+      "id": "stage/stage",
+      "sectionId": "stage",
+      "sectionName": "Stage"
+    },
+    {
+      "webTitle": "Kurt Weill",
+      "id": "stage/kurt-weill",
+      "sectionId": "stage",
+      "sectionName": "Stage"
+    },
+    {
+      "webTitle": "National Theatre",
+      "id": "stage/national-theatre",
+      "sectionId": "stage",
+      "sectionName": "Stage"
+    }
+  ],
+  "authors": [],
+  "guardianId": "stage/2016/may/29/a-cheap-take-on-the-threepenny-opera"
+}

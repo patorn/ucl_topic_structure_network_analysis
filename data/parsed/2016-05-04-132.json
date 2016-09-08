@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/04/bitcoin-craig-wright-promises-extraordinary-evidence-prove-identity",
+  "id": "2016-05-04-132",
+  "sectionId": "technology",
+  "body": "Craig Wright, the Australian computer scientist who claims to have created the cryptocurrency bitcoin in 2008 under the pseudonym Satoshi Nakamoto, has promised to provide fresh evidence to back up his claim. In a blogpost on his website, Wright says \u201cover the coming days, I will be hosting a series of pieces that will lay the foundations for this extraordinary claim\u201d, including transferring bitcoin from \u201can early block\u201d and posting \u201cindependently verifiable documents\u201d. \u201cYou should be sceptical. You should question. I would,\u201d Wright adds, concluding: \u201cI will present what I believe to be \u2018extraordinary proof\u2019 and ask only that it be independently validated. Ultimately, I can do no more than that.\u201d When he first publicly claimed to be Nakamoto, in interviews with the BBC, Economist and GQ Magazine, Wright promised to post proof on his website. But the material he posted was far from convincing for many experts: most damningly, the cryptographic evidence appeared to have been directly copied from a 2009 bitcoin transaction. Wright\u2019s promise of further proof doesn\u2019t address the oddities in his original blogpost, except for obliquely claiming that he would post evidence \u201caddressing some of the false allegations that have been levelled\u201d. But for some of his original supporters, those discrepancies are already enough to prompt disavowals of Wright\u2019s claims. Gavin Andresen, formerly the chief scientist at the currency\u2019s guiding body, the Bitcoin Foundation, had been the most important backer of the man who would be Satoshi. All the initial reports cited Andresen\u2019s belief of Wright, which was based on a private demonstration in April, as an important point in his favour. But following Wright\u2019s bizarre initial blogpost, Andresen expressed doubt, telling security researcher Dan Kaminsky: \u201cI was as surprised by the \u2018proof\u2019 as anyone, and don\u2019t yet know exactly what is going on.\u201d \u201cIt was a mistake to agree to publish my post before I saw his \u2013 I assumed his post would simply be a signed message anybody could easily verify,\u201d he added. \u201cOF COURSE he should just publish a signed message or (equivalently) move some [bitcoin] through the key associated with an early block.\u201d For some, such as academic Zeynep Tefekci, even the evidence Wright is now promising may not be enough to overcome the doubts instilled by his initially underwhelming evidence. Moving bitcoin from an \u201cearly block\u201d, for instance, would only conclusively prove that Wright held the private keys of Nakamoto if the block was the very first one made: the so-called \u201cgenesis block\u201d, containing the first 50 bitcoins ever mined. In his latest post, Wright wrote at least one thing that everyone can agree with. \u201cFor some there is no burden of proof high enough, no evidence that cannot be dismissed as fabrication or manipulation.\u201d",
+  "webTitle": "Bitcoin: Craig Wright promises new evidence to prove identity",
+  "webPublicationDate": "2016-05-04T15:08:54Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/04/bitcoin-craig-wright-promises-extraordinary-evidence-prove-identity",
+  "keyword": [
+    {
+      "webTitle": "Bitcoin",
+      "id": "technology/bitcoin",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Cryptocurrencies",
+      "id": "technology/cryptocurrencies",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "E-commerce",
+      "id": "technology/efinance",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Internet",
+      "id": "technology/internet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Alex Hern",
+      "id": "profile/alex-hern"
+    }
+  ],
+  "guardianId": "technology/2016/may/04/bitcoin-craig-wright-promises-extraordinary-evidence-prove-identity"
+}

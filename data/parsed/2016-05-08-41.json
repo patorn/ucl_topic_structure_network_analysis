@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/commentisfree/2016/may/08/the-guardian-view-on-artificial-intelligence-look-out-its-ahead-of-you",
+  "id": "2016-05-08-41",
+  "sectionId": "commentisfree",
+  "body": "Google artificial intelligence project DeepMind is building software to trawl through millions of patient records from three NHS hospitals to detect early signs of kidney disease. The project raises deep questions not only about data protection but about the ethics of artificial intelligence. But these are not the obvious questions about the ethics of autonomous, intelligent computers. Computer programs can now do some things that it once seemed only human beings could do, such as playing an excellent game of Go. But even the smartest computer cannot make ethical choices, because it has no purpose of its own in life. The program that plays Go cannot decide that it also wants a driving licence like its cousin, the program that drives Google\u2019s cars. The ethical questions involved in the deal are partly political: they have to do with trusting a private US corporation with a great deal of data from which it hopes in the long term to make a great deal of money. Further questions are raised by the mere existence, or construction, of a giant data store containing unimaginable amounts of detail about patients and their treatments. This might yield useful medical knowledge. It could certainly yield all kinds of damaging personal knowledge. But questions of medical confidentiality, although serious, are not new in principle or in practice and they may not be the most disturbing aspects of the deal. What frightens people is the idea that we are constructing machines that will think for themselves, and will be able to keep secrets from us that they will use to their own advantage rather than to ours. The tendency to invest such powers in lifeless and unintelligent things goes back to the very beginnings of AI research and beyond. In the 1960s, Joseph Weizenbaum, one of the pioneers of computer science, created the chatbot Eliza, which mimicked a non-directional psychoanalyst. It used cues supplied by the users \u2013 \u201cI\u2019m worried about my father\u201d \u2013 to ask open-ended questions: \u201cHow do you feel about your father?\u201d The astonishing thing was that students were happy to answer at length, as if they had been asked by a sympathetic, living listener. Weizenbaum was horrified, especially when his secretary, who knew perfectly well what Eliza was, asked him to leave the room while she \u201ctalked\u201d to it. Eliza\u2019s latest successor, Xian\u2019er, the Worthy Stupid Robot Monk, functions in a Buddhist temple in Beijing, where it dispenses wisdom in response to questions asked through a touchpad on his chest. People seem to ask it serious questions such as \u201cWhat is love?\u201d, \u201cHow do I get ahead in life?\u201d; the answers are somewhere between a horoscope and a homily. Since they are not entirely predicable, Xian\u2019er is treated as a primitive kind of AI. Most discussions of AI and most calls for an ethics of AI assume we will have no problem recognising it once it emerges. The examples of Eliza and Xian\u2019er show this is questionable. They get treated as intelligent even though we know they are not. But that is only one error we could make when approaching the problem. We might also fail to recognise intelligence when it does exist, or while it is emerging. The myth of Frankenstein\u2019s monster is misleading. There might be no lightning bolt moment when we realise that it is alive and uncontrollable. Intelligent brains are built from billions of neurones that are not themselves intelligent. If a post-human intelligence arises, it will also be from a system of parts that do not, as individuals, share in the post-human intelligence of the whole. Parts of it would be human. Parts would be computer systems. No part could understand the whole but all would share its interests without completely comprehending them. Such hybrid systems would not be radically different from earlier social inventions made by humans and their tools, but their powers would be unprecedented. Constructing and enforcing an ethical framework for them would be as difficult as it has been to lay down principles of international law. But it may become every bit as urgent.",
+  "webTitle": "The Guardian view on artificial intelligence: look out, it\u2019s ahead of you | Editorial",
+  "webPublicationDate": "2016-05-08T19:41:44Z",
+  "webUrl": "https://www.theguardian.com/commentisfree/2016/may/08/the-guardian-view-on-artificial-intelligence-look-out-its-ahead-of-you",
+  "keyword": [
+    {
+      "webTitle": "Artificial intelligence (AI)",
+      "id": "technology/artificialintelligenceai",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Consciousness",
+      "id": "science/consciousness",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Computing",
+      "id": "technology/computing",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Google",
+      "id": "technology/google",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Robots",
+      "id": "technology/robots",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Editorial",
+      "id": "profile/editorial"
+    }
+  ],
+  "guardianId": "commentisfree/2016/may/08/the-guardian-view-on-artificial-intelligence-look-out-its-ahead-of-you"
+}

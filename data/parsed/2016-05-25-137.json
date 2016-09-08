@@ -1,0 +1,43 @@
+{
+  "apiUrl": "https://content.guardianapis.com/lifeandstyle/2016/may/25/why-rarely-see-dead-birds",
+  "id": "2016-05-25-137",
+  "sectionId": "lifeandstyle",
+  "body": "Why is it that you never see bird corpses (except those the cat brings in) when the countryside should be littered with them? Where do they go to die? John Parke, London SW14 \u2022 Post your answers \u2013 and new questions \u2013 below or email them to nq@theguardian.com. Please include name, address and phone number.",
+  "webTitle": "Why do you so rarely see dead birds?",
+  "webPublicationDate": "2016-05-25T14:05:42Z",
+  "webUrl": "https://www.theguardian.com/lifeandstyle/2016/may/25/why-rarely-see-dead-birds",
+  "keyword": [
+    {
+      "webTitle": "Birds",
+      "id": "environment/birds",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Wildlife",
+      "id": "environment/wildlife",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Animals",
+      "id": "world/animals",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [],
+  "guardianId": "lifeandstyle/2016/may/25/why-rarely-see-dead-birds"
+}

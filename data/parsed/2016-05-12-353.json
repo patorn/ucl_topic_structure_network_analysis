@@ -1,0 +1,90 @@
+{
+  "apiUrl": "https://content.guardianapis.com/money/2016/may/12/barclays-contactless-payment-app-android-phones",
+  "id": "2016-05-12-353",
+  "sectionId": "money",
+  "body": "Barclays is launching the UK\u2019s first Android contactless payment service, which will allow customers to use their smartphone to \u201cwave and pay\u201d in shops, restaurants and across the London transport network. Hot on the heels of Apple Pay, and offered as a direct rival to Google\u2019s Android Pay which launches in the UK this year, Barclays\u2019 Contactless Mobile will enable customers to pay with their Android handset in the same way as a contactless bank card. The service is expected go live in June.  Contactless card payments have boomed in the past few years, helped by increasing numbers of contactless cards in wallets, and far more contactless terminals in shops and restaurants. Visa said yesterday that 3bn contactless transactions were made across Europe in the past 12 months, three times as many as the year before.  Contactless mobile payments, in which the handset takes the place of the bank card, are seen as the next big thing in payments, as more consumers upgrade to mobiles equipped with the necessary near field communication (NFC) technology.  Barclays said its service would be incorporated into its Barclays mobile banking app, which is used by 5 million customers.  Only customers who have one of the latest Android smartphones \u2013 typically less than six months old \u2013 will be able to make contactless payments. To make a purchase up to the contactless maximum of \u00a330 the phone will have to be turned on, but no bank card has to be present. Users select a default bank card within the app, but can switch to another before purchase if required.  The service will also allow contactless payments up to \u00a3100 with the use of a pin typed into the phone\u2019s keypad.  Ashok Vaswani, chief executive of Barclays UK, said: \u201cGiving customers the choice about how to make everyday payments while making it really easy for people to use our services is why we\u2019ve designed this contactless payment functionality. It\u2019s all there in one place, ready to go with no need to enter card details, delivering a brilliant experience in an instant.\u201d  Most of the rival UK banks will operate Google\u2019s Android Pay. Apple iPhone users have had access to Apple Pay in the UK since July. Similarly, that is limited to owners of the latest NFC-enabled handsets.",
+  "webTitle": "Barclays to launche contactless payment app for Android",
+  "webPublicationDate": "2016-05-12T06:00:21Z",
+  "webUrl": "https://www.theguardian.com/money/2016/may/12/barclays-contactless-payment-app-android-phones",
+  "keyword": [
+    {
+      "webTitle": "Contactless payments",
+      "id": "money/contactless-payments",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Banks and building societies",
+      "id": "money/banks",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Consumer affairs",
+      "id": "money/consumer-affairs",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Banking",
+      "id": "business/banking",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Barclays",
+      "id": "business/barclay",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Mobile phones",
+      "id": "money/mobile-phones",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Mobile phones",
+      "id": "technology/mobilephones",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Telecoms",
+      "id": "technology/telecoms",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Miles Brignall",
+      "id": "profile/milesbrignall"
+    }
+  ],
+  "guardianId": "money/2016/may/12/barclays-contactless-payment-app-android-phones"
+}

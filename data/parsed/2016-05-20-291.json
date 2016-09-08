@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/20/john-berry-dead-founding-beastie-boys-member",
+  "id": "2016-05-20-291",
+  "sectionId": "music",
+  "body": "John Berry, one of the founding members of the Beastie Boys, has died aged 52. The musician\u2019s father told Rolling Stone that Berry had died on Thursday in a hospice in Danvers, Massachusetts, after his frontal lobe dementia condition had worsened in recent months.   Related: John Berry: Beastie Boys founder was much more than a punk rock footnote    Although the Beastie Boys rose to fame as a hip-hop three-piece, they originated as a hardcore punk band called the Young Aborigines in 1978, featuring Berry, Michael \u201cMike D\u201d Diamond, Adam \u201cMCA\u201d Yauch and Kate Schellenbach. Berry, the band\u2019s guitarist, left shortly after the release of their first EP, Polly Wog Stew, and was replaced by Adam \u201cAd-Rock\u201d Horovitz. Berry\u2019s tenure in the group lasted for less than a year but he was an instrumental part of their formation: Yauch, Diamond, and Horovitz have credited Berry with coming up with the group\u2019s name, while his apartment on Manhattan\u2019s Upper West Side served as the venue for the first Beastie Boys shows. Berry went on to perform with a number of other bands including Bourbon Deluxe, Highway Stars, Big Fat Love, and Even Worse.  The group mentioned his contribution in a speech during their Rock and Roll Hall of Fame induction in 2012. Horovitz, who read the speech, gave a dedication \u201cto John Berry [and] to John Berry\u2019s loft on 100th Street and Broadway, where John\u2019s dad would come busting in during our first practices screaming, \u2018Would you turn that fucking shit off already?\u2019\u201d            In 2014, Mike D has said that the group had been unable to stage live shows or record new music since the death of Adam Yauch of cancer two years earlier.",
+  "webTitle": "John Berry, founding Beastie Boys member, dies aged 52",
+  "webPublicationDate": "2016-05-20T07:58:27Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/20/john-berry-dead-founding-beastie-boys-member",
+  "keyword": [
+    {
+      "webTitle": "Beastie Boys",
+      "id": "music/beastie-boys",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Punk",
+      "id": "music/punk",
+      "sectionId": "music",
+      "sectionName": "Music"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian music",
+      "id": "profile/guardianmusic"
+    }
+  ],
+  "guardianId": "music/2016/may/20/john-berry-dead-founding-beastie-boys-member"
+}

@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://content.guardianapis.com/money/2016/may/01/argos-recalls-mamas-papas-child-car-seats",
+  "id": "2016-05-01-37",
+  "sectionId": "money",
+  "body": "Argos has warned parents to stop using certain Mamas & Papas car seats because of fears they may not protect children during a crash.   Related: Ikea recalls bat cape costume due to 'risk of strangulation'    The retailer issued an urgent recall for the products after tests suggested the car seat could crack in a collision.  The models concerned are: Mamas & Papas Mercury Group 1 Black (Argos catalogue number 297/7526); Mamas & Papas Mercury Group 1 Grey (Argos catalogue number 411/9100); Mamas & Papas Mercury Group 1-2-3 Black (Argos catalogue number 305/6037); Mamas & Papas Mercury Group 1, 2, 3 Grey (Argos catalogue number 397/9530) Mamas & Papas Mercury Group 2-3 Black and Grey (Argos catalogue number 245/4829). Argos said in a statement: \u201cIf you have purchased any of the above seats, you should immediately stop using the product and return the car seat to your local Argos store for a full refund. We wish to thank you for your cooperation and apologise for any inconvenience caused by this recall.\u201d",
+  "webTitle": "Argos recalls Mamas & Papas child car seats",
+  "webPublicationDate": "2016-05-01T19:54:17Z",
+  "webUrl": "https://www.theguardian.com/money/2016/may/01/argos-recalls-mamas-papas-child-car-seats",
+  "keyword": [
+    {
+      "webTitle": "Product recalls",
+      "id": "money/product-recalls",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Retail industry",
+      "id": "business/retail",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [],
+  "guardianId": "money/2016/may/01/argos-recalls-mamas-papas-child-car-seats"
+}

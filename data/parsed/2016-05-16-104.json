@@ -1,0 +1,52 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/16/venezuelas-state-of-emergency-whats-the-situation-like-where-you-are",
+  "id": "2016-05-16-104",
+  "sectionId": "world",
+  "body": "Venezuela\u2019s president, Nicol\u00e1s Maduro, has declared a 60-day state of emergency after a week of violent demonstrations for a recall vote and hours after US intelligence officials warned the country disintegrate. Maduro hopes the state of emergency will allow him to invoke powers to help stabilise the country and \u201cconfront all the international and national threats against our fatherland in this moment\u201d. Soaring inflation, a shrinking economy, food shortages and power cuts \u2013 attributed to a lack of rain affecting Venezuela\u2019s dams, the country\u2019s main electricity source \u2013 are daily struggles for most Venezuelans. In an attempt to ease the strain, the government has tried moving clocks forward by half an hour, closing schools on Fridays, assigning public servants two-day weeks and the president has even asked women to stop blow-drying their hair. If you\u2019re in Venezuela, we\u2019d like to know what the situation is like where you are; how the state of emergency is affecting your life and what you think of Maduro\u2019s efforts. Fill in the form anonymously below, and we\u2019ll use a selection of responses in our coverage. You do not need to answer every question.",
+  "webTitle": "Venezuela's state of emergency: what's the situation like where you are?",
+  "webPublicationDate": "2016-05-16T17:10:31Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/16/venezuelas-state-of-emergency-whats-the-situation-like-where-you-are",
+  "keyword": [
+    {
+      "webTitle": "Venezuela",
+      "id": "world/venezuela",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Americas",
+      "id": "world/americas",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Nicol\u00e1s Maduro",
+      "id": "world/nicolas-maduro",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Global development",
+      "id": "global-development/global-development",
+      "sectionId": "global-development",
+      "sectionName": "Global development"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Carmen Fishwick",
+      "id": "profile/carmen-fishwick"
+    },
+    {
+      "webTitle": "Guardian readers",
+      "id": "profile/guardian-readers"
+    }
+  ],
+  "guardianId": "world/2016/may/16/venezuelas-state-of-emergency-whats-the-situation-like-where-you-are"
+}

@@ -1,0 +1,90 @@
+{
+  "apiUrl": "https://content.guardianapis.com/books/2016/may/10/philip-roth-patti-smith-and-woody-allen-join-protest-at-jailing-of-egyptian-writer",
+  "id": "2016-05-10-113",
+  "sectionId": "books",
+  "body": "More than 120 prominent international writers and artists have called on Egypt\u2019s president to release author and journalist Ahmed Naji, who is in prison for writing a sexually explicit novel. Authors Philip Roth, Chimamanda Ngozi Adichie and Dave Eggers, singer-songwriter Patti Smith, film-maker Woody Allen and composer Stephen Sondheim are among the signatories of a letter sent by free speech organisation PEN America in a bid to raise the pressure on President Abdel Fatah al-Sisi over his crackdown on Egyptian cultural figures and organisations. The letter urges Sisi to drop the charges against Naji and amend Article 178 of the Egyptian penal code, under which he was sentenced to two years in prison in February, to comply with the country\u2019s legal protections for artistic and literary freedom. The case was filed by a private citizen who complained that sexually explicit extracts from the writer\u2019s novel The Use of Life, published in state media, caused him to suffer heart palpitations. The letter states: \u201cMr Naji is serving a two-year prison sentence for writing a novel that contains references to sex and drugs, subjects so relevant to contemporary life that they are addressed through creative expression worldwide, and clearly fall within Egypt\u2019s constitutional protections for artistic freedom.\u201d The letter comes a week after Egypt\u2019s repression of the arts and media continued with the arrests of two journalists during a reported raid on the Egyptian Press Syndicate. At least 23 journalists were imprisoned in the country last year. According to the Committee to Protect Journalists, Egypt is now second only to China in jailing journalists, with prison sentences for writers nearly doubled since 2014.  Over the past year, Egyptian authorities have also closed cultural centres, raided and partially demolished Cairo\u2019s best-known contemporary art gallery, and jailed several other artists, including film producer Rana El-Sobky and poet Fatima Naoot. Naji\u2019s supporters in Egypt claim that his prosecution was politically motivated because he has been a vocal critic of official corruption under Sisi\u2019s regime. The author will be honoured in absentia with PEN America\u2019s Freedom to Write award at the organisation\u2019s annual literary gala in New York on 16 May. The Egyptian Constitution, drafted in 2014, explicitly guarantees freedom of artistic and literary expression and Article 67 forbids the jailing of artists and writers for publishing their work. But Article 178 criminalises content that violates public morals. Suzanne Nossel, executive director of PEN America, said: \u201cAhmed Naji dared to test his country\u2019s new constitution, which expressly protects creative expression. His jail sentence for a crime of the imagination flouts the rule of law and is yet another blow to the dynamic literary and arts scene in Egypt.\u201d",
+  "webTitle": "Philip Roth, Patti Smith and Woody Allen join protest at jailing of Egyptian writer",
+  "webPublicationDate": "2016-05-10T16:02:26Z",
+  "webUrl": "https://www.theguardian.com/books/2016/may/10/philip-roth-patti-smith-and-woody-allen-join-protest-at-jailing-of-egyptian-writer",
+  "keyword": [
+    {
+      "webTitle": "PEN",
+      "id": "books/pen",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Books",
+      "id": "books/books",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Awards and prizes",
+      "id": "culture/awards-and-prizes",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Fiction",
+      "id": "books/fiction",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "PEN literary prizes",
+      "id": "books/penliteraryprizes",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Philip Roth",
+      "id": "books/philiproth",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Woody Allen",
+      "id": "film/woodyallen",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Chimamanda Ngozi Adichie",
+      "id": "books/chimamanda-ngozi-adichie",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Dave Eggers",
+      "id": "books/dave-eggers",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Patti Smith",
+      "id": "music/patti-smith",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Censorship",
+      "id": "world/censorship",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "David Batty",
+      "id": "profile/davidbatty"
+    }
+  ],
+  "guardianId": "books/2016/may/10/philip-roth-patti-smith-and-woody-allen-join-protest-at-jailing-of-egyptian-writer"
+}

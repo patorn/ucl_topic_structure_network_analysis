@@ -1,0 +1,30 @@
+{
+  "apiUrl": "https://content.guardianapis.com/lifeandstyle/2016/may/04/recipe-swap-miso",
+  "id": "2016-05-04-114",
+  "sectionId": "lifeandstyle",
+  "body": "To be in with chance of being crowned Guardian home cook of the year, share your miso recipes with us. Email recipes@theguardian.com, upload them to GuardianWitness or post them on Instagram @guardian_cook #RRS #miso by noon on Wednesday 11 May. Selected recipes will appear in Cook and online on 21 May. You can share your miso recipes and photos by clicking on the \u2018Contribute\u2019 button on this article. You can also use the Guardian app and search for \u2018GuardianWitness assignments.\u2019  GuardianWitness is the home of readers\u2019 content on the Guardian. Contribute your video, pictures and stories, and browse news, reviews and creations submitted by others. Posts will be reviewed prior to publication.",
+  "webTitle": "Recipe swap: miso",
+  "webPublicationDate": "2016-05-04T15:55:16Z",
+  "webUrl": "https://www.theguardian.com/lifeandstyle/2016/may/04/recipe-swap-miso",
+  "keyword": [
+    {
+      "webTitle": "Food & drink",
+      "id": "lifeandstyle/food-and-drink",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian readers",
+      "id": "profile/guardian-readers"
+    }
+  ],
+  "guardianId": "lifeandstyle/2016/may/04/recipe-swap-miso"
+}

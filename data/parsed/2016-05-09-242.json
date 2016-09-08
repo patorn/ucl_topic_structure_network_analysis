@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/09/suspended-snp-mp-natalie-mcgarry-pays-damages-over-holocaust-denier-twitter-row",
+  "id": "2016-05-09-242",
+  "sectionId": "uk-news",
+  "body": "The suspended SNP MP Natalie McGarry has admitted she made a \u201cserious mistake\u201d when she accused a pro-union campaigner of being an \u201couted Holocaust denier\u201d on social media. Alastair Cameron, director of the campaign group Scotland in Union, accepted McGarry\u2019s apology, and agreed legal costs and a charitable donation, after the Glasgow East MP settled legal proceedings out of court. In a statement that will be pinned to her Twitter account for the next fortnight, McGarry said: \u201cOn 6th March I tweeted that the Scotland in Union was headed by an \u2018internet troll\u2019 and an \u2018outed Holocaust denier\u2019. I made a serious mistake and accept there is no truth to those statements and apologise unreservedly to Mr Cameron for any distress caused.\u201d The payment, which the Guardian understands to be about \u00a310,000, will go to the charities Combat Stress, Aegis Trust and Lumos after covering Cameron\u2019s legal costs. Cameron said: \u201cI am pleased to accept this apology from Ms McGarry and draw a line under this unfortunate incident. The payment Ms McGarry has agreed to make will go to three excellent charities which I have been involved with and I am delighted that some good will now come of this. \u201cPolitics in Scotland invokes passion and strong opinion on all sides, particularly on social media. I hope this serves as a reminder to us all that we need decency and respect in our debate, whether we agree with people or not.\u201d McGarry withdrew from the SNP whip last November after revelations linking her to an allegation that tens of thousands of pounds in donations may be missing from Women for Independence, the campaign group she helped found. She denies any wrongdoing and the police investigation is continuing. In January, McGarry prompted another Twitter controversy after she accused JK Rowling of bullying, causing the Harry Potter author to threaten legal proceedings.",
+  "webTitle": "Suspended SNP  MP pays damages over 'Holocaust denier' Twitter row",
+  "webPublicationDate": "2016-05-09T10:28:00Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/09/suspended-snp-mp-natalie-mcgarry-pays-damages-over-holocaust-denier-twitter-row",
+  "keyword": [
+    {
+      "webTitle": "Scotland",
+      "id": "uk/scotland",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Scottish politics",
+      "id": "politics/scotland",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Scottish National party (SNP)",
+      "id": "politics/snp",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Libby Brooks",
+      "id": "profile/libbybrooks"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/09/suspended-snp-mp-natalie-mcgarry-pays-damages-over-holocaust-denier-twitter-row"
+}

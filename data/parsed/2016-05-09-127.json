@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/09/lending-club-ceo-resigns-renaud-laplanche",
+  "id": "2016-05-09-127",
+  "sectionId": "business",
+  "body": "The CEO of online loan company Lending Club, Renaud Laplanche, abruptly resigned Monday morning in the wake of an internal investigation around a $22m loan that was issued to an investor \u201cin contravention of the investor\u2019s express instructions\u201d, according to a statement from the company. How exactly the loan contravened the instructions of the borrower was unclear from the statement, but that didn\u2019t stop the price of the company\u2019s stock from plummeting more than 25% when the US stock markets opened.  Scott Sanborn, Lending Club\u2019s president, will continue as interim CEO. The company admitted that the loans had not fallen within the conditions required by the borrower. \u201cCertain personnel apparently were aware that the sale did not meet the investor\u2019s criteria,\u201d the company said. Lending Club, one of the most high-profile of a new generation of \u201cfintech\u201d companies, has been public for just 18 months. By the end of its first quarter, 31 March 2016, the company was handling $10.2bn in loans serviced. It boasts a who\u2019s who of prominent finance sector names on its board, including former US treasury secretary and president of Harvard Larry Summers, housing-crises era Morgan Stanley CEO John Mack, and former Visa president Hans Morris. But its trajectory since the IPO has been a steady downhill slope; at Monday\u2019s opening bell on the New York stock exchange it was worth about $2.1bn. In April 2015, Lending Club announced it would expand to car loans and mortgages.",
+  "webTitle": "Lending Club CEO abruptly resigns amid $22m loan investigation",
+  "webPublicationDate": "2016-05-09T15:32:09Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/09/lending-club-ceo-resigns-renaud-laplanche",
+  "keyword": [
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Banking",
+      "id": "business/banking",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Financial sector",
+      "id": "business/financial-sector",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Sam Thielman",
+      "id": "profile/sam-thielman"
+    }
+  ],
+  "guardianId": "business/2016/may/09/lending-club-ceo-resigns-renaud-laplanche"
+}

@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/commentisfree/2016/may/26/whats-your-experience-of-student-debt",
+  "id": "2016-05-26-187",
+  "sectionId": "commentisfree",
+  "body": "A letter sent by graduate Simon Crowther to his MP detailing the rapid growth of his student loan since he left university has gone viral. Crowther claims that his loan grew to \u00a341,976 by the end of March, after accruing interest charges of up to \u00a3180 a month. He wrote that he and his fellow students \u201cfeel we have been cheated by a government who encouraged many of us to undertake higher education, despite trebling the cost of attending university\u201d. Crowther argues that most students have no idea what they are signing up for when they borrow money. Do you agree? If you\u2019re still struggling to pay off your student loan years after borrowing the money, or have noticed rapid interest rates, tell us about it. What do you think of the way student loans are handled? Are the terms clear? What warnings should be issued on taking out such loans? How has the way they\u2019re sold changed in the last few years? Tell us your thoughts by filling out the form below.",
+  "webTitle": "What's your experience of student debt?",
+  "webPublicationDate": "2016-05-26T13:06:51Z",
+  "webUrl": "https://www.theguardian.com/commentisfree/2016/may/26/whats-your-experience-of-student-debt",
+  "keyword": [
+    {
+      "webTitle": "Tuition fees",
+      "id": "education/tuition-fees",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Students",
+      "id": "education/students",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Education",
+      "id": "education/education",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Higher education",
+      "id": "education/higher-education",
+      "sectionId": "education",
+      "sectionName": "Education"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Sarah Marsh",
+      "id": "profile/sarah-marsh"
+    }
+  ],
+  "guardianId": "commentisfree/2016/may/26/whats-your-experience-of-student-debt"
+}

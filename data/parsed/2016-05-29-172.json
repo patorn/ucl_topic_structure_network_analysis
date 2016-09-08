@@ -1,0 +1,43 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/29/items-belonging-to-missing-australian-man-found-in-brazil",
+  "id": "2016-05-29-172",
+  "sectionId": "world",
+  "body": "Some of missing Australian man Rye Hunt\u2019s belongings have been found more than a week after he disappeared from Rio de Janeiro\u2019s main airport. The 25-year-old left Galeao international airport in a taxi on 21 May, after arranging to meet his travelling companion again in 30 minutes, his family said in a statement on Sunday. Some of Hunt\u2019s personal effects have been found but their location has not been released. Hunt and his travelling companion, with whom he had spent seven weeks travelling through south-east Asia and South America, were captured on CCTV before they split up. \u201cThere appears to have been an argument between Rye and his travel partner in the airport,\u201d the statement said. A crowd-funding campaign has raised money to send Hunt\u2019s uncle and his girlfriend to Rio to coordinate the search. The brother of his travel companion will also go to offer support. \u201cReceiving information today has given us, sort of, renewed hope,\u201d Hunt\u2019s sister Romany Brodribb told ABC Radio. \u201cIt better informs where the search will progress to from here.\u201d Tasmanian and West Australian police have been working with the foreign affairs department and Brazilian authorities to find Hunt, who has not used his social media, email and bank accounts, and does not appear to have used his phone. Hunt grew up in Tasmania and had been working in Kalgoorlie until he left the country on 1 April. He is an experienced traveller, having also visited south-east Asia and New Zealand. A social media campaign to #findrye has been shared across Australia and South America.",
+  "webTitle": "Items belonging to missing Australian man found in Brazil",
+  "webPublicationDate": "2016-05-29T06:36:49Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/29/items-belonging-to-missing-australian-man-found-in-brazil",
+  "keyword": [
+    {
+      "webTitle": "Brazil",
+      "id": "world/brazil",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Tasmania",
+      "id": "australia-news/tasmania",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Americas",
+      "id": "world/americas",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [],
+  "guardianId": "world/2016/may/29/items-belonging-to-missing-australian-man-found-in-brazil"
+}

@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/us-news/2016/may/18/donald-trump-fec-financial-disclosure",
+  "id": "2016-05-18-36",
+  "sectionId": "us-news",
+  "body": "The 104-page financial disclosure that Donald Trump filed with the Federal Election Commission (FEC) on Tuesday offered a rare window into the presumptive Republican nominee\u2019s financial holdings \u2013 including bonds in companies he has attacked on the campaign trail. Trump has steadfastly refused to release any of his tax returns, claiming that he is undergoing an IRS audit. Doing so is voluntary, although every presidential nominee has since 1976. In contrast, the FEC\u2019s financial disclosure is required by law. Trump heralded his disclosure \u2013 which covers the last 17 months \u2013 by stating that his income was $557m, his business revenues had increased by $190m and that \u201cMr Trump\u2019s net worth is in excess of $10 billion dollars.\u201d  The form, however, does not provide many specific details on Trump\u2019s income and liabilities. Instead, they are put in a variety of categories ranging from a 2015 loan for more than $50m to less than $201 in income from his 2007 book Think Big and Kick Ass. But the filing demonstrates a number of interesting investments by Trump. Despite his frequent tirades against Oreo cookies for moving some production to Mexico and his pledge to boycott the popular cookie, Trump earned between $5,000 and $15,000 in interest on bonds in Mondelez, the holding company which owns Oreo. Trump also earned between $2,500 and $5,000 in interest in bonds in United Technologies Corporation, the owner of Carrier Air Conditioning. On the campaign trail in Indiana, Trump repeatedly attacked Carrier for moving manufacturing jobs overseas and out of the state.  Trump also made significant sums of money from the 16 books he has authored. His newest tome, Crippled America, earned the presumptive nominee between $1m and $5m, while The Art Of The Deal \u2013 which Trump has called his second favorite book after the Bible \u2013 netted him between $50,000 and $100,000. The real estate mogul also reported that he made $49.3m from selling his share of the Miss Universe pageant as well as earning nearly $30m from his ownership of the Mar A Lago resort in Palm Beach. Trump also had to list all 564 positions he holds outside the United States government, all linked to being President of Trump ICE LLC and president, director and chairman of Trump World Productions.",
+  "webTitle": "Trump financial declaration reveals he holds bonds in companies he attacked",
+  "webPublicationDate": "2016-05-18T19:57:10Z",
+  "webUrl": "https://www.theguardian.com/us-news/2016/may/18/donald-trump-fec-financial-disclosure",
+  "keyword": [
+    {
+      "webTitle": "Donald Trump",
+      "id": "us-news/donaldtrump",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US elections 2016",
+      "id": "us-news/us-elections-2016",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US politics",
+      "id": "us-news/us-politics",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Republicans",
+      "id": "us-news/republicans",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ben Jacobs",
+      "id": "profile/ben-jacobs"
+    }
+  ],
+  "guardianId": "us-news/2016/may/18/donald-trump-fec-financial-disclosure"
+}

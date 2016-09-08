@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/15/eagulls-ullages-review",
+  "id": "2016-05-15-178",
+  "sectionId": "music",
+  "body": "In theory, cleaning up their previously scuzzy guitar sound and stripping out the hardcore stylings ought to have made Eagulls\u2019 post-punk songs more accessible. And yet, although that\u2019s precisely what the Leeds five-piece have done on their second album, curiously they aren\u2019t. There is undeniably a greater sophistication to their arrangements here and they still exude a sense of foreboding worthy of mid-1980s Cure, but having established a mood, their songs no longer seem to go anywhere interesting. My Life in Rewind and Psalms aim for \u201cmature\u201d but achieve \u201cponderous\u201d, and throughout, George Mitchell\u2019s vocals err on the side of the histrionic. One step forward, two steps back.",
+  "webTitle": "Eagulls: Ullages review \u2013 fails to go anywhere interesting",
+  "webPublicationDate": "2016-05-15T07:00:18Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/15/eagulls-ullages-review",
+  "keyword": [
+    {
+      "webTitle": "Indie",
+      "id": "music/indie",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Phil Mongredien",
+      "id": "profile/phil-mongredien"
+    }
+  ],
+  "guardianId": "music/2016/may/15/eagulls-ullages-review"
+}

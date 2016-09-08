@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/society/2016/may/19/englands-chief-medical-officer-warns-of-antibiotic-apocalypse",
+  "id": "2016-05-18-6",
+  "sectionId": "society",
+  "body": "The \u201cantibiotic apocalypse\u201d may already be upon us. According to Dame Sally Davies, chief medical officer for England, 50,000 people are dying every year in Europe and the US from infections that antibiotics have lost the power to treat. Davies has been at the forefront of the UK\u2019s efforts against antimicrobial resistance (AMR) and taken on a global leadership role. She has described the threatened loss of antibiotics to the world as on a par with terrorism and climate change. As the final report of Jim O\u2019Neill, the economist charged by the prime minister with finding solutions to the crisis, was published, Davies warned that the death toll was already high and our life spans, which once seemed to be forever lengthening, may fall. \u201cWe are already seeing the consequences of AMR, with estimates of around 50,000 deaths per year recently in Europe and the US, due to antibiotic resistant infections, and far greater numbers worldwide,\u201d Davies wrote in the foreword to a report by the Institute and Faculty of Actuaries on antimicrobial resistance. \u201cThe projected figures are much more worrying. It is quite possible \u2013 and perhaps even likely \u2013 that the recent era of material mortality improvements will give way to many years of material mortality worsening.\u201d     Dame Sally Davies: \u2018The recent era of material mortality improvements may give way to many years of material mortality worsening\u2019. Photograph: Yui Mok/PA    From tuberculosis to gonorrhoea, infections that used to be easily treated have once again become a serious threat. There are an estimated 480,000 cases a year of multi-drug resistant TB and 190,000 deaths from it. MDR-TB is hard to treat, requiring two years of antibiotics that are not available or affordable in some poorer countries. The World Health Organisation has just recommended a new shorter regime, lasting nine to 12 months, but cases of extremely drug resistant disease \u2013 XDR-TB \u2013 have emerged and are often lethal. Antibiotics are vital in the prevention of infection as well as its cure. Without them, surgery would again become life-threatening. Organ transplant patients rely on them because their own infection-fighting immune system must be suppressed by other drugs to prevent the body rejecting a donor organ. Childbirth could become much more dangerous. Pneumonia was known as \u201cthe old man\u2019s friend\u201d because it was so often the cause of death in the pre-antibiotic era and could be so again. The golden era of antibiotics, when new ones were often being discovered, is long past. It has become increasingly difficult for pharmaceutical companies to develop new ones as the old ones have lost their power to cure through over-use. Bacteria become drug-resistant by evolving to overcome antibiotics. That means new drugs must be used as little as possible, to keep them for extreme circumstances where the older drugs fail.  So the old model, in which pharmaceutical companies develop a new drug and then market it to sell as much as possible, is not in anybody\u2019s interest, because the more these drugs are used the faster they lose their potency. Among Lord O\u2019Neill\u2019s proposals is a new way of repaying companies for their inventions, through a \u201cmarket entry reward\u201d \u2013 a payment of around $1.3bn (\u00a3890m) to the successful developer of a new antibiotic for an \u201cunmet need\u201d. This, for the first time, would cut the link between research and development and the price of a drug, which is a model that campaigners have advocated for other diseases where the price of drugs is unaffordably high.",
+  "webTitle": "England\u2019s chief medical officer warns of \u2018antibiotic apocalypse\u2019",
+  "webPublicationDate": "2016-05-18T23:01:09Z",
+  "webUrl": "https://www.theguardian.com/society/2016/may/19/englands-chief-medical-officer-warns-of-antibiotic-apocalypse",
+  "keyword": [
+    {
+      "webTitle": "Antibiotics",
+      "id": "society/antibiotics",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Drugs",
+      "id": "science/drugs",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Sarah Boseley",
+      "id": "profile/sarahboseley"
+    }
+  ],
+  "guardianId": "society/2016/may/19/englands-chief-medical-officer-warns-of-antibiotic-apocalypse"
+}

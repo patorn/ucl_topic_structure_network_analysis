@@ -1,0 +1,90 @@
+{
+  "apiUrl": "https://content.guardianapis.com/australia-news/2016/may/20/dutton-refugee-remarks-uncertain-reception-multicultural-marginals",
+  "id": "2016-05-20-344",
+  "sectionId": "australia-news",
+  "body": "Peter Dutton\u2019s comments on Wednesday about refugees not being \u201cliterate or numerate\u201d and taking Australian jobs provoked a fierce reaction, including from the descendants of immigrants to Australia who, whether they were refugees or not, had limited English skills when they migrated. There are a number of marginal seats that regularly rank near the top on a range of metrics which indicate more multicultural and diverse communities: people who speak a language other than English at home, people born overseas and people with low proficiency in English.   Related: Any election involving Crosby Textor involves dead cats, and we've just been thrown one | Will Woodward     Most seats in these categories are in the western suburbs of Sydney and Melbourne, although in Sydney they include seats closer to the city such as Bennelong, Reid, Banks and Barton (seats not normally defined as \u201cwestern Sydney\u201d) and in Melbourne the south-eastern seat of Hotham. Inner-city seats such as Sydney and Melbourne have large populations born overseas, but rank lower in terms of people who don\u2019t speak English at home.       Most of these seats are safe for Labor, including Bill Shorten\u2019s seat of Maribyrnong and Chris Bowen\u2019s seat of McMahon. But five are marginal, all in Sydney: Banks, Barton, Bennelong, Parramatta and Reid. Banks is a key Liberal marginal along the Georges River in the St George and Bankstown areas, held by David Coleman by a 2.8% margin. Of its residents, 41.9% speak a language other than English at home (15th highest in the country), 36.4% are born overseas (only 34th highest) and 4.7% of people are \u201cnot at all\u201d proficient in English (12th highest). Fowler ranked highest on this last metric, with just over 7% of the population not at all proficient in English. Reid is another key Liberal marginal, covering suburbs along the southern shore of the Parramatta river, including Drummoyne, Concord, Burwood and Strathfield. Here, 65% of the population identifies with an ancestry other than Australian, British or Irish, and 48.4% were born overseas (top 10 in both categories). More than half of the Reid population speaks a language other than English at home, ranking it ninth in the country. Bennelong covers suburbs around Reid in northern Sydney \u2013 it straddles the north shore of Sydney and the western suburbs, and it has never been particularly safe, despite normally going to the Liberal party. Labor\u2019s Maxine McKew famously won Bennelong from then prime minister John Howard in 2007. In Bennelong, 44.1% of people speak a language other than English at home, and 3.8% claim to have no proficiency in English \u2013 44.3% of the population was born overseas.     A mixture of languages displayed on shop signage in the suburb of Eastwood in the federal seat of Bennelong, where 44.3% of the population was born overseas. Photograph: Dean Lewins/AAP    Barton straddles Marrickville, Canterbury and the Rockdale area in southern Sydney. It was won in 2013 by Liberal Nickolas Varvaris, but the seat is notionally Labor after the recent redistribution pulled parts of Marrickville from Grayndler into Barton.   Related: Guardian Live election special event with Lenore Taylor and Katharine Murphy    More than 60% of the population does not speak English at home \u2013 Barton is ranked fourth in the country on this measure. Almost 50% of the population was born overseas and more than 71% identify with an ancestry other than Australian, British or Irish. Parramatta is a marginal Labor seat in the centre of western Sydney. Labor\u2019s Julie Owens holds the seat on a 1.3% margin, and had a tough fight to hold on in 2013. In Parramatta, 57.7% speak a language other than English at home and 52% were born overseas. Labor has tended to dominate among non-English-speaking communities, which helps explain why Labor holds most of the seats in western Sydney and western Melbourne. We saw above-average swings away from Labor in safe Labor seats such as Fowler, Werriwa and McMahon in 2010, and in 2013 the Liberals gained Banks, Barton and Reid, all very diverse electorates. With those seats becoming crucial to the Liberals\u2019 chances of forming government, they may have more trouble reconciling a multicultural message with a message communicated to electorates in less diverse parts of Australia.",
+  "webTitle": "Dutton's refugee remarks face uncertain reception in multicultural marginals | Ben Raue",
+  "webPublicationDate": "2016-05-20T03:33:56Z",
+  "webUrl": "https://www.theguardian.com/australia-news/2016/may/20/dutton-refugee-remarks-uncertain-reception-multicultural-marginals",
+  "keyword": [
+    {
+      "webTitle": "Australian election 2016",
+      "id": "australia-news/australian-election-2016",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australian immigration and asylum",
+      "id": "australia-news/australian-immigration-and-asylum",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australian politics",
+      "id": "australia-news/australian-politics",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Peter Dutton",
+      "id": "australia-news/peter-dutton",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Coalition",
+      "id": "australia-news/coalition",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Sydney",
+      "id": "australia-news/sydney",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Race issues",
+      "id": "world/race",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Liberal party",
+      "id": "australia-news/liberal-party",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Labor party",
+      "id": "australia-news/labor-party",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Melbourne",
+      "id": "australia-news/melbourne",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "New South Wales",
+      "id": "australia-news/new-south-wales",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ben Raue",
+      "id": "profile/ben-raue"
+    }
+  ],
+  "guardianId": "australia-news/2016/may/20/dutton-refugee-remarks-uncertain-reception-multicultural-marginals"
+}

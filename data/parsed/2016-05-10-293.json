@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/10/japan-electric-car-charge-points-petrol-stations",
+  "id": "2016-05-10-293",
+  "sectionId": "world",
+  "body": "When it comes to electric vehicles, Japan is speeding ahead of the rest of the world, blissfully free of the range anxiety that afflicts plug-in drivers elsewhere. The country now has more electric car charging stops than petrol stations, according to a recent survey by Nissan. The Japanese automaker, whose fully battery-powered Leaf can travel up to 172km (107 miles) on a single charge, said there were more than 40,000 places nationwide where electric car owners could recharge their vehicles, compared with fewer than 35,000 petrol stations. While the US \u2013 where there are currently only 9,000 public charging stations but 114,500 filling stations \u2013 and other countries have been slow to develop the infrastructure to encourage electric vehicle take-up, Japanese government subsidies for people buying electric, hybrid and other low-emission cars have spawned a network of public and private power points. \u201cAn important element of the continued market growth is the development of the charging infrastructure,\u201d Joseph G Peter, Nissan\u2019s chief finance officer, told analysts, according to Bloomberg. While plug-ins are becoming more affordable, potential owners are put off by the fear of finding themselves far from home and unable to recharge. That is not a problem in Japan, where there are now 6,469 CHAdeMO quick chargers, compared with 3,028 in Europe and 1,686 in the US. When added to lower-level charging stations, the total number of power points in Japan exceeds 40,000.    #Japan now has more electric charging points than petrol stations https://t.co/r8XHteqQcX pic.twitter.com/vXNSzmJJJy\u2014 World Economic Forum (@wef) May 10, 2016    Critics have pointed out, however, that Nissan\u2019s figures include a huge number of chargers installed in private garages that, for the most part, are used by a single owner. Petrol stations, they add, have multiple pumps and so can serve more vehicles in a day than a single charging point. But industry experts are predicting single-user charging stations will become a thing of the past with the emergence of a power point version of Airbnb that allows private owners to share with other drivers. New apps that use GPS to locate the nearest public charging station are also calming fears among potential plug-in owners who worry about being marooned by a flat battery. Encouraged by Japan\u2019s experience, other countries are improving their electric vehicle infrastructure, with one recent report predicting that sales could reach 41 million worldwide by 2040, accounting for one in four cars on the road. Tesla Motors has its own network of charging stations in the US, Japan, China and Europe, while BMW and two other firms recently announced plans to build up to 100 fast chargers along the busiest roads on the east and west coasts of the US, Bloomberg said.",
+  "webTitle": "Japan now has more electric car charge points than petrol stations",
+  "webPublicationDate": "2016-05-10T07:07:32Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/10/japan-electric-car-charge-points-petrol-stations",
+  "keyword": [
+    {
+      "webTitle": "Japan",
+      "id": "world/japan",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Electric, hybrid and low-emission cars",
+      "id": "environment/electric-cars",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Asia Pacific",
+      "id": "world/asia-pacific",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Travel and transport",
+      "id": "environment/travel-and-transport",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Cities",
+      "id": "cities/cities",
+      "sectionId": "cities",
+      "sectionName": "Cities"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Justin McCurry",
+      "id": "profile/justinmccurry"
+    }
+  ],
+  "guardianId": "world/2016/may/10/japan-electric-car-charge-points-petrol-stations"
+}

@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/09/the-angry-birds-movie-review-game-spin-off-that-doesnt-quite-reach-lego-movie-levels",
+  "id": "2016-05-09-92",
+  "sectionId": "film",
+  "body": "That\u2019s right: a film has been made out of the addictive smartphone/tablet game Angry Birds, where catapults ping flightless birds at the little pink piggies who have stolen their eggs. This movie is driven by a naked commercial imperative \u2013 though perhaps no more than any other film \u2013 and it doesn\u2019t match up to the hyperactive, clever surreality of The Lego Movie. Yet there is a kind of pleasure and fascination, mixed with exasperation, in seeing how the game has been mangled and bent into the shape of the conventional animation narrative, with zappy little dialogue moments, funny characters and some sophisticated touches for the grownups (including a nod to The Shining, of all things).             Jason Sudekis voices Red, the grumpy red bird with big eyebrows who is the star of the game. After a rage outburst, he amusingly has to attend anger management sessions, but then the piggies arrive, pretending to be the birds\u2019 friends while scheming to take away their eggs. To rescue them, Red has to rediscover his inner righteous anger and to re-invade the piggies\u2019 domain. For this he must use the catapult the piggies have, erm, given them as a present, and he must also detonate the huge mounds of TNT that the piggies have left lying around. The sheer contrived ridiculousness is part of the fun. But you really do have to know the game.",
+  "webTitle": "The Angry Birds Movie review \u2013 game spin-off that doesn't quite reach Lego Movie levels",
+  "webPublicationDate": "2016-05-09T16:57:11Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/09/the-angry-birds-movie-review-game-spin-off-that-doesnt-quite-reach-lego-movie-levels",
+  "keyword": [
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Angry Birds",
+      "id": "technology/angry-birds",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Games",
+      "id": "technology/games",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Animation",
+      "id": "film/animation",
+      "sectionId": "film",
+      "sectionName": "Film"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Peter Bradshaw",
+      "id": "profile/peterbradshaw"
+    }
+  ],
+  "guardianId": "film/2016/may/09/the-angry-birds-movie-review-game-spin-off-that-doesnt-quite-reach-lego-movie-levels"
+}

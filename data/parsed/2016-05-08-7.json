@@ -1,0 +1,19 @@
+{
+  "apiUrl": "https://content.guardianapis.com/australia-news/2016/may/09/guardian-campaign-catchup",
+  "id": "2016-05-08-7",
+  "sectionId": "australia-news",
+  "body": "Read the latest Campaign catchup here, and sign up below to get the best of Australia\u2019s 2016 election sent to you every afternoon.        If you\u2019re reading this in the Guardian app, tap on \u2018Australian election briefing\u2019 at the top or bottom of this page, then tap on \u2018Follow series\u2019 to get an app notification as soon as the Campaign catchup publishes every afternoon. Or try our other emails:  The Guardian Today - Australia edition Australian Politics First Dog on the Moon Morning Mail Find them all here",
+  "webTitle": "The Australian election stories you need to read, in one handy email",
+  "webPublicationDate": "2016-05-08T22:14:51Z",
+  "webUrl": "https://www.theguardian.com/australia-news/2016/may/09/guardian-campaign-catchup",
+  "keyword": [
+    {
+      "webTitle": "Information",
+      "id": "info/info",
+      "sectionId": "info",
+      "sectionName": "Info"
+    }
+  ],
+  "authors": [],
+  "guardianId": "australia-news/2016/may/09/guardian-campaign-catchup"
+}

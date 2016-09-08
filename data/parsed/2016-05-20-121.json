@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/20/brazilian-strain-zika-virus-confirmed-in-africa-first-time-who",
+  "id": "2016-05-20-121",
+  "sectionId": "world",
+  "body": "Tests show an outbreak of Zika virus on the African island chain of Cape Verde is of the same strain as the one blamed for birth abnormalities in Brazil, the World Health Organisation (WHO) said on Friday.   \u201cThe findings are of concern because it is further proof that the outbreak is spreading beyond South America and is on the doorstep of Africa,\u201d said WHO\u2019s Africa director, Matshidiso Moeti. \u201cThis information will help African countries to re-evaluate their level of risk and adapt and increase their levels of preparedness,\u201d she said. Zika was first discovered in Africa in 1947 and until the past year it was thought to cause only mild symptoms with no known link to brain or birth disorders. Researchers identified two distinct lineages in 2012, African and Asian. As of 8 May, there had been 7,557 suspected cases in Cape Verde, an Atlantic archipelago that is about 350 miles (570km) west of Senegal and which has historic ties to Brazil. Until the virus was sequenced by the Institut Pasteur in Senegal, it was not certain if the outbreak was caused by the African or Asian type, which has hit Brazil and other Latin American countries. Moeti said she would not recommend strict travel restrictions to try to stop the spread of the disease further into Africa, but advocated efforts to control mosquito numbers and stop people being bitten. Bruce Aylward, the head of outbreaks and health emergencies at WHO, said it remained to be seen if African populations would have some immunity to the virus, which could mitigate the impact of a Zika outbreak on the continent. Dr Anthony S Fauci, the director of the National Institute of Allergy and Infectious Diseases, said such immunity was possible but by no means certain. \u201cIt is conceivable that there is a low level of immunity among the African population because they have been for a long time exposed to different strains of Zika \u2013 but nonetheless to Zika,\u201d he told the Guardian. But he added: \u201cAt this point in time we don\u2019t know what the impact is going to be of this amount of Zika in Africa, whether it is going to be an outbreak the kind of which we have seen in South America, or [whether] it might be something much, much more blunted than that. We don\u2019t know right now.\u201d US health officials have concluded that Zika infections in pregnant women can cause microcephaly, a birth defect marked by small head size that can lead to severe developmental problems in babies. The WHO has said there is strong scientific consensus that Zika can also cause Guillain-Barr\u00e9 syndrome, a rare neurological condition that causes temporary paralysis in adults. The connection between Zika and microcephaly first came to light last year in Brazil, which has confirmed more than 1,300 cases of microcephaly that it considers to be related to Zika infections in the babies\u2019 mothers. Cape Verde has reported three cases of microcephaly, and a mother thought to have caught Zika there later delivered a baby with microcephaly in the US. Cape Verde had not reported any cases of Guillain-Barr\u00e9, WHO said. While the Zika virus appears to be spreading globally, Fauci said he believed it was unlikely countries such as UK and France would experience outbreaks such as those occurring in South America. \u201cI would project that much of Europe would be very similar to the United States, which means that it is likely we will have some local outbreaks, but it is unlikely that we will have these broad, disseminated, sustained outbreaks like we are seeing in Brazil,\u201d he said.",
+  "webTitle": "Brazilian strain of Zika virus confirmed in Africa, says WHO",
+  "webPublicationDate": "2016-05-20T14:39:54Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/20/brazilian-strain-zika-virus-confirmed-in-africa-first-time-who",
+  "keyword": [
+    {
+      "webTitle": "Zika virus",
+      "id": "world/zika-virus",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Africa",
+      "id": "world/africa",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Cape Verde",
+      "id": "world/cape-verde",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Brazil",
+      "id": "world/brazil",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Americas",
+      "id": "world/americas",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Infectious diseases",
+      "id": "science/infectiousdiseases",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Medical research",
+      "id": "science/medical-research",
+      "sectionId": "science",
+      "sectionName": "Science"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Nicola Davis",
+      "id": "profile/nicola-davis"
+    }
+  ],
+  "guardianId": "world/2016/may/20/brazilian-strain-zika-virus-confirmed-in-africa-first-time-who"
+}

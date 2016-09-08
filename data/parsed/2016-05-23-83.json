@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/23/iraqi-forces-operation-to-retake-falluja-isis-shia-militias-us-airstrikes",
+  "id": "2016-05-23-83",
+  "sectionId": "world",
+  "body": "Iraqi forces, backed by Shia militias and US airstrikes, have launched a operation to retake Falluja from Islamic State, which has used the city as a redoubt within reach of Baghdad for more than two years. The military push on Monday came amid a political crisis that has pitched a restive public, angered by poor services and widespread corruption, against a government that has been unable to deal decisively with the terror group. Iraq\u2019s prime minister, Haidar al-Abadi, who has hitched his own fortunes to being able to introduce widespread reforms, travelled to a command centre east of Falluja before the operation, which began with US airstrikes before dawn. The United Nations warned that civilians trapped in the city were at \u201cgreat risk\u201d and called for safe corridors to allow them to flee the offensive. \u201cWe\u2019re very concerned about the fate of the civilians that remain in Falluja as the military operations are undertaken,\u201d a spokesman said. Falluja residents were told to leave the city before Monday\u2019s assault. However, some families that tried to flee were stopped by Isis, which has vowed to defend its positions with the same intensity shown by Sunni groups in two large battles against US forces in 2004. Isis is understood to have almost 2,000 fighters in Falluja as well as a large number of supporters. Though under siege for much of the past six months, more than 60,000 residents, from a pre-war population of more than 300,000, are thought to remain in the area, many of whom have little means to escape. Iraqi troops were deployed in large numbers to the south and east of the Sunni city, about 40 miles (65km) west of the capital. So too were Shia militias, which have often been at the vanguard of the fight against Isis elsewhere in the country, especially in Diyala province, between Baghdad and Kirkuk. Sunni tribal fighters also joined the fray.   Falluja map   The role of Shia militias, which were raised to supplement the state military after it surrendered Mosul and Tikrit to Isis in June 2014, has remained contentious throughout the two-year war, with some Sunni leaders alleging that these militias have pursued sectarian agendas.    Related: Moqtada al-Sadr supporters break into Baghdad green zone    Often better organised and more disciplined, the militias have frequently taken primacy over the national military, which has taken time to regroup after its collapse in Mosul. The US has invested heavily in rebuilding the Iraqi army in preparation for an anticipated fight to retake Mosul, in what is being billed as the most decisive battle in the war against Isis. Plans for the Mosul operation have repeatedly stalled, with Iraqi forces making slow progress from a frontline 60 miles to the south-east and a mooted partnership with nearby Kurdish peshmerga forces yet to take hold. Falluja is seen by military planners in Baghdad as less of a challenge, partly because the military is already at the city limits, but also because elite forces were buoyed earlier this year by a successful retake of much of Ramadi, a city nearby .   Related: Car bomb attacks in Baghdad kill at least 90    Isis took control of Falluja several months before it took Mosul and Tikrit. Parts of the city had remained a hotbed of extremism throughout the 13 years since the US-led invasion of Iraq led to the fall of the Saddam Hussein regime.",
+  "webTitle": "Iraqi forces launch military operation to retake Falluja from Isis",
+  "webPublicationDate": "2016-05-23T17:27:15Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/23/iraqi-forces-operation-to-retake-falluja-isis-shia-militias-us-airstrikes",
+  "keyword": [
+    {
+      "webTitle": "Iraq",
+      "id": "world/iraq",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Islamic State",
+      "id": "world/isis",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "US foreign policy",
+      "id": "us-news/us-foreign-policy",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Middle East and North Africa",
+      "id": "world/middleeast",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Martin Chulov",
+      "id": "profile/martin-chulov"
+    }
+  ],
+  "guardianId": "world/2016/may/23/iraqi-forces-operation-to-retake-falluja-isis-shia-militias-us-airstrikes"
+}

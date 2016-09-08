@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/26/russia-movies-patriotic-culture-ministry-funding-labour-military-history",
+  "id": "2016-05-26-210",
+  "sectionId": "film",
+  "body": "Russian film-makers hoping to win state funding for future projects would do well to target patriotic storylines aimed at discouraging extremism, reports Newsweek. The head of state film studio Roskino, Catherine Mtsituridze, recently revealed that a majority of Russian films are reliant on state funding to break even. Now the country\u2019s ministry of culture has published a list of eight subjects that local producers might want to address if they hope to win vital public cash.   Related: Russian film studio hopes to take on Hollywood after \u00a3300m investment    Priority will be given to films that highlight Russian military history and the Russian revolution, according to the list. Other preferred subjects include stories about protagonists of \u201cexemplary labour\u201d and tales that herald \u201ctraditional values\u201d, \u201cthe constructive actions of civil society\u201d or \u201cheroes fighting crime, terrorism and extremism\u201d. The culture ministry also hopes to encourage films that tell the story of pioneering discoveries, creations or feats and the struggle of the human will to overcome life\u2019s travails.  Last year, Russia\u2019s most famous film studio, Mosfilm, secured a \u00a3300m investment aimed at restoring the glory days of the company that introduced the world to Sergei Eisenstein and Andrei Tarkovsky. The move, aimed at helping the studio to rival Hollywood, appears timely. Russian weekly newspaper Argumenty i Fakty reported recently that even with increases in domestic film production, the total box office for homegrown movies has fallen in recent years. Meanwhile, Hollywood blockbusters such as last year\u2019s Star Wars: The Force Awakens and recent superhero smash Deadpool continue to thrive at the Russian box office.",
+  "webTitle": "Russia calls for patriotic, anti-extremist movies",
+  "webPublicationDate": "2016-05-26T11:48:17Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/26/russia-movies-patriotic-culture-ministry-funding-labour-military-history",
+  "keyword": [
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Russia",
+      "id": "world/russia",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ben Child",
+      "id": "profile/benchild"
+    }
+  ],
+  "guardianId": "film/2016/may/26/russia-movies-patriotic-culture-ministry-funding-labour-military-history"
+}

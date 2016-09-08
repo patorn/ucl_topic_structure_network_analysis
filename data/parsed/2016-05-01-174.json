@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/01/golden-years-film-review-creaky-comedy",
+  "id": "2016-05-01-174",
+  "sectionId": "film",
+  "body": "The dearth of \u2013 and appetite for \u2013 films featuring older protagonists was demonstrated by the success of The Best Exotic Marigold Hotel and its sequel. So in theory, this light-hearted comedy drama about a group of OAPs who decide to supplement their pension shortfalls with a crime spree should find a receptive audience. In practice, however, despite a likable cast of television and theatre stalwarts, this limps along like a botched hip operation. The production values lack polish and the performances lack vital life signs, but the main problem is a screenplay (co-written by Nick Knowles, present of DIY SOS) that leans heavily on jokes that are older than the cast and that stopped being funny several millennia ago.         Watch the trailer for Golden Years.",
+  "webTitle": "Golden Years \u2013 creaky laughs",
+  "webPublicationDate": "2016-05-01T07:00:48Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/01/golden-years-film-review-creaky-comedy",
+  "keyword": [
+    {
+      "webTitle": "Comedy",
+      "id": "film/comedy",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Drama",
+      "id": "film/drama",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Wendy Ide",
+      "id": "profile/wendy-ide"
+    }
+  ],
+  "guardianId": "film/2016/may/01/golden-years-film-review-creaky-comedy"
+}

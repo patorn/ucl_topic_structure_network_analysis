@@ -1,0 +1,25 @@
+{
+  "apiUrl": "https://content.guardianapis.com/science/2016/may/01/letter-sir-david-mackay-obituary",
+  "id": "2016-05-01-83",
+  "sectionId": "science",
+  "body": "In the late 1980s I was a scientist at the Royal Signals and Radar Establishment in Malvern. David MacKay was placed with our team as our summer student for two months\u2019 work experience. It rapidly became clear that not only did he fit well into our small thermal imaging research team, but he was able to complete the tasks we allocated to him in about half the time we would normally expect for a student. In his final week we ran out of jobs, so we suggested he could do his own little project. He presented us with an astrolabe made from cardboard and odds and ends found round the lab, with the appropriate azimuth and altitude circles for Malvern plotted on plastic transparencies using our lab plotter. When he left to go back to his second undergraduate year, we were sure he was heading for great things.",
+  "webTitle": "Letter: Sir David MacKay obituary",
+  "webPublicationDate": "2016-05-01T15:13:31Z",
+  "webUrl": "https://www.theguardian.com/science/2016/may/01/letter-sir-david-mackay-obituary",
+  "keyword": [
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    }
+  ],
+  "authors": [],
+  "guardianId": "science/2016/may/01/letter-sir-david-mackay-obituary"
+}

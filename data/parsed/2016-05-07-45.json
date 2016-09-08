@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/society/2016/may/07/liverpool-fizzy-drink-brands-sugar-obesity",
+  "id": "2016-05-07-45",
+  "sectionId": "society",
+  "body": "Liverpool city council is to start naming and shaming heavily sugared drinks, such as Lucozade and Coca-Cola, in a hard-hitting drive to warn parents about the health dangers they pose to their children. On Monday it will become the first council in Britain to campaign against what health experts say are \u201cunbelievable\u201d amounts of sugar in well-known brands of drink. Public health officials in the city hope their tough tactics will drive down sales of products that they blame for giving Liverpool one of the UK\u2019s highest rates of childhood obesity and tooth decay. Displays in GPs\u2019 surgeries, children\u2019s centres and hospitals featuring seven popular makes of soft drinks will highlight how much sugar each contains. The campaign, \u201cIs your child\u2019s sweet tooth harming their health?\u201d, will identify Lucozade as the worst offender, with 15.5 cubes of sugar, or 62g, in a 500ml bottle. It is closely followed by the 13.5 cubes in a bottle of Coca-Cola. \u201cI was astounded when we found out quite how much sugar was in some of these drinks. Some of the sugar levels are \u2026 astounding,\u201d said Dr Sandra Davies, the city\u2019s director of public health. The council\u2019s research, based on details provided on the labels of the bottles and on the manufacturers\u2019 websites, also looked at milk-based drinks and fruit juices. A 471ml bottle of Frijj chocolate milkshake had the third largest amount of sugar \u2013 12.7 cubes (50.8g) \u2013 while 300ml of Tropicana orange juice had 7.5 cubes, or 30g. Even a 500ml bottle of Volvic flavoured water had 5.75 cubes of sugar. \u201cYou can consume as much as your daily maximum recommended amount of sugar, or even double that, even if you have just one of these drinks,\u201d added Davies. Official guidelines on sugar intake were revised last year. The government now recommends that no one should get more than 5% of their total daily energy from sugar. Three-year-olds are meant to have no more than four sugar cubes a day, four- to six-year-olds at most five cubes, seven to 10-year-olds no more than six cubes, and 11-year-olds and older children a maximum of seven.     Dr Sandra Davies, Liverpool\u2019s director of public health, is leading the campaign.    \u201cThis is an educational campaign. We are targeting this at families to show how much sugar is in there, because people often don\u2019t realise that,\u201d said Davies. Sondos Albadri, a consultant in paediatric dentistry at Liverpool University, said sugary drinks were the main reason why, every day, children as young as five have teeth extracted. \u201cI had to remove 15 adult teeth for a 14-year-old recently. While that is an extreme case, it is not a rare occurrence. All this is largely preventable by reducing sugar intake and keeping teeth clean by brushing twice a day,\u201d he said. Liverpool\u2019s campaign differs from campaigns such as the government\u2019s Change4Life \u201csugar swaps\u201d initiative, because it details the sugar content of named drinks rather than just advising parents to steer clear of types of drinks, such as cola. Public health doctors urged ministers to use similar tactics nationally. \u201cIf naming brands results in fewer children suffering avoidable teeth extractions, then that has to be a very good thing,\u201d said Professor Simon Capewell, vice-president for policy at the UK Faculty of Public Health.\u201cWe await the evaluation results from Liverpool. But if naming and shaming works, then government, Public Health England and other evidence-based organisations will be powerfully influenced.\u201d But further steps were needed, added Capewell, including a sugar tax, reformulation of heavily-sugared products and a ban on marketing such products to children, because health groups think \u201csugar is the new tobacco\u201d, Capewell added. Public Health England declined to say whether it backed Liverpool\u2019s tactics. Dr Alison Tedstone, its chief nutritionist, said children should avoid sugary drinks altogether if it all possible and have water or lower-fat milk instead. \u201cIt is deeply concerning that children consume three times the official recommendations for sugar, their main source being sugary drinks. That is why our report on how to help people cut down on sugar proposed a levy on sugary drinks as well as controls on marketing, advertising and promotions of high-sugar products and reducing the sugar in food and drink,\u201d Tedstone added. Sweet truth How much sugar do children\u2019s favourite drinks contain?  Sugar lumps per product (one lump = 4g of sugar) Lucozade (500ml) 15.5 Coca-Cola (500ml) 13.5 Frijj chocolate milkshake (471ml) 12.7 Capri-Sun (330ml) 8.25 Tropicana orange juice (300ml) 7.5 Ribena (288ml) 7.25 Volvic flavoured water (500ml) 5.75 Source: Liverpool City Council",
+  "webTitle": "Liverpool in drive to name and shame fizzy drink brands",
+  "webPublicationDate": "2016-05-07T21:01:30Z",
+  "webUrl": "https://www.theguardian.com/society/2016/may/07/liverpool-fizzy-drink-brands-sugar-obesity",
+  "keyword": [
+    {
+      "webTitle": "Sugar",
+      "id": "society/sugar",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Liverpool",
+      "id": "uk/liverpool",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Children",
+      "id": "society/children",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Denis Campbell",
+      "id": "profile/deniscampbell"
+    }
+  ],
+  "guardianId": "society/2016/may/07/liverpool-fizzy-drink-brands-sugar-obesity"
+}

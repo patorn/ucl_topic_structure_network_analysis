@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/09/share-your-views-on-the-future-of-the-bbc",
+  "id": "2016-05-09-194",
+  "sectionId": "media",
+  "body": "As BBC stars attack the government\u2019s white paper outlining plans for the corporation\u2019s future, we want to hear your views. Last week the Match of the Day presenter Gary Lineker called the culture secretary, John Whittingdale, a \u201cchump\u201d for making a joke that abolishing the BBC was a \u201ctempting prospect \u2013 and he\u2019s not the only high-profile figure to criticise the way the government is handling the institution.   Related: Bafta TV awards: BBC is under threat, says Wolf Hall director    At the Bafta awards ceremony on Sunday, the director of Wolf Hall, Peter Kosminsky, struck a politcal tone, accusing the government of trying to \u201ceviscerate\u201d the BBC and Channel 4.  New proposals for the BBC board threatened its independence, Kosminsky said, adding, in comments cut from the broadcast speech, that they would turn the BBC into a state broadcaster like those in \u201cthose bastions of democracy Russia and North Korea\u201d. Whether you are a BBC viewer or listener and licence fee payer or an industry professional, we would like to hear your views on the future of the BBC. Do you listen to the Today programme for your morning news brief? Perhaps you share a home with fans of CBeebies, or maybe your weekday evenings are incomplete without a trip to Albert Square?  Whatever the BBC means to you, you can share your thoughts via the form below, and we\u2019ll use some of them in our continued coverage.",
+  "webTitle": "Share your views on the future of the BBC",
+  "webPublicationDate": "2016-05-09T12:51:39Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/09/share-your-views-on-the-future-of-the-bbc",
+  "keyword": [
+    {
+      "webTitle": "BBC",
+      "id": "media/bbc",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "John Whittingdale",
+      "id": "politics/john-whittingdale",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian readers",
+      "id": "profile/guardian-readers"
+    }
+  ],
+  "guardianId": "media/2016/may/09/share-your-views-on-the-future-of-the-bbc"
+}

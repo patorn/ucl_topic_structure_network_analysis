@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/05/life-hacks-apps-i-use-pretend-competent-adult",
+  "id": "2016-05-05-328",
+  "sectionId": "technology",
+  "body": "I am not a very organised person. When I decided to make my lunch at home, rather than buy it at work, it took the better part of a year before I could reliably leave the house in the morning with the lunch in my bag, rather than in the fridge. When I started going to the gym, I would often only realise I\u2019d skipped it when I unpacked my gym bag the morning after, only to notice that the clothes were unworn. As a coping mechanism, I\u2019m a serial consumer of life hacks, those tips and tricks designed to help people like me get through the day in a rough simulacrum of adulthood. Unfortunately, I\u2019m not organised enough to use most of them. I\u2019ve tried to-do lists: they generally involve me making a list at the start of the day, then remembering towards the end of the day that I made a list and that I should probably look at it. I\u2019ve tried Inbox Zero; I\u2019m currently at inbox 8,884, so you can see how well that went. I\u2019ve even tried the time management equivalent of fad diets, such as David Allen\u2019s Getting Things Done, which recommends triaging tasks into those you can do in a few minutes, those you can break down into those you can do in a few minutes and \u2026 something else. To be honest with you, I got distracted and didn\u2019t finish his book.   Related: Seven of the best to-do list apps    Some life hacks have been more helpful than others. Three in particular have entered my life to such an extent that they have become part of my routine, and it\u2019s now hard not to use them. 1Password Almost any password manager fits here, but 1Password is my preferred app. Its integration with the Apple ecosystem, in which I am (increasingly reluctantly) enmeshed, is second to none and it\u2019s got the most elegant interface of any of the password managers I\u2019ve used. Even if you\u2019re actually competent at adult life, you should be using a password manager. Passwords you can remember are, by and large, passwords other people can guess, or at least brute force. And you should stop reusing passwords on multiple sites. Yes, even the not-very-important sites that you don\u2019t log in to all that often. Yes, even that one. A password manager makes it trivial to have a different password for every site, and 1Password even lets you run a \u201csecurity audit\u201d, going back and examining older sites to make sure that you\u2019ve used secure, non-reused passwords there too. As an added bonus, the app also acts as a generic secure note store. Mine contains credit card information, bank details and personal data like my national insurance number, all protected with a fingerprint lock and pin code. YNAB YNAB \u2013 short for You Need a Budget \u2013 is single-handedly responsible for me not needing an overdraft. That alone makes it a must-buy. The app is a digital evolution of the old concept of \u201cpiggybanking\u201d: dividing your income into separate pools on payday, and not spending money from one pool on anything other than what it\u2019s for. In practice, that means that you end up devoting, say, \u00a360 a month to drinking out, and not spending more once it runs out \u2013 even if you have \u00a330 left in your clothes budget. Unlike most finance apps, YNAB isn\u2019t particularly backwards-looking. If you want to run detailed analytics on your spending habits, or store receipts and expenses to aid with your tax return preparation, you\u2019ll need a second piece of software alongside it. But in the end, that works out as a positive: too many people think that keeping very good track of exactly how much they overspend each month counts as \u201cmaking a budget\u201d, rather than just obsessively documenting how rapidly they\u2019re plummeting into penury.    Related: 10 awesome internet hacks to make your life better    As a result, YNAB doesn\u2019t require much setup time: simply put in how much money you have left and portion out how you\u2019ll spend it until next payday. When you\u2019re paid, portion that out and so on. Eventually, even that time gets saved, because most months, most budgets will be largely the same. YNAB also comes with a fancy app to help you record your spending in real time. I do not use the app because I always forget I have it installed, but I\u2019m sure it\u2019s very good. Citymapper The perfect travel app (if you\u2019re going to a city with an actual public transit network \u2013 it covers 31 cities worldwide) and the perfect app for people who don\u2019t know their way around the transit system of their hometown (if their hometown is one of the 31 cities). Citymapper also works surprisingly well as a salve for undoing the worst of my disorganisation. Even though I know how to get around my own city and I usually know roughly how long a journey will take \u2026 I\u2019m still late. Citymapper\u2019s journey planner is the saviour, however. Tell it when you need to be at your destination, and where it is, and the app tells you when to leave It even works in a bit of wiggle-room in case everything goes wrong. It takes into account scheduled train departure times, as well as disruption and engineering works, and will even \u2013 should you desire \u2013 tell you when it\u2019s quicker to hop on a bike hire for part of your journey. And if all that fails, then you can still take advantage of one last feature: the dynamic ETA, which lets you text a friend to tell them when you\u2019ll be arriving and updates if you\u2019re running late. It\u2019s cold comfort but better than nothing.  Those three apps are the core of my artificial competence but I\u2019m always on the look out for others. Here\u2019s what I think it takes to make a good life-hack app:  Routine: it\u2019s easy to use technology as an aid if it fits into a routine (say, check the app first thing every morning or after every meal); less so if you need to remember to use it. If I could remember things, I wouldn\u2019t need apps to help. Ease of setup: if you need to spend days or weeks preparing the app for your life, it\u2019s not good. All the apps above can fill themselves with the information they need as you use them, ensuring you won\u2019t invest time for nothing. Syncing: it\u2019s no good having your life stored just on one device. If you\u2019re going to outsource your life to an app, it needs to be available on whatever platform you are. Desktop, mobile and hopefully even a web app.  So are there any apps I\u2019ve missed? How do you fool people into thinking you\u2019re actually safe to be in charge of anything? Tell me in the comments below, please.",
+  "webTitle": "Life hacks: the apps I use to pretend that I'm a competent adult",
+  "webPublicationDate": "2016-05-05T06:00:44Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/05/life-hacks-apps-i-use-pretend-competent-adult",
+  "keyword": [
+    {
+      "webTitle": "Apps",
+      "id": "technology/apps",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Maps",
+      "id": "travel/travel-maps",
+      "sectionId": "travel",
+      "sectionName": "Travel"
+    },
+    {
+      "webTitle": "Travel",
+      "id": "travel/travel",
+      "sectionId": "travel",
+      "sectionName": "Travel"
+    },
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Consumer affairs",
+      "id": "money/consumer-affairs",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Alex Hern",
+      "id": "profile/alex-hern"
+    }
+  ],
+  "guardianId": "technology/2016/may/05/life-hacks-apps-i-use-pretend-competent-adult"
+}

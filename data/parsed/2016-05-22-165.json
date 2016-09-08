@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/22/the-silent-storm-review-overwrought-island-tale-damian-lewis",
+  "id": "2016-05-22-165",
+  "sectionId": "film",
+  "body": "Stunning views of the Isle of Mull lend much-needed beauty to this sternly overwrought tale of puritanical minister Balor McNeil (Damian Lewis) terrorising his outsider wife Aislin (Andrea Riseborough) on an increasingly deserted Scottish island. When young offender Fionn (Ross Anderson) is dumped on his doorstep, the minister\u2019s perpetual seething enters a new register, so it\u2019s a relief to everyone when he sets sail on a boat full of church pews, leaving wife and incomer to fend for themselves. Cinematographer Ed Rutherford, who worked wonders for Joanna Hogg on Archipelago and Exhibition, skilfully marks the tonal shift from shadowy storm clouds to hallucinogenic sunshine, leaving Riseborough and Anderson to frolic briefly in this fragile new Eden, awaiting the returning tempest. Writer-director Corinna McFarlane counterposes Bergmanesque interiors with gaping exteriors, while Alastair Caplin\u2019s eerie, evocative score cranks up the searing, brooding mood.         Watch a trailer for The Silent Storm.",
+  "webTitle": "The Silent Storm review \u2013 tempestuous drama on a Scottish island",
+  "webPublicationDate": "2016-05-22T07:00:36Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/22/the-silent-storm-review-overwrought-island-tale-damian-lewis",
+  "keyword": [
+    {
+      "webTitle": "Drama",
+      "id": "film/drama",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Damian Lewis",
+      "id": "culture/damian-lewis",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Mark Kermode",
+      "id": "profile/markkermode"
+    }
+  ],
+  "guardianId": "film/2016/may/22/the-silent-storm-review-overwrought-island-tale-damian-lewis"
+}

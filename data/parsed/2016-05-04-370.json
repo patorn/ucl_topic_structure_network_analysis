@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/australia-news/2016/may/04/ato-taskforce-to-crack-down-on-multinational-tax-avoidance-budget-2016",
+  "id": "2016-05-04-370",
+  "sectionId": "australia-news",
+  "body": "The Turnbull government is cracking down on multinational tax avoidance by creating a new taskforce inside the Australian Tax Office, with 1,000 specialist staff, to prosecute companies and wealthy individuals that are not paying the tax they should. It will also introduce a diverted profits tax \u2013 colloquially known as a \u201cGoogle tax\u201d \u2013 to prevent multinational corporations shifting income overseas to avoid paying tax in Australia. It has also promised to improve protections for whistleblowers that provide information on tax avoidance to the ATO.   Related: Superannuation: Coalition says budget's tighter tax concessions will hit wealthiest    The treasurer, Scott Morrison, says the measures will raise an additional $3.9bn over four years. \u201cEveryone has to pay their fair share of tax, especially large corporate and multinationals, on what they earn here in Australia,\u201d Morrison said on Tuesday. \u201cThe Turnbull government has been listening to the Australian people on this issue and is taking action. \u201cLast December, despite opposition, we secured the passage of world leading multinational tax avoidance laws\u2026 however, we need to do more. The government is especially proud of the new taskforce it will create within the ATO, which will comprise hundreds of specialist accountants, lawyers and economists. It represents a massive redistribution of personnel and resources within the ATO, costing the government $678m over four years. It will see the ATO\u2019s funding boosted by 55% for compliance programs for multinationals and high wealth individuals. It comes after the ATO has absorbed thousands of job cuts since 2013-14. A government spokesman said the 1,300\u2013strong taskforce would not all be new hires \u2013 new hires will be \u201ca few hundred,\u201d he said. The budget papers say: \u201cThe government will also ensure the ATO has access to the information it needs by enhancing information sharing between the ATO and the Australian Securities and Investments Commission.\u201d The improvements to whistleblower protection will take effect from 1 July 2018. The measures come after the ATO head, Chris Jordan, warned senators last month that the now-infamous law firm at the centre of the Panama Papers leak was not a \u201cone off\u201d, with dozens of other firms running similar operations around the world.   Related: Bracket creep changes in budget to save 500,000 from second-top marginal tax rate    He said the Panamanian firm Mossack Fonseca had not just been used for tax minimisation strategies \u2013 it had been used to conceal and aid criminal behaviour too. The ATO has identified over 800 Australian taxpayers in the Panama Papers data, linking over 120 of them to an associate offshore service provider located in Hong Kong.  About 80 names have also matched with names on the Australian Crime Commission\u2019s serious and organised crime intelligence database, Jordan said.",
+  "webTitle": "ATO taskforce to crack down on multinational tax avoidance",
+  "webPublicationDate": "2016-05-04T00:19:42Z",
+  "webUrl": "https://www.theguardian.com/australia-news/2016/may/04/ato-taskforce-to-crack-down-on-multinational-tax-avoidance-budget-2016",
+  "keyword": [
+    {
+      "webTitle": "Australian budget 2016",
+      "id": "australia-news/australian-budget-2016",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Tax (Australia)",
+      "id": "australia-news/tax-australia",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Scott Morrison",
+      "id": "australia-news/scott-morrison",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Tax havens",
+      "id": "world/tax-havens",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Gareth Hutchens",
+      "id": "profile/gareth-hutchens"
+    }
+  ],
+  "guardianId": "australia-news/2016/may/04/ato-taskforce-to-crack-down-on-multinational-tax-avoidance-budget-2016"
+}

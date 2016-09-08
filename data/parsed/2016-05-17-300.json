@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/greenslade/2016/may/17/website-photographer-is-latest-journalist-jailed-in-egypt",
+  "id": "2016-05-17-300",
+  "sectionId": "media",
+  "body": "Week by week, the Egyptian authorities are jailing journalists. The latest to be sentenced is a photographer, Ali Abdeen, who works for the news website El-Fagr. He got two years, according to his outlet, for inciting illegal protests, obstructing traffic and that catch-all offence known as \u201cpublishing false news.\u201d Abdeen, also known as Ali Beka, was arrested in Cairo on 25 April while attempting to cover protests against an Egyptian government deal to hand control of two Red Sea islands to Saudi Arabia.  El-Fagr colleagues presented testimony to the court on 14 May that Abdeen was on assignment at the time of his arrest. It made no difference. He was sent to jail immediately, although an appeal will be heard on Saturday (21 May). At least 33 journalists were detained on the same day as Abdeen. Most were released. But a group called Journalists Against Torture Observatory, said it documented 97 violations against journalists, including 46 detentions, 16 beatings and 10 cases of equipment being confiscated. \u201cThe Egyptian authorities insist on punishing the press for merely reporting the news while denying, with a straight face, that journalism is the reason for these arrests,\u201d said the Committee to Protect Journalists\u2019 Middle East and North Africa programme coordinator, Sherif Mansour. In a separate development, at a meeting of the UN security council on 11 May, Egypt\u2019s foreign minister, Sameh Shoukry, denied that journalists were being arrested arbitrarily.  He told the meeting: \u201cAnyone who has been imprisoned has been imprisoned for having circumvented laws or having perpetrated violent activities.\u201d Shoukry said journalists who had protested against a raid by authorities on the Egyptian Journalists\u2019 Syndicate in Cairo earlier this month were \u201charbouring\u201d people who were urging the assassination of Egypt\u2019s president, Abdel Fatah al-Sisi. In response, two lawyers who are representing two jailed Yanair news website journalists, Amr Badr and Mahmoud al-Sakka, pointed out that the journalists had not been accused of inciting such as assassination. Badr and al-Sakka were ordered to be detained for 15 days after being arrested on 2 May for allegedly inciting protests, attempting to overthrow the regime, and \u201cbroadcasting false news with the aim of disturbing public peace.\u201d  The journalists, who were staging a sit-in protest at the time of their arrest, deny the accusations. At a hearing on 14 May, a criminal court renewed their detention for 15 more days. Source: CPJ",
+  "webTitle": "Website photographer is latest journalist jailed in Egypt",
+  "webPublicationDate": "2016-05-17T06:21:38Z",
+  "webUrl": "https://www.theguardian.com/media/greenslade/2016/may/17/website-photographer-is-latest-journalist-jailed-in-egypt",
+  "keyword": [
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Egypt",
+      "id": "world/egypt",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Journalist safety",
+      "id": "media/journalist-safety",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Press freedom",
+      "id": "media/press-freedom",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Human rights",
+      "id": "law/human-rights",
+      "sectionId": "law",
+      "sectionName": "Law"
+    },
+    {
+      "webTitle": "Abdel Fatah al-Sisi",
+      "id": "world/abdel-fatah-al-sisi",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Middle East and North Africa",
+      "id": "world/middleeast",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Roy Greenslade",
+      "id": "profile/roygreenslade"
+    }
+  ],
+  "guardianId": "media/greenslade/2016/may/17/website-photographer-is-latest-journalist-jailed-in-egypt"
+}

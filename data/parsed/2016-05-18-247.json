@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/18/number-of-eu-migrants-working-in-uk-rises-to-record-level",
+  "id": "2016-05-18-247",
+  "sectionId": "world",
+  "body": "The number of European Union migrants working in Britain has risen by 224,000 to a record 2.15 million over the past year, the latest official labour force statistics reveal. The 229,000 total rise in the number of all migrants from inside and outside the EU working in Britain compares with a 185,000 rise in the number of Britons working in the UK labour force, according to the the Office for National Statistics. The fact that the increase in the proportion of non-UK nationals working in Britain is almost entirely accounted for by an increase in EU migration is bound to fuel the already fevered referendum debate over the impact of Britain\u2019s membership of the EU on immigration.   Related: Refugees will repay EU spending almost twice over in five years - report    The lion\u2019s share of the increase in EU migrants in work in Britain \u2013 131,000 of the 224,000 \u2013 comprises migrants from western European countries such as France, Italy and Spain, underlying Britain\u2019s current position as the \u201cjobs factory of Europe\u201d. There was also a smaller increase in numbers from Romania and Bulgaria. The ONS figures show that while employment of EU nationals increased by 224,000 to 2.15 million over the 12 months to March 2016, the number of nationals from outside the EU working in Britain was little changed at 1.19 million. The latest quarterly labour force survey data shows that there are 28.15 million Britons in work compared with 3.34 million non-UK nationals. This means that foreign national migrants working in Britain account for 10.6% of the workforce \u2013 an increase of just 3.5% since 1997, when records began.  The fact that the 229,000-strong rise in overseas migrant employment in Britain happened at the same time as an 185,000-strong rise in the number of Britons in work suggests that the idea that they are all coming over here \u201ctaking our jobs\u201d remains a fallacy. The ONS said that the 224,000 increase in the number of EU nationals working in Britain was partly accounted for by the removal of restrictions on Romanians and Bulgarians working in Britain. Their numbers in the British labour force rose from 173,000 to 228,000 between March 2015 and March 2016.  HMRC figures published last week said that recent EU migrants had paid \u00a33.1bn in income tax and national insurance in the tax year to April 2014 and claimed \u00a3556m in benefits - making a net contribution to the economy of more than \u00a32.5bn.",
+  "webTitle": "Number of EU migrants working in UK rises to record level",
+  "webPublicationDate": "2016-05-18T10:01:42Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/18/number-of-eu-migrants-working-in-uk-rises-to-record-level",
+  "keyword": [
+    {
+      "webTitle": "Migration",
+      "id": "world/migration",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Alan Travis",
+      "id": "profile/alantravis"
+    }
+  ],
+  "guardianId": "world/2016/may/18/number-of-eu-migrants-working-in-uk-rises-to-record-level"
+}

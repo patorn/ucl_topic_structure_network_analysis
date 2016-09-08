@@ -1,0 +1,84 @@
+{
+  "apiUrl": "https://content.guardianapis.com/education/2016/may/13/illustrator-chris-riddell-attacks-school-tests-with-sats-beasties-drawings",
+  "id": "2016-05-13-39",
+  "sectionId": "education",
+  "body": "The children\u2019s laureate Chris Riddell has waded into the row over the value of Sats with a series of surreal sketches. Riddell, an illustrator and political cartoonist who was appointed children\u2019s laureate last year, has sketched a series of what he calls \u201cSats beasties\u201d in response to warnings by authors and parents that the current system of testing primary school children is detrimental.     The fronted adverbial is another of the Sats beasties. Illustration: Chris Riddell    The dispute led to the first ever \u2018pupils\u2019 strike\u2019 last week, where parents took their children out of school in protest at the stressful exams. Riddell\u2019s drawings illustrate his view of the negative impact the tests have on children\u2019s approach to reading, through a series of \u201cgrammar monsters\u201d such as the trigraph and the fronted adverbial. Riddell said: \u201cI think reading for pleasure is the most important lesson our children can be taught and to achieve this we need dedicated school librarians teaching the love of books not Sats tests with stressed teachers and children.\u201d",
+  "webTitle": "Illustrator Chris Riddell attacks school tests with 'Sats beasties' drawings",
+  "webPublicationDate": "2016-05-13T19:10:25Z",
+  "webUrl": "https://www.theguardian.com/education/2016/may/13/illustrator-chris-riddell-attacks-school-tests-with-sats-beasties-drawings",
+  "keyword": [
+    {
+      "webTitle": "Sats",
+      "id": "education/sats",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Chris Riddell",
+      "id": "books/chris-riddell",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Children",
+      "id": "society/children",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Books",
+      "id": "books/books",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Education",
+      "id": "education/education",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Schools",
+      "id": "education/schools",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Illustration",
+      "id": "artanddesign/illustration",
+      "sectionId": "artanddesign",
+      "sectionName": "Art and design"
+    },
+    {
+      "webTitle": "Art and design",
+      "id": "artanddesign/artanddesign",
+      "sectionId": "artanddesign",
+      "sectionName": "Art and design"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Design",
+      "id": "artanddesign/design",
+      "sectionId": "artanddesign",
+      "sectionName": "Art and design"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Hannah Ellis-Petersen",
+      "id": "profile/hannah-ellis-petersen"
+    }
+  ],
+  "guardianId": "education/2016/may/13/illustrator-chris-riddell-attacks-school-tests-with-sats-beasties-drawings"
+}

@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/18/google-patents-sticky-layer-self-driving-car-accidents",
+  "id": "2016-05-19-348",
+  "sectionId": "technology",
+  "body": "Google has patented a new \u201csticky\u201d technology to protect pedestrians if \u2013 or when \u2013 they get struck by the company\u2019s self-driving cars. The patent, which was granted on 17 May, is for a sticky adhesive layer on the front end of a vehicle, which would aim to reduce the damage caused when a pedestrian hit by a car is flung into other vehicles or scenery.   Related: Google's self-driving car: How does it work and when can we drive one?    \u201cIdeally, the adhesive coating on the front portion of the vehicle may be activated on contact and will be able to adhere to the pedestrian nearly instantaneously,\u201d according to the patent description.  \u201cThis instantaneous or nearly-instantaneous action may help to constrain the movement of the pedestrian, who may be carried on the front end of the vehicle until the driver of the vehicle (or the vehicle itself in the case of an autonomous vehicle) reacts to the incident and applies the brakes.\u201d  \u201cAs such,\u201d it continues, \u201cboth the vehicle and pedestrian may come to a more gradual stop than if the pedestrian bounces off the vehicle.\u201d     Google\u2019s adhesive layer patent. Photograph: United States Patent and Trademark Office    The patent describes itself as specifically aimed at self-driving cars but notes that it can be used on any vehicle. Car companies have already taken steps to protect pedestrians from impact. Citroen and Jaguar use a device that raises the car\u2019s bonnet 6.5cm on impact to provide a cushion for impact between the crumpling surface and the solid engine block beneath. Others, such as Land Rover and Volvo, have developed outside airbags that deploy on impact to protect a pedestrian from injury.           Watch Google take its self-driving car for a spin    However, the patent observes, \u201cexisting technology found in production vehicles does little to mitigate the secondary impact a pedestrian may experience\u201d. It is not known whether Google has active plans to install the new technology on their self-driving cars in the future. The company did not respond immediately to a request from the Guardian for comment, but a spokesperson told the San Jose Mercury News, who first reported the story, that \u201cwe hold patents on a variety of ideas. Some of those ideas later mature into real products and services, some don\u2019t.\u201d",
+  "webTitle": "Google patents 'sticky' layer to protect pedestrians in self-driving car accidents",
+  "webPublicationDate": "2016-05-19T01:30:02Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/18/google-patents-sticky-layer-self-driving-car-accidents",
+  "keyword": [
+    {
+      "webTitle": "Google",
+      "id": "technology/google",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Self-driving cars",
+      "id": "technology/self-driving-cars",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Nicky Woolf",
+      "id": "profile/nicky-woolf"
+    }
+  ],
+  "guardianId": "technology/2016/may/18/google-patents-sticky-layer-self-driving-car-accidents"
+}

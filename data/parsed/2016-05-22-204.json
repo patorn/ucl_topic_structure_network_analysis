@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/lifeandstyle/2016/may/22/iq-test-crowds-social-life-ben-ambridge",
+  "id": "2016-05-22-204",
+  "sectionId": "lifeandstyle",
+  "body": "Most IQ tests involve answering a whole load of difficult questions. But here\u2019s one with just two. Best of all, they\u2019re simple: 1. Does living in a crowded area get you down?(a) a lot (b) a bit (c) not at all 2. Would you prefer to socialise with friends every day as opposed to just once or twice a week?(a) hell, yeah! (b) maybe a bit (c) no If you said (b) or (c) for the first question and (c) for the second, then you are showing the response pattern typical of intelligent people. In general, living in an area with high-population density is associated with lower levels of life satisfaction. However, the study on which this quiz is based found that high-population density had a larger negative effect for the lower IQ group (an average of 81, as measured by a standard IQ test) than the higher IQ group (an average of 116). Standard IQ tests are designed so that the average for the population as a whole is 100. What is more, hanging out with friends every day, as opposed to just a couple of times a week, is associated with greater life satisfaction among the lower IQ group but lower satisfaction among the brainboxes. Interestingly, these geniuses don\u2019t seem to be smart enough to recognise what makes them happy. The study found intelligent people tended to socialise more often than less intelligent people, even though they generally derived less pleasure \u2013 and more irritation \u2013 from doing so. A fully referenced version of this article is available at benambridge.com. Order Psy-Q by Ben Ambridge (Profile Books, \u00a38.99) for \u00a36.99 at bookshop.theguardian.com",
+  "webTitle": "An IQ test anyone can pass: but what does it tell you? | Ben Ambridge",
+  "webPublicationDate": "2016-05-22T05:00:33Z",
+  "webUrl": "https://www.theguardian.com/lifeandstyle/2016/may/22/iq-test-crowds-social-life-ben-ambridge",
+  "keyword": [
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Psychology",
+      "id": "science/psychology",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ben Ambridge",
+      "id": "profile/ben-ambridge"
+    }
+  ],
+  "guardianId": "lifeandstyle/2016/may/22/iq-test-crowds-social-life-ben-ambridge"
+}

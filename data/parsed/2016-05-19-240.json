@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/science/sifting-the-evidence/2016/may/19/say-why-to-drugs-the-highs-and-lows-of-cannabis",
+  "id": "2016-05-19-240",
+  "sectionId": "science",
+  "body": "What\u2019s the appeal? Cannabis is the most widely used illicit drug in the UK. It\u2019s the resin of a plant, and is consumed by smoking (sometimes with, sometimes without tobacco), eating, and more recently, vaping. Despite some suggestion that cannabis might be linked to poor mental health and educational outcomes, it is popular because it\u2019s seen as less harmful than some other illicit drugs, and not necessarily that different to smoking cigarettes. But does the evidence back this belief up? Short term effects Cannabis has an intoxication effect that peaks around 30 minutes after smoking, and can last for several hours (even longer if its eaten rather than smoked). People report feeling giggly, mellow and sleepy while high. But cannabis intoxication can also induce psychotic-like feelings, paranoia, anxiety, occasionally even hallucinations. These almost always dissipate when a person is no longer intoxicated. Physically, cannabis intoxication is associated with an increase in heart rate, a dry mouth, red eyes, and muscle relaxation. Because of the increase in heart rate, there\u2019s an increased risk of heart attack for about an hour after smoking, roughly equivalent to the increase in risk caused by vigorous exercise, or sex. Long-term effects It\u2019s much more difficult to conduct research to understand the longer term effects of a substance. Double-blind randomised controlled trials are possible when looking at short term effects, but over the longer term, we have to rely on observing what people choose to do, and accounting for the other differences that might exist between people who choose to use cannabis, and people who choose not to. And this is assuming that people tell the truth when they are asked about their substance use. It\u2019s likely that smoking cannabis will confer similar risks to smoking tobacco, the process of burning the cannabis is likely to release carcinogens, and the common practise of smoking cannabis mixed with tobacco means the risks associated with smoking such as lung, throat and mouth cancers are likely to apply for cannabis too. There\u2019s been some research that has suggested a link between cannabis use and risk of heart disease and stroke, but at present the evidence is not strong. Of course, lack of evidence doesn\u2019t necessarily mean the risk isn\u2019t there, just that we can\u2019t be sure.   Related: So smoking skunk causes psychosis, but milder cannabis doesn't?    Cannabis has been implicated with a number of mental health problems, and in particular with psychosis and schizophrenia. Since cannabis use can induce psychotic experiences while intoxicated, this is perhaps not surprising. There\u2019s pretty consistent evidence that very heavy cannabis use during teenage years predicts a small increase in risk for schizophrenia later. However, given how common cannabis use is, and how rare schizophrenia is, it seems like cannabis is neither necessary nor sufficient to cause schizophrenia. It may be the case that cannabis is one risk factor among many, and for certain people who have a family history of schizophrenia for example, or other risk factors for the disorder, it could lead to problems, while for most people it won\u2019t. The problem is, at the moment there isn\u2019t a good way of identifying who\u2019s likely to be at higher risk. Links between cannabis and schizophrenia are probably the best investigated, but there has also been some suggestion that cannabis use impairs memory, and is associated with depression and anxiety, although the evidence is less clear cut here, because there\u2019s less of it.   Related: Does cannabis really lower your IQ? | Claire Mokrysz    Cannabis can be addictive, and about 10% of users become dependent on it. Cannabis withdrawal can make a person feel anxious and irritable, and can impact on sleep patterns and appetite. The NHS can provide advice to people who want to quit cannabis.  Myth busting Cannabis is a gateway drug: Although cannabis use is likely to precede the use of \u2018harder\u2019 drugs for most people, this doesn\u2019t mean that cannabis causes their use. This is a challenging area to research, and it\u2019s possible that the association between cannabis use and later harder drug use is related to the illicit nature of cannabis.  Cannabis can cure cancer: If you want to read an incredibly well researched and detailed blog about all the evidence to date around cancer and cannabis, I highly recommend this from CRUK. They summarise it by saying that there just isn\u2019t enough good quality evidence that cannabis or cannabinoids can treat cancer in humans. But research is being conducted, and it certainly isn\u2019t the case that \u2018big pharma\u2019 know cannabis is a cure but are sitting on it. Cannabis as medicine Although cannabis is associated with some harms, cannabis can have some medical benefits. In Victorian times, tincture of cannabis was prescribed for period pains and pain during childbirth, among other things, and only fell out of favour when the syringe was invented. But the medical benefits of cannabis are being re-harnessed. Recently, Sativex spray has been made available on prescription in the UK and 26 other countries, as a treatment for spasticity in multiple sclerosis. It has to be prescribed by a specialist, and only if other treatments have proved ineffective, but it is available.  What do we still not know? All the way through this article, I\u2019ve referred to \u2018cannabis\u2019 as if it\u2019s one substance, but this may be misleading. There are lots of different active substances in cannabis. THC is probably the best known and best understood. It\u2019s this that has been shown to transiently induce psychotic experiences when intoxicated, for example. But there are other cannabinoids, which could have vastly different effects. One of these, cannabidiol (CBD), has been shown in pilot studies to perhaps be anti-psychotic. Ratios of THC and CBD have changed over the past few decades, and it looks like THC levels have risen as CBD levels have fallen. If it is the case that THC might induce psychosis but CBD is protective, it\u2019s easy to see why these changes in relative levels could be problematic. Some have suggested this means all previous studies looking at cannabis and mental health are no longer applicable and might underestimate harm. Others think this is a problem regulation could solve \u2013 if you could \u2018choose\u2019 the strength of cannabis that you use, and the relative levels of these cannabinoids, maybe this could help minimize harm.  As well as these blogs, I\u2019ll be releasing a podcast every two weeks, which can be listened to here.",
+  "webTitle": "Say Why To Drugs \u2013 the highs and lows of cannabis",
+  "webPublicationDate": "2016-05-19T10:29:51Z",
+  "webUrl": "https://www.theguardian.com/science/sifting-the-evidence/2016/may/19/say-why-to-drugs-the-highs-and-lows-of-cannabis",
+  "keyword": [
+    {
+      "webTitle": "Cannabis",
+      "id": "society/cannabis",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Drugs",
+      "id": "society/drugs",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Drugs",
+      "id": "science/drugs",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Suzi Gage",
+      "id": "profile/suzi-gage"
+    }
+  ],
+  "guardianId": "science/sifting-the-evidence/2016/may/19/say-why-to-drugs-the-highs-and-lows-of-cannabis"
+}

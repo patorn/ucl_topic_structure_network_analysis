@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/society/2016/may/06/more-than-8-million-in-uk-struggle-to-put-food-on-table-survey-says",
+  "id": "2016-05-06-47",
+  "sectionId": "society",
+  "body": "More than 8 million people in Britain live in households that struggle to put enough food on the table, with over half regularly going a whole day without eating, according to estimates of hunger in the UK. One in 10 adults suffered moderate levels of food insecurity in 2014, placing the UK in the bottom half of European countries on hunger measures, below Hungary, Estonia, Slovakia and Malta. Around 17 times the number of people who use Trussell Trust food banks were insecure about getting enough to eat, suggesting hunger in the UK is far more widespread than rising charity food use indicates, according to the analysis of UN data by the Food Foundation thinktank. Food insecurity is variously defined as experiencing hunger, inability to secure enough food of sufficient quality and quantity to enable good health and participation in society, and cutting down on food due to financial necessity. \u201cThis survey is a wake-up call reminding us that too many people are sometimes too poor to eat in the UK,\u201d said the Food Foundation\u2019s executive director, Anna Taylor. Frank Field MP, chair of the all-party parliamentary group on hunger, said: \u201cThis is a major contribution to the debate on hunger in our country. We now know for the first time the scale of the challenge confronting the nation to ensure all of us can afford to buy and eat a decent meal without needing to rely on food banks.\u201d  The foundation estimates that 4.7 million people aged over 15 were severely food-insecure, meaning they were to poor afford enough food and sometimes went without. A further 3.7 million were classed as moderately food-insecure.   Related: Who knows how many people are going hungry? The government should | Patrick Butler    The data, gathered by the UN, was based on a nationally representative telephone survey of 1,000 adults. The foundation said although the survey methodology was robust the low sample size meant the findings should be treated as preliminary. The limits of the UN data meant they could not demonstrate why some households were more vulnerable to food insecurity, though a series of other studies have shown that poverty and rising food prices are key drivers not just of food insufficiency but inability to buy healthy food such as fruit and vegetables. The foundation called on the government to start measuring food insecurity, what causes it, and how it impacts on health. Inserting a food insecurity module into existing official household surveys would cost as little as \u00a350,000 a year, it estimates. The government, which has not collected any data on food insecurity since 2003, last year rejected calls from an all-party committee to monitor hunger, following in the footsteps of the US and Canada, which both have robust food insecurity measurements in place. The former Conservative MP Laura Sandys, who both set up and chairs the foundation, said the data gave the government an opportunity to \u201cget on the front foot\u201d on food policy. \u201cTackling the fundamental problems of our food system will be difficult but is essential for a healthier and more secure future for all UK families.\u201d Rachel Loopstra, an Oxford University food-poverty expert who worked on the foundation study, said: \u201cWe knew the number of people using food banks did not capture everyone who faces not having enough food to eat in the UK; what these figures tell us is just how much bigger the problem of hunger really is.\u201d  Alison Garnham, chief executive of the Child Poverty Action Group, said: \u201cNo one should be unable to feed themselves or their children in Britain today. To have 8.4 million people unable to eat properly shows the urgency of tackling poverty in the UK.\u201d The European countries with the lowest levels of food insecurity were Sweden (3.1%), Germany (4.3%) and Denmark (4.9%). The highest rates were measured in Lithuania (19.6%), Romania (18.9%) and Greece (17.2%)",
+  "webTitle": "More than 8 million in UK struggle to put food on table, survey says",
+  "webPublicationDate": "2016-05-06T17:56:48Z",
+  "webUrl": "https://www.theguardian.com/society/2016/may/06/more-than-8-million-in-uk-struggle-to-put-food-on-table-survey-says",
+  "keyword": [
+    {
+      "webTitle": "Food poverty",
+      "id": "society/food-poverty",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Poverty",
+      "id": "society/poverty",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Social exclusion",
+      "id": "society/socialexclusion",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Food banks",
+      "id": "society/food-banks",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Communities",
+      "id": "society/communities",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Patrick Butler",
+      "id": "profile/patrickbutler"
+    }
+  ],
+  "guardianId": "society/2016/may/06/more-than-8-million-in-uk-struggle-to-put-food-on-table-survey-says"
+}

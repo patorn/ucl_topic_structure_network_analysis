@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/07/horse-racing-tips-sunday",
+  "id": "2016-05-07-73",
+  "sectionId": "sport",
+  "body": "LUDLOW  2.00 Red Tornado 2.30 Royalraise (nb) 3.05 Altesse De Guye 3.40 Robinshill 4.15 Noche De Reyes 4.45 Cottersrock 5.15 Amitie Waltz PLUMPTON  2.15 Royal Plaza 2.50 Frank N Fair 3.25 Ya Hafed 4.00 Hermosa Vaquera (nap) 4.30 Byron Flyer 5.00 Like Sully 5.30 Creep Desbois",
+  "webTitle": "Horse racing tips: Sunday 8 May",
+  "webPublicationDate": "2016-05-07T17:29:01Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/07/horse-racing-tips-sunday",
+  "keyword": [
+    {
+      "webTitle": "Horse racing tips",
+      "id": "sport/horse-racing-tips",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Horse racing",
+      "id": "sport/horse-racing",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Chris Cook",
+      "id": "profile/chriscook"
+    }
+  ],
+  "guardianId": "sport/2016/may/07/horse-racing-tips-sunday"
+}

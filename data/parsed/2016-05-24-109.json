@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/books/2016/may/24/portland-schools-ditch-textbooks-that-question-climate-change",
+  "id": "2016-05-24-109",
+  "sectionId": "books",
+  "body": "Schools in Portland, Oregon, have voted to abandon textbooks that \u201cexpress doubt about the severity of the climate crisis or its root in human activities\u201d. The resolution follows a proposal by environmental groups put to the Portland public schools board, which argued that \u201cit is time for school districts to redefine what it means to educate students for a future of certain climate change\u201d. Stating that \u201cthere is overwhelming consensus in the scientific community that the climate crisis is created by human beings\u201d, the proposal said that it was \u201cessential that in their classes and other school activities students probe the causes and consequences of the climate crisis \u2013 as well as possible solutions \u2013 in developmentally appropriate ways\u201d. In testimony to the board reported by the Portland Tribune, Bill Bigelow, editor of Rethinking Schools magazine, criticised science textbooks\u2019 use of words such as \u201cmight\u201d, \u201cmay\u201d and \u201ccould\u201d when referring to climate change. He quoted the textbook Physical Science as saying that \u201ccarbon dioxide emissions from motor vehicles, power plants and other sources, may contribute to global warming\u201d. \u201cThis is a section that could be written by the Exxon public relations department and it\u2019s being taught in Portland schools,\u201d said Bigelow, according to the Portland paper. \u201cA lot of the text materials are kind of thick with the language of doubt, and obviously the science says otherwise. We don\u2019t want kids in Portland learning material courtesy of the fossil fuel industry.\u201d Writing in the Huffington Post, Bigelow also pointed to another text used for \u201calmost all\u201d Portland high school students, Holt McDougal\u2019s Modern World History, which he said \u201cincludes a scant three paragraphs on climate change, the second of which begins: \u2018Not all scientists agree with the theory of the greenhouse effect.\u2019\u201d  The proposal, wrote Bigelow, is the \u201cproduct of a months-long effort by teachers, parents, students, and climate justice activists to press the Portland school district to make \u2018climate literacy\u2019 a priority\u201d. The Tribune reported that a student at Portland\u2019s Lincoln high school also testified to the board. She said that \u201cit is unacceptable that we have textbooks in our schools that spread doubt about the human causes and urgency of the crisis\u201d, because \u201cclimate education is not a niche or a specialisation, it is the minimum requirement for my generation to be successful in our changing world\u201d.   Related: California public school textbooks mislead students on climate, study says    The board voted unanimously to pass the proposal, saying that the implementation plan should include a review of current textbooks \u201cfor accuracy around the severity of the climate crisis and the impact of human activities\u201d. It added that Portland public schools will abandon the use of \u201cany adopted text material that is found to express doubt about the severity of the climate crisis or its root in human activities\u201d. In February, a survey of 1,500 science teachers in the US published in the journal Science found that 30% were teaching students that climate change was \u201clikely due to natural causes\u201d and not caused by human activities, despite the consensus of 97% of active climate scientists.",
+  "webTitle": "Portland schools ditch textbooks that question climate change",
+  "webPublicationDate": "2016-05-24T15:10:40Z",
+  "webUrl": "https://www.theguardian.com/books/2016/may/24/portland-schools-ditch-textbooks-that-question-climate-change",
+  "keyword": [
+    {
+      "webTitle": "Books",
+      "id": "books/books",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Portland",
+      "id": "us-news/portland",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Censorship",
+      "id": "world/censorship",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Climate change",
+      "id": "environment/climate-change",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Climate change",
+      "id": "science/scienceofclimatechange",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Education",
+      "id": "education/education",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Secondary schools",
+      "id": "education/secondary-schools",
+      "sectionId": "education",
+      "sectionName": "Education"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Alison Flood",
+      "id": "profile/alisonflood"
+    }
+  ],
+  "guardianId": "books/2016/may/24/portland-schools-ditch-textbooks-that-question-climate-change"
+}

@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sustainable-business/2016/may/30/wearables-for-babies-saving-lives-or-instilling-fear-in-parents",
+  "id": "2016-05-30-207",
+  "sectionId": "sustainable-business",
+  "body": "Following the success of adult fitness wearables like Fitbit, new companies are connecting babies to smartphone apps and giving parents live information about their baby\u2019s breathing, skin temperature, heart rate and sleeping patterns.  The Owlet has adapted pulse oximetry technology (the clip they put on your finger in hospitals to monitor heart rate) to create a baby sock that monitors heart rate and oxygen levels. Sproutling has integrated the same technology into a strap that goes round the ankle, while Mimo has woven the tech into a onesie that works with a Nest thermostat to change temperature levels in your baby\u2019s bedroom. Always-on base stations connect devices via Bluetooth rather than rely on Wi-Fi or phone batteries.  \u201cSound and video monitors only work if you\u2019re constantly watching or listening to the monitor,\u201d says Owlet co-founder Jordan Monroe, whose son wears Owlet\u2019s smart socks. Owlet, on the other hand, alerts parents when a baby has stopped breathing, which it says gives parents one less thing to worry about.  The ultimate fear for every parent is cot death, or sudden infant death syndrome (SIDS). About 300 babies in the UK die suddenly and unexpectedly every year, mostly within the first six months of life. While the NHS stresses that \u201cSIDS is rare and the risk of your baby dying from it is low\u201d, the Owlet website shows a video of mums with harrowing tales of babies who almost died, while the marketing material claims it \u201cisn\u2019t just an accessory, it\u2019s a necessity\u201d. The implication is that a parent would be irresponsible not to use its product. \u201cThe cause of SIDS is unknown, so no company could, or should, claim to prevent it,\u201d says Monroe. Rather it is an alarm system for things that you never would think would happen, he says. \u201c[One user\u2019s] baby was choking silently in his crib on his formula. Another baby happened to roll over in the middle of the night and couldn\u2019t breathe. Owlet is a second set of eyes that lets you rest assured.\u201d However, some believe this kind of technology causes more anxiety than reassurance. While one parent on a Mumsnet discussion said a breathing monitor \u201chelped me get some much needed sleep,\u201d others said they are \u201ca recipe for excess anxiety\u201d and \u201cfuel anxiety rather than calm it\u201d.     The Mimo babygrow can provide alerts and send nightly reports on a baby\u2019s sleep. Photograph: Tony Luong/Mimo    Mandy Gurney, a nurse and midwife who runs the Millpond Children\u2019s Sleep Clinic, believes that babies are already surrounded by too many gadgets: \u201cI would say simple is best. Really the only time a child needs a sleep app is if they have specific sleep problems that need an overnight sleep assessment by a specialist unit. For the majority of parents, a much cheaper way to find peace of mind is to follow the guidelines set out by The Lullaby Trust for safe sleeping.\u201d Wearables certainly come with a hefty price tag. While basic mattress movement monitors are available for about \u00a330, the Sproutling costs $259 (\u00a3178), Owlet retails at $249 (\u00a3171), and Mimo at $199 (\u00a3137). Monroe says: \u201cWe must deliver a quality product, and that costs money. Most hospital-grade pulse oximeters cost thousands of dollars.\u201d Alison Scott-Wright, a qualified maternity nurse and author of The Sensational Baby Sleep Plan, thinks they are worth the price saying they \u201ccan save lives\u201d. She has dealt with families whose babies stopped breathing and believes they would still be alive had such technology been available. She has been a proponent of under-mattress sensors for years and recommends them to all her clients.  But is there a danger of babies simply becoming another push notification? With Sproutling\u2019s website urging parents to \u201cjust outfit each baby with a Sproutling, and keep an eye on one screen\u201d, whatever happened to hands-on parenting? Monroe argues baby wearables should be viewed in the same category as a smoke alarm or a car seat. \u201cFor the first few days, the live vitals through the app are fascinating and parents may spend more time watching the app. However, after a few days, parents let the Owlet do its job: to run silently in the background.\u201d Dulcie Madden, co-founder and CEO of Mimo, similarly argues that her product gives parents \u201cactionable insights, while not overwhelming them. We\u2019re providing parents with information and letting them choose what they do with that information \u2013 only they know what\u2019s best for their family.\u201d Parents are overly targeted for products they don\u2019t need, says Scott-Wright, but she believes it\u2019s the toys, designer outfits and special baby baths that really exploit parents. \u201cBut this is one piece of technology ... that I believe saves lives.\u201d",
+  "webTitle": "Wearables for babies: saving lives or instilling fear in parents?",
+  "webPublicationDate": "2016-05-30T04:00:23Z",
+  "webUrl": "https://www.theguardian.com/sustainable-business/2016/may/30/wearables-for-babies-saving-lives-or-instilling-fear-in-parents",
+  "keyword": [
+    {
+      "webTitle": "Guardian sustainable business",
+      "id": "sustainable-business/sustainable-business",
+      "sectionId": "sustainable-business",
+      "sectionName": "Guardian Sustainable Business"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Parents and parenting",
+      "id": "lifeandstyle/parents-and-parenting",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Apps",
+      "id": "technology/apps",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Wearable technology",
+      "id": "technology/wearable-technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Children's tech",
+      "id": "technology/children-s-tech",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Family",
+      "id": "lifeandstyle/family",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Technology sector",
+      "id": "business/technology",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Technology startups",
+      "id": "technology/startups",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Tim Smedley",
+      "id": "profile/tim-smedley"
+    }
+  ],
+  "guardianId": "sustainable-business/2016/may/30/wearables-for-babies-saving-lives-or-instilling-fear-in-parents"
+}

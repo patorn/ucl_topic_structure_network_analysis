@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/16/worlds-largest-floating-windfarm-to-be-built-off-scottish-coast",
+  "id": "2016-05-16-222",
+  "sectionId": "environment",
+  "body": "The world\u2019s largest floating windfarm is set to be built off the coast of Scotland after its developers were granted a seabed lease on Monday. Statoil, the Norwegian energy company, expects to have five 6MW turbines bobbing in the North Sea and generating electricity by the end of 2017. The company has already operated a single turbine off Norway.   Wind farm location   The Hywind turbine is one of the frontrunners in a global race to develop flotillas of floating wind turbines that can conquer the deep oceans and reap the strongest winds on the planet. Existing offshore wind turbines, standing on concrete and steel foundations driven into the ocean floor, flounder on heavy costs when depths are greater than about 40 metres.           Video: Scotland\u2019s wind-powered community    More than 40 projects around the world are in various stages of development. Most are inspired by rugged oil and gas rigs that have weathered storms for decades. Offshore windfarms also largely avoid the difficulties caused by the visual impact of windfarms on land.  The Hywind windfarm will float 15 miles off Scotland\u2019s east coast by Peterhead. The base of each turbine is a floating steel tube containing ballast, which is tethered to the sea bed. The Crown Estate, which manages the seabed, granted the lease on Monday.   Related: Drifting off the coast of Portugal, the frontrunner in the global race for floating windfarms    \u201cWe are very pleased to develop this project in Scotland, in a region with a huge wind resource and an experienced supply chain from oil and gas,\u201d said Leif Delp, project director for the Hywind Scotland project. \u201cThrough the hard work of industry and supportive government policies, the UK and Scotland is taking a position at the forefront of developing offshore wind as a competitive new energy source.\u201d More than 90% of the world\u2019s offshore wind capacity is installed in northern Europe, with the UK having the biggest share. But Germany\u2019s offshore wind is growing more quickly than in the UK and development is ramping up in Japan, China and the US. Offshore wind makes up just 3% of all wind power, with most wind turbines being sited on land, but is seen as promising in countries like the UK where getting planning permission for new onshore farms is difficult. \u201cFloating offshore wind is an exciting technology with huge, global potential, and it\u2019s great to have this world first in Scottish waters,\u201d said Lindsay Roberts, at Scottish Renewables. Ronnie Quinn, general manager of the Crown Estate\u2019s Scotland portfolio, said: \u201cWe\u2019ve been able to support the development of emerging technologies, from floating wind to tidal current energy, placing Scotland in a very strong position to secure global investment in low carbon energy.\u201d           The Guardian\u2019s Damian Carrington explains how the \u2018suction bucket\u2019 technique works for Offshore wind in 2013",
+  "webTitle": "World's largest floating windfarm to be built off Scottish coast",
+  "webPublicationDate": "2016-05-16T11:29:24Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/16/worlds-largest-floating-windfarm-to-be-built-off-scottish-coast",
+  "keyword": [
+    {
+      "webTitle": "Wind power",
+      "id": "environment/windpower",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Scotland",
+      "id": "uk/scotland",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Energy",
+      "id": "environment/energy",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Renewable energy",
+      "id": "environment/renewableenergy",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Damian Carrington",
+      "id": "profile/damiancarrington"
+    }
+  ],
+  "guardianId": "environment/2016/may/16/worlds-largest-floating-windfarm-to-be-built-off-scottish-coast"
+}

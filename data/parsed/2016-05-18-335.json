@@ -1,0 +1,96 @@
+{
+  "apiUrl": "https://content.guardianapis.com/travel/2016/may/18/term-time-holiday-bookings-surge-after-high-court-ruling-father-fine",
+  "id": "2016-05-18-335",
+  "sectionId": "travel",
+  "body": "A travel agency has reported a surge in holiday bookings outside of school holidays following the high court ruling in favour of a father who took his daughter on holiday in term time. Online travel agency sunshine.co.uk revealed an 88% increase in the number of family holiday bookings (classed as two adults and one or more child between the ages of five and 16) during school term time the weekend after the ruling, compared with the previous weekend. There was also a 32% decline in bookings during July and August. An analysis of the bookings showed that the first week of July or the last week of September were the most popular weeks for parents to take their children out of school. Cheapflights.co.uk also found a difference when it compared searches between noon on Friday 13 May (the court ruling having come just after noon on that day) and midnight on Monday 17 May with the same time the previous weekend. Searches for flights to Lanzarote and M\u00e1laga during the spring term (departing between 4 June and 12 July) were up 50% and 21% respectively while autumn term-time searches increased by 32% and 50%. At the same time, searches to both destinations for the school summer holidays fell. Some see the high court ruling as opening the way for parents to take their children out of school so long as they have a good attendance record. The decision has prompted the Department for Education to look again at policy with regard to term-time absences. The case has generated huge interest and is likely to give rise to similar challenges. The Guardian\u2019s report on the court ruling drew nearly 3,000 comments from readers, including many teachers and governors questioning the wisdom of the law.",
+  "webTitle": "Term-time holiday bookings surge after high court ruling",
+  "webPublicationDate": "2016-05-18T05:30:20Z",
+  "webUrl": "https://www.theguardian.com/travel/2016/may/18/term-time-holiday-bookings-surge-after-high-court-ruling-father-fine",
+  "keyword": [
+    {
+      "webTitle": "Family holidays",
+      "id": "travel/familyholidays",
+      "sectionId": "travel",
+      "sectionName": "Travel"
+    },
+    {
+      "webTitle": "Summer holidays",
+      "id": "travel/summer-holidays",
+      "sectionId": "travel",
+      "sectionName": "Travel"
+    },
+    {
+      "webTitle": "Flights",
+      "id": "travel/flights",
+      "sectionId": "travel",
+      "sectionName": "Travel"
+    },
+    {
+      "webTitle": "Travel websites",
+      "id": "travel/travelwebsites",
+      "sectionId": "travel",
+      "sectionName": "Travel"
+    },
+    {
+      "webTitle": "Travel",
+      "id": "travel/travel",
+      "sectionId": "travel",
+      "sectionName": "Travel"
+    },
+    {
+      "webTitle": "School holidays",
+      "id": "education/school-holidays",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Parents and parenting",
+      "id": "lifeandstyle/parents-and-parenting",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Family",
+      "id": "lifeandstyle/family",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Education policy",
+      "id": "politics/education",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Children",
+      "id": "society/children",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Isabel Choat",
+      "id": "profile/isabelchoat"
+    }
+  ],
+  "guardianId": "travel/2016/may/18/term-time-holiday-bookings-surge-after-high-court-ruling-father-fine"
+}

@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/11/power-cuts-caused-by-flooding-major-danger-to-british-lives-engineers-warn",
+  "id": "2016-05-11-116",
+  "sectionId": "environment",
+  "body": "Power cuts caused by flooding are a major danger to people\u2019s lives in the UK and \u201ccould happen anywhere\u201d because infrastructure such as electricity grids and communications networks are not adequately protected against the threat, according to a new report. The finding, from the Royal Academy of Engineering, calls into question the UK\u2019s preparedness for incidences of weather-related disasters, even as scientists and government advisers have warned that they will become more frequent, owing to climate change. The national engineering academy examined a four-day power cut in Lancaster last December, when flooding caused the local electricity network to break down as a substation was inundated, affecting more than 60,000 homes and businesses, and at least 100,000 people, as well as disrupting transport, communications and the ability of emergency services to reach people in need. Text messaging was one of the first services to go, followed by digital radio and the internet, and shops soon lost their tills, ATM machines went out of action, and garages were unable to dispense fuel as their pumps need electricity to operate. Traffic lights stopped working, and although trains could still function the station had to be closed early as its lighting was cut off. Prof Roger Kemp, lead author of the study and a professor of engineering at Lancaster University, told the Guardian: \u201cThe most important lesson is that it could happen anywhere. The loss of power in Lancaster was caused by flooding but there are other possible causes. With the increasing complexity of [power] generation and usage, there are likely to be some combinations of events that take us by surprise.\u201d He added: \u201cOne lesson is that we have to do regular reviews of what the effects [of such incidents] will be, as the situation can change so quickly.\u201d The main reason why Lancaster\u2019s problems were not more disastrous was that the area was \u201cmanageable in size\u201d, the report found. A similar level of flooding in a more populous area could cause far more disruption. At least 75 power generators had to be brought to Lancaster from as far away as the south-west and Northern Ireland, in order to regain electricity. \u201cHad the events happened in Birmingham, 10 times the size, that solution would have been impossible,\u201d noted Kemp. He urged politicians to examine whether society is becoming more or less resilient. In some ways, modern infrastructure can help people deal with the effects of disasters such as flooding, but our reliance on services such as mobile phones and the internet is often not taken into account. Some seemingly unrelated regulations can have unintended consequences. In Lancaster, the only supermarket still functioning during the power cuts had to close its doors on queues of customers because no one had the authority to countermand Sunday opening laws. All policy decisions should be subjected to resilience tests, Kemp argued, even though they may seem far removed from questions over infrastructure and resilience. \u201cWhat would be the effects on the ability of primary school heads to cope with this sort of thing if they were part of national academy chains with head offices miles away, rather than having the resources of a local education authority?\u201d he asked. With local authorities contracting out their routine maintenance, he said, people running vitally important local services might be based far away, instead of being able to respond immediately. The government\u2019s promises on superfast broadband could also ring hollow if not enough is done to protect the engineering that supplies it. \u201cWhat came out of this work was how quickly the situation can change and how few people had actually thought about the issues,\u201d Kemp said. He called on the government to establish a long-term policy for energy, as market forces do not take account of issues such as the stability of the supply grid, or how to design back-up systems.",
+  "webTitle": "Power cuts caused by flooding 'major danger' to British lives, engineers warn",
+  "webPublicationDate": "2016-05-11T16:42:50Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/11/power-cuts-caused-by-flooding-major-danger-to-british-lives-engineers-warn",
+  "keyword": [
+    {
+      "webTitle": "Flooding",
+      "id": "environment/flooding",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Natural disasters and extreme weather",
+      "id": "world/natural-disasters",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Fiona Harvey",
+      "id": "profile/fiona-harvey"
+    }
+  ],
+  "guardianId": "environment/2016/may/11/power-cuts-caused-by-flooding-major-danger-to-british-lives-engineers-warn"
+}

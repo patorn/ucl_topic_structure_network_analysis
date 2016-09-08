@@ -1,0 +1,25 @@
+{
+  "apiUrl": "https://content.guardianapis.com/education/2016/may/17/letter-sir-harry-kroto-obituary",
+  "id": "2016-05-17-98",
+  "sectionId": "education",
+  "body": "Harry Kroto made a number of profound discoveries \u2013 most notably fullerenes \u2013 that marked a watershed for the development of nanoscience and nanotechnology. But his were not simply a consequence of his individual brilliance or that of his team. They were in large part due to the extraordinary intellectual environment of the Sussex University chemistry department, in which he worked for 37 years. Harry\u2019s wit, energy and humanity contributed to its collegial spirit: its members encouraged a pioneering attitude to teaching and research in molecular sciences \u2013 and a passion to explore the periodic table. This led to many advances in organic and inorganic synthesis, polymer and materials science and chemical biology. Harry loved Sussex and I suspect it helped to make him such a successful scholar and educator.",
+  "webTitle": "Letter: Sir Harry Kroto obituary",
+  "webPublicationDate": "2016-05-17T15:57:42Z",
+  "webUrl": "https://www.theguardian.com/education/2016/may/17/letter-sir-harry-kroto-obituary",
+  "keyword": [
+    {
+      "webTitle": "University of Sussex",
+      "id": "education/universityofsussex",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Chemistry",
+      "id": "education/chemistry",
+      "sectionId": "education",
+      "sectionName": "Education"
+    }
+  ],
+  "authors": [],
+  "guardianId": "education/2016/may/17/letter-sir-harry-kroto-obituary"
+}

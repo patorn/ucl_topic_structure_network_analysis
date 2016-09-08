@@ -1,0 +1,24 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/01/two-teenagers-arrested-fatal-incident-firearm-thurston-suffolf",
+  "id": "2016-05-01-57",
+  "sectionId": "uk-news",
+  "body": "Two teenagers have been arrested after a 14-year-old boy was killed in an incident believed to have involved a firearm. Police were called to Thurston, a village in Suffolk, at 1.35pm on Sunday by ambulance crews treating the teenager, who had sustained life threatening injuries. He was taken to West Suffolk hospital, where he died a short while later. A police statement said: \u201cAt this early stage, police believe there was a discharge of a firearm, and are investigating the circumstances around the incident. \u201cPolice have arrested two teenage boys on suspicion of manslaughter, and they have been taken to Bury police investigation centre for questioning.\u201d",
+  "webTitle": "Two teenagers arrested over fatal incident 'involving firearm'",
+  "webPublicationDate": "2016-05-01T18:20:59Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/01/two-teenagers-arrested-fatal-incident-firearm-thurston-suffolf",
+  "keyword": [
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Rebecca Ratcliffe",
+      "id": "profile/rebecca-ratcliffe"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/01/two-teenagers-arrested-fatal-incident-firearm-thurston-suffolf"
+}

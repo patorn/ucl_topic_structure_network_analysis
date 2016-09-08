@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/29/michel-petrucciani-both-worlds-live-review-north-sea-jazz-festival-1998-dvd",
+  "id": "2016-05-29-158",
+  "sectionId": "music",
+  "body": "Michel Petrucciani was born with the gifts of a child prodigy and the curse of a disabling condition which restricted his growth and made playing the piano physically painful. His professional life began at age 13, and the music on this triple album was recorded six months before his death at 36. An hour of it also comes on DVD, showing how this tiny figure could dominate a concert stage by the sheer intensity of his playing. His virtuosity is astounding, suggesting at times an almost desperate urge to get as much as possible into every solo. But there are moments of sweetness and calm, such as the first half of his piece, Colors, which are even more impressive.",
+  "webTitle": "Michel Petrucciani: Both Worlds Live review \u2013 astounding virtuosity",
+  "webPublicationDate": "2016-05-29T07:00:00Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/29/michel-petrucciani-both-worlds-live-review-north-sea-jazz-festival-1998-dvd",
+  "keyword": [
+    {
+      "webTitle": "Jazz",
+      "id": "music/jazz",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Dave Gelly",
+      "id": "profile/dave-gelly"
+    }
+  ],
+  "guardianId": "music/2016/may/29/michel-petrucciani-both-worlds-live-review-north-sea-jazz-festival-1998-dvd"
+}

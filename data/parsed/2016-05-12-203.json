@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/12/rbs-no-evidence-of-criminal-behaviour-rule-prosecutors",
+  "id": "2016-05-12-203",
+  "sectionId": "business",
+  "body": "Eight years after the \u00a345bn taxpayer bailout of Royal Bank of Scotland, prosecutors have concluded there is insufficient evidence of criminal behaviour to bring charges against the bank or any of its directors. The Crown Office and Procurator Fiscal Service, Scotland\u2019s prosecution service, said a team of specialist forensic accountants and banking experts had examined 160,000 documents before reaching its conclusion. The Crown Office focused on the cash call to raise \u00a312bn that RBS embarked on between April and June 2008, just before its taxpayer bailout in October that year.  The investigation was prompted by the December 2011 publication of the report by the then Financial Services Authority into the bank\u2019s near collapse. The report found \u201cmultiple poor decisions\u201d caused the crisis that led to the \u00a345bn bailout. The prosecutor said: \u201cThe failure of RBS is an issue of great public concern..... The Crown\u2019s investigation focused on the rights issue of April \u2013 June 2008, and involved detailed consideration of whether there was any evidence of criminal conduct associated with the rights issue. \u201cIf there were such evidence those responsible would face prosecution. If not, the public in Scotland could be reassured that the matter had been properly investigated. \u201cFollowing careful examination of all the evidence seen to date, Crown Counsel have decided that there is insufficient evidence in law of criminal conduct either in relation to RBS as an institution or any directors or other senior management involved in the rights issue.\u201d At the time of the rights issue \u2013 the cash call on investors in 2008 \u2013 the bank was run by Fred Goodwin, who was stripped in January 2012 of the knighthood he was awarded 10 years earlier. Goodwin had no right of appeal, and in accordance with custom was given no right to make representations to the forfeiture committee, a group of four permanent secretaries. The Crown Office said its investigation had required co-operation from the Financial Conduct Authority - which replaced the FSA - the Prudential Regulation Authority, part of the Bank of England, as well as the Serious Fraud Office, the Financial Reporting Council and the Federal Reserve Bank of New York. \u201cIf any further evidence comes to light which is relevant to this enquiry it will be considered by the Crown and we reserve the right to make further enquiry, if considered appropriate,\u201d the Crown Office said. RBS has not yet reported an annual profit since its bailout and has amassed more than \u00a350bn of losses in the eight years since taxpayers stepped in to stop its collapse. The government has also found it difficult to extricate itself from the bank, selling off a 5% stake in August for a \u00a31bn loss. Taxpayers still own 73% \u2013 and the shares are trading at 213p \u2013 below the 330p at which George Osborne sold shares in the summer and below the 502p average paid for the stake.  RBS said: \u201cWe cooperated fully with this investigation and we note today\u2019s decision.\u201d The Insolvency Service has also ended its enquiries.",
+  "webTitle": "RBS: no evidence of criminal behaviour, rule prosecutors",
+  "webPublicationDate": "2016-05-12T12:56:29Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/12/rbs-no-evidence-of-criminal-behaviour-rule-prosecutors",
+  "keyword": [
+    {
+      "webTitle": "Royal Bank of Scotland",
+      "id": "business/royalbankofscotlandgroup",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Banking",
+      "id": "business/banking",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Scotland",
+      "id": "uk/scotland",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Fred Goodwin",
+      "id": "business/sir-fred-goodwin",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jill Treanor",
+      "id": "profile/jilltreanor"
+    }
+  ],
+  "guardianId": "business/2016/may/12/rbs-no-evidence-of-criminal-behaviour-rule-prosecutors"
+}

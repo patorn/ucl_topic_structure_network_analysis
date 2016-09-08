@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/tv-and-radio/2016/may/24/storm-troupers-fight-forecast-weather-review-eating-well-hemsley",
+  "id": "2016-05-24-293",
+  "sectionId": "tv-and-radio",
+  "body": "The weather has always been with us, but the science of predicting it is a relatively new one. As presenter and science writer Alok Jha pointed out early in Storm Troupers: The Fight to Forecast the Weather (BBC4), \u201cIt\u2019s still incredibly hard to know what it will do tomorrow.\u201d This amiable and informative stroll through the history of meteorology \u2013 the first of three parts \u2013 began with its origins in superstition, when the behaviour of animals was thought to be an indicator of coming weather. There is no evidence to support the idea that cows lying down means it is going to rain, although they do make good weathervanes, because they like standing with their arses to the wind. One 19th-century entrepreneur came up with a successful barometer \u2013 the Tempest Prognosticator \u2013 using 12 leeches in 12 jars attached to 12 alarm bells; successful in that it did really predict inclement weather, not because anybody bought one. The real barometer was invented much earlier, in 1643, by Evangelista Torricelli: he found that a thin tube filled with mercury, turned upside down in a bowl of mercury, left a vacuum at the top of the column, and that the level of the mercury varied in response to outside air pressure. Only later did people notice that the mercury dropped in anticipation of stormy weather. A lot of early weather science is still with us: pharmacist Luke Howard first catalogued cloud formations in 1802. In the 1820s, Constable was using Howard\u2019s Latin terms to describe clouds \u2013 cumulus, cirrus, nimbus \u2013 as we do today. Beaufort\u2019s wind scale dates to 1805, but it remains the basis of the shipping forecast. Jha went to experience the top end of the scale himself, in a wind tunnel. His hair, remarkably, looked as good coming out as going in. In 1848, the head of meteorology at the Greenwich Observatory, James Glaisher, was persuaded to gather weather reports from around Britain to be published in Charles Dickens\u2019s new Daily News. The advent of the railway made the scheme possible, but these were reports of weather that had already happened. The idea of prediction was still a decade off. To a large extent, it was the ambition of one man: Robert FitzRoy, \u201cmeteorological statist\u201d of the Board of Trade. In response to a dreadful shipwreck off Anglesey, FitzRoy instituted a system of telegraphic coastal reporting \u201cfrom the most distant ends of our longest wires\u201d. Although ostensibly scientific, the \u201cdiagnosis\u201d of coming weather was largely down to FitzRoy: he alone made the prognostications, in his head, once the data came in. Storm warnings were then issued in the form of signal flags raised in ports. The first newspaper weather forecast \u2013 FitzRoy\u2019s \u2013 was printed in the Times on 1 August 1861. It read, in full: \u201cNorth \u2013 moderate westerly wind; fine. West \u2013 moderately south-westerly; fine. South \u2013 fresh westerly; fine.\u201d FitzRoy was ridiculed for his \u201cguesses\u201d. Four years later, he slit his throat, and died penniless. I got off on the wrong foot with Eating Well With Hemsley + Hemsley (C4). I think it might be the plus sign in the title. It certainly isn\u2019t the food \u2013 I have nothing against their banana bread that I don\u2019t have against banana bread in general, and everything else looked pretty good. Maybe it\u2019s because their whole \u201cclean-eating\u201d ethos seems designed to rile people like me. I found myself rising to the bait from the outset. \u201cEating well doesn\u2019t have to mean giving up the things you love,\u201d said one of them. I know, I said, I\u2019ll just carry on. \u201cIt\u2019s about finding alternative ingredients so you can continue to enjoy your favourite dishes.\u201d Oh, OK. Wait, why? Melissa and Jasmine don\u2019t cook with gluten or refined sugar. Let us draw a veil over the fact that their preferred sugar substitute, maple syrup, is sugar. They are surprisingly OK with meat and eggs, but last night they were baking, which meant finding substitutes for flour \u2013 ground almonds, say. With the two of them, their kitchen seems a little overstaffed \u2013 they have to take turns with the spoon \u2013 and their patter can drift toward the inane. I don\u2019t know about you, but I\u2019m a lot more tolerant of gluten than I am of exclamations such as: \u201cCinnamon is my happy spice!\u201d I wouldn\u2019t dare to suggest that the Hemsleys\u2019 baked chicken constitutes some kind of deprivation. But they say something telling at the top of the show: \u201cThis is a peek into our world.\u201d It\u2019s not so much a bunch of recipes as a lifestyle you may watch and admire, but not have. After all, there\u2019s a reason why organic ground almonds are not a suitable alternative to flour, and that is because they cost \u00a320 a kilo.",
+  "webTitle": "Storm Troupers: the Fight to Forecast the Weather review \u2013 leeches and all",
+  "webPublicationDate": "2016-05-24T06:20:02Z",
+  "webUrl": "https://www.theguardian.com/tv-and-radio/2016/may/24/storm-troupers-fight-forecast-weather-review-eating-well-hemsley",
+  "keyword": [
+    {
+      "webTitle": "Documentary",
+      "id": "tv-and-radio/documentary",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Factual TV",
+      "id": "tv-and-radio/factual-tv",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Television & radio",
+      "id": "tv-and-radio/tv-and-radio",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Television",
+      "id": "culture/television",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Food TV",
+      "id": "tv-and-radio/food-tv",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Weather",
+      "id": "uk/weather",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Tim Dowling",
+      "id": "profile/timdowling"
+    }
+  ],
+  "guardianId": "tv-and-radio/2016/may/24/storm-troupers-fight-forecast-weather-review-eating-well-hemsley"
+}

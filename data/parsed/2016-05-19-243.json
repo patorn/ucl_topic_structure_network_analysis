@@ -1,0 +1,90 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/19/first-time-buyers-brexit-moodys-eu-referendum",
+  "id": "2016-05-19-243",
+  "sectionId": "business",
+  "body": "First-time homebuyers in the UK would benefit from a vote to leave the EU, according to a leading ratings agency. Moody\u2019s said a fall in house prices triggered by a Brexit would make it more affordable for people trying to get on the property ladder for the first time. \u201cFirst-time buyers would benefit from lower competition for housing, as house price and rental inflation would slow down if immigration is curbed,\u201d said Gaby Trinkaus, a vice president and senior analyst at Moody\u2019s.   Guardian explained: young people and the referendum   Trinkaus added that whatever the outcome of next month\u2019s referendum, the outlook was picking up for first-time buyers in the capital. \u201cRegardless of the referendum vote, the ambitious affordable housing agenda for London following the mayoral election will help those looking to get on the housing ladder,\u201d she said. Last week, Christine Lagarde, managing director of the International Monetary Fund, said a vote to leave the EU at next month\u2019s referendum could cause a house price and stock market crash.  \u201cWe have looked at all the scenarios. We have done our homework and we haven\u2019t found anything positive to say about a Brexit vote,\u201d she said. Estate agents also claimed thousands of pounds could be wiped off the value of UK houses if Britain votes to leave the EU.  Prices in London could fall by as much as \u00a37,500, while homeowners in the rest of the country could lose \u00a32,300, the National Association of Estate Agents said. However, Moody\u2019s suggested Brexit would be positive for cash-strapped first-time buyers who are currently priced out of the market. UK prices rose in March at their fastest monthly rate since 2004, the latest official figures showed, boosted over the month as buy-to-let investors rushed to complete purchases ahead of a stamp duty rise in April.   Related: Rents and property values would drop after Brexit, say landlords    House prices increased 2.5% over the month, taking the average price of a home to \u00a3291,820 according to the Office for National Statistics.  Moody\u2019s said London\u2019s property market could be more affected by Brexit, and that landlords could struggle to pay mortgages because of falling rental demand. Trinkaus said: \u201cA decline in rental demand could hit landlords\u2019 ability to pay their mortgages on buy-to-let properties if London becomes less attractive to foreign nationals.\u201d  Moody\u2019s also warned that self-employed people in Britain would be more at risk than employees from fluctuating pay in the event of Brexit, potentially affecting their ability to make mortgage repayments. The agency said that should a vote to leave the EU have a bigger negative impact on the UK economy than it is expecting, mortgage arrears would increase among self employed borrowers. \u201cThe highest risk would apply to those borrowers with additional risk characteristics such as poor payment history, high loan-to-value or interest-only features,\u201d Moody\u2019s said.  It added that London had the highest concentration of self-employed people in the UK, at 17.3% in 2014.  The number of self-employed swelled in Britain during the financial crisis, as many people who could not find permanent work or sufficient hours opted to work for themselves instead.  Self-employment reached the highest level since records began 40 years ago, with the proportion of the total workforce self-employed rising to 15% in 2014 \u2013 or 4.6m people - compared with 13% in 2008, and 8.7% in 1975.",
+  "webTitle": "First-time buyers would benefit from Brexit, says Moody's",
+  "webPublicationDate": "2016-05-19T10:27:26Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/19/first-time-buyers-brexit-moodys-eu-referendum",
+  "keyword": [
+    {
+      "webTitle": "Housing market",
+      "id": "business/housingmarket",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "First-time buyers",
+      "id": "money/firsttimebuyers",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Property",
+      "id": "money/property",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Real estate",
+      "id": "business/realestate",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Moody's",
+      "id": "business/moodys",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Rating agencies",
+      "id": "business/rating-agencies",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Angela Monaghan",
+      "id": "profile/angela-monaghan"
+    }
+  ],
+  "guardianId": "business/2016/may/19/first-time-buyers-brexit-moodys-eu-referendum"
+}

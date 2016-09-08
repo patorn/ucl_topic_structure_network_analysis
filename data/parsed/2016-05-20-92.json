@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/20/barcelona-fans-can-wave-catalan-flags-copa-del-rey-madrid-says-judge",
+  "id": "2016-05-20-92",
+  "sectionId": "world",
+  "body": "A judge has overturned a decision by the Spanish government to ban Barcelona football fans from carrying pro-Catalan independence flags at this Sunday\u2019s Copa del Rey cup final in Madrid. Jes\u00fas Torres ruled that the ban was unconstitutional because it was not proved that the flag \u201cincites violence, racism, xenophobia or any other form of discrimination that goes against human dignity\u201d. The ban, announced earlier this week by Mariano Rajoy\u2019s caretaker government, provoked strong reaction in Catalonia and even divisions within his own party.  The Catalan president, Carles Puigdemont, said he would boycott the match, which will be played in the presence of the king. He was joined by the mayor of Barcelona, Ada Colau, and then by the Madrid mayor, Manuela Carmena, who said: \u201cIf Ada Colau isn\u2019t going, then neither am I.\u201d Meanwhile, in case the judge ruled in the government\u2019s favour, the pro-independence Assamblea Nacional Catalana handed out 10,000 Scottish saltires to supporters to wave in protest. The decision to ban the estelada, which has all but supplanted the traditional Catalan flag, at the match between Barcelona and Sevilla originated with the Spanish Football Federation but was eagerly taken up by the government. As the king is always present at the final, the Copa del Rey is often used as a platform by secessionists. During last year\u2019s final, played between Barcelona and the Basque team Athletic Bilbao, many of the 98,000 fans in the stadium booed and whistled the national anthem. Last year, Uefa fined Barcelona \u20ac40,000 (\u00a331,000) after fans waved esteladas at the Champions League final in Berlin. The affair comes only a few days after the Spanish government lodged a formal complaint with Eurovision for banning the ikurri\u00f1a, the Basque flag, along with the flags of Islamic State and Kosovo. Eurovision appeared to associate the ikurri\u00f1a with Eta, the Basque terror group, while it is in fact to Basques exactly what the estelada is to many Catalans, the flag of an independent nation in waiting.",
+  "webTitle": "Barcelona fans can wave Catalan flags at cup final in Madrid, says judge",
+  "webPublicationDate": "2016-05-20T15:38:05Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/20/barcelona-fans-can-wave-catalan-flags-copa-del-rey-madrid-says-judge",
+  "keyword": [
+    {
+      "webTitle": "Spain",
+      "id": "world/spain",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Barcelona",
+      "id": "football/barcelona",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Stephen Burgen",
+      "id": "profile/stephen-burgen"
+    }
+  ],
+  "guardianId": "world/2016/may/20/barcelona-fans-can-wave-catalan-flags-copa-del-rey-madrid-says-judge"
+}

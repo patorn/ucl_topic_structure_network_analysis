@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/13/vw-sales-rise-diesel-emissions-scandal",
+  "id": "2016-05-13-268",
+  "sectionId": "business",
+  "body": "Volkswagen\u2019s cars sales across Europe returned to growth last month for the first time since the diesel emissions scandal broke last September. New passenger car registrations in the EU in April were up 9% on a year earlier to 1.3m vehicles \u2013 the highest since April 2008, just before the industry descended into a six-year slump, according to the Brussels-based Association of European Carmakers (ACEA). Nearly all carmakers recorded sales increases. Overall sales at Volkswagen, Europe\u2019s biggest car manufacturer, rose 5.4% from a year earlier as demand for its namesake brand recovered, with sales up 2.7% in April after dipping 1.6% in March. Its Audi and Porsche brands grew at double-digit rates. However, the group\u2019s market share slipped to 25.2%, from 26.1%.   Related: VW boss who quit over emissions scandal gets \u00a313m pay package    All five major European national markets recorded sales increases last month, led by Spain, where registrations jumped 21.2%, followed by Italy, with sales up 11.5%. Germany experienced 8.4% growth, France 7.1% and the UK posted 2% growth. The ACEA said: \u201cThe EU passenger car market posted strong results again, marking the 32nd consecutive month of growth. This is the highest result in volume terms since April 2008, just before the economic crisis hit the automotive industry.\u201d European car sales returned to annual growth in 2014. Demand has increased each month as an upturn in consumer confidence, retail incentives and new product launches lured customers back into the showrooms. German carmakers Daimler and BMW recorded increases of 21.2% and 11.9% in April, with their Mercedes and Mini brands popular, while Fiat Chrysler Automobiles experienced a 14.3% rise in sales.",
+  "webTitle": "VW sales rise for first time since emissions scandal",
+  "webPublicationDate": "2016-05-13T08:57:14Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/13/vw-sales-rise-diesel-emissions-scandal",
+  "keyword": [
+    {
+      "webTitle": "Volkswagen (VW)",
+      "id": "business/vw-volkswagen",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Automotive industry",
+      "id": "business/automotive-industry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Germany",
+      "id": "world/germany",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Julia Kollewe",
+      "id": "profile/juliakollewe"
+    }
+  ],
+  "guardianId": "business/2016/may/13/vw-sales-rise-diesel-emissions-scandal"
+}

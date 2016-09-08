@@ -1,0 +1,55 @@
+{
+  "apiUrl": "https://content.guardianapis.com/money/2016/may/05/mortgage-fraud-identity-thieves-highest-level-since-2012",
+  "id": "2016-05-05-115",
+  "sectionId": "money",
+  "body": "A \u201cworrying\u201d increase in identity thieves attempting to commit fraud within mortgage applications, including criminals applying in the name of people who have recently died, has been uncovered by a credit checking company.  Experian said that during the first quarter of 2016, the proportion of attempted mortgage fraud committed by identity thieves increased to 6% \u2013 the highest level seen since 2012. Historically, this type of fraud has accounted for 4% of detected mortgage application fraud.  It said there had been an increase in the number of fraudulent applications involving criminals using the identities of people who had recently died but who previously lived at a property.   Related: Mortgages: Why is Ilford the mortgage fraud capital of Britain?    Alongside this were cases involving theft from homebuyers tricked into making payments to fraudsters instead of their solicitors.  Experian said that in many cases fraudsters have hacked databases or intercepted emails between people and their solicitors in a bid to divert payments, which are often large sums of cash. Fraudsters will pretend to be a solicitor to trick people into diverting cash into their account.  The figures are taken from UK fraud prevention system National Hunter, which is operated by Experian on behalf of members. It enables financial institutions to cross-match applications against more than 100m previous application records to spot anomalies that are a sign of a potentially fraudulent application.  Despite the increase in the ID theft in mortgage fraud, the index revealed that overall mortgage fraud attempts dropped significantly during January, February and March this year, compared to the same period in 2015.    Related: Mortgage and insurance fraud cases rise    Falling from 83 in every 10,000 applications in the first quarter of 2015 to 66 in every 10,000 applications in the first quarter of 2016, it represents the biggest quarterly fall seen by the mortgage industry in the last three years.  But Nick Mothershaw, a fraud expert at Experian, said of the growth in ID fraud: \u201cThe increase from 4 to 6% is worrying.\u201d  He continued: \u201cBecause of the values involved, the impact on people\u2019s lives can be devastating. In many cases, fraudsters have either hacked databases or intercepted emails between individuals and their solicitors.  \u201cLarge payments have been diverted and fraudsters have disappeared with the money. We\u2019d urge anyone who has fallen victim to these kinds of scams to contact Action Fraud.\u201d  The Conveyancing Association (CA), which is the a trade body for solicitors involved in the homebuying process, has launched a Cyber Safe Scheme to help its members tackle the growing threat of fraud. Customers will be given a \u201cClient Warning\u201d factsheet detailing the risk of fraud and what they can do to reduce the chance of falling victim. The leaflet will also include the firm\u2019s bank account details so that customer who are contacted asking for a payment can check that they are not being scammed.  Beth Rudolf from the Conveyancing Association said: \u201cAs a further preventative measure, we would also urge customers \u2013 when first sending money \u2013 to send the smallest amount possible and then check with the law firm so they can be confident the money is going to the right place.\u201d",
+  "webTitle": "Mortgage fraud by identity thieves at highest level since 2012",
+  "webPublicationDate": "2016-05-05T16:20:32Z",
+  "webUrl": "https://www.theguardian.com/money/2016/may/05/mortgage-fraud-identity-thieves-highest-level-since-2012",
+  "keyword": [
+    {
+      "webTitle": "Mortgages",
+      "id": "money/mortgages",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Identity fraud",
+      "id": "money/identityfraud",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Consumer affairs",
+      "id": "money/consumer-affairs",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Scams",
+      "id": "money/scamsandfraud",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Property",
+      "id": "money/property",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    }
+  ],
+  "authors": [],
+  "guardianId": "money/2016/may/05/mortgage-fraud-identity-thieves-highest-level-since-2012"
+}

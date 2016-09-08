@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/26/leyla-mccalla-a-day-for-the-hunter-a-day-for-the-prey-review-powerful-songs-about-death-and-freedom",
+  "id": "2016-05-26-95",
+  "sectionId": "music",
+  "body": "Leyla McCalla is a Haitian American based in New Orleans who is both a fine, soulful singer and a classically trained cellist who also plays banjo and guitar. She has worked with the celebrated Carolina Chocolate Drops, and her second solo album mixes songs from Louisiana and Haiti in a fresh, contemporary-sounding set that includes her own powerful compositions about death and freedom. She starts with the self-composed title track, beating her bow against the cello strings and backed by banjo and viola for a thoughtful lament for the departed, while on the pained Far From Your Web the brass backing has the mournful jollity of a New Orleans funeral band. She sings in English, French and Haitian creole, and on the charming Manman, by the Haitian political singer Manno Charlemagne, she is joined by her former Chocolate Drops colleague Rhiannon Giddens.",
+  "webTitle": "Leyla McCalla : A Day for the Hunter, a Day for the Prey review \u2013 powerful songs about death and freedom",
+  "webPublicationDate": "2016-05-26T17:45:08Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/26/leyla-mccalla-a-day-for-the-hunter-a-day-for-the-prey-review-powerful-songs-about-death-and-freedom",
+  "keyword": [
+    {
+      "webTitle": "World music",
+      "id": "music/worldmusic",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Folk music",
+      "id": "music/folk",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Blues",
+      "id": "music/blues",
+      "sectionId": "music",
+      "sectionName": "Music"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Robin Denselow",
+      "id": "profile/robindenselow"
+    }
+  ],
+  "guardianId": "music/2016/may/26/leyla-mccalla-a-day-for-the-hunter-a-day-for-the-prey-review-powerful-songs-about-death-and-freedom"
+}

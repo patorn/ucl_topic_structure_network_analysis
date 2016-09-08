@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/science/2016/may/25/wild-flower-meadows-spring-plantwatch",
+  "id": "2016-05-25-28",
+  "sectionId": "science",
+  "body": "A late spring led to a big burst of wild flowers this month, but of all the native wild flowers how many green-winged orchid, oxlip, dyer\u2019s greenweed and meadow clary have been seen? These are all meadow plants and they are becoming rare. The green-winged orchid is, despite its name, mostly pink or purple but with delicate green veins. Dyer\u2019s greenweed is a shrubby plant, a great food plant for moths and like its names suggests was once used as a very good dye, especially for wool. Meadow clary has striking deep blue flowers, and the name \u201cclary\u201d came from \u201cclear-eye\u201d because the plant seeds were used as a paste to soothe and cleanse sore eyes.     Meadow clary\u2019s name came from \u2018clear-eye\u2019 \u2013 its seeds were used as a paste to soothe sore eyes. Photograph: Prisma Bildagentur/Alamy    These plants are just a few of the rich mix that make up a meadow \u2013 mostly native grasses with a great variety of flowering plants, typically about 150 species. In contrast, most farmland we see now is grassland or crops grown on a highly efficient industrial scale, usually a desert for wild flowers with fewer than 10 species of plants. The big loss of meadows began in the second world war when 6m acres of grassland were ploughed up to grow cereals in the tremendous campaign to feed a country desperately short of food. But after the war the meadows carried on disappearing at an alarming rate as farming became more intensive, and 97% of meadows were lost in 75 years, a loss of 7.5m acres. And despite the huge upsurge in growing wild flowers in gardens, the meadows are still being destroyed and surviving areas are mostly small patches that could easily disappear.",
+  "webTitle": "Wild flower meadows burst into life",
+  "webPublicationDate": "2016-05-25T20:30:07Z",
+  "webUrl": "https://www.theguardian.com/science/2016/may/25/wild-flower-meadows-spring-plantwatch",
+  "keyword": [
+    {
+      "webTitle": "Wild flowers",
+      "id": "environment/wild-flowers",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Plants",
+      "id": "environment/plants",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Spring",
+      "id": "environment/spring",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Paul Simons",
+      "id": "profile/paulsimons"
+    }
+  ],
+  "guardianId": "science/2016/may/25/wild-flower-meadows-spring-plantwatch"
+}

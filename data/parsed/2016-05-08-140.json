@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/lifeandstyle/2016/may/08/why-picturing-yourself-winning-is-important-in-sport",
+  "id": "2016-05-08-140",
+  "sectionId": "lifeandstyle",
+  "body": "As Leicester City fans continue to celebrate their team\u2019s unlikely victory in the Premier League, some people may still wonder how the underdogs managed to beat such high odds to become champions for the first time. In fact it may be the players\u2019 brains, not brawn, which are most deserving of the trophy. Neuroscientists and sports psychologists agree that the way a team imagines itself performing is just as important as the strength of the players. There\u2019s increasing evidence that mental practice can improve physical performance. A group of people were asked to lift their finger a thousand times in their minds, with an instrument checking that they were not exerting any muscle force. At the end of the process, they could lift more with their fingers than those who had not done the mental exercise. So Claudio Ranieri\u2019s coaching strategy, in which he encouraged the players to focus on one game at a time and concentrated on building teamwork, should be praised. He may have made the players run around a lot, but what he really worked on in coaching sessions was training the players\u2019 brains. Dr Daniel Glaser is director of Science Gallery at King\u2019s College London",
+  "webTitle": "Why picturing yourself winning is important in sport",
+  "webPublicationDate": "2016-05-08T08:30:02Z",
+  "webUrl": "https://www.theguardian.com/lifeandstyle/2016/may/08/why-picturing-yourself-winning-is-important-in-sport",
+  "keyword": [
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Neuroscience",
+      "id": "science/neuroscience",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Leicester City",
+      "id": "football/leicestercity",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Daniel Glaser",
+      "id": "profile/daniel-glaser"
+    }
+  ],
+  "guardianId": "lifeandstyle/2016/may/08/why-picturing-yourself-winning-is-important-in-sport"
+}

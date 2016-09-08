@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/27/misleading-eu-referendum-campaigns-treasury-select-committee-report",
+  "id": "2016-05-27-122",
+  "sectionId": "politics",
+  "body": "Vote Leave, Britain Stronger in Europe and the Treasury have all been accused of misleading voters in the EU referendum campaign in a report by a cross-party House of Commons committee. The Treasury committee was particularly scathing about the leave camp\u2019s flagship assertion that exiting the EU would save \u00a3350m a week that could be spent on the NHS, saying that the public should discount the claim and that Vote Leave\u2019s decision to persist with it was \u201cdeeply problematic\u201d.   Brexit explained: campaign rules   The 83-page report, agreed unanimously by a committee that includes MPs on both sides of the referendum debate, will make awkward reading for all the major players. Andrew Tyrie, the Conservative MP who chairs the committee, said: \u201cThe arms race of ever more lurid claims and counter-claims made by both the leave and remain sides is not just confusing the public \u2013 it is impoverishing political debate.\u201d The report says it is highly misleading for Vote Leave to suggest that leaving the EU could free up \u00a3350m a week for the NHS, as it does on the side of its battlebus, because that is a gross figure, making no allowance for the rebate and for EU contributions to the UK. The net figure would be about \u00a3110m a week, it says. But even this does not take into account that Britain could end up having to make continued contributions to the EU to secure access to the single market if there was a leave vote, it says.   Related: \u2018I don\u2019t want to go back with nothing\u2019: the Brexit threat to Spain\u2019s little Britain    Speaking on BBC Radio 4\u2019s The World at One, Tyrie, who has not yet said how he will be voting, said the \u00a3350m figure was not true. Asked what Vote Leave should do about its battlebus, he replied: \u201cRepaint it immediately.\u201d The report says it is misleading for Vote Leave and Leave.EU to claim that \u00a3600m a week, or \u00a333.3bn a year, could be saved by not having to comply with EU regulations, because it is not a net cost.  \u201cTo persist with such a claim is a tendentious representation of the research on which it is based,\u201d says the report, which quotes \u00a312.8bn a year as a more plausible figure for the maximum regulatory savings from a potential Brexit.  The report criticises Vote Leave\u2019s chief executive, Matthew Elliott, and its campaign director, Dominic Cummings, for not being fully cooperative with the committee as it conducted its inquiry, saying their conduct was appalling and at odds with Vote Leave\u2019s claim to respect the primacy of parliament.           David Cameron urges UK to \u2018listen to our friends\u2019 over EU membership    On the Treasury, the report says its decision to argue in a report that Brexit could cost households \u00a34,300 a year by 2030, because of reduced economic growth, was misleading because the figure relates to the impact of lower GDP on households and is not a projected figure for lower disposable income. \u201cThe average impact on household disposable incomes would be considerably smaller than this number, which refers to the impact on GDP per household,\u201d the MPs say in their report. \u201cNeither government departments nor other spokespeople for the remain side should repeat the mistaken assertion that household disposable income would be \u00a34,300 lower than if we were to remain in the EU ... To persist with this claim would be to misrepresent the Treasury\u2019s own work.\u201d     Matthew Elliott, Vote Leave\u2019s chief executive. Photograph: Peter Nicholls/Reuters    The report says that the Britain Stronger in Europe campaign\u2019s claim that the cost of imports could rise by at least \u00a311bn in the event of Brexit is implausible and that its suggestion that 3m jobs are dependent on EU membership is \u201cmisleading. The committee, which includes Steve Baker, the co-chair of Conservatives for Britain, and Jacob Rees-Mogg, a prominent pro-Brexit Tory, accepts that leaving the EU could trigger short-term economic difficulties. \u201cFollowing a vote to leave, there would be a period during which the UK\u2019s future relationship with the EU is uncertain. As with much economic uncertainty, it is plausible to suppose that this could weaken the pound, reduce domestic and foreign direct investment, and increase borrowing costs,\u201d the report says.   Related: Vote Leave launches \u00a350m football prediction competition    Looking further ahead, it says: \u201cThe balance of recent submissions seen by the committee is that Brexit is likely to have a net negative impact in the long term because the costs of a fall in trade exceed the gains in other areas, although the size of that impact varies considerably between different studies. Those who favour leaving the EU would argue that these studies are insufficiently optimistic or imaginative about how the UK would fare outside the EU. They could be right.\u201d",
+  "webTitle": "MPs' report condemns 'misleading' EU referendum campaigns",
+  "webPublicationDate": "2016-05-27T14:21:14Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/27/misleading-eu-referendum-campaigns-treasury-select-committee-report",
+  "keyword": [
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economic policy",
+      "id": "politics/economy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "House of Commons",
+      "id": "politics/houseofcommons",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Andrew Sparrow",
+      "id": "profile/andrewsparrow"
+    }
+  ],
+  "guardianId": "politics/2016/may/27/misleading-eu-referendum-campaigns-treasury-select-committee-report"
+}

@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/11/uk-government-spent-105000-in-legal-fees-on-lost-air-pollution-case",
+  "id": "2016-05-11-208",
+  "sectionId": "environment",
+  "body": "The government spent at least \u00a3105,000 in legal costs while fighting and losing a court challenge over illegal levels of air pollution, according to data released through freedom of information rules, and now faces further bills from a new case it is contesting. ClientEarth, the environmental lawyers who defeated the government, say the taxpayers\u2019 money should have been used instead for early and effective action to cut air pollution, which causes 40,000 early deaths a year, according to government figures.  Air pollution was called a \u201cpublic health emergency\u201d by MPs in April, while a report from two Royal Colleges of medicine in February estimated the cost of the damage at \u00a320bn a year. The annual funding for air quality improvement from the Department of Environment, Food and Rural Affairs (Defra), has fallen by 84% since 2012-13, although the Department for Transport has been given significant funding for greener travel. The UK missed a deadline to meet EU air quality rules in 2010 and ClientEarth sued ministers for failing in their legal duty to produce new air quality plans to cut pollution to legal levels in the \u201cshortest possible time\u201d.  ClientEarth won that case in April 2015, with the supreme court ordering Defra to produce an action plan. This was published in December but will not cut pollution to legal levels until 2025 in London. ClientEarth argues the new plan still falls short of the government\u2019s legal duty and was recently given leave by a judge for a new judicial review.  The new mayor of London, Sadiq Khan, said on Wednesday he would take part in the case against the government. A spokesman for the mayor said: \u201cClientEarth\u2019s legal challenges are holding the government to account on air pollution and as the mayor of the biggest city in the country, Sadiq Khan very much considers himself an interested party in the judicial review.\u201d  The legal costs to the government revealed by the freedom of information request come to \u00a365,000, but do not include the cost of Defra\u2019s in-house lawyers or some other aspects of the case. The government also had to pay \u00a340,000 in costs to ClientEarth. \u201cDefra has wasted time and money, while perpetuating a situation that puts thousands of lives at risk, by fighting a case that established what was clear to most people from the outset \u2013 that the UK was in breach of strict EU pollution limits and of its obligations to create a plan to ensure prompt compliance,\u201d said James Thornton, ClientEarth\u2019s chief executive. \u201cMinisters should have spent taxpayers\u2019 money tackling pollution early and effectively. The government continues to dither and delay and, even now, intends to waste more money in court seeking to defend the indefensible.\u201d Kerry McCarthy, Labour\u2019s shadow environment secretary, said: \u201cAir pollution is one of the most serious environmental health risks facing us today, but the environment secretary Liz Truss would rather use taxpayers\u2019 money to hire lawyers than take urgent action to improve air quality.\u201d \u201cRather than waste more money on another expensive court case, [she] must act now to establish a comprehensive strategy to improve air quality across the whole country, as she should have been doing all along,\u201d said McCarthy, whose parliamentary question revealed the 84% cut in Defra air quality funding. A Defra spokesman said: \u201cOur plans clearly set out how we will improve the UK\u2019s air quality through a new programme of clean air zones and continued investment in clean technologies will create cleaner, healthier air for all. We cannot comment on ongoing legal proceedings.\u201d MPs, thinktanks and campaigners say the government needs to do much more to cut air pollution, including introducing a scrappage scheme for old, dirty diesel vehicles, giving dozens of cities stronger powers to deter polluting vehicles with charging schemes and acting to cut pollution from farms.",
+  "webTitle": "UK government spent \u00a3105,000 in legal fees on lost air pollution case",
+  "webPublicationDate": "2016-05-11T13:00:02Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/11/uk-government-spent-105000-in-legal-fees-on-lost-air-pollution-case",
+  "keyword": [
+    {
+      "webTitle": "Pollution",
+      "id": "environment/pollution",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Conservatives",
+      "id": "politics/conservatives",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Law",
+      "id": "law/law",
+      "sectionId": "law",
+      "sectionName": "Law"
+    },
+    {
+      "webTitle": "Cities",
+      "id": "cities/cities",
+      "sectionId": "cities",
+      "sectionName": "Cities"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Damian Carrington",
+      "id": "profile/damiancarrington"
+    }
+  ],
+  "guardianId": "environment/2016/may/11/uk-government-spent-105000-in-legal-fees-on-lost-air-pollution-case"
+}

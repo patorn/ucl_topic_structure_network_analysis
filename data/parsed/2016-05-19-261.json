@@ -1,0 +1,102 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/19/greenpeace-activists-scale-british-museum-to-protest-bp-sponsorship",
+  "id": "2016-05-19-261",
+  "sectionId": "environment",
+  "body": "Greenpeace activists have climbed the British Museum and have hung banners off its columns in protest at BP\u2019s sponsorship of its new ancient Egypt exhibition. The museum was temporarily closed for around four hours on Thursday during the protest because of \u201cvisitor safety reasons.\u201d Greenpeace said it was targeting the oil company\u2019s sponsorship of the Sunken Cities exhibition, and called on the museum to end the partnership. The protest today follows two on Tuesday at the museum\u2019s Great Court by the group BP or not BP, which campaigns against fossil fuel sponsorship of the arts. Elena Polisano, a campaigner for Greenpeace, said: \u201cThe British Museum is an institution traditionally devoted to education, research and discovery, whereas BP\u2019s focus is on building an oil-dependent culture. The only research and discovery they are interested in is finding more of the fossil fuels that are warming our planet and raising sea levels.\u201d The green group said 85 activists took part in the protest, which involves 27-foot-long banners with the names of cities threatened by sea level rise and climate change, and dubbed the exhibition \u2018Sinking Cities\u2019.   Related: Sunken Cities review \u2013 archaeology dressed up as action movie    A spokesperson for the Metropolitan Police said officers were at the scene and making enquiries. \u201cPolice were called at 09:26hrs on Thursday, 19 May to reports of protesters at the British Museum,\u201d they said. The Sunken Cities exhibition, which is sponsored by BP, hosts treasures from Thonis-Heracleion and Canopus, two cities lost to the sea by the 8th century. It is the museum\u2019s first to explore underwater archaeology. A BP spokesman said: \u201cBP has a long history as a major supporter of arts and culture in the UK and we are proud to have partnered the British Museum for 20 years, supporting significant exhibitions such as the new Sunken Cities exhibition.\u201d",
+  "webTitle": "Greenpeace activists scale British Museum to protest BP sponsorship",
+  "webPublicationDate": "2016-05-19T09:54:15Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/19/greenpeace-activists-scale-british-museum-to-protest-bp-sponsorship",
+  "keyword": [
+    {
+      "webTitle": "Greenpeace",
+      "id": "environment/greenpeace",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Activism",
+      "id": "environment/activism",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Fossil fuels",
+      "id": "environment/fossil-fuels",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "British Museum",
+      "id": "culture/british-museum",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Energy",
+      "id": "environment/energy",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Protest",
+      "id": "world/protest",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "BP",
+      "id": "business/bp",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Oil",
+      "id": "environment/oil",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Climate change",
+      "id": "environment/climate-change",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "London",
+      "id": "uk/london",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Adam Vaughan",
+      "id": "profile/adam-vaughan"
+    }
+  ],
+  "guardianId": "environment/2016/may/19/greenpeace-activists-scale-british-museum-to-protest-bp-sponsorship"
+}

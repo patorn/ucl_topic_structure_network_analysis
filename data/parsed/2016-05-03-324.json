@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/03/soundcloud-to-introduce-advertising-and-subscriptions-in-uk",
+  "id": "2016-05-03-324",
+  "sectionId": "media",
+  "body": "Music and audio streaming firm SoundCloud is to introduce advertising and launch a \u00a39.99 subscription service in the UK and Ireland. SoundCloud, which with 175 million users claims to be the second biggest streaming service in the world behind YouTube, will launch a range of advertising to its service. This will include audio ads, promoted tracks, creator partnerships as well as a deal with Global Radio, the UK\u2019s biggest commercial radio group, for its DAX audio exchange to sell ads across the SoundCloud service. SoundCloud, which introduced advertising to US users in 2014, will handle native advertising partnerships in-house. The SoundCloud Go subscription service, which was launched in the US earlier this year, will allow users to opt out of receiving ads, as well as accessing an expanded catalogue of music, offline listening and other features.   Related: PRS for Music takes legal action against SoundCloud streaming service    Subscriptions put SoundCloud in competition with the paid-for services offered by Spotify, which has 30 million paying subscribers, and Apple Music\u2019s 11 million-plus. The company said a combination of advertising and paid-for premium services is essential to make sure the musicians and music creators who use SoundCloud make money. \u201cThe introduction of advertising forms a cornerstone of our commitment to the interest of our creator community,\u201d said Alison Moore, SoundCloud\u2019s chief revenue officer. \u201cEach time an ad is heard in SoundCloud, an artist will get paid, and help to ensure the free offering remains available alongside the premium option.\u201d In December, SoundCloud agreed a deal with music royalty collection society PRS for Music, which settled a lawsuit over songwriters not getting royalties for music used on the site, which paved the way for the launch of the SoundCloud Go service in the UK and Ireland.",
+  "webTitle": "SoundCloud to introduce advertising and subscriptions in UK",
+  "webPublicationDate": "2016-05-03T06:10:47Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/03/soundcloud-to-introduce-advertising-and-subscriptions-in-uk",
+  "keyword": [
+    {
+      "webTitle": "Digital media",
+      "id": "media/digital-media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media business",
+      "id": "media/mediabusiness",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Soundcloud",
+      "id": "technology/soundcloud",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Mark Sweney",
+      "id": "profile/marksweney"
+    }
+  ],
+  "guardianId": "media/2016/may/03/soundcloud-to-introduce-advertising-and-subscriptions-in-uk"
+}

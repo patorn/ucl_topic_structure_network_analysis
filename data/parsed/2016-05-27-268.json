@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/26/british-woman-killed-briton-missing-boat-capsizes-thailand",
+  "id": "2016-05-27-268",
+  "sectionId": "world",
+  "body": "Three foreign tourists have died and one other remains missing after a speedboat capsized off the popular Thai holiday island of Koh Samui, a police officer said on Friday. The boat, which was carrying 32 tourists plus four crew, flipped over Thursday afternoon after it was hit by a wave near a rocky stretch of coast in the Gulf of Thailand. The bodies of a 28-year-old British woman and a 29-year-old German woman were retrieved that afternoon, said Paiboon Omark, a district chief on the island. On Friday morning rescue workers found the body of a third tourist, who police identified as a Hong Kong woman \u201cin her 30s\u201d. Her body was found at 10.30am 500 metres away, said Thanakorn Pattananun, the head of the island\u2019s tourist police, told AFP. A team of 50 rescue workers in seven boats were searching for a British man who is still missing, he said. The Thai captain of the Ang Thong Explorer speedboat has been detained and charged with negligence that led to deaths and injuries. \u201cWeather was the cause of the accident because it created high waves, but the boat was also being driven at a high speed,\u201d Apichart Boonsriro, the commander of Surat Thani provincial police, told AFP. Four tourists have been hospitalised for injuries sustained during the accident, including a British woman and Australian man who have been sent to a hospital in Bangkok, said staff at Samui hospital. The two other tourists, a Romanian woman and a German man, are receiving medical treatment on the island, the hospital said. The speedboat had been taking the tourists on a day trip to nearby islands and was only a few metres from a pier when it capsized. The British Foreign Office confirmed the death of a British woman and said it was assisting her family. A spokeswoman said they were aware of another British national in hospital for injuries suffered in the same incident, but did not make reference to a third citizen. \u201cWe remain in contact with local authorities in Thailand for further information,\u201d she said. The German embassy in Bangkok was not available to comment. Tourism is a key source of revenue for Thailand, but accidents involving tourists are common in a country where safety regulations are often weakly enforced. In February a British tourist was killed on Koh Samui after being thrown from an elephant. Gareth Crowe, 36, was taking part in a trek when the animal turned on its handler. In January a speedboat struck and killed a French tourist while she was snorkelling in waters reserved for swimmers off a Thai island in Krabi province.",
+  "webTitle": "British woman among three killed after speedboat capsizes in Thailand",
+  "webPublicationDate": "2016-05-27T07:13:53Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/26/british-woman-killed-briton-missing-boat-capsizes-thailand",
+  "keyword": [
+    {
+      "webTitle": "Thailand",
+      "id": "world/thailand",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Asia Pacific",
+      "id": "world/asia-pacific",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Chris Johnston",
+      "id": "profile/chris-johnston"
+    }
+  ],
+  "guardianId": "world/2016/may/26/british-woman-killed-briton-missing-boat-capsizes-thailand"
+}

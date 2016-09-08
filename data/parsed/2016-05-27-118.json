@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/27/g7-nations-pledge-to-end-fossil-fuel-subsidies-by-2025",
+  "id": "2016-05-27-118",
+  "sectionId": "environment",
+  "body": "The G7 nations have for the first time set a deadline for the ending most fossil fuel subsidies, saying government support for coal, oil and gas should end by 2025. The leaders of the UK, US, Canada, France, Germany, Italy, Japan and the European Union encouraged all countries to join them in eliminating \u201cinefficient fossil fuel subsidies\u201d within a decade.  \u201cGiven the fact that energy production and use account for around two-thirds of global greenhouse gas emissions, we recognise the crucial role that the energy sector has to play in combatting climate change,\u201d said the leaders\u2019 declaration, issued at the end their summit in Japan. The pledge first entered into G7 (then known as G8) declarations in 2009 but has until now lacked a firm timeline. Shelagh Whitley, a research fellow at the Overseas Development Institute, called it an \u201chistoric day\u201d but said 2020 was a more appropriate date if governments were serious about their commitments to the global climate deal agreed in Paris in December. Across the G7, subsidies are already falling, assisted by falling commodity prices. A notable exception is the UK, which increased subsidies by opening up new tax breaks for North Sea oil producers. Japan has been criticised for funding new coal projects, both at home and abroad. \u201cWe already see [some in] the G7 going in the wrong direction since Paris. Just because they are saying this [about fossil fuel subsidies], it\u2019s not a fait accompli,\u201d said Whitley. Canada also recently extended some subsidies for natural gas. The G7 joins the leaders of the Organisation for Economic Co-operation and Development (OECD) and the World Bank, who have previously called for an end to assistance for fossil fuel projects. The statement did not define precisely what the G7 consider to be a subsidy. The word \u201cinefficient\u201d in the G7 text indicates subsidies that distort energy markets. The OECD estimates that this type of support for fossil fuels within its member states is $160-200bn (\u00a3109-136bn) each year.  But when the cost of damage from pollution and climate change is factored in, the International Monetary Fund has estimated that support increases to a staggering $5.3tn a year, or $10m per minute. This is more than the total global spend on human health. The OECD approach to measuring subsidies is likely to be the yardstick applied by the G7. The US and China recently asked the OECD to oversee a peer review of each other\u2019s subsidy programme. Whitley said another significant change from the G7 was the excision of a past phrase that focused on subsidies for the \u201cconsumption\u201d of fuels. She said this meant the G7 could target subsidies for exploration as well, not just the end use.",
+  "webTitle": "G7 nations pledge to end fossil fuel subsidies by 2025",
+  "webPublicationDate": "2016-05-27T14:33:05Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/27/g7-nations-pledge-to-end-fossil-fuel-subsidies-by-2025",
+  "keyword": [
+    {
+      "webTitle": "Fossil fuels",
+      "id": "environment/fossil-fuels",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Oil",
+      "id": "environment/oil",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Coal",
+      "id": "environment/coal",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Gas",
+      "id": "environment/gas",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "G7",
+      "id": "world/g7",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Energy",
+      "id": "environment/energy",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Climate change",
+      "id": "environment/climate-change",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Karl Mathiesen",
+      "id": "profile/karl-mathiesen"
+    }
+  ],
+  "guardianId": "environment/2016/may/27/g7-nations-pledge-to-end-fossil-fuel-subsidies-by-2025"
+}

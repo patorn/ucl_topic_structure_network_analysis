@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/us-news/2016/may/05/republican-nomination-donald-trump-campaign-state-primaries-delegates-convention",
+  "id": "2016-05-05-46",
+  "sectionId": "us-news",
+  "body": "Donald Trump is the presumptive Republican nominee for president, his victory in Indiana on Tuesday having pushed Ted Cruz and John Kasich from the race. But that doesn\u2019t mean the remaining primaries are canceled.    Related: Republicans plunged into five stages of grief over Trump's unstoppable rise    Over the next month, Republican voters will go to the polls in 10 states where Cruz and Kasich are still on the ballot. If a candidate drops out, their name is not automatically removed. In California, for example, Kasich, Cruz, Ben Carson and former Virginia governor Jim Gilmore will all be on the ballot. This means there is ample opportunity for the casting of protest votes.  The Trump campaign, however, has bigger worries. In many states the delegate selection process is still going on. Trump must still ensure that delegates chosen to attend the convention in Cleveland in July will be amenable to his cause.  The former senator Bob Dole will attend, as the only former presidential nominee to do so. On Thursday a representative for the 92-year-old would not say he would support Trump.  This was not surprising \u2013 Trump has generated significant rancor within the party. If such rancor continues, there are still viable if highly unlikely ways to prevent him from receiving the nomination.  If, for example, Trump opponents controlled the Republican rules committee, they could pass changes to allow delegates to follow their conscience on the first ballot, potentially making it difficult for Trump to reach the 1,237-delegate threshold needed to secure the nomination.    Republican delegate tracker    Related: Neither George W nor George HW Bush will endorse Donald Trump    Furthermore, even if Republicans come to terms with Trump, the party\u2019s platform committee could cause considerable problems.  To most Republicans Trump\u2019s views are heterodox, to say the least \u2013 the platform would need significant massaging to appease both Trump and longtime conservative activists. Any conflicts could cause considerable drama and create even more issues between Trump and party loyalists.  After all, even Mitt Romney had difficulties with the party\u2019s platform in 2012, over politically sensitive language on abortion. In 2016, there is significantly greater tension between the nominee and the base.",
+  "webTitle": "Trump becomes presumptive nominee: what happens to remaining GOP primaries?",
+  "webPublicationDate": "2016-05-05T19:25:23Z",
+  "webUrl": "https://www.theguardian.com/us-news/2016/may/05/republican-nomination-donald-trump-campaign-state-primaries-delegates-convention",
+  "keyword": [
+    {
+      "webTitle": "Donald Trump",
+      "id": "us-news/donaldtrump",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Republicans",
+      "id": "us-news/republicans",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US elections 2016",
+      "id": "us-news/us-elections-2016",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US politics",
+      "id": "us-news/us-politics",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ben Jacobs",
+      "id": "profile/ben-jacobs"
+    }
+  ],
+  "guardianId": "us-news/2016/may/05/republican-nomination-donald-trump-campaign-state-primaries-delegates-convention"
+}

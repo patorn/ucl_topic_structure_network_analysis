@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/09/boris-johnsons-five-eu-questions-where-does-remain-camp-stand",
+  "id": "2016-05-09-155",
+  "sectionId": "politics",
+  "body": "In a speech on Monday, Boris Johnson laid out five questions he said leave campaigners must ask those wishing to remain in the EU. This is where the in campaign stands on those questions. 1) How can you possibly control EU migration into this country? This is the most difficult question for the remain camp because there is no way to fully control EU migration when you have freedom of movement between member states.   Related: Boris Johnson: Cameron can't cut immigration and stay in EU    David Cameron\u2019s answer is usually that he secured the right to limit benefits for migrants, so that EU citizens are only incentivised to come to the UK for work.  But he also argues that coming out of the EU will not control migration either because the UK will need access to the single market, which goes hand in hand with freedom of movement.  The Brexit campaign has countered this by claiming the UK could survive outside of the single market altogether and therefore would not be bound by free movement. Leaving aside the economic consequences of not being part of the single market, this leaves the remain camp unable to claim that there is no difference between their positions and without an answer about how they would implement tougher border control, apart from discouraging those that might want to claim benefits. 2) The living wage is an excellent policy, but how will you stop it being a big pull factor for uncontrolled EU migration, given that it is far higher than minimum wages in other EU countries? Senior figures in the remain camp appear to accept that they will not be able to stop EU migrants coming to the UK for work, with Cameron openly admitting that wages are a pull factor. Their strategy is therefore to try to talk about immigration as little as possible. Responding to the Brexit camp\u2019s claims that the \u201cnational living wage\u201d would be a magnet for migrants, the Britain Stronger in Europe group tried to bat away the question, claiming the out campaigners had an \u201cinherent antipathy to using the clout of government to raise wages for the very lowest paid\u201d.     David Gauke. Photograph: Suzanne Plunkett/Reuters    One of the few remain figures to have been asked the question directly is David Gauke, the Treasury minister, who dismissed the idea that it would have much effect. He said he did not think it would increase migration, adding: \u201cI think you have to put it in the context of what else we are doing as a government, including the changes to in-work benefits.\u201d  The Treasury has also pointed out that 40% of EU migrants are under 25 and therefore would not benefit straight away from the higher national living wage.  3) How will you prevent the European court of justice from interfering further in immigration, asylum, human rights, and all kinds of matters which have nothing to do with the so-called single market? This is an issue that tends to obsess hardcore Eurosceptics rather than the average voter. People might have a vague idea that EU courts overrule British ones and that the UK could not deport Abu Qatada (in fact that was related to the European court of human rights in Strasbourg, which is not an EU institution). But most are unlikely to have in-depth knowledge about the workings of the Luxembourg court that rules on matters of EU law. Again, the strategy of the remain side has been to largely ignore the issue, while it concentrates on talking about the economy. But it has also made arguments that the ECJ is a good thing, rather than a threat to sovereignty. Briefings from the Stronger In campaign highlight rulings from the ECJ that have benefited the UK.  It is still possible though that Cameron might try to address the \u201csovereignty question\u201d before or just after the referendum is over, possibly through a new law to make clear the UK parliament is supreme over EU law, but this has not materialised yet.  This idea of a sovereignty bill was first floated by Johnson before he became a fully signed-up member of the Brexit camp and Cameron has sounded sympathetic to it at some stages , saying in February: \u201cI am keen to do even more to put it beyond doubt that this House of Commons is sovereign.\u201d  4) Why did you give up the UK veto on further moves towards a fiscal and political union?   Related: Chris Grayling shares platform with Nigel Farage to denounce EU    This is another issue that has failed to get much traction outside Eurosceptic circles. The Vote Leave campaign claims that Cameron\u2019s deal with the EU has given up a crucial veto on integration among the eurozone countries, with the wording saying the UK \u201cshall not impede the implementation of legal acts directly linked to the functioning of the euro area\u201d.  Chris Grayling, the leader of the Commons, claims this means the UK has \u201cseemingly given up\u201d its right to veto new treaties that will transfer more money and more power to European institutions. However, the remain camp strongly rejects that this is even an issue, saying: \u201cThe UK maintains its right to veto a new treaty \u2013 the claim that we have given up a veto is completely untrue.\u201d 5) How can you stop us from being dragged in, and from being made to pay? This is basically a restatement of the previous question. The remain camp argues the veto still stands, so it will not be part of any closer integration and therefore the UK cannot be made to pay more without agreeing. It says the \u201cEuropean Union Act 2011 makes sure that no powers can be handed to Brussels without the explicit consent of the British people in a referendum\u201d.",
+  "webTitle": "Boris Johnson's five EU questions: where does remain camp stand?",
+  "webPublicationDate": "2016-05-09T14:19:48Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/09/boris-johnsons-five-eu-questions-where-does-remain-camp-stand",
+  "keyword": [
+    {
+      "webTitle": "Boris Johnson",
+      "id": "politics/boris",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Migration",
+      "id": "world/migration",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Immigration and asylum",
+      "id": "uk/immigration",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Rowena Mason",
+      "id": "profile/rowena-mason"
+    }
+  ],
+  "guardianId": "politics/2016/may/09/boris-johnsons-five-eu-questions-where-does-remain-camp-stand"
+}

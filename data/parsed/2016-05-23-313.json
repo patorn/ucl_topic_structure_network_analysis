@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/australia-news/2016/may/23/fear-voter-no-excuse-for-restricting-enrolment-election-2016",
+  "id": "2016-05-23-313",
+  "sectionId": "australia-news",
+  "body": "The electoral roll closes at 8pm on Monday. Potential voters who have failed to enrol by then will not be able to vote on 2 July.  As of March, the Australian Electoral Commission estimated that more than 900,000 people were \u201cmissing\u201d from the roll \u2013 6% of the eligible voting population. There are particularly large numbers of young voters missing from the rolls. While the AEC and other groups make a big effort to encourage young people to enrol, the rolls are closing long before most voters will engage with the election. It\u2019s not surprising that many voters, particularly those voting for the first time, do not realise they need to enrol long befor polling day.   Related: Analysis shows 'wasted' youth votes enough to change election result    At most elections, rolls close about four weeks before election day. This year\u2019s longer campaign has stretched this period to six weeks. In 2007, the Howard government pushed this deadline further away from election day. Under this Howard-era law, rolls closed at 8pm on the day the writs were issued. In practice, this often meant that rolls closed within hours of the election being called. In 2010, GetUp brought a high court case challenging this law, and the seven-day time period was restored [disclosure: I am employed by GetUp]. Efforts to restrict enrolment have been justified by conservative governments as voter fraud prevention. But there is minimal evidence that in-person voter fraud or enrolment fraud is a problem, while there is substantial evidence that imposing restrictions on enrolment reduces the number of Australians who can vote. There are a large number of cases of voters casting multiple votes, but these cases are mostly errors, and would not be solved by restrictions on enrolling.  There was a time when the closing of rolls was a practical necessity \u2013 paper rolls had to be printed, records had to be checked and information had to be distributed around the country. Thanks to modern technology, this is no longer the case. In New South Wales and Victoria voters can now enrol and vote right away, even on election day. The voter is required to provide identification, and the vote is kept aside to be counted once the person\u2019s eligibility has been verified. It works smoothly, and allows tardy voters to exercise their right to vote. At the 2015 NSW state election, more than 48,000 people cast a vote immediately after enrolling. A recent high court case, supported by GetUp, was unsuccessful in requiring enrolment to be kept open up until election day. The Gillard government had plans to implement same-day enrolment in 2013, but the bill was dropped in the rush to the election. In addition to pushing back or removing the deadline to enrol, other technological fixes can bring more voters onto the rolls. Online enrolment was introduced in 2010, and it has made the process substantially easier. The AEC, with its equivalents in New South Wales and Victoria, have \u201cdirect enrolment\u201d systems \u2013 where government data is used to update someone\u2019s enrolment details, or enrol them for the first time, without them actively signing a form.   Related: 'Who is Peter Dutton?' The MP for the least engaged electorate in Queensland    Direct enrolment can be very effective, but the states and the federal government aren\u2019t all on the same page. New South Wales, for example, uses a lot more data than the federal government, so that about 150,000 NSW residents are now enrolled for state elections but not for federal elections. Direct enrolment has been restricted federally because conservative politicians have been more worried about theoretical voter fraud than about disenfranchising hundreds of thousands of Australians. New South Wales and Victoria have shown the way \u2013 we can use existing government data to find those missing voters, and we can keep the rolls open to ensure every voter has the chance to cast a vote. The federal parliament should follow closely behind in implementing these policies.",
+  "webTitle": "Fear of voter fraud is no excuse for restricting enrolment | Ben Raue",
+  "webPublicationDate": "2016-05-23T05:05:47Z",
+  "webUrl": "https://www.theguardian.com/australia-news/2016/may/23/fear-voter-no-excuse-for-restricting-enrolment-election-2016",
+  "keyword": [
+    {
+      "webTitle": "Australian election 2016",
+      "id": "australia-news/australian-election-2016",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australian politics",
+      "id": "australia-news/australian-politics",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ben Raue",
+      "id": "profile/ben-raue"
+    }
+  ],
+  "guardianId": "australia-news/2016/may/23/fear-voter-no-excuse-for-restricting-enrolment-election-2016"
+}

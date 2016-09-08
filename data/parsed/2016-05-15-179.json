@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/15/corinne-bailey-rae-heart-speaks-in-whispers-review",
+  "id": "2016-05-15-179",
+  "sectionId": "music",
+  "body": "Corinne Bailey Rae\u2019s luxuriant third album\u00a0marks another rebirth, after The Sea (2010) soundtracked a period of mourning for the Leeds native\u2019s first husband. Rich with on-point retro-futurist sounds, such as the gem-like, sultry neo-soul of Green Aphrodisiac, written with fellow travellers King, this Rae\u00a0opus\u00a0also boasts hyper-digital delights in the superlative single Been to\u00a0the Moon and\u00a0Tell Me. But there\u2019s some\u00a0unwelcome\u00a0pandering to all markets\u00a0in ghastly guitar ballad Stop Where You Are, a misstep looking for a Coldplay album, and\u00a0a couple of tracks where smoothness\u00a0wins out over personality.",
+  "webTitle": "Corinne Bailey Rae: The Heart Speaks in Whispers review \u2013 another rebirth",
+  "webPublicationDate": "2016-05-15T07:00:18Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/15/corinne-bailey-rae-heart-speaks-in-whispers-review",
+  "keyword": [
+    {
+      "webTitle": "Corinne Bailey Rae",
+      "id": "music/corinne-bailey-rae",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "R&B",
+      "id": "music/r-and-b",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Kitty Empire",
+      "id": "profile/kittyempire"
+    }
+  ],
+  "guardianId": "music/2016/may/15/corinne-bailey-rae-heart-speaks-in-whispers-review"
+}

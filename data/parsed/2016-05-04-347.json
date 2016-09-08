@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/04/home-office-refused-believe-age-refugee-detained-illegally",
+  "id": "2016-05-04-347",
+  "sectionId": "uk-news",
+  "body": "A 16-year-old Syrian asylum seeker, who travelled through nine countries without his family, finally reached safety in the UK only to find himself unlawfully locked up by the Home Office for almost a month because officials did not believe his age. Lord Alf Dubs, the Labour peer who was himself a child refugee who fled Nazi Germany, described the case as \u201cshocking\u201d and \u201cappalling\u201d and called on the Home Office to explain what went wrong.  The child fled Syria last August, leaving behind his family in Damascus. During an eight-month journey he travelled through Lebanon, Turkey, Greece, Macedonia, Serbia, Hungary, Austria, Germany and France before reaching the UK and claiming asylum on 20 March. He wanted to go to the UK because he has an uncle there.   Related: Fresh proposal to help child refugees stranded in Europe tabled    The boy\u2019s uncle had the child\u2019s Syrian passport, certificate of basic preparatory education and his civil registration record \u2013 sent in the post from Syria \u2013 all showing his date of birth as 25 August 1999. A medical report carried out by a Home Office doctor confirmed he had injuries consistent with torture. The boy said he had been kidnapped by Syrian government officials, tortured and forced to work transporting ammunition for the war. But a Home Office official who handled his case declined to look at the documentation and decided he was over 18, meaning he was detained at Tinsley House immigration removal centre near Gatwick airport. Under-18s should not be detained in this way.  On 15 April an urgent judicial review application was lodged at the high court by the boy\u2019s solicitors, in an attempt to secure his release from detention. On the same day, the Home Office conceded it had detained a child and released him into the care of social services, 26 days after locking him up.   Related: Alf Dubs: \u2018Antisemitism, Islamophobia and racism are all equally abhorrent\u2019 | Rachel Shabi    Dubs said: \u201cThis is a shocking episode. The fact that this young person had the right to claim asylum but was treated in such an appalling way breaches all our traditions. The Home Office needs to explain how this happened. Something has gone badly wrong here.\u201d Asif Anwar of Duncan Lewis solicitors, which is representing the boy, said: \u201c[His] journey from Syria, across the EU and into Britain exposed him to circumstances that should not be known to any child. For someone so young, he should have received adequate care and reception on arrival in the UK.\u201d  The Refugee Council policy manager, Judith Dennis, said: \u201cUnaccompanied children have often witnessed horrors most grownups would struggle to imagine and they arrive here alone, bewildered and frightened. The government must immediately take steps to ensure that anyone who claims to be a child is referred to social services for a properly conducted, sensitive, expert-led age assessment.\u201d  Between January 2015 and March 2016 more than 30 children who were unlawfully locked up have been released. The Refugee Council said it believed there were many more cases of children detained unlawfully as adults that it was not aware of. A spokesperson for the Home Office said it did not comment on individual cases but added, \u201cThe UK has a proud history of granting asylum to those who need our protection and every case is carefully considered on its own individual merits.\u201d",
+  "webTitle": "Refugee held illegally after Home Office refused to believe he was 16",
+  "webPublicationDate": "2016-05-04T05:00:18Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/04/home-office-refused-believe-age-refugee-detained-illegally",
+  "keyword": [
+    {
+      "webTitle": "Immigration and asylum",
+      "id": "uk/immigration",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Refugees",
+      "id": "world/refugees",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Syria",
+      "id": "world/syria",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Children",
+      "id": "society/children",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Middle East and North Africa",
+      "id": "world/middleeast",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Diane Taylor",
+      "id": "profile/dianetaylor"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/04/home-office-refused-believe-age-refugee-detained-illegally"
+}

@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/12/dmgt-appoints-paul-zwillenberg-as-chief-executive",
+  "id": "2016-05-12-318",
+  "sectionId": "media",
+  "body": "The owner of the Daily Mail and Mail Online has appointed Paul Zwillenberg, a senior executive at Boston Consulting Group, as its new chief executive. Zwillenberg, who will join on 1 June, takes over from Martin Morgan who has been with Daily Mail & General Trust for 27 years, rising to chief executive in 2008.  London-based Zwillenberg, who currently holds the role of global leader media sector at BCG, has worked closely with DMGT for the best part of 20 years. \u201cDMGT owes Martin a debt of gratitude for his 27 years\u2019 service and his leadership of the group\u2019s transformation,\u201d said DMGT owner Lord Rothermere.  \u201cPaul\u2019s strategic insight and close involvement across our portfolio over the last 20 years means that he is ideal for the role of chief executive at this exciting time for our diversified businesses.\u201d Earlier in his career Zwillenberg held the role of managing director of DMG Media Digital. Zwillenberg will also take a role as non-executive director at Euromoney, which is controlled by DMGT. Morgan, who will take an advisory role for a year from January, took home \u00a31.94m in DMGT\u2019s last financial year to the end of September, down from \u00a32.02m in 2014, including a \u00a3570,000 annual bonus.",
+  "webTitle": "DMGT appoints Paul Zwillenberg as chief executive",
+  "webPublicationDate": "2016-05-12T08:04:58Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/12/dmgt-appoints-paul-zwillenberg-as-chief-executive",
+  "keyword": [
+    {
+      "webTitle": "Daily Mail & General Trust",
+      "id": "media/dmgt",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media business",
+      "id": "media/mediabusiness",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers",
+      "id": "media/newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers & magazines",
+      "id": "media/pressandpublishing",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Daily Mail & General Trust",
+      "id": "business/dailymailgeneraltrust",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Mark Sweney",
+      "id": "profile/marksweney"
+    }
+  ],
+  "guardianId": "media/2016/may/12/dmgt-appoints-paul-zwillenberg-as-chief-executive"
+}

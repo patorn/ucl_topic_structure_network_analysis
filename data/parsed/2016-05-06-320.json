@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/australia-news/2016/may/06/greg-hunt-argues-theres-no-definite-link-between-coal-and-climate-change",
+  "id": "2016-05-06-320",
+  "sectionId": "australia-news",
+  "body": "The federal environment minister has argued in court that coal from Australia\u2019s largest coalmine would have no \u201csubstantial\u201d impact on climate change and as a result he did not need to consider whether it would affect the Great Barrier Reef. The Australian Conservation Foundation challenged Greg Hunt\u2019s approval of Adani\u2019s Carmichael mine, alleging he failed to consider the impacts the burning of the coal from the mine would have on climate change and hence on the Great Barrier Reef.   Related: Great Barrier Reef: new chapter opens in the fight to save natural wonder from mining    Scientists have found the current mass bleaching event affecting 93% of the reef was made 175 times more likely by climate change and would become a biennial event within 20 years. After that point, the continued existence of the reef would be in doubt. In federal court documents obtained by Guardian Australia, Hunt denied he failed to consider the impacts of coal on the reef. In the outline of submissions filed on behalf of the minister, the Australian government solicitor explains that the minister did not think the burning of the coal \u201cwould be a substantial cause of climate change effects\u201d and would have \u201cno impact on matters of national environmental significance\u201d. The minister\u2019s reasoning was that whether the burning of the coal would make climate change worse depended on whether it would increase the total amount of coal burned globally. But he notes there are a \u201craft of factors\u201d that could affect how much coal was burned globally, including whether the coal from the mine displaced other coal and whether it was dealt with within various national emissions targets.   Related: Australia: The new coal frontier    He concluded that there \u201cwas no requisite relationship between combustion emissions and increases in global temperature\u201d. Further, the minister argued that since the net impact was \u201cdifficult to identify\u201d, there was no need to impose conditions on the mine, such as that climate impacts would be offset.  \u201cPut simply, because any increase in net global greenhouse gas emissions was a matter of speculation, there was no need for or utility in the imposition of conditions.\u201d The Australian Conservation Foundation was represented by the Environment Defenders Office Queensland. The court case was heard in the federal court in Brisbane on Tuesday and Wednesday and a decision is expected within three to six months.",
+  "webTitle": "Greg Hunt: no definite link between coal from Adani mine and climate change",
+  "webPublicationDate": "2016-05-06T06:15:13Z",
+  "webUrl": "https://www.theguardian.com/australia-news/2016/may/06/greg-hunt-argues-theres-no-definite-link-between-coal-and-climate-change",
+  "keyword": [
+    {
+      "webTitle": "Greg Hunt",
+      "id": "australia-news/greg-hunt",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Coal",
+      "id": "environment/coal",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Adani Group",
+      "id": "business/adani-group",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Energy",
+      "id": "environment/energy",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Fossil fuels",
+      "id": "environment/fossil-fuels",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Michael Slezak",
+      "id": "profile/michael-slezak"
+    }
+  ],
+  "guardianId": "australia-news/2016/may/06/greg-hunt-argues-theres-no-definite-link-between-coal-and-climate-change"
+}

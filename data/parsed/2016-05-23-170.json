@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/public-leaders-network/2016/may/23/francis-maude-legacy-public-sector-shared-services",
+  "id": "2016-05-23-170",
+  "sectionId": "public-leaders-network",
+  "body": "Shared services \u2013 hailed by former Cabinet Office minister Francis Maude as a way to avoid duplication and cut costs in the public sector \u2013 have made halting progress for two reasons.  First, outsourcing firms have often not taken the trouble to find out how public services actually work, underestimating the political accountability that makes them inherently complex. Second, benefits have been oversold and shared services have become an item of dogma rather than a practical and occasional solution.    In recent months NAO reports have been using unusually blunt language about government inefficiency and ineffectiveness    Both faults are on display in the latest scrutiny by the National Audit Office (NAO) of the disaster area that is shared services in Whitehall.  The report does not exonerate civil servants but examples abound of firms apparently clueless about how politics affects public management and vice versa. One company, Arvato, clearly did not have a clue about relationships between the Cabinet Office and departments when it (over)sold its wares. A partial excuse might be that Arvato is German \u2013 spun out of the Bertelsmann publishing empire \u2013 but that should not have prevented it doing due diligence on the civil service and the reasons why successive previous attempts at mega shared service contracting in Whitehall had not worked.  In Whitehall, both Arvato and the other big recent private player Sopra Steria, which is French, do not seem to have realised that making \u201coffshoring\u201d a big ingredient in their business plans was bound to cause ructions. Even Tory ministers don\u2019t want UK civil servants losing their jobs to create employment in call centres in foreign countries, cutting the tax take and thus the capacity of the government to pay for services.  In recent months NAO reports have been using unusually blunt language about government inefficiency and ineffectiveness, and the examiners are scathing of Maude\u2019s shared services legacy.   Shared services are neither automatically beneficent nor unsuitable in the public sector. It is horses for courses. The NHS in Wales (pdf) owns and operates a central hub for auditing and other corporate services for health boards; in England, entrepreneurial trusts do back-office work for others. These seem to work. The jury is still out on NHS Shared Business Services, jointly owned by the Department of Health and Sopra Steria.   Related: Privatisation at Whitehall offices has cost \u00a34m more than it saved     Councils and the police service run a great variety of arrangements for taxes, benefits and procurement, with some involving firms such as Capita and others entirely public sector. Disentangling genuine savings is hard, and retaining some measure of public control and ownership \u2013 for example in a joint venture \u2013 seems to work better.   The chequered history of shared services offers two main lessons. Corporate tasks such as payroll and invoicing can be standardised and costs cut if they are performed outside the organisation by a specialist \u2013 but only if the circumstances are right. Academics say too much sharing brings problems of coordination, centralisation and over-regulation.  Whitehall, on the new evidence, just isn\u2019t good enough at contract management, both within departments and at the centre in the Cabinet Office. No wonder advocates of more outsourcing, such as the CBI, demand more Whitehall authoritarianism and departments being told what to do, but that is not exactly a recipe for the delicate cooperation on which shared service contracting depends.  The other lesson is about time. Contracting generally registers a quick hit on costs but within a few years, they creep up. Shared services companies, the NAO reports, find ways to charge public bodies for extras or changes in contracts. The antidote is constant vigilance by officials managing contracts. But that in turn pushes up expenses. And as with any outsourcing deal, transaction costs have to deducted from headline savings, which may leave the calculus of net benefits negative. Talk to us on Twitter via @Guardianpublic and sign up for your free weekly Guardian Public Leaders newsletter with news and analysis sent direct to you every Thursday.",
+  "webTitle": "Francis Maude's legacy on shared services is looking shaky",
+  "webPublicationDate": "2016-05-23T13:18:09Z",
+  "webUrl": "https://www.theguardian.com/public-leaders-network/2016/may/23/francis-maude-legacy-public-sector-shared-services",
+  "keyword": [
+    {
+      "webTitle": "Public Leaders Network",
+      "id": "public-leaders-network/public-leaders-network",
+      "sectionId": "public-leaders-network",
+      "sectionName": "Public Leaders Network"
+    },
+    {
+      "webTitle": "Outsourcing",
+      "id": "public-leaders-network/outsourcing",
+      "sectionId": "public-leaders-network",
+      "sectionName": "Public Leaders Network"
+    },
+    {
+      "webTitle": "Collaboration",
+      "id": "public-leaders-network/collaboration",
+      "sectionId": "public-leaders-network",
+      "sectionName": "Public Leaders Network"
+    },
+    {
+      "webTitle": "Partnership",
+      "id": "public-leaders-network/partnership",
+      "sectionId": "public-leaders-network",
+      "sectionName": "Public Leaders Network"
+    },
+    {
+      "webTitle": "Civil service",
+      "id": "politics/civil-service",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Central government",
+      "id": "public-leaders-network/central-government",
+      "sectionId": "public-leaders-network",
+      "sectionName": "Public Leaders Network"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Privatisation",
+      "id": "politics/privatisation",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Shared services",
+      "id": "public-leaders-network/shared-services",
+      "sectionId": "public-leaders-network",
+      "sectionName": "Public Leaders Network"
+    },
+    {
+      "webTitle": "Economic policy",
+      "id": "politics/economy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "David Walker",
+      "id": "profile/davidwalker"
+    }
+  ],
+  "guardianId": "public-leaders-network/2016/may/23/francis-maude-legacy-public-sector-shared-services"
+}

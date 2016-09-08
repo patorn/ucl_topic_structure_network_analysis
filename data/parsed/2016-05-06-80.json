@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/06/labour-condemns-waste-of-money-capacity-market-energy-scheme",
+  "id": "2016-05-06-80",
+  "sectionId": "business",
+  "body": "The government has been accused of burying bad news during an election period after publishing a report (pdf) saying an emergency scheme to keep the lights on could add \u00a338 a year to each household bill. The cash is going towards the cost of a \u201ccapacity market\u201d scheme, under which energy companies have been paid to keep their power stations on standby for times of peak demand. A new capacity market auction is planned by the government for next year, following two already held, and the impact assessment report suggests that the cost could be as much as \u00a33bn in 2018, or \u00a338 per household. The government has previously slashed subsidies for wind and solar projects on the grounds that they were driving up consumer bills, but it said the latest initiative would guarantee electricity needs for 2017-18, while protecting against price spikes by securing electricity in advance. A spokesperson for the Department for Energy and Climate Change said: \u201cOur top priority is ensuring that families and businesses have a secure, affordable, clean energy supply, which they can rely on now and into the future.\u201d DECC argues that the \u00a338 figure is a gross one that should be more than compensated for by the rise in overall power prices that would otherwise occur if the capacity market payments were not made. \u201cIf only the announced plant closures occur, we estimate the net impact on bills to be between \u00a310 and \u00a321, depending on the clearing price in the auction,\u201d the spokesperson said.  But Lisa Nandy, the shadow energy and climate change secretary, said the capacity market scheme was a \u201cmassive waste of money\u201d because previous payments ended up going to nuclear facilities and other plants that would have stayed open regardless. \u201cThe Tories are trying to bury this bad news. Every family\u2019s energy bill is to shoot up to pay for these gross new handouts to the big energy companies,\u201d she said. \u201cIt has been so badly designed, it isn\u2019t getting new power stations built, but instead is just lining the pockets of the big six and investors in highly polluting diesel generators.\u201d Catherine Mitchell, a professor of energy policy at the University of Exeter, said the scheme highlighted the shortsighted nature of energy policies.  \u201cThe capacity market system inherently favours fossil fuel generation, damaging the environment while delaying the widespread rollout of a flexible grid based on renewables, demand management, storage, interconnection and more efficient practices, as the national infrastructure commission and Energy UK have recently recommended,\u201d she said. Independent energy consultants also expressed concern. David Oliver, a senior consultant at Inenco, said the impact of the latest proposals could not be easily predicted. \u201cIt remains to be seen whether these changes will ultimately help secure the much-needed investment in new generation to justify the additional cost to homes and businesses,\u201d he said. Energy companies have been closing coal, gas and other power stations because they say wholesale power prices are so low that it is not commercially viable to keep them open.",
+  "webTitle": "Labour condemns 'waste of money' energy scheme",
+  "webPublicationDate": "2016-05-06T16:19:21Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/06/labour-condemns-waste-of-money-capacity-market-energy-scheme",
+  "keyword": [
+    {
+      "webTitle": "Energy industry",
+      "id": "business/energy-industry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Energy bills",
+      "id": "money/energy",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Energy",
+      "id": "environment/energy",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Terry Macalister",
+      "id": "profile/terrymacalister"
+    }
+  ],
+  "guardianId": "business/2016/may/06/labour-condemns-waste-of-money-capacity-market-energy-scheme"
+}

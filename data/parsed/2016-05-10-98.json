@@ -1,0 +1,19 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/10/alex-mattingly-obituary-letter",
+  "id": "2016-05-10-98",
+  "sectionId": "politics",
+  "body": "As a friend and colleague of Alex Mattingly, I can attest to his calm, pragmatic style of negotiating in print and publishing, an industry that often chose the \u201clocked horn\u201d approach in dealing with industrial relations \u2013 resulting in a decline in trade union influence in that sector and the strengthening of an arrogant, bullying style of management. Let\u2019s hope that trade unions can follow Alex\u2019s example in working to achieve a strong voice for employees in their place of work.",
+  "webTitle": "Letter: Alex Mattingly obituary",
+  "webPublicationDate": "2016-05-10T16:52:13Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/10/alex-mattingly-obituary-letter",
+  "keyword": [
+    {
+      "webTitle": "Trade unions",
+      "id": "politics/tradeunions",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [],
+  "guardianId": "politics/2016/may/10/alex-mattingly-obituary-letter"
+}

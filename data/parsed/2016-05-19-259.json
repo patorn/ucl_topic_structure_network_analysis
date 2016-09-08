@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/19/home-office-to-pay-13000-iranian-sex-offender-deportation-case-echr",
+  "id": "2016-05-19-259",
+  "sectionId": "uk-news",
+  "body": "The Home Office has been ordered by the European court of human rights to pay \u00a313,451 in damages and costs to a convicted Iranian sex offender whose deportation it failed to pursue energetically enough. The judges ruled that the Iranian, who lives in Barking, east London, was unlawfully held in immigration detention pending his removal for more than a year, during which time the authorities showed a \u201cwoeful lack of energy and impetus\u201d in trying to deport him. The Home Office was told to pay him \u20ac7,500 in damages and \u20ac10,000 in costs and expenses \u2013 the equivalent of \u00a313,451 for his unlawful period of detention. But the ECHR rejected claims by the man, known only as JN, that the lack of a clear time limit on the 55 months he spent in immigration detention was unlawful or that he should have had automatic access to judicial review of his case. JN, who was born in 1971, unsuccessfully claimed asylum when he arrived in Britain in 2003 and was given 12 months in prison and a deportation order after being convicted of indecent assault.  He spent two periods totalling 55 months in immigration detention pending his deportation between 2005 and 2009.  He was released for a month after a court order. He was detained again when he failed to comply with the court conditions and secured travel documents from the Iranian embassy. He was finally released on bail in 2009 when he brought a judicial review action in the high court in London. The ECHR ruling says JN repeatedly refused to cooperate with Home Office attempts to persuade him to go back to Iran voluntarily and so rightly remained in detention for fear he might abscond or reoffend. But the judges also backed a judgment of the British high court that the Home Office then adopted \u201ca sterile tactic\u201d of \u201cmerely sitting and waiting while repeatedly urging [him] to change his mind in the full expectation that he would not\u201d, which amounted to a \u201cwoeful lack of energy and impetus\u201d in trying to secure his deportation. They concluded that his detention from mid-2008 to 14 September 2009 was a breach of the Human Rights Act article 5 right to liberty and security because from this point they failed to pursue his deportation with \u201cdue diligence\u201d. The EHCR did, however, confirm that the European convention on human rights does not lay down maximum time limits for immigration detention or provide for automatic judicial review of such cases. A Home Office spokeswoman said: \u201cWe maintain that our immigration detention system is firm but fair and are pleased that the court ruled the system had not breached the convention.  \u201cWe are carefully reviewing the court\u2019s findings and will consider our next steps. It would be inappropriate to comment further while legal proceedings are ongoing.\u201d",
+  "webTitle": "Home Office to pay \u00a313,000 to Iranian sex offender in deportation case",
+  "webPublicationDate": "2016-05-19T09:58:04Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/19/home-office-to-pay-13000-iranian-sex-offender-deportation-case-echr",
+  "keyword": [
+    {
+      "webTitle": "Immigration and asylum",
+      "id": "uk/immigration",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "European court of human rights",
+      "id": "law/european-court-of-human-rights",
+      "sectionId": "law",
+      "sectionName": "Law"
+    },
+    {
+      "webTitle": "Human rights",
+      "id": "law/human-rights",
+      "sectionId": "law",
+      "sectionName": "Law"
+    },
+    {
+      "webTitle": "Law",
+      "id": "law/law",
+      "sectionId": "law",
+      "sectionName": "Law"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Alan Travis",
+      "id": "profile/alantravis"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/19/home-office-to-pay-13000-iranian-sex-offender-deportation-case-echr"
+}

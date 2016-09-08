@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/artanddesign/2016/may/28/francis-bacon-spanish-police-make-arrests-over-stolen-works-madrid",
+  "id": "2016-05-28-99",
+  "sectionId": "world",
+  "body": "Seven people have been arrested in Spain on suspicion of involvement in the theft of five paintings by Francis Bacon, worth a total of \u20ac25m (\u00a319m). The paintings were stolen last July, along with other valuables belonging to the owner, who is reported to have been a close friend of Bacon. The works, which comprise portraits and landscapes, are yet to be recovered.  Detectives said they were approached in February by British private investigators specialising in the recovery of stolen artworks who had received an email with photographs of the paintings and asking whether they were listed as stolen. Investigators analysed the photo and were able to determine that the camera that took the images was owned by a photographic equipment rental company, which supplied details of the customer who had rented it at the time the paintings were photographed.   Related: Francis Bacon: Invisible Rooms; Maria Lassnig review \u2013 an embarrassment of riches    The customer, who is suspected of involvement in the crime, was among those arrested, along with a Madrid art dealer and his son. Sources close to the investigation said in March that the theft appeared to have been a highly professional operation that took place while the owner was away in London.  The thieves disabled an alarm system and tracked the owner\u2019s movements to ensure he did not return to his apartment to catch them, they said. El Pa\u00eds quoted a source as saying the works were stolen last June, but news of the theft was only made public earlier this year. It is not known which paintings were involved but one contemporary art specialist told the newspaper they would be extremely difficult to sell. \u201cIt is not at all easy to sell a Francis Bacon, large or small, without that getting to the ears of those who pore over such a rarified sector,\u201d said the expert, speaking on condition of anonymity. Irish-born Bacon often visited Madrid, where he spent time studying old master paintings in the Prado Museum, and died in the city in 1992, aged 82. His paintings are hugely sought after, and in 2013 the sale of his 1969 work Three Studies of Lucien Freud fetched $142,405,000 (\u00a390m) at auction, a world record at the time. Spanish police did not say when the arrests were made. The investigation continues.",
+  "webTitle": "Spanish police make arrests over stolen Francis Bacon works",
+  "webPublicationDate": "2016-05-28T12:25:25Z",
+  "webUrl": "https://www.theguardian.com/artanddesign/2016/may/28/francis-bacon-spanish-police-make-arrests-over-stolen-works-madrid",
+  "keyword": [
+    {
+      "webTitle": "Spain",
+      "id": "world/spain",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Francis Bacon",
+      "id": "artanddesign/bacon",
+      "sectionId": "artanddesign",
+      "sectionName": "Art and design"
+    },
+    {
+      "webTitle": "Art",
+      "id": "artanddesign/art",
+      "sectionId": "artanddesign",
+      "sectionName": "Art and design"
+    },
+    {
+      "webTitle": "Painting",
+      "id": "artanddesign/painting",
+      "sectionId": "artanddesign",
+      "sectionName": "Art and design"
+    },
+    {
+      "webTitle": "Art and design",
+      "id": "artanddesign/artanddesign",
+      "sectionId": "artanddesign",
+      "sectionName": "Art and design"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Nadia Khomami",
+      "id": "profile/nadia-khomami"
+    }
+  ],
+  "guardianId": "artanddesign/2016/may/28/francis-bacon-spanish-police-make-arrests-over-stolen-works-madrid"
+}

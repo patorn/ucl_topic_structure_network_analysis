@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/29/syria-fears-for-aid-airdrops-plan-as-un-appears-to-backtrack",
+  "id": "2016-05-29-64",
+  "sectionId": "world",
+  "body": "Concern is growing that the United Nations is backtracking on plans to use airdrops to send food and urgent medicine to besieged towns in Syria, amid indications that the organisation believes the tactic is too dangerous without the support of the Syrian government. A meeting of the International Syria Support Group (ISSG) on 17 April in Vienna said it would start airdrops from 1 June if Bashar al-Assad\u2019s government continued to block World Food Programme aid and prevent land convoys reaching besieged areas.  The decision was passed unanimously by the 20-plus countries in the ISSG, including the US and Russia, and was hailed as a breakthrough by the British foreign secretary, Phillip Hammond.  The ISSG statement said that sieges of civilian populations in Syria were \u201ca violation of international humanitarian law\u201d, highlighting the UN\u2019s inability to provide any assistance to Arbeen, Darayya, Douma, East Harasta, Moadamiyah, Zabadin and Zamalka. But with the deadline only two days away, it now appears that the UN has decided the project is too risky without the active cooperation of the government in Damascus, which, along with Russia, controls Syrian airspace. There have been longstanding concerns, including among aid agencies, that airdrops released from a great height either miss their target, are seized by Syrian government forces or simply expose UN-contracted aircraft to the risk of an attack by the Syrian air force. Airdrops have been conducted mainly in Deir ez-Zor with the support of the Russians, and all sides accept that land convoys are preferable. The UN special envoy for Syria, Staffan de Mistura, appeared to backtrack on airdrops at a press conference last week, the day before he announced no further peace talks were possible for at least three weeks due to the breakdown in the cessation of hostilities. He said: \u201cIt is clear from the briefing that we got that in order for airdrops to become concrete either by delivery at high altitude or by helicopters, there is a need for the cooperation of the government of Syria.\u201d But critics say experience has shown the Syrian government will not provide authority for airdrops to cities that it has under siege.  The apparent reversal was condemned by the former Liberal Democrat leader Paddy Ashdown, who said: \u201cThe deadline set by the ISSG poses a serious question. Are the words of the international community meant to mean anything? We would all much rather airdrops did not have to be contemplated \u2013 they are complex operations \u2013 but if the 1 June deadline passes without ground convoys getting in then the UK has to see that the international commitment to the people of Syria is fulfilled. Not only are lives on the line, so is the credibility of the ISSG.\u201d Jason McCartney, the Conservative MP for Colne Valley and a former RAF officer, said: \u201cWe are at the stage of last resort where airdrops \u2013 however imperfect \u2013 are the only way to save lives.\u201d Jo Cox, the Labour MP who has raised the issue of airdrops most consistently, said: \u201cIf the words of the foreign secretary and the international community don\u2019t turn to action, if we don\u2019t see aid getting in by road or by air, then we\u2019ve reached a new low making empty promises to starving children.\u201d",
+  "webTitle": "Syria: fears of UN reversal over aid airdrops plan",
+  "webPublicationDate": "2016-05-29T16:56:47Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/29/syria-fears-for-aid-airdrops-plan-as-un-appears-to-backtrack",
+  "keyword": [
+    {
+      "webTitle": "Syria",
+      "id": "world/syria",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "United Nations",
+      "id": "world/unitednations",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Middle East and North Africa",
+      "id": "world/middleeast",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Aid",
+      "id": "global-development/aid",
+      "sectionId": "global-development",
+      "sectionName": "Global development"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Patrick Wintour",
+      "id": "profile/patrickwintour"
+    }
+  ],
+  "guardianId": "world/2016/may/29/syria-fears-for-aid-airdrops-plan-as-un-appears-to-backtrack"
+}

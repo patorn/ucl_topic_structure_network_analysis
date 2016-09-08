@@ -1,0 +1,43 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/13/everton-norwich-city-match-preview",
+  "id": "2016-05-13-120",
+  "sectionId": "football",
+  "body": "An afternoon with David Unsworth, Joe Royle and Duncan Ferguson sounds more like a sportsman\u2019s dinner than a Premier League fixture but the trio of ex-Evertonians will lift Goodison Park\u2019s mood following the sacking of Roberto Mart\u00ednez. The visit of relegated Norwich City would have been a mutinous, horrible affair had Mart\u00ednez been kept on for one more game and it will be revealing if his former players suddenly show more commitment than they have done in recent weeks. Andy Hunter Kick-off Sunday 3pm  Venue Goodison Park Last season n/a Referee Lee Mason This season G21, Y56, R3, 2.95 cards per game Odds H 3-4 A 7-2 D 3-1 Everton Subs from Robles, Funes Mori, Lennon, Niasse, Osman, Gibson, Pienaar, Kon\u00e9, Connolly, Davies, Holgate, Galloway Doubtful Jagielka (hamstring) Injured Coleman (hamstring), Deulofeu (knee), Browning (knee), Hibbert (ankle) Suspended None Form DDLWLL Discipline Y46 R5 Leading scorer Lukaku 18 Norwich City Subs from Rudd, Whittaker, Bassong, Andreu, Odjidja-Ofoe, Mulumbu, Jarvis, Hoolahan, Jerome, Bamford Doubtful None Injured Klose (knee, unknown), Wisdom (knee, unknown), Howson (knee, unknown), Tettey (ankle, Aug) Suspended None Form WLLLLW Discipline Y62 R3 Leading scorer Mbokani 7",
+  "webTitle": "Everton v Norwich City: match preview",
+  "webPublicationDate": "2016-05-13T15:17:19Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/13/everton-norwich-city-match-preview",
+  "keyword": [
+    {
+      "webTitle": "Everton",
+      "id": "football/everton",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Norwich City",
+      "id": "football/norwichcity",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Premier League",
+      "id": "football/premierleague",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [],
+  "guardianId": "football/2016/may/13/everton-norwich-city-match-preview"
+}

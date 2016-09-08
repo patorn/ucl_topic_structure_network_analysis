@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sustainable-business/2016/may/18/food-labeling-use-by-date-waste-recycling",
+  "id": "2016-05-18-23",
+  "sectionId": "sustainable-business",
+  "body": "The US Senate and the House of Representatives today introduced bills to clarify the rules regarding expiration date labels on food. The current labeling system means an estimated 8m lbs of food is thrown away prematurely every year. The bills, from Sen Richard Blumenthal (D-CT) and Rep Chellie Pingree (D-ME), aim to standardize America\u2019s food date labeling system. Instead of the many different dates currently in use, the new system would have just two \u2013 one to indicate peak quality and another for use on products, such as deli meat and unpasteurized cheese, that could make people ill if eaten after a certain date.   Related: Produced but never eaten:  a visual guide to food waste    Studies show that most consumers are confused about expiration dates. One survey found that roughly 90% of Americans prematurely throw away food because they think it has gone bad. Not surprisingly, more food is trashed in private homes than in grocery stores, restaurants or any other single part of the supply chain. Overall, the US spends an estimated $218bn on food that is never eaten every year. For an average family of four, that works out to be $1,500 per year. Along with that food, massive amounts of environmental resources end up in the dumpster: up to 25% of America\u2019s fresh water and almost 30% of the world\u2019s agricultural land is used every year to produce food that never gets eaten. Cultivation of wasted food releases the same amount of greenhouse gases as 33m cars every year, and food waste is the single largest component of solid waste in US landfills. To put it another way, if global food waste were a country, it would have the world\u2019s third largest carbon footprint, behind only the US and China. The economic and environmental costs have become so enormous that last fall the Obama administration announced the nation\u2019s first-ever food waste reduction goal \u2013 a 50% cut by 2030. Days after the announcement, the United Nations set a similar target as part of 17 social and environmental goals that it hopes to achieve by 2030. Food expiration dates lie at the heart of a lot of that waste. Manufacturers usually choose the phrase they use on packaging. For example, one brand of milk might stamp its products \u201cbest before\u201d, while another might say \u201csell by\u201d. A third might just have a date with no words at all. Another problem is that manufacturers also choose their own methods for determining expiration dates. Some use consumer focus groups to identify the flavor peak, while others use lab tests to determine the point at which the pathogen populations in a particular food could make people sick. Canned food manufacturers often set dates far earlier than necessary because they worry about consumers\u2019 suspicion of foods that stay fresh for a long time.  Many consumers also misunderstand food expiration and are unaware of what causes food to go bad. While people often worry about getting sick from eating old food, illness is usually caused by contamination not spoilage. As John Ruff, the president of the Institute of Food Technologists, told NPR: \u201cIn 40 years, in eight countries, if I think of major product recalls and food poisoning outbreaks, I can\u2019t think of [one] that was driven by a shelf life issue.\u201d  This means it is especially critical to have expiration dates for food with high risk of contamination, such as deli meat and unpasteurized cheese. Pathogens, such as E coli or salmonella, have to be in a food to begin with and only make people sick if they grow to certain levels. Refrigeration is one way of keeping pathogens at bay. But some bacteria, such as listeria, thrive in cold conditions.  Recently, the issue of food waste has gained a host of prominent advocates. Last fall, former White House assistant chef Sam Kass joined with Dan Barber of Blue Hill restaurant in New York City to prepare a lunch made of food scraps for world leaders at a United Nations event. In March 2015, Barber closed his restaurant for three weeks to run WastED, a pop-up serving dishes made from food scraps.    Related: GMO food labels are coming to more US grocery shelves \u2013 are consumers ready?    Tom Colicchio, the head judge on Bravo\u2019s reality cooking series Top Chef, co-founded Food Policy Action, a nonprofit that tackles issues of food safety and waste. As a contributor to Time magazine and a correspondent on MSNBC, he has also emerged as a spokesperson for the issue. \u201cIt\u2019s not just good food getting thrown away that upsets me as a chef,\u201d he wrote in Time. \u201cIt\u2019s that everything that goes into producing that food \u2013 the land, the water, the climate pollution, the labor and the love it takes to get it to the plate \u2013 all of it also gets wasted.\u201d Consumers also have a major role to play. A recently launched national public service campaign, Save The Food, uses social media and other internet resources to publicize food waste reduction tips, guidelines for properly storing different foods and resources for developing meal and shopping plans. But reaching national and international waste reduction goals will require the food industry\u2019s help. Major food companies, such as Campbell Soup Company and Nestle, have already come out in support of the new labeling bills. For most companies, this involves little more than changing the messages on their packaging from \u201cuse by\u201d to \u201cbest if used by\u201d. A recent industry collaboration report estimated that changing to these three words, standardizing date labels and other simple changes could save a lot of food from being wasted.",
+  "webTitle": "Are you confused by food expiration dates? You're not alone",
+  "webPublicationDate": "2016-05-18T21:25:49Z",
+  "webUrl": "https://www.theguardian.com/sustainable-business/2016/may/18/food-labeling-use-by-date-waste-recycling",
+  "keyword": [
+    {
+      "webTitle": "Guardian sustainable business",
+      "id": "sustainable-business/sustainable-business",
+      "sectionId": "sustainable-business",
+      "sectionName": "Guardian Sustainable Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Food safety",
+      "id": "world/food-safety",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Food & drink",
+      "id": "lifeandstyle/food-and-drink",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Manufacturing sector",
+      "id": "business/manufacturing-sector",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Dana Gunders",
+      "id": "profile/dana-gunders"
+    }
+  ],
+  "guardianId": "sustainable-business/2016/may/18/food-labeling-use-by-date-waste-recycling"
+}

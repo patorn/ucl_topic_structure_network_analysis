@@ -1,0 +1,52 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/25/zlatan-ibrahimovic-manchester-united-jose-mourinho",
+  "id": "2016-05-25-65",
+  "sectionId": "football",
+  "body": "Zlatan Ibrahimovic has told Manchester United he is keen to join them but wants \u20ac15m (\u00a311.3m) per season to do so. Jos\u00e9 Mourinho is considering making a concrete offer for the out-of-contract 34-year-old but has not made a final decision yet. Reports that Ibrahimovic, who is leaving Paris St-Germain this summer after four years and four league titles, have already agreed a contract, are not correct as both manager and player need more time to consider their options.   Related: Eric Cantona: \u2018I love Jos\u00e9 Mourinho but he is not Manchester United\u2019    Mourinho has yet to finalise his contract to take over at Manchester United while Ibrahimovic has had a very lucrative offer from LA Galaxy as well as clubs in the Middle East. Ibrahimovic\u2019s preference would be to join United and there has been contact between the two parties, but neither are in a rush to sign anything for the time being. Ibrahimovic\u2019s agent, Mino Raiola, has told United that Ibrahimovic will want at least in the region of \u00a3220,000-a-week to sign for the club. Wayne Rooney is the club\u2019s highest earner at the moment on a weekly salary of \u00a3300,000 and it is not thought that Ibrahimovic\u2019s wage demands will be a stumbling block, especially as he would join on a free transfer. Mourinho and Ibrahimovic have worked together before, at Internazionale during the 2008-09 season, and the Portuguese later said of the striker: \u201cA player who gave me as much as Ibra will always be in my heart. He did a lot for Inter and Inter did a lot for him. I like seeing Ibra. I greet him whenever I get the chance to. He is very special, he is one of the best strikers in the world.\u201d",
+  "webTitle": "Zlatan Ibrahimovic wants \u00a3220,000-a-week to join Manchester United",
+  "webPublicationDate": "2016-05-25T17:50:57Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/25/zlatan-ibrahimovic-manchester-united-jose-mourinho",
+  "keyword": [
+    {
+      "webTitle": "Zlatan Ibrahimovic",
+      "id": "football/zlatan-ibrahimovic",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Manchester United",
+      "id": "football/manchester-united",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Transfer window",
+      "id": "football/transfer-window",
+      "sectionId": "football",
+      "sectionName": "Football"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Fabrizio Romano",
+      "id": "profile/fabrizio-romano"
+    },
+    {
+      "webTitle": "Marcus Christenson",
+      "id": "profile/marcuschristenson"
+    }
+  ],
+  "guardianId": "football/2016/may/25/zlatan-ibrahimovic-manchester-united-jose-mourinho"
+}

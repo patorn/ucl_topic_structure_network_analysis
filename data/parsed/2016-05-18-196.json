@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/healthcare-network/2016/may/18/mental-health-nhs-staff-vancancies",
+  "id": "2016-05-18-196",
+  "sectionId": "healthcare-network",
+  "body": "Mental health occupies a unique place in the NHS workforce. Although some staff work in an acute setting, most work in the community as part of a team with other professionals, including psychiatrists, psychologists, mental health nurses, social workers and occupational therapists. The work is characterised, says Ian Hulatt, professional lead for mental health at the Royal College of Nursing, by a \u201cstrong multidisciplinary ethos\u201d. There are a variety of specialisms on offer, Hulatt says. \u201cThey may work in early intervention teams with people having their first episode of psychosis, in outreach teams with clients that are difficult to engage with and perhaps need a lot more support, or they may work in a community drug and alcohol team.\u201d Staff can also work in child and adolescent mental health services, with prisoners and, increasingly, with older people who have dementia. Perhaps more than other areas of the NHS, the mental health workforce suffers from staff shortages: 6% of consultant psychiatrist positions are unfilled and, in parts of London, 20% of mental health nursing posts are empty. Support staff (on Agenda for Change pay bands 1-4) make up 40% of the mental health workforce. There is currently no direct route for them to move into registered roles, but the sector skills council Skills for Health is helping to develop bridging programmes that will make it easier for them to access the training required to progress. Skills for Health senior consultant Hilary Wyles says that more support workers are needed: \u201cThe demographic of the support workforce is generally skewed towards the older end, and historically it\u2019s been difficult to recruit young people into mental health services.\u201d The organisation has successfully been working with some trusts, such as Humber NHS foundation trust, to create apprenticeships as a route into mental health support work. Mental health is also unusual in employing peer-support workers \u2013 former service users who can offer guidance to mental-health patients. Vicki Nash, head of policy and campaigns at Mind, says they are invaluable: \u201cThey\u2019ve been through that experience and understand it in a way that [others] wouldn\u2019t necessarily do if you hadn\u2019t had that experience.\u201d Not all trusts employ peer-support workers, however, and, of those who do, not all pay them. This may change, says Nash. The recent Five Year Forward View for Mental Health report by the independent Mental Health Taskforce, \u201cmakes it clear that paid peer support needs to be part of the workforce.\u201d Perhaps more than any other area of the NHS, mental health work requires a range of approaches, treatments and perspectives. Hulatt says: \u201cIt\u2019s not all about medicines.\u201d Join the Healthcare Professionals Network to read more pieces like this. And follow us on Twitter (@GdnHealthcare) to keep up with the latest healthcare news and views.",
+  "webTitle": "Mental health and the NHS: a story of staff shortages and specialisms",
+  "webPublicationDate": "2016-05-18T11:50:29Z",
+  "webUrl": "https://www.theguardian.com/healthcare-network/2016/may/18/mental-health-nhs-staff-vancancies",
+  "keyword": [
+    {
+      "webTitle": "Healthcare Network",
+      "id": "healthcare-network/healthcare-network",
+      "sectionId": "healthcare-network",
+      "sectionName": "Healthcare Professionals Network"
+    },
+    {
+      "webTitle": "Mental health",
+      "id": "healthcare-network/mental-health",
+      "sectionId": "healthcare-network",
+      "sectionName": "Healthcare Professionals Network"
+    },
+    {
+      "webTitle": "Workforce",
+      "id": "healthcare-network/workforce",
+      "sectionId": "healthcare-network",
+      "sectionName": "Healthcare Professionals Network"
+    },
+    {
+      "webTitle": "Mental health",
+      "id": "society/mental-health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "NHS",
+      "id": "society/nhs",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Nursing",
+      "id": "society/nursing",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Doctors",
+      "id": "society/doctors",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Kim Thomas",
+      "id": "profile/kim-thomas"
+    }
+  ],
+  "guardianId": "healthcare-network/2016/may/18/mental-health-nhs-staff-vancancies"
+}

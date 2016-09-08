@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/01/regina-carter-ronnie-scotts-london-review-jazz-violin",
+  "id": "2016-05-01-97",
+  "sectionId": "music",
+  "body": "If attention spans are getting shorter in the 21st century, nobody\u2019s told Regina Carter. The Detroit-born jazz violinist played Ronnie Scott\u2019s with a drummer-less acoustic group, sometimes at a barely perceptible murmur, but her unfolding of a theme is so revealing, and her improv ideas so fresh, that listeners soon sense they can\u2019t afford to miss a beat. Carter set off on the 1940s hit A Sentimental Journey at a leisurely mid-tempo at first; then came airily embellished longer lines, ringing upper tones and raffish Stephane Grappelli-like swoops, over an escalating swing from Jesse Murphy\u2019s bass and pianist Xavier Davis\u2019s discreetly prodding chords.  The more ambiguous harmonies of 60s modal jazz became the undercurrents to an account of Stevie Wonder\u2019s Higher Ground, with darting bass exclamations and brief, bluesy violin motifs easing into a floating groove explored by Carter in percussively bowed chords and boppish detours.  Astor Piazzolla\u2019s Oblivion swelled from a forlorn rhapsody to a graceful solo of trills and flicks from the sophisticated Davis, an improvisation of dark slurs and birdsong warbles emphasising what an exquisite, spontaneous melodist Carter is, a hook that was part jig and part funk, and a Latin sway that she cruised over with a poignant wordless vocal.  When the MacArthur Foundation awarded Carter a fellowship in 2006, they heralded her achievements in \u201cpioneering new possibilities for the violin and for jazz\u201d. Ten years later, her music resoundingly retains both its respect for jazz and classical traditions, and its creative edge.",
+  "webTitle": "Regina Carter review \u2013 jazz violin in a floating groove",
+  "webPublicationDate": "2016-05-01T13:25:41Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/01/regina-carter-ronnie-scotts-london-review-jazz-violin",
+  "keyword": [
+    {
+      "webTitle": "Jazz",
+      "id": "music/jazz",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "John Fordham",
+      "id": "profile/johnfordham"
+    }
+  ],
+  "guardianId": "music/2016/may/01/regina-carter-ronnie-scotts-london-review-jazz-violin"
+}

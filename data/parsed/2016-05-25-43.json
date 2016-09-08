@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/25/us-counter-terrorism-isis-recruitment-trust-american-muslims",
+  "id": "2016-05-25-43",
+  "sectionId": "world",
+  "body": "One of the leading counter-terror chiefs in the US warned against the blanket political denigration of Muslims, saying the integration of American Muslims into the country \u201chas been a major boon to the law enforcement and intelligence community in disrupting the terrorist threat\u201d. John Carlin, the assistant attorney general for national security, made his remarks in London when asked if the recent attacks on Muslims by presumptive Republic nominee Donald Trump hindered his counter-terror work. Trump has suggested all Muslims should be banned from coming to the US, but has partially retracted the remark saying it was merely \u201ca suggestion\u201d. Carlin said he was not going to discuss specific presidential campaigns, but then added: \u201cIt is key to the work of American law enforcement that it has retained the trust of the Muslim community.\u201d He said the fight in the US against Islamic State is \u201ca difficult complex problem for us to face. The fact that we don\u2019t have a community that feels in its entirety it has not been able to assimilate, the fact that as communities Muslims \u2013 along with other religions \u2013 feel quite integrated into American culture has been a major boon to law enforcement and the intelligence community in disrupting in this threat.\u201d He also called for the scale of the terror threat to in the US be kept in proportion. He said in the US there were probably \u201conly hundreds\u201d that have tried or are tempted to go over to Islamic State. \u201cIf we had the same scale of threat of some of our closest western allies, we would be looking at 30,000 to 35,000 people, so maintaining that context is key and having communities that trust us to the work is key to do our job going forward,\u201d he said. Carlin, also responsible for cybersecurity, was in London to intensify cooperation with UK intelligence chiefs including how to combat Islamic State propaganda on social media. Carlin last year convened a group of Madison Avenue advertising executives, Hollywood film producers and Silicon Valley social media executives to do more to counter what he described as \u201cthe \u2018crowd-sourcing\u2019 of terrorism\u201d \u2013 the slick Islamic State propaganda aimed at recruiting impressionable Americans. He said as a result of the meetings US law enforcement agencies had held with the executives, he expected to see films, adverts and new social media platforms countering the terrorist message shortly. He said the model was similar to the not-for-profit advertising produced to counter gangs and smoking in the US, insisting it was best \u201cfor those with the creative juices\u201d, rather than government officials come up with the content. \u201cOur job has been to walk them though the terrorism threats, and we then called on them to apply the same ingenuity that they used in creating the new systems of communication to figure out how to combat this message, and how to do it in the social media echo chambers,\u201d Carlin said. \u201cOne of the problems is that often the people that go down these paths are often in this self selecting space of social media,\u201d he continued. \u201cIt is a massive amount of propaganda with a tiny response rate, but it does not take a very high response rate to create a significant worldwide problem. \u201cNone of these major internet service providers designed their business model for it to be exploited by murdering, raping and enslaving terrorists. They are shocked and appalled that is happening.\u201d Carlin said terrorist groups, especially Islamic State, were pushing out thousands of messages and images to find recruits. \u201cThe most typical recruitment video showed a young charismatic terrorist filmed in soft lens literally handing out cotton candy to children. That is what its image of what life would be like in the caliphate,\u201d he said. \u201cAnd because one thing we know is that on the internet, kittens sell; there is a terrorist with a kitten in one hand and a rifle in the other. A third example is English-language action video arguing the west is corrupt, but the caliphate is not.\u201d He added that though the Isis propaganda drive was under way across the US, it seemed aimed mostly at people under 25. The bulk of the prosecutions of potential recruits is aimed at people aged 21 or under. He explained: \u201cIt used to be the assessment of the terrorist community that you had to personally walk someone down the path of radicalisation with human-to-human contact. Now kids are quite comfortable on social media developing friendships that are quite close without actually meeting someone in the real world.\u201d In his discussions with UK intelligence, Carlin also focussed on increasing the speed of cooperation to terrorists crossing borders, financial translation and air travel watch lists. The UK claims at least 50 countries now pass fighter profiles to Interpol \u2013 a 400% increase over two years. It also estimates that the number of foreign fighters joining Islamic State has now fallen to about 200 a month from its peak of about 2,000 a month. Different social media adopt different techniques to combat terrorist messaging, but Carlin said he had no criticism of their willingness to cooperate. Facebook this year announced a tool described as \u201ccounter speech\u201d, encouraging activists to counter extremist views with posts promoting tolerance. In March, Facebook also updated its guidelines to prohibit advocacy of \u201cterrorist activity, organized criminal activity or promoting hate\u201d. In February, Twitter announced that since mid-2015 it had suspended 125,000 accounts, most of which it believed were linked to Isis.",
+  "webTitle": "US counter-terrorism chief criticizes anti-Muslim political rhetoric",
+  "webPublicationDate": "2016-05-25T18:57:25Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/25/us-counter-terrorism-isis-recruitment-trust-american-muslims",
+  "keyword": [
+    {
+      "webTitle": "Islam",
+      "id": "world/islam",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Islamic State",
+      "id": "world/isis",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "US politics",
+      "id": "us-news/us-politics",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Religion",
+      "id": "world/religion",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Patrick Wintour",
+      "id": "profile/patrickwintour"
+    }
+  ],
+  "guardianId": "world/2016/may/25/us-counter-terrorism-isis-recruitment-trust-american-muslims"
+}

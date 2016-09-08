@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/31/jon-snow-channel-4-condemns-abusive-and-boring-eu-referendum-campaign",
+  "id": "2016-05-30-10",
+  "sectionId": "politics",
+  "body": "The Channel 4 News presenter Jon Snow has said he cannot remember a \u201cworse-tempered or more abusive, more boring UK campaign\u201d than that for the EU referendum.    Brexit explained: voting by post or proxy   The veteran presenter, who has fronted the channel\u2019s news programme since 1989, said the media\u2019s coverage was \u201cno way to run a chip shop, let alone an interesting and informative campaign for a vote upon which all our futures hang\u201d. Writing in the Radio Times, he compared the campaign unfavourably to the \u201ccoherent and comprehensible\u201d precedent set by the 2014 referendum on Scottish independence, saying it has been dominated by abuse and \u201cintemperate challenging of facts by both sides\u201d. A report from Loughborough University this month found debate on the referendum had been dominated by Tory men and highlighted the narrowness of coverage, which it said had focused on the conduct of the campaign and personal rivalries at the heart of the government.   Related: Labour voters in the dark about party's stance on Brexit, research says    Snow criticised the complexity of the question posed to the electorate, which asks whether the UK should remain or leave the EU, rather than a simple yes or no. He also criticised the \u201cuse of name-calling and politicians on both sides conjuring the views of dead leaders \u2013 who, from the grave, are in no position to dispute the claims made in their names\u201d. He said audience debates such as those on Channel 4 had provided some redemption, but \u201cwith so few weeks to go before the vote, I believe that the negativity, the bickering, the foul-mouthing, and particularly the wholesale abuse of facts by both sides have seen off most of our attempts to make the vote interesting\u201d.",
+  "webTitle": "Jon Snow condemns 'abusive' and 'boring' EU referendum campaign",
+  "webPublicationDate": "2016-05-30T23:01:17Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/31/jon-snow-channel-4-condemns-abusive-and-boring-eu-referendum-campaign",
+  "keyword": [
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Jon Snow",
+      "id": "media/jon-snow",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "TV news",
+      "id": "media/tvnews",
+      "sectionId": "media",
+      "sectionName": "Media"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jasper Jackson",
+      "id": "profile/jasper-jackson"
+    }
+  ],
+  "guardianId": "politics/2016/may/31/jon-snow-channel-4-condemns-abusive-and-boring-eu-referendum-campaign"
+}

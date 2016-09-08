@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/04/bbc-michael-jackson-channel-4",
+  "id": "2016-05-04-316",
+  "sectionId": "media",
+  "body": "The BBC is understood to have tried to persuade a former controller of both BBC1 and BBC2 to return to the corporation following a series of senior departures. Tony Hall approached Michael Jackson, a former chief executive of Channel 4, as well as one of a handful of media executives to run the corporation\u2019s two biggest television channels, to join his senior team. However, talks for the role, which could be as director of content or of television, are understood to have stalled.    Related: BBC Studios: a win for talent or an own goal?    The BBC is preparing a radical reorganisation as it waits for the government to publish the white paper to renew its royal charter as early as 12 May. Eight senior BBC executives have left in recent months, including director of television, Danny Cohen, and Peter Salmon, who was meant to be running BBC Studios. Appointed controller of BBC1 in 2013, Charlotte Moore is now controller of all channels and acting director of television. Jackson, now 58, was one of the brightest stars of his generation and become both the youngest department head in the history of the BBC and the youngest controller of BBC2. He was a rarity among the upper echelons of the media industry in having graduated with a degree in media studies from the Polytechnic of Central London in 1979. An early organiser of the Channel Four Group which pushed for the creation of the broadcaster, he was a producer known for arts and media programmes when then BBC2 controller Alan Yentob persuaded him to join the BBC to set up the new late-night BBC2 arts magazine series The Late Show in 1988. Responsible for a string of hits during his three years in charge, including Our Friends in the North, This Life and The Fast Show, Jackson was described by the Guardian in 1996 as \u201cone of the best controllers BBC2 has ever had\u201d. Known for success with comedy and for Big Brother at Channel 4, he was criticised for overspending on imports and for setting up the independent film production company FilmFour before surprising the media industry by moving to New York to work for Barry Diller\u2019s USA Entertainment Group. The BBC declined to comment on any appointment or negotiations.",
+  "webTitle": "BBC in talks for Michael Jackson to return in senior role",
+  "webPublicationDate": "2016-05-04T06:41:48Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/04/bbc-michael-jackson-channel-4",
+  "keyword": [
+    {
+      "webTitle": "BBC",
+      "id": "media/bbc",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Michael Jackson",
+      "id": "media/michael-jackson",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Tony Hall",
+      "id": "media/tony-hall",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Television industry",
+      "id": "media/television",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jane Martinson",
+      "id": "profile/janemartinson"
+    }
+  ],
+  "guardianId": "media/2016/may/04/bbc-michael-jackson-channel-4"
+}

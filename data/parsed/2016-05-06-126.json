@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/06/david-hayes-fight-arnold-cobra-gjergjaj-uktv-dave",
+  "id": "2016-05-06-126",
+  "sectionId": "media",
+  "body": "After notching up more than 3 million viewers to his comeback fight, boxer David Haye has once again turned to male-focused channel Dave to air his second heavyweight fight against unbeaten Arnold \u201cThe Cobra\u201d Gjergjaj. Pay-TV company UKTV, the owner of channels including Gold and Alibi, has struck a deal to broadcast his the next fight in his comeback on the free-to-air channel. UKTV, jointly owned by US broadcaster Scripps and BBC Worldwide, has been emboldened to strike a second deal with Haye after his comeback fight against Australian Mark de Mori free-to-air drew a record-breaking peak audience of 3.2 million.  \u201cI\u2019m thrilled that my latest fight will once again be free-to-air on Dave,\u201d said Haye. \u201cBoxing is booming in the UK right now and these figures prove it. I always said I wanted to bring boxing back to the masses and in partnership with UKTV we really did do that in January.\u201d  UKTV is planning a three-hour \u201cHaye Day\u201d special to cover the main event and undercard fights live from London\u2019s O2 centre on 21 May. This week, Dave made its second move into live TV sports, striking a deal with Frank Warren to air the British Darts Organisation\u2019s World Trophy event.",
+  "webTitle": "David Haye\u2019s fight against Arnold 'The Cobra' Gjergjaj to air on UKTV's Dave",
+  "webPublicationDate": "2016-05-06T14:47:52Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/06/david-hayes-fight-arnold-cobra-gjergjaj-uktv-dave",
+  "keyword": [
+    {
+      "webTitle": "UKTV",
+      "id": "media/uktv",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Television industry",
+      "id": "media/television",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "David Haye",
+      "id": "sport/davidhayeboxing",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Boxing",
+      "id": "sport/boxing",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Mark Sweney",
+      "id": "profile/marksweney"
+    }
+  ],
+  "guardianId": "media/2016/may/06/david-hayes-fight-arnold-cobra-gjergjaj-uktv-dave"
+}

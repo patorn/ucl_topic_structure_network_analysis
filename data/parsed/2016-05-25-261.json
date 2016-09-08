@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/artanddesign/2016/may/25/lost-and-found-share-photos-and-stories-about-the-objects-that-have-changed-you",
+  "id": "2016-05-25-261",
+  "sectionId": "artanddesign",
+  "body": "This summer, artist Cornelia Parker is curating a group exhibition at The Foundling Museum in London, in which more than 60 artists, writers and composers have been asked to respond to the word \u201cfound,\u201d by contributing a found object that means something to them. To coincide with the exhibition we\u2019d like to see photos of your own items that hold a special value to you.  Do you have a special object that you have found that tells a specific story in your life? Maybe it was something you thought you\u2019d lost long ago only to rediscover it when having a clear out or moving house? Whether it\u2019s an item found on the street, a charity shop or an object of sentimental value that has been passed down to you from older generations, share your found objects with us, and tell us the stories behind them.   GuardianWitness is the home of readers\u2019 content on the Guardian. Contribute your video, pictures and stories, and browse news, reviews and creations submitted by others. Posts will be reviewed prior to publication on GuardianWitness, and the best pieces will feature on the Guardian site.",
+  "webTitle": "Lost and found: share photos and stories about the objects that have changed you",
+  "webPublicationDate": "2016-05-25T07:52:49Z",
+  "webUrl": "https://www.theguardian.com/artanddesign/2016/may/25/lost-and-found-share-photos-and-stories-about-the-objects-that-have-changed-you",
+  "keyword": [
+    {
+      "webTitle": "Cornelia Parker",
+      "id": "artanddesign/cornelia-parker",
+      "sectionId": "artanddesign",
+      "sectionName": "Art and design"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Art and design",
+      "id": "artanddesign/artanddesign",
+      "sectionId": "artanddesign",
+      "sectionName": "Art and design"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian readers",
+      "id": "profile/guardian-readers"
+    }
+  ],
+  "guardianId": "artanddesign/2016/may/25/lost-and-found-share-photos-and-stories-about-the-objects-that-have-changed-you"
+}

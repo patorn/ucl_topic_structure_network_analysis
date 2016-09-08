@@ -1,0 +1,25 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/09/chatterbox-monday",
+  "id": "2016-05-09-307",
+  "sectionId": "technology",
+  "body": "It\u2019s Monday again.",
+  "webTitle": "Chatterbox: Monday",
+  "webPublicationDate": "2016-05-09T06:53:55Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/09/chatterbox-monday",
+  "keyword": [
+    {
+      "webTitle": "Games",
+      "id": "technology/games",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [],
+  "guardianId": "technology/2016/may/09/chatterbox-monday"
+}

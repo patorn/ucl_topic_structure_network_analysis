@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/24/tony-blair-questions-whether-jeremy-corbyn-can-win-an-election",
+  "id": "2016-05-24-169",
+  "sectionId": "politics",
+  "body": "Tony Blair has said it is uncertain whether Jeremy Corbyn can win an election, as he insisted his brand of centre-ground politics was not dead. Speaking at an event in Westminster on Tuesday, the former Labour prime minister said: \u201cLet us say it is not yet a proven concept that Corbynism can win an election. It is clear that they can take over a political party; what is not so clear to me yet is that they can take over a country.\u201d Blair admitted the centre ground was losing traction and not providing answers to people who wanted an end to the status quo. He claimed some of the support for Donald Trump and Jeremy Corbyn shared similarities, claiming \u201cthese people are riding the anger; they are not providing the answers\u201d. Blair said: \u201cWhere fringes of left and right meet each other [is] essentially as isolationists against free trade. It is true that the left want to hang the bankers and the right want to clear out the immigrants, but in much of the psychology and attitude they have got a lot in common.\u201d He said the centre\u2019s problem was that it looks \u201cas if we are managers of the status quo and not changers of it\u201d.  He also questioned the basis of Corbyn\u2019s support in the Labour party, saying: \u201cIf you break down the analysis of the people who are joining the Labour party, it is not clear to me [that] those that should feel most angry about their personal situation and those joining are the same people.  \u201cThe world of the Twitterati gives you a sense of belonging and a sense of insurgency. It was about shaking the system and rattling the cage. People do feel frustrated and social media gives them the ability to feel that at scale and at speed and the centre looks as if we are saying it is all very complicated. We are not in the right conversation with people like this\u201d. He said the centre ground should be discussing issues such as the role of technology and big data in public services, the use of monetary policy such as quantitative easing and the future of student debt. He also dismissed the binary debate over austerity, saying it misunderstood the way economy works.  Corbyn is planning to set out a \u201cbold and ambitious\u201d set of policies well ahead of the 2020 elections, after acknowledging the party is not yet doing enough to win a majority. On Tuesday, he told the PCS union conference that the next Labour government will restore national pay bargaining in the civil service, more than 20 years after it was scrapped by the Conservatives. Corbyn won applause when he said it was \u201cabsurd\u201d to have hundreds of different sets of wage negotiations, taking up the time of union representatives and managers. He also promised to end the cap on public sector pay and to restore good industrial relations to the civil service.",
+  "webTitle": "Tony Blair questions whether Jeremy Corbyn can win an election",
+  "webPublicationDate": "2016-05-24T12:45:26Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/24/tony-blair-questions-whether-jeremy-corbyn-can-win-an-election",
+  "keyword": [
+    {
+      "webTitle": "Tony Blair",
+      "id": "politics/tonyblair",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Labour",
+      "id": "politics/labour",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Jeremy Corbyn",
+      "id": "politics/jeremy-corbyn",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Patrick Wintour",
+      "id": "profile/patrickwintour"
+    }
+  ],
+  "guardianId": "politics/2016/may/24/tony-blair-questions-whether-jeremy-corbyn-can-win-an-election"
+}

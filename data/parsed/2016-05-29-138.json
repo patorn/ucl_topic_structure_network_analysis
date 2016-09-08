@@ -1,0 +1,84 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/29/australia-covered-up-un-climate-change-fears-for-tasmania-forests-and-kakadu",
+  "id": "2016-05-29-138",
+  "sectionId": "environment",
+  "body": "A draft UN report on climate change, which was scrubbed of all reference to Australia over fears it could deter visitors to the Great Barrier Reef, also outlined possible threats to the Tasmania wilderness and Kakadu. The draft report contained a chapter on the Great Barrier Reef, which described climate change as \u201cthe biggest long-term threat to the [reef] today, and to its ecosystems services, biodiversity, heritage values and tourism economy\u201d. It concluded that \u201cwithout a comprehensive response more in keeping with the scale of the threat, the [reef]\u2019s extraordinary biodiversity and natural beauty may lose its world heritage values\u201d.   Related: Revealed: report for Unesco on the Great Barrier Reef that Australia didn't want world to see    But before it was scrubbed, the report had two other key sections on Australian world heritage sites, and the threats they face from climate change. One of those sections was on the Tasmanian wilderness. At the time the report was being reviewed by the Australian government, in early 2016, that wilderness was just starting to burn, in what unfolded to be a catastrophic bushfire in regions that had never burned before. Those fires were a result of increased lightning activity and drier conditions, which are consequences of climate change. At the time, the Tasmanian premier, Will Hodgman, criticised conservationists for their \u201chysterical response,\u201d again worrying about the impact it would have on tourism. \u201cIt\u2019s damn ordinary that you\u2019ve got environmental activists almost gleefully capitalising on images, naturally caused, which could inflict significant damage on our brand, our reputation,\u201d he said. \u201cThe threat is still ongoing, but Tasmania\u2019s tourism industry, particularly in our magnificent world heritage area and the national parks, is well and true open,\u201d he told Fairfax Media. But the censored section of the Unesco report on Tasmania is clear about the \u201cdire\u201d nature of the threat. It said: \u201cA 2013 assessment of climate threats identified the same habitats as at high risk from greater fire frequency and drier conditions, with likely catastrophic implications for fauna. These dire predictions appeared to be playing out in January 2016, when tens of thousands of hectares of forest burned, sparked by lightning strikes that came in a month when temperatures were 2C above average and in the wake of the driest two-year period ever recorded for the region.\u201d The deleted section on Kakadu national park contained similarly dire warnings. It described the important natural and cultural values of Kakadu, which has been inhabited by Aboriginal people for 50,000 years. \u201cThe thousands of rock art sites in the park are at risk from damage by more extreme rainfall events, while sea level rise is happening at twice the global average along the northern Australian coast,\u201d the draft report said. It warned that fresh-water wetlands were at risk from sea level rise, as they are likely to be inundated with salt water.    Related: World heritage forests burn as global tragedy unfolds in Tasmania    \u201cClimate change threatens Aboriginal traditional use by altering the ecosystems of the vast wetlands of Kakadu and raising temperatures to a level likely to lead to more intense fire regimes,\u201d the report said. The final version of the report entitled \u201cWorld heritage and tourism in a changing climate\u201d was published last week by Unesco, United Nations environment programme and the Union of Concerned Scientists, with all references to Australia removed. The lead author of the report, Adam Markham, told Guardian Australia: \u201cI was shocked when I read in the Guardian the reasons the Australian government gave for why they had pressured Unesco to drop the Australian sites.\u201d",
+  "webTitle": "Australia covered up UN climate change fears for Tasmania forests and Kakadu",
+  "webPublicationDate": "2016-05-29T07:59:40Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/29/australia-covered-up-un-climate-change-fears-for-tasmania-forests-and-kakadu",
+  "keyword": [
+    {
+      "webTitle": "Climate change",
+      "id": "environment/climate-change",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australian politics",
+      "id": "australia-news/australian-politics",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "United Nations",
+      "id": "world/unitednations",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Northern Territory",
+      "id": "australia-news/northern-territory",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Queensland",
+      "id": "australia-news/queensland",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Great Barrier Reef",
+      "id": "environment/great-barrier-reef",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Tasmania",
+      "id": "australia-news/tasmania",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Conservation",
+      "id": "environment/conservation",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Endangered habitats",
+      "id": "environment/endangered-habitats",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Bushfires",
+      "id": "australia-news/bushfires",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Michael Slezak",
+      "id": "profile/michael-slezak"
+    }
+  ],
+  "guardianId": "environment/2016/may/29/australia-covered-up-un-climate-change-fears-for-tasmania-forests-and-kakadu"
+}

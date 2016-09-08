@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/04/have-you-been-affected-by-the-alberta-wildfires",
+  "id": "2016-05-04-291",
+  "sectionId": "world",
+  "body": "The entire population of a northern Alberta city has been ordered to evacuate as a wildfire whipped by high winds engulfed homes and sent ash raining down on residents. All of Fort McMurray, with the exception of Parson\u2019s Creek, was under a mandatory evacuation order on Tuesday, said Robin Smith, press secretary for the regional municipality of Wood Buffalo in the Canadian province.  If you have been affected we\u2019d like to hear from you. Whether you have been evacuated or are one of several volunteers, share your photos and videos by clicking on the blue button. You can also share with us via WhatsApp by adding the contact +44 (0) 7867 825056 emailing us on guardian.witness@theguardian.com or by filling in the form below. We\u2019ll feature some of your contributions in our reporting. Please think about your security first when recording and sharing your content.",
+  "webTitle": "Have you been affected by the Alberta wildfires?",
+  "webPublicationDate": "2016-05-04T08:33:33Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/04/have-you-been-affected-by-the-alberta-wildfires",
+  "keyword": [
+    {
+      "webTitle": "Canada",
+      "id": "world/canada",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Americas",
+      "id": "world/americas",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian readers",
+      "id": "profile/guardian-readers"
+    }
+  ],
+  "guardianId": "world/2016/may/04/have-you-been-affected-by-the-alberta-wildfires"
+}

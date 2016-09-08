@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/28/tony-blair-corbyn-government-dangerous-experiment",
+  "id": "2016-05-28-121",
+  "sectionId": "politics",
+  "body": "Tony Blair has said it would be a \u201cvery dangerous experiment\u201d if Jeremy Corbyn or a populist politician like him were to form a government. In an interview with the BBC, the former Labour prime minister said populist politicians, whether on the left like Corbyn or on the right, were worrying and he spent a lot of time thinking about how people in the centre should respond. Blair famously said last summer that anyone thinking of voting for Corbyn as Labour leader because it was what their heart told them to do should \u201cget a transplant\u201d, but his latest comment may be his harshest yet.  Speaking to Emily Maitlis for BBC2\u2019s This Week\u2019s World, Blair rejected the suggestion that he was responsible for Corbyn\u2019s emergence as a political force. He said it was \u201ca result of the way the world works these days\u201d. He said: \u201cIt\u2019s a big challenge for the centre and, when I\u2019m not thinking about the Middle East, I\u2019m thinking about this because I do think, by the way, it would be a very dangerous experiment for a major western country to get gripped by this type of populist policymaking left or right, a very dangerous experiment. \u201cI do think the centre ground needs to work out how it gets its mojo back and gets the initiative back in the political debate because otherwise these guys aren\u2019t providing answers, not on the economy not on foreign policy.\u201d Blair and Corbyn are at opposite ends of the spectrum of Labour opinion, with Blair on the far right of conventional party thinking and Corbyn on the far left. Blair won three general elections, but his support for US intervention in Iraq and free-market economics made him increasingly unpopular with Labour activists, helping to explain the rise of Corbyn in 2015. A spokesman for Corbyn declined to comment. In the interview, Blair would not comment on the forthcoming Iraq inquiry report. But he said he felt some humility when he thought about the decisions he took at the time. \u201cI have a real humility about the decisions that I took and the issues around them,\u201d he said. \u201cI was trying to deal with this in the aftermath of 9/11 and it was very tough, it was very difficult. I think it\u2019s important that we also have humility then about the next phase of policymaking, so we try and actually learn the lessons of the whole period since that time.\u201d He said Islamic extremists posed a threat even before the Iraq war and that people in Europe faced the risk of even bigger terror attacks if the extremists were not confronted. Asked whether he was worried by the thought of Donald Trump becoming US president, he said he had \u201cthe same view of Donald Trump as most people, here at least,\u201d and he hoped Americans would choose their next president wisely.",
+  "webTitle": "Tony Blair: Corbyn government would be a dangerous experiment",
+  "webPublicationDate": "2016-05-28T09:35:04Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/28/tony-blair-corbyn-government-dangerous-experiment",
+  "keyword": [
+    {
+      "webTitle": "Tony Blair",
+      "id": "politics/tonyblair",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Jeremy Corbyn",
+      "id": "politics/jeremy-corbyn",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Labour",
+      "id": "politics/labour",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Iraq war inquiry",
+      "id": "uk/iraq-war-inquiry",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Labour party leadership",
+      "id": "politics/labourleadership",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Andrew Sparrow",
+      "id": "profile/andrewsparrow"
+    }
+  ],
+  "guardianId": "politics/2016/may/28/tony-blair-corbyn-government-dangerous-experiment"
+}

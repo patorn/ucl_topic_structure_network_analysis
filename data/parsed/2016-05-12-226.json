@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/12/edf-extra-27bn-cover-hinkley-point-construction-costs",
+  "id": "2016-05-12-226",
+  "sectionId": "business",
+  "body": "EDF, the French utility group lined up to build twin nuclear reactors at Hinkley Point in Somerset, has said the cost of the project could be \u00a32.7bn higher than previously expected, at nearly \u00a321bn. In a statement before its annual general meeting, the state-controlled energy company said its ownership commitment on the project could rise from \u00a312bn to \u00a313.8bn. Its Chinese partner, CGN, could be liable for an extra \u00a3900m, taking its commitment to \u00a36.9bn. An EDF spokesman said the existing \u00a318bn estimate contained contingency planning for general cost overruns and that the extra \u00a32.7bn was to ensure the project was completed in the event of an extraordinary or catastrophic event. In its statement, EDF said: \u201cThe partners\u2019 equity commitment includes a contingency margin and could reach a total of \u00a313.8bn for the EDF group and \u00a36.9bn to CGN.\u201d EDF also indicated Hinkley Point could be completed later than the already delayed target of 2025. It predicted the project would take 115 months after a final investment decision was made. If, as suggested by the French economy minister, a decision comes in September, that would mean the earliest start date would be spring 2026.  EDF said it would provide CGN with limited financial guarantees to cover cost overruns or delays to the project or if European authorities challenged the financial terms agreed with the UK government. EDF\u2019s chief executive, Jean-Bernard Levy, told the meeting in Paris that without Hinkley Point, EDF would not win nuclear power contracts in other countries. It has already racked up long delays for smaller projects in France and Finland. \u201cThis project is essential for the credibility of the entire French nuclear industry,\u201d he said.   Related: Hinkley Point: UN report says UK failed to consult over risks    EDF agreed the main terms of a deal with the UK government and CGN, China\u2019s main nuclear operator, in October to build two reactors at Hinkley Point. The French group, whose finances are under pressure, said at the time it expected to take a final investment decision within weeks but it has yet to make a definitive commitment. The UK government has made the project a vital part of its energy plans despite longstanding doubts about its viability. Amber Rudd, the energy secretary, did not respond to a question in the House of Commons about the extra potential costs. Doug Parr, policy director at Greenpeace, accused EDF of not getting its facts straight. \u201cAll the evidence shows that EDF are completely willing to say whatever it takes to keep the UK and Chinese governments happy, but are seemingly unable to build a reactor that works on budget and on time.\u201d Alarm has grown inside EDF, which is 85% owned by the French government, about the scale of its future financial commitments and debts at a time of plunging power prices and difficulties with other projects. Thomas Piquemal, EDF\u2019s finance director, quit in March after the company refused to postpone investment to deal with a range of problems. In Britain, Hinkley has attracted criticism from the City for being too costly for taxpayers. The government has promised to pay \u00a392.50 per megawatt hour for the power over 35 years \u2013 double the current cost. Ministers say the scheme, which could provide 7% of UK electricity, represents value for money in the long term and could help lower UK carbon emissions.",
+  "webTitle": "EDF sets aside extra \u00a32.7bn to cover Hinkley Point construction costs",
+  "webPublicationDate": "2016-05-12T11:56:38Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/12/edf-extra-27bn-cover-hinkley-point-construction-costs",
+  "keyword": [
+    {
+      "webTitle": "EDF Energy",
+      "id": "business/edf",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Hinkley Point C",
+      "id": "uk-news/hinkley-point-c",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Nuclear power",
+      "id": "environment/nuclearpower",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Energy industry",
+      "id": "business/energy-industry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Energy",
+      "id": "environment/energy",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Sean Farrell",
+      "id": "profile/sean-farrell"
+    }
+  ],
+  "guardianId": "business/2016/may/12/edf-extra-27bn-cover-hinkley-point-construction-costs"
+}

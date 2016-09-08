@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/03/horse-racing-tips-wednesday-4-may",
+  "id": "2016-05-03-109",
+  "sectionId": "sport",
+  "body": "Chester 2.10 Copper Knight 2.40 Somehow 3.10 Gabrial The Hero (nap) 3.45 Roudee (nb) 4.20 Maljaa 4.55 Mulk 5.25 Cape Of Glory   Related: BHA defends ban on Paul Gilligan despite clear appeal risk     Chelmsford 5.45 Under Siege 6.15 Jodie\u2019s Jem 6.45 Mise En Rose 7.15 Both Sides 7.45 Taqdees 8.15 First Mohican 8.45 Welease Bwian Kelso  2.20 Winter Alchemy 2.50 Katgary 3.25 Golden Investment 4.00 Blue Kascade  4.35 Neville Woods 5.05 New Vic 5.35 Tales Of The Tweed 6.05 Get Rhythm Newton Abbot 2.00 Ozzie The Oscar 2.30 Abidjan 3.00 Late Night Lily 3.35 Portway Flyer 4.10 I\u2019llhavealook 4.45 Port Melon 5.15 Dispour Wetherby 5.30 Elusive Theatre 6.00 Urban Hymn 6.30 Kerrow 7.00 To Begin 7.30 Strait Run 8.00 Opera Og 8.30 Rock A Doodle Doo",
+  "webTitle": "Horse racing tips: Wednesday 4 May",
+  "webPublicationDate": "2016-05-03T16:22:58Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/03/horse-racing-tips-wednesday-4-may",
+  "keyword": [
+    {
+      "webTitle": "Horse racing tips",
+      "id": "sport/horse-racing-tips",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Horse racing",
+      "id": "sport/horse-racing",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Greg Wood",
+      "id": "profile/gregwood"
+    }
+  ],
+  "guardianId": "sport/2016/may/03/horse-racing-tips-wednesday-4-may"
+}

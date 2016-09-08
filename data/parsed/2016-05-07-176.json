@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/money/2016/may/07/ex-pensions-minister-still-worrying-about-pensions-we-should-too",
+  "id": "2016-05-07-176",
+  "sectionId": "money",
+  "body": "I met up with Steve Webb this week, the highly regarded pensions minister in the coalition government for five years until he lost his seat in the election. He can be a lot more candid now he\u2019s out of office (particularly in what he says about George Osborne). What, I asked, is the biggest single issue facing pension savers in Britain today? Is it the fact we may all be forced to work until 70 before collecting a pension? Is it the way women born in the mid-1950s are shafted when it comes to the state pension? Is it the gaping hole in the BHS pension fund? It\u2019s none of these, he said. The biggest issue is something that is not being talked about anywhere, yet it will affect 10 million people \u2013 not today\u2019s pensioners, but those at work, on middling or low incomes. The good news is that the vast majority have been, or are about to be, automatically enrolled into a pension scheme, many for the very first time. The bad news? They will be seriously disappointed if they think the pension will pay out anywhere near enough when they come to retire. So far, auto-enrolment has worked well. More than 5.5 million people have joined, with a further five million due to follow by early 2018. \u201cNudge\u201d theory has worked, with hardly anyone choosing to opt out. Maybe that is because the ramp-up in contributions has not yet taken place. For now, workers pay in just 0.8% of salary, but that will rise to 2.4% in April 2018, then 4% in April 2019. But it\u2019s not the 4% that vexes Webb. It\u2019s the fact that the 4%, plus 3% from the employer and 1% in tax relief, adds up to a total contribution of only 8% of salary. And that\u2019s a woefully low level of payments. There are some general rules of thumb for working out how much of your salary should be going into a pension. A good one is to take your age and halve it. So if you start saving for a pension at age 30, you need to put away 15% of salary. If you put it off until 40, you need to put in 20%. So 8% a year is, at best, only half the amount you should be saving. The trouble is, how do 10 million poorly paid workers possibly find the money to double or even triple their contributions? Webb thinks rejigging auto-enrolment rates won\u2019t work, as pushing the 4% employee contribution rate to, say, 10% would simply provoke mass opt-outs. Making companies pay more is also very challenging, given they are having to find so much for the living wage and the apprenticeship levy. Instead Webb thinks the government needs to look at what he calls \u201cauto-escalation\u201d. The idea is that every time someone receives a pay rise, a portion of that goes straight over to the pension \u2013 sort of \u201cif you\u2019ve never seen it, you won\u2019t miss it\u201d. Heineken, the brewers, apparently does something like this in the UK, while in the US a programme called \u201cSave More Tomorrow\u201d has enjoyed spectacular results, with contributions rising from 3.5% to a whopping 13%. Webb is now director of policy at mutual insurer Royal London, but his focus remains on the pensions of the average person, not the loud protestations of well-off earners carping about things such as the \u00a31m pensions cap. His idea for auto-escalation deserves wider consideration. And George Osborne? Like every minister, current and former, Webb bemoans the overwhelming influence of the Treasury in decision making. Witness Osborne\u2019s decision to announce school academisation in the budget, which should surely have been the job of the education secretary. Osborne is not actually Britain\u2019s chancellor. He\u2019s the domestic prime minister.",
+  "webTitle": "Ex-pensions minister is still worrying about pensions. We should too",
+  "webPublicationDate": "2016-05-07T06:00:07Z",
+  "webUrl": "https://www.theguardian.com/money/2016/may/07/ex-pensions-minister-still-worrying-about-pensions-we-should-too",
+  "keyword": [
+    {
+      "webTitle": "Pensions",
+      "id": "money/pensions",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Occupational pensions",
+      "id": "money/occupational-pensions",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Retirement planning",
+      "id": "money/retirement-planning",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Pay",
+      "id": "money/pay",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Family finances",
+      "id": "money/family-finances",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Work & careers",
+      "id": "money/work-and-careers",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Auto-enrolment pensions",
+      "id": "money/auto-enrolment-pensions",
+      "sectionId": "money",
+      "sectionName": "Money"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Patrick Collinson",
+      "id": "profile/patrickcollinson"
+    }
+  ],
+  "guardianId": "money/2016/may/07/ex-pensions-minister-still-worrying-about-pensions-we-should-too"
+}

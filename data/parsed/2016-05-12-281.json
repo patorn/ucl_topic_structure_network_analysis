@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/law/2016/may/12/court-rejects-600-iraqis-claims-of-mistreatment-by-uk-soldiers",
+  "id": "2016-05-12-281",
+  "sectionId": "law",
+  "body": "Claims by more than 600 Iraqi civilians alleging that they were unlawfully detained and physically mistreated by British soldiers have been dismissed by the supreme court in London. In a unanimous decision, the courts\u2019 justices ruled that the applications for compensation following the invasion of Iraq had been brought too late and that an Iraqi law imposing time limits had not been suspended.  In a substantial number of the cases, the court found, actions were begun more than three years after the claimant became aware of the injury and the person who caused it. They were therefore time-barred under article 232 of the Iraqi civil code.   Related: The Chilcot report shouldn\u2019t be used to pin blame for Iraq on one man | Jackie Ashley    Delivering the judgment, Lord Sumption said: \u201cThe claimants\u2019 submission, if accepted, would mean that there was no limitation period at all affecting the present proceedings in England \u2026\u201d The case, brought by the London law firm Leigh Day, focused on 14 test cases relating to complaints about mistreatment at the hands of British troops between 2003 and 2009. It revolved around rival interpretations of the 1984 Foreign Limitations Periods Act, which provides that where a claim is brought in England which is governed by a foreign law, English courts are to apply the foreign law of limitation.  A spokesperson from Leigh Day said: \u201cThe MoD has already settled hundreds of claims by Iraqis in relation to abuse and wrongful detention following the ill fated war of 2003 under the government led by Tony Blair. A war which will come under close scrutiny in the Chilcot inquiry, which will report in July.   Related: Chilcot report on Iraq war to be published on 6 July    \u201cThis technical judgment has the result of revising the hurdle that the majority of the remaining cases brought by Iraqi civilians against the MoD will have to get over to enable their claims to be heard in the British courts. \u201cWe remain confident in the merits of the test cases going to trial this summer, brought exclusively against the UK government over their role in southern Iraq.\u201d",
+  "webTitle": "Court rejects 600 Iraqis' claims of mistreatment by UK soldiers",
+  "webPublicationDate": "2016-05-12T10:06:01Z",
+  "webUrl": "https://www.theguardian.com/law/2016/may/12/court-rejects-600-iraqis-claims-of-mistreatment-by-uk-soldiers",
+  "keyword": [
+    {
+      "webTitle": "UK supreme court",
+      "id": "law/uk-supreme-court",
+      "sectionId": "law",
+      "sectionName": "Law"
+    },
+    {
+      "webTitle": "Iraq",
+      "id": "world/iraq",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Military",
+      "id": "uk/military",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Law",
+      "id": "law/law",
+      "sectionId": "law",
+      "sectionName": "Law"
+    },
+    {
+      "webTitle": "Middle East and North Africa",
+      "id": "world/middleeast",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Owen Bowcott",
+      "id": "profile/owenbowcott"
+    }
+  ],
+  "guardianId": "law/2016/may/12/court-rejects-600-iraqis-claims-of-mistreatment-by-uk-soldiers"
+}

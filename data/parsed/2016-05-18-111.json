@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/money/2016/may/18/starter-homes-target-ambitious-lenders-housing-market-cml",
+  "id": "2016-05-18-111",
+  "sectionId": "money",
+  "body": "Mortgage lenders have warned that the government\u2019s target of delivering 200,000 discounted first-time buyer homes by the end of this parliament is \u201ctoo ambitious\u201d and that the scheme could contribute to making the property market more unstable. Under the starter homes initiative, the government plans to relax planning restrictions to encourage developers in England to build properties that will be sold at a 20% discount on their market rate to first-time buyers under the age of 40. In March 2015, it said it wanted to deliver 200,000 of these new homes by 2020, alongside 135,000 shared ownership properties.  The scheme has been controversial because it allows developers to replace homes built for affordable renting with homes costing up to \u00a3250,000 outside London and \u00a3450,000 in the capital, and for buyers to sell them on later at the open market rate. In its response to the government\u2019s technical consultation to the scheme, the Council of Mortgage Lenders (CML) said that if targets for starter homes and shared ownership properties were to be met, they would amount to 112,000 homes a year being built over the next three years \u2013 more than three-quarters of the total number of properties it was expecting to be delivered. \u201cWe believe that it is highly unlikely that such a target could be achieved,\u201d the CML said. It said if targets for shared ownership and starter homes were both achieved, it would have a significant impact on the housing market. If buyers were only able to sell on properties at the discounted rate, this could affect their ability to move up the housing ladder, the CML said. \u201cTo a large extent, the success of the scheme will depend on the ability of first-time buyers to build enough housing equity in a starter home to move up the property ladder. That will require property prices to be sustainable over the long term.\u201d Conversely, allowing them to sell them on quickly at the full market rate would also cause problems.  The CML said that to minimise the effect and to target those who most needed help, there should be a period of up to 10 years in which the property could not be sold on at full market value, with the discount tapering after the first three years.  \u201cThis would help avoid the potential for disruption to the market caused by buyers gaining a rapid uplift in equity in their homes, and wanting to sell their property to benefit from it.\u201d It added that banks and building societies that make up its membership had mixed views on how the discount scheme would work alongside other government initiatives such as the help-to buy-loan scheme, and that some firms may choose not to lend on starter homes if buyers were allowed to combine government incentives on one purchase. \u201cOne concern is that this makes it more complicated for borrowers to understand the transaction and what their equitable interest and obligations are in the property. Some lenders believe this would make lending more risky,\u201d it said. \u201cFirms are also concerned that the potential to combine incentives could deliver a larger increase in the value of the property over a relatively short period. That could boost demand and contribute to instability in property prices.\u201d The House of Lords recently voted for an amendment to the housing and planning bill, which would have seen the original discount reduced over 20 years. However, the Housing and Planning Act says only that the homes are \u201csubject to any restrictions on sale or letting specified in regulations made by the secretary of state\u201d.",
+  "webTitle": "200,000 starter homes target too ambitious, say lenders",
+  "webPublicationDate": "2016-05-18T15:49:04Z",
+  "webUrl": "https://www.theguardian.com/money/2016/may/18/starter-homes-target-ambitious-lenders-housing-market-cml",
+  "keyword": [
+    {
+      "webTitle": "First-time buyers",
+      "id": "money/firsttimebuyers",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Property",
+      "id": "money/property",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Housing market",
+      "id": "business/housingmarket",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Real estate",
+      "id": "business/realestate",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Construction industry",
+      "id": "business/construction",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Banks and building societies",
+      "id": "money/banks",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Hilary Osborne",
+      "id": "profile/hilaryosborne"
+    }
+  ],
+  "guardianId": "money/2016/may/18/starter-homes-target-ambitious-lenders-housing-market-cml"
+}

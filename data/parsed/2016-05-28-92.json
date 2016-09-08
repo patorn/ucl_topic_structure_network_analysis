@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/28/rider-killed-during-motorbike-race-on-isle-of-man-dean-martin",
+  "id": "2016-05-28-92",
+  "sectionId": "sport",
+  "body": "A motorcyclist died and a fellow rider and a course marshal were flown to hospital after a crash at the pre-TT races on the Isle of Man.  Organisers Southern 100 Racing said Dean Martin, 58, was killed in the collision on the Billown course during the 850cc Classic practice session on Friday evening.  Martin, from Santon, Isle of Man, was a long-time competitor on the Billown course on classic and modern machines and leaves a partner, Hilary, they added.  The crash at Billown dip also involved a competitor from Liverpool, Jamie O\u2019Brien, and two course marshals. Southern 100 Racing said O\u2019Brien was in a serious but stable condition at Aintree hospital in Liverpool.  A course marshal is also receiving treatment at Aintree for head injuries, while a second marshal was treated for ankle and shoulder injuries at Noble\u2019s hospital on the island.  In a statement, the organisers said: \u201cSouthern 100 Racing extends it sincere condolences to family, relatives and friends at this very sad time. \u201cThe organisers are carrying out a full investigation into the circumstances of the incident. The coroner of inquests has been informed.\u201d",
+  "webTitle": "Rider killed during motorbike race on Isle of Man",
+  "webPublicationDate": "2016-05-28T13:10:57Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/28/rider-killed-during-motorbike-race-on-isle-of-man-dean-martin",
+  "keyword": [
+    {
+      "webTitle": "Motorcycling",
+      "id": "sport/motorcycling",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Isle of Man",
+      "id": "uk/isle-of-man",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Nadia Khomami",
+      "id": "profile/nadia-khomami"
+    }
+  ],
+  "guardianId": "sport/2016/may/28/rider-killed-during-motorbike-race-on-isle-of-man-dean-martin"
+}

@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/12/nine-police-forces-investigate-claims-tories-breached-election-spending-rules",
+  "id": "2016-05-12-74",
+  "sectionId": "politics",
+  "body": "Nine police forces have now launched inquiries into whether the Conservative party breached spending rules during the 2015 general election campaign.  Lincolnshire police became the latest force to confirm on Thursday that they were investigating the claims as the Tories handed over evidence regarding the controversy to the Electoral Commission.  The allegations regarding breaches of spending rules centre on claims that the party listed the costs of bussing activists into key marginal seats under national spending accounts, rather than as local spending.    Related: Tory funding in 2015 election campaign investigated by eight police forces    Lincolnshire appears to be the ninth police force examining the allegations, which were first broadcast by Channel 4 News. The others are Greater Manchester, Cheshire, Gloucestershire, Northamptonshire, Staffordshire, Warwickshire and West Mercia, and Devon and Cornwall.  Any candidate found guilty of an election offence could face up to one year in prison and being barred from office for three years. A statement from Lincolnshire police said: \u201cWe are aware of recent media reporting regarding allegations of irregularities in the election expenses of the Conservative party and some of their candidates in the general election 2015, and three byelections in 2014.  \u201cWe can confirm that we are carrying out general enquiries, but we will not be commenting further until they are complete.\u201d  The Electoral Commission went to the high court on Thursday for an information disclosure order to seek the documents.  Within hours, the commission said it had received the documents from the Conservatives and was reviewing them. Senior Tories insisted the legal action was not necessary as they had always intended to hand the details over.  \u201cWe advised the Electoral Commission on 29 April that we would comply with their notices by 1pm today, and have done so. There was no need for them to make this application to the high court,\u201d a spokeswoman said.  The party acknowledged that due to an \u201cadministrative error\u201d, some accommodation costs for the activists were not properly registered, but insisted the bus tour was part of the national campaign organised by Conservative campaign headquarters and as such it did not have to fall within individual constituency spending limits.",
+  "webTitle": "Nine police forces now investigating claims Tories breached spending rules",
+  "webPublicationDate": "2016-05-12T18:30:25Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/12/nine-police-forces-investigate-claims-tories-breached-election-spending-rules",
+  "keyword": [
+    {
+      "webTitle": "Conservatives",
+      "id": "politics/conservatives",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "General election 2015",
+      "id": "politics/general-election-2015",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Elections past",
+      "id": "politics/electionspast",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics past",
+      "id": "politics/past",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Police",
+      "id": "uk/police",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Rajeev Syal",
+      "id": "profile/rajeev-syal"
+    }
+  ],
+  "guardianId": "politics/2016/may/12/nine-police-forces-investigate-claims-tories-breached-election-spending-rules"
+}

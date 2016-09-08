@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/mediamonkeyblog/2016/may/09/bbc-studios-tony-hall-top-departures",
+  "id": "2016-05-09-223",
+  "sectionId": "media",
+  "body": "Taxi (again) for BBC Studios! Following the double-whammy of Natalie Humphreys\u2019s and Katie Taylor\u2019s departures from the Beeb\u2019s freshly liberated production arm, wags are joking that the exodus of five of its top team has earned director general Lord \u201cWolf\u201d Hall some new monikers, such as Lord \u201cEmpty\u201d Hall and Barren Hall of Birkenhead. Meanwhile, since the launch of BBC Studios on 29 April, the old BBC Studios & Post Production (which looks after the actual physical studios the corporation owns) has been rebranded BBC Studioworks. Could there perhaps be a pointed subliminal message in that choice of name?",
+  "webTitle": "BBC Studios: will Tony Hall's plans be hobbled by top execs legging it?",
+  "webPublicationDate": "2016-05-09T11:16:17Z",
+  "webUrl": "https://www.theguardian.com/media/mediamonkeyblog/2016/may/09/bbc-studios-tony-hall-top-departures",
+  "keyword": [
+    {
+      "webTitle": "BBC",
+      "id": "media/bbc",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Television industry",
+      "id": "media/television",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Monkey",
+      "id": "profile/monkey"
+    }
+  ],
+  "guardianId": "media/mediamonkeyblog/2016/may/09/bbc-studios-tony-hall-top-departures"
+}

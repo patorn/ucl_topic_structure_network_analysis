@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/04/anne-frank-film-virtual-reality-secret-amsterdam-annex-hirsch-abrahms",
+  "id": "2016-05-04-275",
+  "sectionId": "film",
+  "body": "A new virtual reality film will help viewers immerse themselves in the Amsterdam annex where Holocaust victim Anne Frank spent two years hiding from the Nazis during the second world war.   Related: Anne Frank gets the VR experience and Knight of Cups reviewed \u2013\u00a0the Dailies film podcast    Titled Anne, the movie aims to use cutting-edge technology so that the famous diarist\u2019s story \u201ccan live on and reach as many young people in the world as possible\u201d. Producer Jonathan Hirsch, who previously released the Wright Brothers-inspired virtual reality film First, will work with director Danny Abrahms on the project. \u201cTo experience this film will be to immerse oneself in a place and time, to move about a room, among the people, and sense the moment in a way never possible before [virtual reality],\u201d Abrahms told Entertainment Weekly. \u201cVR to me is this new, amazing tool that can allow viewers to connect with people and events like never before. I wanted to create a VR experience that connected viewers with arguably the most significant event in human history \u2013 the second world war and the Holocaust \u2013 and I couldn\u2019t think of a better way to explore this subject matter than through the story of Anne Frank.\u201d The film will not be the first virtual reality experience linked to the secret annex where Frank, members of her family and others lived from 6 July 1942 to 4 August 1944. The Anne Frank Foundation last year introduced a 10-minute, 360-degree VR tour for museum visitors to the Anne Frank House in Amsterdam who are unable to access the annex for reasons of mobility. Last month the Foundation criticised an \u201cescape room\u201d game made to look like the apartment where the teenage Jewish diarist hid with her family. The organisation said the bunker in Valkenswaard, 87 miles south of Amsterdam, created the impression that hiding from the Nazis was an exciting game and if those hiding were smart enough they would not be caught, which was historically wrong.",
+  "webTitle": "Virtual reality Anne Frank film to immerse viewers in secret annex",
+  "webPublicationDate": "2016-05-04T09:14:59Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/04/anne-frank-film-virtual-reality-secret-amsterdam-annex-hirsch-abrahms",
+  "keyword": [
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Anne Frank",
+      "id": "books/anne-frank",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Books",
+      "id": "books/books",
+      "sectionId": "books",
+      "sectionName": "Books"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ben Child",
+      "id": "profile/benchild"
+    }
+  ],
+  "guardianId": "film/2016/may/04/anne-frank-film-virtual-reality-secret-amsterdam-annex-hirsch-abrahms"
+}

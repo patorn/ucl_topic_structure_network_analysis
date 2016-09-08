@@ -1,0 +1,90 @@
+{
+  "apiUrl": "https://content.guardianapis.com/healthcare-network/2016/may/10/what-makes-tumours-tick-genomics-pave-the-way-for-tailored-treatments",
+  "id": "2016-05-10-235",
+  "sectionId": "healthcare-network",
+  "body": "Breakthroughs in genomic medicine are helping researchers to devise a new generation of personalised treatments for a range of diseases and conditions, including cancer, diabetes and HIV.  The cost of sequencing a human genome has fallen from $95m (\u00a366m) in 2001 to just $1,345 (\u00a3870), according to the US National Human Genome Research Institute. This is enabling professionals to tailor treatments based on the results of genetic tests. Cancer, caused by mutations in the genes of human cells, is well-suited to genomic medicine. Cancer Research UK is funding the National Lung Matrix Study, also supported by the Experimental Cancer Medicine Centre, drug makers AstraZeneca and Pfizer and the University of Birmingham. It examines 28 genes in the DNA of the patient\u2019s tumour, and uses the results to tailor treatment to \u201cwhat makes that tumour tick\u201d, according to Gary Middleton, professor of medical oncology at the University of Birmingham. About 15%-20% of lung cancer tumours have a genetic abnormality that can be targeted, a proportion the Matrix trial hopes to expand.  \u201cLung cancer used to be a very simple disease,\u201d says Middleton. \u201cThere were very few treatments and patients did very poorly. It\u2019s really quite complicated now. Keeping on top of the new drugs and the new indications is difficult.\u201d A specific drug may only be of use for one lung cancer patient in 100: \u201cBut for that one patient, it makes a huge difference.\u201d   Related: Treatments for cancers and Alzheimer's on the verge of a breakthrough    Diabetes is also benefiting from genomics. Researchers at the University of Exeter discovered the main cause of neonatal diabetes, a very rare condition that affects babies: half possess a genetic variant that prevents insulin being released from the pancreas. \u201cIf you give them a sulphonlylurea tablet, these patients can release insulin and stop insulin injections,\u201d says Prof Sian Ellard, head of molecular genetics at the Royal Devon and Exeter NHS foundation trust, which is the university\u2019s partner for its medical school. The trust\u2019s laboratory has provided free testing for more than 1,500 neonatal diabetes patients around the world. It also runs NHS tests for other kinds of diabetes, as well as a single test covering more than 5,000 rare genetic disorders. This work has implications for staff. Royal Devon and Exeter is a training centre for a national programme to develop NHS bioinformaticians to process the vast amounts of data produced by genomic testing. Genetics specialists need to keep up with rapid developments in the field and understand the limitations of these new tests.  \u201cThere are gaps, and we need to remember that a genetic variant causing a disorder might be in one of those gaps,\u201d says Ellard. \u201cWe never know quite what we\u2019re missing. It\u2019s critical to understand the limitations, as well as the enormous benefits.\u201d There is also a need to simplify and standardise the reporting of genomic test results so they are understandable by all healthcare professionals and patients, she adds. These new genomic tests will affect staff working in nearly all medical specialties and Health Education England (HEE) has developed a genomics education programme to run alongside the 100,000 Genomes Project run by Department of Health-owned company Genomics England. \u201cThe aim is to reach all healthcare professionals, be they doctors, nurses, allied healthcare professionals or laboratory staff and increase everybody\u2019s general understanding of genomic medicine, what it is and how it can bring benefits to patients,\u201d says Ellard.  Ten universities \u2013 including Exeter \u2013 offer a masters in genomic medicine, funded by HEE. The University of Exeter also supports education in monogenic diabetes through an annual international symposium, online education via a MOOC and hosts a national network of genetics diabetes nurses, trained in how to recognise patients likely to have monogenic diabetes, organise genetic testing, explain test results to patients, arrange testing for relatives and change treatments according to the test result.   Related: The price of health: the cost of developing new medicines    Genetic tests can also help avoid adverse reactions to drugs, something that is helping to spread their use across the NHS. HIV drug Abacavir causes a serious reaction in about 5% of patients, but in 2004 researchers including Sir Munir Pirmohamed, NHS chair of pharmacogenetics at the University of Liverpool, published research on a genetic test that identified those at risk. The test was implemented across the NHS in 2006, and now less than 1% of patients suffer adverse reactions. The university has developed a similar genetic test covering Warfarin \u2013 an anticoagulant used by about 1% of population \u2013 for use in GP surgeries. \u201cSome people require half a milligram a day, some 20 milligrams a day,\u201d says Pirmohamed. The NHS in the north-west of England is running a pilot through which nurses run this test on a patient\u2019s blood to find the dose they need, with results in 45 minutes. Pirmohamed believes genomics will combine with other ways to personalise medicine, including use of electronic patient records and data from patient-worn sensors. \u201cGenomics gives you a result,\u201d he says. \u201cWhat you need to do is implement those findings into the clinical care pathway, and that can be extremely complex. It requires someone to implement the information technology, an appropriate prescribing system as well as education and training of the prescribers, nurses and pharmacists who look after patients.\u201d  Join the Healthcare Professionals Network to read more pieces like this. And follow us on Twitter (@GdnHealthcare) to keep up with the latest healthcare news and views.",
+  "webTitle": "What makes tumours tick? Genomics pave the way for tailored treatments",
+  "webPublicationDate": "2016-05-10T10:19:01Z",
+  "webUrl": "https://www.theguardian.com/healthcare-network/2016/may/10/what-makes-tumours-tick-genomics-pave-the-way-for-tailored-treatments",
+  "keyword": [
+    {
+      "webTitle": "Healthcare Network",
+      "id": "healthcare-network/healthcare-network",
+      "sectionId": "healthcare-network",
+      "sectionName": "Healthcare Professionals Network"
+    },
+    {
+      "webTitle": "Work practices",
+      "id": "healthcare-network/work-practices",
+      "sectionId": "healthcare-network",
+      "sectionName": "Healthcare Professionals Network"
+    },
+    {
+      "webTitle": "Cancer",
+      "id": "society/cancer",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Cancer",
+      "id": "science/cancer",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Drugs",
+      "id": "science/drugs",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Medical research",
+      "id": "science/medical-research",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Aids and HIV",
+      "id": "society/aids-and-hiv",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Diabetes",
+      "id": "society/diabetes",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "NHS",
+      "id": "society/nhs",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "SA Mathieson",
+      "id": "profile/samathieson"
+    }
+  ],
+  "guardianId": "healthcare-network/2016/may/10/what-makes-tumours-tick-genomics-pave-the-way-for-tailored-treatments"
+}

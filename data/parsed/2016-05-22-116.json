@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/books/2016/may/22/sport-of-kings-review-ce-morgan",
+  "id": "2016-05-22-116",
+  "sectionId": "books",
+  "body": "If the author\u2019s name rings a bell, it might be because she won one of Yale University\u2019s Windham-Campbell prizes, established to \u201ccall attention to literary achievement\u201d. That Morgan\u2019s second novel is an achievement is beyond doubt; dedicated \u201cto the reader\u201d it is also, at more than 500 pages, a test of the reader\u2019s dedication. Yet Morgan barely draws breath as she chronicles the fortunes of Henry Forge, the racehorse-breeding scion of Kentucky planters. Horses, however, are only half the story: the selfish gene and the legacy of slavery; creation myth, oedipal struggle and torrid melodrama \u2013 all are grist to the voracious narrative surge. As for overegging it, that charge too is entertained and overruled: \u201cThere aren\u2019t too many words; there aren\u2019t enough words\u2026 we\u2019re infants before the Ohio coursing its ancient way, the icy display of aurora borealis and the redundancies of the night sky.\u201d The Sport of Kings is published by 4th Estate (\u00a316.99). Click here to buy it for \u00a312.99",
+  "webTitle": "The Sport of Kings review \u2013 a breathless Kentucky tale",
+  "webPublicationDate": "2016-05-22T10:00:00Z",
+  "webUrl": "https://www.theguardian.com/books/2016/may/22/sport-of-kings-review-ce-morgan",
+  "keyword": [
+    {
+      "webTitle": "Fiction",
+      "id": "books/fiction",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Books",
+      "id": "books/books",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Stephanie Cross",
+      "id": "profile/stephaniecross"
+    }
+  ],
+  "guardianId": "books/2016/may/22/sport-of-kings-review-ce-morgan"
+}

@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/society/2016/may/10/seven-day-gp-surgeries-bad-economics",
+  "id": "2016-05-10-215",
+  "sectionId": "society",
+  "body": "Seven-day GP pilot schemes across the country have shown little demand for appointments at the weekend. In some areas the pilots have been stopped early as the cost did not justify the weekend surgeries \u2013 in one case each appointment was costing around \u00a370 when during normal hours it stands at about \u00a320. The government\u2019s pledge to provide routine seven-day care by 2020 has cost much more than the \u00a3400m initially earmarked for the project. It was thought that by April these seven-day services would have been self-sufficient (through savings in A&E attendances and hospital admissions) but this has not been the case. In a few pilots there was a small reduction in A&E attendances, but the savings were minuscule compared with the amount spent on weekend access.   Related: Jeremy Hunt tells doctors' leaders to agree to discuss Saturday pay    However, NHS England doesn\u2019t seem to have learned any lessons from these pilots as its GP Forward View \u2013 a strategy for transforming general practice \u2013 fails to mention the disappointing outcomes of weekend access. It is left to the discretion of clinical commissioning groups (CCGs) to decide best local models, which will require increased funding of hundreds of millions. CCGs will engage with local hubs of GP practices to provide routine evening and weekend appointments by 2020-21. As different practices will work together out of one health centre, it is likely most patients will not see their usual GP, or indeed attend their own surgery. Although the GPs will have access to the patient\u2019s medical records, it is unlikely we will see the continuity of care that is valued by patients and clinicians alike. Our patients tell us they do need easy access to us, to book convenient appointments, order prescriptions and get their test results promptly. They want timely appointments across a range of slots, including early morning, lunchtimes and evenings. There is a small demand to see a GP on Saturday morning (from those who work during the week) but little for Sunday. But can this justify the cost of providing seven-day access, particularly as there is infrastructure that goes with running the service in addition to GP staffing (such as premises, diagnostics, administrative and nursing costs)? Extended access also reduces cover during the week \u2013 we only have to look at the proposed junior doctor contract where too few doctors are being asked to stretch over seven days, leaving what they fear are dangerous rota gaps. There is a significant shortage of GPs, and \u2013 despite the government\u2019s pledge and claims \u2013 in real terms, we have seen a reduction in GP numbers. Although the number of GPs has risen since 2007, it actually represents a decrease of GPs per patient (from 60.9 GPs per 100,000 patients in 2007 to 60.6 in 2014) while demand continues to rise. The average number of consultations per patient have risen in contrast by 14% for doctors and 3% for nurses. Before we can even think about providing routine access across seven days, we must adequately fund and staff the Monday to Friday workload plus 24/7 emergency work throughout the week. The King\u2019s Fund published figures last week showing a 63% increase in telephone consultations, as well as the stark fact that between 2009 and 2014, 46% of the GPs leaving the profession were under the age of 50. These staff cannot and should not be stretched across seven days. Evidence suggests public money would be better spent on increasing access during the week and managing demand for healthcare through other innovative ways. Health secretaries come and go, and so do their policies. In the nine years that I have been a GP, I have seen astronomical change in the NHS \u2013 much of which has been of questionable benefit. Routine seven-day services across the NHS is just another political soundbite. Bolstering social care is much more likely to improve health outcomes and help manage demand in primary and secondary care. Paying GPs or nurses to run largely empty weekend surgeries on the flimsy hope this will reduce hospital attendances is not the solution \u2013 it is just bad economics.",
+  "webTitle": "Few of my patients want to see me at the weekend | Zara Aziz",
+  "webPublicationDate": "2016-05-10T11:00:03Z",
+  "webUrl": "https://www.theguardian.com/society/2016/may/10/seven-day-gp-surgeries-bad-economics",
+  "keyword": [
+    {
+      "webTitle": "GPs",
+      "id": "society/gps",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Doctors",
+      "id": "society/doctors",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "NHS",
+      "id": "society/nhs",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Zara Aziz",
+      "id": "profile/zara-aziz"
+    }
+  ],
+  "guardianId": "society/2016/may/10/seven-day-gp-surgeries-bad-economics"
+}

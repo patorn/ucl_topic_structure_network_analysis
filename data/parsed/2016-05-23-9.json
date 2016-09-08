@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/science/2016/may/24/genetic-engineering-humans-great-potential-nobel-winner",
+  "id": "2016-05-23-9",
+  "sectionId": "science",
+  "body": "The genetic engineering of humans has great potential to help those destined to inherit serious, incurable diseases, according to one of Britain\u2019s most prominent scientists, who says the risks and benefits should be debated by society. The invention of powerful new genome editing tools means researchers can now make precise changes to genetic material, and so consider correcting faulty DNA in human sperm, eggs and embryos. While the procedure may prevent children from being born with serious disorders, the practice \u2013 known as \u201cgermline therapy\u201d \u2013 is banned in Britain and many other countries, because the genetic changes would be passed down to future generations and the risks are largely unknown. \u201cThere is great potential in germline therapy. There are clearly diseases that you could help by editing the germline,\u201d said Sir Venki Ramakrishnan, who won the Nobel prize in chemistry in 2009 and became president of the Royal Society in December. \u201cThis is a case of a new technology where there are significant potential benefits, but also significant ethical implications.\u201d In a wide-ranging interview with the Guardian, Ramakrishnan, said the risks and benefits of the procedure, which would create the first genetically modified humans if given the green light, should be thrashed out in discussions that involve people from all walks of life. \u201cIt\u2019s definitely a major step, there\u2019s no getting around that. That\u2019s why it\u2019s important to really slow down and not rush any decisions,\u201d he said. \u201cWhat we need is a diverse and transparent group of people to really come together and get to grips with how do we go about using this tool and are there red lines. They may well decide there are red lines we shouldn\u2019t cross. \u201cThe concern I have is the same as with any other technology, which is that once a technology is feasible, we may well regulate it, but someone somewhere may start using it in ways we consider unethical,\u201d he added. At a landmark meeting in Washington DC in December, scientists decided not to impose their own global ban on modifying human embryos destined to become people, but stated that to do so would be unacceptable given the unknown risks today. If proved safe, the therapy could potentially prevent devastating conditions from being passed on. It might also be used to reduce people\u2019s risk of diseases such as cancer and dementia. On Tuesday, the Royal Society publishes a document on the more familiar area of GM crops. According to GM Plants: Questions and Answers, half of the UK population do not feel well informed about GM crops, and a further 6% have never heard of them. The document lists common questions raised about GM crops, and provides answers from a group of experts convened by the society.  \u201cWe wanted to provide the background and facts about some of the most important questions people have on GM crops,\u201d Ramakrishnan said.         What is genetic modification? - video    Crops that are modified to resist pests, to grow in harsh conditions and to contain more nutrients may become increasingly important as the world\u2019s population grows, Ramakrishnan said. \u201cIf we have better tools at our disposal, should we use them or not? It\u2019s a question society has to decide.\u201d According to the World Bank, the world will need to produce 50% more food to feed the population in 2050. In 2015, GM crops were grown in 28 countries and on 180m hectares, the equivalent of seven times the land area of the UK. But in the same year, more than half of the EU officially banned farmers from growing GM crops, including Germany and France, Scotland, Wales and Northern Ireland. The bans were imposed despite EU regulators finding that GM crops pose no risk to health or the environment. Ramakrishnan argues that crops should not be judged on whether they are GM or not. \u201cGM as a technique is no more dangerous than any other agricultural technique. What most scientists believe is that any new crop we introduce needs to be tested on a case-by-case basis according to its traits, not how it was produced,\u201d he said. In the EU, as in other countries, opposition to GM crops began when multinational corporations tried to bring them to market. Among the concerns raised by environmental groups and NGOs was the risk that large companies might monopolise agriculture and wield too much power over growers. \u201cI can understand how a backlash happened against GM,\u201d Ramakrishnan said. \u201cBut the solution is not to ban GM, it\u2019s to take it out of the hands of a few corporations.\u201d European countries need to do more to base their policy decisions on scientific evidence, the scientist said. He added that, personally, he wanted Britain to remain in the EU. He was concerned that a Brexit might weaken the EU economy and cause needless financial disruption.  Ramakrishnan, the son of two scientists, also saw other advantages to staying in. He was born in India, spent time in Australia, worked in the US, and moved to Britain 17 years ago. Mobility matters, he said.  \u201cBy being part of the EU, a young Briton can think of the whole of Europe as their home. And that is important, because by broadening people\u2019s horizons, you maximise their opportunities. In an increasingly global world, we need to expand our horizons, not retreat inwards.\u201d",
+  "webTitle": "Genetic engineering of humans has great potential, says Nobel winner",
+  "webPublicationDate": "2016-05-23T23:01:27Z",
+  "webUrl": "https://www.theguardian.com/science/2016/may/24/genetic-engineering-humans-great-potential-nobel-winner",
+  "keyword": [
+    {
+      "webTitle": "Genetics",
+      "id": "science/genetics",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "GM",
+      "id": "environment/gm",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Biology",
+      "id": "science/biology",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Ethics",
+      "id": "world/ethics",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Royal Society",
+      "id": "science/royal-society",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ian Sample",
+      "id": "profile/iansample"
+    }
+  ],
+  "guardianId": "science/2016/may/24/genetic-engineering-humans-great-potential-nobel-winner"
+}

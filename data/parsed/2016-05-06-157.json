@@ -1,0 +1,30 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/06/stage3-fleche-du-sud-cancelled-crash",
+  "id": "2016-05-06-157",
+  "sectionId": "sport",
+  "body": "A crash on stage three of the Fl\u00e8che du Sud in Luxembourg caused the cancellation of the stage, with up to 35 riders thought to have been injured.   Related: Shane Sutton a fine sergeant major lacking gifts of a commanding officer | Richard Williams    An accident took place less than 10km into the race as the peloton began a major descent and resulted in ambulances and a medical helicopter attending the scene. \u201cFollowing an accident, on the stretch between Hostert, Nagem and Redange-sur-Attert it is closed to all traffic,\u201d the Luxembourg news site lessentiel.lu reported the police as saying. Reports suggested six riders have sustained serious injuries in the incident and they have been taken to two hospitals.    We are hearing the police have dictated that Stage 3 of #flechedusud is cancelled. pic.twitter.com/us741cXySU\u2014 Team RaceClean (@TeamRaceClean) May 6, 2016    The An Post-Chain Reactions team confirmed on Twitter that uninjured riders were being escorted to the finish by police.",
+  "webTitle": "Fl\u00e8che du Sud stage three cancelled after crash leaves up to 35 injured",
+  "webPublicationDate": "2016-05-06T13:31:45Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/06/stage3-fleche-du-sud-cancelled-crash",
+  "keyword": [
+    {
+      "webTitle": "Cycling",
+      "id": "sport/cycling",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "sport/2016/may/06/stage3-fleche-du-sud-cancelled-crash"
+}

@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/culture/2016/may/10/what-impact-would-brexit-have-on-people-working-in-arts-and-culture",
+  "id": "2016-05-10-156",
+  "sectionId": "culture",
+  "body": "As campaigners on both sides of the debate step up their pronouncements aiming to persuade the public what impact the EU referendum result could have, we would like to ask you what a possible Brexit means for your industry.  Politicians are talking up wider economic implicatons, and we have heard warnings from academics working in universities and opposing views from the manufacturing, retailing and agriculture sectors. Now we turn to the arts.    Related: Brexit? Britain has already voted to stay. Just look in its galleries    If you work in arts or culture in the UK, we\u2019d like to hear from you. Are you concerned about the potential for upheaval in the cultural sector after Britain votes on whether to leave the EU in June? Does the EU allow freedoms for producers, artists and support staff that might end if the UK decides to leave? Could the lives of touring musicians change? Do you worry about how the new political system might affect how visual art is brought to the public in museums and galleries? Is there nervousness about what a decision to leave would mean? Maybe you feel it will make no difference at all to the way things operate? The Guardian\u2019s Jonathan Jones wrote recently in celebration of the EU\u2019s support for European cultural glories with investment in restoration projects accross the continent, but how about closer to home? Perhaps you think leaving the EU will have a positive affect on arts and culture in the UK?  The answer to many of these questions and more remains unclear, but with your help we would like to test the mood and explore what you are talking about. You can get in touch and share your views using the form below.",
+  "webTitle": "What impact would Brexit have on people working in arts and culture?",
+  "webPublicationDate": "2016-05-10T13:30:07Z",
+  "webUrl": "https://www.theguardian.com/culture/2016/may/10/what-impact-would-brexit-have-on-people-working-in-arts-and-culture",
+  "keyword": [
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Arts funding",
+      "id": "culture/arts-funding",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian readers",
+      "id": "profile/guardian-readers"
+    }
+  ],
+  "guardianId": "culture/2016/may/10/what-impact-would-brexit-have-on-people-working-in-arts-and-culture"
+}

@@ -1,0 +1,37 @@
+{
+  "apiUrl": "https://content.guardianapis.com/science/2016/may/03/barbara-knowles-obituary",
+  "id": "2016-05-03-91",
+  "sectionId": "science",
+  "body": "My sister, Barbara Knowles, who has died aged 55, was an enthusiastic biologist, a scientific adviser to the Royal Society of Biology (RSB) and a champion of meadow ecology and sustainable development projects, especially in Transylvania. She worked in the Pog\u00e1ny-havas region of the eastern Carpathians with local volunteers and experts to record and protect valuable flora and fauna. She established the Barbara Knowles Fund and supported activities working with schoolchildren, academics and policymakers. She also worked in communications at the Natural Environment Research Council (NERC), leading public engagement and cross-Whitehall initiatives for the office of science and technology of the Department of Trade and Industry. Combining her voluntary work in Transylvania with continued work for the RSB, she provided an inspirational example of leadership in pragmatic environmentalism. She helped to bring about three symposiums at the European parliament in Brussels focusing on high nature value farming (HNV) and pastoral woodlands. She also contributed to the foundation of the Romanian HNV coalition. She set up micro-initiatives in tourism and food production based on local traditions. Her diagnosis of motor neurone disease in 2008 and her progressive loss of mobility and speech in no way reduced Barbara\u2019s drive or determination to promote her ideas on sustainable development. In 2011, she acted as host to the Prince of Wales when he visited Transylvania to learn about haymaking. Barbara was born in Purley, Surrey, daughter of John Knowles, a systems analyst, and his wife, Elfi, a district nurse. Her interest in nature from a young age was helped by family holidays in Elfi\u2019s native Austria and visits to our aunt and uncle, Eileen and Karl Fuchs, who ran a ski school in the Scottish Highlands. Barbara attended Croydon high school, and then studied biochemistry at Girton College, Cambridge, remaining there to gain her PhD. Postdoctoral research into the workings of biological insecticides followed at Clare Hall, Cambridge, before she moved into the field of public science policy at the NERC. She was appointed MBE in 2014. Barbara met her husband, Gareth Evans, a computer scientist, at Cambridge and they travelled widely together. He died in 2006. She is survived by Elfi and me.",
+  "webTitle": "Barbara Knowles obituary",
+  "webPublicationDate": "2016-05-03T17:15:39Z",
+  "webUrl": "https://www.theguardian.com/science/2016/may/03/barbara-knowles-obituary",
+  "keyword": [
+    {
+      "webTitle": "Biology",
+      "id": "science/biology",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Plants",
+      "id": "environment/plants",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Romania",
+      "id": "world/romania",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [],
+  "guardianId": "science/2016/may/03/barbara-knowles-obituary"
+}

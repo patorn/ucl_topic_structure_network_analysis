@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/26/teen-gorilla-suit-punched-boris-johnson-vote-leave-rally-winchester",
+  "id": "2016-05-26-65",
+  "sectionId": "politics",
+  "body": "Police are looking into a number of incidents at a boisterous rally addressed by Boris Johnson where a teenager in a gorilla suit was alleged to have been elbowed in the ribs and punched in the face. Another man, a remain campaigner, was allegedly pushed from a monument in Winchester city centre amid jostling for position with leave supporters. A Hampshire police spokesman said that the force was investigating whether the same suspect was responsible for both incidents. It came as the Tory MP and former London mayor spoke to a noisy crowd composed of activists from the rival camps, who waved placards and umbrellas. Before Johnson arrived, the teenager in the gorilla suit had been seen dancing around waving a placard saying, \u201cI eat five in a bunch Boris!\u201d while waving a large inflatable banana.  Next to him danced another campaigner dressed as a banana with a placard saying: \u201cVote stay. Let\u2019s not crash the economy.\u201d  John Romero, a local Liberal Democrat activist and parish councillor, told the Guardian that he had been pushed off the monument by a leave campaigner after waving a piece of paper in Johnson\u2019s face. He reported the incident to the police, who he said had been provided with photographs of the incident. Romero, 64, said that the man who allegedly pushed him had been recognised by the teenager in the gorilla suit, who claimed that he had hit him. \u201cThere were about 400 people shouting and screaming. It was a not very nice scene, to be frank,\u201d said Romero \u201cI went up on top of the monument thinking it was a good time to push a poster in front of Boris Johnson, who pushed it away from his face. Then a guy standing next to him who had a big board hit me with his knee on to my thigh and I lost my position and fell.\u201d \u201cHe was an activist for Brexit. There is no doubt about that.\u201d A Vote Leave spokesman said that if any incident did happen, it had happened after Johnson had left the area.  He added: \u201cA group of remain campaigners turned up at the event determined to cause disruption.  \u201cWhen our team left the area, the gorilla was still in good spirits and dancing around and didn\u2019t look like he had been punched.\u201d  Britain Stronger In Europe\u2019s chief campaign spokesman, James McGrory, said: \u201cWho punches a teenager dressed as a gorilla in the face at a protest?\u201d",
+  "webTitle": "Teen dressed in gorilla suit 'punched in face' at Boris Johnson rally",
+  "webPublicationDate": "2016-05-26T19:22:17Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/26/teen-gorilla-suit-punched-boris-johnson-vote-leave-rally-winchester",
+  "keyword": [
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Boris Johnson",
+      "id": "politics/boris",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ben Quinn",
+      "id": "profile/benquinn"
+    }
+  ],
+  "guardianId": "politics/2016/may/26/teen-gorilla-suit-punched-boris-johnson-vote-leave-rally-winchester"
+}

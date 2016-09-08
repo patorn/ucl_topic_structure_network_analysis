@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/society/2016/may/09/junior-doctors-prepare-for-fresh-talks-over-contracts",
+  "id": "2016-05-09-346",
+  "sectionId": "society",
+  "body": "Junior doctors\u2019 leaders are set to enter fresh talks with the government on Monday, signalling a small breakthrough in the bitter contractual dispute. The British Medical Association (BMA) has agreed to restart talks with Jeremy Hunt\u2019s department over contentious issues including Saturday pay. The talks are seen as the best chance of a peace deal to end the eight month-long protest over the new contract, following the first all-out strike in NHS history last month. However, there was fresh opposition to Hunt on Sunday as junior doctors in Manchester urged Mike Deegan, the chief executive of Manchester Royal Infirmary, not to impose the contract even if he is ordered to by the health secretary. The petition, which organisers say has been signed by about 2,500 doctors, patients and other members of the public, was backed by Labour MP Jeff Smith on Sunday. Speaking outside his constituency office in Withington, south Manchester, Smith said: \u201cLabour has supported the junior doctors throughout the dispute because we think they have a strong case that the government haven\u2019t been prepared to listen to. This is a demonstration of our support and why I\u2019ve been happy to sign the petition. \u201cNow that we\u2019ve got this agreement that there\u2019s going to be a new set of negotiations let\u2019s hope that something positive will come out of it and that both sides can agree and move forward. \u201cThe petition has been set up over the last few weeks saying that it\u2019s the wrong time to impose it [the contract] \u2013 let\u2019s hope that the contract negotiations get to a position where there\u2019s no need for the petition and can get to an agreement.\u201d Dr Johann Malawana, the chairman of the BMA\u2019s junior doctors committee, said he hoped \u201creal progress can now be made to ending this dispute\u201d. The BMA will call for any contract offer, whether it is agreed or not, to be voted on by junior doctors. Malawana said: \u201cThe BMA has agreed to re-enter talks with the government on outstanding issues in this dispute, which include, but are not limited to, unsocial hours. \u201cJunior doctors\u2019 concerns extend far beyond pay and our principle in talks will be to deliver a fair contract that does not discriminate against women or any other group, one which addresses the recruitment and retention crisis in the NHS and which provides the basis for delivering a world-class health service. \u201cThe BMA will also call for any contract offer \u2013 agreed or not \u2013 to be put to a referendum of junior doctors, as is usual following a contract negotiation. We hope that with both parties back around the negotiating table, real progress can now be made to ending this dispute through talks.\u201d The new talks were met with cautious optimism from some of the junior doctors who signed the Manchester petition. Ruth Wiggans, 32, a respiratory registrar and clinical research fellow, said she was \u201ccautiously hopeful\u201d that the new talks would lead to a breakthrough. \u201cNobody wants to be on strike. I\u2019m glad the government have agreed to enter negotiations, I just hope they\u2019re willing to do it on equal terms,\u201d she said. \u201cSo far they haven\u2019t been negotiations, they\u2019ve been a series of clauses. If the negotiations lead to something positive that can only be a good thing for everyone involved. But I\u2019m very cautious about what\u2019s going to happen now.\u201d Dr Piyush Pushkar, 32, a psychiatry trainee at Manchester Royal Infirmary, said: \u201cWe were heartbroken at having to strike and are desperate not to have to do so again. So I am delighted that Jeremy Hunt has finally deigned to return to talks with the BMA, even if it took an all-out strike to bring him to that position. \u201cAll we want is to be able to work in a sustainable and fair NHS, with a contract that is safe. Hopefully, this time he will listen to all of our concerns, rather than just wittering on about Saturday pay as if this could be isolated as a simple pay dispute.\u201d A Department of Health spokesman said it \u201cwelcomed the BMA\u2019s decision to return to talks\u201d and that it had always wanted to see a \u201cnegotiated solution\u201d. \u201cFrom Monday, we will be looking for resolution on the small number of outstanding issues that separated both parties in February, principally Saturday pay, but also other issues that affect the motivation, recruitment and retention of junior doctors,\u201d he said.",
+  "webTitle": "Junior doctors prepare for fresh talks over contracts",
+  "webPublicationDate": "2016-05-09T05:00:05Z",
+  "webUrl": "https://www.theguardian.com/society/2016/may/09/junior-doctors-prepare-for-fresh-talks-over-contracts",
+  "keyword": [
+    {
+      "webTitle": "NHS",
+      "id": "society/nhs",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Doctors",
+      "id": "society/doctors",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Jeremy Hunt",
+      "id": "politics/jeremy-hunt",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Health policy",
+      "id": "politics/health",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Public services policy",
+      "id": "society/policy",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Josh Halliday",
+      "id": "profile/josh-halliday"
+    }
+  ],
+  "guardianId": "society/2016/may/09/junior-doctors-prepare-for-fresh-talks-over-contracts"
+}

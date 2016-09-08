@@ -1,0 +1,84 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/27/eu-referendum-uber-push-out-register-to-vote-message-young",
+  "id": "2016-05-27-154",
+  "sectionId": "politics",
+  "body": "Uber will encourage its millions of users to register to vote in the EU referendum as they wait for a taxi this weekend, amid continuing concerns that many young people will miss their chance to take part in the poll.   Brexit explained: young people   The taxi app will push out messages to users in more than 20 towns and cities, in partnership with Bite the Ballot, a charity that aims to get more young people interested in voting. In a post to users, Uber will say: \u201cWhat could you do in the three minutes it takes for your Uber to arrive? How about registering to vote? Around one-in-three eligible 18- to 24-year-olds are still not registered. Put simply, that means they are missing out on having their say.\u201d It comes after a push from Downing Street to get tech and media companies such as Tinder, Facebook, LadBible, BuzzFeed and Twitter to encourage more young people to engage in the EU debate. The deadline to register to vote in the referendum is 7 June. Labour appeared more concerned than the Conservatives before the general election about getting young people to register to vote, warning repeatedly about low levels of registration among young people. However, in the run-up to the referendum, Downing Street has become more concerned about the issue, with polling suggesting younger people are more likely to be pro-EU than older people.   How will it affect students?   Last week Gloria De Piero, the shadow minister for voter registration, said Cameron was playing catchup, as she had repeatedly urged him to take action to prevent students and young people failing to register individually under new rules. \u201cDavid Cameron has shot himself in the foot by not listening to us earlier,\u201d she said. \u201cNow he is playing catchup because he fears young people will be disenfranchised, when nearly twice as many 18- to 24-year-olds want to remain in the EU as over-65s.\u201d The remain campaign released a video to appeal to younger voters. Set to pounding house music, it flashes up the words \u201cworkin, ravin, chattin, roamin\u201d before asking viewers to vote in. It was roundly mocked as patronising by leave campaigners. Research shows under-25s are twice are much more likely to be missing from the electoral register, and much less likely to turn up on polling day even if they are on it. Michael Sani, chief executive of Bite the Ballot, said there were 7.5 million people not registered to vote in the UK, many of them young people.    Life's better in the EU. On June 23rd, make sure you're #Votin https://t.co/jYEaECYP2Hhttps://t.co/x8bZsN1w4e\u2014 Stronger In (@StrongerIn) May 24, 2016    \u201cBite the Ballot are excited to be working with Uber as part of our #TurnUp campaign to register young people to vote ahead of the EU referendum,\u201d he said. \u201cThrough partnering with Uber, an app that millions of people across the UK use, we will be able to empower citizens to register to vote and turn up on 23 June.\u201d",
+  "webTitle": "Uber to push out 'register to vote' message aimed at young",
+  "webPublicationDate": "2016-05-27T12:47:41Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/27/eu-referendum-uber-push-out-register-to-vote-message-young",
+  "keyword": [
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Uber",
+      "id": "technology/uber",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Voter apathy",
+      "id": "politics/voterapathy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Young people",
+      "id": "society/youngpeople",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Rowena Mason",
+      "id": "profile/rowena-mason"
+    }
+  ],
+  "guardianId": "politics/2016/may/27/eu-referendum-uber-push-out-register-to-vote-message-young"
+}

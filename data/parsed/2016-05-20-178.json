@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/20/liverpool-airport-evacuates-passengers-over-faulty-scanner",
+  "id": "2016-05-20-178",
+  "sectionId": "uk-news",
+  "body": "Liverpool\u2019s John Lennon airport has said there is no threat to passenger safety after scores of holidaymakers had to be rescreened because of a faulty security scanner. Dozens of passengers were told to leave the busy airport\u2019s departure lounge following a technical glitch with a passenger scanning machine on Friday afternoon. The fault meant people had to be rescreened before being allowed to return airside. An airport spokesman said: \u201cDue to a technical problem with one of the airport\u2019s passenger scanning machines, all passengers have been removed from the departure lounge and are currently in the process of being rescreened. There is no threat to passenger safety with this rescreening process necessary in order to ensure security compliance.\u201d Some passengers were reportedly told to leave planes after the security alert at about noon.  One traveller, Steph Hodson, told the Liverpool Echo: \u201cI was meant to be travelling to Paris with my boyfriend for his birthday. We\u2019d just sat down in the lounge and there was an announcement. The staff all looked quite flustered and we could see everyone outside. There\u2019s hundreds of people. \u201cWe\u2019re going to have to go back through security and everything. It was quite scary and everyone was really quiet and looked worried. I\u2019ve spoken to a police officer and they said it\u2019s an issue to do with the security scanners, and we were moved for our own safety.\u201d",
+  "webTitle": "Liverpool airport passengers rescreened due to faulty scanner",
+  "webPublicationDate": "2016-05-20T12:19:23Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/20/liverpool-airport-evacuates-passengers-over-faulty-scanner",
+  "keyword": [
+    {
+      "webTitle": "Liverpool",
+      "id": "uk/liverpool",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Air transport",
+      "id": "world/air-transport",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Transport",
+      "id": "uk/transport",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Josh Halliday",
+      "id": "profile/josh-halliday"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/20/liverpool-airport-evacuates-passengers-over-faulty-scanner"
+}

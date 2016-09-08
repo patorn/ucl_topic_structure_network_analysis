@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/12/kent-prisoner-william-charles-pearce-absconds-hmp-standford-hill",
+  "id": "2016-05-12-125",
+  "sectionId": "uk-news",
+  "body": "A \u201cpotentially dangerous and violent\u201d inmate serving a life sentence for armed robbery has been on the run for three days after absconding from an open prison, police have said. William Charles Pearce, 39, who was sent to prison in 2003, went missing from HMP Standford Hill on Monday and is believed to have used a vehicle to travel in the direction of London, according to Kent police. Pearce has a three-inch scar on his left cheek, a tattoo with the words \u201cMum and Dad\u201d on his right shoulder, a tattoo with the word \u201cCharlie\u201d on his left forearm, and a tattoo with two stars and the words \u201cCharlie Joanne\u201d on his left upper arm. Investigating officer Sam De Lozey said: \u201cPearce is viewed as potentially dangerous and violent, and I would urge members of the public to not approach him directly, but to immediately call Kent police on 101, quoting crime reference 09-1031.\u201d Pearce, who has links to Kent, Sussex, south-east London, north London and Birmingham, committed an armed robbery in Bexley, south-east London, in 2001 and was sentenced at Maidstone crown court.",
+  "webTitle": "'Potentially dangerous' inmate absconds from open prison in Kent",
+  "webPublicationDate": "2016-05-12T16:16:05Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/12/kent-prisoner-william-charles-pearce-absconds-hmp-standford-hill",
+  "keyword": [
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Prisons and probation",
+      "id": "society/prisons-and-probation",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "UK criminal justice",
+      "id": "law/criminal-justice",
+      "sectionId": "law",
+      "sectionName": "Law"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jamie Grierson",
+      "id": "profile/jamie-grierson"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/12/kent-prisoner-william-charles-pearce-absconds-hmp-standford-hill"
+}

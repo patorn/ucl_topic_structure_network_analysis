@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/books/2016/may/27/scientists-test-reality-of-harry-potter-magic-university-leicester-gillyweed-skele-gro",
+  "id": "2016-05-27-143",
+  "sectionId": "books",
+  "body": "Hot on the heels of the news that Mary Norton\u2019s tiny Borrowers would not have been viable in the real world, two new scientific papers have analysed the spells JK Rowling invented for Harry Potter and concluded that they would need magic to work. In the papers Gillyweed \u2013 Drowning with Gills? and Revealing the Magic of Skele-Gro, both published in the Journal for Interdisciplinary Science Topics, students at the University of Leicester analyse two spells used by Rowling\u2019s young wizard: Gillyweed, which enables its eater to grow gills and thus breathe underwater, and Skele-Gro, which repairs broken bones.    If Harry were to open his mouth to allow water into his throat and out through the gills, it may be plausible  From Gillyweed \u2013 Drowning with Gills?     Gillyweed, which is eaten by Harry Potter when he is attempting to swim to the bottom of a lake in the fourth book, Harry Potter and the Goblet of Fire, was investigated by natural science students Rowan Reynolds and Chris Ringrose. Looking at the size of Harry\u2019s gills in the film adaptation of Rowling\u2019s novel, they estimated them to be 60cm2 in surface area. They then estimated the oxygen content of the Black Lake, and the maximum oxygen use of swimming, and found that the average 14-year-old boy \u201cwould need to process 443 litres of water at 100% efficiency per minute for every minute he was underwater\u201d, meaning that water would need to flow at 2.46 metres per second. \u201cThis is extremely fast if Harry is to bring water into his gills through respiratory power alone. The velocity of normal breathing has been recorded as 1.30 metres per second; 2.46 metres per second is almost twice the velocity of normal airflow, which makes Harry\u2019s gills unfeasible,\u201d they write in the peer-reviewed student journal, which is run by the university\u2019s Centre for Interdisciplinary Science and intended to give students practical experience of writing, editing, publishing and reviewing scientific papers. \u201cIn the film, Harry is frequently seen swimming with his mouth closed, which is not how fish use their gills,\u201d they add. \u201cIf Harry were to open his mouth to allow water into his throat and out through the gills, it may be plausible that he could breathe underwater. However, without doing this, it is simply not plausible that he could extract sufficient oxygen for survival,\u201d they conclude.   Related: Quidditch World Cup 2016 hopes to feature first African team    Skele-Gro, meanwhile, used after Harry\u2019s arm is broken during a Quidditch match in the second book, Harry Potter and the Chamber of Secrets, is shown to be just as magical. In a second paper, students Leah Ashley, Ringrose and Robbie Roe write that after Harry\u2019s bones are broken, they are subsequently removed by the Defence Against the Dark Arts teacher Gilderoy Lockhart at 11:13am, with matron Madam Pomfrey prescribing Skele-Gro at roughly 11:50am. Harry is healed within 24 hours, and the students have therefore calculated that his bones regrew at a rate \u201cat least 90 times quicker (one day compared to 90) than is seen in the natural way of regenerating bone\u201d. The energy expenditure required to grow the bones, they calculate, would be \u201cat least 133,050kcal, giving a power output of 6,443W, so \u201cSkele-Gro therefore must contain unexplained magical properties that allow it to hold such a vast amount of energy and indeed be able to apply it in a short period of time\u201d.",
+  "webTitle": "Science or magic? UK scientists test reality of Harry Potter spells",
+  "webPublicationDate": "2016-05-27T13:30:10Z",
+  "webUrl": "https://www.theguardian.com/books/2016/may/27/scientists-test-reality-of-harry-potter-magic-university-leicester-gillyweed-skele-gro",
+  "keyword": [
+    {
+      "webTitle": "Harry Potter",
+      "id": "books/harrypotter",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Books",
+      "id": "books/books",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "JK Rowling",
+      "id": "books/jkrowling",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Alison Flood",
+      "id": "profile/alisonflood"
+    }
+  ],
+  "guardianId": "books/2016/may/27/scientists-test-reality-of-harry-potter-magic-university-leicester-gillyweed-skele-gro"
+}

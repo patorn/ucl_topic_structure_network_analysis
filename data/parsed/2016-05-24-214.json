@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/24/14-russians-guilty-doping-beijing-olympics",
+  "id": "2016-05-24-214",
+  "sectionId": "sport",
+  "body": "Fourteen of the 31 athletes found to have doped at the 2008 Olympics in Beijing are Russian, according to the country\u2019s state media. A report by Tass suggests that the majority of those 14 individuals compete in track and field events, putting Russia\u2019s athletics participation at Rio 2016 in further doubt. An International Association of Athletics Federations taskforce has already been set up to decide whether Russia\u2019s athletes will be allowed to compete in Brazil following revelations of state-sponsored doping in the country, with a decision to be made on 17 June.   Related: Russians expected to be among failed doping tests from 2008 Olympics    If confirmed, the latest spate of positive tests would mean Russia\u2019s current suspension from international athletics competition would be unlikely to be lifted before Rio. The International Olympic Committee announced last week that 31 individuals had tested positive for banned substances after 454 retrospective urine samples from the Beijing Games were examined. The IOC targeted athletes who were due to compete at Rio, using more advanced testing techniques than were available in 2008. Those who failed the retrospective tests are not expected to be named until they have had the opportunity to request their \u201cB\u201d sample be examined, although the IOC disclosed that Olympians from 12 countries were implicated, spanning six sports. The British Olympic Association said last Tuesday that it had not been contacted by the IOC and was not aware of any British athletes involved. Pressure to bar Russia from the Olympics has already grown after UK Anti-Doping recently revealed its testing operation in the country had been hampered by a number of obstacles. Of 247 tests overseen from November last year to early this month, 99 were unable to be carried out because of an inability to locate an athlete and one test was refused. The IOC and the World Anti-Doping Agency are also undergoing an investigation into the laboratory used for testing at the Sochi Winter Olympics in 2014, amid serious allegations that Russian samples were switched to a shadow lab in order to avoid banned substances being discovered. The New York Times reported last week that the US Department of Justice had opened an investigation into the Russian doping scandal. Officials in Russia have said that the country is undergoing reform of its anti-doping system and that its athletes should be allowed to compete at Rio.",
+  "webTitle": "14 Russians guilty of doping at Beijing Olympics, suggests state media",
+  "webPublicationDate": "2016-05-24T10:58:17Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/24/14-russians-guilty-doping-beijing-olympics",
+  "keyword": [
+    {
+      "webTitle": "Russia doping scandal",
+      "id": "sport/russia-doping-scandal",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Rio 2016",
+      "id": "sport/rio-2016",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Olympic Games",
+      "id": "sport/olympic-games",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Drugs in sport",
+      "id": "sport/drugs-in-sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Athletics",
+      "id": "sport/athletics",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "James Riach",
+      "id": "profile/james-riach"
+    }
+  ],
+  "guardianId": "sport/2016/may/24/14-russians-guilty-doping-beijing-olympics"
+}

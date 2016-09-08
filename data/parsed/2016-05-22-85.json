@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/books/2016/may/22/lambeth-council-closed-libraries-security-guards",
+  "id": "2016-05-22-85",
+  "sectionId": "books",
+  "body": "A council that temporarily closed two libraries just before the exam revision season as a supposed money-saving measure has spent up to three times as much per day on private guards to secure the buildings as it would have cost to keep them open, it has emerged. Details of the security costs at the libraries, run by Lambeth council in south London, were given to the Guardian following a freedom of information request.  The money spent on guards at one of the libraries was inflated as it was occupied for 10 days by local people protesting at the temporary closure plans. However, the figures show that even at another library not similarly targeted, the money paid for private security was almost twice the usual running costs. The two sites \u2013 the Carnegie library in Herne Hill, south-east London, and the Minet library nearby \u2013 closed their doors on 31 March before planned works to turn each one into a \u201ccommunity hub\u201d, a combination of a largely unstaffed library and a private gym. The Labour-run council said this was the only option to keep both libraries open amid massive central government cuts to local authority budgets. When the libraries were closed no work was scheduled to begin for months. Opponents of the plans questioned why the sites could not remain open for longer, allowing students to use them for revision for summer exams. At the time the Lambeth cabinet member whose brief covers libraries, Jane Edbrooke, said this was impossible because the council needed to save money before the start of the new financial year. The freedom of information response shows that from 31 March, when the libraries closed, until 15 April, when the request was made, Lambeth spent \u00a335,392.68 on guards to secure both sites, a fraction over \u00a32,212 a day. In contrast, the council\u2019s 2014-15 budget gives a combined running cost for both of \u00a3874 a day. This excludes spending on books and computer services, but those are paid for centrally for all of Lambeth\u2019s 10 libraries, and the council has said it has no plans to cut them. Of the security costs, just under \u00a325,000 was spent at the Carnegie, a figure made bigger by the occupation by several dozen local residents, which lasted from 31 March to 9 April. But even when this was over, the average daily security cost at the library was \u00a31,382, nearly three times the daily running costs. At the Minet library, which was not occupied, security costs averaged \u00a3677 a day over the 16-day period, almost double the \u00a3386 daily running costs. The Guardian contacted Lambeth council on Friday morning to seek its reaction, and to ask about current security costs at the libraries. The council has yet to provide its promised response. Laura Swaffield, chair of the Friends of Lambeth Libraries, which opposes the library-gym hybrid model, said the group had long predicted the early closure would not save any money. \u201cIt has been apparent from the very start that wrecking the library service would cost more than preserving it,\u201d she said. \u201cNow all the flaws in their plan are showing up, the council is panicking. It seems prepared to spend any amount of money trying to make this turkey fly.\u201d Under the plans, sections of both libraries are being handed to the social enterprise Greenwich Leisure Limited so they can be turned into private gyms. The council is promising that both libraries will reopen in early 2017, but building work has yet to begin at either. The occupation of the Carnegie won the support of 220 writers and illustrators, among them Stella Duffy and Toby Litt, who organised an open letter, David Mitchell, David Nicholls, Francesca Simon, Sandi Toksvig, Ian Rankin, Will Self and Val McDermid.",
+  "webTitle": "Council closed libraries to cut costs, then spent more to guard them",
+  "webPublicationDate": "2016-05-22T13:46:28Z",
+  "webUrl": "https://www.theguardian.com/books/2016/may/22/lambeth-council-closed-libraries-security-guards",
+  "keyword": [
+    {
+      "webTitle": "Libraries",
+      "id": "books/libraries",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Local government",
+      "id": "society/localgovernment",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "London",
+      "id": "uk/london",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Peter Walker",
+      "id": "profile/peterwalker"
+    }
+  ],
+  "guardianId": "books/2016/may/22/lambeth-council-closed-libraries-security-guards"
+}

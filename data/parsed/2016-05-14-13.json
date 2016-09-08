@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/14/blacklist-construction-workers-mcalpine",
+  "id": "2016-05-14-13",
+  "sectionId": "business",
+  "body": "Victims of blacklisting by the construction industry, who were awarded a \u00a375m out-of-court settlement, are to demand a police investigation into their claims that key executives tried to pervert the course of justice. On Wednesday major companies, including Sir Robert McAlpine and Balfour Beatty, issued an \u201cunreserved and sincere\u201d apology in the high court to hundreds of workers for putting them on an illegal blacklist and denying them work over two decades. The companies agreed to pay sums ranging from \u00a325,000 to \u00a3200,000 to 771 people under out-of-court settlements to avoid a trial, while accepting that \u201ctheir secret vetting operation should never have happened\u201d. However, evidence disclosed before the settlement has led many of the victims to claim that there was an illegal attempt by executives at Sir Robert McAlpine to destroy evidence and cover up the involvement of key individuals when the blacklisting was discovered in 2009. The targets of the victims\u2019 intended criminal complaint include Cullum McAlpine, a director of Sir Robert McAlpine and a member of the founding family, who was chairman of the blacklisting organisation, known as the Consulting Association, when it was formed in 1993. Sir Robert McAlpine\u2019s head of human resources, David Cochrane, who was a later chairman of the association, is also at the centre of the complaint. Both deny involvement in destroying any relevant files and categorically deny attempting to pervert the course of justice. The Information Commissioner\u2019s Office (ICO) raided the Consulting Association on 23 February 2009, retrieving a limited number of files. Those involved in the blacklisting operation were aware that they were not to destroy any further evidence. However, a handwritten note of a meeting on 2 March 2009, which records Cochrane instructing Ian Kerr, a former Consulting Association chief executive, along with the notebook in which it was discovered, will be at the centre of the victims\u2019 case that the obligation not to destroy evidence was not met. It reads: \u201cRing everyone \u2013 Cease trading \u2013 Close down. We don\u2019t exist anymore \u2013 Destroy data \u2013 Stop processing of \u2026\u201d A second entry in Kerr\u2019s notebook read: \u201cALL mailing lists \u2013 shredded \u2013 NOT TAKEN BY ICO.\u201d In a notebook dated 23 February 2009, a handwritten note of a conversation between Kerr and Cochrane appeared to record Cochrane instructing Kerr as follows: \u201cCullum McAlpine \u2013 his name \u2013 remove this from any documents.\u201d Meanwhile, a letter dated 16 June 2009 from Kerr\u2019s wife, Mary, to Cullum McAlpine additionally stated: \u201cIt was suggested by Mr Cochrane that Ian had not kept to his side of the agreement to put himself \u2018in the frame\u2019 and keep the companies\u2019 names out of the magistrates court hearing with the promise of the payment of all outstanding debts by Sir Robert McAlpine. Ian had instructed his solicitor not to name any company in court, which is exactly what happened.\u201d During a hearing of the Scottish affairs select committee, Kerr, who died in 2012, admitted that his \u00a35,000 fine for breaches of the Data Protection Act following a magistrates court hearing in 2009 was met by Sir Robert McAlpine \u201con the basis that I had put myself at the front and took the flak, if you like, for it all, so that they wouldn\u2019t be drawn into all of this. They would remain hidden.\u201d Dave Smith, of the Blacklisting Support Group, said victims would be visiting police to make their complaints. A spokesman for Sir Robert McAlpine said: \u201cNo instructions were given to Mr Kerr or by Mr Kerr to members of the Consulting Association to destroy documents relating to [its] activities.\u201d He added that the company complied fully with the court requirement for complete disclosure of documents relating to the activities of the Consulting Association.",
+  "webTitle": "Construction bosses \u2018tried to hide evidence of their blacklist\u2019",
+  "webPublicationDate": "2016-05-14T23:05:09Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/14/blacklist-construction-workers-mcalpine",
+  "keyword": [
+    {
+      "webTitle": "Construction industry",
+      "id": "business/construction",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Trade unions",
+      "id": "politics/tradeunions",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Daniel Boffey",
+      "id": "profile/daniel-boffey"
+    }
+  ],
+  "guardianId": "business/2016/may/14/blacklist-construction-workers-mcalpine"
+}

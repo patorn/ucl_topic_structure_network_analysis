@@ -1,0 +1,44 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/13/west-midlands-police-investigate-tory-campaign-spending",
+  "id": "2016-05-13-76",
+  "sectionId": "politics",
+  "body": "West Midlands police have become the latest force to investigate Conservative MPs\u2019 expenses during last year\u2019s general election campaign. At least 11 forces are now investigating allegations that the Conservatives breached spending rules by listing some of the costs of their battlebus, which toured the country bringing activists to key marginal seats, under national spending accounts, rather than as local spending. In the West Midlands, Mike Wood, the MP for Dudley South, is facing an investigation. DCI Ed Foster of West Midlands police told the Birmingham Mail: \u201cWe have received an allegation of improper electoral campaign spending returns in the West Midlands area and are reviewing whether any offences have been committed.\u201d Anna Soubry, the business minister and MP for Broxtowe, in Nottinghamshire, is one of those whose campaign expenses have been questioned, and Nottinghamshire police are reportedly carrying out an investigation. The allegations, which were first broadcast by Channel 4 News, are also being investigated by Lincolnshire, Greater Manchester, Cheshire, Gloucestershire, Northamptonshire, Staffordshire, Warwickshire and West Mercia, and Devon and Cornwall police.  On Friday Channel 4 News reported that Nottinghamshire police were likely to go to court to request more time to look into the expense returns and receipts for Soubry and her fellow Conservative MP Mark Spencer, who represents the Sherwood constituency.  If a magistrate agrees to the extension, the force could be given up to 12 months to gather further evidence. Soubry tweeted a response to the allegations on Friday lunchtime, pointing out that the Labour party\u2019s battlebus visited both her and Spencer\u2019s constituencies during the campaign.  A Labour spokesman responded by saying everything the party had done was within the law, and the costs of its bus, unlike the Conservatives\u2019, did not include accommodation used by activists.  Any candidate found guilty of an election offence could face up to a year in prison and could be barred from office for three years.   Related: What is the Tory election expenses story and why isn't it bigger news?    On Thursday, the Electoral Commission went to the high court for an information disclosure order to seek key documents relating to the cases. Within hours the commission said it had received the documents from the Conservatives and was reviewing them. The Conservative party acknowledged that due to an \u201cadministrative error\u201d some accommodation costs for the activists were not properly registered, but insisted the bus tour was part of the national campaign organised by Conservative campaign headquarters and as such did not have to fall within individual constituency spending limits. In a statement, the Conservatives said: \u201cThe party always took the view that our national battlebus, a highly publicised campaign activity, was part of the national return \u2013 and we would have no reason not to declare it as such, given that the party was some millions below the national spending threshold. Other political parties ran similar vehicles which visited different parliamentary constituencies as part of their national campaigning.\u201d",
+  "webTitle": "West Midlands police investigate Tory campaign spending",
+  "webPublicationDate": "2016-05-13T17:23:58Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/13/west-midlands-police-investigate-tory-campaign-spending",
+  "keyword": [
+    {
+      "webTitle": "Conservatives",
+      "id": "politics/conservatives",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Heather Stewart",
+      "id": "profile/heatherstewart"
+    },
+    {
+      "webTitle": "Rajeev Syal",
+      "id": "profile/rajeev-syal"
+    },
+    {
+      "webTitle": "Dan Carrier",
+      "id": "profile/dan-carrier"
+    }
+  ],
+  "guardianId": "politics/2016/may/13/west-midlands-police-investigate-tory-campaign-spending"
+}

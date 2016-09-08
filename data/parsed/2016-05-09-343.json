@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/09/red-squirrel-leprosy-study-brownsea-island",
+  "id": "2016-05-09-343",
+  "sectionId": "environment",
+  "body": "Wildlife experts have launched a research project on an island off the south coast of England to better understand how British red squirrels are affected by a form of leprosy. The study on Brownsea Island will investigate how the disease is passed between red squirrels, whose numbers have declined drastically, and how conservationists can help control its spread. Leprosy was first identified in red squirrels in Scotland in 2014, caused by the bacterium mycobacterium lepromatosis, although the disease is believed to have been present in the squirrel population for centuries. Postmortem examinations have since revealed that the disease is also affecting the squirrels on Brownsea in Poole Harbour and the Isle of Wight.  Brownsea will be open as usual during the project and those leading the study say there is \u201cnegligible risk\u201d to the public from the disease, but they advise visitors not to touch any wild animals and birds and exercise good hygiene practices such as hand washing.  The disease is believed to have been present on Brownsea, which is home to about 200 squirrels, for many years but researchers have only recently diagnosed it as leprosy. Little is known about how the bacteria is spreading among red squirrels. The disease causes swelling and hair loss to the ears, muzzle and feet.  Researchers from the University of Edinburgh are working with the National Trust and Dorset Wildlife Trust on the project. Vets will use humane traps to capture the squirrels and will take blood samples and other clinical samples for analysis before returning the animals to the wild. Red squirrels have declined in the UK with fewer than 160,000 thought to be remaining. The main threat to their numbers is from habitat loss and the squirrelpox virus, which is carried by the more common grey squirrel and is deadly to the reds.  Lead researcher Prof Anna Meredith, of the University of Edinburgh\u2019s Royal (Dick) School of Veterinary Studies, said: \u201cThis disease appears to have been in squirrel populations in Scotland and England\u2019s south coast for some time. With this research, we aim to help conservationists better understand and manage the disease in this iconic species.\u201d Angela Cott, the National Trust\u2019s general manager on Brownsea, said: \u201cThis research project represents a significant first step towards deepening our understanding of a complex disease in British red squirrels. Many thousands of people visit Brownsea every year, enjoying the island\u2019s wonderful wildlife. Brownsea will remain open whilst the research project takes place.\u201d",
+  "webTitle": "Red squirrel leprosy study launched on Brownsea Island",
+  "webPublicationDate": "2016-05-09T05:01:05Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/09/red-squirrel-leprosy-study-brownsea-island",
+  "keyword": [
+    {
+      "webTitle": "Wildlife",
+      "id": "environment/wildlife",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Conservation",
+      "id": "environment/conservation",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Steven Morris",
+      "id": "profile/stevenmorris"
+    }
+  ],
+  "guardianId": "environment/2016/may/09/red-squirrel-leprosy-study-brownsea-island"
+}

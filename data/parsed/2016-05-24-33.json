@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/24/theresa-may-review-snoopers-charter-surveillance-powers-concession",
+  "id": "2016-05-24-33",
+  "sectionId": "world",
+  "body": "Labour has edged closer to supporting the \u201csnooper\u2019s charter\u201d after the home secretary, Theresa May, agreed to order an independent review of proposed state surveillance powers. Andy Burnham, the shadow home secretary, who had raised concerns about the wide-ranging nature of so-called bulk collection powers in the investigative powers bill, welcomed the concession.   Related: 'Snooper's charter': Theresa May faces calls to improve bill to protect privacy    The independent review, by the government\u2019s reviewer of anti-terrorism legislation, David Anderson, will examine how the powers will operate in practice. Speaking in the House of Commons, Burnham said of May: \u201cHer commitment to an independent review of the case for bulk powers is a major concession but the right thing to do and something which will build trust in this process.\u201d Anderson concluded that legislation was needed after carrying out a review last year into whether new surveillance powers were necessary to tackle terrorism. He will now be asked to look in detail at the bill and report by the summer, when it is expected to reach committee stage in the House of Lords. May has promised that the new powers will not be used to spy on trade unions, after Burnham raised the issue of the Shrewsbury 24 case in which campaigners for workers\u2019 rights - including the future Royle Family actor Ricky Tomlinson \u2013 were imprisoned for public order offences in the 1970s after a trial they believed was politically motivated. Burnham said: \u201cShe knows of my concerns on the targeting of trade unions in the past by the security services, and her acceptance of a specific reference in the bill that investigatory powers cannot be used to monitor legitimate trade union activity will go a considerable way to reassuring members on this side of the house about this bill.\u201d Labour would not confirm that it was ready to back the legislation, which is aimed at providing a legal framework to allow the intelligence agencies to monitor the activities of suspected terrorists.  Civil liberties campaigners have said the bill will hand sweeping powers to the state to carry out the kinds of information-gathering revealed by the whistleblower Edward Snowden.  Burnham said: \u201cThere are other areas in which we wish to see significant movement and we will continue to work in a constructive spirit to achieve it. But this letter shows that the home secretary is listening and that bodes well for the rest of this bill\u2019s passage.\u201d  He is calling for changes in other areas, including protections for whistleblowers and journalists and greater judicial oversight. A Home Office source said May was \u201csanguine\u201d about the need to make concessions, as long as a bill that she considers crucial is allowed to become law. The investigatory powers bill is intended to update the powers of the police and other public agencies to monitor the public\u2019s communications, to help tackle the threat of extremism. Labour had expressed concerns that the bill as drafted would allow the net to be spread too wide. A Home Office spokesperson said: \u201cThe home secretary has always been clear she will listen to the constructive views of politicians from all sides of the house to ensure the passage of this important bill. The government will be bringing forward amendments at report stage.\u201d",
+  "webTitle": "Theresa May agrees to review of snooper's charter powers",
+  "webPublicationDate": "2016-05-24T19:14:25Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/24/theresa-may-review-snoopers-charter-surveillance-powers-concession",
+  "keyword": [
+    {
+      "webTitle": "Surveillance",
+      "id": "world/surveillance",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Theresa May",
+      "id": "politics/theresamay",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Labour",
+      "id": "politics/labour",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK security and counter-terrorism",
+      "id": "uk/uksecurity",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Heather Stewart",
+      "id": "profile/heatherstewart"
+    }
+  ],
+  "guardianId": "world/2016/may/24/theresa-may-review-snoopers-charter-surveillance-powers-concession"
+}

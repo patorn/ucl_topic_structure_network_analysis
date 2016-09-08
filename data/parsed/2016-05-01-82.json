@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/artanddesign/2016/may/01/letter-dame-zaha-hadid-obituary",
+  "id": "2016-05-01-82",
+  "sectionId": "artanddesign",
+  "body": "Deyan Sudjic mentioned that Zaha Hadid \u201cbuilt a library\u201d at St Antony\u2019s College, Oxford. The Investcorp Building, which is quite simply the most beautiful building to have been created in Oxford this century, is the new extension of the university\u2019s Middle East Centre, a major hub for the study and better understanding of the complexities of Middle Eastern pasts, presents and futures.     The Investcorp Building at St Antony\u2019s College, Oxford. Photograph: Zaha Hadid architects    As well as a top-lit first-floor library, Hadid\u2019s centre offers a ground-floor gallery and cafe, an archive reading room, between-floors archive stores, and an underground oak-lined auditorium. In her address at the opening, Hadid stressed the metaphor of the Investcorp Building as an architectural and intercultural bridge. It is one of her smaller buildings, but for Oxford immense. It is one of 11 (new) Oxfordshire buildings to be nominated for the RIBA South 2016 Awards.",
+  "webTitle": "Letter: Dame Zaha Hadid obituary",
+  "webPublicationDate": "2016-05-01T15:24:47Z",
+  "webUrl": "https://www.theguardian.com/artanddesign/2016/may/01/letter-dame-zaha-hadid-obituary",
+  "keyword": [
+    {
+      "webTitle": "Architecture",
+      "id": "artanddesign/architecture",
+      "sectionId": "artanddesign",
+      "sectionName": "Art and design"
+    },
+    {
+      "webTitle": "Art and design",
+      "id": "artanddesign/artanddesign",
+      "sectionId": "artanddesign",
+      "sectionName": "Art and design"
+    },
+    {
+      "webTitle": "University of Oxford",
+      "id": "education/oxforduniversity",
+      "sectionId": "education",
+      "sectionName": "Education"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Bruce Ross-Smith",
+      "id": "profile/bruce-ross-smith"
+    }
+  ],
+  "guardianId": "artanddesign/2016/may/01/letter-dame-zaha-hadid-obituary"
+}

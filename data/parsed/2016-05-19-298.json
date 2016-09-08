@@ -1,0 +1,90 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/greenslade/2016/may/19/three-newspapers-to-be-reported-to-ipso-over-inaccurate-eu-stories",
+  "id": "2016-05-19-298",
+  "sectionId": "media",
+  "body": "Three newspapers will today be reported to the Independent Press Standards Organisation (Ipso) for running what are claimed to be innaccurate stories about the European Union ahead of the referendum. The complaint involves a series of articles published in recent months by the three pro-Brexit titles, the Daily Telegraph, the Daily Mail (including Mail Online) and the Daily Express. Eight \u201cegregious examples\u201d feature in a dossier compiled by InFacts, a group campaigning to make \u201ca fact-based case for Britain to remain in the European Union\u201d. It cites each one as failing to adhere to the clause about accuracy in the editors\u2019 code of practice. InFacts argues that the papers have breached the code by failing to \u201ctake care not to publish inaccurate, misleading or distorted information or images, including headlines not supported by the text.\u201d According to the group\u2019s editor-in-chief, Hugo Dixon, if the papers had taken care, they would have known that they were contravening the code. He is also calling on Ipso to fast-track the InFacts complaint because, if it is dealt with in the normal manner, there is a strong likelihood that any ruling would occur after the 23 June EU referendum vote. For example, it took two months before Ipso announced its adjudication on the Buckingham Palace complaint about the Sun\u2019s \u201cQueen backs Brexit\u201d front page. An InFacts website article accompanying its dossier contends that \u201cit is not just the Leave campaign that is pumping out falsehoods... The big guns of the eurosceptic press are going all in for out.\u201d It continues:  \u201cThe Telegraph, Mail and Express have published a string of stories on migration, terrorism, crime and control of our borders that contain factual inaccuracies and/or distortions... This comes on top of years of hostile EU coverage that have planted many myths in the minds of the electorate.\u201d  Dixon said InFacts has previously contacted the papers about each of the articles. Two did not respond. The Mail did but failed to \u201csatisfactorily address inaccuracies in the articles.\u201d The eight stories included in the InFacts dosssier are as follows: 1. \u201cThe gap between the official migrant figure and the truth is as wide as the Grand Canyon. We are owed an apology\u201d (Telegraph front page, 13 May); \u201cBritain\u2019s 1.5 million hidden migrants\u201d (Express front page, 13 May). 2. \u201cOpen borders let Isil into Britain, warns US spy chief\u201d (Telegraph front page, 27 April); \u201cIsis has taken advantage of Europe\u2019s open borders to plant sleeper cells in the UK, Germany and Italy, head of American intelligence warns\u201d (Mail Online, 27 April); \u201cEU free movement has allowed ISIS sleeper cells into the UK, warns security chief\u201d (Express, 27 April). 3. \u201cReport shows the NHS is nearly at breaking point as massive influx of EU migrants forces doctors to take on 1.5 million extra patients in just three years.\u201d (Mail Online, 3 April; Mail, 4 April). 4. \u201cBritain could stop ten times more terror suspects from entering the country if it leaves the EU, justice minister says as he blasts EU rules for allowing terrorists to \u2018waltz into Britain\u2019\u201d (Mail Online, 30 March);  5. \u201cNow EU wants asylum control\u201d (Express front page, 8 March). 6. \u201cEU seeks control of our coasts\u201d (Express, 7 March). 7. \u201cMore than 700 offences are being committed by EU migrants every week, official figures suggest\u201d (Telegraph, 17 February); \u201cCriminal convictions for EU migrants leap by 40% in five years: 700 found guilty every week in the UK but less than 20,000 foreign criminals have been deported\u201d (Mail Online, 17 February); \u201cEU migrants convicted of 700 crimes each WEEK \u2013 but only thousands of them are deported\u201d (Express, 17 February). 8. \u201cThe daughter-in-law of Abu Hamza cannot be deported from Britain despite a criminal past because of human rights laws, an EU law chief has ruled.\u201d (Telegraph front page, 6 February). The exact reasons for each of InFacts\u2019 complaints can be found on its website under a headline about \u201cthe hateful eight\u201d and can also be found here on the Guardian website.",
+  "webTitle": "Three newspapers to be reported to Ipso over 'inaccurate' EU stories",
+  "webPublicationDate": "2016-05-19T07:14:17Z",
+  "webUrl": "https://www.theguardian.com/media/greenslade/2016/may/19/three-newspapers-to-be-reported-to-ipso-over-inaccurate-eu-stories",
+  "keyword": [
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "National newspapers",
+      "id": "media/national-newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Daily Telegraph",
+      "id": "media/dailytelegraph",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Daily Mail",
+      "id": "media/dailymail",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Daily Express",
+      "id": "media/dailyexpress",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Ipso",
+      "id": "media/ipso",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Newspapers",
+      "id": "media/newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Press regulation",
+      "id": "media/press-regulation",
+      "sectionId": "media",
+      "sectionName": "Media"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Roy Greenslade",
+      "id": "profile/roygreenslade"
+    }
+  ],
+  "guardianId": "media/greenslade/2016/may/19/three-newspapers-to-be-reported-to-ipso-over-inaccurate-eu-stories"
+}

@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/australia-news/2016/may/03/essential-poll-shows-labor-maintains-a-52-48-two-party-preferred-lead",
+  "id": "2016-05-03-294",
+  "sectionId": "australia-news",
+  "body": "Labor has maintained a 52-48, two-party preferred lead in the latest Essential poll, and also received majority support for its carbon policy.   Related: Labor proposes two emissions trading schemes costing $355.9m    Respondents were told: \u201cThe Labor party recently announced their policy to tackle climate change which includes a target of reducing Australia\u2019s carbon emissions by 45% by 2030 (compared to the Coalition government\u2019s target of 26-28%) and introducing an emissions trading scheme\u201d. When the policy was described in this way, 57% of respondents were in favour and just 21% opposed. The 52-48, two-party-preferred figure is the same as the last Essential poll released on Wednesday. But the poll suggests voters prefer the Coalition\u2019s policy on negative gearing, with 43% favouring negative gearing and 36% against. Voters polled were narrowly opposed to Labor\u2019s policy to limit negative gearing in future to tax deductions for investments on newly-built homes, with 36% in favour and 38% opposed.  Essential noted that the results of both negative gearing questions were much the same as when the question was asked in March.   Related: How negative gearing replaced the great Australian dream and distorted the economy | Greg Jericho    Asked what they thought the effect of limiting negative gearing would be, most said house prices would grow more slowly (31%), followed by those who thought they would fall (24%). The rest were unsure (31%) or thought prices would grow at the same rate (13%). Malcolm Turnbull was more likely to be described as a capable leader than Bill Shorten (by a difference of 18%), judged more intelligent (by 17%) and better in a crisis (by 15%).  Shorten was more likely to be described as erratic (by 3%) and aggressive (by 5%). But Shorten has made gains, with more voters describing him as a capable leader (up 7%), intelligent (up 4%) and understanding of Australians\u2019 problems (up 3%). Turnbull\u2019s numbers have increased for narrow-minded (up 8%), intolerant (up 8%) and erratic (up 7%). On 5 April, Labor pulled ahead of the Coalition for the first time since Tony Abbott was replaced as prime minister with a 51-49% result in Newspoll.",
+  "webTitle": "Essential poll finds support for Labor's carbon policy but backs negative gearing",
+  "webPublicationDate": "2016-05-03T08:48:48Z",
+  "webUrl": "https://www.theguardian.com/australia-news/2016/may/03/essential-poll-shows-labor-maintains-a-52-48-two-party-preferred-lead",
+  "keyword": [
+    {
+      "webTitle": "Australian election 2016",
+      "id": "australia-news/australian-election-2016",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Labor party",
+      "id": "australia-news/labor-party",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Coalition",
+      "id": "australia-news/coalition",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Climate change",
+      "id": "environment/climate-change",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Greenhouse gas emissions",
+      "id": "environment/carbon-emissions",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Carbon tax",
+      "id": "environment/carbon-tax",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australian politics",
+      "id": "australia-news/australian-politics",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Paul Karp",
+      "id": "profile/paul-karp"
+    }
+  ],
+  "guardianId": "australia-news/2016/may/03/essential-poll-shows-labor-maintains-a-52-48-two-party-preferred-lead"
+}

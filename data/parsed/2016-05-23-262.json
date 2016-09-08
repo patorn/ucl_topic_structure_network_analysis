@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/society/davehillblog/2016/may/23/forget-social-cleansing-the-problem-in-london-is-poverty",
+  "id": "2016-05-23-262",
+  "sectionId": "society",
+  "body": "A new analysis of the effect of housing benefit caps on low income households in London, introduced in 2010, has confirmed that they have not forced a mass displacement of poor people from the capital and indicates that the main consequence has, in fact, been to make those people poorer.  Last year\u2019s authoritative London Poverty Profile showed that since 2011 there had actually been a slight fall in the number of moves made by claimant households, that most of those that had moved had remained in the same borough, and that the number moving out of London altogether had been small. Now, a further interrogation of data on claimant households\u2019 moves underlines, in the words of one of its authors, that \u201cit would be a mistake to think that London has been \u2018socially cleansed\u2019 and that no one living there is poor any more\u201d. On the contrary: \u201cRather than moving low income families out of London, in many cases housing benefit changes will have simply made them worse off\u201d. The work has been done by Hannah Aldridge and Tom MacInnes of the New Policy Institute, which also does the Poverty Profile number-crunching on behalf of Trust for London. It finds that in 2014 there were 89,000 moves among the claimant household total of 835,000 of which 7,500 entailed moving out of London.  It is particularly revealing when it looks at the most expensive parts of the capital, where the impact of benefit reform was predicted to be most extreme. The Inner West sub-region, comprising the boroughs of Camden, Hammersmith and Fulham, Wandsworth, Kensington and Chelsea and Westminster, saw the smallest number of moves by claimant households. This can be partly explained by Inner West being the sub-region with the lowest population, though the number actually fell by 16% between 2010 and 2014. Also, as Aldridge writes: \u201cThose who did move in 2014 were no more likely to move out of London than those who moved in 2010.\u201d  How does this square with dramatic reports of homeless households being shipped out of the capital? There certainly are such cases: 1,300 of them accepted places offered elsewhere in 2014. This is not to be taken lightly and reflects the increasing difficulty London boroughs have finding suitable and affordable accommodation for homeless households locally. It is, however, a small number out of the 853,000 who\u2019ve moved since the housing benefit changes.  There is a further reason for not jumping to conclusions about what any of the statistics mean. They shine a light on where people move to but not necessarily why they have moved. It cannot be assumed that this is always because benefit caps mean they can no longer pay the rent. As the report notes: \u201cSome moves might be seen as advantageous; people moving to housing that better suits their needs.\u201d  At the same time, the relative stability in the number of moves by claimant households since 2010 does not mean that housing benefit reform has had no ill effects. The apparent oddity of the Inner West sub region may tell us why. \u201cHere, those affected are likely to have to look much further afield to find housing within the limits of housing benefit, potentially sacrificing local connections and links to the community,\u201d says the report.  These could actually be the households facing the biggest financial struggles, as they cut back on other things in order to meet the higher amounts they must find towards their rents in order to avoid having to relocate a substantial distance from family members and friendship networks and the schools their children may attend. Other factors working against households moving could that more and more of them are in work, which might help them close the rent gap, or that they are receiving discretionary housing payments, though these won\u2019t last for ever.  The overall picture is that while the \u201csocial cleansing\u201d narrative has an emotive attraction for some housing campaigners and journalists, the real story is both less dramatic and more serious and fits into a much bigger one about the capital - that while London may be rich, its poor are becoming more numerous and getting poorer.",
+  "webTitle": "Forget 'social cleansing' - the problem in London is poverty",
+  "webPublicationDate": "2016-05-23T08:49:22Z",
+  "webUrl": "https://www.theguardian.com/society/davehillblog/2016/may/23/forget-social-cleansing-the-problem-in-london-is-poverty",
+  "keyword": [
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Housing",
+      "id": "society/housing",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Communities",
+      "id": "society/communities",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "London politics",
+      "id": "politics/london",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "London",
+      "id": "uk/london",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Welfare",
+      "id": "politics/welfare",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Housing benefit",
+      "id": "society/housing-benefit",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Benefits",
+      "id": "society/benefits",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Dave Hill",
+      "id": "profile/davehill"
+    }
+  ],
+  "guardianId": "society/davehillblog/2016/may/23/forget-social-cleansing-the-problem-in-london-is-poverty"
+}

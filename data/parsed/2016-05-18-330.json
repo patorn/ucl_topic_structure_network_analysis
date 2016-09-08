@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/money/2016/may/18/three-mobile-doubles-cost-sending-picture-messages-mms",
+  "id": "2016-05-18-330",
+  "sectionId": "money",
+  "body": "Mobile network Three has more than doubled the cost of sending a picture message, and has warned customers against adding emojis to standard texts in case it triggers the higher charge. From 13 June, the charge for sending a multimedia message (MMS) through Three will rise from 17.4p to 40p. Such messages allow smartphone users send to and receive photos, as well as video or audio files, up to a size limit of 300KB. They have previously been very popular but have fallen slightly out of fashion as users have switched to other social media or apps to share photos. Three\u2019s price hike brings it into line with its bigger rivals, which already charge around 33p-40p per picture message.  A Three spokesman said the increase follows a regular review of pricing. \u201cOur MMS charge remains competitive in comparison to other providers. Customers also have a number of different ways of sending picture messages through free apps and other services in order to avoid MMS charges.\u201d Mobile users who pay these charges often do so in error. Guardian Money has revealed in the past how adding an emoji \u2013 a picture icon such as a smiley or a sad face \u2013 or an emoticon can turn a cheap or free standard text into an MMS. Mobile users of certain handsets, including older Samsung models and even the latest iPhone 6, will do exactly that in certain circumstances.  The MMS charge can also be triggered when users send a text to an email address. Those sending the same message to multiple people, including one email address, have found they have been charged the MMS price for each person in the group.",
+  "webTitle": "Three mobile network more than doubles cost of sending picture messages",
+  "webPublicationDate": "2016-05-18T06:00:21Z",
+  "webUrl": "https://www.theguardian.com/money/2016/may/18/three-mobile-doubles-cost-sending-picture-messages-mms",
+  "keyword": [
+    {
+      "webTitle": "Mobile phones",
+      "id": "money/mobile-phones",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Internet, phones & broadband",
+      "id": "money/internetphonesbroadband",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Household bills",
+      "id": "money/household-bills",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Consumer affairs",
+      "id": "money/consumer-affairs",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Miles Brignall",
+      "id": "profile/milesbrignall"
+    }
+  ],
+  "guardianId": "money/2016/may/18/three-mobile-doubles-cost-sending-picture-messages-mms"
+}

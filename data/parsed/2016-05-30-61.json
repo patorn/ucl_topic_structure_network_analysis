@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/30/horse-racing-tips-tuesday",
+  "id": "2016-05-30-61",
+  "sectionId": "sport",
+  "body": "Leicester 2.00 Juan Horsepower 2.30 Rodaini 3.00 Inclination 3.30 Dutch Destiny 4.00 Boycie 4.30 Bolt Phantom 5.00 Oeil De Tigre 5.30 Lady Blanco Redcar 2.20 Lady Cristal 2.50 Miss Marina Bay 3.20 Lord Reason 3.50 Zanjabeel 4.20 Henley 4.50 Bromley Cross (nb) 5.20 Rose Marmara 5.55 Isntshesomething Towcester 2.10 Il Presidente 2.40 Lakeshore Lady 3.10 Kayla 3.40 Dusk Till Dawn 4.10 High Counsel 4.40 Hang Fire 5.10 Double Accord  Lingfield 5.50 Naafer 6.20 Triple Dream 6.50 Tenzing Norgay 7.20 Haddajah 7.50 Ejbaar 8.20 Believe It (nap) 8.50 Packing Wolverhampton 6.10 Sidewinder 6.40 Istiqlaal 7.10 Chauvelin 7.40 Planetoid 8.10 Crowning Glory 8.40 Cape Crystal 9.10 Eland Ally   Related: Humphrey Bogart may be cast in Derby role after Lingfield trial win",
+  "webTitle": "Horse racing tips: Tuesday 31 May",
+  "webPublicationDate": "2016-05-30T16:54:08Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/30/horse-racing-tips-tuesday",
+  "keyword": [
+    {
+      "webTitle": "Horse racing tips",
+      "id": "sport/horse-racing-tips",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Horse racing",
+      "id": "sport/horse-racing",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Chris Cook",
+      "id": "profile/chriscook"
+    }
+  ],
+  "guardianId": "sport/2016/may/30/horse-racing-tips-tuesday"
+}

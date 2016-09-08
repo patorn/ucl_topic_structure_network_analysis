@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/29/olga-bell-tempo-review-spry-melodies-restless-rhythms-randomness-ritual-power-user",
+  "id": "2016-05-29-168",
+  "sectionId": "music",
+  "body": "It\u2019s the spry unpredictability of Olga Bell\u2019s vocal melodies and the restlessness of her rhythms that put her a cut above your average avant-garde producer. A former child classical pianist, the Russian-American\u2019s last album, Krai, was a musical exploration of the far-flung edges of her homeland through folk and avant-garde electronics. Here she returns to the immediate electropop of her debut Diamonite, but with more muscle and shadow. There are thrills galore for fans of the Knife and R\u00f3is\u00edn Murphy (like Murphy\u2019s Hairless Toys, Tempo is inspired by ball culture documentary Paris Is Burning), and nagging hooks too in the playful, compulsive herky-jerk of Randomness, the rippling, deep, dark\u00a0housiness of Ritual or the seductive trip-hop of Power User.",
+  "webTitle": "Olga Bell: Tempo review \u2013 spry melodies and restless rhythms",
+  "webPublicationDate": "2016-05-29T07:00:00Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/29/olga-bell-tempo-review-spry-melodies-restless-rhythms-randomness-ritual-power-user",
+  "keyword": [
+    {
+      "webTitle": "Pop and rock",
+      "id": "music/popandrock",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Electronic music",
+      "id": "music/electronicmusic",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Dirty Projectors",
+      "id": "music/dirty-projectors",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Emily Mackay",
+      "id": "profile/emily-mackay"
+    }
+  ],
+  "guardianId": "music/2016/may/29/olga-bell-tempo-review-spry-melodies-restless-rhythms-randomness-ritual-power-user"
+}

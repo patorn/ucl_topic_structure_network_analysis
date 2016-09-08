@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/09/rb-leipzig-ralf-rangnick-hamstring-celebrations",
+  "id": "2016-05-09-217",
+  "sectionId": "football",
+  "body": "Ralf Rangnick\u2019s delight at guiding RB Leipzig to the Bundesliga for the first time in the club\u2019s history was slightly dampened when the former Schalke manager appeared to tear his hamstring during the post-match celebrations. Players were presented with giant glasses of beer on the pitch after Leipzig\u2019s 2-0 victory over Karlsruhe ensured they will finish the season as second division runners up behind champions Freiburg.         Ralf Rangnick    However, the party soon turned to despair for Rangnick. Chased by striker Davie Selke, the 57-year-old appeared to injure himself before being covered with beer. When asked about the incident, Selke admitted he was avoiding his manager. \u201cNo, I\u2019m too scared! That\u2019s why I\u2019m giving so many interviews, so I don\u2019t have to go back to the dressing room. I\u2019ll have to run away. \u201cHe definitely tried to run from me, which isn\u2019t a good idea - I caught him up, I won the race. Then something happened, he probably didn\u2019t warm up enough!\u201d",
+  "webTitle": "RB Leipzig\u2019s Ralf Rangnick injures hamstring in promotion celebrations",
+  "webPublicationDate": "2016-05-09T11:30:39Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/09/rb-leipzig-ralf-rangnick-hamstring-celebrations",
+  "keyword": [
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "European club football",
+      "id": "football/europeanfootball",
+      "sectionId": "football",
+      "sectionName": "Football"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "football/2016/may/09/rb-leipzig-ralf-rangnick-hamstring-celebrations"
+}

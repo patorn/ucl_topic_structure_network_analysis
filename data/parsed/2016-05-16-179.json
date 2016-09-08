@@ -1,0 +1,90 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/16/barclays-sell-london-bullion-vault-to-chinese-bank-gold",
+  "id": "2016-05-16-179",
+  "sectionId": "business",
+  "body": "A secret London vault, which can store more than $80bn (\u00a357bn) in gold bullion, is being sold by Barclays to China\u2019s ICBC Standard bank for an undisclosed sum. The facility is located inside the M25 and has the capacity to store 2,000 tonnes of gold. And while further details about the vault are scarce, it is said to be one of the largest in Europe and is presently used to store bars of gold, silver, platinum and palladium. Its security precautions reportedly include: a front door that can withstand \u201ca direct hit from a rocket-propelled grenade\u201d; an electrified roof; and plinths that have been sunk to keep out anyone ambitious enough to try to tunnel in.   Related: Gold demand soars 21% in strongest first quarter on record    In 2012, when the Sunday Times was granted a tour of the site, the paper reported: \u201cThe fingerprint identification system detects blood supply \u2013 severed digits won\u2019t open the doors. Anti-ramming bollards can stop a lorry travelling at 55mph.\u201d Barclays opened the facility in 2012 to serve both corporate and individual clients of its investment bank, after a 12-year bull run in gold prices pushed the metal to record highs the previous year. The minimum deposit is thought to be one bar, which in the case of gold weighs 400 troy ounces (12.4kg), worth around $500,000.  As well as the Bank of England vault on Threadneedle Street, there are thought to be six commercial vaults across London, with one rumoured to be below JPMorgan\u2019s offices on Victoria Embankment. It was reported in January that ICBC was acquiring Deutsche bank\u2019s lease on another London gold and silver vault. However, the Chinese bank said the deal did not go through. The acquisition of the Barclays site is expected to be completed in July.",
+  "webTitle": "Chinese bank buys secret London vault which can store $80bn of gold",
+  "webPublicationDate": "2016-05-16T13:26:45Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/16/barclays-sell-london-bullion-vault-to-chinese-bank-gold",
+  "keyword": [
+    {
+      "webTitle": "Barclays",
+      "id": "business/barclay",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Gold",
+      "id": "business/gold",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "China",
+      "id": "world/china",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "London",
+      "id": "uk/london",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Commercial property",
+      "id": "business/commercial-property",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Banking",
+      "id": "business/banking",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Commodities",
+      "id": "business/commodities",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Asia Pacific",
+      "id": "world/asia-pacific",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Real estate",
+      "id": "business/realestate",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Simon Goodley",
+      "id": "profile/simongoodley"
+    }
+  ],
+  "guardianId": "business/2016/may/16/barclays-sell-london-bullion-vault-to-chinese-bank-gold"
+}

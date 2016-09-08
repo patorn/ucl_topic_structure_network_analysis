@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/05/oscar-pistorius-documentary-gets-go-ahead",
+  "id": "2016-05-05-234",
+  "sectionId": "film",
+  "body": "A feature-length documentary is to be made about the former Paralympian and convicted murderer Oscar Pistorius. The film, which will be titled Pistorius, is to be directed by Vaughan Sivell, who also made the 2015 boxing documentary Mr Calzaghe. The project will be shopped to distributors next week at Cannes film festival. The South African athlete became the first double-amputee sprinter to compete in the Olympics in 2012. In 2013, he was arrested after fatally shooting his girlfriend, Reeva Steenkamp, in their home.   Related: Oscar Pistorius: \u2018Intelligent and self-contained, stupid and hot-headed\u2019 | John Carlin    Pistorius\u2019s culpable homicide conviction was overturned in 2015 and appeal judges found him guilty of murder. He is currently awaiting a new sentence that will be announced in June. \u201cThe film will seek to discover whether the image we have of [Pistorius] is the truth,\u201d the film\u2019s sales company, Content Media said in a statement. \u201cOscar Pistorius captured and then broke our hearts. Vaughan has struck a controversial nerve with his timely investigation of the man, the trial and country behind one of the most complex and compelling stories of our times.\u201d The news arrives soon after the announcement of both a three-part South African TV documentary based on the bestselling book, Behind the Door, as well as an ITV investigation by policeman-turned-reporter Mark Williams-Thomas.",
+  "webTitle": "Oscar Pistorius documentary gets go-ahead",
+  "webPublicationDate": "2016-05-05T10:33:47Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/05/oscar-pistorius-documentary-gets-go-ahead",
+  "keyword": [
+    {
+      "webTitle": "Documentary",
+      "id": "film/documentary",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Oscar Pistorius",
+      "id": "world/oscar-pistorius",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "film/sport",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Benjamin Lee",
+      "id": "profile/benjamin-lee-film"
+    }
+  ],
+  "guardianId": "film/2016/may/05/oscar-pistorius-documentary-gets-go-ahead"
+}

@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media-network/2016/may/10/washington-dc-food-bank-open-data-deliver-20000-tons-food-per-year",
+  "id": "2016-05-10-269",
+  "sectionId": "media-network",
+  "body": "You would be hard pressed to find a better illustration of the gap between rich and poor than the race for the US Presidency and the hunger in the area surrounding the White House. Front runners, Hilary Clinton and Donald Trump have raised an estimated \u00a3160m between them to fund rallies and advertising campaigns. Yet, at the same time, the Capital Area Food Bank (CAFB) estimates that around 12% of people living in Washington DC and neighbouring parts of Virginia and Maryland are food-deprived. CAFB works with more than 400 local community groups, including many churches and supermarkets, to distribute 19m kg (21,000 tonnes) of food that has either been donated or bought with cash donations. Nearly 80% of the food it hands out is saved from going to landfill by donors, typically food stores, who would rather feed the needy than waste food that is near or past its best by date but has not yet reached its use by deadline. The huge issue facing the CAFB has been how can it work with more than 400 partners to predict where its help is most needed? How can it forecast both food need and supply throughout the year so it can help people in the most efficient way? Those questions prompted the charity to accept an offer of free help from APT, an American company that specialises in predictive analytics. Sarah Hinkfuss Zampardo, senior vice president at the technology business, explains that it believed it would be able to see patterns in donations and fluctuations in demand that would allow the charity to plan far more efficiently. \u201cThe food bank is very well organised and so every partner they work with will report on the food needs and donation levels in their area,\u201d she says. \u201cSo they [CAFB] have a lot of data collated by themselves centrally, fed in from more than 400 partners. The key was using the open-data sources their partners are using to collate a heat map that can show up where food insecurity is at its highest points and allow the food bank to monitor and predict donation levels so it can match supply and demand more effectively.\u201d       With the data in place, the biggest question was how to ensure food reserves last for a year and are supplemented by buying the right types of fresh food for the best price at the right time of year, which is then distributed to the right partner in the optimum area. \u201cThe charity is interesting because it has huge peaks and troughs in supply and demand,\u201d explains Hinkfuss Zampardo. \u201cA classic example is around Thanksgiving and the Christmas holidays when people are mindful of people less fortunate themselves. So, they\u2019ll either donate cash or they will either give what they don\u2019t eat to the food bank or they\u2019ll buy extra food items to donate to the bank. There is also a lot of food left unsold in supermarkets which they are keen to donate. It means there\u2019s a huge peak in supply of food donation, in particular, canned yams. \u201cWhen it\u2019s quantified, it can be predicted and so the food bank knows what it\u2019s likely to receive so it can plan accordingly.\u201d Hence, CAFB knows it has no need to buy popular food stuffs as November and December approaches, because they will likely be donated. However, it can also predict the shelf life of the food it will receive and pick out where the gaps in supply and demand may occur. Cans of yams, for example, can obviously be spread out through the year, while fresh produce needs to be delivered to community groups at speed, while it is fresh. If a lack of supply is looming, the charity may decide to invest to stock up levels. It will make this decision because it is dedicated to encouraging a balanced diet and steers away from simply handing out whatever food it has in stock. \u201cA lot of canned donated food is wonderful but the CAFB won\u2019t just hand that out, it wants to combine it with fresh produce,\u201d says Hinkfuss Zampardo. \u201cBy using the system we have set up for them, they can look ahead at how much canned food they will receive and then look at the estimated need. They can then establish how much fresh produce they will also want to distribute with the cans to ensure there\u2019s a balance there.\u201d In fact, the open-data system APT has set up for the food bank is allowing the organisation to establish where nutritional education is most needed by seeing which partners are handing out too much of one food group and not offering people a balance. The data helps identify the areas and the partners it should prioritise to send out volunteer chefs who can teach volunteers and residents recipes which combine fresh and tinned ingredients for a balanced diet.  The need to plan ahead to offer a balance in food handouts is highlighted not just by donations coming in a peak season in November and December but also the time of the year where demand is highest.   Related: Can open data prevent a global food shortage?    \u201cPlanning for the food bank is difficult because peak supply and demand are literally at either ends of the calendar,\u201d explains Hinkfuss Zampardo. \u201cThe biggest time of need typically comes in the summer holidays, because it\u2019s then that you have families that have relied on their children getting fed at school, coming in to difficulties. A lot of children will not only get a lunch but they may also be enrolled in a programme that provides another meal before or after the school day. When that\u2019s no longer available, it means demand for produce at the food bank peaks in the summer, despite supply peaking in winter.\u201d By being better prepared for these peaks and troughs in supply and demand, the CAFB is better placed to help feed the needy, not just food, but a balance diet. Some half a million people will typically use the service in a year. With the help of open data, those facing hunger can expect a variety of nutritious food items which can be turned in to meals they are taught to cook, rather than simply receive a collection of random, surplus jars and tins. To get weekly news analysis, job alerts and event notifications direct to your inbox, sign up free for Media and Tech Network membership. All Guardian Media and Tech Network content is editorially independent except for pieces labelled \u201cPaid for by\u201d \u2013 find out more here.",
+  "webTitle": "Open data feeds the poor 20,000 tonnes of food per year in Washington DC",
+  "webPublicationDate": "2016-05-10T08:49:52Z",
+  "webUrl": "https://www.theguardian.com/media-network/2016/may/10/washington-dc-food-bank-open-data-deliver-20000-tons-food-per-year",
+  "keyword": [
+    {
+      "webTitle": "Media & Tech Network",
+      "id": "media-network/media-network",
+      "sectionId": "media-network",
+      "sectionName": "Media Network"
+    },
+    {
+      "webTitle": "Food banks",
+      "id": "society/food-banks",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Washington DC",
+      "id": "us-news/washington-dc",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Sean Hargrave",
+      "id": "profile/seanhargrave"
+    }
+  ],
+  "guardianId": "media-network/2016/may/10/washington-dc-food-bank-open-data-deliver-20000-tons-food-per-year"
+}

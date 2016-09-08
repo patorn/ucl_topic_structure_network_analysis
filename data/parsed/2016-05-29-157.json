@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/29/the-trust-review-nicolas-cage-elijah-wood",
+  "id": "2016-05-29-157",
+  "sectionId": "film",
+  "body": "This corrupt cop heist flick is a tonal car crash that winks conspiratorially as it dispatches supporting characters by shooting them in the face. Without the wry, genre-savvy smarts of Tarantino or the propulsive drive of someone such as David Ayer, this is a misfire on every conceivable level. And none more so than the casting. Nicolas Cage reprises his Bad Lieutenant persona as Vegas policeman turned criminal mastermind Stone. But it is Elijah Wood as his partner who is most problematic. There are foetuses that would be more convincing in the role of a jaded lawman than Wood. You can festoon him with hookers and drug paraphernalia \u2013 he still looks like a newly hatched baby bird.",
+  "webTitle": "The Trust review \u2013 a misfire on every level",
+  "webPublicationDate": "2016-05-29T07:00:00Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/29/the-trust-review-nicolas-cage-elijah-wood",
+  "keyword": [
+    {
+      "webTitle": "Crime",
+      "id": "film/crime",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Nicolas Cage",
+      "id": "film/nicolascage",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Wendy Ide",
+      "id": "profile/wendy-ide"
+    }
+  ],
+  "guardianId": "film/2016/may/29/the-trust-review-nicolas-cage-elijah-wood"
+}

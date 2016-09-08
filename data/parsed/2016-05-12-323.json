@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/greenslade/2016/may/12/sun-reporter-anthony-france-wins-first-round-of-his-appeal-battle",
+  "id": "2016-05-12-323",
+  "sectionId": "media",
+  "body": "I am delighted to see that Anthony France has won the first round of his battle to have his Operation Elveden conviction overturned. But he must wait longer still to clear his name. Press Gazette reported that three appeal court judges agreed on Wednesday to hear his legal arguments later this year. France, a crime reporter with the Sun, was found guilty in May last year of aiding and abetting a police officer working for a counter-terrorism command squad to commit misconduct in a public office. He was sentenced to 18 months in prison, suspended for two years, as well as 200 hours of community service. He is the only journalist to have been convicted under Operation Elveden (although one did plead guilty). According to the Press Gazette report, the appeal court decision was greeted by France\u2019s lawyer, Richard Kovalevsky QC, as a good first step.  He has argued, and will argue further when the hearing is set, that the judge\u2019s summing up after France\u2019s Old Bailey trial was deficient because he failed to explain fully enough to the jury the reporter\u2019s public interest justification for his work. The Crown Prosecution Service did not even attend court and must respond to the Kovalevsky\u2019s argument by 8 June.",
+  "webTitle": "Sun reporter Anthony France wins first round of his appeal battle",
+  "webPublicationDate": "2016-05-12T07:48:55Z",
+  "webUrl": "https://www.theguardian.com/media/greenslade/2016/may/12/sun-reporter-anthony-france-wins-first-round-of-his-appeal-battle",
+  "keyword": [
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "The Sun",
+      "id": "media/sun",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Law",
+      "id": "law/law",
+      "sectionId": "law",
+      "sectionName": "Law"
+    },
+    {
+      "webTitle": "Media law",
+      "id": "media/medialaw",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "National newspapers",
+      "id": "media/national-newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers",
+      "id": "media/newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Roy Greenslade",
+      "id": "profile/roygreenslade"
+    }
+  ],
+  "guardianId": "media/greenslade/2016/may/12/sun-reporter-anthony-france-wins-first-round-of-his-appeal-battle"
+}

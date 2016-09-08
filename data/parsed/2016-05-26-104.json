@@ -1,0 +1,46 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/26/jose-mourinho-signs-manchester-united-contract",
+  "id": "2016-05-26-104",
+  "sectionId": "football",
+  "body": "Jos\u00e9 Mourinho has signed a contract to take over as Manchester United\u2019s manager, with the club expected to make a formal announcement on Friday.   Related: Zlatan Ibrahimovic says he has offers from England amid Manchester United interest    The Portuguese and his agent, Jorge Mendes, have been in talks with Ed Woodward, United\u2019s executive vice-chairman, throughout the week and the 53-year-old finally put pen to paper on Thursday. The length of the contract is believed to be three years and Mourinho travelled to Manchester on Thursday to take official photographs for the announcement. United sacked Louis van Gaal on Monday after two largely unsuccessful years at Old Trafford, giving Mourinho the chance to take over at the club that had been his first choice since he left Chelsea last December. The former Real Madrid manager has discussed transfer targets with the Old Trafford hierarchy, with Andr\u00e9 Gomes, John Stones, \u00c1lvaro Morata, Mauro Icardi high on his wish list. Mourinho will have a minimum of \u00a3150m to spend on players, with Zlatan Ibrahimovic a potential signing on a free transfer after the striker left Paris Saint-Germain. United have held talks with the Swede but both parties want more time before they make a decision. Ibrahimovic said on Thursday that he had \u201cconcrete offers from clubs in England as well as Italy and from sides outside Europe\u201d. The 34-year-old added that he had a \u201cfantastic time\u201d playing for Mourinho at Internazionale during the 2008-09 season. \u201cWe said when I left that we might work together again,\u201d Ibrahimovic said. Asked whether he had spoken to Mourinho in the past week, he answered: \u201cI have spoken to Mourinho every day since I left Inter. We talk a lot. He is the man to bring Manchester United back to the top. If you want action, you get Mourinho. He is a winner.\u201d           Zlatan Ibrahimovic tight-lipped on Manchester United move.",
+  "webTitle": "Jos\u00e9 Mourinho signs contract to become Manchester United manager",
+  "webPublicationDate": "2016-05-26T17:22:59Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/26/jose-mourinho-signs-manchester-united-contract",
+  "keyword": [
+    {
+      "webTitle": "Jos\u00e9 Mourinho",
+      "id": "football/jose-mourinho",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Manchester United",
+      "id": "football/manchester-united",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Marcus Christenson",
+      "id": "profile/marcuschristenson"
+    },
+    {
+      "webTitle": "Fabrizio Romano",
+      "id": "profile/fabrizio-romano"
+    }
+  ],
+  "guardianId": "football/2016/may/26/jose-mourinho-signs-manchester-united-contract"
+}

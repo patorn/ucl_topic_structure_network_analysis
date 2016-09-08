@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/05/david-cameron-donald-trump-deserves-respect",
+  "id": "2016-05-05-181",
+  "sectionId": "politics",
+  "body": "David Cameron has said he \u201crespects\u201d the controversial presidential candidate Donald Trump for making it through the gruelling Republican primary process. The prime minister refused to retract his claim, made when a Trump candidacy still seemed an unlikely prospect, that the billionaire\u2019s proposal for banning Muslims from the US was \u201cstupid, divisive and wrong\u201d. Speaking at a joint press conference at 10 Downing Street alongside his Japanese counterpart, Shinzo Abe, Cameron said, having come through the tough primary process, Trump \u201cdeserves our respect\u201d.   Related: Neither George W nor George HW Bush will endorse Donald Trump    \u201cKnowing the gruelling nature of the primaries, what you have to go through to go on and represent your party in a general election \u2013 anyone who makes it through that deserves our respect,\u201d he said. However, he added: \u201cWhat I said about Muslims, I wouldn\u2019t change that view. I\u2019m very clear that the policy idea that was put forward was wrong, it is wrong, and it will remain wrong.\u201d Cameron\u2019s spokeswoman later said the prime minister respected Trump, \u201cpolitician to politician\u201d, given the fierce state-by-state battle for party supporters\u2019 votes that primary candidates must endure before they can win the right to fight for the presidency. Global policymakers are scrambling to catch up with the fact that Trump, who once appeared an eccentric outsider, will be the official Republican candidate after storming to success in the primaries. Abe visibly smirked \u2013 before rearranging his face into a serious expression \u2013 when the idea of Trump gracing the table at next year\u2019s G7 summit was mentioned. Cameron\u2019s change of tone came after George Papadopoulos, an adviser to Trump, told the Times on Wednesday that he thought the prime minister should reach out with an apology or some sort of retraction. Papadopoulos said Cameron\u2019s comments were uncalled for and it would be wise for the prime minister to \u201creach out in a more positive manner\u201d to the Republican frontrunner. Asked if Trump would forgive the remarks, he said: \u201cI can\u2019t speak directly for him, but it would seem that if Prime Minister Cameron is serious about reaching out, not only to Mr Trump\u2019s advisers but to the man himself, an apology or some sort of retraction should happen.\u201d No 10 sources said Cameron would be willing to meet Trump, as he would any other presidential candidate who visited the UK and requested discussions. He met Mitt Romney, the Republicans\u2019 last candidate, in 2012.",
+  "webTitle": "David Cameron: Donald Trump deserves respect",
+  "webPublicationDate": "2016-05-05T13:17:38Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/05/david-cameron-donald-trump-deserves-respect",
+  "keyword": [
+    {
+      "webTitle": "David Cameron",
+      "id": "politics/davidcameron",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Donald Trump",
+      "id": "us-news/donaldtrump",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US elections 2016",
+      "id": "us-news/us-elections-2016",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US politics",
+      "id": "us-news/us-politics",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Heather Stewart",
+      "id": "profile/heatherstewart"
+    }
+  ],
+  "guardianId": "politics/2016/may/05/david-cameron-donald-trump-deserves-respect"
+}

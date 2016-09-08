@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/26/uk-gdp-growth-george-osborne-beware-balance-of-payments",
+  "id": "2016-05-26-180",
+  "sectionId": "business",
+  "body": "Let\u2019s hear it for the British consumer. The trade figures are dire. Business investment is looking a bit wobbly. Manufacturing is in a slump. But out there in the high street or in the private world of online shopping, it is spend, spend, spend.  That\u2019s the inescapable message from the government\u2019s second stab at estimating the growth rate of the economy in the first three months of 2016. The headline figure \u2013 gross domestic product was up 0.4% on the final three months of 2015 \u2013 was unchanged. But the breakdown was deeply troubling. What it showed was an economy unhealthily reliant on consumer spending. Real household spending was up 0.7% on the quarter and added 0.5 percentage points to the growth rate. In other words, the other components of growth \u2013 investment, trade and government spending \u2013 contributed -0.1 points to growth during the first three months of the year. That\u2019s largely because the goods that consumers buy have to come from somewhere. And, with manufacturing output down in four of the last five quarters, that means they are being imported. Net trade \u2013 the changing relationship between exports and imports \u2013 subtracted 0.4 points from the first quarter growth rate.  Perhaps, though, the most worrying piece of new evidence about the state of the economy from the Office for National Statistics was the drop in business investment, which was down both over the quarter and over the year. Britain\u2019s recent economic history shows that growth cannot be long sustained on consumer spending alone, especially when households are running down their savings in order to do it. On the evidence so far, the economy looks likely to become even more unbalanced in the second quarter. Consumers have not been affected by the threat of Britainleaving the EU, while businesses are holding back on investment projects. The latest survey of consumer spending from Gfk highlights the point. Those questioned this month are more optimistic about their own finances and more willing to make a major purchase than they were as year ago. Where the warnings about Brexit do seem to have had an impact is on voter perceptions of the state of the wider economy. These are more negative than they were when the general election was fought in May 2015. Were it not for the referendum, some searching questions would be asked of the government. Whatever happened to growth based on investment and exports? Why is the economy so dependent on the consumer? Where is the promised renaissance of manufacturing? George Osborne promised a march of the makers. What he has delivered is a stampede of the spenders. The chancellor has warned that there will be a recession if Britain votes to leave the EU. As it stands, there is a good chance of a recession even if the UK votes to remain.  Given the flurry of doom-laden warnings from the IMF, the OECD, the Treasury and the Bank of England, the Gfk survey suggests consumers are remarkably chipper. A remain vote could well prompt still higher spending. This is a cause for concern. Household debt levels are high and the level of property prices is only sustainable because interest rates are so low. Even a modest increase in the cost of borrowing from the Bank of England would have a significant impact. Moreover, the financial markets are not going to ignore the state of Britain\u2019s current account for ever. The deficit was 7% of GDP in the final three months of 2015, before the latest consumer spending spree. There are some shocking balance of payments figures lurking out there.",
+  "webTitle": "UK GDP growth \u2013 beware the march of the spenders",
+  "webPublicationDate": "2016-05-26T13:41:18Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/26/uk-gdp-growth-george-osborne-beware-balance-of-payments",
+  "keyword": [
+    {
+      "webTitle": "Economic growth (GDP)",
+      "id": "business/economicgrowth",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economic recovery",
+      "id": "business/economic-recovery",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Consumer spending",
+      "id": "business/consumerspending",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Larry Elliott",
+      "id": "profile/larryelliott"
+    }
+  ],
+  "guardianId": "business/2016/may/26/uk-gdp-growth-george-osborne-beware-balance-of-payments"
+}

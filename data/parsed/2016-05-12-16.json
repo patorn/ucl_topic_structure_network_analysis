@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/12/steve-mcelvene-dead-university-of-dayton-basketball",
+  "id": "2016-05-12-16",
+  "sectionId": "sport",
+  "body": "The University of Dayton center Steve McElvene has died suddenly at the age of 20, the school has confirmed. A cause of death has not yet been given.  \u201cWe are devastated at this news,\u201d the Dayton coach Archie Miller said in a statement. \u201cAny death is a tragedy, but for someone so young, who worked so hard to have his dreams within reach, it\u2019s hard to put into words how painful this is. Our hearts and prayers go out to Steve\u2019s family. My family, our team and our staff will have to pull together, not only in support of Steve\u2019s family, but in support of each other at this terrible time.\u201d   Related: NBA playoffs: Warriors seal Trail Blazers series as Raptors edge Heat    ESPN reported that McElvene was talking to a neighbor in his hometown of New Haven, Indiana, when he suddenly fell to the ground. Attempts to resuscitate him were unsuccessful.  The 6ft 11in McElvene played in the NCAA tournament earlier this year and also set a Dayton single-season record with 56 blocked shots.",
+  "webTitle": "University of Dayton basketball star Steve McElvene dies at age of 20",
+  "webPublicationDate": "2016-05-12T21:36:05Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/12/steve-mcelvene-dead-university-of-dayton-basketball",
+  "keyword": [
+    {
+      "webTitle": "College basketball",
+      "id": "sport/college-basketball",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "College sports",
+      "id": "sport/college-sports",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Basketball",
+      "id": "sport/basketball",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "US sports",
+      "id": "sport/us-sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "sport/2016/may/12/steve-mcelvene-dead-university-of-dayton-basketball"
+}

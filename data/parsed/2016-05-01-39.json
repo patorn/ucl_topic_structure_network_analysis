@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/01/manuel-pellegrini-real-madrid-southampton",
+  "id": "2016-05-01-39",
+  "sectionId": "football",
+  "body": "Manuel Pellegrini said Premier League scheduling forced him to name a weakened Manchester City team against Southampton and hopes his side\u2019s disappointing performance will not impact on the Champions League semi-final with Real Madrid. Pellegrini made major changes to his team who were beaten 4-2 and, despite another impressive display by Kelechi Iheanacho, no City player emerged well as Sadio Man\u00e9 scored a hat-trick and Southampton secured a convincing victory. City play Real in the Bernab\u00e9u on Wednesday evening, having drawn the first leg 0-0 last week, and are set to face Cristiano Ronaldo who is expected to return from a thigh injury. Pellegrini previously criticised the Premier League for scheduling the Southampton game for a late kick-off on Sunday, but insists even with hindsight he would select the same team. \u201cI would do exactly the same again because we have an important game on Wednesday, that we play now for the final in the Champions League,\u201d the City manager said. \u201cWe continue in the Premier League, what we are going to do in the next two games to be in the top four, so that was a risk but one we had to take. \u201cMaybe if we played on Saturday we could have another option for this game but playing with too many players that are not playing often is difficult. I tried to select a team that would win the game. I also had to select a team based on who would play on Wednesday.\u201d Pellegrini said Yaya Tour\u00e9 is \u201cworking with normality\u201d as he attempts to return from a thigh injury for the Real game. The manager hopes the defeat at Southampton will not affect City in Madrid. \u201cI always say the best way to prepare for the next game is to win and that\u2019s why we did so well before Paris Saint-Germain [quarter-final] and Real Madrid [first leg], we won our games before in the Premier League. Today I don\u2019t know why we defended so bad in the first half, those were the two goals that decided the game.\u201d",
+  "webTitle": "Manuel Pellegrini has eyes only on Real Madrid after Saints mauling",
+  "webPublicationDate": "2016-05-01T19:43:18Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/01/manuel-pellegrini-real-madrid-southampton",
+  "keyword": [
+    {
+      "webTitle": "Manchester City",
+      "id": "football/manchestercity",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Manuel Pellegrini",
+      "id": "football/manuel-pellegrini",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Real Madrid",
+      "id": "football/realmadrid",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Champions League",
+      "id": "football/championsleague",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Southampton",
+      "id": "football/southampton",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "James Riach",
+      "id": "profile/james-riach"
+    }
+  ],
+  "guardianId": "football/2016/may/01/manuel-pellegrini-real-madrid-southampton"
+}

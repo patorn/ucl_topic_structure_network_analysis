@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/11/we-are-mortgaging-the-future-by-scrapping-zero-carbon-home-rules",
+  "id": "2016-05-11-300",
+  "sectionId": "environment",
+  "body": "From the Forth Bridge to our sewer system and the London Underground, we still rely on Victorian engineering every day in modern Britain. We all benefit from this inherited infrastructure, but we\u2019re still paying the bills for the way it was built.  Our older homes are among the most energy-wasting the world. And as anyone who has lived in a draughty, single-glazed, Victorian terrace knows, they can be expensive to keep warm in winter. Cholera killed thousands during the 19th century, so the Victorians were understandably more interested in improving sanitation, than advances in home energy efficiency. It seems incredible now that houses could be built without running water or proper drainage, but parliament had to introduce public health regulations to insist new dwellings had all this. Thankfully we don\u2019t have cholera epidemics to contend with today, but like the Victorians we do have a housing crisis. And our old, heat-leaking housing stock is fuelling climate change and perpetuating fuel poverty. Yet instead of tackling these problems in tandem, the Westminster government is trying to demolish a policy that would have ensured new homes were built to the highest energy-saving standards. New rules on Zero Carbon Homes, that were due to come into force this year, would have required new housing developments to generate as much clean energy \u2013 through renewable sources like solar panels or ground heat pumps \u2013 as they use in hot water, heating, lighting and ventilation. They would have also insulated us against climate change by making sure our homes are cosy and warm and only require minimal heating. But last year the government scrapped the rules. The House of Lords recognised the folly of this and tried to reinstate the English policy through an amendment to the housing and planning bill, which is set to become law this week. But the government has thrown it out in the Commons. With the ink barely drying on the Paris climate change agreement, the government should be trying to write low-carbon ambitions into all of our energy and planning policies. But ministers seem content to mortgage the future so that houses can be built quickly.  This move might make homes marginally cheaper to build now, but it will cost future generations dearly. It not only locks England into more unnecessary climate-changing emissions, families who get the keys to these properties will pay higher than necessary energy bills for decades to come. Thanks to the extraordinary vision of the Victorians, we are still benefiting from their bridges, railways, and sewers over a century later. We also live with the consequences of their energy-inefficient homes. We owe it to future generations to not make the same mistakes.  Meeting our climate change commitments is going to take decades and action across virtually all sectors of our economy. Energy efficiency should be a UK infrastructure priority. We know that houses built today could still be housing people a hundred years from now. We are also legally committed to cut climate-changing emissions by at least 80% by 2050.  We need to be building houses that are fit for the future. We have the technology and building techniques to construct houses that generate their own power and hardly need heating. We owe it to future generations to use them.",
+  "webTitle": "We are mortgaging the future by scrapping zero-carbon home rules | Angus MacNeil",
+  "webPublicationDate": "2016-05-11T09:00:53Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/11/we-are-mortgaging-the-future-by-scrapping-zero-carbon-home-rules",
+  "keyword": [
+    {
+      "webTitle": "Energy efficiency",
+      "id": "environment/energyefficiency",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Energy",
+      "id": "environment/energy",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Housing",
+      "id": "society/housing",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Green politics",
+      "id": "environment/green-politics",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Angus MacNeil",
+      "id": "profile/angusmacneil"
+    }
+  ],
+  "guardianId": "environment/2016/may/11/we-are-mortgaging-the-future-by-scrapping-zero-carbon-home-rules"
+}

@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/books/2016/may/04/climate-change-is-corroding-our-values-says-naomi-klein",
+  "id": "2016-05-04-7",
+  "sectionId": "books",
+  "body": "Climate change is spawning injustice, racism, intolerance and wars, according to author and political activist Naomi Klein. \u201cIt is not about things getting hotter and wetter but things getting meaner and uglier, unless we change the corrosive values that are pitting people against each other,\u201d she said in a lecture held in memory of Palestinian literary critic and political activist Edward Said at the Royal Festival Hall in London\u2019s Southbank Centre on Wednesday.  \u201cFossil fuels, which are the principal driver of climate change, require the sacrifice of whole regions and people. Sacrificial zones like the Niger delta and the tar sands in Alberta, Canada, dot the world.  \u201cThese zones require the shredding of treaties that enable peoples to live on their land. Indigenous rights are meaningless when the land is being [destroyed] and the rivers are polluted. Resource extraction is a form of violence because it does so much damage and kills cultures,\u201d she said. The author of books including No Logo and This Changes Everything said that an epidemic of despair linked to oil extraction and mining was ravaging communities in Africa and the Americas, leading to suicides and gross injustices.  Klein linked the start of the Syrian crisis with drought. \u201cDrought was not the only factor but the fact that 1.5 million people were displaced exacerbated [the situation]. There is a connection between water stress and conflict in the Middle East, Libya, Gaza, Afghanistan and Pakistan. Today boats of refugees flee wars and drought. Migrants are seen as an invading army.\u201d  In a reference to Said\u2019s argument that large sections of humanity have been cast as sub-human, or \u201cother\u201d, Klein said climate change was creating great divisions between people.  \u201cThere is no clean, safe way to run an economy built on fossil fuels. There is no peaceful way to do it ... If nations and people are regarded as other, it\u2019s easier to wage wars and stage coups,\u201d she said.   \u201cWe are running out of cheap ways to get to fossil fuels. This sees the rise of fracking which is now threatening some of the prettiest places in Britain.\u201d She urged people to make the links between climate change and conflict. \u201cAnti-austerity people rarely talk about climate change. And climate change people rarely talk about war. Overcoming these disconnections is the most pressing task for anyone occupied with social justice.  \u201c[Climate change] is a a present emergency. The Paris agreement, signed last month commits to keeping warming to below 2C. But this is reckless. In 2009, African nations said this was a death sentence. At the last minute [in Paris] countries agreed to \u201cpursue efforts\u201d to limit warming further. [But] we are making no such efforts.\u201d \u201cWealthy people think that they are going to be OK, that they will be taken care of. But we all will be affected,\u201d she said.",
+  "webTitle": "Climate change is corroding our values, says Naomi Klein",
+  "webPublicationDate": "2016-05-04T22:59:51Z",
+  "webUrl": "https://www.theguardian.com/books/2016/may/04/climate-change-is-corroding-our-values-says-naomi-klein",
+  "keyword": [
+    {
+      "webTitle": "Naomi Klein",
+      "id": "books/naomi-klein",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Climate change",
+      "id": "science/scienceofclimatechange",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Tar sands",
+      "id": "environment/oil-sands",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Climate change",
+      "id": "environment/climate-change",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Fossil fuels",
+      "id": "environment/fossil-fuels",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Books",
+      "id": "books/books",
+      "sectionId": "books",
+      "sectionName": "Books"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "John Vidal",
+      "id": "profile/johnvidal"
+    }
+  ],
+  "guardianId": "books/2016/may/04/climate-change-is-corroding-our-values-says-naomi-klein"
+}

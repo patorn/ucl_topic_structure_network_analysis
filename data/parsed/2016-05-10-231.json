@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/books/2016/may/10/ondaatje-prize-shortlist-spans-globe-from-ireland-to-sri-lanka",
+  "id": "2016-05-10-231",
+  "sectionId": "books",
+  "body": "From a poetry collection about rural Ireland to a tour of modern Russia dubbed an \u201canti-travelogue\u201d, six books have been shortlisted for one of the UK\u2019s more unusual literary prizes: the RSL Ondaatje award, which goes to the book which best evokes \u201cthe spirit of a place\u201d. Worth \u00a310,000, the Ondaatje can be won by fiction, nonfiction or poetry, with judges Kate Adie, Moniza Alvi and Mark Lawson this year selecting one poetry title for their shortlist, Jane Clarke\u2019s The River. Alvi praised Clarke\u2019s \u201cquiet, lucid, subtle poems\u201d, which she said were \u201cnevertheless urgent in their presentation of a farming background in rural Ireland, and the poet\u2019s enduring attachment to it\u201d. Clarke, who combines her writing with work as a management consultant in not-for-profit organisations, is up against five nonfiction titles for this year\u2019s prize. James Rebanks was picked for his account of shepherding, The Shepherd\u2019s Life, a bestseller that Alvi said was \u201ccompelling, authentic and absolutely unromanticised\u201d, revealing \u201can honourable tradition in a changing rural world\u201d. Alexandra Harris\u2019s look at writers\u2019 responses to English weather over the centuries, Weatherland, also made the list, praised by Alvi for making \u201can original contribution to the \u2018spirit of place\u2019\u201d. Brian Dillon\u2019s look at the history of explosives through a 1916 fire at a munitions factory in Kent, The Great Explosion, was also picked by judges, alongside Samanth Subramanian\u2019s history of the Sri Lankan civil war, This Divided Island, and Peter Pomerantsev\u2019s Nothing Is True and Everything Is Possible. Lawson called Pomerantsev\u2019s contender \u201ca sort of anti-travelogue, making the reader desperately keen never to go near the places described: the Muscovite, Siberian, American and English haunts of those who became super-rich from the division of state assets and the new entrepreneurial possibilities that arose in post-Soviet Russia\u201d. The winner will be announced on 23 May, joining former winners including Alan Johnson, who won for a memoir of his childhood This Boy, and Justin Marozzi\u2019s history of Baghdad, City of Peace, City of Blood.",
+  "webTitle": "Ondaatje prize shortlist spans globe from Ireland to Sri Lanka",
+  "webPublicationDate": "2016-05-10T10:28:00Z",
+  "webUrl": "https://www.theguardian.com/books/2016/may/10/ondaatje-prize-shortlist-spans-globe-from-ireland-to-sri-lanka",
+  "keyword": [
+    {
+      "webTitle": "Ondaatje prize",
+      "id": "books/ondaatjeprize",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Books",
+      "id": "books/books",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Awards and prizes",
+      "id": "culture/awards-and-prizes",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Poetry",
+      "id": "books/poetry",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "History",
+      "id": "books/history",
+      "sectionId": "books",
+      "sectionName": "Books"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Alison Flood",
+      "id": "profile/alisonflood"
+    }
+  ],
+  "guardianId": "books/2016/may/10/ondaatje-prize-shortlist-spans-globe-from-ireland-to-sri-lanka"
+}

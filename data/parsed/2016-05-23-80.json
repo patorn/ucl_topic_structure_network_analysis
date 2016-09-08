@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/us-news/2016/may/23/donald-trump-poll-hillary-clinton-presidential-election-2016",
+  "id": "2016-05-23-80",
+  "sectionId": "us-news",
+  "body": "For the first time, Republican Donald Trump seems to have edged ahead of Democrat Hillary Clinton in presidential polling. But only just. What does it mean and should those opposed to Trump be worried?   Related: Reality check: Does the electoral map work in Trump's favor?    The polling data site RealClearPolitics (RCP) takes an average of national polls that ask Americans who they would choose in a contest between the two candidates (a scenario that now looks inevitable). On Sunday, RCP updated their numbers to show that Trump is now, on average, 0.2 percentage points ahead of Clinton.  That gap might be narrow, but it has still led some (including a senior elections analyst at RCP) to conclude \u201cit\u2019s probably time to panic\u201d. I\u2019d disagree. For those concerned about the prospect of a Trump victory, it\u2019s been time to panic for a while \u2013 zooming out from a single statistic shows it.   Real Clear Politics presidential polling average   Delayed panic? Although this might be the first time that Trump has come out on top in the RCP polling average, he has come very close to doing so on two prior occasions \u2013 in September and December of last year. Since September, Clinton\u2019s lead has fluctuated significantly from being as large as 11 percentage points to as narrow as 0.6. In other words, there have been many other periods when Trump\u2019s opponents should have been worrying before now. Just as it took pundits a while to wake up to the fact that Trump was a sufficiently popular candidate to win the Republican nomination, it seems that they have also been slow to switch focus to his chances of winning the White House.            Why people vote Trump: the death of the American dream    Part of the reason why they didn\u2019t panic before was a belief that measuring American public opinion a long time before a national election is a bad predictor of voting patterns. Why? Because people change their minds. November is still six months away. The alternative view is that preferences may be becoming hardened now, making voter behavior less likely to shift. Looking backward, rather than forward, results from the last six presidential elections suggest that 31 states are \u201csafe\u201d \u2013 based on the fact that the same party has consistently won them. Unsurprisingly, polling companies are investing their time and resources in states they think might \u201cswing\u201d and therefore determine electoral outcomes nationally \u2013 states like Arizona, Florida, North Carolina, Ohio and West Virginia. So far, polling suggests neither candidate has a significant lead in those states which could provide extra cause for concern for those worrying about a Trump win.  Polling on a pedestal All that said, the RCP polling average is not the perfect political barometer it is so often held up to be. The polling average has become the go-to number for those trying to make quick sense of the state of the presidential race. That\u2019s problematic in itself; this election can\u2019t be predicted on the basis of just one number, not least because a candidate\u2019s vote share does not neatly translate to their chances of winning the White House. Each state wields a different number of electoral votes, so it matters how a candidate\u2019s support is distributed throughout the country. Democratic victories in highly populous states, which have more electoral votes to award, could cause the performance of the Democratic candidate in the electoral college to outstrip her or his performance in the popular vote. In 2008, Barack Obama won 68% of the electoral college vote with only 53% of the popular vote. Clinton may be buoyed in the 2016 election cycle by traditional Democratic strength in populous states such as New York, New Jersey, Illinois and California. There\u2019s another, much bigger problem with the RCP average, though: it\u2019s only as good as the individual polls that make it up. RCP always takes a straight average of the five most recent polls that were conducted. Once you peek under the hood, you\u2019ll see that an average of 0.2 percentage points flattens out some very different findings. These are the five latest polls RCP used to calculate Trump\u2019s narrow lead: ABC News/Washington Post: Trump leads by 2 percentage pointsNBC News/Wall Street Journal: Clinton leads by 3 percentage pointsRasmussen Reports: Trump leads by 5 percentage pointsFOX News: Trump leads by 3 percentage pointsCBS News/New York Times: Clinton leads by 6 percentage points These polls have different results in part because they use different methodologies for assessing public opinion. Although they were all conducted during a relatively similar period of time (which is essential when trying to get a snapshot of what the public thinks now), the polls by NBC/WSJ and Fox News only spoke to registered voters, Rasmussen interviewed \u201clikely voters\u201d, while the ABC News/Washington Post poll simply spoke to adults (82% of whom were registered voters). All polls claim to speak to a \u201cnationally representative\u201d sample of adults, but virtually none will publish data showing where their respondents were based. Perhaps Rasmussen Reports had to adjust their findings to account for the fact that they only managed to speak to two people in Iowa \u2013 we just don\u2019t know. Languages matter too. Two of the polls mentioned above conducted their interviews in Spanish and English \u2013 it seems that the others did not. Methodologies matter. They\u2019re one reason why the footnotes in each poll mention slightly different degrees of accuracy. Take the ABC News/Washington Post poll for example \u2013 those numbers have a margin of error of +/- 3.5 percentage points. That means that Trump\u2019s reported lead of 2 percentage points could have actually been as high as 5.5 percentage points. Or it could be that Hillary Clinton actually led by 1.5 percentage points. Polling is far from perfect. To understand what will happen when the country votes this November, pundits would do better to look at the electoral map, demographics and \u2013 most importantly of all \u2013 listen to the concerns of voters.  Tom McCarthy contributed to this article.",
+  "webTitle": "Donald Trump takes poll lead over Hillary Clinton \u2013 is it time to panic?",
+  "webPublicationDate": "2016-05-23T17:32:18Z",
+  "webUrl": "https://www.theguardian.com/us-news/2016/may/23/donald-trump-poll-hillary-clinton-presidential-election-2016",
+  "keyword": [
+    {
+      "webTitle": "US elections 2016",
+      "id": "us-news/us-elections-2016",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Donald Trump",
+      "id": "us-news/donaldtrump",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US politics",
+      "id": "us-news/us-politics",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Hillary Clinton",
+      "id": "us-news/hillary-clinton",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Republicans",
+      "id": "us-news/republicans",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Democrats",
+      "id": "us-news/democrats",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Mona Chalabi",
+      "id": "profile/mona-chalabi"
+    }
+  ],
+  "guardianId": "us-news/2016/may/23/donald-trump-poll-hillary-clinton-presidential-election-2016"
+}

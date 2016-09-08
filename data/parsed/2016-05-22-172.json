@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/22/richard-ashcroft-these-people-review",
+  "id": "2016-05-22-172",
+  "sectionId": "music",
+  "body": "Richard Ashcroft must be delighted that the Stone Roses have set the bar so low for big indie comebacks. His first album in six years finds him trying hard to relocate the Verve\u2019s sense of symphonic grandiosity (to that end he has been reunited with Urban Hymns co-producer Chris Potter and strings arranger Wil Malone), but ultimately falling short. With the exception of the poignant and understated Black Lines, Ashcroft\u2019s material is uninspired, drowned beneath bloated production and hardly enlivened by his customary broadbrush lyrics about standing alone against ill-defined adversaries, with the added bonus of a blizzard of clunking weather metaphors. Although to his credit the couplet \u201cCouldn\u2019t be life without the melody/ A soixante-neuf without the \u00e9rotique\u201d does leap out for not sounding as if it\u2019s been lifted straight from \u201cChicken Soup for the Misunderstood and Solitary Middle-Aged Man\u201d. It doesn\u2019t help that every song is needlessly drawn out. Indeed, by its close the repeated refrain of \u201cI think I\u2019ve told you before\u201d on They Don\u2019t Own Me sounds like the most otiose six-word phrase in the history of language.",
+  "webTitle": "Richard Ashcroft: These People review \u2013 bloated production and clunking metaphors",
+  "webPublicationDate": "2016-05-22T07:00:36Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/22/richard-ashcroft-these-people-review",
+  "keyword": [
+    {
+      "webTitle": "Richard Ashcroft",
+      "id": "music/richard-ashcroft",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Pop and rock",
+      "id": "music/popandrock",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Phil Mongredien",
+      "id": "profile/phil-mongredien"
+    }
+  ],
+  "guardianId": "music/2016/may/22/richard-ashcroft-these-people-review"
+}

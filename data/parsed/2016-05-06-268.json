@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/06/arsenio-hall-sinead-oconnor-prince-drug-allegations",
+  "id": "2016-05-06-268",
+  "sectionId": "music",
+  "body": "The TV host Arsenio Hall is suing Sin\u00e9ad O\u2019Connor for $5m (\u00a33.5m) after the singer alleged on her Facebook page earlier this week that Hall had given Prince drugs \u201cover the decades\u201d. She said she had reported Hall to the Carver County sheriff\u2019s office in Minnesota, which is investigating Prince\u2019s death, and that \u201canyone imagining Prince was not a longtime hard drug user is living in cloudcuckooland\u201d. Hall filed a complaint for defamation to the Los Angeles superior court on Thursday, Billboard reports, in which he described O\u2019Connor \u2013 who had a No 1 hit with the song Nothing Compares 2 U, written by Prince \u2013 as \u201ca desperate attention-seeker \u2026 now known perhaps as much for her bizarre, unhinged rants as her music\u201d.   Related: Prince's death: federal officials join investigation into drugs prescribed    Hall contends that the allegations are false, and that O\u2019Connor barely knew Prince. He says he has not had contact with her for 25 years and that her claims are \u201cextraordinarily damaging\u201d. The complaint describes O\u2019Connor\u2019s post as \u201cmalicious and reckless lies \u2026 brazen lies\u201d. Hall is seeking $5m in compensatory damages, plus a punitive amount to act as a deterrent. Prince\u2019s death, on 21 April, has been widely linked to the possibility of a prescription drug overdose, though the results of the autopsy, carried out the day after he died, are not yet known.  Earlier this week, it was revealed that he was due to receive treatment from a California addiction specialist, Dr Howard Kornfeld, on 22 April. Kornfeld sent his son Andrew to Paisley Park overnight on 21 April, and it was Andrew who called 911 on the discovery of Prince\u2019s body. Both Kornfelds now face the possibility of legal action. Howard Kornfeld is not licensed to practise medicine in Minnesota and was not registered to care for patients there via telemedicine, as the state requires. Andrew Kornfeld, who has been described as a pre-med student, was not a licensed prescriber.   Related: Prince's final days: few clues pointed to secret behind star's untimely death    The pair may need to rely on generous readings of federal and state laws to justify why the younger Kornfeld carried buprenorphine to Minnesota on a redeye flight on 20 April. Attorneys and physicians have described the action as unusual. The Kornfelds\u2019 lawyer, William Mauzy, has said that Andrew never planned to give the drug directly to Prince but rather to a local doctor who had planned to evaluate the singer.   The Kornfelds did not respond to messages this week from the Associated Press. No one has suggested that Prince took buprenorphine provided by the Kornfelds, and neither father nor son has been charged with any crime.  Mauzy has said that he believes Andrew Kornfeld is protected from any charges by a Minnesota law that generally shields anyone seeking medical assistance for a person overdosing on drugs.  Mauzy did not immediately respond to a request on 5 May for an interview.  Regulators in Minnesota have several ways they could approach the situation. Minnesota\u2019s medical board has jurisdiction to investigate someone who practises medicine without a state licence or a telemedicine registration.  Dr Kornfeld did not have either, said Ruth Martinez, executive director of the Minnesota board of medical practice. Martinez did not comment on whether the board is investigating Kornfeld\u2019s actions or whether it has received a complaint.  The Minnesota telemedicine law has an exemption for \u201can emergency medical condition\u201d but it is questionable whether that would cover a situation in which a doctor without a Minnesota licence sent a schedule III controlled substance across state lines with a person who was not a physician.  Minneapolis criminal defence attorney Joe Friedberg said it is illegal to prescribe a controlled substance without a face-to-face meeting with the patient.  Cody Wiberg, executive director of the Minnesota board of pharmacy, agreed, saying prescriptions for controlled substances \u201care not legal unless there has been an in-person examination of the patient\u201d. Howard Kornfeld had never met or spoken to Prince before the singer\u2019s representatives contacted him on 20 April, according to Mauzy, who said Kornfeld arranged for Prince to be evaluated by a Minnesota physician on 21 April, the day he died. The attorney refused to identify the Minnesota doctor, and it was not clear if that person had a prior relationship with Prince.",
+  "webTitle": "Arsenio Hall sues Sin\u00e9ad O'Connor for $5m over Prince drug allegations",
+  "webPublicationDate": "2016-05-06T09:46:47Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/06/arsenio-hall-sinead-oconnor-prince-drug-allegations",
+  "keyword": [
+    {
+      "webTitle": "Prince",
+      "id": "music/prince",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Sin\u00e9ad O'Connor",
+      "id": "music/sinead-o-connor",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Pop and rock",
+      "id": "music/popandrock",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian music",
+      "id": "profile/guardianmusic"
+    }
+  ],
+  "guardianId": "music/2016/may/06/arsenio-hall-sinead-oconnor-prince-drug-allegations"
+}

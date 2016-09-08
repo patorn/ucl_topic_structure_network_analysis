@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/04/broadband-ad-claims-asa-price",
+  "id": "2016-05-04-337",
+  "sectionId": "media",
+  "body": "The advertising watchdog is to crack down on the way broadband prices are marketed \u2013 but will not be tightening rules on the contentious issue of how top speeds are advertised. The Advertising Standards Authority is to force companies including Sky, BT, Virgin Media, TalkTalk, EE, 3 and O2 to only be able to advertise a single-figure monthly cost for their broadband packages. Currently, consumers are not provided with an \u201call in\u201d costs figure, with line rental typically stated separately and extras such as installation fees only revealed in the small print. The ASA was moved to order more simplified broadband pricing ads after research found that more than one in five consumers could not work out the correct monthly price even after viewing a TV ad twice.  The new rules, which come into force on 31 October, include providing an all-inclusive monthly price, giving more prominence to contract lengths and costs after any discount offer has expired. TalkTalk pre-empted the ASA\u2019s rule change by announcing on Tuesday that it would become the first major broadband provider to start running ads with \u201call-in\u201d pricing.   Related: Broadband ad rules are 'complete and utter joke', says culture minister    The company has already rolled-out an all-in monthly price for those trialling its ultra fibre optic service in York. Trisita Harrison, TalkTalk\u2019s consumer managing director, said that the luring consumers with cheap-looking, but complicated, offers is a \u201cbad habit\u201d that the industry has all been guilty of exploiting. \u201cAs long as line rental and broadband are priced separately, the temptation to advertise deals in this way will always be there,\u201d said Harrison. \u201cBut it\u2019s time for providers be honest about this \u2013 it\u2019s a bad habit we have all been guilty of, it doesn\u2019t serve customers well and it\u2019s time it stopped.\u201d While the pricing clarity will be welcomed by consumer groups many critics including Virgin Media, which offers superfast broadband through its cable network, argue that the broadband advertising rules should be extended to cover claims about speed. Under the current ASA rules companies are allowed to advertise their top speeds even if they are only available to 10% of customers.  Last month, culture minister Ed Vaizey called the laxity of the rules \u201cmisleading\u201d and a \u201ccomplete and utter joke\u201d and has called for them to be tightened. \u201cOur position on broadband speed claims in ads is based on extensive work undertaken in recent years, including a full public consultation on new guidance,\u201d said a spokeswoman for the ASA. \u201cWe are an independent, evidence-based regulator and that underpins our regulation. We are, however, aware of concerns about this issue and we are carefully considering if there is further work we can do on the matter.\u201d Separately, on Wednesday the ASA banned a series of three TV ads promoting BT\u2019s Infinity broadband service for making misleading claims that it provides more responsive online gaming and smoother video than Virgin Media, and faster download speeds than Sky.",
+  "webTitle": "Broadband pricing to face crackdown from ad watchdog",
+  "webPublicationDate": "2016-05-04T05:30:19Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/04/broadband-ad-claims-asa-price",
+  "keyword": [
+    {
+      "webTitle": "Advertising Standards Authority",
+      "id": "media/asa",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Advertising",
+      "id": "media/advertising",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Broadband",
+      "id": "technology/broadband",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Internet",
+      "id": "technology/internet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Broadband",
+      "id": "money/broadband",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Mark Sweney",
+      "id": "profile/marksweney"
+    }
+  ],
+  "guardianId": "media/2016/may/04/broadband-ad-claims-asa-price"
+}

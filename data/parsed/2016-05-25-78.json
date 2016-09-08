@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/25/lloyds-banking-group-share-price-osborne",
+  "id": "2016-05-25-78",
+  "sectionId": "business",
+  "body": "Shares in Lloyds Banking Group have passed the level at which taxpayers break even on their stake in the bailed-out bank for the first time this year. The move through 73.6p will be closely watched by George Osborne. The chancellor was forced to postpone an offering of the bank\u2019s shares to the public as a resut of the turmoil in the markets in the start of the year. The shares closed at 73.74p on Wednesday, up 1.8%. Even though the retail offering is on hold, Osborne can offload shares in small tranches to professional investors every time the shares rise past 73.6p mark. In December, this so-called trading plan was extended to the end of June.    Related: Lloyds sell-off teaches George Osborne a valuable lesson in timing    The dip in Lloyds\u2019 share price, whichhas been below 60p this year, means little headway has been made in reducing the taxpayers\u2019 stake below 9%. The shares last traded above 73.6p on 29 December. Osborne has pledged to offer \u00a32bn of shares to the public at a 5% discount to the prevailing price. Earlier this month, the Treasury said it had received a \u00a3130m dividend payment from Lloyds, taking the total it has received from the bank to \u00a316.8bn. At the time, Treasury minister Harriett Baldwin, reiterated the government\u2019s intention to conduct an offering of shares to the public later this year.  The taxpayer stake was 43% following Lloyds\u2019 takeover of HBOS during the 2008 crisis. It has been reduced through a series of transactions since. The first was September 2013 when \u00a33.2bn of shares were sold at 75p a share to institutional investors, the second in March 2014, when a further \u00a34.2bn was sold at 75.5p, and the since December 2014 through the process of dribbling shares into the market when the price is above 73.6p.",
+  "webTitle": "Lloyds Banking Group share price passes 73.6p for first time this year",
+  "webPublicationDate": "2016-05-25T17:13:44Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/25/lloyds-banking-group-share-price-osborne",
+  "keyword": [
+    {
+      "webTitle": "Lloyds Banking Group",
+      "id": "business/lloyds-banking-group",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Shares",
+      "id": "money/shares",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "George Osborne",
+      "id": "politics/georgeosborne",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Banking",
+      "id": "business/banking",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Investments",
+      "id": "money/moneyinvestments",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jill Treanor",
+      "id": "profile/jilltreanor"
+    }
+  ],
+  "guardianId": "business/2016/may/25/lloyds-banking-group-share-price-osborne"
+}

@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/artanddesign/2016/may/13/five-of-the-best-new-art-shows",
+  "id": "2016-05-13-192",
+  "sectionId": "artanddesign",
+  "body": "1: Sunken Cities  Two ancient Egyptian cities lost underwater at the mouth of the Nile are brought back to life in this archaeological blockbuster. The sea is a magical preserver. The relics of Thonis-Heracleion and Canopus tell a new story of Egypt as a trading empire at the heart of Mediterranean history. As ever with archaeological exhibitions, the question is how all this stuff will work as art. Will the British Museum\u2019s first big exhibition since its revered boss Neil MacGregor left live up to his vision?\u2022 British Museum, WC1, Thu to 27 Nov  2: Francis Bacon: Invisible Rooms  The punchy British painter was fascinated by modern architecture and interiors \u2013 as a young man before the second world war he even designed furniture in the slick International Style \u2013 and his morbid paintings of punished bodies are set within tasteful rooms whose chic glass tables enhance the horror. This exhibition explores Bacon\u2019s imagined spaces. One thing\u2019s for sure: you wouldn\u2019t want to live there.\u2022 Tate Liverpool, to 18 Sep  3: In The Age Of Giorgione  This is the exhibition of the moment that nobody should miss. It resurrects the all-but-forgotten fame of Giorgione, a great artistic innovator who transformed art for ever in Venice at the turn of the 16th century. Not only did Giorgione and his young friend Titian sex up the nude and give a new depth to portraiture; more importantly they made the sensuality of paint itself their theme, leading to Rembrandt, Pollock, Twombly and beyond. This is modern art.\u2022 Royal Academy, W1, to 5 Jun  4: Painting With Light  Photography is very much a British thing, and no sooner had William Henry Fox Talbot perfected it than art in this country became enthralled by the camera: this exhibition traces those initial endeavours to combine the two. Even Turner was interested, while the pre-Raphaelites mixed painting and photography. The latter made British artists pedantic while in France the avant garde, less rattled by the camera, were seeing dots and cubes.\u2022 Tate Britain, SW1, to 25 Sep  5: Maria Lassnig  Paintings that manage to be fleshy and ethereal at the same time by a hugely influential artist. Lassnig helped to create today\u2019s jokey idea of painting as a consciously ham-fisted performance. Her art is full of ideas for students but is it really so satisfying to look at? Find out in the first ever British retrospective of her work.\u2022 Tate Liverpool, Wed to 18 Sep",
+  "webTitle": "Five of the best\u2026 new art shows",
+  "webPublicationDate": "2016-05-13T12:00:15Z",
+  "webUrl": "https://www.theguardian.com/artanddesign/2016/may/13/five-of-the-best-new-art-shows",
+  "keyword": [
+    {
+      "webTitle": "Exhibitions",
+      "id": "artanddesign/exhibition",
+      "sectionId": "artanddesign",
+      "sectionName": "Art and design"
+    },
+    {
+      "webTitle": "Art and design",
+      "id": "artanddesign/artanddesign",
+      "sectionId": "artanddesign",
+      "sectionName": "Art and design"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jonathan Jones",
+      "id": "profile/jonathanjones"
+    }
+  ],
+  "guardianId": "artanddesign/2016/may/13/five-of-the-best-new-art-shows"
+}

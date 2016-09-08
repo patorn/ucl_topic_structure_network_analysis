@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/society/2016/may/17/good-ideas-for-reshaping-nhs-workforce",
+  "id": "2016-05-17-179",
+  "sectionId": "society",
+  "body": "When you\u2019re ill, your first instinct is probably to see a doctor. But, increasingly, whether you go to your local GP surgery or to hospital, a doctor may not be the best person to treat you. Highly skilled nurses, pharmacists and paramedics, now working in new ways alongside medics, often have the skills and expertise to assess and treat you independently. The traditional professional boundaries in the NHS are changing, and changing rapidly. When the NHS was set up in 1948, its job was mostly to treat one-off episodes of illness \u2013 often infectious diseases like TB, which antibiotics have since largely brought under control, or industrial injuries \u2013 and return patients to their daily lives. There was a strict demarcation between doctor and nurse roles; the job of the doctors was to \u201ccure\u201d patients, while nurses cared for them. Now, the majority of the people using the health service are older, sicker and frailer, often with several different long-term conditions, such as diabetes, heart disease or respiratory problems. This transformation requires a different sort of care from NHS staff. The Nuffield Trust was asked by the NHS Employers organisation to examine how the NHS workforce, now over 1.3 million strong, could be reshaped to deliver the new ways of caring that all experts agree are necessary. We looked at numerous examples of imaginative ways of working in the NHS around the country and found that giving additional skills to existing nursing, community and support staff can go a long way to providing this new care. Experts agree that older, frail patients are often better off being treated at home or in the community than in hospital. South East Coast Ambulance Service has found a way to make that policy aspiration a reality. Following the realisation that its workload has changed from dealing with emergencies such as road accidents to treating patients with long-term conditions, it has created a new role called \u201cparamedic practitioner\u201d (PP). PPs take an 18-month advanced course and spend eight weeks in a GP surgery learning how to give those with chronic conditions the best care, including treating patients in their own homes. Another example is at Bradford District Care NHS foundation trust. When the trust decided to conduct regular physical health checks on all patients with mental illness (something that had been neglected), it realised this work could be done by giving extra training to healthcare assistants (HCAs), creating a new post of associate practitioner. Traditionally, HCAs undertake duties like serving meals and helping patients to wash and dress. But the new associate practitioners at Bradford can, for example, perform electro-cardiograms (ECGs), for GPs to interpret. A third strategy is to equip experienced nurses and paramedics with advanced skills. Usually called advanced clinical practitioners (ACPs) or advanced nurse practitioners (ANPs), they are required to study for a master\u2019s qualification on top of their original training. Sheffield Teaching Hospitals NHS foundation trust has between 70 and 80 ACPs working across services like critical care, A&E and haematology. These posts have helped to deal with reductions in junior doctor staffing. As ACPs stay in one area and develop specific skills related to that service, while junior doctors rotate across many different wards as part of their training, they help create a more stable clinical team. Expanding the skills of the non-medical workforce presents big organisational challenges and will not be easy in the current financial context. Reshaping the NHS workforce also carries risks. Evidence shows that without carefully redesigning how different staff work together, new and extended roles like these could increase patient demand, thereby costing money rather than saving it. So we have identified 10 lessons for healthcare organisations who want to change their staffing. These include: building roles on a detailed understanding of what patients need; making sure the wider team understands its purpose and the responsibilities of every team member; and communicating the changes to patients and all employees. But our strongest arguement is that this is not a \u201cnice to do\u201d. It is vital if the NHS is to meet changing patient demand and deliver the care needed for the 21st century.",
+  "webTitle": "Reshaping the NHS workforce for the 21st century | Sophie Castle-Clarke",
+  "webPublicationDate": "2016-05-17T12:00:03Z",
+  "webUrl": "https://www.theguardian.com/society/2016/may/17/good-ideas-for-reshaping-nhs-workforce",
+  "keyword": [
+    {
+      "webTitle": "NHS",
+      "id": "society/nhs",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Emergency services",
+      "id": "society/emergency-services",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Social care",
+      "id": "society/social-care",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Sophie Castle-Clarke",
+      "id": "profile/sophie-castle-clarke"
+    }
+  ],
+  "guardianId": "society/2016/may/17/good-ideas-for-reshaping-nhs-workforce"
+}

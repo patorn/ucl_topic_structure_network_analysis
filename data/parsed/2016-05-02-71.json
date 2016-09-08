@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/02/horse-racing-tips-tuesday",
+  "id": "2016-05-02-71",
+  "sectionId": "sport",
+  "body": "Brighton 2.20 Monks Stand (nap) 2.50 Fear Or Favour 3.20 Live Dangerously 3.55 Ifan 4.25 Tyrannical 4.55 Hawk Moth 5.25 Royal Bajan  Catterick 5.55 Clem Fandango6.25 Tatting 6.55 Dutch Artist (nb) 7.25 Taysh 7.55 Eurato 8.25 Hit The Lights  Exeter 5.45 Aston Cantlow 6.15 Morning Herald 6.45 According To Harry 7.15 Vesperal Dream 7.45 Peterbrown 8.15 Misterton  Fakenham 2.00 Jonnie Skull 2.30 Little Windmill 3.00 Angel Face3.30 Thomas Wild 4.05 In Fairness 4.35 All Together  Sedgefield 2.10 Kilronan Castle 2.40 Triumph Davis 3.10 Debt To Society 3.40 Irish Hawke 4.15 My Friend George 4.45 Beaumont\u2019s Party 5.20 Discoverie",
+  "webTitle": "Horse racing tips: Tuesday 3 May",
+  "webPublicationDate": "2016-05-02T17:01:42Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/02/horse-racing-tips-tuesday",
+  "keyword": [
+    {
+      "webTitle": "Horse racing tips",
+      "id": "sport/horse-racing-tips",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Horse racing",
+      "id": "sport/horse-racing",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Chris Cook",
+      "id": "profile/chriscook"
+    }
+  ],
+  "guardianId": "sport/2016/may/02/horse-racing-tips-tuesday"
+}

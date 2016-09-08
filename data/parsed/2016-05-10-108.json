@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/10/thyssenkrupp-cuts-earnings-estimates-profit-steel-glut-china-imports",
+  "id": "2016-05-10-108",
+  "sectionId": "business",
+  "body": "Germany\u2019s largest steelmaker ThyssenKrupp has cut its profit forecast as record Chinese exports have led to a global glut of steel and pushed prices lower.  The German industrial conglomerate lowered its underlying earnings forecast for 2016 to a minimum of \u20ac1.4bn (\u00a31.1bn), from an earlier estimate of \u20ac1.6bn to \u20ac1.9bn. This compares with a \u20ac1.7bn profit last year. In the second quarter to 31 March, the group\u2019s profit fell 20% to \u20ac326m. Like others in the sector, ThyssenKrupp has been hurt by cheap imports from China, which have exacerbated a global oversupply of steel. It said the decline in the price of materials had been \u201csharper and longer-lasting than expected\u201d. The Essen-based company has held talks with India\u2019s Tata Steel about buying its European business, but was put off by the losses of the UK business and its pension liabilities totalling almost \u00a315bn. It is not thought to have submitted a bid for Port Talbot and Tata\u2019s other struggling UK sites in the current bidding process, where the Excalibur Steel management buyout has emerged as the frontrunner.  However, ThyssenKrupp and Tata could still combine their continental European steel operations. In light of the steel crisis, the German firm believes that consolidation of the sector in Europe is inevitable and wants to be part of it. ThyssenKrupp and Austria\u2019s Voestalpine are the only two European steelmakers that are profitable. Its shares dropped by 4% in early trading, but later recovered to close 0.5% higher at \u20ac18.46. ThyssenKrupp\u2019s chief executive, Heinrich Hiesinger, said: \u201cThe overall performance of the group continues to be overshadowed by the extremely difficult conditions in the materials markets. While we are now seeing a recovery in material prices, it is coming later than we originally expected and from a lower level and will also be reflected in our figures with a time lag.\u201d The group has cut more than \u20ac700m of costs at its steel arm, with another \u20ac100m savings to come this year. It has avoided redundancies by persuading its 27,600 steelworkers in Germany to agree to a 31-hour week with reduced wages, which has been in place since October. Steel prices slumped to a nine-year low in February but have bounced back since. Last week, ArcelorMittal, the world\u2019s largest steel producer, talked of a recovery in the market, underpinned by rising steel prices in China and a rebound in the cost of iron ore.",
+  "webTitle": "ThyssenKrupp cuts profit estimates as steel glut weighs on prices",
+  "webPublicationDate": "2016-05-10T16:18:23Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/10/thyssenkrupp-cuts-earnings-estimates-profit-steel-glut-china-imports",
+  "keyword": [
+    {
+      "webTitle": "Steel industry",
+      "id": "business/steel-industry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Germany",
+      "id": "world/germany",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Tata",
+      "id": "business/tata",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Julia Kollewe",
+      "id": "profile/juliakollewe"
+    }
+  ],
+  "guardianId": "business/2016/may/10/thyssenkrupp-cuts-earnings-estimates-profit-steel-glut-china-imports"
+}

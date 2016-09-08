@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/19/50-cent-mtv-cribs-hostelworld-tv-ad",
+  "id": "2016-05-19-178",
+  "sectionId": "media",
+  "body": "In Da Club rapper 50 Cent is fronting a new campaign to promote the \u201cbling with no sting\u201d of staying in budget accommodation booked through Hostelworld. He gives a tour of a hostel in Barcelona shot as a parody of Cribs, the MTV show where the rich and famous show off their ostentatious homes.  \u201cWe are so happy to have converted 50 Cent into a hosteller \u2013 he\u2019s found the best way to live like a millionaire without having to part with crazy amounts of money in the process,\u201d said Hostelworld chief marketing officer Otto Rosenberger. \u201cWe look forward to welcoming the rest of the world\u2019s music elite at our hostels very soon.\u201d The TV ad campaign has been created by ad agency Lucky Generals. 50 Cent follows in the footsteps of Chris Eubank, the former boxing champion, who starred in a Hostelworld.com advert last year.  Last year, the Advertising Standards Authority banned a Hostelworld ad showing people jumping from cliffs into a pool following complaints it condoned the dangerous activity of tombstoning.",
+  "webTitle": "50 Cent parodies MTV\u2019s Cribs in budget hostel ad",
+  "webPublicationDate": "2016-05-19T12:44:37Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/19/50-cent-mtv-cribs-hostelworld-tv-ad",
+  "keyword": [
+    {
+      "webTitle": "Advertising",
+      "id": "media/advertising",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "50 Cent",
+      "id": "music/50cent",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Mark Sweney",
+      "id": "profile/marksweney"
+    }
+  ],
+  "guardianId": "media/2016/may/19/50-cent-mtv-cribs-hostelworld-tv-ad"
+}

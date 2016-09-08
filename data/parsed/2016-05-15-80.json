@@ -1,0 +1,84 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/15/bookie-suspends-betting-on-next-james-bond-after-flurry-of-tom-hiddleston-punts",
+  "id": "2016-05-15-80",
+  "sectionId": "film",
+  "body": "A spooked bookmaker has suspended betting on who will be the next James Bond after odds on Tom Hiddleston becoming 007 dramatically shortened. A flurry of bets had pushed 35-year-old star of The Night Manager 2-1 into favourite position to replace Daniel Craig following claims last week the actor had reportedly been spotted meeting with Bond film director Sam Mendes and producer Barbara Broccoli in London. A particularly large gamble then slashed Hiddleston\u2019s odds further to 1-2, and Coral bookmakers took the decision to suspend betting. \u201cThere\u2019s no smoke without fire, and following the big gamble on Tom Hiddleston in the last 24 hours, we\u2019ve had no choice but to pull the plug on the market,\u201d said Coral spokesperson Nicola McGeady. \u201cEarlier in the year there was a gamble on Idris Elba and Damian Lewis, but nothing has come close to the recent gamble on Hiddleston\u201d. Coral said Luther star Elba and Homeland star Lewis were front-runners for the job in recent months but that the odds now suggested they have missed the cut. Elba was priced at 9-1 and Lewis at 14-1 before Coral suspended betting. Poldark star Aidan Turner had 3-1 odds while Mad Max: Fury Road actor Tom Hardy was at 4-1. Bond producers have made no comment on whether Daniel Craig will continue after four films, and Craig denied reports in January he had quit the role. Hiddleston, who played spy Jonathan Pine in The Night Manager, played down speculation, recently telling the Graham Norton Show: \u201cThe position isn\u2019t vacant as far as I\u2019m aware. No one has talked to me about it. \u201cI think the rumours have come about because in The Night Manager I play a spy and people have made the link.\u201d Earlier this month Hiddleston and Elba made fun of their supposed rivalry over the role by pretending to fight when they greeted each other at the Baftas.  In the past Elba has spoken of being weary of the constant speculation. \u201cI\u2019m probably the most famous Bond actor in the world, and I\u2019ve not even played the role,\u201d he said in an interview with the Daily Telegraph last year. \u201cEnough is enough. I can\u2019t talk about it any more.\u201d",
+  "webTitle": "James Bond betting suspended after flurry of Tom Hiddleston punts",
+  "webPublicationDate": "2016-05-15T15:32:39Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/15/bookie-suspends-betting-on-next-james-bond-after-flurry-of-tom-hiddleston-punts",
+  "keyword": [
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "James Bond",
+      "id": "film/jamesbond",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Tom Hiddleston",
+      "id": "film/tom-hiddleston",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Daniel Craig",
+      "id": "film/danielcraig",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Idris Elba",
+      "id": "culture/idris-elba",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Damian Lewis",
+      "id": "culture/damian-lewis",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Thriller",
+      "id": "film/thriller",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Gambling",
+      "id": "society/gambling",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Film industry",
+      "id": "film/film-industry",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Caroline Davies",
+      "id": "profile/carolinedavies"
+    }
+  ],
+  "guardianId": "film/2016/may/15/bookie-suspends-betting-on-next-james-bond-after-flurry-of-tom-hiddleston-punts"
+}

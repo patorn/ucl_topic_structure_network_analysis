@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/science/2016/may/02/could-these-newly-discovered-planets-orbiting-an-ultracool-dwarf-host-life",
+  "id": "2016-05-02-112",
+  "sectionId": "science",
+  "body": "Three distant worlds that orbit a feeble star in the constellation of Aquarius are the most likely places discovered so far to find life beyond the solar system, astronomers say.   Related: Kepler 438b: Most Earth-like planet ever discovered could be home for alien life    The Earth-sized planets are all thought to have regions where surface temperatures fall within the Goldilocks zone and are neither too hot nor too cold for water to run freely, making them at least potentially hospitable to life. Belgian astronomers found the planets using the Transiting Planets and Planetesimals Small Telescope (Trappist) at the La Silla Observatory in Chile\u2019s Atacama desert. The planets revealed themselves through the periodic dimming that occurred as they passed in front of their parent star, an ultracool dwarf that lies only 40 light years away. Known formally as 2MASS J23062928-0502285, but helpfully dubbed Trappist-1, the star is not much larger than Jupiter and emits a fraction of the sun\u2019s radiation. The star is too faint to see in the night sky with the naked eye, or even through a large amateur telescope.     This chart shows the stars visible to the naked eye in the constellation of Aquarius. The position of the ultracool dwarf star Trappist-1 is marked. Although it is relatively close to the Sun it is very faint and not visible to the naked eye or through amateur telescopes. Photograph: ESO/IAU and Sky & Telescope    Observations from the Trappist telescope taken from September to December last year, and follow-up measurements from larger instruments, revealed three small planets orbiting very close to the star, at 1%, 1.5% and about 3% of the distance that Earth lies from the sun. A year on the innermost planet passes in only 1.5 Earth days, and in 2.4 Earth days on the second. The orbit of the third planet is less certain, with a year passing in 4.5 to 73 Earth days, according to a report in the journal Nature. \u201cBecause the star is so faint, all of these planets have temperatures that are similar to those on Earth. They could have liquid water on the surfaces, and on Earth life is critically dependent on water. We don\u2019t know, but maybe there could be life there,\u201d said Micha\u00ebl Gillon who led the research at the University of Liege.         A video from ESO explaining the discovery.     Related: Two billion planets in our galaxy may be suitable for life    The planets are thought to be tidally-locked to their star, meaning one half is in permanent daytime, and the other in constant darkness. If the planets have atmospheres, the alien air would even out the temperature difference across the hemispheres. At the hottest spots, the temperature would reach about 100 Celsius on the innermost planet, 70 Celsius on the second, and perhaps 30Celsius on the outermost world. \u201cThese are the first temperate Earth-sized planets found outside the solar system, and the first we can study in detail,\u201d said Gillon. \u201cThat makes them extremely promising targets for us.\u201d The composition of the planets is not yet known, but the sizes mean they must be solid. \u201cThey could be iron-rich like Mercury, or mostly silicate rocks, or extremely icy, like the moons of Jupiter,\u201d said Gillon.     Another artist\u2019s impression of an imagined view from close to the surface of one of the three planets. In this view one of the inner planets is seen in transit across the disc of its tiny and dim parent star. Photograph: ESO/M. Kornmesser    Plans have already been drawn up to study the planets in greater detail. With the Hubble space telescope, the astronomers hope to learn whether the worlds have their own atmospheres. But future instruments will be needed to find out much more about the planets. If they do have atmospheres, then analysing the molecular constituents for water, carbon dioxide and ozone could reveal evidence for life. Those measurements will be possible from two forthcoming observatories, the European Extremely Large Telescope, which is under construction in the Atacama desert, and the James Webb Space Telescope, Nasa\u2019s new infrared observatory, which is due to launch in 2018. Once they are in operation, astronomers can begin the search for biological activity on the planets. \u201cThat\u2019s a giant step in the search for life in the universe,\u201d said Julien de Wit, a co-author on the study at MIT.",
+  "webTitle": "Could these newly-discovered planets orbiting an ultracool dwarf host life?",
+  "webPublicationDate": "2016-05-02T15:00:28Z",
+  "webUrl": "https://www.theguardian.com/science/2016/may/02/could-these-newly-discovered-planets-orbiting-an-ultracool-dwarf-host-life",
+  "keyword": [
+    {
+      "webTitle": "Astronomy",
+      "id": "science/astronomy",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Alien life",
+      "id": "science/alien-life",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Space",
+      "id": "science/space",
+      "sectionId": "science",
+      "sectionName": "Science"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ian Sample",
+      "id": "profile/iansample"
+    }
+  ],
+  "guardianId": "science/2016/may/02/could-these-newly-discovered-planets-orbiting-an-ultracool-dwarf-host-life"
+}

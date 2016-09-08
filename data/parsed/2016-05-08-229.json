@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/australia-news/2016/may/08/election-2016-the-numbers-that-matter",
+  "id": "2016-05-08-229",
+  "sectionId": "australia-news",
+  "body": "How many seats do the parties start with? At the 2013 federal election, the Liberal/National Coalition won 90 seats, Labor won 55 seats, and independents and minor parties won five seats. These five crossbench MPs are Adam Bandt, Bob Katter, Cathy McGowan, Clive Palmer and Andrew Wilkie.   Related: Malcolm Turnbull expected to start longest election campaign since 1960s    There have been redistributions in New South Wales, Western Australia and the ACT since 2013. A Labor seat was abolished in New South Wales and a Liberal seat was created in Western Australia, while three other Liberal seats in New South Wales have become notionally Labor. This has the net effect of giving Labor two extra seats at the expense of the Liberal Party. In Queensland, Clive Palmer has announced he won\u2019t contest his seat of Fairfax. The Liberal National party won 61.7% of the two-party- preferred vote against Labor in Fairfax, so in the absence of Palmer this seat should be treated as a Coalition seat. So with these adjustments, we can make an assumption that the parties enter the election with the following number of seats: \u2022 89 \u2013 Coalition \u2022 57 \u2013 Labor \u2022 1 \u2013 Greens \u2022 1 \u2013 Katter\u2019s Australian Party \u2022 2 \u2013 Independent   Related: Truth the first casualty as Coalition and Labor give in to tug of class war | Lenore Taylor    How many seats need to change hands for the government to lose power? Seventy-six seats are needed for a majority in the House of Representatives. If the Coalition loses fourteen seats, they will lose their majority. If Labor gains nineteen seats, they will gain their own majority. If the number of seats changing hands falls somewhere in the middle, we will have a hung parliament, and government will be decided by the crossbench MPs. What swing is needed for this to happen? You\u2019ll hear a lot about the \u201cuniform swing\u201d. This refers to what would happen if the swing were the same in every seat across the country. You can understand what a uniform swing would look like by reading the electoral pendulum, which orders electorates by margin of victory. A uniform swing of 3.4% would see the Coalition lose its majority. A uniform swing of 4% would see Labor win a majority. Is it really that simple? No, it\u2019s not. While seats often have similar swings, they don\u2019t all have the same swing \u2013 we may see seats change hands in different directions, or seats on much larger margins fall while seats on smaller margins stay still. Theoretically, variations in swings should cancel each other out. A uniform swing of 4% should see Labor gain roughly nineteen seats off the Coalition, but they may not be the same seats as the pendulum suggests. Unfortunately this theory doesn\u2019t always work. The Coalition could see smaller swings in many of its marginal seats, due to the presence of first-term MPs who benefit from a new personal vote. This effect is called the \u201csophomore surge\u201d, and it could mean Labor needs to gain a slightly larger swing to win a majority.   Related: One year in, Richard Di Natale faces first verdict on Greens' new pragmatism    What about the crossbench? The Greens are targeting a number of seats, mostly held by Labor and mostly in inner city Melbourne and Sydney. The Nick Xenophon Team is targeting a number of seats in South Australia, all held by the Liberal Party. In addition to sitting independents Cathy McGowan and Andrew Wilkie, Tony Windsor is running a high profile campaign against the Nationals in New England. For every seat a major party loses to a minor party or independent, they are one seat further away from a majority. If the size of the crossbench grows, the chance of a hung parliament increases, since it is harder for either major party to win a majority.",
+  "webTitle": "Election 2016: the numbers that matter | Ben Raue",
+  "webPublicationDate": "2016-05-08T00:35:44Z",
+  "webUrl": "https://www.theguardian.com/australia-news/2016/may/08/election-2016-the-numbers-that-matter",
+  "keyword": [
+    {
+      "webTitle": "Australian election 2016",
+      "id": "australia-news/australian-election-2016",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australian politics",
+      "id": "australia-news/australian-politics",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Liberal party",
+      "id": "australia-news/liberal-party",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Liberal National party",
+      "id": "australia-news/liberal-national-party",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Coalition",
+      "id": "australia-news/coalition",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Labor party",
+      "id": "australia-news/labor-party",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ben Raue",
+      "id": "profile/ben-raue"
+    }
+  ],
+  "guardianId": "australia-news/2016/may/08/election-2016-the-numbers-that-matter"
+}

@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/19/premier-league-2015-16-review-season-awards",
+  "id": "2016-05-19-269",
+  "sectionId": "football",
+  "body": "Player of the season   g   Manager of the season   g   Goal of the season   g   Match of the season   g   Signing of the season   g   Flop of the season   g   Gripe of the season   g   Innovation for the future   g   Pundit of the season   g   Referee of the season   g",
+  "webTitle": "Premier League 2015-16 review: your end-of-season awards",
+  "webPublicationDate": "2016-05-19T09:11:27Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/19/premier-league-2015-16-review-season-awards",
+  "keyword": [
+    {
+      "webTitle": "Premier League",
+      "id": "football/premierleague",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian readers",
+      "id": "profile/guardian-readers"
+    }
+  ],
+  "guardianId": "football/2016/may/19/premier-league-2015-16-review-season-awards"
+}

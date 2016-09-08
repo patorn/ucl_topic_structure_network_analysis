@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/lifeandstyle/2016/may/10/budweiser-rebrands-america-us-election",
+  "id": "2016-05-10-117",
+  "sectionId": "lifeandstyle",
+  "body": "Budweiser has one-upped Donald Trump\u2019s promise to make America great again by making America beer. Beginning later this month, the script that usually reads \u201cBudweiser\u201d on the brewing company\u2019s cans and bottle labels will read \u201cAmerica\u201d. The label change will stay in effect through to the election in November. Budweiser regularly redesigns its logo along patriotic themes to coincide with major sporting events, often around Olympic Games hosted stateside, but this is the first time the company has effectively changed the name of its flagship product. In a press release, the brewery mentioned several upcoming events, notably the Olympics taking place elsewhere in the Americas this summer \u2013 Rio de Janeiro, Brazil \u2013 and of course the deeply contentious US election itself.  The change is US-centric to the core, though. The label\u2019s typeface will stay the same, but the words will change: \u201cAmerica\u201d for \u201cBudweiser,\u201d \u201ce pluribus unum\u201d (out of many, one, the motto of the US) for \u201cThe King of Beers,\u201d and where the lager\u2019s label usually contains boilerplate extolling the virtues of its \u201cexclusive Beechwood Aging\u201d, the lyrics to The Star-Spangled Banner. Lyrics to Woody Guthrie\u2019s This Land Is Your Land and text from the Pledge of Allegiance also appear on the can. Guthrie\u2019s estate were nonplussed by the news. \u201cThis is the first time we have heard about it,\u201d said a representative. A spokesperson for Anheuser-Busch InBev, the Belgian conglomerate that owns Budweieser, confirmed to advertising trade AdAge on Tuesday that the label change would affect 12-ounce cans and bottles. The rebrand will be complete, meaning that the only beer that won\u2019t bear the name America will be beer packaged before or after the promotion.  \u201cWe are embarking on what should be the most patriotic summer that this generation has ever seen, with Copa America Centenario being held on US soil for the first time, Team USA competing at the Rio 2016 Olympic and Paralympic Games,\u201d said Ricardo Marques, vice-president of Budweiser, in a press release. \u201cBudweiser has always strived to embody America in a bottle.\u201d Advertising agency Jones Knowles Ritchie, which redesigned Budweiser\u2019s packaging most recently, handled the change.",
+  "webTitle": "Budweiser rebrands as 'America' in lead-up to US election",
+  "webPublicationDate": "2016-05-10T15:54:03Z",
+  "webUrl": "https://www.theguardian.com/lifeandstyle/2016/may/10/budweiser-rebrands-america-us-election",
+  "keyword": [
+    {
+      "webTitle": "Beer",
+      "id": "lifeandstyle/beer",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Food & drink",
+      "id": "lifeandstyle/food-and-drink",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Donald Trump",
+      "id": "us-news/donaldtrump",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Sam Thielman",
+      "id": "profile/sam-thielman"
+    }
+  ],
+  "guardianId": "lifeandstyle/2016/may/10/budweiser-rebrands-america-us-election"
+}

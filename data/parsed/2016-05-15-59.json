@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/15/police-chiefs-struggling-recruit-armed-officers-conviction-fears",
+  "id": "2016-05-15-59",
+  "sectionId": "uk-news",
+  "body": "Police chiefs are struggling to recruit enough officers willing to carry a gun to tackle a Paris-style terror attack, because they fear they will be treated as criminal suspects if they use their weapon in the line of duty, the country\u2019s top firearms officer has warned. Deputy chief constable Simon Chesterman said potential recruits were being deterred because of fears they could spend years under investigation after a decision to fire on a suspect. After November\u2019s terrorist gun and bomb attacks on Paris, senior security officials believe Britain needs an extra 1,500 armed officers. But because half won\u2019t make it through rigorous training and selection, police chiefs need 3,000 volunteers to come forward. Chesterman, the national lead for firearms, said: \u201cWe might have a challenge attracting the right number of volunteers and retaining the people we have got.\u201d He added: \u201cIt is not a crisis but it might become one.\u201d A representative of firearms officers in England and Wales has warned that in the event of a determined terrorist gun attack targeting civilians such as that carried out in the French capital six months ago, significant parts of Britain would be left vulnerable. Che Donald of the Police Federation, who represents the current 5,647 firearms officers, said while major cities such as London had sufficient cover, other large towns and cities did not. \u201cCurrently there are not enough firearms officers who could deal with an incident in quite a lot of areas of Britain.\u201d Britain\u2019s police are largely unarmed and officers need to volunteer to carry a gun. British police chiefs devised new strategies after the November attacks in Paris, which they viewed as a \u201cgame changer\u201d because the terrorists used new tactics and displayed greater capability to kill on western territory than previously thought. Key among the new plans was the need to deploy armed police officers, faster and in greater numbers than before in the event of an attack. The theory is that it would take a minimum of three armed officers to confront and neutralise one armed terrorist. Assessments after Paris suggest the loss of life was limited to 130 people because the French police, who are routinely armed, could get officers carrying guns onto the streets far faster than the British state can. This need to boost numbers coincided with increased disaffection among firearms officers, caused by several factors. Chesterman and Donald say firearms officers were rocked by the arrest in December 2015 of a police officer on suspicion of murder. The officer known as W80 was arrested by the Independent Police Complaints Commission after a suspect, Jermaine Baker, was shot dead in December in Wood Green, north London. Baker was thought by police to be part of a plot to spring a prisoner from custody. He was shot while sat in the front passenger seat of a car. An imitation firearm was found in the back of the car, on the floor. Donald said the arrest caused anger. \u201cIt had a huge effect. It sent shockwaves through the entire armed policing community.\u201d Chesterman added: \u201cMorale among firearms officers is poor. They are more than prepared to put themselves in harm\u2019s way to protect the public. What they are worried about, in the event they have to use lethal force, is that they make a split-second decision and are pulled apart for up to 10 years.\u201d He said the anger among firearms officers, at a time when they were needed more than ever to face down a potential terrorist attack, had led the prime minister to order a review of the laws covering armed officers. David Cameron\u2019s review was \u201creassuring\u201d and \u201cvery welcome\u201d and stopped the disaffection among armed officers worsening, said Chesterman. He said: \u201cNo one is looking for immunity, but they want to be treated as professional witnesses and not as suspects, unless there is evidence.\u201d Officers are also angered by IPCC plans to toughen up measures after any shooting. The plans being considered by the home secretary would mean that officers are separated after a shooting, stopped from conferring while making statements, and required to give detailed accounts straight after an incident. Chesterman \u201cThere are things in the background that, if we don\u2019t get them right, will put people off.\u201d Deborah Coles of Inquest, which has supported families whose loved ones have died after police shootings, said officers should face tougher rules. Recent killings include the innocent Jean Charles de Menezes, mistaken for a terrorist in 2005, and Mark Duggan, who was shot in 2011 after an officer thought he was holding a gun, which an inquest jury concluded he had tossed away earlier.  In both cases police use of deadly force was found to be lawful. Under the laws on self-defence, officers need to show they have an \u201chonest belief\u201d that a suspect poses a lethal threat. Coles said: \u201cThe lack of immediate separation and conferring by police following shootings and other deaths involving use of force has undermined family, community and public confidence with concerns about risks of collusion or contamination of evidence. \u201cThe police hold a monopoly on the use of force on behalf of the state and this comes with a requirement to justify the fatal use of force in a transparent manner. The rule of law must apply equally to police officers. Police resistance to the new proposals will further erode public confidence.\u201d Some in policing believe the law should be changed to further protect armed officers, but Chesterman\u2019s view is that it does not need to, although the procedures could be improved: \u201cThere should be a rebuttable presumption they have done nothing wrong, unless the evidence shows otherwise.\u201d London is seen as the most likely target for a terrorist attack, and the Metropolitan police are on course to recruit 300 of the 600 extra armed officers they want. UK military special forces units such as the Special Air Service and Special Boat Service are on standby and response times have been cut to less than an hour, but armed police officers are expected to be the first to confront any attackers. After the Paris attacks, a special squad of counter-terrorism specialist firearms officers has been increased in number and is now organised in four hubs around Britain, as well as a squad covering London. Donald said: \u201cThe challenge is is going to be quick mobilisation and getting resources to where they are needed in sufficient numbers.\u201d",
+  "webTitle": "Police chiefs struggling to recruit armed officers over conviction fears",
+  "webPublicationDate": "2016-05-15T17:37:21Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/15/police-chiefs-struggling-recruit-armed-officers-conviction-fears",
+  "keyword": [
+    {
+      "webTitle": "Police",
+      "id": "uk/police",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Gun crime",
+      "id": "world/gun-crime",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Crime",
+      "id": "uk/ukcrime",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Mark Duggan",
+      "id": "uk/mark-duggan",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Jean Charles de Menezes",
+      "id": "uk/menezes",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Vikram Dodd",
+      "id": "profile/vikramdodd"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/15/police-chiefs-struggling-recruit-armed-officers-conviction-fears"
+}

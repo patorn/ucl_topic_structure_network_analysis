@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/education/2016/may/06/university-students-across-london-take-part-in-rent-strike",
+  "id": "2016-05-06-328",
+  "sectionId": "education",
+  "body": "More than 1,000 students across London are taking part in a rent strike, withholding in excess of \u00a31m from their universities.  The rents are a form of \u201csocial cleansing\u201d in the capital that exclude poorer students, they claim. Organisers say the strike is the largest of its kind by students. The National Union of Students is backing the strike and calling on universities to provide affordable accommodation and ensure fair access for every student. They say that London students involved in the action will be touring campuses around the UK next term so that other students can hear from them and consider similar campaigns. Students from four universities are taking part in the current strike: University College London (UCL), Goldsmiths, Roehampton and the Courtauld Institute. A Cut the Rent campaign has been launched. All the students refusing to pay their rent risk eviction from their accommodation. The rent payment deadline at Goldsmiths, where approximately 300 students have pledged to withhold rent, was Monday of this week. The deadline at UCL is Friday and more than 700 students there have pledged to withhold rent. Dozens of students at Roehampton and Courtauld Institute are also withholding payments. Students have complained not only about unaffordable rents but also about poor quality accommodation. Last year UCL paid out \u00a3400,000 in compensation to students for rat infestations and noise pollution. A UCL spokesperson admitted there had been some problems with the quality of accommodation and said that surpluses generated from student rents were being spent on improvements. Students have complained about the rent increase since 2010. The UCL spokesman admitted that rents have risen by more than 40% since 2010 but said this was below market-level increases across the capital. He rejected the demand to cut rents by 40%, saying it would make accommodation provision unsustainable for the university. Anabel Bennett, a UCL student and Cut the Rent spokeswoman, called on her university to enter serious negotiations with students and meet their demands for an immediate rent cut. Joe, a student at Goldsmiths, said: \u201cThree hundred students at Goldsmiths are on strike because of impossible rents and unacceptable conditions in halls. Many are increasingly being put off studying in London because rental costs are just too high. We believe universities, wherever they are, have a duty to make sure money isn\u2019t a barrier to education.\u201d One lecturer at Goldsmiths, who asked not to be named, warned that the high cost of student rents in London was having an alarming impact. \u201cThis issue is infecting every aspect of student life,\u201d she said. \u201cStudents who qualify for maximum student loans are working two or three jobs, some up to 40 hours per week. They are not showing up for lectures, especially in the mornings, and we have lecture rooms half-empty. Some have been working in catering industry jobs until around 5am and are simply too exhausted to study. The whole thing is affecting our capacity to teach.\u201d Shelly Asquith, NUS vice-president with responsibility for welfare, said: \u201cNUS fully supports the actions of the students on rent strike and the wider campaign for fair rents. If a national rent strike for affordable student housing were to happen, the union would support it 100%.\u201d The UCL spokesperson said: \u201cThe cost of living in London is a challenge for the university as a whole.\u201d  He added that 30% of UCL rents are being reduced by a small percentage or frozen at current rates for 2016-17. A Goldsmiths spokesperson said the university tries to keep rents as low as possible, has some of the lowest student rents in London and is freezing rents on more than 100 rooms for the next academic year.",
+  "webTitle": "University students across London take part in rent strike",
+  "webPublicationDate": "2016-05-06T06:00:17Z",
+  "webUrl": "https://www.theguardian.com/education/2016/may/06/university-students-across-london-take-part-in-rent-strike",
+  "keyword": [
+    {
+      "webTitle": "Student housing",
+      "id": "education/studenthousing",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Students",
+      "id": "education/students",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Higher education",
+      "id": "education/higher-education",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Education",
+      "id": "education/education",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "London",
+      "id": "uk/london",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Goldsmiths, University of London",
+      "id": "education/goldsmiths",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "UCL (University College London)",
+      "id": "education/universitycollegelondon",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Roehampton University",
+      "id": "education/roehamptonuniversity",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "The Courtauld Institute of Art",
+      "id": "education/courtauldinstitute",
+      "sectionId": "education",
+      "sectionName": "Education"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Diane Taylor",
+      "id": "profile/dianetaylor"
+    }
+  ],
+  "guardianId": "education/2016/may/06/university-students-across-london-take-part-in-rent-strike"
+}

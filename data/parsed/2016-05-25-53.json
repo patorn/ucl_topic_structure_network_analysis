@@ -1,0 +1,84 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/25/eu-officials-hail-deal-bailout-loans-greece-climbdown-imf-greek-unions-strikes",
+  "id": "2016-05-25-53",
+  "sectionId": "world",
+  "body": "European officials have hailed a late night deal to unlock \u20ac10.3bn (\u00a37.8bn) of much needed bailout cash for Greece as a major breakthrough. However, in Athens unions threatened further strikes in protest aagainst the contentious pension and tax reforms which paved the way for the agreement to be reached.   Related: Eurozone unlocks \u20ac10.3bn bailout loan for Greece    After an 11-hour meeting in Brussels which ended in the early hours of Wednesday morning, eurozone finance ministers agreed to release two tranches of funds, \u20ac7.5bn in June and \u20ac2.8bn in September, and to implement measures to ease Greece\u2019s \u20ac321bn debt mountain in a number of stages. But the agreement represented a climbdown for the International Monetary Fund. It had wanted \u201cupfront and unconditional\u201d debt relief, something Germany successfully argued against. The Eurogroup president, Jeroen Dijsselbloem, said the agreement was a major breakthrough, while the Greek finance minister, Euclid Tsakalotos, said it would help end the country\u2019s vicious circle of austerity and recession. The IMF admitted it had made a significant concession in an effort to remain in the bailout process. But debt campaigners criticised the lack of progress on debt relief and called for a significant cancellation of Greece\u2019s liabilities. Ratings agencies Moody\u2019s and Fitch, while welcoming the news, warned of the problems Greece faced in implementing the proposed reforms. Markets reacted well to the deal, which could pave the way for the European Central Bank to start buying Greek debt once more as part of its quantitative easing programme. Greek two-year bond yields fell 100 basis points to 7.2%, having earlier dropped to 6.77%, the lowest for six months.  Germany\u2019s Dax added 1.47%, while Italy\u2019s FTSE MIB rose 1.66% and Spain\u2019s Ibex ended 2.3% higher.  But the Athens stock market closed virtually unchanged after earlier climbing 1.5%, as the threat of further strikes unsettled investors.",
+  "webTitle": "EU officials hail deal to release billions in bailout loans for Greece",
+  "webPublicationDate": "2016-05-25T18:05:32Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/25/eu-officials-hail-deal-bailout-loans-greece-climbdown-imf-greek-unions-strikes",
+  "keyword": [
+    {
+      "webTitle": "Greece",
+      "id": "world/greece",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Eurozone crisis",
+      "id": "business/debt-crisis",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "International Monetary Fund (IMF)",
+      "id": "business/imf",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Banking",
+      "id": "business/banking",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Euro",
+      "id": "business/euro",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "European Central Bank",
+      "id": "business/european-central-bank",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "European banks",
+      "id": "business/europeanbanks",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Financial sector",
+      "id": "business/financial-sector",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Nick Fletcher",
+      "id": "profile/nickfletcher"
+    }
+  ],
+  "guardianId": "world/2016/may/25/eu-officials-hail-deal-bailout-loans-greece-climbdown-imf-greek-unions-strikes"
+}

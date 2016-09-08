@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/science/2016/may/19/scientists-sniff-out-genes-controlling-human-nose-shapes",
+  "id": "2016-05-19-273",
+  "sectionId": "science",
+  "body": "A collection of genes that underpin the shape of the human nose have been discovered in a study into our facial features. Scientists scanned the genomes of around 6,000 individuals to unpick why some people have narrow, pointy noses, while others have broad bridges or wide nostrils. The upshot was the discovery of four genes which are involved in controlling the shape of our nasal apparatus, with another gene found to affect how much the chin juts out. The findings, the researchers believe, will offer new insights into our past. \u201cThe main idea has been to try to identify these genes in order to look at evolutionary questions - to what extent the evolution of these traits is adaptive or not, and to what extent they can reflect population history,\u201d said Andr\u00e9s Ruiz-Linares, professor of human genetics at University College London who led the study. The researchers also believe the work could provide insights into developmental defects and even help forensic experts produce more accurate facial reconstructions of suspected criminals.    Related: Faces are sculpted by 'junk DNA'    But not everyone is convinced. The genetic variations linked to the separate traits were each found to be responsible for only around 1% of the variation seen in the population, suggesting that there are many more genes at play. \u201cMany more of those need to be identified in much larger sized studies and replicated in independent samples before one can think of using them to predict facial features from DNA,\u201d said Manfred Kayser head of the Department of Genetic Identification at Erasmus University Rotterdam. Published in the journal Nature Communications, the study used DNA samples and photographs of 5,958 participants, all from Latin American countries. The authors explained that as Native American, European and African ancestry are all present in Latin American populations, the cohort provides the perfect opportunity to explore facial diversity. \u201cEuropeans are characterised by narrow, prominent pointy noses while Native Americans tend to have flatter, wider noses,\u201d said Ruiz-Linares. First, participants\u2019 photographs were looked over, and 14 different attributes - including the width of the nose bridge, the protrusion of the nose and the shape of the nose tip - rated on a three-point scale. Next, seven facial features of around half the participants were more precisely measured from 3D computer models. In each approach, the participants\u2019 genetic information was scrutinised for correlations with the traits being assessed. The study revealed that variations in a gene known as EDAR influence the jut of the chin. Intriguingly, this gene has previously been found to influence a range of physical features including earlobe size, beard thickness and whether an individual has straight hair.   Related: Leave me your DNA \u2026 and I'll 3D-print your face | Eleonore Pauwels    Meanwhile, nose shape was found to be influenced by a handful of genes. Overall, two genes, GLI3 and PAX1, were linked to nostril breadth, while a gene called RUNX2 affected the width of the nose bridge. The gene DCHS2 was found to influence how far the nose sticks out, whether it is upturned and the angle of the tip - in other words the pointiness of the nose. The findings, say Ruiz-Linares, make sense. \u201cIt is very well know that these genes are involved in bone and cartilage synthesis and craniofacial development,\u201d he said. One theory suggests diversity in nose shape among humans exists thanks to selection pressures from the environment. \u201cThe classical proposal is that it has to do with adjusting the temperature and humidity of the air that you breathe - so the idea is that in a colder climate it is adaptive to have a more narrow nose,\u201d said Ruiz-Linares. Such noses, typical among Europeans, are thought to be better able to warm the air as it is breathed in and increase its moisture levels, he added. What\u2019s more, three of the genes linked to nose shape are known to show differences in modern humans compared to our extinct relatives, the Neanderthals and Denisovans, the authors reveal. That suggests that these genes could be involved in differences in facial appearance between us and our archaic cousins, they say.   \u201cWorking out the genetic basis of the traits should help us look at evolution in general,\u201d said Ruiz-Linares.",
+  "webTitle": "Scientists sniff out genes controlling human nose shapes",
+  "webPublicationDate": "2016-05-19T09:00:04Z",
+  "webUrl": "https://www.theguardian.com/science/2016/may/19/scientists-sniff-out-genes-controlling-human-nose-shapes",
+  "keyword": [
+    {
+      "webTitle": "Genetics",
+      "id": "science/genetics",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Evolution",
+      "id": "science/evolution",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Biology",
+      "id": "science/biology",
+      "sectionId": "science",
+      "sectionName": "Science"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Nicola Davis",
+      "id": "profile/nicola-davis"
+    }
+  ],
+  "guardianId": "science/2016/may/19/scientists-sniff-out-genes-controlling-human-nose-shapes"
+}

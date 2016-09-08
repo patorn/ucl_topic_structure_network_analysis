@@ -1,0 +1,61 @@
+{
+  "apiUrl": "https://content.guardianapis.com/healthcare-network/2016/may/04/healthcare-professionals-paid-drugs-companies-poll",
+  "id": "2016-05-04-256",
+  "sectionId": "healthcare-network",
+  "body": "Pharmaceutical firms give around \u00a340m a year to healthcare professionals in payments, gifts and hospitality. This year, for the first time, details of their payments to UK healthcare professionals are to be published.    Related: The Sunshine rule: a quick guide    A Guardian Healthcare Professionals Network seminar will today discuss the increasing openness about the relationships between the drugs industry and healthcare professionals. Ahead of the event, please take part in our poll and join the conversation in the comments section below.",
+  "webTitle": "Should we know if healthcare professionals are being paid by drugs companies? \u2013 poll",
+  "webPublicationDate": "2016-05-04T10:05:18Z",
+  "webUrl": "https://www.theguardian.com/healthcare-network/2016/may/04/healthcare-professionals-paid-drugs-companies-poll",
+  "keyword": [
+    {
+      "webTitle": "Healthcare Network",
+      "id": "healthcare-network/healthcare-network",
+      "sectionId": "healthcare-network",
+      "sectionName": "Healthcare Professionals Network"
+    },
+    {
+      "webTitle": "Workforce",
+      "id": "healthcare-network/workforce",
+      "sectionId": "healthcare-network",
+      "sectionName": "Healthcare Professionals Network"
+    },
+    {
+      "webTitle": "Work practices",
+      "id": "healthcare-network/work-practices",
+      "sectionId": "healthcare-network",
+      "sectionName": "Healthcare Professionals Network"
+    },
+    {
+      "webTitle": "NHS",
+      "id": "society/nhs",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Pharmaceuticals industry",
+      "id": "business/pharmaceuticals-industry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [],
+  "guardianId": "healthcare-network/2016/may/04/healthcare-professionals-paid-drugs-companies-poll"
+}

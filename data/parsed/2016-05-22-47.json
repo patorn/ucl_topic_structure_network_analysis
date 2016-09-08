@@ -1,0 +1,109 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/22/from-local-politics-to-international-relations",
+  "id": "2016-05-22-47",
+  "sectionId": "politics",
+  "body": "It might well be that politics would run a bit better if politicians thrust into the Whitehall limelight had previous experience of running something (Editorial, 21 May). New Labour might well have understood better how to actually change things if Tony Blair had run a city administration beforehand, for example. EP Thompson, in his essay Homage to Tom Maguire, made the point that the labour movement in the later 19th century was built precisely not in London trade union HQs but in those \u201cshadowy parts\u201d known as the provinces where leaders had to prove themselves in practice to win support and power.Keith FlettLondon \u2022 Martin Rowson\u2019s apposite cartoon satirising the campaigns of both sides in the EU debate (23 May) reminds me of the slogan used by the yes campaign to win in 1975: \u201cJobs for the boys\u201d, accompanied by a photo of nice young males. I know of no evidence that membership of the EU provides much work for young people and have since wondered whether this campaign was a tongue-in-cheek reference to the rich pickings for politicians at Brussels and Strasbourg?Michael BathRochester \u2022 Perhaps it\u2019s the million extra women in employment since 2009 who have \u201ctaken our jobs\u201d, not the migrants after all (Employment rises to new high as women wait for retirement, 19 May). What will happen when both men and women can\u2019t retire till 67, I wonder?Louise LewisLondon \u2022 So the chancellor thinks a fall in house prices is bad news (House prices face 18% hit if Britain quits EU \u2013 Osborne, 21 May)? Watch out, George, you risk alienating the very group most likely to vote remain!Sheila HutchinsTregony, Cornwall \u2022 Annual NHS deficit = \u00a32.4bn (Report, 21 May). Annual cost of useless Trident weapons of mass destruction = \u00a32.4bn. Solution = somewhat obvious.Philip GilliganLittleborough, Greater Manchester \u2022 Join the debate \u2013 email guardian.letters@theguardian.com",
+  "webTitle": "From local politics to international relations | Brief letters",
+  "webPublicationDate": "2016-05-22T18:48:44Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/22/from-local-politics-to-international-relations",
+  "keyword": [
+    {
+      "webTitle": "Local politics",
+      "id": "politics/localgovernment",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Local government",
+      "id": "society/localgovernment",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Tony Blair",
+      "id": "politics/tonyblair",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "UK unemployment and employment statistics",
+      "id": "business/uk-unemployment-and-employment-statistics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Retirement age",
+      "id": "money/retirement-age",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Work & careers",
+      "id": "money/work-and-careers",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "House prices",
+      "id": "money/houseprices",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "George Osborne",
+      "id": "politics/georgeosborne",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "NHS",
+      "id": "society/nhs",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Trident",
+      "id": "uk/trident",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [],
+  "guardianId": "politics/2016/may/22/from-local-politics-to-international-relations"
+}

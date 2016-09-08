@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/science/life-and-physics/2016/may/04/climate-change-chaos-and-inexact-computing",
+  "id": "2016-05-04-147",
+  "sectionId": "science",
+  "body": "The May 2016 Perimeter Institute public lecture is this evening. Tim Palmer of Oxford University will take about climate change, and the computational techniques used to evaluate the predictability and dynamics of weather and climate. The lecture will be followed by a question-and-answer session, and a recording will appear here one the live broadcast has finished.",
+  "webTitle": "Climate change, chaos and inexact computing",
+  "webPublicationDate": "2016-05-04T14:37:27Z",
+  "webUrl": "https://www.theguardian.com/science/life-and-physics/2016/may/04/climate-change-chaos-and-inexact-computing",
+  "keyword": [
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Climate change",
+      "id": "environment/climate-change",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Computing",
+      "id": "technology/computing",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Physics",
+      "id": "science/physics",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jon Butterworth",
+      "id": "profile/jon-butterworth"
+    }
+  ],
+  "guardianId": "science/life-and-physics/2016/may/04/climate-change-chaos-and-inexact-computing"
+}

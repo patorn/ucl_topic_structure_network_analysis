@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/01/heaven-knows-what-review-arielle-holmes",
+  "id": "2016-05-01-176",
+  "sectionId": "film",
+  "body": "There\u2019s an acrid authenticity to this portrait of the lives of homeless junkies in New York that seeps, pore-deep, into the viewer. Based on the memoirs of Arielle Holmes, who plays a loosely fictionalised version of herself, the film employs the tools of documentary \u2013 long-lens shots, hand-held camera \u2013 to effectively evoke the grubby desperation of street subsistence. The directors, Joshua and Ben Safdie, have largely cast from among the addict and street community in this story of the destructive love between Holmes\u2019s character, Harley, and her boyfriend Ilya (Caleb Landry Jones, one of the few professional actors in the film). It\u2019s a love which feels closer to addiction than any real emotional connection, and which leads Harley to attempt suicide early in the story. The film shares a milieu with Larry Clark\u2019s Kids, but bypasses the initial seductive outlaw glamour of heroin in favour of plunging into the jarring chaos of addict life. It\u2019s a tough, frequently unpleasant watch. A score of jabbing electronica tips the audience off kilter and the characters are not easy people to care about. The attrition of addiction has worn away their personalities, leaving just a gaping, unlovely need.         Watch the trailer for Heaven Knows What.",
+  "webTitle": "Heaven Knows What review \u2013 a glamour-free tale of addiction",
+  "webPublicationDate": "2016-05-01T07:00:48Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/01/heaven-knows-what-review-arielle-holmes",
+  "keyword": [
+    {
+      "webTitle": "Drama",
+      "id": "film/drama",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Wendy Ide",
+      "id": "profile/wendy-ide"
+    }
+  ],
+  "guardianId": "film/2016/may/01/heaven-knows-what-review-arielle-holmes"
+}

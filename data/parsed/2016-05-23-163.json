@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/23/tom-brady-deflategate-appeal-suspension-nfl",
+  "id": "2016-05-23-163",
+  "sectionId": "sport",
+  "body": "Deflategate, the long-running and increasingly tedious saga that has seen Tom Brady suspended for the start of the coming season, will rumble on a little longer after the New England Patriots quarterback announced he will take his case to the second US circuit court of appeals.  \u201cThe facts here are so drastic and so apparent that the court should rehear it,\u201d Theodore B Olson, who is representing Brady on behalf of the NFL Players Association, told ABC\u2019s Good Morning America. Seven of the 13 judges on the second US circuit court of appeals panel would have to agree a hearing is justified for Brady\u2019s case to go ahead. The quarterback can take his appeal to the US supreme court if the current bid fails.   Related: The NFL and Tom Brady need to cut a deal and kill Deflategate for good | Les Carpenter     Brady has a powerful ally in Olson. The attorney has argued 62 cases in the supreme court \u2013 including the two Bush v Gore cases that arose from the 2000 presidential election \u2013 and has won 75% of his cases.  In April, the second US circuit court of appeals upheld NFL commissioner Roger Goodell\u2019s decision to suspend Brady for four games. The league had ruled that footballs had been tampered with during the Patriots\u2019 45-7 victory over the Colts in the January 2015 AFC Championship game, and Brady was likely to have played a part in the incident.  \u201cOur two primary arguments are that the commissioner in the first place conducted an investigation and then the commissioner imposed discipline,\u201d Olson told ABC. \u201cThen the commissioner appointed himself as an appellate judge or an arbitrator and then decided something new in the appellate process, abandoning the grounds that were the original basis for the supposed discipline.  \u201cThat\u2019s No1, and an appellate judge is supposed to look at the record and make a decision on the basis of what happened before. He departed from what happened before. Secondly he ignored important provisions of the CBA about discipline that might be imposed for equipment violations. He departed from that completely and went off the track.\u201d  Brady is set to miss games against the Arizona Cardinals, Buffalo Bills, Miami Dolphins and Houston Texans at the start of the new season. The Patriots were also fined $1m and docked a first-round draft pick in this year\u2019s draft over the Deflategate scandal.",
+  "webTitle": "Tom Brady will take Deflategate suspension to court of appeals",
+  "webPublicationDate": "2016-05-23T13:41:33Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/23/tom-brady-deflategate-appeal-suspension-nfl",
+  "keyword": [
+    {
+      "webTitle": "Deflategate",
+      "id": "sport/deflategate",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "NFL",
+      "id": "sport/nfl",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "New England Patriots",
+      "id": "sport/new-england-patriots",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Tom Brady",
+      "id": "sport/tom-brady",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "US sports",
+      "id": "sport/us-sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "sport/2016/may/23/tom-brady-deflategate-appeal-suspension-nfl"
+}

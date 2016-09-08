@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/05/pollution-risk-from-over-1000-landfill-sites-england-wales-coastal-erosion",
+  "id": "2016-05-05-230",
+  "sectionId": "environment",
+  "body": "Over 1,000 old landfill sites on the coasts of England and Wales are at increasing risk of being breached by erosion, according to a new study, posing a serious pollution danger to wildlife and bathing waters. Landfill sites before the mid-1990s had few or no restrictions about what rubbish could be dumped in them and little is known about what they contain. But many were on the coast and some were used to raise land levels and even as part of flood defences. Climate change is bringing higher sea levels and stronger storms, putting the old dumps at greater risk of being broken up. The new study, the first of its kind and funded by the Environment Agency, assessed two landfill sites in Essex to find out the level of toxic pollutants in the waste they contained. It found large quantities of harmful metals, such as lead, and polycyclic aromatic hydrocarbons (PAHs), which are carcinogenic. \u201cOur findings show, that in the event of erosion, there would be serious environmental consequences due to the level of contaminants,\u201d said Kate Spencer, an environmental geochemist at Queen Mary University of London, who led the research. \u201cYou would be likely to see significant effects on local animals and plants, from mortality to reductions in fertility. There would also be consequences for bathing waters.\u201d There are 1,264 historic landfill sites in the coastal zone where the risk of flooding has been previously estimated at 1-in-200 years. Of these, 537 are in or near bathing water catchment areas and 406 are in or near sites of special scientific interest. With the predicted increase in sea level, extreme weather events and coastal erosion due to climate change, a national survey of the old landfill sites is urgently needed, said Spencer: \u201cNationally we need a much better inventory of sites that have eroded or are at risk of eroding - that is the priority.\u201d     Historic coastal landfill sites in England and Wales. Photograph: James Brand/Queen Mary University of London    The scientists dug pits to investigate the contents of two sites in Essex: Leigh Marshes landfill, used from 1955-1967, and Hadleigh Marsh Landfill, used from 1980-1987. In the latter, which is used as a flood embankment, the researchers estimated there is 9,250kg of lead, 985kg of PAHs and 125kg of cadmium, among the 77,000 tonnes of waste. The analysis found that all of the Leigh Marsh waste samples and 63% of the Hadleigh Marsh samples contained contaminants at concentrations that are above marine sediment quality guidelines, meaning that damaging effects to wildlife could be expected if the waste were to erode into surrounding wetlands. Spencer warned that conclusions about other sites are hard to draw from these examples: \u201cMany landfills were in use when there were no rules about what went in [so] every landfill is essentially unique and some will prove more risky than others.\u201d Flooding by the sea would expose the dumps to salt water, which the research found was much more effective at leaching pollutants from the rubbish than freshwater. But the team expect this would be less damaging than the landfills being broken up by erosion as the pollutants would be filtered by sediments.  The assessment of the risk posed by old coastal landfills is made more urgent by the fact that some parts of the coast, including Hadleigh Marsh, are being considered for \u201cmanaged retreat\u201d. This is where maintaining defences is not seen as cost-effective and the sea is allowed to flood an area, as happened at Medmerry in West Sussex in 2014.     The old landfill site at East Tilbury in Essex has already been eroded. Photograph: Kate Spender/Queen Mary University of London    The study suggests relocating the waste would be ideal but the costs of this would be so enormous that managed retreat is unlikely where historic landfills are present. An Environment Agency spokeswoman said: \u201cThe risk of these landfills being affected by coastal erosion and rising sea levels remains low for the foreseeable future. This research will ensure ourselves, and local authorities, continue to have robust shoreline plans in place to help tackle any potential risks from erosion in future years.\u201d Essex County Council is responsible for the management and monitoring of the two sites analysed in the new study. Councillor Mick Page said: \u201cThe council and partners have developed the Essex and Suffolk Shoreline Management Plan and, subject to adequate finances being secured, it is the intention to establish survey stations and undertake regular monitoring in the future to inform future management decisions.\u201d Some old landfills have already been breached by erosion, such as one at East Tilbury, which attracted amateur collectors. \u201cThey were rummaging through this 75-year-old waste,\u201d said Spencer. \u201cI exercise caution. I wouldn\u2019t pick the waste up or handle it.\u201d",
+  "webTitle": "Pollution risk from over 1,000 old UK landfill sites due to coastal erosion",
+  "webPublicationDate": "2016-05-05T10:46:27Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/05/pollution-risk-from-over-1000-landfill-sites-england-wales-coastal-erosion",
+  "keyword": [
+    {
+      "webTitle": "Pollution",
+      "id": "environment/pollution",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Flooding",
+      "id": "environment/flooding",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Coastlines",
+      "id": "environment/coastlines",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Waste",
+      "id": "environment/waste",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Oceans",
+      "id": "environment/oceans",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Environment Agency",
+      "id": "environment/environment-agency",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Wales",
+      "id": "uk/wales",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Damian Carrington",
+      "id": "profile/damiancarrington"
+    }
+  ],
+  "guardianId": "environment/2016/may/05/pollution-risk-from-over-1000-landfill-sites-england-wales-coastal-erosion"
+}

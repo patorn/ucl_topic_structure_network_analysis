@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/27/medics-civilians-flee-northern-aleppo-surprise-isis-attack-syria",
+  "id": "2016-05-27-121",
+  "sectionId": "world",
+  "body": "Islamic State militants have launched a surprise offensive on Syrian rebel forces near the Turkish border in northern Aleppo province, prompting the evacuation of medical facilities and the fleeing of civilians from the area. The attack comes as the terror group faces renewed pressure on multiple fronts \u2013 especially by US-backed Kurdish and Arab fighters near its de facto capital of Raqqa and a concerted offensive aimed at retaking the Isis-controlled city of Falluja in Iraq. Isis said in a statement circulated online that it launched the offensive on Thursday night after intelligence pointed to an impending assault by US-backed rebel factions in northern Aleppo. It said it had taken control of a series of villages in the area and killed 33 opposition fighters and captured 10 others. Isis has now drawn much closer to Azaz and Marea, two strategic rebel-controlled towns that it has long sought to reconquer after being evicted from them two years ago. The towns are key lifelines for the rebels in Aleppo that allow the arrival of aid from Turkey. The attack also threatens to worsen the humanitarian crisis in the area. Up to 100,000 civilians are trapped in the region near the Turkish border, many of them having fled punishing aerial campaigns during a government offensive in the province earlier this month and intensified savage fighting after the near-collapse of peace talks brokered by the US and Russia.   Syria map   The international charity M\u00e9decins sans Fronti\u00e8res said it had evacuated its medical facility in the northern Syrian town of al-Salamah near Azaz, now just under two miles from the Isis frontline. \u201cWe are terribly concerned about the fate of our hospital and our patients, and about the estimated 100,000 people trapped between the Turkish border and active frontlines,\u201d said Pablo Marco, MSF Middle East operations chief. He added: \u201cFor some months, the frontlines have been around 7km away from the hospital, now it is only 3km from al-Salamah town. There is nowhere for people to flee to as the fighting gets closer.\u201d   Related: Syria's civil war: five years of Guardian reporting    The countryside north of Aleppo is a complex battleground involving mainstream and opposition rebel groups, government troops and Kurdish paramilitaries. Multiple offensives there have sought to cut off the opposition\u2019s supply lines.  Kurdish encroachment has in the past drawn condemnation from Turkey, which sees the Kurds\u2019 aspirations to create an autonomous zone near its border as a threat to national security. Isis has often sought to distract from its defeats on the battlefield by launching offensives elsewhere to confound its enemies. This week, US-backed Kurdish and Arab troops drew closer to its stronghold of Raqqa, with American special forces on the ground reportedly assisting the alliance known as the Syrian Democratic Forces.  In Iraq, the prime minster, Haider al-Abadi, announced an operation to liberate the city of Fallujah, one of the first to fall under Isis control when the jihadis surged into Iraq in 2014. The UN high commissioner for refugees said on Friday that more than 4,200 Iraqis from Mosul fled to Syria in May, adding it is gearing up for up to 50,000 people to leave the Isis-held city and cross the border. The flight of civilians from Mosul to another war zone in Syria comes amid fears of an assault later this year on the city, the most populous territory under the militants\u2019 control and its capital in Iraq.",
+  "webTitle": "Medics and civilians flee northern Aleppo amid surprise Isis attack",
+  "webPublicationDate": "2016-05-27T14:29:13Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/27/medics-civilians-flee-northern-aleppo-surprise-isis-attack-syria",
+  "keyword": [
+    {
+      "webTitle": "Islamic State",
+      "id": "world/isis",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Syria",
+      "id": "world/syria",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Middle East and North Africa",
+      "id": "world/middleeast",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Kareem Shaheen",
+      "id": "profile/kareem-shaheen"
+    }
+  ],
+  "guardianId": "world/2016/may/27/medics-civilians-flee-northern-aleppo-surprise-isis-attack-syria"
+}

@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/04/david-cameron-will-not-retract-criticism-donald-trump",
+  "id": "2016-05-04-44",
+  "sectionId": "politics",
+  "body": "David Cameron has no intention of withdrawing his claim that Donald Trump was \u201cdivisive, stupid and wrong\u201d to call for a ban on Muslims entering the US, Downing Street has said. Despite Trump\u2019s likely confirmation as the Republican presidential candidate, a spokesman for Cameron said the prime minister stood by his comments made in December last year. It comes after George Papadopoulos, an adviser to Trump, told the Times on Wednesday that he thought Cameron should reach out with an apology or some sort of retraction. Asked whether Cameron stuck by the comments, a Downing Street spokesman said the prime minister had \u201cno intention of withdrawing his comments, which were made in response to comments that Donald Trump made calling for a ban on Muslims entering the US, that was the context for the PM\u2019s comments\u201d. No 10 said there would be contact with the Republican and Democrat presidential campaigns, but no plans in the diary for Cameron to meet Trump. Cameron previously met Mitt Romney, the former Republican presidential candidate, when he was running in 2012. Papadopoulos said Cameron\u2019s comments were uncalled-for and it would be wise for the prime minister to \u201creach out in a more positive manner\u201d to the Republican frontrunner. Asked if Trump would forgive the remarks, he said: \u201cI can\u2019t speak directly for him, but it would seem that if Prime Minister Cameron is serious about reaching out, not only to Mr Trump\u2019s advisers but to the man himself, an apology or some sort of retraction should happen. \u201cTo see Mr Cameron come out as the most vocal opponent was uncalled for. Considering that we believe that the UK-US relationship should be a cornerstone, not just of Nato policy but elsewhere, it would be wise for him to reach out in a more positive manner to Mr Trump.\u201d Cameron previously said he had nothing to add or subtract from his remarks when asked about them at a joint press conference with the US president, Barack Obama, in the Foreign Office last month.  But he has repeatedly declined further invitations to comment on Trump\u2019s chances, saying the election is a matter for the American people.",
+  "webTitle": "David Cameron will not retract criticism of Donald Trump, No 10 says",
+  "webPublicationDate": "2016-05-04T19:29:02Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/04/david-cameron-will-not-retract-criticism-donald-trump",
+  "keyword": [
+    {
+      "webTitle": "David Cameron",
+      "id": "politics/davidcameron",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Donald Trump",
+      "id": "us-news/donaldtrump",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Rowena Mason",
+      "id": "profile/rowena-mason"
+    }
+  ],
+  "guardianId": "politics/2016/may/04/david-cameron-will-not-retract-criticism-donald-trump"
+}

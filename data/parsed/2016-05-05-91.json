@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/05/jean-michel-jarre-electronica-2-the-heart-of-noise-review-dizzy-techno-edward-snowden",
+  "id": "2016-05-05-91",
+  "sectionId": "music",
+  "body": "Last year\u2019s album of collaborations with the great and good of electronic music saw Jean-Michel Jarre pair up with Air, Vince Clark, Tangerine Dream and Moby. On this companion piece he teams up with the likes of Jeff Mills, the Orb, Yello and Sebastien Tellier, and again seems energised and inspired by the collaborative process. Brick England is dourly tuneful Pet Shop Boys, Peaches is sneeringly assertive on What You Want, and Here For You, featuring Gary Numan, has a real whiff of synthpop circa 1980 \u2013 but all are afloat on flowing patterns that bear the unmistakable stamp of Jarre. These Creatures, featuring Julia Holter, has an echo of Laurie Anderson\u2019s O Superman in its \u201cah ah ah\u201d backing. But the real curveball comes on the album\u2019s centrepiece, Exit, on which Edward Snowden discusses the importance of privacy in a digital world (\u201cIf you don\u2019t stand up for it, then who will?\u201d) against a dizzying techno backdrop.",
+  "webTitle": "Jean-Michel Jarre: Electronica 2: The Heart of Noise review \u2013 dizzy techno and Edward Snowden",
+  "webPublicationDate": "2016-05-05T17:30:00Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/05/jean-michel-jarre-electronica-2-the-heart-of-noise-review-dizzy-techno-edward-snowden",
+  "keyword": [
+    {
+      "webTitle": "Electronic music",
+      "id": "music/electronicmusic",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Dance music",
+      "id": "music/dance-music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Edward Snowden",
+      "id": "us-news/edward-snowden",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Gary Numan",
+      "id": "music/garynuman",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Julia Holter",
+      "id": "music/julia-holter",
+      "sectionId": "music",
+      "sectionName": "Music"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jon Dennis",
+      "id": "profile/jondennis"
+    }
+  ],
+  "guardianId": "music/2016/may/05/jean-michel-jarre-electronica-2-the-heart-of-noise-review-dizzy-techno-edward-snowden"
+}

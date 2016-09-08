@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/01/simon-trpceski-brahms-ravel-poulenc-wigmore-hall-review",
+  "id": "2016-05-01-172",
+  "sectionId": "music",
+  "body": "Unlike so many collections of piano works on CD, Wigmore Hall\u2019s live recordings are proper recitals, meticulously planned to offer that satisfying arc of emotion that marks out an outstanding concert. Here, the wondrously talented Macedonian pianist Simon Trp\u010deski opens daringly with Brahms\u2019s wistful Intermezzo, Op117, before a dazzlingly reading of the Op24 Variation and Fugue on a theme by Handel. Then the totally different soundworld of Ravel\u2019s Valses nobles et sentimentales bursts forth in all its dizzying glamour, before a selection of Poulenc\u2019s charming Novelettes and Improvisations brings this masterly recital to a classy close. A disc to savour. Highly recommended.         Simon Trpceski plays Brahms\u2019s Intermezzo, Op 117.",
+  "webTitle": "Simon Trp\u010deski: Brahms/Ravel/Poulenc CD review \u2013 a disc to savour",
+  "webPublicationDate": "2016-05-01T07:00:48Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/01/simon-trpceski-brahms-ravel-poulenc-wigmore-hall-review",
+  "keyword": [
+    {
+      "webTitle": "Classical music",
+      "id": "music/classicalmusicandopera",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Johannes Brahms",
+      "id": "music/johannes-brahms",
+      "sectionId": "music",
+      "sectionName": "Music"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Stephen Pritchard",
+      "id": "profile/stephenpritchard"
+    }
+  ],
+  "guardianId": "music/2016/may/01/simon-trpceski-brahms-ravel-poulenc-wigmore-hall-review"
+}

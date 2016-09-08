@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/science/2016/may/06/does-an-ai-need-to-make-love-to-rembrandts-girlfriend-to-make-art",
+  "id": "2016-05-06-239",
+  "sectionId": "science",
+  "body": "Jonathan Jones is unhappy about artificial intelligence. It might be hard to tell from a casual glance at the art critic\u2019s recent column, \u201cThe digital Rembrandt: a new way to mock art, made by fools,\u201d but if you look carefully the subtle clues are there. His use of the adjectives \u201chorrible, tasteless, insensitive and soulless\u201d in a single sentence, for example.   The source of Jones\u2019s ire is a new piece of software that puts\u2026 I\u2019m so sorry\u2026 the \u2018art\u2019 into \u2018artificial intelligence\u2019. By analyzing a subset of Rembrandt paintings that featured \u2018bearded white men in their 40s looking to the right\u2019, its algorithms were able to extract the key features that defined the Dutchman\u2019s style. Trained on over 160,000 fragments of the Rembrandts, the AI would soon learn enough to produce its very own masterpiece. Or failing that, the Friends theme tune. Of course an artificial intelligence is the worst possible enemy of a critic, because it has no ego and literally does not give a crap what you think. An arts critic trying to deal with an AI is like an old school mechanic trying to replace the battery in an iPhone \u2013 lost, possessing all the wrong tools and ultimately irrelevant. I\u2019m not surprised Jones is angry. If I were in his shoes, a computer painting a Rembrandt would bring me out in hives. Can a computer really produce art? We can\u2019t answer that without dealing with another question: what exactly is art? I\u2019m an engineer who writes cynical things in newspapers for money, so I\u2019m probably the worst person to ask. As far as I can tell, it\u2019s a futile question that nobody will ever agree on the answer to; or as I like it call it, \u2018philosophy\u2019. So let\u2019s move on.  Can computers paint like Rembrandt? Well yes, duh. Any decent colour printer can knock up a good rendition of a masterpiece. The cheap monitor I\u2019m typing on can do it forty times a second. That\u2019s probably not the right question though.  Can a computer learn Rembrandt\u2019s style, and apply it to a new image? This is the kind of challenge that we\u2019re starting to open up with deep learning, and the success isn\u2019t that surprising once you tease apart how these algorithms work. A common job for AI is classification: given this input, what type of thing am I dealing with? Early algorithms and simple neural networks might take an image, and try to classify the whole thing in one go as, say, a dog or a lizard. You\u2019d feed it lots of pictures of dogs and lizards to learn from, and then when you confronted it with a new image it would decide which set of training images it was most similar too.      This strange blue dog perching on a branch would confuse the heck out of traditional machine learning algorithms. Photograph: Alamy Stock Photo    It might do this by looking at every single pixel of the new image, and comparing it to what it would expect to see in each pixel for a typical dog image or lizard image. The problem is that two pictures of a dog might be very different. They might be different colours, the dogs might be at different angles, have different body parts visible, or be posed differently. No two pixels are likely to be the same, leaving simpler algorithms easily confused. Of course there are better approaches than this. Over time, computer vision experts found ways to improve things and eke better performance out of traditional algorithms. Teams entering the annual ImageNet Large-Scale Visual Recognition Challenge have to design systems that can classify over a million photographs showing a thousand different types of object. By 2011, the best entries were able to crunch through the whole set of images with an error rate of about 25%. Then in 2012, a team from the University of Toronto entered Supervision, a system based on a deep convolutional neural net. It destroyed the competition, achieving an error rate of only 16%. Deep neural nets became the image classification technique of choice, and within a couple of years error rates were down to a few percent. A deep neural network processes images more like you do. When you look at a dog, you don\u2019t just see \u2018dog\u2019. Raw \u2018pixel\u2019 data travels from your eye to your brain, where it passes through layer after layer of processing. At the most basic layers neurons pick out edges, lines, movement, dark and light. Those simple features are passed on to the next layers where they might be assembled into slightly more complex ones, like texture, hair, skin, and basic shapes. Those layers feed information deeper into your brain until eventually you\u2019ve assembled a \u2018dog\u2019. A deep convolutional neural network works in much the same way. \u2018Deep\u2019 just means it has lots of layers \u2013 you can think of it as a whole series of neural networks, layered one after the other. The first nets pick out the most basic patterns, and later layers assemble them into ever more complex shapes and features. \u2018Convolutional\u2019 means that the image is broken down into lots of small overlapping tiles for processing, which makes the final result less dependant on where things happen to be in the picture.      The need to correctly identify dogs is becoming increasingly important to the robot community, as this Boston Dynamics creation is discovering. Photograph: Steve Jurvetson/YouTube    All of this is self-learned. You don\u2019t tell a neural network to look for these recurring features, it discovers them by chewing through vast quantities of data. Learning like this is hard: you need huge datasets to train on, lots of processing power, and weeks of expert tweaking. The results are much more robust though, and deep learning systems are incredibly good at spotting patterns and motifs in data, whether it\u2019s numbers, image pixels or musical notes. That\u2019s why they can pick out Rembrandt\u2019s style from a selection of his paintings, the brushstrokes and techniques that make his work unmistakably his. Is this really art? If it is, it\u2019s not on the part of the AI. All the algorithm is really doing is creating a \u2013 very complicated \u2013 mathematical model of Rembrandt paintings, and then spitting out a visualization of it according to some very carefully defined criteria. In that sense, for all that columnists and tech writers seem determined to pretend that neural networks are magic, we\u2019re really just dealing with a dumb tool, spitting out pixels to order. Is it art on the part of the engineers? Maybe. Perhaps the best definition of art is that it\u2019s something we create to produce an emotional impact on others. If that\u2019s true, then the irony of Jonathan Jones\u2019s anger is that it\u2019s the strongest evidence so far that an AI-human team can make legitimate \u2018art\u2019. AI\u2019ll Be There For You I could finish there, but there\u2019s one question we all deserve an answer to. We know what happens now when you feed an AI Rembrandts, but what happens if you feed it The Rembrandts instead?      To find out, I got hold of DeepJazz, a fun Python project knocked up in a 36-hour hackathon by Ji-Sung Kim at Princeton. DeepJazz can, with a bit of effort, use a MIDI file of a song to train a neural network, and then output a new jazz composition based on that training. In essence, DeepJazz is to music what Siri is to having actual friends.  So I found a MIDI file of \u201cI\u2019ll be there for you,\u201d by The Rembrandts. Then I made some modifications to DeepJazz, to get everything working properly for a rather different style of music than the author intended. I created an AI whose entire world consisted of the theme tune from Friends, and asked it to make me a new composition. You can listen to the result above. I call it \u2018AI\u2019ll be there for you\u2019 (Tip of the hat to my friend Morgan for the name), and I hereby dedicate it to music critics everywhere. Enjoy! @mjrobbins",
+  "webTitle": "Does an AI need to make love to Rembrandt\u2019s girlfriend to make art?",
+  "webPublicationDate": "2016-05-06T10:52:13Z",
+  "webUrl": "https://www.theguardian.com/science/2016/may/06/does-an-ai-need-to-make-love-to-rembrandts-girlfriend-to-make-art",
+  "keyword": [
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Rembrandt",
+      "id": "artanddesign/rembrandt",
+      "sectionId": "artanddesign",
+      "sectionName": "Art and design"
+    },
+    {
+      "webTitle": "Art",
+      "id": "artanddesign/art",
+      "sectionId": "artanddesign",
+      "sectionName": "Art and design"
+    },
+    {
+      "webTitle": "Artificial intelligence (AI)",
+      "id": "technology/artificialintelligenceai",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Computing",
+      "id": "technology/computing",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Art and design",
+      "id": "artanddesign/artanddesign",
+      "sectionId": "artanddesign",
+      "sectionName": "Art and design"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Martin Robbins",
+      "id": "profile/martin-robbins"
+    }
+  ],
+  "guardianId": "science/2016/may/06/does-an-ai-need-to-make-love-to-rembrandts-girlfriend-to-make-art"
+}

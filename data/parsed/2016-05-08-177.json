@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/08/i-saw-the-light-review-hank-williams-tom-hiddleston",
+  "id": "2016-05-08-177",
+  "sectionId": "film",
+  "body": "This hokey biopic of country and western star Hank Williams has a lot in common with his music. It\u2019s creaky, sentimental and glaringly obvious. But every so often, it stumbles upon a moment of emotional truth. Tom Hiddleston, in the central role, bears a passing resemblance to the singer. But he is so focused on recreating Williams\u2019s mannerisms that he fails to connect with the man in the way that Joaquin Phoenix managed as Johnny Cash in the similarly formulaic but superior Walk the Line. Elizabeth Olsen is rather better as Williams\u2019s ambitious wife \u2013 her voice is all sharp edges, like an insistent, jabbing elbow. To derive any pleasure from the film, though, you probably need to be able to listen to Williams\u2019s hit Lovesick Blues without wanting to hack off your own ears.         Watch the trailer for I Saw the Light.",
+  "webTitle": "I Saw the Light review \u2013 twangingly sentimental",
+  "webPublicationDate": "2016-05-08T07:00:00Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/08/i-saw-the-light-review-hank-williams-tom-hiddleston",
+  "keyword": [
+    {
+      "webTitle": "I Saw the Light",
+      "id": "film/i-saw-the-light",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Biopics",
+      "id": "film/biopics",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Tom Hiddleston",
+      "id": "film/tom-hiddleston",
+      "sectionId": "film",
+      "sectionName": "Film"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Wendy Ide",
+      "id": "profile/wendy-ide"
+    }
+  ],
+  "guardianId": "film/2016/may/08/i-saw-the-light-review-hank-williams-tom-hiddleston"
+}

@@ -1,0 +1,84 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/06/deepmind-best-privacy-infrastructure-handling-nhs-data-says-co-founder",
+  "id": "2016-05-06-138",
+  "sectionId": "technology",
+  "body": "Google\u2019s DeepMind has hit back at criticism of its partnership with London\u2019s Royal Free hospital to develop an app that helps doctors and nurses rapidly identify and treat acute kidney injuries. DeepMind\u2019s co-founder, Mustafa Suleyman, said the company was better placed than any other to handle sensitive medical data, given its long history of securing highly personal information from other fields. He said: \u201cAs Googlers, we have the very best privacy and secure infrastructure for managing the most sensitive data in the world. That\u2019s something we\u2019re able to draw upon as we\u2019re such a core part of Google.\u201d   Related: Google's DeepMind shouldn't suck up our NHS records in secret    He added: \u201cWhen we developed our information governance toolkit and we submitted that for assessment to the health and social care information centre (HSCIC) \u2026 we got 100% for our toolkit. There\u2019s pretty much nobody else who\u2019s been able to get a score as high as that.\u201d DeepMind\u2019s information governance processes were awarded a level two certification by HSCIC, the highest level recognised by the body, but DeepMind has also self-assessed its compliance to level three, the highest possible level overall. \u201cThe vast majority of other organisations in the country only have a level two, including most of the hospitals,\u201d Suleyman said.  \u201cThe vast majority of other organisations in the country only have a level two, including most of the hospitals.\u201d Suleyman was speaking in the wake of a row over DeepMind\u2019s data-sharing agreement with the London\u2019s Royal Free hospital, published by the New Scientist last week. In the document, the hospital agreed to share five years of historical data on patients, as well as real-time information on their status, which alarmed patient groups. Acute kidney injuries kill 1,000 people a month, because of the difficulty in identifying problems and acting on them quickly enough. Suleyman said the timescale for an intervention is a matter of hours, but if the injury is caught early, \u201cthen with really simple and really cheap things like intravenous fluid and antibiotics, you have the potential to save that person\u2019s life\u201d. The data-sharing agreement prevents Google from using the information in any other part of its business. It also requires DeepMind to delete its own copy when the agreement expires in September 2017. But the breadth and depth of the data being shared caused some to worry that the company had intentions to use it beyond the stated aims. Sam Smith, of the health data privacy group MedConfidential, said: \u201cThis is not just about kidney function. They\u2019re getting the full data.\u201d DeepMind said the app at the heart of the data-sharing agreement, Streams, requires the data set to make accurate and timely calls about patients potentially suffering acute kidney injuries. The data is broad, covering conditions seemingly unrelated to kidney function, because kidney injuries are both more common and more serious in patients with multiple comorbidities. And it is deep, going back five years, because historical trends are important for identifying patients who are most at risk. A patient who has had an elevated creatinine level for half a decade requires different treatment to one who is suffering a recent spike. While DeepMind is known for its focus on artificial intelligence and machine learning, Streams doesn\u2019t incorporate those fields. Instead, the heart of the app\u2019s diagnostic function is based on an algorithm mandated by NHS England. DeepMind is one of many companies building technology that pulls in patient data, processes it according to the algorithm and delivers alerts to doctors and nurses.  Suleyman said DeepMind\u2019s app is different to other systems in how it communicates information to doctors and nurses. Rather than the pager and paper model that some hospitals use, or off-the-shelf software created foraccounting or logistics industries, DeepMind has \u201cdone what we know best as technologists, which is to ask the user what they want\u201d, Suleyman said. He added: \u201cAs a result, the reaction that we\u2019ve got from people is incredible. Everybody is like \u2018I\u2019ve never seen anything like this before, this is so intuitive, this feels like one of my cutting-edge apps in the app store.\u2019\u201d Because Stream doesn\u2019t use any of the machine learning or AI technology DeepMind is famous for, it might feel an odd fit at the company but Suleyman says \u201cin the long term, both of those options are potentially possible\u201d.  DeepMind is also trying to counter concerns over its motivations with a panel of independent reviewers, which will meet for the first time in June to asses the data-sharing agreements and security measures put in place for its health projects. Unlike the AI ethics board, set up when DeepMind was bought by Google, the health review panel is public. It includes the editor of the Lancet medical journal Richard Horton, the NHS\u2019s former \u201cKidney tsar\u201d Professor Donal O\u2019Donaghue, and the chair of Tech City UK Eileen Burbidge.  It will issue an annual report outlining its findings, and Suleyman says: \u201cThey\u2019re not going to be contracted, they\u2019re not going to be paid, and they\u2019re going to be free to speak publicly about what we\u2019re doing. I\u2019m really proud to be able to say that and to be able to open ourselves up for scrutiny proactively.\u201d \u2022 This article was amended on 9 May 2016 to remove an incorrect statement in a quote that the HSCIC approves data-sharing agreements. It was further amended on 25 July 2016 to clarify that DeepMind\u2019s information governance processes have a level-two certification from HSCIC, and a level-three self assessment.",
+  "webTitle": "DeepMind has best privacy infrastructure for handling NHS data, says co-founder",
+  "webPublicationDate": "2016-05-06T14:08:36Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/06/deepmind-best-privacy-infrastructure-handling-nhs-data-says-co-founder",
+  "keyword": [
+    {
+      "webTitle": "Google",
+      "id": "technology/google",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Artificial intelligence (AI)",
+      "id": "technology/artificialintelligenceai",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Computing",
+      "id": "technology/computing",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Alphabet",
+      "id": "technology/alphabet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Data protection",
+      "id": "technology/data-protection",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "NHS",
+      "id": "society/nhs",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Privacy",
+      "id": "world/privacy",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Alex Hern",
+      "id": "profile/alex-hern"
+    }
+  ],
+  "guardianId": "technology/2016/may/06/deepmind-best-privacy-infrastructure-handling-nhs-data-says-co-founder"
+}

@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/29/kurdish-forces-big-push-islamic-state-iraq-syria",
+  "id": "2016-05-29-77",
+  "sectionId": "world",
+  "body": "Kurdish peshmerga forces backed by the US-led coalition have launched attacks on Islamic State east of Mosul as the campaign to oust the militants stepped up with three offensives across Iraq and Syria.    Related: Isis may face Falluja bloodbath, but new offensive shows power to spread terror    As the peshmerga assault got under way, Iraqi forces were gathering around the Islamic State stronghold of Falluja further south, and the US-backed Syrian Democratic Forces (SDF) advanced north of the militants\u2019 other de facto capital, Raqqa. However, analysts warned that it would take years to finally defeat the militants in the region.  In advance of an eventual assault on Mosul, peshmerga fighters are tightening the noose around the city with the US-led coalition\u2019s role on the ground becoming more visible. Among several hundred peshmerga fighters awaiting orders to advance was a group of at least 15 American and Canadian soldiers loading armoured vehicles with anti-tank rocket launchers and cases of heavy gun cartridges.  \u201cOur objective is to push Daesh away from these villages towards Mosul,\u201d said a peshmerga captain overlooking the battlefield while coalition aircraft launched multiple strikes. Islamic State is also known by its Arabic acronym, Daesh, or Isis or Isil.  By mid-afternoon, five villages had been recaptured, according to ColDlshad Mawlood of the elite Zeravani forces. But the militants appeared to be putting up stiff resistance, deploying suicide car bombs to fend off the peshmerga advance and firing barrages of mortars. In an emailed statement, the Kurdistan region security council said: \u201cThis is one of the many shaping operations expected to increase pressure on Isil in and around Mosul in preparation for an eventual assault on the city.\u201d Coalition forces are also assisting Iraqi forces who launched a large-scale offensive a week ago to recapture Falluja, the first major urban centre to fall to Isis in early 2014. A spokesman said Iraq\u2019s special forces had completed a troop buildup around the city on Sunday. But Aymenn Jawad al-Tamimi, a fellow at the Middle East Forum, said efforts to oust Isis would be bloody and prolonged. \u201cThe group has come under strain financially and militarily, but the fight is far from over,\u201d he said.",
+  "webTitle": "Kurdish forces in big push against Islamic State in Iraq and Syria",
+  "webPublicationDate": "2016-05-29T15:46:24Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/29/kurdish-forces-big-push-islamic-state-iraq-syria",
+  "keyword": [
+    {
+      "webTitle": "Kurds",
+      "id": "world/kurds",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Islamic State",
+      "id": "world/isis",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Iraq",
+      "id": "world/iraq",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Syria",
+      "id": "world/syria",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "US foreign policy",
+      "id": "us-news/us-foreign-policy",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Middle East and North Africa",
+      "id": "world/middleeast",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Fazel Hawramy",
+      "id": "profile/fazel-hawramy"
+    }
+  ],
+  "guardianId": "world/2016/may/29/kurdish-forces-big-push-islamic-state-iraq-syria"
+}

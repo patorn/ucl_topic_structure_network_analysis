@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/27/derby-county-appoint-nigel-pearson-manager",
+  "id": "2016-05-27-98",
+  "sectionId": "football",
+  "body": "Derby County have appointed Nigel Pearson as their manager. The 52-year-old, out of work since he left Leicester City last June, has signed a three-year contract. Pearson takes over from Darren Wassall, who stepped up from his role as academy director in February after Paul Clement was sacked. Wassall will return to his previous position, with the former Derby defender Chris Powell brought in as Pearson\u2019s assistant. Pearson told Derby\u2019s website: \u201cI am honoured to be named as the manager of Derby County, which is one of the biggest clubs in the country, a club in excellent shape and one with strong ambitions. It is firmly focused on achieving Premier League football. \u201cI will give absolutely everything I have to this role and do all I can to bring exciting, entertaining and winning football which our supporters can be proud of.\u201d Derby finished fifth this season, losing to Hull City in the play-offs. Pearson took Leicester into the Premier League as champions in 2014 and kept the club in the top flight against all odds the following season before being sacked. \u201cWe are delighted to welcome Nigel to the club,\u201d said Derby\u2019s chairman, Mel Morris. \u201cHe is a proven winner, a highly experienced manager who has a track record of success in the Championship and has also coached successfully in the Premier League.\u201d Pearson was recently interviewed by Aston Villa over the vacancy there but they look increasingly likely to appoint Roberto Di Matteo after further talks with the Italian.",
+  "webTitle": "Derby County appoint Nigel Pearson as manager on three-year contract",
+  "webPublicationDate": "2016-05-27T15:52:22Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/27/derby-county-appoint-nigel-pearson-manager",
+  "keyword": [
+    {
+      "webTitle": "Nigel Pearson",
+      "id": "football/nigel-pearson",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Derby County",
+      "id": "football/derbycounty",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "football/2016/may/27/derby-county-appoint-nigel-pearson-manager"
+}

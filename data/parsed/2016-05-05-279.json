@@ -1,0 +1,43 @@
+{
+  "apiUrl": "https://content.guardianapis.com/society/2016/may/05/hiv-positive-patients-get-organs-from-donors-with-hiv-in-uk-transplant-first",
+  "id": "2016-05-05-279",
+  "sectionId": "society",
+  "body": "Organs from patients with HIV have been used in life-saving transplant operations in the UK for the first time. The four transplants \u2013 two livers from separate donors and a pair of kidneys from the same person \u2013 all happened within the last five years but have only now been made public. All three donors were deceased.  NHS Blood and Transplant (NHSBT), the agency that administers organ donations in the UK, said that although there were extra risks associated with transplants they would open up a new source of potential donors for HIV-positive recipients. Such organs would not be used for HIV-negative recipients because of the risk of infection. The agency hopes that the medical breakthrough will inspire people living with HIV to join the organ donor register.  Prof John Forsythe, associate medical director for organ donation and transplantation at NHSBT, said: \u201cIt\u2019s exciting that some people with HIV in the UK have helped benefit patients with HIV after their death by donating their organs.  \u201cIn the UK there is a shortage of organ donors and on average three people a day die in need of an organ transplant.  \u201cWhile organ transplants from donors with HIV are limited to recipients with HIV infection, innovations like this open up the possibility of donation where it did not previously exist and will help to reduce the shortage of donor organs.\u201d The two liver transplants were carried out at Queen Elizabeth hospital in Birmingham.  Nikolaos Karydis, who performed the kidney transplants in 2015 at Guy\u2019s hospital in London, told the Mirror: \u201cIt\u2019s incredibly exciting, a hugely important breakthrough. I am very proud to have been part of this big team that got us to this point of being able to do such innovative surgery.\u201d The first kidney transplant between an HIV-positive donor and recipient was carried out in South Africa in 2008. It was reported in a scientific journal two years later.  In March, surgeons at Johns Hopkins University in Baltimore reported the first HIV-positive liver and kidney transplants in the US. Forsythe said successful organ transplants of this kind are now possible thanks to improvements in the management and treatment of HIV.  \u201cBut it is important that organs donated can be safely used and will not cause harm to the recipient. For someone with HIV to become an organ donor, their condition needs to have been responding well to treatment and there should not be evidence of secondary complications of the condition,\u201d he added.  \u201cWe carefully evaluate all donors, and with potential donors with HIV we also need to understand how well their HIV has been treated and whether the donor had any infections or illnesses associated with more advanced HIV. \u201cSurgeons will use this information to balance the risks of using an organ from someone with HIV with the risk of their patient dying while waiting for another organ to become available.\u201d Forsythe said medics were keen that everyone, regardless of their health status, registered a decision to donate on the NHS Organ Donor Register and told their family.  \u201cPlease don\u2019t let the fact you have a health condition stop you from registering as a donor,\u201d he added.",
+  "webTitle": "HIV-positive patients get organs from donors with HIV in UK transplant first",
+  "webPublicationDate": "2016-05-05T08:28:40Z",
+  "webUrl": "https://www.theguardian.com/society/2016/may/05/hiv-positive-patients-get-organs-from-donors-with-hiv-in-uk-transplant-first",
+  "keyword": [
+    {
+      "webTitle": "Organ donation",
+      "id": "society/organ-donation",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Aids and HIV",
+      "id": "society/aids-and-hiv",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [],
+  "guardianId": "society/2016/may/05/hiv-positive-patients-get-organs-from-donors-with-hiv-in-uk-transplant-first"
+}

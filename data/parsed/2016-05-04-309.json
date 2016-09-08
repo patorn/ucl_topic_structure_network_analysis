@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/australia-news/2016/may/04/government-refuses-to-table-650m-cut-to-diagnostic-imaging-services",
+  "id": "2016-05-04-309",
+  "sectionId": "australia-news",
+  "body": "The government has refused to table a regulation cutting $650m from diagnostic imaging services such as breast cancer screening, suggesting it will not allow the Senate a chance to disallow the cut before parliament is dissolved. In December the government announced that it would reduce the bulk billing incentive for diagnostic imaging \u2013 and scrap it for pathology services. The changes will net the government $650m over four years and will come into effect on 1 July.   Related: Medicare cuts to diagnostic scans will cost cancer patients, say radiologists    On 3 May, the Senate passed a Labor motion ordering the rural health minister, Fiona Nash, to produce the legislative instrument which would give effect to the $650m cut. In a letter seen by Guardian Australia, Nash wrote to the president of the Senate explaining that legislation for parliamentary scrutiny only requires instruments to be tabled within six days of being made by the governor general. \u201cThe timing of when a legislative instrument should be made by the governor general ... is a decision for government,\u201d she said. \u201cThe Senate will have the opportunity to scrutinise a legislative instrument which has the effect of implementing the [mid-year economic and fiscal outlook] bulk-billing measure once it has been tabled.\u201d \u201cI would note the measure is not scheduled to commence until 1 July 2016.\u201d The decision to wait until the instrument is made to table it rather than produce the instrument at the Senate\u2019s direction raises the prospect that the cut will not be officially made until after the Senate rises, preventing any opportunity to disallow it before parliament is dissolved. Labor\u2019s health spokeswoman, Catherine King, said the government had \u201cdefied a direct order from the Senate, [to] continue this unfair attack on pathology and diagnostic imaging patients\u201d. King said the decision not to table the regulation \u201cwill enable the government to now delay tabling these regulations until after the parliament rises, denying the Senate the opportunity to overturn these cuts before they come into effect\u201d.  \u201cThis means patients being treated for cancer, and other serious health conditions, could now be forced to fork out thousands of dollars upfront for crucial scans and tests from July 1, the day before the federal election.\u201d Malcolm Turnbull is expected to ask the governor general to dissolve both houses of parliament and call a double-dissolution election for 2 July by the end of the weekend. Service providers have warned that the federal government\u2019s decision to reduce incentive payments for diagnostic companies to bulk bill from 15% to 10% would leave them with no choice but charge patients the shortfall. At the time the cuts were made the finance minister, Mathias Cormann, said scrapping the rebate for pathology services would not impact patients \u201cbecause there is a very strong competitive sector here\u201d. \u201cThere is about 90% bulk billing [that] takes place ... in relation to services provided through the pathology service providers, so there is essentially not the additional benefit provided by continuing that arrangement,\u201d he said.",
+  "webTitle": "Government refuses to table $650m cut to diagnostic imaging services",
+  "webPublicationDate": "2016-05-04T07:20:14Z",
+  "webUrl": "https://www.theguardian.com/australia-news/2016/may/04/government-refuses-to-table-650m-cut-to-diagnostic-imaging-services",
+  "keyword": [
+    {
+      "webTitle": "Health (Australia)",
+      "id": "australia-news/health",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australian budget 2016",
+      "id": "australia-news/australian-budget-2016",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Medicare Australia",
+      "id": "australia-news/australian-medicare",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australian politics",
+      "id": "australia-news/australian-politics",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Paul Karp",
+      "id": "profile/paul-karp"
+    }
+  ],
+  "guardianId": "australia-news/2016/may/04/government-refuses-to-table-650m-cut-to-diagnostic-imaging-services"
+}

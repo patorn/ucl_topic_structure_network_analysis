@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/18/hatem-ben-arfa-18-clubs-sign-me",
+  "id": "2016-05-18-184",
+  "sectionId": "football",
+  "body": "The former Newcastle United forward Hatem Ben Arfa has revealed up to 18 clubs have expressed an interest in signing him next season. The 29-year-old has enjoyed a career renaissance this season with Nice, scoring 18 goals in Ligue 1 and making France\u2019s reserve list for the European Championship on home soil.   Related: Hatem Ben Arfa says he was a prisoner in hell at end of Newcastle spell    Lyon, his first club, last week revealed they have made him an offer and Paris Saint-Germain have also been linked with keeping him in France, while Nice have not given up hope of persuading him to extend his stay on the French Riviera. Speaking to Canal Plus while attending one of the region\u2019s premier events, the Cannes Film Festival, Ben Arfa said: \u201cThere are 18 very interesting clubs who have put themselves forward. I have picked out three. \u201cThere are plenty of offers, like the one from Lyon. They are a very ambitious club with a very ambitious president [Jean-Michel Aulas]. Any club with ambition is very interesting. \u201cIt\u2019s a very important decision for me to take this year. I will reflect and discuss it with my entourage.\u201d",
+  "webTitle": "Hatem Ben Arfa: I have 18 clubs who want to sign me next season",
+  "webPublicationDate": "2016-05-18T12:18:38Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/18/hatem-ben-arfa-18-clubs-sign-me",
+  "keyword": [
+    {
+      "webTitle": "Nice",
+      "id": "football/nice",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Ligue 1",
+      "id": "football/ligue1football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "France",
+      "id": "football/france",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "football/2016/may/18/hatem-ben-arfa-18-clubs-sign-me"
+}

@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/11/warwickshire-somerset-dangerous-pitch-match-report",
+  "id": "2016-05-11-82",
+  "sectionId": "sport",
+  "body": "Warwickshire are facing possible disciplinary action over the pitch prepared for their County Championship fixture with Somerset at Edgbaston, which was described as being \u201ca bit dangerous\u201d by the visiting captain, Chris Rogers, after the washed-out draw. The surface, on which 30 wickets fell in the first two days before rain prevented any further play, is understood to have been deemed \u201cpoor\u201d by the umpires Ian Gould and Neil Mallender, with the England and Wales Cricket Board to consider their report. Unpredictable bounce became a feature of the cracked surface on the second day, with 18 wickets falling and batsmen struck six times by fast bowlers. The Somerset tailender Lewis Gregory was forced to change helmet after being hit when ducking into a delivery from Boyd Rankin, while Rogers twice took blows to the body.   Related: Warwickshire\u2019s Ian Bell struggling as they chase Somerset\u2019s target    \u201cThere were a few concerns,\u201d Rogers said after the match was abandoned, with Warwickshire unmoved from their position of four for no loss at stumps on the second day, chasing 322 in the fourth innings. \u201cI think the cracks were making it a little bit dangerous and that is a bit of a worry. Any time you see the ball take off it\u2019s a surprise. I have played on some excellent wickets here and it was different. I don\u2019t think the groundsman quite got it the way he wanted to but he\u2019ll know better next time and fortunately there were no real incidents.\u201d Tony Pigott, the ECB\u2019s cricket liaison officer, was at the match and is understood to have spoken to members of both clubs as well as Gary Barwell, the Edgbaston head groundsman. Warwickshire could face a possible points deduction if the matter is passed to the Cricket Discipline Commission, with an ECB spokesperson saying: \u201cWe will be considering the umpires\u2019 report overnight before making any further comment.\u201d Dougie Brown said: \u201cIt was not the type of pitch we wanted. There was cracks but was it dangerous? No. We all know here that Gary Barwell is the best groundsman in the country by a mile. He was preparing this pitch 14-16 days ahead, as always, and when he started it was in snow and ice.\u201d The Warwickshire director of cricket added: \u201cThen the weather flipped on its head and suddenly it was very hot, so the drying process was accelerated by the weather. When the cricket liaison officer said the pitch had been reported we were incredibly surprised.\u201d The reporting of the Edgbaston pitch is the first such incident since the ECB changed the procedure for the toss in the County Championship as part of a season-long trial, with away sides given the option of bowling first to encourage better surfaces. Last season Glamorgan were fined \u00a39,000 and docked two points for an \u201cunfit\u201d pitch that led to their Royal London Cup fixture with Hampshire being abandoned. Warwickshire were docked eight points in 2011 for a \u201cpoor\u201d pitch in a 218-run win against Worcestershire in the championship.",
+  "webTitle": "Warwickshire face possible action over pitch deemed dangerous by Somerset",
+  "webPublicationDate": "2016-05-11T18:06:45Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/11/warwickshire-somerset-dangerous-pitch-match-report",
+  "keyword": [
+    {
+      "webTitle": "County Championship Division One",
+      "id": "sport/countychampionship1stdivisioncricket",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Warwickshire",
+      "id": "sport/warwickshireccc",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Somerset",
+      "id": "sport/somerset",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "ECB",
+      "id": "sport/ecb",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Cricket",
+      "id": "sport/cricket",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ali Martin",
+      "id": "profile/ali-martin"
+    }
+  ],
+  "guardianId": "sport/2016/may/11/warwickshire-somerset-dangerous-pitch-match-report"
+}

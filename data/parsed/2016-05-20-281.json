@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/20/france-airs-fears-over-london-stock-exchange-merger-with-deutsche-borse",
+  "id": "2016-05-20-281",
+  "sectionId": "business",
+  "body": "A planned \u00a320bn merger between the London Stock Exchange and Deutsche B\u00f6rse poses a threat to competition and the European economy, the French finance minister has claimed. Michel Sapin said a combination of the two would make it too dominant and called on the European commission to intervene. He told Reuters: \u201cI want to express the concern of the French government on this tie-up. We have doubts about the consequences this could have for the financing of the real economy in France and Europe. \u201cThe merger of these two entities will result in a large group which could hold within it a majority of the tools that make our markets function efficiently. That poses a competition problem, and we want to make sure the European commission gets involved to avoid a situation where a dominant position arises.\u201d  If the deal went ahead it would create a group similar in size to the Intercontinental Exchange (ICE) in the US, dwarfing smaller European competitors such as Euronext.   Related: LSE's merger with Deutsche B\u00f6rse will trouble shareholders    The London Stock Exchange and Deutsche B\u00f6rse claim that a merger would allow them to cut costs by \u20ac450m (\u00a3350m). Deutsche B\u00f6rse shareholders would own 54.4% of the new company with LSE shareholders owning the remainder. It is the third time the two have attempted to merge. They agreed to merge in 2000 before a rival bid for the LSE from Sweden\u2019s OM Gruppen scuppered the deal, which was then rejected anyway.  The LSE then rejected a formal \u00a31.3bn offer from Deutsche B\u00f6rse in January 2005. After the potential deal was announced in February, ICE, the owner of the New York Stock Exchange, revealed it was considering making a rival offer for LSE.",
+  "webTitle": "France airs fears over London Stock Exchange merger with Deutsche B\u00f6rse",
+  "webPublicationDate": "2016-05-20T08:25:29Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/20/france-airs-fears-over-london-stock-exchange-merger-with-deutsche-borse",
+  "keyword": [
+    {
+      "webTitle": "London Stock Exchange",
+      "id": "business/londonstockexchangegroup",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "France",
+      "id": "world/france",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Global economy",
+      "id": "business/global-economy",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Angela Monaghan",
+      "id": "profile/angela-monaghan"
+    }
+  ],
+  "guardianId": "business/2016/may/20/france-airs-fears-over-london-stock-exchange-merger-with-deutsche-borse"
+}

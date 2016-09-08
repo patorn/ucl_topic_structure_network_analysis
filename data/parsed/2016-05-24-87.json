@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/24/telegraph-deputy-editor-newsroom-cull",
+  "id": "2016-05-24-87",
+  "sectionId": "media",
+  "body": "The Telegraph has started a round of targeted cuts of senior newsroom staff, including the deputy editor, Liz Hunt. Also axed are feature writer Harry Wallop, head of arts Andrew Pettie, foreign chiefs Richard Spencer and Colin Freeman and Asia editor Philip Sherwell. The cull, which one source referred to as \u201ctargeted assassinations\u201d in the newsroom, comes a day after it emerged that the publisher is seeking significant cost savings at its Victoria headquarters.  In a note to staff Murdoch MacLennan, chief executive of Telegraph Media Group, warned that affected staff were to be imminently told.   Related: Telegraph to introduce 'smart working' in bid to cut costs    The majority of staff told to leave on Tuesday are senior editorial figures. These include Telegraph deputy editor Hunt, feature writer and author Wallop, Daily and Sunday Telegraph Middle East editor Spencer, head of arts and entertainment Pettie, Freeman, chief foreign correspondent for the Sunday Telegraph, and Sherwell, the longest-serving foreign correspondent. There are also a number of less senior staff on the way out including Rhiannon Williams, consumer technology writer and reviewer, and a number of support staff including on the picture desk and secretaries. The firings, of which there are expected to be more, follow an extensive operational review carried out by Deloitte. MacLennan\u2019s note to staff espouses a new \u201cemployee-friendly\u201d culture introducing flexible working \u201cin line with the changes in the media world\u201d. This will cut back space used at the Telegraph\u2019s Victoria headquarters which MacLennan said will allow it to \u201csave significantly on rents and rates\u201d.",
+  "webTitle": "Telegraph deputy editor and other top staff exit in newsroom cull",
+  "webPublicationDate": "2016-05-24T16:15:33Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/24/telegraph-deputy-editor-newsroom-cull",
+  "keyword": [
+    {
+      "webTitle": "Daily Telegraph",
+      "id": "media/dailytelegraph",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Sunday Telegraph",
+      "id": "media/sunday-telegraph",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "National newspapers",
+      "id": "media/national-newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers",
+      "id": "media/newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers & magazines",
+      "id": "media/pressandpublishing",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Mark Sweney",
+      "id": "profile/marksweney"
+    }
+  ],
+  "guardianId": "media/2016/may/24/telegraph-deputy-editor-newsroom-cull"
+}

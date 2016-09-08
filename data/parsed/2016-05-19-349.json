@@ -1,0 +1,84 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/19/great-barrier-reef-needs-10bn-for-chance-of-survival-scientists-say",
+  "id": "2016-05-19-349",
+  "sectionId": "environment",
+  "body": "The 2016 Australian election is the last opportunity to save the Great Barrier Reef, the authors of a new scientific paper have warned.  The government needs to commit to $1bn a year for 10 years to reduce water pollution, which would give the reef a chance to survive the impacts of climate change, according to the paper published in the journal Estuarine, Coastal and Shelf Science.  \u201cThis is the last chance,\u201d said the lead author, Jon Brodie from James Cook University. \u201cThe current spending is totally inadequate ... You either do it properly or you give up on the reef. It\u2019s that bad.\u201d   Related: Saving Great Barrier Reef from climate change should be central election issue, says Tim Flannery    Climate change is dramatically impacting the reef, with warm water causing 93% of coral reefs to bleach this year. It is the worst bleaching event ever seen in the Great Barrier Reef. Mass bleaching events were never seen before 1998. The reef\u2019s ability to recover from bleaching is hampered by water pollution, caused largely by nearby land-clearing, as well as fertiliser and pesticide run-off from farming. Fishing also damages the reef\u2019s resilience by disrupting the ecosystems that support healthy coral. Brodie and his colleague Richard Pearson analysed all the current management plans, evaluated their impacts and developed an estimate of what would be needed to give the reef a fighting chance against already locked-in climate change. The required measures would cost $10bn over 10 years. Brodie said that would get water quality to a point where the reef was in the best shape possible to fight the impact of climate change. \u201cIt\u2019s a lot of money but the alternative is just to give up on the reef,\u201d Brodie said. \u201cWe know how to do it. In fact right now we\u2019re spending a little bit of money doing some of it and we have made a little bit of progress with that little bit of money but we just need a lot more.\u201d Several water quality improvement plans have been created over the past couple of years. They involve input from agricultural scientists, reef ecologists, economists and social scientists. Using those, Brodie was able to develop a plan. The analysis recommended management of the reef be extended from the world heritage area to include the \u201cgreater Great Barrier Reef\u201d. That would extend from the Torres Strait in the north to Hervey Bay in the south and include the catchment areas that are directly responsible for the water pollution. It also found a focus should be diverted from the struggling reefs to the ecosystems that are still in relatively good condition, including those in the Torres Strait, northern Cape York and Hervey Bay. Stronger regulation was also needed, with powers available under the federal Environment Protection and Biodiversity Conservation Act and the Great Barrier Reef Marine Park Act being used to stop activities on land that are polluting the water.  Some of the required measures could be controversial, including buybacks of some sugarcane farms that are too polluting. But Brodie said many of those farms were not particularly profitable and many farmers would be happy to sell the land.   Related: Great Barrier Reef bleaching made 175 times likelier by human-caused climate change, say scientists    The $10bn needed by 2025 amounted to $1bn a year. But since the reef was estimated to generate up to $20bn a year for the Australian economy, that amounted to just 5% of its economic value for a limited time. Brodie said this federal election was the last chance for the reef. If this plan or one like it wasn\u2019t committed to, he said it could be time to give up on the reef. \u201cIt takes time for change to happen and we need to start fast,\u201d he said.  Imogen Zethoven from the Australian Marine Conservation Society said: \u201cThings are worse than we thought for the reef\u2019s future; we are close to the brink of what this fragile ecosystem can tolerate without a credible plan for restoring it to good health. \u201cThis federal election is an historic opportunity for political leaders to take heed and act decisively to stop its destruction,\u201d she said.",
+  "webTitle": "Great Barrier Reef needs $10bn for chance of survival, scientists say",
+  "webPublicationDate": "2016-05-19T01:25:12Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/19/great-barrier-reef-needs-10bn-for-chance-of-survival-scientists-say",
+  "keyword": [
+    {
+      "webTitle": "Great Barrier Reef",
+      "id": "environment/great-barrier-reef",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Queensland",
+      "id": "australia-news/queensland",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australian election 2016",
+      "id": "australia-news/australian-election-2016",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Oceans",
+      "id": "environment/oceans",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Climate change",
+      "id": "environment/climate-change",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Coral",
+      "id": "environment/coral",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Australian politics",
+      "id": "australia-news/australian-politics",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Marine life",
+      "id": "environment/marine-life",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Pollution",
+      "id": "environment/pollution",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Michael Slezak",
+      "id": "profile/michael-slezak"
+    }
+  ],
+  "guardianId": "environment/2016/may/19/great-barrier-reef-needs-10bn-for-chance-of-survival-scientists-say"
+}

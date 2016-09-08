@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/12/go-figure-the-day-the-bbc-thought-its-number-was-up",
+  "id": "2016-05-12-112",
+  "sectionId": "media",
+  "body": "It\u2019s the numbers, stupid! In the government\u2019s 132-page report on the future of the BBC, published on Thursday, there was no shortage of references to distinctiveness and diversity, two of the watchwords of John Whittingdale\u2019s vision for the future of the BBC. As if to allay fears that the make-up of the new BBC board would effectively turn the corporation into a state broadcaster, independent \u2013 or independence \u2013 crops up no fewer than 78 times.   Related: BBC white paper: key points at a glance    Strictly Come Dancing garners two mentions, as you might expect, twice as many as the Great British Bake Off or Wolf Hall (there were presumably lots more until its director Peter Kosminsky stood up to accept his Bafta on Sunday). There was another for The Archers but nothing for the BBC\u2019s biggest and most enduring hit, watched by more people in the course of a year than any other \u2013 EastEnders. independent/independence 78 television 69 radio 60 licence fee 59 distinctive/distinctiveness 50  online 45 quality 42 partner/partnership 32 value for money 29 diverse/diversity 28 Sky 10 Netflix 4 Strictly Come Dancing 2 Great British Bake Off 1 The Archers 1 EastEnders zero",
+  "webTitle": "Go figure: the day the BBC thought its number was up",
+  "webPublicationDate": "2016-05-12T16:49:20Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/12/go-figure-the-day-the-bbc-thought-its-number-was-up",
+  "keyword": [
+    {
+      "webTitle": "BBC",
+      "id": "media/bbc",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "John Whittingdale",
+      "id": "politics/john-whittingdale",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "John Plunkett",
+      "id": "profile/johnplunkett"
+    }
+  ],
+  "guardianId": "media/2016/may/12/go-figure-the-day-the-bbc-thought-its-number-was-up"
+}

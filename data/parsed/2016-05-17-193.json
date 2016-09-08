@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/economics-blog/2016/may/17/sluggish-uk-economy-likely-to-hold-back-inflation",
+  "id": "2016-05-17-193",
+  "sectionId": "business",
+  "body": "For a country that has had so much trouble controlling the cost of living, the recent performance of prices in Britain has been extraordinary. Inflation has been below the government\u2019s 2% target for more than two years. For the best part of 18 months it has been running at under 0.5%. It fell in April to stand at just 0.3%. To be sure, there were some one-off factors at play. The early timing of Easter made a difference, because air fares rose sharply to coincide with the holiday period in March and then fell back again last month. The drop in the cost of clothing and footwear almost certainly had something to do with the dismal weather. And if you look beneath the headline number, it is possible to come up with reasons why inflation could rise gently over the coming months. Oil prices are up by $20 a barrel since the turn of the year and the deflationary impact of cheap crude on fuel prices is easing. There was a pick-up in inflation for two sectors \u2013 hotels and catering, and recreational services \u2013 likely to be affected by bigger wage bills as a result of the higher \u201cnational living wage\u201d.   Related: UK inflation drops as air fares fall    Even so, core inflation \u2013 which strips out energy, food, alcohol and tobacco \u2013 remains weak even though the economy is well into its seventh year of expansion. Employers are not being especially generous with their pay offers and that means core inflation \u2013 at 1.2% \u2013 is no higher than it was last autumn.   Inflation graphic   The assumption among many City economists is that inflation will rise steadily in the second half of the year, putting interest rate increases from the Bank of England back on the agenda. They expect an unwinding of the sharp fall in energy prices in late 2015 coupled with a rebound in activity once the threat of Brexit is out of the way to nudge the monetary policy committee into action. These forecasts should be taken with a pinch of salt. Inflation is low and the economy was weakening even before the government announced the date of the referendum in late February. There will probably be a bit of a bounce in the third quarter if, as seems likely, the decision on 23 June is to stay in the EU. But there is more chance of the economy stalling than there is of a boom. That will keep inflationary pressure in check and should make the Bank cautious about raising rates.",
+  "webTitle": "Sluggish UK economy likely to hold back inflation",
+  "webPublicationDate": "2016-05-17T11:20:18Z",
+  "webUrl": "https://www.theguardian.com/business/economics-blog/2016/may/17/sluggish-uk-economy-likely-to-hold-back-inflation",
+  "keyword": [
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Inflation",
+      "id": "business/inflation",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Interest rates",
+      "id": "business/interest-rates",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Services sector",
+      "id": "business/services-sector",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Larry Elliott",
+      "id": "profile/larryelliott"
+    }
+  ],
+  "guardianId": "business/economics-blog/2016/may/17/sluggish-uk-economy-likely-to-hold-back-inflation"
+}

@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/03/self-driving-cars-volvo-chief-autopilot",
+  "id": "2016-05-03-114",
+  "sectionId": "business",
+  "body": "About one in four owners of premium cars would buy a self-driving vehicle, according to Volvo\u2019s chief executive, who has vowed to make the technology affordable. H\u00e5kan Samuelsson said Volvo had had a deluge of interest in its \u201cDrive me\u201d trial in London next year, when 100 drivers will test its new autonomous driving technology on motorways and major roads. The Swedish carmaker plans to start selling vehicles equipped with the technology as early as 2020.   Related: How autonomous cars are driving the city of the future    Volvo will test the technology in Gothenburg this year. It is also looking into conducting a trial in China, where congestion and road safety are major issues. Speaking at a seminar on self-driving cars in London, Samuelsson said: \u201cA quarter of customers for premium cars would be very interested in the autopilot function.\u201d He added that the technology would be affordable. \u201cIt\u2019s not a product where you have to rely on subsidies.\u201d With industry experts estimating that 90% of road accidents are caused by human error, Samuelsson said the technology \u201cwill save lives and reduce congestion\u201d. He predicted \u201csubstantial benefits to society\u201d, with less time wasted by drivers sat in traffic. \u201cConference calls could be done in the car \u2013 it\u2019s an extension of office hours,\u201d Samuelsson said. \u201cPeople will be able to use their time better. You can read your mails, watch a movie or just relax.\u201d However, this does not mean that driving licences will become a thing of the past. Samuelsson expects drivers to switch to autopilot when appropriate \u2013 for example, when they drive on the motorway. James Dalton, head of the Association of British Insurers, said drivers would still have to be fully qualified, competent and sober. \u201cI can\u2019t see a scenario in the next 25 years where a driver gets into a car drunk and gets emailing on the way home. I don\u2019t think the average consumer will accept that.\u201d He drew a parallel with an aircraft being flown on autopilot, with a human pilot sitting in the cockpit, ready to take over should something go wrong. He added: \u201cThe challenges of driving in London are very different from driving in rural Worcestershire.\u201d Volvo pointed to US government research predicting that self-driving cars will lead to an 80% fall in the number of car crashes by 2035. Samuelsson also referred to a 2014 study that estimated a saving equivalent to 2% of US GDP, or more than $400bn, in lower yearly accident-related costs if all cars were self-driving. Car insurance premiums are also expected to fall, resulting in a financial hit to the insurance industry, which admitted it would have to adapt to what Volvo described as a \u201cseismic\u201d change. Younger male drivers, who currently pay the highest premiums, stand to benefit. Tim Marlow, head of autonomous & connected vehicle research at insurer Ageas in the UK, said: \u201cAutonomy flattens risk.\u201d Marlow said insurers would have to move from a fault-based, or tort liability, system in which companies pay according to each party\u2019s degree of fault, to a product liability system. Data recorders will help establish whether the vehicle technology or the driver is to blame in the event of an accident.  Dalton said this would be a big change for insurers, but also for car manufacturers, which would have to be adequately capitalised to pay out claims that could run into the tens of millions of pounds. Experts said customers expected a streamlined claims process and warned that if a manufacturer went to court, it could take years to settle a claim. Analysts said specialist motor insurers such as Admiral and RAC were under threat and would have to diversify into other areas such as home and pet cover. Dalton said: \u201cThe insurance industry has been around since the 16th century. It has dealt with the emergence of ships and aircraft and it will deal with the emergence of self-driving cars. It\u2019s a challenge and there will be a change but we are ready for it.\u201d",
+  "webTitle": "Expensive car owners will rush to buy self-driving cars, says Volvo chief",
+  "webPublicationDate": "2016-05-03T16:11:34Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/03/self-driving-cars-volvo-chief-autopilot",
+  "keyword": [
+    {
+      "webTitle": "Volvo",
+      "id": "business/volvo",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Self-driving cars",
+      "id": "technology/self-driving-cars",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Motoring",
+      "id": "technology/motoring",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Insurance industry",
+      "id": "business/insurance",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Insurance",
+      "id": "money/insurance",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Motoring",
+      "id": "money/motoring",
+      "sectionId": "money",
+      "sectionName": "Money"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Julia Kollewe",
+      "id": "profile/juliakollewe"
+    }
+  ],
+  "guardianId": "business/2016/may/03/self-driving-cars-volvo-chief-autopilot"
+}

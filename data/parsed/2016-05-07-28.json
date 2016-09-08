@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/08/alberta-wildfire-fear-raging-double-in-size-fort-mcmurray-canada",
+  "id": "2016-05-07-28",
+  "sectionId": "world",
+  "body": "The raging wildfire that forced the evacuation of the Alberta oil town of Fort McMurray intensified on Saturday as hot, dry weather whipped up fires around the beleaguered community. Police continued to escort fresh convoys of evacuees out of the region as officials warned the fire could double in size this weekend. The blaze \u2013 the largest of more than 40 wildfires that are now burning across the province of Alberta \u2013 has forced virtually all the 88,000 residents of Fort McMurray to flee. The weather, which has seen temperatures rise to 28C, continues to hinder efforts to fight the wildfire, said Matthew Anderson, an official with the Alberta government. \u201cIt\u2019s going to be a very extreme fire-hazard kind of day,\u201d he said. \u201cThe fire\u2019s growth potential is quite large.\u201d The Alberta government, which declared a state of emergency last week, said the blaze had grown to cover more than 100,000 hectares (around 250,000 acres) or about 1,000 square kilometres (390 sq miles). Aided by high winds, scorching heat and low humidity, the fire grew from 75 sq km on Tuesday to 100 sq km on Wednesday, but by Thursday it was almost nine times that size, at 850 sq km. That is an area roughly the size of Calgary, Alberta\u2019s largest city. The full extent of property losses in Fort McMurray has yet to be determined, but authorities said about 1,600 structures were believed to have been destroyed. One analyst estimated insurance losses could exceed C$9bn (\u00a34.8bn). Entire neighbourhoods have been burned to the ground, though most evacuees fled the town without knowing the eventual fate of their homes. The majority got away with only a few possessions and some were forced to leave pets behind. At least 10 oil-sands operators have cut production because of evacuations and other emergency measures that have complicated delivery of petroleum by rail, pipeline and highway. About half of Canada\u2019s oil-sands production capacity has been taken offline by the conflagration, according to Reuters. Although no deaths or injuries have been reported, Alberta\u2019s premier, Rachel Notley, warned on Saturday that the impact of the wildfire would be long-lasting. \u201cThe city of Fort McMurray is not safe to return to, and this will be true for a significant period of time,\u201d she said. This point was emphasised by Chad Morrison, Alberta\u2019s manager of wildfire prevention, who said he expected the fire to expand into more remote forested areas north-east and away from Fort McMurray. \u201cWe have not seen rain of significance in this area for the last two months,\u201d Morrison said. \u201cThis fire will continue to burn for a very long time until we see some significant rain.\u201d Earlier last week, most people fleeing the flames headed south by car on Alberta Highway 63, the only land route out of the area. This left many temporarily stranded on the roadside when their cars ran out of petrol. Other residents who initially sought shelter in oil camps and settlements north of the city found themselves cut off in overcrowded conditions. On Friday, they were forced to retrace their route back through Fort McMurray on to Highway 63. The fire has become so extensive that smoke is blanketing parts of the neighbouring province of Saskatchewan, where Environment Canada has issued air quality warnings for several areas. Chad Robertson, a tanker driver who was evacuated from Husky Energy\u2019s Sunrise project, north-east of Fort McMurray, said there was panic when the fire started, even though the flames were relatively far away. Scott Burrell from British Columbia had to wait in an airport terminal that had been repurposed for evacuees waiting for flights. He said he was working for a scaffolding company at a plant called Fort Hills when the fire broke out. \u201cI just saw what looked like a massive cloud in the sky, but I knew it was fire,\u201d he said. Burrell and others were flown out on Friday, after waiting to be evacuated for three days.",
+  "webTitle": "Raging Canadian wildfire could double in size",
+  "webPublicationDate": "2016-05-07T23:04:06Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/08/alberta-wildfire-fear-raging-double-in-size-fort-mcmurray-canada",
+  "keyword": [
+    {
+      "webTitle": "Wildfires",
+      "id": "world/wildfires",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Canada",
+      "id": "world/canada",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Natural disasters and extreme weather",
+      "id": "world/natural-disasters",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Americas",
+      "id": "world/americas",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Robin McKie",
+      "id": "profile/robinmckie"
+    }
+  ],
+  "guardianId": "world/2016/may/08/alberta-wildfire-fear-raging-double-in-size-fort-mcmurray-canada"
+}

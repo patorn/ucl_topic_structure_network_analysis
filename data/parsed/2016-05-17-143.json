@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/17/interpol-report-border-protection-forces-migrants-people-smugglers",
+  "id": "2016-05-17-143",
+  "sectionId": "world",
+  "body": "Attempts to deter migrants from reaching Europe such as the EU-Turkey deal are likely to force people into the arms of smugglers, Interpol has said in a joint statement with the EU\u2019s law enforcement agency. More than 90% of recent irregular journeys to Europe were facilitated by smugglers, a figure that is likely to rise due to increased border protection, Interpol and Europol have concluded in a report on people smuggling. \u201cThese numbers are expected to increase in the future in response to control measures taken by countries along the migratory routes,\u201d the report says.   Related: Hiding in plain sight: inside the world of Turkey's people smugglers    Deportations from Greece, as well as border fences in Macedonia, Hungary and Austria, are also likely to force people to try alternative smuggling routes, the report says. \u201cA further diversification of routes is expected as smugglers adapt their services to increased controls and find new ways into the EU,\u201d concludes the report, which says it is based on interviews with 1,500 passengers, and investigations into 40,000 smuggling suspects. \u201cNew hotspots may emerge in response to these changes,\u201d the report adds. Smuggling routes to Europe in 2014 and 2015 were mainly funnelled through Turkey, Libya and to a lesser extent Egypt. Smugglers also operate inside Europe itself. Interpol and Europol believe the one million refugees who arrived by boat last year in Europe may have provided smugglers with a turnover of as much as $5-6bn (\u00a33.5-4.2bn), based on the assumption that migrants each pay smugglers an average of between $3,200-$6,500.  However, other researchers believe this may exaggerate the average cost of a journey, which saw many Syrians pay no more than a few hundred dollars to reach Turkey, one thousand to cross the Aegean Sea to Greece, and then several hundred to cross Europe to Germany. The $6bn figure also does not take into account the smugglers\u2019 costs, which include payment for boats, hotels, driving costs and bribes to officials.   Related: Libya's people smugglers: inside the trade that sells refugees hopes of a better life    The report also warns that migrants are vulnerable to sexual exploitation, in lieu of payment for smuggling services. Separately, Interpol and Europol predict that incidents such as the Paris attacks, which were partly facilitated by extremists who were smuggled into Europe, may not be isolated incidents. \u201cTerrorists may use migrant smugglers\u2019 resources to achieve their goals,\u201d the report says. \u201cThere is an increased risk that foreign terrorist fighters may use the migratory flows to (re-)enter the EU.\u201d Other arms of the EU argue that deterrents such as the EU-Turkey deal will bring down smuggling networks, rather than buttress them. In a statement on Monday, a spokesperson for the European commission said the EU-Turkey deal \u201cis about breaking the business model of people smugglers, reducing the risks to vulnerable people attempting to cross a dangerous sea in unsafe vessels\u201d.",
+  "webTitle": "Interpol: increased border protection forces migrants to use people smugglers",
+  "webPublicationDate": "2016-05-17T14:00:21Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/17/interpol-report-border-protection-forces-migrants-people-smugglers",
+  "keyword": [
+    {
+      "webTitle": "Migration",
+      "id": "world/migration",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Refugees",
+      "id": "world/refugees",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "European commission",
+      "id": "world/european-commission",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Patrick Kingsley",
+      "id": "profile/patrick-kingsley"
+    }
+  ],
+  "guardianId": "world/2016/may/17/interpol-report-border-protection-forces-migrants-people-smugglers"
+}

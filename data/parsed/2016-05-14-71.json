@@ -1,0 +1,37 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/14/maria-sharapova-appeal-verdict-wimbledon-tennis",
+  "id": "2016-05-14-71",
+  "sectionId": "sport",
+  "body": "Maria Sharapova, provisionally banned since March for failing a drugs test at the Australian Open, will have her appeal heard in London on Wednesday, but a verdict will not be handed down until June, possibly in time for Wimbledon.   Related: Maria Sharapova offered potential lifeline over positive test for meldonium    There has been considerable dithering over the date of the hearing but the Russian has remained upbeat about her prospects of success, posting photos on social media of her training in anticipation of a return. Her case will rest mainly on the recent admission by World Anti-Doping Agency that it was difficult to tell how long small amounts meldonium would stay in a player\u2019s system. A version of the drug, on the International Tennis Federation\u2019s banned list since 1 January, had been part of Sharapova\u2019s regime for a decade, when it was legal, allegedly to treat a magnesium deficiency that affected her heartbeat, as well as a safeguard against diabetes.",
+  "webTitle": "Maria Sharapova appeal verdict will be known in time for Wimbledon",
+  "webPublicationDate": "2016-05-14T18:12:38Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/14/maria-sharapova-appeal-verdict-wimbledon-tennis",
+  "keyword": [
+    {
+      "webTitle": "Maria Sharapova",
+      "id": "sport/maria-sharapova",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Tennis",
+      "id": "sport/tennis",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Drugs in sport",
+      "id": "sport/drugs-in-sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [],
+  "guardianId": "sport/2016/may/14/maria-sharapova-appeal-verdict-wimbledon-tennis"
+}

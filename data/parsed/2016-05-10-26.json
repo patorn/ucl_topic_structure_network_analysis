@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/10/oakland-raiders-las-vegas-mayor-confident-in-move",
+  "id": "2016-05-10-26",
+  "sectionId": "sport",
+  "body": "Carolyn Goodman, the mayor of Las Vegas, is confident that the Oakland Raiders will move to her city \u2013 providing the prospective relocation is handled properly. The Raiders inched closer to a move to Las Vegas last month, after owner Mark Davis met Nevada officials and pledged $500m towards the construction of a new $1.4bn, 65,000-seat domed stadium. He said the Raiders would give Las Vegas and the NFL \u201can offer they can\u2019t refuse\u201d and would turn \u201cthe Silver State into the Silver-and-Black State\u201d.   Related: Tom Brady's $200 cookbook \u2018TB12 Nutrition Manual\u2019 sells out on website    \u201cMark Davis has assured us that Las Vegas is not getting played in a Raiders stadium deal,\u201d Goodman said on Tuesday. \u201cI think they from what I understand, if truth is truth, they will come if Nevada can go ahead and do this properly. I know we will have a team.\u201d She said that the stadium site could also host an MLS team and UNLV football. Davis, who inherited the Raiders after the death of his father Al in 2011, wants the team to leave the Coliseum for a football-specific stadium, and is open to staying in the Bay Area, but has not been able to strike a deal with Oakland officials. The Raiders have two one-year leases at the Coliseum that take them through 2018. Goodman said she told Sheldon Adelson, the CEO of the Las Vegas Sands Corporation and one of the stadium project\u2019s major backers, \u201cto get us a team two years ago.\u201d She said it seemed more likely at the time that Vegas would look to court the Chargers, because of the city\u2019s connection with the Spanos family, which owns the team. The Chargers, however, are more inclined to stay in San Diego if a deal can\u2019t be struck to move the team to Los Angeles. Goodman said she doesn\u2019t see funding for the stadium as a major issue. \u201cWe are getting calls from outside the region offering to help with funding for stadium in Las Vegas,\u201d she said. \u201cI think we\u2019re certainly mature enough and ready enough for a major league any sport and have been for some years \u2013 because we\u2019ve grown to over 2.1 million in resident population and have over 42 million visitors,\u201d she said. Goodman also said Las Vegas would be a destination for fans from the Bay Area, Los Angeles, Phoenix, and all over the west.",
+  "webTitle": "Las Vegas mayor confident Raiders will relocate: 'I know we will have a team'",
+  "webPublicationDate": "2016-05-10T21:30:41Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/10/oakland-raiders-las-vegas-mayor-confident-in-move",
+  "keyword": [
+    {
+      "webTitle": "Oakland Raiders",
+      "id": "sport/oakland-raiders",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "NFL",
+      "id": "sport/nfl",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "US sports",
+      "id": "sport/us-sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "sport/2016/may/10/oakland-raiders-las-vegas-mayor-confident-in-move"
+}

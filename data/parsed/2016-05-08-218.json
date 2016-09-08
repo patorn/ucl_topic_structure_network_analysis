@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/lifeandstyle/2016/may/08/quiz-time-money-better-ben-ambridge",
+  "id": "2016-05-08-218",
+  "sectionId": "lifeandstyle",
+  "body": "Imagine you are given the opportunity to change the arrangements of your current job. Would you rather: a) work fewer hours and make less money or b) work more hours and make more money? If you said a) then good news: a study published this year found that people who value time over money tend to be happier. Across six experiments \u2013 with university students, museum visitors, and respondents to an online survey \u2013 researchers found that the people who think it\u2019s better to have more time than more money gave higher scores on questionnaire-based measures of happiness. You might think this is a spurious result. Perhaps, for example, people who pick option a) do so because they tend to be financially well off (and so can afford to turn down the money), and it\u2019s this financial security \u2013 rather than valuing time over money per se \u2013 that makes them happier. But this isn\u2019t the case. The link between prioritising time over money (as mentioned by the type of question we\u2019ve just asked) held even after controlling for income, marital status (married people tend to be happier), materialism, and even how much spare time people feel they have. This doesn\u2019t mean, of course, that we can infer causality. So even if it were possible to force yourself to change from being a b-type to an a-type person (which it probably isn\u2019t), there\u2019s no reason to believe that it would necessarily make you any happier. Psy-Q by Ben Ambridge is published by Profile Books at \u00a38.99. To order a copy for \u00a36.99, go to bookshop.theguardian.com",
+  "webTitle": "Time is money. But which is better? | Ben Ambridge",
+  "webPublicationDate": "2016-05-08T05:00:13Z",
+  "webUrl": "https://www.theguardian.com/lifeandstyle/2016/may/08/quiz-time-money-better-ben-ambridge",
+  "keyword": [
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Psychology",
+      "id": "science/psychology",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ben Ambridge",
+      "id": "profile/ben-ambridge"
+    }
+  ],
+  "guardianId": "lifeandstyle/2016/may/08/quiz-time-money-better-ben-ambridge"
+}

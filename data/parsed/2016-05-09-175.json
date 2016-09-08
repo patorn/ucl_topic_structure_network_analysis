@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/money/2016/may/09/waiters-what-do-you-really-think-about-tipping",
+  "id": "2016-05-09-175",
+  "sectionId": "money",
+  "body": "The government launched a review last year into tipping, looking at 150,000 businesses \u2013 from hospitality to leisure services. It followed news that dozens of restaurants were exposed for skimming tips from staff for administration fees. So what did it find? The results came out at the beginning of May and three main changes were suggested. Firstly, the report said that it needs to be made clearer to consumers that tips are voluntary. Other proposals include that there needs to be more guarantees tips are given to workers and that the whole process becomes more open and transparent. What do you think about tipping where you work? Do you get enough from it or do you think the system is fair? What would you prefer from customers? Do any cultures around the world have a better approach than the UK? Share your views in the form below.",
+  "webTitle": "Waiters, what do you really think about tipping?",
+  "webPublicationDate": "2016-05-09T13:18:07Z",
+  "webUrl": "https://www.theguardian.com/money/2016/may/09/waiters-what-do-you-really-think-about-tipping",
+  "keyword": [
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Restaurants",
+      "id": "lifeandstyle/restaurants",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Food & drink",
+      "id": "lifeandstyle/food-and-drink",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Sarah Marsh",
+      "id": "profile/sarah-marsh"
+    }
+  ],
+  "guardianId": "money/2016/may/09/waiters-what-do-you-really-think-about-tipping"
+}

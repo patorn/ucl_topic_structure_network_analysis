@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/30/action-against-illegal-fishing-falls-after-cuts-at-enforcement-agency",
+  "id": "2016-05-30-63",
+  "sectionId": "environment",
+  "body": "Far fewer pirate fishermen are being caught in English and Welsh waters, with prosecutions, warnings and inspections all plummeting in recent years following cuts at the enforcement agency. The reduction in action against illegal fishing, a multimillion-pound activity, is putting marine life at risk and allowing \u201cblackfish\u201d to become a normal catch for some rogue operators, according to experts. Those convicted of major fishing crimes are also free to continue fishing afterwards. The steep drop in activity is revealed in data that the enforcement agency, the Marine Management Organisation (MMO), released to Greenpeace in response to freedom of information requests. It shows that the annual number of prosecutions fell to 14 in 2014 and 2015, compared with an average of 23 in each of the three years before. Written and verbal warnings have fallen by 66% and 53% respectively over the last five years. Inspecting the lorries carrying fish from ports is also vital to prevent fraud, but these checks have fallen by almost half since 2013. The MMO is funded by the Department of Environment, Food and Rural Affairs, and has suffered budget cuts of 30% since 2010-11. Staff numbers fell by 10% in the last year alone. \u201cWith the risk of getting caught falling due to lack of inspections, illegal fishing has become a part of normal business practice for some operators,\u201d said Prof Callum Roberts, an expert in marine conservation at the University of York. Will McCallum, the head of oceans at Greenpeace UK, said: \u201cIt\u2019s absolutely crucial that the laws in place to protect our marine environment are properly enforced. By cutting checks the UK government is lowering the guard on the fight against illegal fishing. This doesn\u2019t just put fish stocks and other marine life at risk, it also penalises businesses who play by the rules.\u201d An MMO spokeswoman said: \u201cThe MMO works to achieve the difficult balance of ensuring the sustainability of fish stocks [and] the needs of the fishing industry. The MMO has invested significant resource into taking proportionate action and to achieve compliance through methods other than prosecution.\u201d  She said MMO officers also used education and guidance to prevent illegal fishing, and worked with other organisations on surveillance and enforcement. The Greenpeace investigation also revealed that operations caught fishing illegally were allowed to return to the seas, even after serious offences. The O Genita, a vessel owned by the Vidal fishing family from Spain, was part of a conviction in 2012 resulting in a fine of \u00a31.62m.  The judge in the case said the operation was guilty of \u201cwholesale falsification of official documentation\u201d which represented a \u201csystematic, repeated and cynical abuse of the EU fishing quota system\u201d. The ship, however, still holds quotas for fish including hake, one of the species it was caught illegally overfishing. In 2015, Spanish authorities imposed a fine of \u20ac17m (\u00a313m) against three ships linked to the Vidals, and in 2016 five family members were arrested in Spain and charged with illegally fishing Patagonian toothfish in Antarctic waters.  Another fishing firm, the Dutch Vrolijk family company, still owns 23% of all English fish quotas despite their vessel being caught in 2014 with more than 632,000kg of illegally caught mackerel. The company and master of the boat were ordered to pay \u00a397,000 in fines and \u00a35,000 in costs.  Fines imposed after MMO prosecutions average about \u00a37,000. Roberts said: \u201cMost people feel that punishment should fit the crime. But in fishing, the punishments are ridiculously lenient and known criminals are left to carry on making money regardless.\u201d McCallum said: \u201cDecades of government mismanagement have left smaller, more sustainable boats struggling to stay afloat, whilst serial offenders like the Vidals are still profiting from fishing quota. A sweeping reform of this broken system is sorely needed.\u201d",
+  "webTitle": "Action against illegal fishing falls after cuts at enforcement agency",
+  "webPublicationDate": "2016-05-30T16:47:16Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/30/action-against-illegal-fishing-falls-after-cuts-at-enforcement-agency",
+  "keyword": [
+    {
+      "webTitle": "Fishing",
+      "id": "environment/fishing",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Conservation",
+      "id": "environment/conservation",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Food",
+      "id": "environment/food",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Marine life",
+      "id": "environment/marine-life",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Wildlife",
+      "id": "environment/wildlife",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Damian Carrington",
+      "id": "profile/damiancarrington"
+    }
+  ],
+  "guardianId": "environment/2016/may/30/action-against-illegal-fishing-falls-after-cuts-at-enforcement-agency"
+}

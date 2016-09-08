@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/01/young-australian-goalkeeper-stefan-petrovski-dies-following-lightning-strike",
+  "id": "2016-05-01-104",
+  "sectionId": "football",
+  "body": "A young Australian football player struck by lightning last month while playing in Malaysia, Stefan Petrovski, has died in hospital. The 18-year-old goalkeeper lost consciousness after being hit as he left a training session for his club, Melaka United, on 5 April. He was rushed to the emergency department of a Malacca hospital before being transferred to the intensive care unit, where he was initially in a stable condition and breathing with the support of a ventilator. Fairfax Media reported Petrovski had shown signs of recovery but his condition deteriorated recently. He was reportedly suffering from a lack of oxygen supply to and swelling on the brain. \u201cI was shocked when I was told of the news by the assistant to the association\u2019s team manager Datuk Yusof Mahadi,\u201d Khairi Anuar Ahmad, the club\u2019s vice president, was quoted as saying in the New Straits Times. \u201cHe was a dedicated goalkeeper and boasted that he wanted to be the best goalkeeper in the country. He was very jovial, a good boy, liked by his team-mates and always wanted to be better.\u201d    PFAM is saddened that Stefan Petrovski, has passed away. Our thoughts and condolences are with the family. pic.twitter.com/9Au5ZyDsyV\u2014 PFA Malaysia (@pfamalaysia) May 1, 2016    A second player, Muhd Afiq Azuan, was hit in the freak incident but the 21-year-old regained consciousness and was able to be stabilised. Melaka United, a club based in Malacca, play in the second tier of Malaysian football.  Petrovski, of mixed Australian and Malaysian heritage, played for NSW Premier League club Sydney Olympic before moving to Malaysia upon obtaining his passport.",
+  "webTitle": "Young Australian goalkeeper Stefan Petrovski dies following lightning strike",
+  "webPublicationDate": "2016-05-01T12:34:54Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/01/young-australian-goalkeeper-stefan-petrovski-dies-following-lightning-strike",
+  "keyword": [
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Australia sport",
+      "id": "sport/australia-sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "football/2016/may/01/young-australian-goalkeeper-stefan-petrovski-dies-following-lightning-strike"
+}

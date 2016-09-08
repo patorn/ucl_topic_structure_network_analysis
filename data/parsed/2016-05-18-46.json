@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/society/2016/may/18/type-1-diabetes-treatment-could-end-need-for-insulin-shots",
+  "id": "2016-05-18-46",
+  "sectionId": "society",
+  "body": "Insulin shots could become a thing of the past for type 1 diabetes patients thanks to a technology being developed by Cell and Gene Therapy Catapult, a London-based not-for-profit organisation, and Aberdeen University. The pre-clinical results have encouraged CGT and Aberdeen University to create a spin-out company, called Islexa. It will manufacture lab-grown islets, the organoids responsible for insulin production, by reprogramming donated pancreatic tissue. Only 30-50 people with type 1 diabetes in the UK currently receive an islet transplant each year, owing to a lack of donors and the difficulty of extracting islets from pancreatic tissue.  Growing islets will \u201csignificantly increase the number of patients who can receive the treatment,\u201d Keith Thompson, CGT\u2019s chief executive, told the World Stem Cells and Regenerative Medicine congress in London on Wednesday. He will run Islexa with Michael Bennet from CGT and Anne Lewendon from Aberdeen University. If clinical trials are successful, the technology means tens of thousands more people could live without the need for frequent insulin injections, although it will take a few years until the treatment is available. About 320,000 people in Britain have type 1 diabetes, a number set to more than double to 652,000 by 2035. Around the world, 21 million people have type 1 diabetes. It is a lifelong condition that occurs when the pancreas does not produce any insulin, while type 2 diabetes \u2013 far more common, especially as obesity rises around the world \u2013 is a condition where the pancreas does not produce enough insulin or the body\u2019s cells do not react to it.  Prof Kevin Docherty, from Aberdeen University, said: \u201cDonated islets are already effectively treating severe cases of type 1 diabetes. Having a hugely expanded supply of lab-grown islets will enable us to significantly extend this established clinical treatment.\u201d CGT was set up in 2012 and is based on the 12th floor of Guy\u2019s hospital in London. It employs more than 100 people and has government backing through Innovate UK but also gets private funding through partnerships. It is building a \u00a355m cell therapy manufacturing centre in Stevenage. Islexa will use CGT\u2019s labs at Guy\u2019s and facilities at Aberdeen University. They are looking for investors to take Islexa all the way as a fully fledged external company. The promising early results have given them the confidence to form a wider consortium with the Scottish Islet Transplant Programme, the University of Edinburgh and the Scottish National Blood Transfusion Service. John Casey, consultant transplant surgeon at the Royal Infirmary of Edinburgh and lead clinician for the islet transplantation programme in Scotland, said: \u201cIslet transplantation can transform the lives of patients with type 1 diabetes, and in some cases can result in long-term freedom from insulin injections with excellent glucose control.\u201d",
+  "webTitle": "Type 1 diabetes treatment could end need for insulin shots",
+  "webPublicationDate": "2016-05-18T18:49:50Z",
+  "webUrl": "https://www.theguardian.com/society/2016/may/18/type-1-diabetes-treatment-could-end-need-for-insulin-shots",
+  "keyword": [
+    {
+      "webTitle": "Diabetes",
+      "id": "society/diabetes",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "University of Aberdeen",
+      "id": "education/universityofaberdeen",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Julia Kollewe",
+      "id": "profile/juliakollewe"
+    }
+  ],
+  "guardianId": "society/2016/may/18/type-1-diabetes-treatment-could-end-need-for-insulin-shots"
+}

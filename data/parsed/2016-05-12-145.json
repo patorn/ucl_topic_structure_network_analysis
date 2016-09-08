@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/12/people-think-there-is-more-leftwing-news-on-facebook-says-study",
+  "id": "2016-05-12-145",
+  "sectionId": "technology",
+  "body": "People in the UK from across the political spectrum think that they see more leftwing news on Facebook than stories from neutral or rightwing sources, according to a YouGov poll.  The findings from an online poll come as a debate rages in the US over allegations that Facebook staff working on its trending articles feature censored rightwing news.  However, the YouGov study relates to the Facebook newsfeed, which prioritises posts using a complex algorithm based on numerous inputs, such as how often it is liked, how long someone spends reading it, how much it is shared and who is sharing it. The way Facebook is set up means people are more likely to be connected to people with similar politics, and thus would be expected to see more news from sources that reflect their own beliefs.  However, according to YouGov, almost a quarter of those who identified as right wing said they see more news from leftwing sources on Facebook, compared to 11% who said they see more rightwing sources.  Four in 10 on the left said more of the news they see on Facebook was from leftwing sources, compared to 7% who saw more rightwing sources, while the split among \u201ccentrists\u201d was 10% left wing and 4% right wing.  Though the findings appear to suggest the social network skews left, it is based on perception rather than objective measurement, and thus may not be reflected in the choices made by the algorithm or what people are really seeing.    People from the left, right and centre perceive a left-wing skew on Facebook  \u2013 https://t.co/B3QbxwmIix pic.twitter.com/rvpVBDvB5F\u2014 YouGov (@YouGov) May 12, 2016    There are also a number of factors other than political bias within Facebook\u2019s algorithm that could be behind YouGov\u2019s findings.  According to data from the social media data firm NewsWhip, the left-leaning Guardian and the BBC regularly outperform more rightwing rivals on Facebook, including the world\u2019s largest English language news publisher the Daily Mail. While that will be in part because of the way people interact with news stories from both sources and the content of the articles they produce, other factors, such as the technology used to deliver the articles, will also play a role in how much priority Facebook gives them. Another, possibly simpler explanation is the fact the study was carried out between 10 and 11 May, during which time the allegations of leftwing bias against Facebook, which the company vehemently denies, were in the news. YouGov\u2019s Facebook findings however contrast sharply with its findings on Twitter, which for the most part does not filter posts algorithmically. More people on both the left and right said they saw more news articles from sources aligned with their own political beliefs than from the other end of the spectrum.  YouGov\u2019s study also suggests Twitter is more polarising, with those from all political persuasions identifying a larger proportion of posts from either the left or the right than on Facebook. However, those identifying as centrists said they saw a higher proportion of rightwing news sources shared (33%) than leftwing sources (15%).",
+  "webTitle": "People think there is more leftwing news on Facebook, says study",
+  "webPublicationDate": "2016-05-12T15:28:55Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/12/people-think-there-is-more-leftwing-news-on-facebook-says-study",
+  "keyword": [
+    {
+      "webTitle": "Facebook",
+      "id": "technology/facebook",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Social networking",
+      "id": "media/socialnetworking",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jasper Jackson",
+      "id": "profile/jasper-jackson"
+    }
+  ],
+  "guardianId": "technology/2016/may/12/people-think-there-is-more-leftwing-news-on-facebook-says-study"
+}

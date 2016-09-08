@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/08/prince-harry-criticises-incessant-intrusions-private-life",
+  "id": "2016-05-08-122",
+  "sectionId": "uk-news",
+  "body": "Prince Harry has criticised \u201cincessant\u201d intrusions into his private life, saying the line between his public and private life had become almost non-existent. \u201cWe will continue to do our best to ensure that there is the line,\u201d he told Andrew Marr in a BBC interview to mark the opening in Florida of the Invictus Games, of which he is patron, for injured military personnel and veterans.  \u201cEveryone has a right to privacy.\u201d Even, he made clear, the peculiarly privileged private life of a 31-year-old prince. He and the other members of the royal family, he said, were \u201ccompletely aware\u201d of it. \u201cI will spend the rest of my life earning that privilege and trying to bring a spotlight on to things and causes that really matter to me, and hopefully matter to other people as well. \u201cEveryone has a right to their privacy, and a lot of the members of the public get it, but sadly in some areas there is this incessant need to find out every little bit of detail about what goes on behind the scenes. It\u2019s unnecessary.\u201d He added: \u201cThe private life has to be private and I hope people respect that.\u201d  The prince had already complained, in a Sunday Times interview, that he had \u201cmassive paranoia\u201d about women, because of the media intrusion. \u201cEven if I talk to a girl, that person is then suddenly my wife, and people go knocking on her door.\u201d The opening ceremony of the Invictus Games in Orlando, Florida, will be attended by the US first lady , Michelle Obama, and celebrities including the film star Morgan Freeman and the singer James Blunt. The five-day games will be contested by more than 500 athletes from 15 countries. Addressing accusations of being workshy that have dogged him and his brother, the Duke of Cambridge, this year, Harry said that he did not get satisfaction from doing nothing.  \u201cI don\u2019t get any satisfaction from sitting at home on my arse,\u201d he said.  The royal said he wanted a job after leaving the army but could not find one with which he could combine his royal duties.  After leaving the military, he found most jobs he looked at \u201cwere not going to work\u201d combined with royal duties and some jobs were \u201cnot even on the table\u201d.  Harry has been outspoken in his support of veterans, saying he thought the government could do more to help them, and wants to continue to champion sport despite his body being \u201cruined\u201d after 10 years of service.",
+  "webTitle": "Prince Harry criticises 'incessant' intrusions into his private life",
+  "webPublicationDate": "2016-05-08T10:54:49Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/08/prince-harry-criticises-incessant-intrusions-private-life",
+  "keyword": [
+    {
+      "webTitle": "Prince Harry",
+      "id": "uk/prince-harry",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Monarchy",
+      "id": "uk/monarchy",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Privacy & the media",
+      "id": "media/privacy",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Privacy",
+      "id": "world/privacy",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Maev Kennedy",
+      "id": "profile/maevkennedy"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/08/prince-harry-criticises-incessant-intrusions-private-life"
+}

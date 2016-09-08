@@ -1,0 +1,25 @@
+{
+  "apiUrl": "https://content.guardianapis.com/lifeandstyle/2016/may/18/why-bicycles-so-xpensive",
+  "id": "2016-05-18-148",
+  "sectionId": "lifeandstyle",
+  "body": "Why are bicycles so expensive? Were they always proportionally so? Geraldine Blake, Worthing, West Sussex  \u2022 Post your answers \u2013 and new questions \u2013 below or email them to nq@theguardian.com. Please include name, address and phone number.",
+  "webTitle": "Why are bicycles so expensive?",
+  "webPublicationDate": "2016-05-18T14:05:40Z",
+  "webUrl": "https://www.theguardian.com/lifeandstyle/2016/may/18/why-bicycles-so-xpensive",
+  "keyword": [
+    {
+      "webTitle": "Cycling",
+      "id": "lifeandstyle/cycling",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    }
+  ],
+  "authors": [],
+  "guardianId": "lifeandstyle/2016/may/18/why-bicycles-so-xpensive"
+}

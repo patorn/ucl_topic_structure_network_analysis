@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/money/2016/may/09/house-prices-fall-stamp-duty-changes-cool-buy-to-let-market",
+  "id": "2016-05-09-226",
+  "sectionId": "money",
+  "body": "House prices fell in April as buy-to-let purchasers disappeared amid rises in stamp duty on second homes, according to figures from the UK\u2019s largest lender.  Halifax said house prices dropped by 0.8% during the month, a sharp reverse on the 2.2% gain seen in March, taking the average house price to \u00a3212,321, down \u00a31,624 on the month. The annual pace of inflation also slipped back, from 10.1% to 9.2%.  A rush to beat the new stamp duty tax rates for buy to let and second homes during February and March was behind highly volatile pricing and a big rise in the number of transactions in those months, Halifax said.  House sales jumped to 165,480 in March from 116,930 the month before, the highest monthly total since records began in April 2005.  A detailed breakdown by the Council of Mortgage Lenders reveals how far buy-to-let speculators dominated the market in March. It said there were just 28,100 first-time buyers, compared to 29,000 who used buy-to-let mortgages, and another 63,190 who used cash to buy. Landlords typically make up a large portion of cash buyers.  The CML said the spike in sales was \u201clarger than expected, and we can now see that this was mainly as a result of a marked increase in cash transactions.\u201d Analysts are now split as to whether continued tight market conditions will push prices higher, or whether the EU referendum will deter buyers. Halifax\u2019s housing economist Martin Ellis said: \u201cCurrent market conditions remain very tight as the severe imbalance between supply and demand persists. This situation, combined with low interest rates and rising employment and real earnings, should continue to push house prices up over the coming months.\u201d But Halifax added that confidence in the UK housing market is at its lowest level in more than a year. Its Halifax housing market confidence tracker has been on a downward trend since a high point in May 2015, although 65% still believe that average UK property prices will be higher rather than lower 12 months from now. Some commentators are warning that double digit price rises are over, and that sellers will struggle to obtain asking prices. \u201cStarved of the stamp duty stimulus, double-digit annual price rises are unlikely to return any time soon,\u201d said Jonathan Hopper of Garrington Property Finders. \u201cFor the first time in more than a year, we\u2019re seeing many mid-range properties in the most desirable locations selling for below asking price \u2013 hinting that the power dynamic is shifting from a seller\u2019s to a buyer\u2019s market,\u201d The EU referendum could benefit first-time buyers if prices fall, but estate agents said it was a \u201cblack cloud\u201d for sellers hoping to maximise prices.  Alex Gosling, chief executive of online estate agents HouseSimple.com, said: \u201cWith fewer buy-to-let investors looking to buy in April, the slack was expected to be picked up by homebuyers, and that doesn\u2019t appear to have happened \u2013 largely due to the impending Brexit vote, a huge black cloud looming on the horizon.\u201d Mark Posniak, managing director at lender Dragonfly Property Finance, said that after the artificial stimulus provided by the stamp duty deadline, house prices were almost certain to come off the boil in April. \u201cAs we approach the EU referendum, caution will almost certainly prevail and prices are likely to edge down further.\u201d",
+  "webTitle": "House prices fall as stamp duty changes cool buy-to-let market",
+  "webPublicationDate": "2016-05-09T11:10:50Z",
+  "webUrl": "https://www.theguardian.com/money/2016/may/09/house-prices-fall-stamp-duty-changes-cool-buy-to-let-market",
+  "keyword": [
+    {
+      "webTitle": "House prices",
+      "id": "money/houseprices",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Property",
+      "id": "money/property",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Buying to let",
+      "id": "money/buying-to-let",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Housing market",
+      "id": "business/housingmarket",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Patrick Collinson",
+      "id": "profile/patrickcollinson"
+    }
+  ],
+  "guardianId": "money/2016/may/09/house-prices-fall-stamp-duty-changes-cool-buy-to-let-market"
+}

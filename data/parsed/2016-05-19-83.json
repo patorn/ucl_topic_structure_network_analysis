@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/19/pantha-du-prince-the-triad-review",
+  "id": "2016-05-19-83",
+  "sectionId": "music",
+  "body": "The German minimalist producer and stickler for a conceptual framework recently explained his ambition to \u201ccut through the digital dust that surrounds us\u201d with his new album, The Triad. Panther du Prince\u2019s aim is to celebrate human interaction, jamming, even, in an age of GarageBand and disconnect. While this first solo album in six years is elevating, and intricate in its elegance and rhythmic propulsions, it remains uncluttered by the chaos of true, visceral emotion. Modular synths and other vintage analogue gear replace samples, and his vocals are more present than before, amplifying the theme of physical presence. In an Open Space has celestial shoegaze qualities, Frau im Mond, Sterne Laufen has the glacial finesse of Sigur R\u00f3s, while Islands in the Sky is almost indie: \u201cYou haven\u2019t talked in over a year to me,\u201d he sombrely sings, sounding like a worryingly poetic Twitter troll. \u201cYour territory vanished and reappeared.\u201d         Watch video for Panther du Prince: In an Open Space",
+  "webTitle": "Pantha du Prince: The Triad review \u2013 elevating and intricate",
+  "webPublicationDate": "2016-05-19T17:45:17Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/19/pantha-du-prince-the-triad-review",
+  "keyword": [
+    {
+      "webTitle": "Electronic music",
+      "id": "music/electronicmusic",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Dance music",
+      "id": "music/dance-music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Pop and rock",
+      "id": "music/popandrock",
+      "sectionId": "music",
+      "sectionName": "Music"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Harriet Gibsone",
+      "id": "profile/harriet-gibsone"
+    }
+  ],
+  "guardianId": "music/2016/may/19/pantha-du-prince-the-triad-review"
+}

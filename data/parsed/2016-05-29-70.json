@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/29/horse-racing-tips-monday",
+  "id": "2016-05-29-70",
+  "sectionId": "sport",
+  "body": "Leicester  2.10 Pretty Vacant 2.45 Jersey Roy 3.20 Terhaal 3.55 Moorside 4.25 Tawdheef 4.55 Song Of Norway 5.25 Flutterbee Windsor  1.50 Groupie 2.20 High On Love 2.55 Lord Kelvin 3.30 Jayjinski 4.05 Just That Lord (nb) 4.35 Shakopee 5.05 Graceland 5.35 Sydney Ruffdiamond Redcar  12.45 Whiteandgold 1.15 Bahamian Dollar 1.45 Faintly 2.15 Fruit Salad 2.50 Grand Canyon 3.25 Winter House (nap) 4.00 Ingleby Hollow 4.30 Summerlea Cartmel  1.55 Ciao Cielo 2.25 Motion To Strike 3.00 Vodka Wells 3.35 Alderbrook Lad 4.10 Rebeccas Choice 4.45 Done A Runner 5.15 Steamboat Bill Huntingdon  12.30 On Alberts Head 1.00 Cold Knight 1.30 Magic Music Man 2.00 Le Capricieux 2.35 Willem 3.10 Lombardy Boy 3.45 Il Presidente 4.15 Benefit Of Luck   Related: Gay Future betting plot holds fascination at Cartmel, 40 years on",
+  "webTitle": "Horse racing tips: Monday 30 May",
+  "webPublicationDate": "2016-05-29T16:20:08Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/29/horse-racing-tips-monday",
+  "keyword": [
+    {
+      "webTitle": "Horse racing tips",
+      "id": "sport/horse-racing-tips",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Horse racing",
+      "id": "sport/horse-racing",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Greg Wood",
+      "id": "profile/gregwood"
+    }
+  ],
+  "guardianId": "sport/2016/may/29/horse-racing-tips-monday"
+}

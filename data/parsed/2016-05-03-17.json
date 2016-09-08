@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/03/self-driving-car-google-fiat-chrysler-partnership",
+  "id": "2016-05-03-17",
+  "sectionId": "technology",
+  "body": "In a move that marks a major step in the inexorable march towards making self-driving cars a reality, Google have announced what it is calling a \u201cfirst of its kind\u201d partnership with car manufacturer Fiat Chrysler. The partnership, which was announced Tuesday, will see Google\u2019s self-driving technology integrated into a Chrysler Pacifica hybrid minivan, a move which will more than double the testing fleet of self-driving vehicles that Google operates. Tech companies such as Google, Uber and Apple, as well as chip maker Nvidia, have all been working toward autonomous vehicle technology in competition with both each other and car manufacturers. BMW, Audi, Ford, General Motors and Mercedes-Benz are among more than a dozen automotive outfits working on the technology.    Related: Expensive car owners will rush to buy self-driving cars, says Volvo chief    But Google\u2019s alliance with Fiat Chrysler marks the first time two companies have come together from opposite sides of what is often a cultural, as well as technological, gulf \u2013 though Elon Musk\u2019s Tesla can be seen as a sort of hybrid. Engineering teams from Google and Fiat Chrysler will work together at a facility in southern Michigan, according to a press release. Engineering responsibility will be shared between the two companies in the construction of 100 specially designed Pacifica minivans which will be fitted with Google\u2019s automation equipment. \u201cFCA has a nimble and experienced engineering team and the Chrysler Pacifica Hybrid minivan is well-suited for Google\u2019s self-driving technology,\u201d John Krafcik, the CEO of Google\u2019s self-driving car project, said in the press release. \u201cThe opportunity to work closely with FCA engineers will accelerate our efforts to develop a fully self-driving car that will make our roads safer and bring everyday destinations within reach for those who cannot drive.\u201d Sergio Marchionne, CEO of Fiat Chrysler, said in the release: \u201cThe experience both companies gain will be fundamental to delivering automotive technology solutions that ultimately have far-reaching consumer benefits.\u201d",
+  "webTitle": "Google and Fiat Chrysler team up for 'first of its kind' self-driving car project",
+  "webPublicationDate": "2016-05-03T21:19:29Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/03/self-driving-car-google-fiat-chrysler-partnership",
+  "keyword": [
+    {
+      "webTitle": "Self-driving cars",
+      "id": "technology/self-driving-cars",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Google",
+      "id": "technology/google",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Automotive industry",
+      "id": "business/automotive-industry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Nicky Woolf",
+      "id": "profile/nicky-woolf"
+    }
+  ],
+  "guardianId": "technology/2016/may/03/self-driving-car-google-fiat-chrysler-partnership"
+}

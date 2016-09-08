@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/22/leicester-city-football-win-diverse-brexit",
+  "id": "2016-05-22-181",
+  "sectionId": "politics",
+  "body": "Sometimes you howl with rage when the news doesn\u2019t make simple, lateral connections. When, for instance, more than 250,000 Leicester City supporters fill Victoria Park for a triumphant celebration of their Thai-owned football team, starring, inter alia, a Danish goalkeeper (Kasper Schmeichel), an Austrian full-back, Jamaican and German centre-backs, a French midfielder and an Algerian winger. And what of Leicester \u2013 my home town \u2013 itself? It\u2019s Britain\u2019s most diverse city: only 45% described themselves as white British at the last census. Try 33% Christian, 18.6% Muslim and 15.2% Hindu. Mix in football fans from the West Indies and 5% from eastern Europe and what have you got? A melting pot that works. One cheery story on top of another. But did the Brexit tabloids pause to connect one thing with another? Did Newsnight camp in Victoria Park rather than Boston, Lincs? Channel 4 News managed a perfectly civil debate between Leave and Remain migrant audiences from De Montfort University without one genuflection to the story all Leicester \u2013 as a community \u2013 was talking about. No, we like our fairy tales on the pitch and on the back pages. Don\u2019t ruin the plot by lifting eyes and looking around.",
+  "webTitle": "How Leicester\u2019s football success meant everything \u2013 and nothing",
+  "webPublicationDate": "2016-05-22T06:00:35Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/22/leicester-city-football-win-diverse-brexit",
+  "keyword": [
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "National newspapers",
+      "id": "media/national-newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Channel 4",
+      "id": "media/channel4",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers & magazines",
+      "id": "media/pressandpublishing",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Leicester City",
+      "id": "football/leicestercity",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Television industry",
+      "id": "media/television",
+      "sectionId": "media",
+      "sectionName": "Media"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Peter Preston",
+      "id": "profile/peterpreston"
+    }
+  ],
+  "guardianId": "politics/2016/may/22/leicester-city-football-win-diverse-brexit"
+}

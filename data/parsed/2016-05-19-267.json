@@ -1,0 +1,30 @@
+{
+  "apiUrl": "https://content.guardianapis.com/lifeandstyle/2016/may/19/recipe-swap-raspberries",
+  "id": "2016-05-19-267",
+  "sectionId": "lifeandstyle",
+  "body": "To be in with chance of being crowned Guardian home cook of the year, share your raspberry recipes with us. Email recipes@theguardian.com, upload them to GuardianWitness or post them on Instagram @guardian_cook #RRS #raspberries by noon on Wednesday 25 May. Selected recipes will appear in Cook and online on 4 June. You can share your raspberry recipes and photos by clicking on the \u2018Contribute\u2019 button on this article. You can also use the Guardian app and search for \u2018GuardianWitness assignments.\u2019  GuardianWitness is the home of readers\u2019 content on the Guardian. Contribute your video, pictures and stories, and browse news, reviews and creations submitted by others. Posts will be reviewed prior to publication.",
+  "webTitle": "Recipe swap: raspberries",
+  "webPublicationDate": "2016-05-19T09:22:14Z",
+  "webUrl": "https://www.theguardian.com/lifeandstyle/2016/may/19/recipe-swap-raspberries",
+  "keyword": [
+    {
+      "webTitle": "Food & drink",
+      "id": "lifeandstyle/food-and-drink",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian readers",
+      "id": "profile/guardian-readers"
+    }
+  ],
+  "guardianId": "lifeandstyle/2016/may/19/recipe-swap-raspberries"
+}

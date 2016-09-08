@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/21/cyprus-poll-holds-key-to-possible-reunification",
+  "id": "2016-05-21-203",
+  "sectionId": "world",
+  "body": "When Greek Cypriots head for the polls this Sunday more will be at stake than the make-up of their local parliament.  For the island\u2019s two estranged communities, the ballot is being seen as a critical test for peace talks that could end its ethnic divide and, in turn, resolve Europe\u2019s longest-running diplomatic row.   \u201cIt\u2019s crunch time,\u201d said Dr James Ker-Lindsay, a Cyprus specialist at the London School of Economics.  \u201cThis is a major test for the government after Cyprus\u2019s economic meltdown. In recent months there has been concern that talks have slowed down. These elections are crucial for the negotiations and the prospect of a breakthrough.\u201d Fifty-six MPs stand to be elected to the island\u2019s parliament, the house of representatives, on ballots cast by nearly 543,000 voters. A strong result for president Nicos Anastasiades\u2019s centre-right Democratic Rally (DISY) would, say analysts, allow him to make the concessions necessary to reunite the island\u2019s feuding Greek and Turkish communities in a bi-communal, bi-zonal federation.  \u201cIf DISY does well, Anastasiades can say: \u2018I\u2019ve proved myself on the economy, now let me prove myself on Cyprus,\u2019\u201d Ker-Lindsay said. \u201cHe will be in a much stronger position to press ahead with the talks.\u201d  Since 1974, when the island was effectively split between its majority population of Greeks in the south and Turks in the north, there have been repeated attempts to solve the problem but all have floundered. The division \u2013 sealed when Ankara invaded in response to an Athens-inspired coup aimed at uniting Cyprus with Greece \u2013 has only hardened with time.  But recent financial turmoil in the internationally recognised south and increased isolation of Turks in the breakaway north have combined to reinvigorate negotiations.  Both Anastasiades and Mustafa Akinci, the Turkish Cypriot leader, are vocal advocates of the benefits of reunification.  In the year since Akinci\u2019s own election last May, they have met regularly, with experts calling the peace talks a once-in-a-generation opportunity to reach a settlement.  To mark a year of intensive negotiations the two men announced earlier this week that their goal was to reach a comprehensive settlement agreement within 2016.  \u201cAlthough there are still difficulties and differences, we are determined to show the necessary will and courage to overcome the remaining outstanding issues,\u201d they said in a joint statement.  While headway has been made on power-sharing and governance, territorial adjustments and property rights remain contentious issues.  Anastasiades, who has overseen a remarkable economic recovery since the south\u2019s banking crisis three years ago, still faces vehement opposition from hardliners fiercely opposed to reunification.  Polls have shown DISY to be well in the lead but supporters have also warned against complacency.  About 200 Greek Cypriots who have remained in the north will be transported to voting stations after crossing the island\u2019s UN-patrolled ceasefire line on Sunday.  Organisers say every vote will count.",
+  "webTitle": "Cyprus poll holds key to possible reunification",
+  "webPublicationDate": "2016-05-21T05:00:04Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/21/cyprus-poll-holds-key-to-possible-reunification",
+  "keyword": [
+    {
+      "webTitle": "Cyprus",
+      "id": "world/cyprus",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Turkey",
+      "id": "world/turkey",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Greece",
+      "id": "world/greece",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Helena Smith",
+      "id": "profile/helenasmith"
+    }
+  ],
+  "guardianId": "world/2016/may/21/cyprus-poll-holds-key-to-possible-reunification"
+}

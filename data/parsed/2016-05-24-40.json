@@ -1,0 +1,109 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/24/nothing-but-woe-for-users-of-windows",
+  "id": "2016-05-24-40",
+  "sectionId": "uk-news",
+  "body": "On reading Michele Hanson\u2019s column (G2, 24 May), I felt a jolt of recognition.Yesterday, I realised that Windows 10 \u2013 without my desire or permission \u2013 had started to install itself. The only way I could stop it was to bang madly on every key on the keyboard. This seemed to work, but I have a feeling that it is still lying in wait somewhere inside my laptop, poised to take over.David LondonTwickenham \u2022 Why not try a different system than Windows? Ubuntu always gives the option to upgrade or not. It is open-source, free, and can be downloaded from the website and used in parallel on your machine until you decide whether you like it or not. I have used it for years.John SingletonNelson, Lancashire \u2022 Many thanks for explaining in detail the photograph of the Queen marching into parliament with her entire troupe watched by a bunch of very well-heeled onlookers in their finery (The big picture, 21 May). As far as the photo is concerned, the only person really working in any meaningful sense is the excellent photographer, whom you decline to mention or give even the slightest credit. As you say, this really does give the big picture.David BeakeNational Union of Journalists (life member) Wymondham, Norfolk \u2022 George Osborne stated that Brexit would create the \u201cfirst DIY recession\u201d in our history (Report, 23 May). Given that in 2010 and 2015 the Tories so successfully peddled the lie that Labour policies caused the recession following the financial crash, shouldn\u2019t he now apologise for misleading the electorate?Bill BradburyBolton \u2022 \u201cNHS \u2018faces \u00a310bn black hole within four years\u2019\u201d (23 May). Increase in combined wealth of Britain\u2019s 1,000 richest people, 2015 to 2016 (Sunday Times rich list) is \u00a329bn (\u00a3547bn to \u00a3576bn). Solution = somewhat obvious (Letters, 23 May).Peter RobbinsLondon",
+  "webTitle": "Nothing but woe for users of Windows | Brief letters",
+  "webPublicationDate": "2016-05-24T18:37:50Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/24/nothing-but-woe-for-users-of-windows",
+  "keyword": [
+    {
+      "webTitle": "The Queen",
+      "id": "uk/queen",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Monarchy",
+      "id": "uk/monarchy",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Photography",
+      "id": "artanddesign/photography",
+      "sectionId": "artanddesign",
+      "sectionName": "Art and design"
+    },
+    {
+      "webTitle": "Art and design",
+      "id": "artanddesign/artanddesign",
+      "sectionId": "artanddesign",
+      "sectionName": "Art and design"
+    },
+    {
+      "webTitle": "Microsoft",
+      "id": "technology/microsoft",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Computing",
+      "id": "technology/computing",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Linux",
+      "id": "technology/linux",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Open source",
+      "id": "technology/opensource",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Software",
+      "id": "technology/software",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "George Osborne",
+      "id": "politics/georgeosborne",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [],
+  "guardianId": "uk-news/2016/may/24/nothing-but-woe-for-users-of-windows"
+}

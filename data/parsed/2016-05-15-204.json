@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/15/brexit-commercial-chill-eurosceptic-press-barons",
+  "id": "2016-05-15-204",
+  "sectionId": "media",
+  "body": "There is, newspaper editors say openly, \u201ca chill\u201d. Which means that print advertising (among other promotional varieties) has had a lousy few months. And why is that so? Because \u2013 one reason among several \u2013 of pre-referendum uncertainty. The Bank of England expects sterling to tumble further if we leave. The chill won\u2019t warm up in a trice. What does that mean for property developers in the Barclay brothers category? Fewer hotels to be built, fewer office blocks, fewer plush apartments. For the Daily Mail? Watch Euromoney\u2019s fortunes (down 6% already) droop further. Watch business-to-business events decline when there\u2019s much less business. And for News Corp and News UK? The newspaper half of the Murdoch empire is finding it tough. It reported a $128m loss in the third quarter: a special-item hit, to be sure, but with overall revenues down $100m year on year. Print is a problem: ads are a problem: currency is a problem because money flows into the States, not out. That won\u2019t affect papers like the Sun, too totally tied in to switch. But many observers predict that the Telegraph, after giving the Leave camp an extended shout, will vote to stay. And as for Murdoch, Rupert himself has long held that the Anglo-American relationship is his bedrock of belief. But in the age of Trump, when isolationism, scorn and insurrection rule? There\u2019s still a lot to play for.",
+  "webTitle": "Brexit brings a commercial chill even to Eurosceptic press barons",
+  "webPublicationDate": "2016-05-15T05:59:17Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/15/brexit-commercial-chill-eurosceptic-press-barons",
+  "keyword": [
+    {
+      "webTitle": "Newspapers",
+      "id": "media/newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers & magazines",
+      "id": "media/pressandpublishing",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Peter Preston",
+      "id": "profile/peterpreston"
+    }
+  ],
+  "guardianId": "media/2016/may/15/brexit-commercial-chill-eurosceptic-press-barons"
+}

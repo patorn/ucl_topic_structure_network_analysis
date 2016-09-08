@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/26/one-in-10-chickens-may-still-carry-highest-levels-of-campylobacter",
+  "id": "2016-05-26-158",
+  "sectionId": "uk-news",
+  "body": "Just under one-tenth of all fresh chicken sold in supermarkets may carry the highest levels of a potentially lethal food-poisoning bug, according to tests by the UK government\u2019s food watchdog. Campylobacter was detectable in half of all the samples tested by the Food Standards Agency. But the FSA now says the methods it used are no longer reliable for consumers or fair to producers. It has stopped measuring levels of the bacterium found in chicken while it works out a new system of checking for the bug, which is said to be responsible for more than 280,000 cases of food poisoning, and 100 deaths, in the UK every year. The agency has also stopped, for the moment, detailing the levels of contamination at stores run by the major supermarket chains. Figures for January to March this year, based on more than 1,000 samples of chicken and packaging, showed 9.3% of chickens tested positive for the highest levels of campylobacter contamination, down from 21.8% for the three months between December 2014 and February 2015.   Related: Food poisoning scandal: how chicken spreads campylobacter    Packaging contamination dropped from 7.5% between July 2014 and February 2015, to 5.6% between July 2015 and February 2016. The bacterium was present on half of all chicken samples, down from seven in 10 just over a year ago. The agency regards itself as a victim of its own success when it comes to problems of reliability.  Its testing has concentrated on skin from birds\u2019 necks, where concentrations of the bug are highest. Retailers and their suppliers have responded by removing neck skin before chicken goes on sale.  Much of the testing now involves skin from the breast, but the agency says the amount of this involved in samples taken from particular retailers may have varied. This may have compromised the comparability of results, so stores\u2019 individual results are not being listed. Steve Wearne, director of policy at the FSA, said: \u201cThese results are moving in the right direction, and I am delighted with progress. It shows what can be done by a real commitment to tackle this bug, and I am encouraging [the] industry to go even further, more quickly, to continue to get the numbers down.\u201d Alex Neil , director of policy and campaigns at Which?, said: \u201cDespite the work by the regulator and the industry to reduce campylobacter in chickens, levels remain too high and it still poses a significant risk to the public. \u201cWe want to see much greater transparency from the supermarkets on their own testing and the action they are taking to keep their customers safe from this bug.\u201d",
+  "webTitle": "One in 10 chickens may still carry highest levels of campylobacter",
+  "webPublicationDate": "2016-05-26T14:31:42Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/26/one-in-10-chickens-may-still-carry-highest-levels-of-campylobacter",
+  "keyword": [
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Food & drink industry",
+      "id": "business/fooddrinks",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Chicken",
+      "id": "lifeandstyle/chicken",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Food safety",
+      "id": "world/food-safety",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Food & drink",
+      "id": "lifeandstyle/food-and-drink",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Food science",
+      "id": "science/food-science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Meat",
+      "id": "lifeandstyle/meat",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Hygiene",
+      "id": "society/hygiene",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "James Meikle",
+      "id": "profile/jamesmeikle"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/26/one-in-10-chickens-may-still-carry-highest-levels-of-campylobacter"
+}

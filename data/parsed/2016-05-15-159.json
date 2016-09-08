@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/commentisfree/2016/may/15/facebook-instant-articles-news-publishers-feeding-the-beast",
+  "id": "2016-05-15-159",
+  "sectionId": "commentisfree",
+  "body": "Many years ago, the political theorist Steven Lukes published a seminal book \u2013 Power: A Radical View. In it, he argued that power essentially comes in three varieties: the ability to compel people to do what they don\u2019t want to do; the capability to stop them doing what they want to do; and the power to shape the way they think. This last is the kind of power exercised by our mass media. They can shape the public (and therefore the political) agenda by choosing the news that people read, hear or watch; and they can shape the ways in which that news is presented. Lukes\u2019s \u201cthird dimension\u201d of power is what\u2019s wielded in this country by outlets like Radio 4\u2019s Today programme, the Sun and the Daily Mail. And this power is real: it\u2019s why all British governments in recent years have been so frightened of the Mail.    Once the news content disappears into Facebook's algorithmic maw, it becomes mere fodder for its calculations    But as our media ecosystem has changed under the impact of the internet, new power brokers have appeared. For a long time, Google was the 800lb gorilla in this domain, because its dominance of search determined what people could find in the unimaginable wastelands of cyberspace. And search could be \u2013 and was \u2013 personalised, because Google\u2019s algorithms could figure out what each user was most likely to be interested in, and therefore what kinds of information would be most relevant for her or him. So, imperceptibly, but inexorably over time, we have come to live in what Eli Pariser christened a \u201cfilter bubble\u201d. Before the internet, our problem with information was its scarcity. Now our problem is unmanageable abundance. So now the scarce resources are attention and time, over which a vicious war has broken out between traditional media and the internet-based upstarts. \u201cConsumption\u201d (horrible word, but widely used) of old media is going down, while online media are grabbing more and more of people\u2019s attention and time.     Illustration by James Melaugh.    The biggest thieves at the moment are YouTube and Facebook. YouTube has a billion users, half of whom access it via mobile devices. The average time spent on the site is 40 minutes. Facebook now claims to have 1.65 billion monthly active users, who spend on average 50 minutes a day on its services. So if Google is an 800lb gorilla, Facebook is a megaton King\u00a0Kong. Competition for attention and time is a zero-sum game that traditional media are losing. In desperation, they are trying both to appease Facebook and to harness its hold on people\u2019s attention. Many publishers, for example, have signed up to the company\u2019s Instant Articles system, which enables their content to load quickly on users\u2019 mobile devices. But what this means \u2013 as Emily Bell pointed out in her recent Humanitas lecture at Cambridge \u2013 is that newspapers have effectively out-sourced distribution of their content to the internet giant.   Related: Angry about Facebook censorship? Wait until you hear about the news feed    In doing so, they have entered into a truly Faustian bargain. Because while publishers can without difficulty ship their stuff to Instant Articles, they cannot control which ones Facebook users actually get to see. This is because users\u2019 news feeds are determined by Facebook\u2019s machine-learning algorithms that try to guess what each user would like to see (and what might dispose them to click on an advertisement). So once the content disappears into Facebook\u2019s algorithmic maw it becomes mere fodder for its\u00a0calculations. This means that Facebook now wields Lukes\u2019s third kind of power \u2013 the kind wielded by the Daily Mail\u2019s Paul Dacre and the editor of the Today programme. But when you ask \u2013 as Professor George Brock memorably did \u2013 whether Mark Zuckerberg and his satraps understand that they have acquired editorial responsibilities, they look blank. Facebook is not a publisher, they explain, merely a \u201cplatform\u201d. And, besides, no humans are involved in curating users\u2019 news feeds: it\u2019s all done by algorithms and is therefore neutral. In other words: nothing to see here; move on. This is baloney, at least in relation to the kinds of algorithms we\u2019re talking about here (neural networks are a different story). Any algorithm that has to make choices has criteria that are specified by its designers. And those criteria are expressions of human values. Engineers may think they are \u201cneutral\u201d, but long experience has shown us they are babes in the woods of politics, economics and ideology. If Facebook wants to become a conduit for news, then it has to recognise that it has moved into a different sphere and has acquired new responsibilities. And the publishers who suck up to it should remember Churchill\u2019s definition of appeasement: it\u2019s the process of being nice to a crocodile in the hope that it will eat you last.",
+  "webTitle": "Here is the news \u2013 but only if Facebook thinks you need to know | John Naughton",
+  "webPublicationDate": "2016-05-15T08:00:01Z",
+  "webUrl": "https://www.theguardian.com/commentisfree/2016/may/15/facebook-instant-articles-news-publishers-feeding-the-beast",
+  "keyword": [
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Facebook",
+      "id": "technology/facebook",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "YouTube",
+      "id": "technology/youtube",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "News agencies",
+      "id": "media/news-agencies",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Social networking",
+      "id": "media/socialnetworking",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "John Naughton",
+      "id": "profile/johnnaughton"
+    }
+  ],
+  "guardianId": "commentisfree/2016/may/15/facebook-instant-articles-news-publishers-feeding-the-beast"
+}

@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/australia-news/2016/may/23/what-might-life-be-like-with-opposition-leader-burst-watermain-as-prime-minister",
+  "id": "2016-05-23-282",
+  "sectionId": "australia-news",
+  "body": "What might life be like with opposition leader Burst Watermain as prime minister?",
+  "webTitle": "What might life be like with opposition leader Burst Watermain as prime minister? | First Dog on the Moon",
+  "webPublicationDate": "2016-05-23T07:15:31Z",
+  "webUrl": "https://www.theguardian.com/australia-news/2016/may/23/what-might-life-be-like-with-opposition-leader-burst-watermain-as-prime-minister",
+  "keyword": [
+    {
+      "webTitle": "Australian election 2016",
+      "id": "australia-news/australian-election-2016",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australian politics",
+      "id": "australia-news/australian-politics",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Bill Shorten",
+      "id": "australia-news/bill-shorten",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Labor party",
+      "id": "australia-news/labor-party",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "First Dog on the Moon",
+      "id": "profile/first-dog-on-the-moon"
+    }
+  ],
+  "guardianId": "australia-news/2016/may/23/what-might-life-be-like-with-opposition-leader-burst-watermain-as-prime-minister"
+}

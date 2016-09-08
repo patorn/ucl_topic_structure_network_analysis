@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/money/2016/may/21/how-create-perfect-password-hackers-online-accounts-safe",
+  "id": "2016-05-21-185",
+  "sectionId": "money",
+  "body": "Only idiots, we know, use \u201cpassword\u201d as their password. Or \u201c123456\u201d. Or \u201cfootball\u201d (the seventh most common password in the world). Maybe you carefully add an upper case letter, an unusual character or two, plus a few numbers to your Pa$swOrd. But with hackers using \u201cbrute force\u201d software to make as many as 8m password guesses a second, don\u2019t kid yourself you are safe. This week LinkedIn told users to reset their accounts after more than 100m passwords appeared for sale online. So how can you better protect yourself? First, find out how exposed you are, and then follow some easy steps towards creating easily memorable passwords that are different for every site you visit \u2013 so even when the hackers behind LinkedIn sell your password, you know you are safe. Check your existing password The most foolish thing is to use a single word as your main password. So-called \u201cdictionary attacks\u201d run through every word in a language at lightning speed. On the dark web, hackers share the millions of passwords that have been stolen in data breaches, which are then added to the default dictionary and searched.\u00a0Single-word passwords are often the first to be broken in a brute force attack. Let\u2019s take the word \u201cguardian\u201d. As a password it would be cracked instantly, according to website howsecureismypassword.net. Adding an upper case letter \u2013 changing it to \u201cGuardian\u201d \u2013 does absolutely nothing to make it more secure. Swapping a letter for a number isn\u2019t much help either. \u201cGuard1an\u201d will take hackers about two hours to discover, it says. But adding a number does help a bit \u2013 so \u201cGuardian1\u201d will take hacking software\u00a0four days to crack, or possibly less. Words with one or two digits added at the end are usually easily tested by software and take little extra time to crack. But estimates of how quickly passwords can be cracked should be treated with caution, say experts. And, while it can be a useful exercise to help understand how poorly some passwords might perform, never type\u00a0your actual password(s) into an online checker. Make it long Security experts agree that a password should have a minimum of 12-14 characters. Richard Cassidy, technical director of cyber security company Alert Logic, says a 14-character password could take 811\u00a0trillion guesses to crack. \u201cLength is the thing that gives you protection, not complexity,\u201d he says, adding that even eight-digit passwords can be cracked in a matter of hours. Very few people have passwords of 12 characters or more, and that\u2019s understandable: they are difficult to remember and laborious to type in. So what do you do? Passphrase not password While the password \u201cGuardian\u201d will be cracked instantly, changing it to \u201cIReadTheGuardian\u201d might take upwards of two years to crack. Change it\u00a0to \u201cEveryDayIReadTheGuardian\u201d and it will take billions of years to bust open,\u00a0according to the password checking sites. \u201cIf there\u2019s one thing people should be doing, it\u2019s using passphrases not words,\u201d says Fraser Kyne of Bromium, a company that fights viruses and malware. \u201cTake a line from a favourite film, or a poem you know, or a children\u2019s rhyme, then maybe swap a word. Phrases are much easier to remember than random strings of text.\u201d As an example, he says, use \u201cNellie the elephant packed her trunk\u201d but change \u201cNellie\u201d to another memorable name. \u201cIt will be very easy to remember, but very, very hard to crack.\u201d Use versions of the same password on multiple sites The conventional advice is to have a different password for every site that you visit. Morgan Slain of SplashData says that, ideally, you should use different passwords for each site since it\u2019s inevitable that, over time, some of your logins will be compromised. \u201cAt a minimum you should use a different password for each financial account, email account and social media account,\u201d he says But remembering a wide variety of passwords is beyond most people. Two of the experts we approached recommended an alternative approach: remembering a core, long and safe passphrase, then prefixing or suffixing it with the name of a specific site. For example, \u201cNellietheelephant\u201d becomes \u201cNelliethelephantAmazon\u201d or \u201cNellietheelephantLinkedIn\u201d. Richard Cassidy from Alert Logic says: \u201cIt is perfectly OK to use something like \u2018thisismypasswordforNatWest\u2019 or \u2018thisismyBritishAirwayspassword\u2019, but change one or two of the characters into numbers. It\u2019s about keeping it simple and memorable.\u201d Crucially, it means that when your password is compromised during an attack, such as at LinkedIn, it can\u2019t be used elsewhere. Be clever about your \u2018special\u2019 characters Lots of people like to exchange an \u201ca\u201d for an \u201c@\u201d and an \u201ci\u201d for a \u201c1\u201d, so \u201cGuardian\u201d becomes \u201cGuard1@n\u201d. The trouble is, hackers know they do this and search accordingly. \u201cGuard1@n\u201d takes only 19 minutes to crack with standard software. In one notorious case, a Dutch certificate authority company was hacked because an employee had \u201cproduction/administrator\u201d as a username with the password \u201cPr0d@dm1n\u201d. A 21-year-old hacker broke in and caused so much mayhem the company later filed for bankruptcy. Maintain your digital hygiene Don\u2019t use your dog or cat\u2019s name, or a variant, as your password, and then post up fluffy pictures on Facebook naming them. What Cassidy calls APTs, advanced persistent threat groups, will scour the internet for personal information that will guide them in attacking bank accounts. Avoid using passwords that may be connected to family and pet names, or past addresses. Consider a password manager When researching this article our first stop was the Guardian\u2019s tech reporters. They nearly all use password managers. These are the downloadable apps that will encrypt and store passwords for all your online accounts and profiles, saving you from having to remember them and input them on each visit. Most will flag up a poor password and help you create a more robust one. But some people will feel uneasy. What if your password manager is hacked? \u201cIt\u2019s the \u2018keys to the kingdom\u2019 worry \u2013 break the master lock and you\u2019re in,\u201d says Kyne, though he reckons the benefits outweigh the risks. Password manager LastPass detected an intrusion last year, prompting it to ask users to change their master passwords, although it said the stores of encrypted passwords were not compromised. Users have also been targeted with sophisticated phishing attacks aimed at grabbing master passwords. Write it down on paper If you create a very long password and worry about remembering it, then write it down on paper and secure it somewhere safe at home, such as a locked drawer. It\u2019s far safer than storing it on your computer. The worst passwords 1. 123456 2. password 3. 12345678 4. qwerty 5. 12345 6. 123456789 7. football 8. 1234 9. 1234567 10. baseball 11. welcome 12. 1234567890 13. abc123 14. 111111 15. 1qaz2wsx 16. dragon 17. master 18. monkey 19. letmein 20. login 21. princess 22. qwertyuiop 23. solo 24. passw0rd 25. starwars Source: SplashData",
+  "webTitle": "How to create the perfect password",
+  "webPublicationDate": "2016-05-21T05:59:05Z",
+  "webUrl": "https://www.theguardian.com/money/2016/may/21/how-create-perfect-password-hackers-online-accounts-safe",
+  "keyword": [
+    {
+      "webTitle": "Identity fraud",
+      "id": "money/identityfraud",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Scams",
+      "id": "money/scamsandfraud",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Internet safety",
+      "id": "technology/internet-safety",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Consumer affairs",
+      "id": "money/consumer-affairs",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Data and computer security",
+      "id": "technology/data-computer-security",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Hacking",
+      "id": "technology/hacking",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Online shopping",
+      "id": "money/online-shopping",
+      "sectionId": "money",
+      "sectionName": "Money"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Patrick Collinson",
+      "id": "profile/patrickcollinson"
+    }
+  ],
+  "guardianId": "money/2016/may/21/how-create-perfect-password-hackers-online-accounts-safe"
+}

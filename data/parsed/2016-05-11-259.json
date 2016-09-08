@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/11/johnny-depp-to-star-in-dominique-strauss-kahn-inspired-drama",
+  "id": "2016-05-11-259",
+  "sectionId": "film",
+  "body": "Johnny Depp and Marion Cotillard are set to star in a new Dominique Strauss-Kahn-inspired drama for director Brett Ratner. The pair, who previously co-starred in Michael Mann\u2019s 2009 thriller Public Enemies, will take on lead roles in The Libertine. The story focuses on a French diplomat put under house arrest after accusations of sexual assault. The script comes from Ben Kopit and will mark somewhat of a departure for Ratner, known for directing lighter fare such as Hercules and the Rush Hour franchise. The plot closely mirrors that of Strauss-Kahn scandal. The managing director of the IMF was put under house arrest after he was accused of assaulting a maid in 2011. The story has already inspired another film, Abel Ferrara\u2019s Welcome to New York which starred G\u00e9rard Depardieu.    Related: Alice Through the Looking Glass review \u2013 second trip to Underland is far from wondrous    Depp will next be seen in the big budget sequel Alice Through the Looking Glass, coming off some of his best ever reviews for his performance in the true crime thriller Black Mass. He will also reprise his role of Jack Sparrow in Pirates of the Caribbean: Dead Man Tell No Tales and has small roles in London Fields and Yoga Hosers. Marion Cotillard, whose role in the film is as yet unknown, has two films premiering at this year\u2019s Cannes film festival: Xavier Dolan\u2019s It\u2019s Only the End of the World and Nicole Garcia\u2019s From the Land to the Moon. She will also be seen opposite Michael Fassbender in Assassin\u2019s Creed, which is due for release in December.",
+  "webTitle": "Johnny Depp to star in Dominique Strauss-Kahn-inspired drama",
+  "webPublicationDate": "2016-05-11T11:09:08Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/11/johnny-depp-to-star-in-dominique-strauss-kahn-inspired-drama",
+  "keyword": [
+    {
+      "webTitle": "Johnny Depp",
+      "id": "film/johnnydepp",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Marion Cotillard",
+      "id": "film/marion-cotillard",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Drama",
+      "id": "film/drama",
+      "sectionId": "film",
+      "sectionName": "Film"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Benjamin Lee",
+      "id": "profile/benjamin-lee-film"
+    }
+  ],
+  "guardianId": "film/2016/may/11/johnny-depp-to-star-in-dominique-strauss-kahn-inspired-drama"
+}

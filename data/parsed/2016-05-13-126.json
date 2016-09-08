@@ -1,0 +1,43 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/13/chelsea-leicester-city-match-preview",
+  "id": "2016-05-13-126",
+  "sectionId": "football",
+  "body": "The football at Stamford Bridge will almost feel incidental. More enticing will be the joyous reception granted the returning Claudio Ranieri with Roman Abramovich, the man who sacked him back in 2004, potentially watching on from his box in the West stand. Then there will be the accolades for Leicester City\u2019schampions, and a second farewell to Guus Hiddink. Beyond that, the locals will merely be thankful this trying campaign is finally over. Dominic Fifield Kick-off Sunday 3pm  Venue Stamford Bridge Last season Chelsea 2 Leicester City 0 Referee Craig Pawson This season G27, Y88, R2, 3.41 cards per game Odds H 5-4 A 2-1 D 11-4 Chelsea Subs from Begovic, Amelia, Ivanovic, Kenedy, Tomori, Clarke-Salter, Oscar, Miazga, Falcao, Pato, Loftus-Cheek, Palmer, Abraham Doubtful Ivanovic (groin), Pedro (broken nose), Courtois (illness), Clarke-Salter (knock) Injured Costa (hamstring, Jun), R\u00e9my (groin, Aug), Zouma (knee, Oct) Suspended Terry (second of two) Form LLWDLD Discipline Y59 R5 Leading scorer Costa 12 Leicester City Subs from Schwarzer, Hamer, Chilwell, Inler, Albrighton, King, Gray, Amartey, James, Dyer, Ulloa, Dodoo, Moore Doubtful None Injured None Suspended Huth (second of three) Form WWDWDW Discipline Y51 R3 Leading scorer Vardy 24",
+  "webTitle": "Chelsea v Leicester City: match preview",
+  "webPublicationDate": "2016-05-13T15:02:33Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/13/chelsea-leicester-city-match-preview",
+  "keyword": [
+    {
+      "webTitle": "Chelsea",
+      "id": "football/chelsea",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Leicester City",
+      "id": "football/leicestercity",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Premier League",
+      "id": "football/premierleague",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [],
+  "guardianId": "football/2016/may/13/chelsea-leicester-city-match-preview"
+}

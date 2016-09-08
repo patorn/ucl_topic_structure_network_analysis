@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/04/takata-airbag-recall-doubled-cars",
+  "id": "2016-05-04-52",
+  "sectionId": "business",
+  "body": "US regulators have more than doubled the recall of Takata airbag inflators to include tens of millions more cars, making the order the largest automotive recall in history.    Related: Air bag defect to trigger largest auto recall in US history    The inflators, meant to save people in the event of a crash, are prone to explode, expelling fragments of metal. Some 63.8m cars are affected in the US \u2013 equivalent to more than a quarter of the vehicles on US roads. As of Wednesday morning the inflators were known to have killed a dozen people \u2013 11 in the US and one in Malaysia \u2013 and hurt more than 100 others. At a press conference in Washington on Wednesday afternoon, however, National Highway Transportation and Safety Administration (NHSTA) administrator Mark Rosekind said he had learned from Honda that two more people had been killed by the faulty auto part in Malaysia in the past three weeks.  In Houston, Texas last month, a teenage girl was killed in a minor collision that triggered the airbag, when the Takata inflator exploded. \u201cPlease,\u201d Rosekind asked reporters, \u201cas you report your stories, include this. Vehicle owners who have received notice that there are parts available for their repair should take action immediately.\u201d  Makes and models affected are listed in a special page on the NHSTA website or by vehicle identification number. The models from the expanded recall are not included yet, according to the regulator\u2019s guide, but users can sign up for an alert tailored to the car they own. NHSTA has said the top priority for replacing airbags goes to \u201chigh absolute humidity\u201d areas across the American south-east and island territories and encouraged car owners to keep checking the page. Over time, humid conditions can alter the composition of ammonium nitrate and a trying agent, chemicals that react to deploys of the air bag and increase the likelihood of an explosion. Ruptures are much less likely in new vehicles.  The recall already affects 28.8m cars in the US; the NHSTA said it had fixed 8.17m of the faulty products as of 22 April. The accelerated recall adds between 35m and 40m new cars to the list, Rosekind said. \u201cI\u2019m going to make this personal: my family has a vehicle with a Takata inflator sitting in the driveway,\u201d said Rosekind. \u201cWe are checking weekly to see when those parts are going to be available.\u201d  The defect does not affect all the Takata inflators, but Rosekind urged consumers to try to find \u201cloaner\u201d cars where they could. Ordering companies to provide temporary replacements is beyond his remit.  \u201cI have looked at it every which way,\u201d he said. \u201cNHTSA has no authority to require loaners to be made available.\u201d  Part of the problem lies in creating a design for a new inflator that will not blow up. \u201cWhere we could push, we\u2019ve pushed as quickly as we can with the caveat that we can\u2019t push too hard without running the risk of a new design for an inflator that\u2019s not safe,\u201d Rosekind said. Stock in the Japanese manufacturer was down 9.25% on Wednesday, following news of the expanded recall. The problem now is that the models of car under recall are so numerous that the replacement of all dangerous parts is likely to take years.  Rosekind said the recall was planned through 2019.",
+  "webTitle": "Expanded recall for deadly Takata airbags to impact one in four US cars",
+  "webPublicationDate": "2016-05-04T18:44:00Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/04/takata-airbag-recall-doubled-cars",
+  "keyword": [
+    {
+      "webTitle": "Automotive industry",
+      "id": "business/automotive-industry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Malaysia",
+      "id": "world/malaysia",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Sam Thielman",
+      "id": "profile/sam-thielman"
+    }
+  ],
+  "guardianId": "business/2016/may/04/takata-airbag-recall-doubled-cars"
+}

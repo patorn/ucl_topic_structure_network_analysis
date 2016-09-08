@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/12/family-atlantica-cosmic-unity-review-world-music-london-diversity",
+  "id": "2016-05-12-88",
+  "sectionId": "music",
+  "body": "Related: Notes from Ethiopia: the jazz revival in Addis Ababa    Family Atlantica started out in Hackney, east London, and have developed an increasingly sophisticated style that echoes London\u2019s cultural diversity. There are influences from Latin America, east and west Africa and the Caribbean here, with songs in English, Spanish, Yoruba and Portuguese. Some of the 15 tracks are remarkably brief, and the emphasis constantly changes.  So the opening Okoroba starts with a slinky kalimba riff and chanting vocals from the Venezuelan singer Luzmira Zerpa and ends as an exuberant, brassy clash of Latin and African styles. Then the band are off, veering from Ethiopian jazz on Enjera to a cheerful burst of calypso on Neti Neti, with the songs driven on by the west African drummer Kwame Crentsil and multi-instrumentalist Jack Yglesias, of Heliocentrics fame. This colourful, rousing set also features two veteran celebrity saxophonists: the Nigerian Afrobeat hero Orlando Julius, and Marshall Allen, current leader of the Sun Ra Arkestra.",
+  "webTitle": "Family Atlantica: Cosmic Unity review \u2013 rousing echoes of London's diversity",
+  "webPublicationDate": "2016-05-12T18:00:05Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/12/family-atlantica-cosmic-unity-review-world-music-london-diversity",
+  "keyword": [
+    {
+      "webTitle": "World music",
+      "id": "music/worldmusic",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Robin Denselow",
+      "id": "profile/robindenselow"
+    }
+  ],
+  "guardianId": "music/2016/may/12/family-atlantica-cosmic-unity-review-world-music-london-diversity"
+}

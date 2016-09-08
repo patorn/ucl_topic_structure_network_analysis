@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/05/joe-manganiello-smiths-film-morrisey",
+  "id": "2016-05-05-240",
+  "sectionId": "film",
+  "body": "Joe Manganiello will produce and star in Shoplifters of the World, a Morrissey-approved drama about a fan of the Smiths who held a radio station hostage.   Related: How soon is now for a Smiths thriller and I Saw the Light reviewed \u2013 The Dailies film podcast    The film will focus on an incident that happened in Denver in the late 1980s, when a man held the staff of a radio station at gunpoint and demanded that the DJ, to be portrayed by Manganiello, play nothing but Smiths tracks on repeat. Manganiello has previously starred in Magic Mike and True Blood, while the film will be written and directed by Stephen Kijak, known for his music documentaries. Kijak has apparently secured music from the Smiths to be used. \u201c[Kijak] had a previous relationship with Morrissey, and Morrissey agreed to give us the catalogue for a nice, affordable fee,\u201d Manganiello said in a 2014 interview. \u201cIt\u2019s not cheap by any stretch of the imagination, but we have Morrissey\u2019s blessing to move forward with a Smiths project. I\u2019m a huge Smiths fan. It\u2019s just really great to be afforded the opportunity to go out and tell stories that I\u2019m really excited and passionate about, like that one.\u201d The hostage incident has previously been somewhat debunked by Denver music website Westword, which claims the original police records state that the man failed to go through with his intentions and gave himself up immediately. The film is the second Smiths-related film in the works. A Morrissey biopic, titled Steven, is currently in production that\u2019s set to focus on the singer\u2019s deprived upbringing.",
+  "webTitle": "Joe Manganiello to produce and star in Morrissey-approved Smiths movie",
+  "webPublicationDate": "2016-05-05T10:24:28Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/05/joe-manganiello-smiths-film-morrisey",
+  "keyword": [
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "The Smiths",
+      "id": "music/smiths",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Morrissey",
+      "id": "music/morrissey",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Benjamin Lee",
+      "id": "profile/benjamin-lee-film"
+    }
+  ],
+  "guardianId": "film/2016/may/05/joe-manganiello-smiths-film-morrisey"
+}

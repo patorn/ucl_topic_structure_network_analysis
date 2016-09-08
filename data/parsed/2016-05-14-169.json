@@ -1,0 +1,30 @@
+{
+  "apiUrl": "https://content.guardianapis.com/society/2016/may/14/have-you-stopped-drinking-alcohol-share-your-experiences",
+  "id": "2016-05-14-169",
+  "sectionId": "society",
+  "body": "Millions of middle-aged men in the UK are putting their health at risk by exceeding the recommended 14 units of alcohol a week.  Findings from the alcohol industry-funded charity Drinkaware suggest that efforts are needed to persuade men they are putting their health in danger. Some 3.5 million men drink more than 14 units a week \u2013 the level that guidance from the UK\u2019s chief medical officers suggests will keep their risk of alcohol-related liver disease and cancer low.  Many people have taken the decision to cut down their alcohol intake but we\u2019d like to hear from men \u2013 and women who\u2019ve stopped drinking altogether. Whether you quit for health reasons or decided to change your lifestyle, tell us about the day you stopped drinking and why you took that decision.  You can share your stories in the form below.",
+  "webTitle": "Have you stopped drinking alcohol? Share your experiences",
+  "webPublicationDate": "2016-05-14T07:52:24Z",
+  "webUrl": "https://www.theguardian.com/society/2016/may/14/have-you-stopped-drinking-alcohol-share-your-experiences",
+  "keyword": [
+    {
+      "webTitle": "Alcohol",
+      "id": "society/alcohol",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian readers",
+      "id": "profile/guardian-readers"
+    }
+  ],
+  "guardianId": "society/2016/may/14/have-you-stopped-drinking-alcohol-share-your-experiences"
+}

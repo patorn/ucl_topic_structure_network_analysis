@@ -1,0 +1,90 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/03/brexit-fears-uk-manufacturing-eu-referendum-george-osborne",
+  "id": "2016-05-03-220",
+  "sectionId": "politics",
+  "body": "For the next couple of months \u2013 and probably longer \u2013 George Osborne has a ready-made excuse if the economic numbers look a bit grim: blame it on the uncertainty caused by the EU referendum. The weakest report on manufacturing from purchasing managers for three years? That would be the result of Brexit fears. A downgrade of the UK\u2019s growth forecast for 2016 from the European commission? Investment plans are being mothballed until businesses see the way Britain has voted on 23 June. But hang on a minute. The outlook for manufacturing has also softened in the US, which the last time anybody looked was not a member of the EU. Likewise, it is hard to see what Brexit has to do with the continuing travails of China\u2019s industrial sector. The reality is that manufacturing has been suffering around the world as part of a broad economic slowdown that has been going on for at least a year. It certainly predates the moment in late February when David Cameron announced the referendum date. It would be wrong to think that speculation about Brexit will have no impact, but the impact needs to be put into perspective. Consumer confidence is reasonably strong by historical standards despite last month\u2019s fall, which helps explain why sales of new cars remain strong. The housing market weakened a bit in April, but that had more to do with higher stamp duty for buy-to-let than it did the referendum. Let\u2019s see how the economy fares when the referendum is over. Assuming the opinion polls are right and the Remain side wins, the upshot should be a revitalised Britain where the trade deficit narrows from a record 7% of GDP, a decade-long hiatus in productivity growth comes to an end, and there is the long-promised rebalancing of growth towards investment and exports. Dream on. These are chronic problems, not ones that have suddenly flared up since late February.",
+  "webTitle": "Brexit fears weighing down UK manufacturing? Dream on",
+  "webPublicationDate": "2016-05-03T11:28:06Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/03/brexit-fears-uk-manufacturing-eu-referendum-george-osborne",
+  "keyword": [
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Economic growth (GDP)",
+      "id": "business/economicgrowth",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economic recovery",
+      "id": "business/economic-recovery",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economic policy",
+      "id": "politics/economy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Manufacturing sector",
+      "id": "business/manufacturing-sector",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Larry Elliott",
+      "id": "profile/larryelliott"
+    }
+  ],
+  "guardianId": "politics/2016/may/03/brexit-fears-uk-manufacturing-eu-referendum-george-osborne"
+}

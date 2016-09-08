@@ -1,0 +1,61 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/25/why-james-bond-should-never-be-a-woman",
+  "id": "2016-05-25-49",
+  "sectionId": "film",
+  "body": "The online mocked-up poster of Gillian Anderson as \u201cJane Bond\u201d is lighthearted but I hope no actress is ever offered the role of 007 (Report, 25 May). Any film adaption of a book takes liberties \u2013 all the James Bond actors have played the character in different ways \u2013 but one thing remains the same: Bond is a male, heterosexual spy. A loner with a Scottish background. He wears tuxedos, not dresses, and has a passion for women, not men. Call that sexist if you want, but that\u2019s the way it is. Ian Fleming would have sued any film company that dared make his 007 female. Will we see a Bridget Jones film in which she becomes Barry Jones? Or see Disney remake Sleeping Beauty into Sleeping Handsome? There\u2019s being liberal and there\u2019s being ridiculous.Emilie LamploughTrowbridge, Wiltshire \u2022 Join the debate \u2013 email guardian.letters@theguardian.com",
+  "webTitle": "Why James Bond should never be a woman | Letters",
+  "webPublicationDate": "2016-05-25T18:08:03Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/25/why-james-bond-should-never-be-a-woman",
+  "keyword": [
+    {
+      "webTitle": "James Bond",
+      "id": "film/jamesbond",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Gillian Anderson",
+      "id": "culture/gillian-anderson",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Thriller",
+      "id": "film/thriller",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Ian Fleming",
+      "id": "books/ian-fleming",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Books",
+      "id": "books/books",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Women",
+      "id": "lifeandstyle/women",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    }
+  ],
+  "authors": [],
+  "guardianId": "film/2016/may/25/why-james-bond-should-never-be-a-woman"
+}

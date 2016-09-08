@@ -1,0 +1,84 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/30/labour-voters-in-the-dark-about-partys-stance-on-brexit-research-says",
+  "id": "2016-05-30-19",
+  "sectionId": "politics",
+  "body": "David Cameron\u2019s battle to keep Britain in the European Union enters its final phase on Tuesday amid worries in the remain camp that more needs to be done to woo traditional Labour voters who have told pollsters they do not understand the party\u2019s stance on the issue.   Brexit explained: The Guardian view   With three weeks to go before polling day on 23 June, Cameron plans to step up campaigning with Labour, Green, Liberal Democrat and trade union figures as he tries to stop the debate sliding into an argument about his own leadership of the Tory party. At the same time, the Brexit camp will move its campaign up a gear this week as Boris Johnson, the former London mayor, and Michael Gove, the justice secretary, appear together for the first time on a tour of the north of England. A campaign memo from Britain Stronger In Europe leaked to the Guardian shows that only about half of Labour voters have realised their party is in favour of staying in the EU, with the rest thinking it is split or believing it is a party of Brexit. The analysis, sent to some Labour MPs, found that focus groups in London, Brighton and Ipswich over the past few weeks showed voters were \u201cuniformly uncertain\u201d about whether Labour was campaigning to stay in the EU. They did not know what Labour leader Jeremy Corbyn thought or believed he was for remain but \u201chis heart isn\u2019t in it\u201d. In a sign that Labour\u2019s arguments are not cutting through to the mainstream, it revealed that a group of undecided working-class women in Liverpool mostly assumed the party was for leaving the EU. The remain camp is worried because although polls suggest it has on average a six-point lead, the same research suggests that leave voters may be more enthusiastic and more likely to turn out on the day. There is particular concern about getting Labour voters to turn out because they are thought more likely than Tories to support staying in. On Monday, the prime minister praised Sadiq Khan, the newly elected mayor of London, just weeks after claiming the mayor was unfit for office because of links to Islamist extremists. He described him as a \u201cproud Muslim, a proud Brit and a proud Londoner\u201d. However, Cameron\u2019s attempts to decouple the referendum from his own party and leadership will be difficult, given that it is inevitably being seen as the biggest gamble of his career, which will decide his future in Downing Street as well as the direction of the country. With at least three Conservative MPs \u2013 Andrew Bridgen, Nadine Dorries and Bill Cash \u2013 now warning that Cameron could face a no-confidence vote if the UK opts for Brexit, Labour\u2019s biggest fear is that some leftwing voters will not be motivated to cast a vote that could help keep Cameron in Downing Street.           Brexit for non-Brits: the EU referendum explained    Although senior Tory MPs are mostly careful to say they think Cameron should stay on as prime minister if the UK votes to leave, many Brexit campaigners think the new calls for Cameron to go are helpful to their cause because they make him look weakened and cast doubt on his judgement. Johnson and Gove have both said they want Cameron to stay on regardless of the result. Ken Clarke, the pro-EU former cabinet minister, on Monday that the leave campaign had, in effect, turned into a leadership campaign for Johnson, who would be a strong contender to succeed Cameron if the UK votes for Brexit. Labour has its own battlebus, which will be touring the country over the next few weeks, and John McDonnell, the shadow chancellor, is taking part in a tour by progressive politicians making the case for EU membership. He will seek to emphasise Labour\u2019s own reasons for wanting to stay in the EU, separately from the Conservative campaign. \u201cThe EU referendum is about our future relationship with Europe, not who is the next leader of the Tory party, which is why I think there is a positive case to be made and it\u2019s vital young people hear this case over the personal ambitions of different Tory MPs,\u201d he said. Chuka Umunna, a leading figure in the Labour In campaign, said the Labour vote would be critical in ensuring a vote to stay in the EU. \u201cThose of us on the left and centre-left carry a huge responsibility. If we don\u2019t ensure we win, we will be handing the likes of Farage, Le Pen and Trump \u2013 who stand against so much of what we believe in \u2013 a huge victory. We cannot afford to let this to happen.\u201d The main remain campaign will focus on the benefits of staying in the EU for small businesses on Tuesday, with Sajid Javid, the business secretary, claiming that 1.2 million small and medium-sized businesses rely on trade with the EU.  In contrast, the leave campaign will focus on immigration, as a new report from MigrationWatch claims up to half a million refugees and their relatives could move to Britain after 2020 because of EU rules on the free movement of people.",
+  "webTitle": "Labour voters in the dark about party's stance on Brexit, research says",
+  "webPublicationDate": "2016-05-30T20:44:03Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/30/labour-voters-in-the-dark-about-partys-stance-on-brexit-research-says",
+  "keyword": [
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Labour",
+      "id": "politics/labour",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Jeremy Corbyn",
+      "id": "politics/jeremy-corbyn",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "David Cameron",
+      "id": "politics/davidcameron",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Sadiq Khan",
+      "id": "politics/sadiq-khan",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Conservatives",
+      "id": "politics/conservatives",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Rowena Mason",
+      "id": "profile/rowena-mason"
+    }
+  ],
+  "guardianId": "politics/2016/may/30/labour-voters-in-the-dark-about-partys-stance-on-brexit-research-says"
+}

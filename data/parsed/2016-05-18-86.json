@@ -1,0 +1,82 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/18/trump-wont-be-able-to-derail-paris-climate-deal-says-senior-us-official",
+  "id": "2016-05-18-86",
+  "sectionId": "environment",
+  "body": "The US would still meet its obligations under the Paris accord on climate change if Donald Trump were elected president, a senior US administration official has told the Guardian. He said the path of the US towards a lower-carbon economy was already set, and was dependent on market forces that would not easily succumb to political tinkering. \u201cWould [Trump\u2019s policies] shift the emissions trajectory in the United States? That doesn\u2019t look likely. Why not? Because he\u2019s not going to raise the price of gas,\u201d said the State Department official, in an exclusive interview with the Guardian. \u201cWhy would he do that? That\u2019s completely anti what he believes.\u201d Trump said this week that he would renege on the landmark Paris agreement on climate change if he were elected president this November. He told Reuters: \u201cAt a minimum I will be renegotiating those agreements, at a minimum. And at a maximum I may do something else.\u201d The official was speaking before Trump made his latest remarks, but the presumed Republican nominee has repeatedly taken a sceptical stance on global warming and the current administration\u2019s attempts to forge international cooperation on emissions. Even if Trump were to carry out his declared plans to unroll Barack Obama\u2019s clean power plan, by which power stations must reduce their carbon output, that would not stop the US meeting its commitments to cut emissions under Paris, the administration official said. Scrapping the plan would be unlikely to change the economics of coal so much that it would become cheaper than lower-carbon gas, he said. \u201cHe might go back on the agreement in Paris but the net effect for the US is not likely to make much of a difference, if at all, in terms of our trajectory,\u201d the official said. A massive increase in gas use, chiefly from shale sources, has brought down US emissions in the last decade as it has displaced coal use.  \u201cThe flip side [of a Trump presidency] is what would happen on renewables,\u201d the official added, but he pointed out that the Republican party had \u2013 since the Paris agreement was signed \u2013 agreed to extend key incentives for renewable energy. \u201cDo you really think that Trump is going to remove that? Why would he do that?\u201d The official also noted that the Republican-controlled Congress would be unable to unpick the Paris agreement if a Democratic president were elected, because of its legal form. The text was carefully worded so that the president could agree to it without having to seek approval from Congress. As part of its \u201cintended nationally determined contribution\u201d to the Paris accord, the White House vowed to reduce emissions by 26% to 28% compared with 2005 levels by 2025. The contributions, made by nearly every signatory to the agreement, are not legally binding to the extent that the overall framework agreement is binding, which allowed President Obama to sign up to them.   US INDC graphic   But the senior US official \u2013 a political appointee whose job will end when Barack Obama leaves the White House, whoever is elected to take over \u2013 warned that Trump could change the tenor of international negotiations on climate change, which were marked by an unusual degree of cooperation during the Paris talks last December. Global financial markets are currently gearing up to invest in a lower carbon economy, he said, but the effects of a Trump administration could prove chilling. \u201cIf the US administration moves from being an aggressive and supportive player [in tackling climate change] to being much less engaged, either disengaged or actively hostile \u2013 [the effects on the market] remain to be seen.\u201d Internationally, a Trump presidency would be likely to create consternation among governments committed to tackling global warming. Laurent Fabius, the former French foreign minister who presided over the Paris talks last December, told an audience in London earlier this month that Trump\u2019s election would derail the Paris agreement. \u201cThink about the impact of the coming US presidential elections,\u201d he urged. \u201cIf a climate change denier was to be elected, it would threaten dramatically global action against climate disruption.\u201d Green campaigners in the US also slammed Trump for his remarks. Khalid Pitts, political director of the Sierra Club, said: \u201cThis is simply more proof that Trump\u2019s antics would isolate the US around the world only negotiate away American leadership. We can only wonder how a climate science denier is supposed to renegotiate an international climate agreement.\u201d Gene Karpinski, president of the League of Conservation Voters, said: \u201cThis is another example of Trump\u2019s dangerous lack of judgement and the very real impacts it could have for all of us. Trump now not only denies the science of climate change, but also the politics and economics of it. America\u2019s leadership in Paris has put the world on the path to a clean energy future that will create jobs and save lives. Fortunately, Trump\u2019s rhetoric is not going to stop the Paris agreement, nor should it given the benefits of action and the costs of ignorance.\u201d",
+  "webTitle": "Trump won't be able to derail Paris climate deal, says senior US official",
+  "webPublicationDate": "2016-05-18T17:17:13Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/18/trump-wont-be-able-to-derail-paris-climate-deal-says-senior-us-official",
+  "keyword": [
+    {
+      "webTitle": "Paris climate agreement",
+      "id": "environment/paris-climate-agreement",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Greenhouse gas emissions",
+      "id": "environment/carbon-emissions",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Climate change",
+      "id": "environment/climate-change",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "COP 21: UN climate change conference | Paris",
+      "id": "environment/cop-21-un-climate-change-conference-paris",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Donald Trump",
+      "id": "us-news/donaldtrump",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Global climate talks",
+      "id": "environment/global-climate-talks",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Climate change scepticism",
+      "id": "environment/climate-change-scepticism",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Fiona Harvey",
+      "id": "profile/fiona-harvey"
+    },
+    {
+      "webTitle": "Oliver Milman",
+      "id": "profile/oliver-milman"
+    }
+  ],
+  "guardianId": "environment/2016/may/18/trump-wont-be-able-to-derail-paris-climate-deal-says-senior-us-official"
+}

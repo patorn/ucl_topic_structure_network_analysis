@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/12/birmingham-pub-bombings-ira-coroner-sent-significant-information",
+  "id": "2016-05-12-174",
+  "sectionId": "uk-news",
+  "body": "A \u201csignificant\u201d piece of information relating to advance warning about the IRA\u2019s Birmingham pub bombings has been sent to the coroner who is considering whether to reopen the inquest into the 1974 atrocity. Louise Hunt, the senior coroner for Birmingham and Solihull, told a hearing on Thursday that the new material had been sent to her office on 27 April from an undisclosed source. Hunt said it related to an allegation that the security services had advance notice. \u201cIt\u2019s significant and does raise concerns in relation to potential advanced notice, that\u2019s as much as I can say,\u201d Hunt said.  Relatives of those who died in the attacks on the Mulberry Bush and Tavern in the Town pubs in Birmingham city centre on the evening of 21 November 1974 are pressing for the inquest to be reopened. The first coroner\u2019s investigation was adjourned six days after the bombings and closed without reporting. At the start of an inquiry in February into whether it should resume, Hunt asked for evidence held by West Midlands police about advance warnings of the pub bombings, IRA informants or delays in evacuating the bars to be made public. The double bombing killed 21 people and injured 182. Six men were convicted of the attacks in 1975, but in 1991 Paddy Hill, Gerard Hunter, Richard McIlkenny, William Power, John Walker and Hugh Callaghan had their convictions quashed in an acknowledgment of one of the UK\u2019s most notorious miscarriages of justice. Hunt is due to deliver her decision on whether the inquest should resume on Wednesday 1 June. A lawyer for relatives of the victims said: \u201cThere has been a gradual realisation that the West Midlands police hadn\u2019t got the right people. There still hasn\u2019t been a transparent investigative process which the families are entitled to have.\u201d The coroner said that, at the request of the West Midlands police, she was not yet able to reveal the nature of the information received. Ashley Underwood QC, for the survivors and relatives of the victims, said that the coroner already had sufficient reason to resume the inquests. He argued that a resumed inquest would be in the public interest, allay public concern about the original police investigation and establish whether the Birmingham pub bombings could have been prevented. Christopher Stanley of KRW Law, representing the families on a pro-bono basis, said: \u201cThe senior coroner maintained her timetable to make a decision on the resumption of the inquests into the 1974 Birmingham pub bombings on June 1st. We have argued on behalf the families we represent in this application that she has sufficient reason to do and should proceed to resume without further delay or opposition.\u201d",
+  "webTitle": "Birmingham pub bombings coroner has 'significant' new information",
+  "webPublicationDate": "2016-05-12T14:05:59Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/12/birmingham-pub-bombings-ira-coroner-sent-significant-information",
+  "keyword": [
+    {
+      "webTitle": "Birmingham",
+      "id": "uk/birmingham",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Birmingham Six",
+      "id": "uk/birmingham-six",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Northern Ireland",
+      "id": "uk/northernireland",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "IRA",
+      "id": "uk/ira",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK security and counter-terrorism",
+      "id": "uk/uksecurity",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Owen Bowcott",
+      "id": "profile/owenbowcott"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/12/birmingham-pub-bombings-ira-coroner-sent-significant-information"
+}

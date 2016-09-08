@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/23/uk-troops-failed-to-ptotect-kosovo-citizens-court-hears",
+  "id": "2016-05-23-107",
+  "sectionId": "world",
+  "body": "British troops failed to protect the local population in Kosovo and to properly investigate murders and an abduction after they were deployed at the end of Nato\u2019s bombing campaign in 1999, the high court in London has been told. The widows of two men, and the wife of a prominent surgeon who was seized and has not been found since, are suing the Ministry of Defence, claiming their human rights were violated. The crimes took place in areas where British soldiers were responsible for ensuring the safety of the population, and have not been adequately investigated, their counsel, Kirsty Brimelow QC, says in written submissions presented to the court.  Zoran Kontic, the manager of a power plant, who was told British troops needed his expertise, was fatally stabbed in Pristina near a UK base, the court heard.  The bodies of Dimitrije Milenkovic, who helped to protect the airport, and his son Aleksandar, were discovered by British soldiers. Dr Andrija Tomanovic, a professor at the school of medicine in a Pristina hospital guarded by British troops, was abducted in July 1999. Both sides recognise the case involves important issues, notably the extent of the jurisdiction of the European convention on human rights \u2013 including a duty on soldiers in control of the relevant areas to investigate crimes effectively. James Eadie QC, for the MoD, argued that the British troops were part of an international force operating under a UN mandate. He referred the judge, Mr Justice Irwin, to an earlier European human rights court judgment that in such cases the UN security council was the ultimate authority and they were thus outside the European court\u2019s jurisdiction. Brimelow argued that the UN did not have effective control over the international peacekeeping force in Kosovo. The UK retained control over its troops in their policing operations, and they were subject to European court obligations. The case is due to last at least three days.",
+  "webTitle": "UK troops failed to protect Kosovo citizens, court hears",
+  "webPublicationDate": "2016-05-23T16:06:33Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/23/uk-troops-failed-to-ptotect-kosovo-citizens-court-hears",
+  "keyword": [
+    {
+      "webTitle": "Kosovo",
+      "id": "world/kosovo",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Military",
+      "id": "uk/military",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Richard Norton-Taylor",
+      "id": "profile/richardnortontaylor"
+    }
+  ],
+  "guardianId": "world/2016/may/23/uk-troops-failed-to-ptotect-kosovo-citizens-court-hears"
+}

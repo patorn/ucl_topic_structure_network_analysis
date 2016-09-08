@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/05/federal-authorities-officially-assisting-prince-investigation",
+  "id": "2016-05-05-278",
+  "sectionId": "music",
+  "body": "Minnesota police have confirmed the US attorney\u2019s office and the Drug Enforcement Administration are helping them in their investigation into Prince\u2019s death. Jason Kamerud of the Carver County sheriff\u2019s office told the Hollywood Reporter on Wednesday: \u201cThey have agreed to provide federal resources and expertise in our investigation.\u201d Prince died on 21 April at his Paisley Park home in the Minneapolis suburb of Chanhassen. It was revealed earlier this week that the 911 call seeking medical help for Prince was made by the son of Dr Howard Kornfeld, a California-based addiction specialist, who had been contacted by Prince\u2019s representative to help the singer.   Related: Prince's final days: few clues pointed to secret behind star's untimely death    Kornfeld had been called on 20 April, his lawyer William Mauzy told the Minneapolis Star-Tribune, because Prince \u201cwas dealing with a grave medical emergency\u201d. Though he could not visit Prince personally until 22 April, he agreed that his son Andrew, who works with him, would go to Paisley Park on 21 April to explain how treatment would work. \u201cThe plan was to quickly evaluate his health and devise a treatment plan,\u201d Mauzy said. \u201cThe doctor was planning on a lifesaving mission.\u201d When Kornfield arrived at Paisley Park at 9.30am on Thursday 21 April, Prince could not be found, until his body was discovered a few minutes later. Mauzy said it had been hoped Prince would travel to California for supervised long-term treatment.",
+  "webTitle": "Federal authorities officially assisting Prince investigation",
+  "webPublicationDate": "2016-05-05T08:30:29Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/05/federal-authorities-officially-assisting-prince-investigation",
+  "keyword": [
+    {
+      "webTitle": "Prince",
+      "id": "music/prince",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Pop and rock",
+      "id": "music/popandrock",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Minnesota",
+      "id": "us-news/minnesota",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian music",
+      "id": "profile/guardianmusic"
+    }
+  ],
+  "guardianId": "music/2016/may/05/federal-authorities-officially-assisting-prince-investigation"
+}

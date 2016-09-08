@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/12/painstaking-investigation-deutsche-bank-insider-trading",
+  "id": "2016-05-12-210",
+  "sectionId": "business",
+  "body": "Nobody would have noticed anything odd had they been walking along the rear security wall of Buckingham Palace on 23 October 2008. Yet all around there were hidden eyes and ears trained on the activities taking place in a small office located on nearby Grosvenor Place. For a year, a team led by the Financial Services Authority (FSA) alongside colleagues from the Serious Organised Crime Agency (Soca), had been tracking a suspected insider trading ring as part of Operation Tabernula. While they had gleaned many fascinating details, they were flummoxed by some major questions. Despite receiving a series of suspicious transaction reports about the fabulously prescient share deals the targets had placed, the officers had no idea where the trader\u2019s information was coming from.      Surveillance photo of Andrew Hind and Iraj Parvizi from Operation Tabernula. Photograph: FCA    Who was the inside source giving this trading ring the confidence to bet \u00a350,000 on each penny movement of shares in the brewer Scottish & Newcastle? Where had the \u00a34.4m of profits from that trade gone?  But then, the Buckingham Palace stakeout produced the breakthrough. A bug planted in the office of a day trader called Ben Anderson \u2013 located barely 50 metres from the rear wall of the Queen\u2019s London residence \u2013 picked up on his conversation with Iraj Parvizi, a well known City trader who had risen to prominence after working in a Kent kebab shop.  Parvizi was on a rare trip to the UK and the pair were discussing an individual who was \u201cworking at Deutsche Bank\u201d and had \u201cdone his bollocks. Financially. That\u2019s why he says he\u2019s hungry ... Because you know he worked for Morgan? \u2026 he went to Lehmans, he says he got fucked on Lehman\u2019s shares as well\u201d.   Related: Ex-Deutsche Bank boss given four-and-a-half years for insider trading    While the pair did not name this insider, the subject of that conversation was referred to as \u201cHind\u2019s man\u201d. As the surveillance team observed Parvizi leaving Anderson\u2019s office, he climbed into a silver BMW sports utility that belonged to one Andrew Hind, a Manchester University maths graduate and accountant nicknamed \u201cNobu\u201d. He had worked at PwC and for Arcadia Group between 1997 and 1998. One of Hind\u2019s closest friends turned out to be a top City financier called Martyn Dodgson. Everything was now clearer. Dodgson had been a well known figure in the City since he had advised the government on its stakes in the Royal Bank of Scotland and Lloyds Banking Group taken as a result of the credit crunch. A graduate of Lancaster University with a first class degree in economics, he was a corporate broker at Deutsche Bank and had previously worked at Morgan Stanley and Lehman Brothers \u2013 meaning he was privy to large amounts of price-sensitive information about companies whose shares were listed on the London Stock Exchange. This stellar career was now effectively at an end. On Thursday Dodgson, 44, was sentenced to four-and-a-half years, after being convicted three days earlier at Southwark crown court of insider dealing, thus becoming perhaps London\u2019s highest-profile insider trader to date. Hind, 56, received three-and-a-half years for his role as the middleman. The previous longest sentence handed down for being convicted of insider dealing in the UK was four years given to Richard Joseph in 2013. Three other alleged participants were all acquitted, including Anderson, 71, and Parvizi, 50, as well as Andrew \u201cGrant\u201d Harrison, 46, who also worked in corporate broking and who was alleged to have played a similar role to Dodgson.     Surveillance photo from Operation Tabernula. Photograph: FCA    Anderson and Parvizi admitted adding their own funds to investments carried out on behalf of Hind, but both insisted they had no reason to suspect his stock picks were based on price-sensitive insider information. In order to be convicted of insider dealing in the UK, the jury has to be satisfied that defendants were aware they were trading on inside information. When arrested six years ago, Dodgson, who was paid \u00a3601,000 a year as a managing director at Deutsche Bank, repeatedly denied to FSA officers that he was involved in personally trading shares. Yet the evidence they had gleaned suggested otherwise. On Dodgson\u2019s keyring investigators found the key for a red metal petty cash box, which had been discovered stashed under Dodgson\u2019s bed at his home in Hampstead, north London. Inside the box was a specialist encrypted storage drive called an IronKey, which its makers boast is \u201cmilitary grade\u201d. Dodgson said he had not used the device in years and could not unlock it. But by cross-checking other passwords the banker had used elsewhere, investigators were able to discover that the drive was opened by the password \u201cLamborghini55\u201d. The court was told the drive contained incriminating evidence including a spreadsheet that listed coded references to the trades. From these files investigators were able to match the trades to Dodgson, but the task was far from simple. The total cost of Operation Tabernula \u2013 which has also resulted in the convictions of three other men \u2013 came to almost \u00a314m. The joint investigation by the FSA and Soca was continued by the organisations that replaced them in 2013, the Financial Conduct Authority and the National Crime Agency. The effort involved about 40 staff at its peak, 485 applications under the Regulation of Investigatory Powers Act - the law governing the use of covert techniques by public authorities - plus analysis of more than 500,000 lines of telecoms data, 120 trading accounts and more than 600 digital devices, including pay-as-you-go mobile phones that were routinely discarded.  Investigators also discovered Hind had bought six encrypted USB sticks, with three found in a wall safe at his home. When asked for the passwords, he declined to provide them.  Investigators never found the key. So, like its owner, the data is locked away.  Investigation statistics   Investigation period of eight-and-a-half years over all four \u2018strands\u2019   Total cost of \u00a313,958,737 (internal and external costs)   10-12 \u2018core\u2019 permanent staff   Peak of about 40 staff (permanent and non-permanent)   485 RIPA applications (Regulation of Investigatory Powers Act 2000, which regulates the use of and access to surveillance by public bodies)  500,000+ lines of telecoms data   120+ trading accounts identified   200,000+ lines of trading data   35,000+ recorded calls (over 560 hours) obtained from brokers   600 digital devices / machines examined   10 million+ individual digital items   10.5TB of storage required   Approximately 320 hours of probe recording received and reviewed   26 live witnesses (6 FCA staff, 3 experts)   46 lever arch files (statements and evidence)   11 tranches of served evidence   195 witnesses produced 452 witness statements and 1,958 exhibits   80,000 unused items on evidence review system (Introspect)   22,000+ unused documents in electronic folders",
+  "webTitle": "How \u00a314m investigation snared Deutsche Bank insider trading ring",
+  "webPublicationDate": "2016-05-12T12:35:03Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/12/painstaking-investigation-deutsche-bank-insider-trading",
+  "keyword": [
+    {
+      "webTitle": "Deutsche Bank",
+      "id": "business/deutschebank",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Crime",
+      "id": "uk/ukcrime",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Banking",
+      "id": "business/banking",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "European banks",
+      "id": "business/europeanbanks",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Financial sector",
+      "id": "business/financial-sector",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Simon Goodley",
+      "id": "profile/simongoodley"
+    }
+  ],
+  "guardianId": "business/2016/may/12/painstaking-investigation-deutsche-bank-insider-trading"
+}

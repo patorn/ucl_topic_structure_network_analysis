@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/16/gchq-joins-twitter-hello-world-edward-snowden",
+  "id": "2016-05-16-187",
+  "sectionId": "uk-news",
+  "body": "Spooks at GCHQ have been snooping on our tweets for years, but now members of the public who use Twitter can see theirs following the launch of the surveillance agency\u2019s first official account.  More than 10 years after Twitter began, GCHQ dipped its public toe into the social networking water with the words \u201chello, world\u201d just after 11am on Monday.    Hello, world. https://t.co/SROtSsE8KB\u2014 GCHQ (@GCHQ) May 16, 2016    Within half an hour of its verified feed, the GCHQ account attracted more than 2,000 followers. GCHQ is late to the official social media party by the standards of international security services.  Its US equivalent, the National Security Agency, has been running an account since December 2013. The Central Intelligence Agency launched its account almost two years ago with a memorable first message.    We can neither confirm nor deny that this is our first tweet.\u2014 CIA (@CIA) June 6, 2014    The move is part of an effort to make the secretive Cheltenham listening post slightly more transparent and improve its public image after Edward Snowden revealed the industrial scale of mass surveillance by it and the NSA.  The account launch is reported to have come after months of discussion. While ministers and diplomats have been encouraged to tweet for years, the security establishment has been reluctant to follow suit. Neither MI6 nor MI5 has an official Twitter account. But GCHQ\u2019s director, Robert Hannigan, has a brief to restore public trust in the agency. Andrew Pike, the director of communications at GCHQ, said: \u201cIn joining social media, GCHQ can use its own voice to talk directly about the important work we do in keeping Britain safe.\u201d The initial reaction to the account was of mockery, including from the former deputy prime minister John Prescott.    After years of following us, we can now follow them! \ud83d\ude0f https://t.co/3hWgRbyjbg\u2014 John Prescott (@johnprescott) May 16, 2016    Duncan Weldon, the head of research at the Resolution Foundation, wondered how users would react if GCHQ started following them on Twitter.    \"@GCHQ is now following you\" is going to really freak some people out.  https://t.co/ZoLmhUcaOQ\u2014 Duncan Weldon (@DuncanWeldon) May 16, 2016    The former Guardian journalist Glenn Greenwald, who broke the story of Snowden\u2019s revelations, noted the irony of GCHQ\u2019s attempt to win public trust after previously trying to suppress news of its existence.    Remember when UK Govt prosecuted journalist Duncan Campbell & expelled Mark Hosenball for revealing your existence? https://t.co/LlXWyY2h7I\u2014 Glenn Greenwald (@ggreenwald) May 16, 2016    In a statement, GCHQ acknowledged that it had been a late adopter of Twitter.  \u201cWe know that some will say we\u2019re joining the Twitter party slightly late, but we\u2019re the first intelligence agency in the UK to do this and it\u2019s a big step for the organisation as we become more open about the work we do to keep Britain safe,\u201d it said.   Related: Welcome to Twitter @GCHQ. Here\u2019s some timely advice #justsaying | Rupert Myers    \u201cSome things have to stay secret, sorry, so we won\u2019t be providing intelligence updates or giving away tradecraft. \u201cWe want GCHQ to be more accessible and to help the public understand more about our work. We also want to reach out to the technical community and add our voice to social media conversations about technology, maths, cybersecurity and other topics where we have a view.\u201d It explained that \u201chello, world\u201d was one of the first phrases that students of computer coding learn to write. \u201cAs a technical organisation with computing at its core, it resonated with many of our staff, who have learnt to program during their career,\u201d GCHQ said. \u2022 This article was amended on 16 May 2016 to remove the statement that blocking GCHQ on Twitter would make it more difficult for the organisation to legally spy on a user.",
+  "webTitle": "'Hello, world': GCHQ joins Twitter",
+  "webPublicationDate": "2016-05-16T13:02:49Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/16/gchq-joins-twitter-hello-world-edward-snowden",
+  "keyword": [
+    {
+      "webTitle": "GCHQ",
+      "id": "uk/gchq",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Twitter",
+      "id": "technology/twitter",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Edward Snowden",
+      "id": "us-news/edward-snowden",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "CIA",
+      "id": "us-news/cia",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "UK security and counter-terrorism",
+      "id": "uk/uksecurity",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Internet",
+      "id": "technology/internet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Matthew Weaver",
+      "id": "profile/matthewweaver"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/16/gchq-joins-twitter-hello-world-edward-snowden"
+}

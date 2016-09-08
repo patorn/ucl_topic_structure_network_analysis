@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/us-news/2016/may/13/chicago-police-review-rahm-emanuel-officer-shootings",
+  "id": "2016-05-14-208",
+  "sectionId": "us-news",
+  "body": "Embattled Chicago mayor Rahm Emanuel announced Friday that he would abolish the much-criticized independent police review authority (IPRA) and replace it with a civilian agency. Emanuel\u2019s approval ratings have been plummeting in recent months following the release, after a year of clamor and denial, of the video showing Chicago police shooting unarmed black teenager Laquan McDonald \u2013 a video that Emanuel claimed not to have seen until just before its release. Laquan was shot 16 times by a Chicago police officer in November 2014, a shooting that police at first claimed was in self-defense, though when the footage was eventually released it showed that the 17-year-old was facing away \u2013 and walking away \u2013from the officer when he was killed. In an op-ed for the Chicago Tribune released on Friday afternoon, Emanuel said it was \u201cclear that a totally new agency is required to rebuild trust in investigations of officer-involved shootings and the most serious allegations of police misconduct\u201d. The civilian agency that will replace it, Emanuel wrote, will have \u201cmore independence and more resources to do its work\u201d. The mayor also announced several other changes in the same op-ed, including a new community safety oversight board and a new position of public inspector general to oversee the police force and its activities. Sharon Farley, the current head of the IPRA, said in a statement that the change was \u201can important and necessary first step toward the true reform we have all been working on for the past several months\u201d. But it is unclear whether the move will stem the flow of calls, especially in the black community, for Emanuel to step down in the wake of what many saw as a concerted, if eventually unsuccessful, attempt to suppress the Laquan video from release. In December 2015, Emanuel fired police chief Garry McCarthy over his handling of the case, saying that \u201cpolice officers are only effective if they are trusted by all Chicagoans, whoever they are and wherever they live\u201d.",
+  "webTitle": "Chicago's much-criticized police review authority replaced with civilian agency",
+  "webPublicationDate": "2016-05-14T00:25:43Z",
+  "webUrl": "https://www.theguardian.com/us-news/2016/may/13/chicago-police-review-rahm-emanuel-officer-shootings",
+  "keyword": [
+    {
+      "webTitle": "Chicago",
+      "id": "us-news/chicago",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Rahm Emanuel",
+      "id": "us-news/rahm-emanuel",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US policing",
+      "id": "us-news/us-police",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Nicky Woolf",
+      "id": "profile/nicky-woolf"
+    }
+  ],
+  "guardianId": "us-news/2016/may/13/chicago-police-review-rahm-emanuel-officer-shootings"
+}

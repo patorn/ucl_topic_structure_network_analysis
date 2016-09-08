@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/society/2016/may/17/potato-blight-eating-spuds-four-times-a-week-could-be-harmful",
+  "id": "2016-05-17-7",
+  "sectionId": "society",
+  "body": "Everyone knows chips are a dietary no-no. But now experts are warning that eating too much of the humble potato in any form \u2013 baked, boiled or as mash \u2013 could potentially be bad for our health. Research claims that eating potatoes four times a week could be harmful and contribute to the condition that causes strokes and heart attacks, Britain\u2019s biggest killers.  The study, reported in the BMJ, is the first to identify potatoes as a key source of hypertension, better known as high blood pressure.  \u201cWe found independent prospective associations of higher intake of baked, boiled or mashed potatoes and french fries with an increased risk of hypertension,\u201d said the researchers, who are based in Boston in the US. Women are particularly at risk, they said, although the study found that both sexes were affected.  Their findings are a challenge to current official UK dietary advice on what foods Britons should be eating for health reasons \u2013 at present, people are encouraged to base meals on a starchy carbohydrate such as potatoes, pasta, rice or bread.  \u201cThese findings have potentially important public health ramifications, as they do not support a potential benefit from the inclusion of potatoes as vegetables in government food programmes, but instead support a harmful effect that is consistent with adverse effects of high carbohydrate intakes seen in controlled feeding studies,\u201d say the authors, who work at Brigham and Women\u2019s hospital and Harvard University.  They advise replacing potatoes as often as possible with a non-starchy vegetable as a way of eating healthily. Curiously, they found no association between eating crisps and an increased risk of high blood pressure. However, the scientists did not measure people\u2019s salt intake, which could affect their findings. Public Health England (PHE), the government\u2019s food advisory agency, endorses potatoes as a key element of its Eatwell guide, the Whitehall-backed advice on what constitutes an ideal diet, especially because they contain fibre. But the researchers say potatoes are problematic because they have a high glycaemic load, especially boiled potatoes. \u201cThe postprandial hyperglycaemia that follows a high glycaemic load meal has been associated with endothelial dysfunction, oxidative stress, and inflammation, all potentially important mechanisms in the development of hypertension,\u201d their paper in the BMJ says.  While they do not claim to have established conclusively that potatoes cause high blood pressure, they say they have found that \u201chigher long-term intake of baked, boiled or mashed potatoes was significantly associated with an increased risk of hypertension in women, independent of numerous other predictors of risk of hypertension, including dietary factors such as wholegrain intake and whole fruit and vegetable intake.\u201d  They based their findings on examination of more than 187,000 men and women in three large studies in the US. They compared the health of those who had eaten potatoes four or more times a week with those who had done so only once a month. The former was associated with a higher risk of hypertension in participants in all three studies, they said.  Helena Gibson-Moore, a nutrition scientist at the British Nutrition Foundation, said the findings left many questions unanswered. \u201cWhy there is a difference in findings for chips and crisps, and whether any link is related to ingredients [such as fat and salt] added to potatoes rather than the potatoes themselves? As such, the findings should not change current advice in the UK, where potatoes make a useful contribution to nutrient intakes such as fibre and vitamin C.\u201d  PHE said it would not be changing its dietary advice because of the study. \u201cThe Eatwell guide shows that we should base our diet on starchy foods such as potatoes, which are best eaten with the skins on to increase fibre consumption,\u201d said Dr Louis Levy, its head of nutrition science. \u201cHow you cook and what you eat with your potatoes can increase the salt, fat and sugar in your diet. So keeping an eye on these, as well as stopping smoking and being more active, will help reduce the risk of developing high blood pressure.\u201d Victoria Taylor, a senior dietician at the British Heart Foundation, said: \u201cThis type of study can only show an association, not cause and effect. We cannot therefore conclude that potatoes cause high blood pressure and we cannot explain the cause of the effects seen in the study among higher consumers of potatoes.\u201d She added: \u201cAlthough a higher consumption of potatoes, such as mashed potatoes or french fries, was associated with high blood pressure, it is still possible that other factors in the diet or lifestyle are also affecting the results, especially as both the blood pressure and food frequency were self-reported.\u201d",
+  "webTitle": "Potatoes four times a week could cause high blood pressure, says study",
+  "webPublicationDate": "2016-05-17T22:30:12Z",
+  "webUrl": "https://www.theguardian.com/society/2016/may/17/potato-blight-eating-spuds-four-times-a-week-could-be-harmful",
+  "keyword": [
+    {
+      "webTitle": "High blood pressure",
+      "id": "society/high-blood-pressure",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Food & drink",
+      "id": "lifeandstyle/food-and-drink",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Denis Campbell",
+      "id": "profile/deniscampbell"
+    }
+  ],
+  "guardianId": "society/2016/may/17/potato-blight-eating-spuds-four-times-a-week-could-be-harmful"
+}

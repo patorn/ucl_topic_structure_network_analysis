@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/money/2016/may/12/service-road-london-planning-permission-family-home",
+  "id": "2016-05-12-147",
+  "sectionId": "money",
+  "body": "There\u2019s a gap in the market for small plots of land to build on in London, so it\u2019s perhaps no surprise that there were eight bidders for a site with planning permission in Shepherd\u2019s Bush, west London. Once a service road between two Victorian houses, the triangular plot has planning permission for a 13 foot-wide three-bedroom home and is about to change hands for \u00a3400,000. Just days after a former garage in the same borough went under the hammer for \u00a3466,000, an offer has been accepted on the plot by a buyer willing to build a property and let it out.  The property was sold by estate agent Kerr & Co, which described its location on Leysfield Road as \u201can extremely popular residential street\u201d. David Knipe, assistant sales manager at Kerr & Co, said the area\u2019s proximity to Ravenscourt Park and \u201ctree-lined, leafy roads\u201d made it popular with families. \u201cIt\u2019s rare that we take on a site to sell, especially one this size where you can build an individual property,\u201d he said. \u201cThe price is in line with the market in the area. When it\u2019s done it will be worth what we advise in the locality.\u201d In 2015, a two-bedroom flat on the same road changed hands for \u00a3725,000, while in 2014 a four-bedroom house went for \u00a31.8m. The average house price in the borough, according to the Land Registry, is more than \u00a3830,000. Planning permission for the site was granted in 2015, with Hammersmith and Fulham council saying it would \u201ccontribute to much-needed, high-quality additional housing\u201d. It allows the buyer to build a family home that is two storeys high, with a third floor in the basement. The plans show two living rooms, a conservatory and library area, and the agents say it will offer around 1,100 square feet of living space. Cycle storage at the front of the building is also included in the plans, as the council decided a parking permitted would not be granted.",
+  "webTitle": "Mind the gap: former service road in west London sold for \u00a3400,000",
+  "webPublicationDate": "2016-05-12T15:24:03Z",
+  "webUrl": "https://www.theguardian.com/money/2016/may/12/service-road-london-planning-permission-family-home",
+  "keyword": [
+    {
+      "webTitle": "Property",
+      "id": "money/property",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "House prices",
+      "id": "money/houseprices",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "London",
+      "id": "uk/london",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Housing market",
+      "id": "business/housingmarket",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Real estate",
+      "id": "business/realestate",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Hilary Osborne",
+      "id": "profile/hilaryosborne"
+    }
+  ],
+  "guardianId": "money/2016/may/12/service-road-london-planning-permission-family-home"
+}

@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/money/2016/may/12/four-parking-spaces-in-st-ives-on-market-for-total-of-150000",
+  "id": "2016-05-12-152",
+  "sectionId": "money",
+  "body": "Four parking spaces in the picturesque Cornish harbour town of St Ives have been put on the market for a total of \u00a3150,000. Though each of the four spots is only big enough for a single vehicle, one has already been snapped up and the estate agent is confident all will go for the asking price.  Estate agent Millerson said it was difficult to park in the town and spaces rarely came up for sale.  The company does not try to overstate its offering in the particulars: \u201cIdeal location to park and leave for easy access to holiday properties, town and beaches. Marked parking spaces with security bollards to be provided on completion. Average space size 2.6m x 4.8m.\u201d  Still, the cost of the spaces is not a record. In 2012 three parking spaces sold at auction for a total of more than \u00a3160,000. But their price will cause more frustration among many local people who cannot afford to live in St Ives because incomers have pushed the prices up so sharply.  A referendum was held last week on a neighbourhood plan that included a provision to allow only local people to live in new-build homes.   More than 80% of local people backed the plan though a developer has already launched a legal challenge against it.",
+  "webTitle": "Four parking spaces in St Ives on market for total of \u00a3150,000",
+  "webPublicationDate": "2016-05-12T15:08:29Z",
+  "webUrl": "https://www.theguardian.com/money/2016/may/12/four-parking-spaces-in-st-ives-on-market-for-total-of-150000",
+  "keyword": [
+    {
+      "webTitle": "Property",
+      "id": "money/property",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Cornwall",
+      "id": "uk-news/cornwall",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Steven Morris",
+      "id": "profile/stevenmorris"
+    }
+  ],
+  "guardianId": "money/2016/may/12/four-parking-spaces-in-st-ives-on-market-for-total-of-150000"
+}

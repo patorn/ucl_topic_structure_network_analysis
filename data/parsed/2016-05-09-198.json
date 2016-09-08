@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media-network/2016/may/09/robots-social-health-care-elderly-children",
+  "id": "2016-05-09-198",
+  "sectionId": "media-network",
+  "body": "Belgian prime minster Charles Michel\u2019s recent drive to promote the country as a positive place for investment is understandable after recent terrorist activity in Brussels, but it seems he may have missed an opportunity. Right on his doorstep, in the northern Belgium coastal town of Oostende, he has a company programming and selling robotsthat help humans dance, sing and learn new skills. The global robotics market is expected to be worth $1.5bn (\u00a31bn) by 2019 and although currently dominated by projections for industrial robots, demand for business and consumer robotics is expected to grow seven times faster than in manufacturing. So why the lack of support? \u201cBelgium is Belgium,\u201d says Tommy Deblieck, co-founder of QBMT Solutions, the company behind the Zora social robot. \u201cThe government has a digital agenda and we said: \u2018What about robotics?\u2019 The only answer we got was: \u2018Oops, we forgot about that.\u2019\u201d Despite the apparent shortcomings of the Belgian government, best friends Deblieck and Fabrice Goffin ploughed ahead with their version of Aldebaran\u2019s Nao social robot, to initially develop something for the hospitality industry.   Related: Using technology to bridge the learning gap across Africa    Aldebaran, a French company 95% owned by Japanese giant Softbank Group started building its programmable robots back in 2006. It has two social robots, Nao and Pepper. The latter had its five minutes of fame last year when a drunken man, Kiichi Ishikawa entered a Softbank mobile phone shop in Japan and attacked the robot that greeted him because he didn\u2019t like its attitude. Softbank also made the headlines last year for slapping a \u201cno sex\u201d clause into the buyers\u2019 contracts. Deblieck talks about the real difference Zora is making in healthcare, not just in Belgium but across Europe and in the US. It started with an invite from the University of Ghent, where researchers were interested in seeing if robots could be used to motivate children that had suffered from physical injuries, to move and exercise again. It worked. \u201cNot so long after this we were contacted by Mutualit\u00e9 Chr\u00e9tienne [a Belgian healthcare organisation],\u201d says Deblieck, \u201cto see if we could do a similar job with elderly people and to be honest in the beginning we said it was never going to work but we did it anyway. We tested the idea and the results were impressive \u2013 it was even better than with children.\u201d For Patrick Delanghe, a nursing home physiotherapist, the emergence of Zora was timely. Delanghe had tried a number of methods to maintain interest in his classes including using video screens but nothing seemed to sustain attention. \u201cWe decided to trial the Zora and it made an immediate difference,\u201d he says, aware that he was a bit of a guinea pig for the 57cm high robot. \u201cWhat we saw was that elderly people look at Zora as a little child, a little girl and this is the main reason we could motivate them.\u201d Using a mix of songs and tunes from the 1940s and 50s and speaking in Dutch, Delanghe adds that Zora enables classes to be tailored and relevant but more importantly it frees him up to help individuals without having to stop the whole class. The success of the trial has led to Deblieck and Goffin exploring further applications for Zora, to see how it can maybe help with dementia, Alzheimer\u2019s and even alleviate loneliness. Zora has also got involved with kids on the autistic spectrum. According to Deblieck, a number of UK autism schools have been working with Zora. Vanderbilt University in Nashville has been investigating robots for treating autism since 2013, while the EU\u2019s Dream project is a collaboration of academic institutions exploring the role robots can have in a wide range of therapies. There is also an EU initiative being run at Plymouth University in the south west of England to determine the impact robots can make on language learning. The scope for social robots in health and education appears exhaustive but there are still limitations. \u201cThe hardware itself has some problems with the microphone,\u201d says Deblieck. \u201cZora does not always understand everything, especially in Dutch and then there is the lack of AI, although to work in healthcare we don\u2019t believe in the power of AI at this moment. It\u2019s still too early and dangerous to use.\u201d   Related: Google given access to healthcare data of up to 1.6 million patients    Of course this is still early days but AI will come, as will a broader range of applications as the robots become more affordable. At the moment they don\u2019t come cheap, although Zora can be leased for around $295 a month. Beyond healthcare and therapy, social robots will find an increasing role in hospitality, Deblieck\u2019s initial target market, but also in retail and, as the Van Abbe Museum in Eindhoven has recently shown, providing virtual guides for people with mobility issues. It\u2019s a departure from the popular image of conquering robots taking our jobs. For the moment at least entrepreneurs and academics appear to be united in creating a new empathetic market of robots that care, or at least act like they care.  To get weekly news analysis, job alerts and event notifications direct to your inbox, sign up free for Media & Tech Network membership. All Guardian Media & Tech Network content is editorially independent except for pieces labelled \u201cPaid for by\u201d \u2013 find out more here.",
+  "webTitle": "How social robots are dispelling myths and caring for humans",
+  "webPublicationDate": "2016-05-09T12:30:15Z",
+  "webUrl": "https://www.theguardian.com/media-network/2016/may/09/robots-social-health-care-elderly-children",
+  "keyword": [
+    {
+      "webTitle": "Media & Tech Network",
+      "id": "media-network/media-network",
+      "sectionId": "media-network",
+      "sectionName": "Media Network"
+    },
+    {
+      "webTitle": "Robots",
+      "id": "technology/robots",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Artificial intelligence (AI)",
+      "id": "technology/artificialintelligenceai",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Computing",
+      "id": "technology/computing",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Marc Ambasna-Jones",
+      "id": "profile/marc-ambasna-jones"
+    }
+  ],
+  "guardianId": "media-network/2016/may/09/robots-social-health-care-elderly-children"
+}

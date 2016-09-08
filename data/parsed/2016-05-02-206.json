@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/02/craig-wright-bitcoin-founder-satoshi-nakamoto-claim",
+  "id": "2016-05-02-206",
+  "sectionId": "technology",
+  "body": "Australian entrepreneur Craig Wright has identified himself as Satoshi Nakamato, the pseudonymous creator of the digital currency bitcoin. Wright, who was named as the cryptocurrency\u2019s founder by two separate media investigations in December, made the admission in a blog post on Monday, providing what he says is technical proof of his claim. He also provided evidence to the BBC, reportedly including the use of cryptographic keys linked to the same blocks of bitcoin Nakamoto sent another developer, Hal Finney, in the currency\u2019s first transaction in 2009.   Related: Who is Craig Wright and how likely is it that he's behind bitcoin?    His claim was backed up by Jon Matonis, one of the founding directors of the Bitcoin Foundation, who said he \u201chad the opportunity to review the relevant data along three distinct lines: cryptographic, social, and technical\u201d. \u201cIt is my firm belief that Craig Wright satisfies all three categories,\u201d he said. Wright, 45, is an Australian IT and security consultant, who described himself on a now-deleted LinkedIn page as a \u201csenior management executive information security specialist\u201d. Until recently he was the director of more than a dozen companies, some involved in cryptocurrency, until he divested himself of 12 of them in the space of a week in July 2015.   Related: Bitcoin creator Satoshi Nakamoto probably Australian entrepreneur, reports claim    Wired and Gizmodo published investigations in December claiming to reveal Wright\u2019s identity based on leaked transcripts, emails and financial records. Wright declined to comment on the stories, which were the subject of scepticism among some of his contemporaries. The same day his north Sydney home was raided by Australian federal police in connection with a tax investigation, unrelated to bitcoin. Wright said on Monday he was unmasking himself because \u201cI care so passionately about my work, and also to dispel any negative myths and fears about bitcoin\u201d. \u201cI cannot allow the misinformation that has been spread to impact the future of bitcoin and the blockchain,\u201d he said in a statement. Cryptocurrencies, among which bitcoin is the dominant version, allow consumers to make electronic transactions without commercial banks as intermediaries, and outside the reach of central banks. There are around 15.5m bitcoins currently in circulation, including the million or so reportedly owned by Nakamoto, giving the founder \u2013 or founders \u2013 a net worth of around US$450m, at the current price.  One bitcoin is currently worth around \u00a3306 (US$449). Nakamato\u2019s identity has been the subject of fierce speculation since he outlined the ideas behind bitcoin in an academic \u201cwhite paper\u201d in October 2008.  The software behind the system was launched the following year, Nakamoto continuing to develop it, with others, until he abruptly stepped back in April 2011, saying he had \u201cmoved on to other things\u201d.   Related: Who is Bitcoin creator Satoshi Nakamoto? Does it even matter?    Media organisations including the New Yorker and Newsweek have unsuccessfully tried to reveal Nakamoto\u2019s identity in past years. Wright on Monday said the pseudonym was an homage to Tominaga Nakamoto, a 17th century Japanese philosopher, merchant and advocate of free trade. He wrote on his blog: \u201cSatoshi is dead. But this is only the beginning.\u201d After the December stories, Wright reportedly approached the author Andrew O\u2019Hagan, to whom he also provided evidence of his involvement in bitcoin for an upcoming piece in the London Review of Books.  The Economist, to which Wright also gave evidence, said it had concluded the Australian \u201ccould well be Mr Nakamoto, but that nagging questions remain\u201d. David Glance, an associate professor of computer science at the University of Western Australia, who has worked with Wright in the past, told the Guardian he remained \u201chighly sceptical\u201d. \u201cI would wait until we\u2019ve actually seen absolutely proof that it\u2019s the case,\u201d he said.",
+  "webTitle": "Australian Craig Wright claims he is bitcoin founder Satoshi Nakamoto",
+  "webPublicationDate": "2016-05-02T09:04:54Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/02/craig-wright-bitcoin-founder-satoshi-nakamoto-claim",
+  "keyword": [
+    {
+      "webTitle": "Bitcoin",
+      "id": "technology/bitcoin",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Cryptocurrencies",
+      "id": "technology/cryptocurrencies",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Michael Safi",
+      "id": "profile/michael-safi"
+    }
+  ],
+  "guardianId": "technology/2016/may/02/craig-wright-bitcoin-founder-satoshi-nakamoto-claim"
+}

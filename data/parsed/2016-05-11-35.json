@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/11/bbc-to-fund-150-local-news-journalists",
+  "id": "2016-05-11-35",
+  "sectionId": "media",
+  "body": "The BBC has struck an \u00a38m deal to pay for 150 local journalists in an attempt to fill the local democracy gap in the UK. Under the agreement with the News Media Association (NMA), the BBC will fund 150 journalists from 2017. They will be employed by local news organisations to provide a service covering local authorities and public services for news providers including the BBC. The number of journalists employed under the scheme, which was first floated last year, could rise to 200 by 2019, it said. The total cost to the BBC is believed to be \u00a38m per year.   Related: BBC will offer staff and content to help local newspapers    The plan will create a video news bank, which will enable BBC local video and audio content to be accessed by local news media websites, and a new data journalism unit developing expertise and providing content to local news providers. The initiative, confirmed on Wednesday, follows growing concerns about a decline in local newspapers and other outlets holding local authorities and service providers to account. There will also be a jointly commissioned independent audit to establish the use of local press content by the BBC on its media platforms and vice versa. The BBC\u2019s director of news and current affairs, James Harding, said: \u201cThese plans are not just a milestone in the relationship between the BBC and the local press. They will enhance local journalism, ensure greater accountability of people in public life and enable BBC audiences and newspaper readers to get better coverage of what\u2019s really happening in their communities.  \u201cThese are big steps to strengthen local news. We will add 150 journalists reporting for their papers and BBC audiences alike. BBC video will reach more people through local newspaper websites and, together, we will harness the potential of data journalism to improve our reporting of public services and institutions across the country.\u201d  The scheme will get under way as part of the new BBC charter, which will come into force next year. The government is due to publish its white paper on the future of the BBC, paving the way for the new charter, on Thursday. Local news providers will have to meet qualifying criteria and be selected via a bidding process to employ the BBC-funded recruits. The BBC is currently working with the NMA on how this will work. The NMA chairman, Ashley Highfield, said: \u201cWe believe this will strengthen and enhance local journalism and the crucial role it has in holding local authorities to account, while maintaining the healthy competition between different news sources which is so important in a democracy.  \u201cMore coverage and content from councils will be more widely distributed, ensuring greater accountability and transparency in an ever-more devolved Britain.  \u201cAs the market leader in local news provision, the local news media industry has long been keen to explore a more positive relationship with the BBC which would be of real benefit to our readers and licence fee payers.\u201d",
+  "webTitle": "BBC to fund 150 local news journalists",
+  "webPublicationDate": "2016-05-11T21:00:09Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/11/bbc-to-fund-150-local-news-journalists",
+  "keyword": [
+    {
+      "webTitle": "BBC",
+      "id": "media/bbc",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Local politics",
+      "id": "politics/localgovernment",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Newspapers",
+      "id": "media/newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Local government",
+      "id": "society/localgovernment",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Newspapers & magazines",
+      "id": "media/pressandpublishing",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Regional & local newspapers",
+      "id": "media/local-newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "John Plunkett",
+      "id": "profile/johnplunkett"
+    }
+  ],
+  "guardianId": "media/2016/may/11/bbc-to-fund-150-local-news-journalists"
+}

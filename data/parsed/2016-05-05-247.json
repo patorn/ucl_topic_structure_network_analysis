@@ -1,0 +1,84 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/05/services-sector-slump-fans-fears-of-uk-economic-slowdown",
+  "id": "2016-05-05-247",
+  "sectionId": "business",
+  "body": "A sharp slowdown in Britain\u2019s vast services sector, which covers everything from banking to hotels, has fanned fears that economic growth is stalling, hurt by a downturn in global trade and jitters ahead of June\u2019s knife-edge EU referendum. A closely watched survey of businesses in the UK\u2019s biggest sector showed activity slumped in April to its slowest pace for more than three years. That followed polls earlier in the week showing the smaller construction and manufacturing sectors had also lost momentum last month.   Related: UK service sector growth slumps to three-year low \u2013 business live    The surveys\u2019 compilers, Markit, said that taken together the reports suggested economic growth stalled in April, dropping to an estimated 0.1%, from 0.4% growth in the first quarter of the year. That chimes with a Bank of England warning that the economy will likely lose steam as the in/out EU referendum nears and businesses delay investment decisions. Economists said the reports suggested the upcoming referendum was exacerbating an already fragile mood among businesses after a tumultuous start to 2016 on global markets.  \u201cApril\u2019s Markit/CIPS report on services indicates that uncertainty emanating from the EU referendum has brought the recovery to its knees,\u201d said Samuel Tombs, chief UK economist at the consultancy Pantheon Macroeconomics. \u201cWith the latest opinion polls still showing that support for leaving the EU is just as strong as support for staying in, the headwinds stemming from the referendum will only intensify over the next two months.\u201d The headline activity index on the Markit/CIPS UK Services PMI poll dropped to 52.3 in April from 53.7 in March, the lowest reading since February 2013. That was still above the 50 mark that separates expansion from contraction, but below expectations for 53.5 in a Reuters poll of economists taken before the report.    #UK economy near stalling as #PMI signals slowest growth for over three years. Full analysis here: https://t.co/buU2JcV3Ax\u2014 Markit Economics (@MarkitEconomics) May 5, 2016    The report also signalled the lowest rise in employment since August for the services sector, which spans hotels to the financial industry, including banks and insurers. Business optimism also weakened, echoing other reports that employers are nervous about the referendum result and deferring both hiring and spending as a result. Markit\u2019s construction PMI this week pointed to the slowest growth for almost three years as firms blamed a lack of new orders amid a weaker outlook for the UK economy. There was similarly downbeat news from manufacturers, which also suffered their worst month in three years as falling export orders and a lack of domestic demand for consumer goods squeezed output. Taken together the reports indicated the weakest rate of expansion for three years and were likely to put Bank of England policymakers on alert, said Markit\u2019s chief economist, Chris Williamson. \u201cThe latest reading is consistent with a near-stalling of economic growth, down to just 0.1% in April,\u201d he said. \u201cThe deterioration in April pushes the surveys into territory which has in the past seen the Bank of England start to worry about the need to revive growth, either by cutting interest rates or non-standard measures such as quantitative easing.\u201d   Service sector PMI   Interest rates have been at a record low of 0.5% for more than seven years and financial markets are not expecting the Bank to raise them until well into next year. Most economists expect the Bank would cut interest rates in the event of a vote to leave the EU. But some say a so-called Brexit could also prompt a rate rise if it knocks the pound down sharply against other currencies. Surveys suggest that the referendum itself is already impacting the UK economy, with consumer confidence measures down and business polls also noting worries. As such, Bank policymakers have made clear that they will treat pre-referendum news on the economy with more caution than usual. The PMI suggested optimism about the year ahead in the services sector fell to match a 33-month low seen in January. \u201cApril saw an increase in the number of companies reporting that uncertainty about the EU referendum caused customers to hold back on purchases, exacerbating already-weak demand linked to global growth jitters and ongoing government spending cuts,\u201d said Williamson. But there were few bright spots in the report on services, which covers some 80% of the UK economy. New business continued to grow, albeit it at a relatively slow pace. Employment also continued to rise but at the weakest pace in more than two-and-a-half years. Companies said the introduction of the National Living Wage last month drove up their costs, which rose at the fastest pace for 27 months. The services report marked yet another sign the economy was losing steam, said James Smith economist at the bank ING. The outlook for interest rates now largely depended on the outcome of the EU referendum, he added. \u201cShould the UK vote to remain in the EU, then it is likely that activity will rebound as sentiment recovers and delayed business investment and employment plans are implemented. However, the jury is still out on whether the recent economic weakness is entirely attributable to vote-related weakness, so the actual timing of the first rate hike depends on the speed and magnitude of recovery in the UK data post-referendum,\u201d said Smith. \u201cShould the UK vote to leave the EU, then the potential for weaker business sentiment could prompt the BoE to loosen policy to pre-empt any near-term economic weakness.\u201d",
+  "webTitle": "Services sector slump fans fears of UK economic slowdown",
+  "webPublicationDate": "2016-05-05T10:05:05Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/05/services-sector-slump-fans-fears-of-uk-economic-slowdown",
+  "keyword": [
+    {
+      "webTitle": "Services sector",
+      "id": "business/services-sector",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economic growth (GDP)",
+      "id": "business/economicgrowth",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Economic recovery",
+      "id": "business/economic-recovery",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Manufacturing sector",
+      "id": "business/manufacturing-sector",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Construction industry",
+      "id": "business/construction",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Financial sector",
+      "id": "business/financial-sector",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Katie Allen",
+      "id": "profile/katieallen"
+    }
+  ],
+  "guardianId": "business/2016/may/05/services-sector-slump-fans-fears-of-uk-economic-slowdown"
+}

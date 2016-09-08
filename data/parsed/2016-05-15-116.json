@@ -1,0 +1,30 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/15/letter-tony-cozier-obituary",
+  "id": "2016-05-15-116",
+  "sectionId": "sport",
+  "body": "As the Guardian\u2019s Washington correspondent in 1983, I was assigned to cover the political upheaval in St George\u2019s, Grenada, followed by Ronald Reagan\u2019s military intervention. In the first few bloody days of conflict, journalists were exiled to Barbados and ferried to Grenada by US military transport. During one of the Barbadian breaks I bumped into the news presenter Trevor McDonald, a Caribbean cricket enthusiast, who suggested we should call in on Tony Cozier for drinks on his veranda overlooking an azure ocean. We happily joined Cozier and sipped rum punch and beer, and were dazzled by being in the presence of the sumptuous West Indian tones so loved by listeners of Test Match Special. Cozier had an interesting take on Caribbean cricket. He was concerned that the great days might be over. Young West Indians, influenced by America to the north, were watching and playing basketball in their backyards and near the beaches, and the famed West Indian cricket of Garry Sobers, Wes Hall and the like would suffer. And so largely it proved to be.",
+  "webTitle": "Letter: Dazzled in the presence of Tony Cozier",
+  "webPublicationDate": "2016-05-15T11:37:58Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/15/letter-tony-cozier-obituary",
+  "keyword": [
+    {
+      "webTitle": "Cricket",
+      "id": "sport/cricket",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Grenada",
+      "id": "world/grenada",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Alex Brummer",
+      "id": "profile/alexbrummer"
+    }
+  ],
+  "guardianId": "sport/2016/may/15/letter-tony-cozier-obituary"
+}

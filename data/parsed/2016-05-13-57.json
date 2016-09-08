@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/society/2016/may/13/hospital-operation-cancellations-15-year-high",
+  "id": "2016-05-13-57",
+  "sectionId": "society",
+  "body": "The number of hospital operations cancelled at the last minute because of a lack of staff or beds has risen to its highest in 15 years, new NHS figures show.  A total of 74,086 patients in England suffered the frustration of their procedure being postponed at the 11th hour during 2015-16 for what the NHS calls \u201cnon-clinical reasons\u201d.  Experts warned that the data was another sign that standards are slipping as the health service comes under increasingly heavy pressure. The 74,086 is the biggest total since 2001-02 when 81,743 patients experienced the same delay at the last moment. That was 2,604 (4%) up on the 71,482 such cancellations seen during the previous year. \u201cThese are not just statistics, these are people\u2019s lives and delayed operations can impede a patient\u2019s quality of life\u201d, said Katherine Murphy, chief executive of the Patients Association.    Related: Almost 3,000 operations cancelled as junior doctors begin strike    \u201cWe receive countless calls to our helpline from patients and their relatives who are fed up with cancellations and endless delays to their operations, often without any explanation. For many patients the wait to receive surgery can be both frustrating and daunting,\u201d she added.  The number of patients whose operation was not rescheduled within 28 days, as it should be, has also hit a 10-year high. In all, 5,063 patients last year did not have their procedure in the time \u2013 the highest total since the 5,611 in 2005-06.  Clare Marx, the president of the Royal College of Surgeons, said that statistic was \u201cdisappointing\u201d and warned that delays can affect patients\u2019 health.  \u201cSituations where patients have to wait longer for their treatment are highly stressful for them and their families and, in some cases, their condition could deteriorate. It is vital that access to healthcare must be provided at a time when patients can benefit most from the result.\u201d The figures do not include thousands of operations postponed because of the various strikes in January, February and March by junior doctors as those patients were alerted in advance.  Ministers need to tackle the underlying causes of cancelled operations, including pressures on A&E units, staff shortages, and bed shortages due to patients who are fit to go not being able to be safely discharged because social care support does not exist to allow that, Marx added.  An NHS England spokesman said: \u201cThe proportion of patients seeing their operations cancelled at the last minute remains under 1% in spite of record numbers of operations being scheduled. \u201cHospitals should continue to ensure that every effort is made to reschedule cancelled operations as soon as possible, but we can clearly see the effects of delayed care and industrial action hampering their ability to do so towards the end of the year [2015-16].\u201d",
+  "webTitle": "Last-minute hospital operation cancellations at 15-year high",
+  "webPublicationDate": "2016-05-13T17:43:17Z",
+  "webUrl": "https://www.theguardian.com/society/2016/may/13/hospital-operation-cancellations-15-year-high",
+  "keyword": [
+    {
+      "webTitle": "Hospitals",
+      "id": "society/hospitals",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "NHS",
+      "id": "society/nhs",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Doctors",
+      "id": "society/doctors",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Denis Campbell",
+      "id": "profile/deniscampbell"
+    }
+  ],
+  "guardianId": "society/2016/may/13/hospital-operation-cancellations-15-year-high"
+}

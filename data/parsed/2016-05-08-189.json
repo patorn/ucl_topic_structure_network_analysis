@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/08/journalist-deaths-dangerous-reporting-mexico-brazil",
+  "id": "2016-05-08-189",
+  "sectionId": "media",
+  "body": "Last week, on World Press Freedom Day, we paused to salute the scores of journalists around the world who have died to tell their stories since May 2015. This week there\u2019s a chance to examine this problem more forensically in a new book, Reporting Dangerously (Palgrave Macmillan, \u00a319.99). It\u2019s a masterwork of testimony and facts from Simon Cottle, Richard Sambrook and Nick Mosdell; its size and scope offer a chance to be more thoughtful. For reporters and editors don\u2019t all live in war zones. Almost twice as many die in non-conflict areas \u2013 poor, desperate countries where crime spirals unchecked and impunity blankets violence. Take two of the world\u2019s hardest cases, Mexico and Brazil. A 2010 report to US Congress estimated that 22,000 Mexicans had died in drug-related violence over the previous four years. It\u2019s a toll that goes on and on (killing journalists along the way). But why do we \u2013 and Mexico \u2013 hear so little of it? A reporter explains: \u201cWe get a call from citizens that there\u2019s been a murder on street corner X. If we call the police, they say there\u2019s nothing. The ambulance service says there\u2019s nothing. The citizens are watching the police at the scene examine the body or see the body go into the coroner\u2019s van. The coroner says they have no information \u2013 so there\u2019s no story. There was no murder on street corner X.\u201d And Brazil, if you\u2019re thinking of an Olympic summer, is much the same: only one in 10 murders solved. A recent report tallies 321 cases of murder, kidnapping, assault and harassment of journalists, with the toll continually rising. And the impact is lethal, in turn. Because no one properly charts the killings, often far out of town, no one in the big cities registers their impact. It\u2019s as though the worst wasn\u2019t happening. Impunity covers sloth and corruption. There is no one dying to tell the story because, in hard terms, there is no story.",
+  "webTitle": "Death tolls rise unchecked, unreported \u2013 and not just in Syria or Iraq",
+  "webPublicationDate": "2016-05-08T06:00:15Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/08/journalist-deaths-dangerous-reporting-mexico-brazil",
+  "keyword": [
+    {
+      "webTitle": "War reporting",
+      "id": "technology/war-reporting",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Mexico",
+      "id": "world/mexico",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Brazil",
+      "id": "world/brazil",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Newspapers & magazines",
+      "id": "media/pressandpublishing",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Television industry",
+      "id": "media/television",
+      "sectionId": "media",
+      "sectionName": "Media"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Peter Preston",
+      "id": "profile/peterpreston"
+    }
+  ],
+  "guardianId": "media/2016/may/08/journalist-deaths-dangerous-reporting-mexico-brazil"
+}

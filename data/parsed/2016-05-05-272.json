@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/05/channing-tatum-magic-mike-live-las-vegas",
+  "id": "2016-05-05-272",
+  "sectionId": "film",
+  "body": "Channing Tatum has announced Magic Mike Live, a stage version of his successful stripper movie franchise.   Related: Magic Mike XXL \u2013\u00a0strippers' verdict: 'A public liability claim waiting to happen'    The actor, whose life inspired Steven Soderbergh\u2019s original film, released a torso and puppy-filled video via Cosmopolitan to reveal that the live show would launch in Las Vegas in March 2017. \u201cWe want to create a place for women that is their gentlemen\u2019s club, their Playboy club,\u201d he said in an accompanying interview. \u201cIt shouldn\u2019t be sleazy. [You shouldn\u2019t feel] nervous to go there because you feel unsafe; we want to create the polar opposite of that.\u201d             Tatum will direct the show which will also retain some of the choreographers from the films. He\u2019s not set to appear but hasn\u2019t ruled out the possibility. \u201cIf I\u2019m ever in shape enough to do that again, I\u2019ll absolutely go out and have a fun night or two,\u201d he said. A site has now launched which, like the video, asks women to contribute their opinions on what they would like to see in the show.  Magic Mike and Magic Mike XXL have made a combined total of $289m worldwide yet a third film looks unlikely. \u2018Look, if someone has an idea then email me, cause I don\u2019t,\u201d Tatum said in 2015. \u201cIf anyone on the internet likes any ideas, just go for it and write it because I don\u2019t know if I can write it because I\u2019m pretty dry now on all my actual real life experiences.\u201d",
+  "webTitle": "Channing Tatum to bring Magic Mike Live to Las Vegas",
+  "webPublicationDate": "2016-05-05T08:52:39Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/05/channing-tatum-magic-mike-live-las-vegas",
+  "keyword": [
+    {
+      "webTitle": "Channing Tatum",
+      "id": "film/channing-tatum",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Stage",
+      "id": "stage/stage",
+      "sectionId": "stage",
+      "sectionName": "Stage"
+    },
+    {
+      "webTitle": "Magic Mike",
+      "id": "film/magic-mike",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Magic Mike XXL",
+      "id": "film/magic-mike-xxl",
+      "sectionId": "film",
+      "sectionName": "Film"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Benjamin Lee",
+      "id": "profile/benjamin-lee-film"
+    }
+  ],
+  "guardianId": "film/2016/may/05/channing-tatum-magic-mike-live-las-vegas"
+}

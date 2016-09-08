@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/science/2016/may/10/new-planets-discovered-nasa-kepler-space-telescope",
+  "id": "2016-05-10-53",
+  "sectionId": "science",
+  "body": "Nasa added more than 1,200 new planets to the known galaxy on Tuesday, more than doubling the number of confirmed planets orbiting alien stars. Revealing data from the Kepler space telescope, the astronomers said that the discovery is a step toward finding Earth-like planets. \u201cThis gives us hope that somewhere out there, around a star much like ours, we can eventually discover another Earth,\u201d said Ellen Stofan, Nasa\u2019s chief scientist. Analysis on data from Kepler found that 1,284 candidates have a 99% chance of being a planet, of 4,302 potential planets detected by the telescope. Kepler searches in particular for planets in the \u201chabitable zone\u201d \u2013 close enough to a star for water to pool on the surface of a planet. Not so close that the star scorches water out of existence, as on Mercury, and not so far that water only persists as ice, as on Pluto. \u201cKepler has detected about three dozen planets or planet candidates in the Goldilocks zone,\u201d mission scientist Natalie Batalha told reporters. She said that almost 550 of the newly confirmed planets could be rocky planets like Earth, according to their size. The new research has added \u201cnine more planets to this exoplanet hall of fame,\u201d she said, using the term for planets that orbit stars outside the solar system. The findings make 21 total exoplanets known to be about the same size and orbit as the Earth to the sun.   Related: Earth 2.0: Nasa says scientists have found 'closest twin' outside solar system    \u201cWhen you look up in the sky you\u2019re not just going to see pinpoints of lights and see them as stars,\u201d Batalha said, \u201cyou\u2019re going to see pinpoints of light as planetary systems.\u201d Kepler detects planets by noticing the tiny dimming of light when a planet passes in front of its star, as the sun did on Monday when Mercury made its rare transit across its face. But these signals could also be caused by any manner of objects moving through space, creating false positives and a great deal of caution among scientists.  Batalha said that researchers found many \u201can astrophysical impostor\u201d but that the data from Kepler, combined with new statistical technique published in the Astrophysical Journal on Tuesday, had vastly increased astronomers\u2019 ability to confirm planets. Kepler requires three transits to confirm a detection, said Tim Morton, an associate research scholar at Princeton University and a co-author of the new paper.  \u201cIt\u2019s taken about 15 years of hard work for astronomers to find and confirm about 2,000 transient planets that\u2019ve been found from the ground,\u201d Morton said. His contribution to the discovery was a means of assigning each planet candidate a probability for its \u201cplanethood\u201d, and he compared the problem to cleaning up crumbs spilt all over the floor. \u201cIf you spill a whole bucketful of small crumbs, you\u2019re going to need a broom to pick it up.\u201d The new planets were found in only a small patch of the night sky, between the constellations of Lyra and Cygnus. Nasa\u2019s astrophysics director Paul Hertz linked Kepler\u2019s mission to one of the space agency\u2019s greatest objectives: the search for life beyond Earth. \u201cOne of the great questions of all time is whether we are alone in the universe. We live in a time when humanity can answer this question scientifically,\u201d he said. Hertz said that the findings show there could be more planets than stars, and Batalha said her \u201cback of the envelope calculation\u201d suggests \u201ctens of billions of potentially habitable\u201d worlds. She admitted that scientists still only have a small sample size, compared to the scope of the galaxy, but said the data so far shows \u201cabout 24% of the stars harbor potentially habitable planets that are about 1.6 times the size of the Earth\u201d. Future missions will significantly add to Nasa\u2019s data: the agency has several new telescopes slated for launch in the coming decade, including one called TESS, which will examine closer stars than Kepler, and another that will be able to detect the atmospheres of exoplanets. Signs of oxygen and water vapor in those atmospheres, Batalha said, would point Nasa toward the discovery of \u201ctruly living worlds\u201d.  Launched in 2009, Kepler has discovered 2,325 verified planets of almost 5,000 total candidates. The spacecraft spent four years studying 150,000 stars on its first mission, and then began its second mission, called K2 \u2013 surviving several crises and mechanical problems along the way. In April the telescope descended into emergency mode, but scientists managed to stabilize the spacecraft. \u201cEverything is looking good for the spacecraft,\u201d said Charlie Sobeck, Kepler\u2019s mission manager, who estimated that the telescope has \u201csomething over two more years of fuel\u201d left to continue its hunt.",
+  "webTitle": "More than 1,200 new planets discovered through Nasa's Kepler space telescope",
+  "webPublicationDate": "2016-05-10T19:21:17Z",
+  "webUrl": "https://www.theguardian.com/science/2016/may/10/new-planets-discovered-nasa-kepler-space-telescope",
+  "keyword": [
+    {
+      "webTitle": "Nasa",
+      "id": "science/nasa",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Space",
+      "id": "science/space",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Alan Yuhas",
+      "id": "profile/alan-yuhas"
+    }
+  ],
+  "guardianId": "science/2016/may/10/new-planets-discovered-nasa-kepler-space-telescope"
+}

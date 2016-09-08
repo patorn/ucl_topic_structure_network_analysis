@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/29/inmarsat-faces-relegation-from-ftse-100",
+  "id": "2016-05-29-83",
+  "sectionId": "business",
+  "body": "Inmarsat, the satellite communications group, is on course to lose its place in the FTSE 100 less than a year after joining the top flight index. The company has run into a number of obstacles in recent months, including delays in completing its Global Xpress satellite network \u2013 which offers high-speed broadband services to customers such as airlines \u2013 following problems with the Russian Proton rocket launchers. Earlier this month it warned that revenues would be lower than expected, partly due to poor trading in its maritime business. It was also hit by news that International Airlines Group, the owner of British Airways, had picked US group Gogo to supply the airline with Wi-Fi services for transatlantic flights. Inmarsat, which was promoted to the FTSE 100 in June 2015, could be replaced by pharmaceutical group Hikma when the results of the latest quarterly review are announced on Wednesday.  The final decision will be based on Tuesday night\u2019s closing prices. A number of other firms are close to being relegated to the FTSE 250, but are likely to escape unless there are dramatic changes to their share prices in the week ahead. These include Provident Finance, shopping centre specialist Intu and Merlin Entertainments, the owner of Legoland and Alton Towers. Merlin shares had recovered some ground since last year\u2019s accident at the Alton Towers Smiler rollercoaster ride, but they have fallen sharply again since April when it admitted breaking health and safety rules over the rollercoaster crash. Last week Merlin warned that London, where it owns Madame Tussauds and the London Dungeon, remained a challenging market despite the advantage of a cheaper pound potentially attracting more tourists. Other possible promotions include Investec, Smiths Group and AutoTrader, which floated on the stock market just over a year ago.",
+  "webTitle": "Inmarsat faces relegation from FTSE 100",
+  "webPublicationDate": "2016-05-29T14:30:56Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/29/inmarsat-faces-relegation-from-ftse-100",
+  "keyword": [
+    {
+      "webTitle": "Inmarsat",
+      "id": "business/immarsat",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "FTSE",
+      "id": "business/ftse",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Stock markets",
+      "id": "business/stock-markets",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Satellites",
+      "id": "science/satellites",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Nick Fletcher",
+      "id": "profile/nickfletcher"
+    }
+  ],
+  "guardianId": "business/2016/may/29/inmarsat-faces-relegation-from-ftse-100"
+}

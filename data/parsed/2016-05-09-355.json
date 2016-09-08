@@ -1,0 +1,55 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/09/hundreds-of-uk-cruise-passengers-fall-ill-in-possible-norovirus-outbreak",
+  "id": "2016-05-09-355",
+  "sectionId": "society",
+  "body": "Hundreds of passengers on a cruise ship travelling from the UK to the US have fallen ill, as health officials investigate the possibility of a norovirus outbreak. Of the 919 passengers aboard the Balmoral, operated by the Fred Olsen Cruises, 252 have become sick since the ship left Southampton, England, on 16 April, said the Centers for Disease Control and Prevention (CDC).  The operator said in an earlier statement the majority of the guests on its \u201cOld England to New England\u201d cruise were from the UK. Eight of the 502-member crew are also ill. Health officials said passengers on the cruise ship, which docked on Sunday in Portland, Maine, might have norovirus. Its symptoms include nausea, vomiting and diarrhoea.   Related: P&O cruise ship Pacific Eden a 'floating disaster', say furious passengers    The CDC said the ship had increased its cleaning and disinfection procedures. Two CDC health officers and an epidemiologist boarded the ship during its stop in Baltimore, Maryland, last week. Portland mayor Ethan Strimling told the Portland Press Herald he learned about the outbreak just before boarding the ship for a tour on Sunday morning. \u201cI could see there were people wiping things down constantly,\u201d Strimling said. \u201cWe got onto the elevators and they wiped the elevators down.\u201d The Balmoral departed Portland Harbor at 4pm on Sunday and is headed to Saint John, New Brunswick, the Press Herald reported. The ship set out from Southampton, England, on 16 April and is due to return on 20 May. Fred Olsen Cruises did not immediately return a request for comment. Associated Press contributed to this report",
+  "webTitle": "Hundreds of UK cruise passengers fall ill in possible norovirus outbreak",
+  "webPublicationDate": "2016-05-09T03:42:58Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/09/hundreds-of-uk-cruise-passengers-fall-ill-in-possible-norovirus-outbreak",
+  "keyword": [
+    {
+      "webTitle": "Norovirus",
+      "id": "society/norovirus",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Cruises",
+      "id": "travel/cruises",
+      "sectionId": "travel",
+      "sectionName": "Travel"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Southampton",
+      "id": "uk-news/southampton",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Maine",
+      "id": "us-news/maine",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Travel",
+      "id": "travel/travel",
+      "sectionId": "travel",
+      "sectionName": "Travel"
+    }
+  ],
+  "authors": [],
+  "guardianId": "uk-news/2016/may/09/hundreds-of-uk-cruise-passengers-fall-ill-in-possible-norovirus-outbreak"
+}

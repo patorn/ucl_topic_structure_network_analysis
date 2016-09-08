@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/06/hastings-motor-insurer-posts-strong-growth",
+  "id": "2016-05-06-282",
+  "sectionId": "business",
+  "body": "The Motor insurer Hastings, run by the former Northern Rock boss Gary Hoffman, has posted strong growth in premiums and customer numbers at the start of this year. The firm, which has more than 2.1m customers, floated on the London stock exchange last October. Choppy market conditions forced it to cut its float price to \u00a31.1bn from \u00a31.4bn.  Hoffman, who was parachuted in to run Northern Rock in 2008 after its government bailout and became chief executive of Hastings in 2012, said the strong first-quarter performance showed that \u201cwe continue to deliver on our promises\u201d. The shares rose 3.6% to 182.3p on Friday morning, compared with a float price of 170p. Gross written premiums climbed 29% to \u00a3171m in the three months to 31 March, while net revenues were up 22% to \u00a3133m. The number of customer policies rose 17% year-on-year, and Hastings now controls 6% of the market for UK private car insurance policies, up from 5.3% a year ago. Eamonn Flanagan, analyst at Shore Capital, said this reflected the fact that \u201cthe barriers to entry are so low that a relative newcomer can gain such scale and market share so quickly \u2026 all OK until the next new entry comes along!\u201d Hastings employs 2,500 people, including more than 500 at its new Leicester site. It was founded by the flamboyant insurance tycoon Neil Utley, who was censured by the Lloyd\u2019s insurance market\u200e in 2013, and stepped down from the board at the time of the float. Flanagan added: \u201cAccording to the group it is well positioned to meet or beat the four targets it set itself at the IPO. Unfortunately the trading update was somewhat light on other important details as regards, for example, claims experience and investment returns. These are pretty crucial metrics to us, especially given the deteriorating claims experience across UK personal motor and the somewhat aggressive investment strategy that Hastings has embraced.\u201d",
+  "webTitle": "Hastings motor insurer posts strong growth",
+  "webPublicationDate": "2016-05-06T08:58:55Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/06/hastings-motor-insurer-posts-strong-growth",
+  "keyword": [
+    {
+      "webTitle": "Insurance industry",
+      "id": "business/insurance",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Car insurance",
+      "id": "money/car-insurance",
+      "sectionId": "money",
+      "sectionName": "Money"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Julia Kollewe",
+      "id": "profile/juliakollewe"
+    }
+  ],
+  "guardianId": "business/2016/may/06/hastings-motor-insurer-posts-strong-growth"
+}

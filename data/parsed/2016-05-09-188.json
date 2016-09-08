@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/09/revenge-porn-websites-legal-loopholes-anonymity",
+  "id": "2016-05-09-188",
+  "sectionId": "technology",
+  "body": "One of the most difficult things about tackling revenge porn is the sheer number of channels by which it is distributed.  Despite high-profile convictions of site operators such as Kevin Bollaert, sent to jail in the US April 2015, most revenge porn sites are nowhere near as conspicuous, organised or open. Bollaert\u2019s site allowed and encouraged those with explicit images of other people to post them, along with identifying information such as names, addresses and links to Facebook profiles. He then emailed the victims through a second site offering to remove the images for up to $350 (\u00a3240).   Related: Revenge porn decision sparks anger at police    Although his home state, California, now has laws against revenge porn, Bollaert\u2019s actions made it possible to charge him under pre-existing statutes preventing identity theft and extortion. But most revenge porn sites operate in the same scattered fashion as the wider porn industry, defying easy categorisation and relying on a mixture of obscurity, legal loopholes, and anonymity to get around attempts to identify them and shut them down. One of the most widespread forms of revenge porn site is simply repurposed social media. Easy to use blog-hosting services such as Tumblr and Wordpress provide a measure of pseudonymity for the site\u2019s founder.  Tumblr and Wordpress have guidelines aimed at stopping revenge porn if detected and flagged \u2013 Wordpress says it bans all porn \u2013 but there are challenges to doing this when the privacy context of an image is not immediately clear, and sometimes deliberately obscured by the people posting them.  Both sites removed a blog each from their platforms after the Guardian contacted them to ask about their policy and highlighted those blogs.  Tumblr, which sits at the crossover between a social network and a blog hosting site, has for some become the go-to home for low-effort porn sites. Its community guidelines ban revenge porn and the site requires users not to post \u201cprivate photos of your ex\u2019s junk (no matter how remarkable)\u201d.     When someone does decide to create a standalone revenge porn site, they are invariably afforded more privacy than victims. Photograph: Design Pics Inc/Rex    One Tumblr blog tells users to \u201csubmit photos of any dirty chav girl slag skank or whore you like as long as she\u2019s legally allowed to be on here\u201d. Another hosts pictures of \u201cwives\u201d but it is also without the context needed to easily identify the pictures as private. How can a third-party tell simply from an image whether it was deliberately shared with the world, or stolen and reposted non-consensually? Wordpress says materials of a pornographic nature are \u201cstrictly prohibited\u201d. And in a statement Tumblr said: \u201cWe have a zero-tolerance policy when it comes to non-consensual pornography. Such content may be reported to us either via our dedicated abuse form or by flagging the post in-product. Our trust and safety team will investigate each and every claim and take action in accordance with our policies.\u201d Similar difficulties about the legality of material exist with image boards. The idea, started in Japan, was brought to the west by 4chan whereby anonymous users post images of whatever they want, starting a fleeting discussion before another image is posted minutes later. Such boards host wide-ranging conversations, and 4chan has boards on comic books, video games and cars, but the anonymity has led people to break taboos with abandon, creating an ultimately toxic online culture.   Related: 'They didn't know they were victims': revenge porn helpline sees alarming rise    While 4chan does not host revenge porn, and has moderation, several independent spin-off sites do.  Some try to thrive through the same obfuscation as social media posters: one board on a clone site devoted to \u201cUK girls\u201d and contains threads broken down by geographic area is nonetheless prefaced with the disclaimer \u201cIf you see yourself posted here and want the image(s) taken down, report them and I will do so as soon as is possible\u201d. Others care less still. A different image board, created with an exclusive focus on pornography, has only a buried link allowing users to report copyright infringement under the US\u2019s Digital Millennium Copyright Act, which allows the site \u201csafe harbour\u201d for hosting infringing content until they are explicitly notified it\u2019s there. When someone does decide to create a standalone revenge porn site like Kevin Bollaert\u2019s, they are invariably afforded more privacy than their victims. With some of these websites registered through Panama, and anonymised servers, there\u2019s very little an individual can do to uncover who is behind their exhibition online. Law enforcement organisations have more tools available, including mandating the hosting company to hand over information about their customer, but such bodies are often slow to act. One problem with fighting revenge porn is that in many jurisdictions it is still seen as a copyright issue. That can leave the subjects of photos, who rarely own the copyright, powerless to object.  Thankfully, that is changing, with new laws granting some control of explicit images to their subject as well as their creator. It remains to be seen whether the police and courts will apply these laws to their fullest extent, but hopefully they do: change is sorely needed.",
+  "webTitle": "How revenge porn sites rely on legal loopholes and anonymity",
+  "webPublicationDate": "2016-05-09T12:57:58Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/09/revenge-porn-websites-legal-loopholes-anonymity",
+  "keyword": [
+    {
+      "webTitle": "Internet safety",
+      "id": "technology/internet-safety",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Social media",
+      "id": "media/social-media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Digital media",
+      "id": "media/digital-media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Law",
+      "id": "law/law",
+      "sectionId": "law",
+      "sectionName": "Law"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Alex Hern",
+      "id": "profile/alex-hern"
+    }
+  ],
+  "guardianId": "technology/2016/may/09/revenge-porn-websites-legal-loopholes-anonymity"
+}

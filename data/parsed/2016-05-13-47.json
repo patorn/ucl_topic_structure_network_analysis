@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/13/russias-state-owned-nuclear-group-keen-to-break-into-uk-market",
+  "id": "2016-05-13-47",
+  "sectionId": "uk-news",
+  "body": "A Russian nuclear group is hoping that the potential meltdown of French plans to build new European pressurised reactors at Hinkley Point could offer an opportunity to break into the British nuclear market. Deeper concerns about the future of the Somerset scheme were raised by the French energy minister, S\u00e9gol\u00e8ne Royal, who warned of the \u201ccolossal\u201d cost, which EDF admitted could be \u00a318bn or even \u00a321bn. Recent talks have been held between state-owned Russian nuclear group Rosatom and the UK\u2019s Nuclear Decommissioning Authority (NDA) despite the chilly political relations between London and Moscow over Ukraine, Moscow sources claimed. These discussions centred on whether Russia could help Britain with removal of uranium from old reactors \u2013 but Rosatom is understood to have a wider agenda of trying to resuscitate earlier plans to build its own reactors in Britain.   Related: China nuclear company will not build Hinkley alone if EDF drops out    \u201cThere is still an appetite to enter the UK market,\u201d said a senior Russian nuclear industry source who claimed Rosatom\u2019s London-based representatives still maintained contacts with the Department of Energy and Climate Change.  \u201cIf the French decided to abandon its EPR design then there is a tiny chance that Rosatom could join forces with the French, and say a British company such as Rolls-Royce, to offer a Russian-designed reactor. \u201cEDF has been pushing the [UK] government to consider a portfolio of reactor designs, not just Areva\u2019s [EPR] but Chinese technologies. So why not use Russian designs? Technically speaking its doable.\u201d The Russians accept that sanctions and other political considerations make it difficult for such a plan to progress, but they point out that Rosatom still supplies uranium to UK and US nuclear plants. The NuDA confirmed that it had held a series of talks with Rosatom. \u201cWe have met with them. We are a recognised global authority and we meet with a lot of organisations,\u201d said a spokesman.  The DECC said it had not held meetings with Rosatom and poured cold water on the likelihood of the Russians being invited back into such a process. A spokesperson said: \u201cThere are absolutely no plans for Russia to build a nuclear reactor in the UK.\u201d The Russians boast of having the only third generation nuclear plants up and running in the world and so should be able to fast forward a generic design assessment in Britain similar to the one gone through by the EPR.  It is not just the Russians who are hoping to prosper if EDF does eventually pull the plug on its own troubled Hinkley plans. China General Nuclear Power Corporation (CGN), a financial partner of EDF at Hinkley, is also considering its options should the existing plans collapse. The state-owned Chinese company has denied a claim that it would step in and take over in Somerset should EDF back out. But CGN is dusting off its own plans to fast forward attempts to win a design assessment on its Hualong reactors for a similar project at Bradwell in Essex. China wants to use Britain as a showcase for its Hualong technology and agreed to take a third share in EDF\u2019s Hinkley scheme in return for being allowed to proceed with Chinese-owned technology at Bradwell. CGN had intended to submit its reactor for generic design assessment in Britain this summer following an expected final investment decision by EDF and itself at Hinkley. But the French have put this decision back until at least September amid a welter of concerns within EDF about the cost of building Hinkley and the state of its own fragile finances.  CGN says it continues to be committed to the EDF partnership on Hinkley, but Chinese industry experts with contact to the Chinese say CGN is looking at whether it can move ahead more quickly with Bradwell if EDF concludes it must abandon Hinkley. Those worries were given extra weight with Royal\u2019s comments in an interview with the Financial Times in which she said: \u201cI am wondering if we should go ahead with the project. The sums involved are colossal.\u201d And they added to fears about the future of the Somerset project earlier this week when the company\u2019s management was pilloried by shareholders at its annual general meeting and credit agency Moody\u2019s downgraded EDF debt. John Sauven, Greenpeace\u2019s executive director, said the downgrading was just \u201ca long line of massive red flag warnings\u201d the UK government had received over the Hinkley nuclear project. He added: \u201cHinkley power station must not become \u2018too big to fail\u2019 because of politicians\u2019 egos that are too big to back down.\u201d",
+  "webTitle": "Russia's state-owned nuclear group keen to break into UK market",
+  "webPublicationDate": "2016-05-13T18:31:27Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/13/russias-state-owned-nuclear-group-keen-to-break-into-uk-market",
+  "keyword": [
+    {
+      "webTitle": "Hinkley Point C",
+      "id": "uk-news/hinkley-point-c",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Energy",
+      "id": "environment/energy",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Utilities",
+      "id": "business/utilities",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "France",
+      "id": "world/france",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Russia",
+      "id": "world/russia",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Terry Macalister",
+      "id": "profile/terrymacalister"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/13/russias-state-owned-nuclear-group-keen-to-break-into-uk-market"
+}

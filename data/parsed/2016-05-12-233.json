@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/12/stone-roses-to-release-new-single-on-wednesday-night",
+  "id": "2016-05-12-233",
+  "sectionId": "music",
+  "body": "The Stones Roses have announced that a new single will be released at 8pm on Thursday night. They have given no clues as to the title, only the tersest of announcements: \u201cThe Stone Roses will release a new single tonight at 8pm.\u201d The new song will be their first new studio material since the B-sides to the single Ten Storey Love Song in March 1995 \u2013 fans have been waiting 21 years since the band revealed Moses and Ride On, neither of which featured on the album Second Coming. New music from the Roses had been expected for some time. Earlier this year, singer Ian Brown told the NME the band had been recording at producer Paul Epworth\u2019s studio in north London. He said their new music was \u201cglorious\u201d. The likelihood of new music was further signalled earlier this week, when billboards bearing the band\u2019s lemon insignia appeared around Manchester, their hometown. Since reuniting in 2012, the Roses have been a reliably popular draw on the live circuit. The 150,000 tickets for two reunion shows in Heaton Park, Manchester, in summer 2012 sold out in 14 minutes, and a third sold out nearly as quickly. The gigs themselves were greeted with fervour by the bands\u2019 fans. Reviewing for the Guardian, Alexis Petridis wrote: \u201cIt\u2019s an odd sensation, witnessing a gig that seems to be as much about the crowd as it is the band performing: you\u2019re struck by the weirdly moving sensation of how much people have invested in this band and these songs. You could argue they are less an audience than people indulging in a mass experiment in wish fulfilment but, as people hug and sing along, it is hard not to feel that the experiment is successful.\u201d Rumours of new material have circulated ever since the band announced their reunion. In May 2012, a screenwriter called Chris Coghill, working on the film Spike Island, claimed the band had \u201cat least three or four new songs recorded\u201d. No sign of them appeared, however. Even in the early days of their comeback, relationships within the band were combustible. When they played in Amsterdam in June 2012, the band failed to play their expected encore of I Am the Resurrection, prompting Brown to tell the crowd: \u201cThe drummer\u2019s gone home. I\u2019m not joking. The drummer\u2019s gone home. Get all your aggro out on me, I can take it. What can I say? The drummer\u2019s a cunt.\u201d The band are back on the road this summer, playing four nights at Manchester City\u2019s Etihad stadium, with tickets still available only for the opening night, 15 June. They also play Scotland\u2019s T in the Park festival this summer.",
+  "webTitle": "Stone Roses to release new single on Thursday night",
+  "webPublicationDate": "2016-05-12T11:31:55Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/12/stone-roses-to-release-new-single-on-wednesday-night",
+  "keyword": [
+    {
+      "webTitle": "Stone Roses",
+      "id": "music/stone-roses",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Pop and rock",
+      "id": "music/popandrock",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian music",
+      "id": "profile/guardianmusic"
+    }
+  ],
+  "guardianId": "music/2016/may/12/stone-roses-to-release-new-single-on-wednesday-night"
+}

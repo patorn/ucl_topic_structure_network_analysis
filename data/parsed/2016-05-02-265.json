@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/australia-news/2016/may/02/internet-australia-backs-calls-to-end-geoblocking-as-video-on-demand-use-increases",
+  "id": "2016-05-02-265",
+  "sectionId": "australia-news",
+  "body": "The peak body for internet users has thrown its weight behind calls to end geoblocking, as increasing use of legal video-on-demand services is revealed by new figures. The Productivity Commission\u2019s recommendation that the federal government oppose the restriction of online content by territory in an effort to rebalance Australia\u2019s intellectual property system was met with widespread support on Friday.   Related: Lift geoblocking as 'frustration' drives illegal downloads, Productivity Commission finds    The commission found most illegal piracy was driven by frustration with legal alternatives, or the absence thereof. The chief executive of Internet Australia, Laurie Patton, said, if circumventing geoblocking through virtual private networks and other workarounds were permitted, local outlets would be put under greater pressure to secure rights to popular content. \u201cIt\u2019s clear that some people will go to great lengths to find what they want to watch if it\u2019s not readily available via the traditional media outlets,\u201d he said, echoing calls made last week by the consumer advocacy group Choice. \u201cHowever, the evidence suggests most people are happy to pay if the content they\u2019re after is readily available at what they feel is a reasonable cost. \u201cWe have consistently argued that geoblocking is fundamentally wrong and that it has resulted in unfair price-gouging of Australian consumers for decades.\u201d The commission\u2019s findings prompted Internet Australia to renew its call for a repeal of the so-called \u201csite-blocking law\u201d, the Copyright Amendment (Online Infringement ) Act 2015 \u2013 introduced by then-communications minister Malcolm Turnbull and passed by parliament in June. It gave rights holders, such as television and movie producers, the ability to apply to the federal court to have foreign piracy-related websites blocked by Australian internet service providers (ISPs). It was opposed by the Greens and Liberal Democrat senator David Leyonhjelm. But Patton said it was an ineffective means of targeting unlawful downloading, with content reappearing on different sites or under new names after being blocked. \u201cIt\u2019s called whack-a-mole,\u201d he said. \u201cWhat\u2019s more, anyone with a modicum of technical knowledge can always find a way to access what they want, lawfully or unlawfully. \u201cSo we are going to inconvenience ISPs, and probably see everyone\u2019s internet access fees increase as a consequence ... all for a bit of PR?\u201d Patton said piracy would be best combated by making content available, easily accessible and reasonably priced.    Related: Doubts cast on Netflix plan to stop use of VPNs to get around regional blocking    \u201cIt would be in the best interests of content creators if we all accepted that the main reason why most people unlawfully download is that they can\u2019t get what they want through legitimate channels.\u201d It echoes comments made by Turnbull in July last year, that the \u201cmost powerful tool to combat online copyright infringement is making content accessible, timely, and affordable to consumers\u201d. Netflix\u2019s launch in Australia in March last year was linked to a drop in piracy \u2013 but its catalogue is still smaller than what it offers in the United States. It has been contacted for comment. Netflix and two local services, Presto and Stan, were mentioned in Nielsen\u2019s latest findings on an \u201cexplosion\u201d in video on demand in Australia. Research released on Monday said more than two-thirds of online Australians aged 16 and over would be watching video on demand by the end of this year \u2013 an increase of 4% from last year. Though traditional television remains dominant, more choice and more timely and exclusive content was driving a \u201creal interest in trialling and subscribing\u201d to such services. Lillian Zrim of Nielsen said more than a quarter of the online population was expected to have access to Netflix \u2013 either through a trial or paid subscription \u2013 by the end of the year, an 11% year on year increase. It also forecasted Stan would increase by 8% to reach 11% of the online population.",
+  "webTitle": "Internet Australia backs calls to end geoblocking as video-on-demand use increases",
+  "webPublicationDate": "2016-05-02T02:36:09Z",
+  "webUrl": "https://www.theguardian.com/australia-news/2016/may/02/internet-australia-backs-calls-to-end-geoblocking-as-video-on-demand-use-increases",
+  "keyword": [
+    {
+      "webTitle": "Australian law",
+      "id": "australia-news/australian-law",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Intellectual property",
+      "id": "law/intellectual-property",
+      "sectionId": "law",
+      "sectionName": "Law"
+    },
+    {
+      "webTitle": "Piracy",
+      "id": "film/piracy",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Piracy",
+      "id": "technology/piracy",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Internet",
+      "id": "technology/internet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Law",
+      "id": "law/law",
+      "sectionId": "law",
+      "sectionName": "Law"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Elle Hunt",
+      "id": "profile/elle-hunt"
+    }
+  ],
+  "guardianId": "australia-news/2016/may/02/internet-australia-backs-calls-to-end-geoblocking-as-video-on-demand-use-increases"
+}

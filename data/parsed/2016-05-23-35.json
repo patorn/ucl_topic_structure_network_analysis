@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/23/libor-manipulation-lawsuit-hsbc-barclays-ubs-bank-of-america-deutsche",
+  "id": "2016-05-23-35",
+  "sectionId": "business",
+  "body": "A US appeals court on Monday reinstated a civil lawsuit accusing 16 major banks of conspiring to manipulate the Libor benchmark interest rate. The ruling, which overturns a 2013 decision, could bankrupt the institutions, the judges warned.  A lower court judge erred in dismissing the antitrust portion of private litigation against Barclays, Bank of America, Deutsche Bank, HSBC, UBS and others on the ground that the investors failed to allege harm to competition, according to the US circuit court of appeals in Manhattan. Libor, or the London interbank offered rate, underpins hundreds of trillions of dollars of transactions and is used to set rates on credit cards, student loans and mortgages. It is calculated based on submissions by banks that sit on panels.   Related: Jailed Libor trader Tom Hayes must pay more than \u00a3878,000    In litigation that began in 2011, investors accused big banks of suppressing Libor during the financial crisis in order to boost earnings or make their finances appear healthier.  Back in early 2013, Manhattan federal district court judge Naomi Reice Buchwald dismissed the claims filed by private plaintiffs. According to her 161-page decision, the banks did not violate antitrust laws when they colluded to manipulate the Libor benchmark interest rate and that the plaintiffs failed to prove harm from such collusion. Buchwald\u2019s 2013 decision surprised some, as at the time Barclays, UBS and Royal Bank of Scotland had already settled cases with more than $2.5bn in penalties. Since then penalties in Libor-rigging probes have climbed to roughly $9bn, including a penalty of $2.5bn against Deutsche Bank. The three-judge appellate court panel disagreed with her decision. \u201cAppellants sustained their burden of showing injury by alleging that they paid artificially fixed higher prices,\u201d Judge Dennis Jacobs wrote on behalf of the panel. After determining that the plaintiffs had sufficiently shown they had been harmed by the alleged rate manipulations, the panel sent the case back to the lower court. Two of the judges asked that when revisiting the case, Buchwald consider if the plaintiffs are the appropriate parties to bring such charges. Among the plaintiffs bringing charges against the 16 banks are cities including Baltimore, San Diego and Houston. They also warned of dire consequences should the case be proven against the banks. If the court were to rule in favor of the plaintiffs, they would be eligible to receive triple damages and attorneys\u2019 fees for any violations. \u201cRequiring the banks to pay treble damages to every plaintiff who ended up on the wrong side of an independent Libor\u2010denominated derivative swap would, if appellants\u2019 allegations were proved at trial, not only bankrupt 16 of the world\u2019s most important financial institutions, but also vastly extend the potential scope of antitrust liability in myriad markets where derivative instruments have proliferated,\u201d the US court of appeals in New York said in the ruling issued on Monday.  The decision could help investors in several other lawsuits in Manhattan seeking to hold banks liable for alleged price fixing in bond, commodity, currency, derivatives, interest rate and other financial markets.  \u201cIt strengthens the hand of investors in other price-fixing cases based on benchmarks that were reached in collaborative, or outright collusive, arrangements,\u201d said Lawrence White, a professor at New York University\u2019s Stern School of Business.  Thomas Goldstein, a lawyer who argued the investors\u2019 appeal, was not immediately available for comment. Robert Wise, a lawyer who argued on the banks\u2019 behalf, declined to comment.  Reuters contributed to this report.",
+  "webTitle": "Lawsuit accusing 16 big banks of Libor manipulation reinstated by US court",
+  "webPublicationDate": "2016-05-23T20:01:50Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/23/libor-manipulation-lawsuit-hsbc-barclays-ubs-bank-of-america-deutsche",
+  "keyword": [
+    {
+      "webTitle": "Libor",
+      "id": "business/libor",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Banking",
+      "id": "business/banking",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Bank of America",
+      "id": "business/bank-of-america",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Banking reform",
+      "id": "business/banking-reform",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "US crime",
+      "id": "us-news/us-crime",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Barclays",
+      "id": "business/barclay",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "HSBC",
+      "id": "business/hsbcholdings",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Deutsche Bank",
+      "id": "business/deutschebank",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "UBS",
+      "id": "business/ubs",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jana Kasperkevic",
+      "id": "profile/jana-kasperkevic"
+    }
+  ],
+  "guardianId": "business/2016/may/23/libor-manipulation-lawsuit-hsbc-barclays-ubs-bank-of-america-deutsche"
+}

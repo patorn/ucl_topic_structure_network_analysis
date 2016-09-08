@@ -1,0 +1,43 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/06/crystal-palace-stoke-city-match-preview",
+  "id": "2016-05-06-137",
+  "sectionId": "football",
+  "body": "Alan Pardew\u2019s instinct will be to protect his players for the club\u2019s second FA Cup final later this month but Crystal Palace, hampered by strains and sniffles, have won only once in 19 games \u2013 half the league campaign \u2013 and are still not mathematically safe. A point against a Stoke side who have been beaten twice already this season and whose own form has unravelled of late will be enough to guarantee the hosts a third top-flight campaign, and allow them to refocus on Wembley on 21 May. Dominic\u00a0Fifield Kick-off Saturday 3pm  Venue Selhurst Park Last season Crystal Palace 1 Stoke City 1 Referee Kevin Friend This season G18, Y57, R3, 3.50 cards per game Odds H 11-10 A 3-1 D 5-2 Crystal Palace Subs from A\u00a0McCarthy, Speroni, Kelly, Mariappa, Jedinak, Kaikai, Mutch, Lee, Adebayor, Gayle, Campbell, Bolasie Doubtful Bolasie (illness), Jedinak (knock) Injured Zaha (buttock, 21 May), Anderson (leg, Aug), Appiah (knee, Aug), Chamakh (groin, Aug), Hangeland (calf, Aug) Suspended None Form DWDDLL Discipline Y58 R2 Leading scorers Bolasie, Cabaye, Dann, Wickham 5 Stoke City Subs from Bachmann, Wollscheid, Teixeira, Muniesa, Adam, Ireland, Joselu, Diouf, Shenton Doubtful Krkic (foot) Injured Given (groin, 15 May), Wilson (knee, Jun), Butland (ankle, Aug), Johnson (knee, Aug), Afellay (knee, Jan) Suspended None Form WDLLLD Discipline Y46 R3 Leading scorer Arnautovic 11",
+  "webTitle": "Crystal Palace v Stoke City: match preview",
+  "webPublicationDate": "2016-05-06T14:14:24Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/06/crystal-palace-stoke-city-match-preview",
+  "keyword": [
+    {
+      "webTitle": "Crystal Palace",
+      "id": "football/crystalpalace",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Stoke City",
+      "id": "football/stokecity",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Premier League",
+      "id": "football/premierleague",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [],
+  "guardianId": "football/2016/may/06/crystal-palace-stoke-city-match-preview"
+}

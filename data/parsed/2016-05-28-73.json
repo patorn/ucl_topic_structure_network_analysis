@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/28/who-plays-down-zika-concerns-over-rio-2016-olympics",
+  "id": "2016-05-28-73",
+  "sectionId": "world",
+  "body": "The World Health Organisation has played down calls to move or postpone the Olympic Games in Rio de Janeiro in August because of the threat posed by the Zika virus. The WHO was sent an open letter signed by 150 health experts who fear that the virus could spread more rapidly around the world as a result of an influx of Olympic visitors to the Brazilian city, which has had a high incidence of Zika cases. However, a spokesperson for the UN health body said stopping the Games in August would not prevent the spread of Zika. \u201cBrazil is one of almost 60 countries and territories which to date report continuing transmission of Zika by mosquitoes. People continue to travel between these countries and territories for a variety of reasons. The best way to reduce risk of disease is to follow public health travel advice,\u201d a WHO statement said. \u201cWHO will continue to monitor the situation and update our advice as necessary.\u201d In February it issued a global health emergency about Zika, but it has not called for travel restrictions other than advising pregnant women not to travel to affected areas, such as Rio. Edwin Van Teijlingen, a professor of reproductive health at Bournemouth University, who was one of the academics who signed the letter, said his main concern was about people returning home from the Games to countries with poor health systems and facilitating the spread of the virus. He raised questions about the relationship between the WHO and the International Olympic Committee. The two organisations had a memorandum of understanding and Van Teijlingen said he feared the WHO \u201cmight not be as critical as it might otherwise have been\u201d. He added: \u201cBoth the WHO and the IOC are not democratically elected \u2026 the IOC is a similar organisation to Fifa.\u201d Van Teijlingen admitted that despite having a \u201cslight concern\u201d about the letter, its aim was to raise awareness of the public health threat posed by the virus rather than getting the Games moved or postponed. He and his fellow signatories wanted independent experts to look at the data again in the next couple of days. Jonathan Ball, a professor of molecular virology at Nottingham University, said global travel and trade gave the Zika virus an opportunity to spread. \u201cBy comparison to these routine activities, the increased risk that the Olympics poses is a drop in the ocean,\u201d he said.  \u201cBut we can\u2019t be dismissive. People need still to take care to try to avoid further spread and human disease. That means avoiding mosquito bites by covering up and using Deet-containing insect repellent, and avoiding those places experiencing outbreaks if you are pregnant or might become pregnant.\u201d Derek Gatherer, a biomedical and life sciences lecturer at Lancaster University, said the letter wrongly claimed that \u201cmost of south Asia and Africa\u201d had not been affected by the virus.  \u201cIt is very likely that many parts of the tropical world have already seen Zika virus in the past and there will probably be considerable herd immunity in the human population,\u201d he said. \u201cBrazil has many of the typical diseases found in the tropical world, including malaria and dengue, as well as levels of HIV about twice as high as the UK. These are all things that travellers and athletes need to prepare for. All are clinically more serious than Zika, but none has been proposed as a reason to cancel the event.\u201d Heather Fell, a former British Olympic pentathlete, told BBC Radio 4\u2019s Today programme that athletes would heed medical advice from their team doctor. Given the importance of the Games to competitors, it would have to be something \u201cworld-changing\u201d for most to decide not to go to Brazil, she added.",
+  "webTitle": "WHO plays down Zika concerns over Rio Olympics",
+  "webPublicationDate": "2016-05-28T16:04:16Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/28/who-plays-down-zika-concerns-over-rio-2016-olympics",
+  "keyword": [
+    {
+      "webTitle": "Zika virus",
+      "id": "world/zika-virus",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Rio de Janeiro",
+      "id": "world/rio-de-janeiro",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Brazil",
+      "id": "world/brazil",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World Health Organisation",
+      "id": "world/world-health-organisation",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Rio 2016",
+      "id": "sport/rio-2016",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Olympic Games",
+      "id": "sport/olympic-games",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Americas",
+      "id": "world/americas",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Chris Johnston",
+      "id": "profile/chris-johnston"
+    }
+  ],
+  "guardianId": "world/2016/may/28/who-plays-down-zika-concerns-over-rio-2016-olympics"
+}

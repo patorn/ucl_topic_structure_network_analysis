@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/02/google-microsoft-pact-antitrust-surveillance-capitalism",
+  "id": "2016-05-02-134",
+  "sectionId": "technology",
+  "body": "Microsoft and Google, two of the world\u2019s greatest monopolies, have been bitter rivals for nearly 20 years. But suddenly, in late April, they announced a startling accord. The companies have withdrawn all regulatory complaints against one another, globally. Rather than fighting their battles in public courts and commissions, they have agreed to privately negotiate.  This is a gentleman\u2019s agreement. The specifics are secret, but the message on both sides is that the deal reflects a change in management philosophy. Microsoft\u2019s new chief, Satya Nadella, is eager to push the vision of a dynamic, collaborative Microsoft, partnering with everyone from Apple to Salesforce.  The most dramatic of these partners is Google, a company that has long been considered Microsoft\u2019s great arch-rival.  The wind started to change in September, just after Sundar Pichai became Google\u2019s chief executive, when the two companies agreed to stop feuding over patents \u2013 a first step toward the current agreement. The common corporate line is that the companies want to compete on products, not court cases.   Related: The Observer view on how Europe can stand firm against Google    But this public relations gambit masks two far more interesting tales. One is about Microsoft and its desperate chase for relevance. The other is about Google, money and power. Both are part of a broader, deeply worrying narrative \u2013 a story about how tech companies are busy redrawing the lines around our lives, and facing little resistance in doing so. Waste and fury Nobody ever wants to start a legal fight. Fractious, painful and wasteful, they divert huge resources, often for little productive gain. But this in itself fails to explain Microsoft\u2019s decision to drop pending regulatory complaints against Google in Europe, Brazil and Argentina, as well as to cease funding and participating in lobby groups that it has backed for eight years, such as FairSearch.org and ICOMP, the Initiative for a Competitive Online Marketplace. So what does explain it? It could be seen as a pragmatic move. Microsoft\u2019s profits still exceed Google\u2019s, but the ratio has been in decline for a decade. Meanwhile, since 2012, Apple has outstripped both companies combined (even if recent figures suggest this momentum might be slowing). A suite of regulatory enquiries into Google\u2019s alleged abuses of its monopoly will continue even in Microsoft\u2019s absence \u2013 both in places where Microsoft has filed complaints (Europe, Brazil, Argentina) and in others where it hasn\u2019t, such as India. With Microsoft\u2019s withdrawal, it is clear that the remaining complainants in these fights \u2013 generally small, niche internet businesses \u2013 are legitimate critics in their own right. But then again, it takes serious coordination and resources to sustain and succeed in antitrust fights. Winning, especially in a broad and generally impactful manner, is a much taller order without a deep-pocketed supporter such as Microsoft. New Microsoft But there\u2019s another possible, rather more cunning, motive. Microsoft today is facing a very different business ecosystem to the one it dominated in the 1990s. It needs to adapt. And it appears to want to do so by positioning itself at the heart of what Satya Nadella describes as \u201csystems of intelligence\u201d.   Related: Google dominates search. But the real problem is its monopoly on data    Explaining this concept at Hannover Messe 2016, Nadella defined systems of intelligence as cloud-enabled digital feedback loops. They rely on the continuous flow of data from people, places and things, connected to a web of activity. And they promise unprecedented power to reason, predict and gain insight.  This is unbridled Big Data utopianism. And it is a vision that brings Microsoft squarely into Google territory. So maybe Microsoft is pulling out of regulatory battles because it doesn\u2019t want to shoot itself in the foot. For emeritus Harvard Business School professor Shoshana Zuboff, this gets to the core of the Google-Microsoft deal.     Google and Microsoft\u2019s shared interest in freedom from regulation outweighs any narrower competitive interests  Harvard professor Shoshana Zuboff     Zuboff is a leading critic of what she calls \u201csurveillance capitalism\u201d, the monetization of free behavioral data acquired through surveillance and sold on to entities with an interest in your future behavior. As she explained to the Guardian: \u201cGoogle discovered surveillance capitalism. Microsoft has been late to this game, but it has now waded in. Viewed in this way, its agreement with Google is predictable and rational.\u201d And here the most sinister upshot of Microsoft\u2019s decision to stop needling Google with legal disputes becomes clear. \u201cA key theme I write about is that surveillance capitalism has thrived in lawless space,\u201d says Zuboff. \u201cRegulations and laws are its enemy. Democratic oversight is a threat. Lawlessness is so vital to the surveillance capitalism project,\u201d she continues, \u201cthat Google and Microsoft\u2019s shared interest in freedom from regulation outweighs any narrower competitive interests they might have or once thought they had. They can\u2019t insist to the public that they must remain unregulated, while trying to impose regulations on one another.\u201d Standing up to power What does all this mean for the cases pending against Google? For Maurice Stucke and Allen Grunes, American antitrust experts and co-authors of a comprehensive new book examining the deep and reaching implications of platform and data monopolies, Zuboff\u2019s warning of a lawless alliance among tech giants such as Microsoft and Google only accentuates the demand for rigorous, intellectually led regulatory action. And when it comes to Google, the case for action is in their view clear.    The FTC's failure to take meaningful antitrust action against Google is one of the great failures of all time  Allen Grunes, antitrust expert     \u201cThe one thing that any antitrust regime absolutely has to do, if it is to be effective, is to stand up to the most powerful companies of the time,\u201d explains Grunes. \u201cTake that away and antitrust ceases to be meaningful. \u201cThe antitrust authorities in the US and EU did that in the case of Microsoft. It required brains, resources and relentless pursuit and commitment.\u201d  Yet only the Europeans, he argues, seem to have the intellectual leadership to be doing it in the case of Google. \u201cThe failure of the FTC to take meaningful action against Google is without question one of the great failures of all time.\u201d Microsoft and Google\u2019s new deal to stop fighting each other is an interesting, strategic corporate move. But it is a move accompanied by a much stronger, deeper play: to collect and capitalize data \u2013 including data about us, our behaviors, and our interactions. The challenge for regulators and citizens is complex but essential \u2013 and has only just begun.",
+  "webTitle": "Google and Microsoft have made a pact to protect surveillance capitalism",
+  "webPublicationDate": "2016-05-02T12:59:34Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/02/google-microsoft-pact-antitrust-surveillance-capitalism",
+  "keyword": [
+    {
+      "webTitle": "Google",
+      "id": "technology/google",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Microsoft",
+      "id": "technology/microsoft",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "European commission",
+      "id": "world/european-commission",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Alphabet",
+      "id": "technology/alphabet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Big data",
+      "id": "technology/big-data",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Julia Powles",
+      "id": "profile/julia-powles"
+    }
+  ],
+  "guardianId": "technology/2016/may/02/google-microsoft-pact-antitrust-surveillance-capitalism"
+}

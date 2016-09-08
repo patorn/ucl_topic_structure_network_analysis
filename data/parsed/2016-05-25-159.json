@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/25/bank-of-england-policymaker-martin-taylor-free-banking-teaser-rates",
+  "id": "2016-05-25-159",
+  "sectionId": "business",
+  "body": "A senior Bank of England policymaker has issued a scathing attack on two of the mainstays of high street banking, free-if-in-credit current accounts and teaser rates offered to entice new customers. Martin Taylor, who sits on the Bank\u2019s financial policy committee, also hit out at bankers\u2019 pay, saying it was one of the issues that had led to a lack of public trust in the banking industry. He said free banking \u2013 a concept introduced by Midland Bank 30 years ago \u2013 had led to the \u201cmother of mis-selling\u201d scandals as banks grappled to maintain the concept of free banking at a time when interest rates had plunged from a peak of 17%. \u201cThe contortions the industry has put itself through to maintain this over-riding of the price mechanism have been very damaging, not only to the most vulnerable consumers who through penalty charges subsidise the better-off (they used to be known, revealingly, as \u2018delinquents\u2019), but also, I believe, to banking in general,\u201d Taylor said in a speech in London. Teaser rates, which were offered to lure people in before the 2007 crisis, had left mortgage customers \u201cmarooned on the standard variable rate and unable to refinance\u201d. \u201cThe habit of giving what are effectively disloyalty discounts has turned into a cynical and corrosive negative-sum game,\u201d he said. On the subject of bankers\u2019 pay \u2013 he was chief executive of Barclays until 1998 \u2013 Taylor said it had always been high relative to other sectors. \u201cIt appears to be easier to fire people than to pay them less; it may even be easier to go out of business altogether.\u201d He said banking was in a tundra \u2013 a cold, treeless landscape. \u201cWe are in Siberia, where many people feel bankers belong, so perhaps there is hidden treasure under the permafrost.\u201d Almost nine years on from the financial crisis, Taylor said banks had been slow to redesign their business models and their behaviour. He was a member of the independent commission on banking \u2013 chaired by Sir John Vickers \u2013 which called for ringfences to be erected between high street banks and riskier investment banking operations. \u201cBankers are human \u2013 I know, I used to be one \u2013 and generally do not relish being detested,\u201d he said. \u201cI\u2019d settle for having public-spirit bankers,\u201d he said, referring to David Rockefeller, who used to tell every recruit at Chase Manhattan that banking was all about character. \u201cAnd it is. The rot set in, I suppose, when people decided it was about what they curiously called talent. A banker with character but moderate talent can go a long way; a talented banker without character is a public menace,\u201d he said.",
+  "webTitle": "Bank of England policymaker takes aim at free accounts",
+  "webPublicationDate": "2016-05-25T13:10:48Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/25/bank-of-england-policymaker-martin-taylor-free-banking-teaser-rates",
+  "keyword": [
+    {
+      "webTitle": "Bank of England",
+      "id": "business/bankofenglandgovernor",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Financial policy committee",
+      "id": "business/financial-policy-committee",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Executive pay and bonuses",
+      "id": "business/executive-pay-bonuses",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Banking",
+      "id": "business/banking",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Financial sector",
+      "id": "business/financial-sector",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Banks and building societies",
+      "id": "money/banks",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Mortgages",
+      "id": "money/mortgages",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Mortgage rates",
+      "id": "money/mortgage-rates",
+      "sectionId": "money",
+      "sectionName": "Money"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jill Treanor",
+      "id": "profile/jilltreanor"
+    }
+  ],
+  "guardianId": "business/2016/may/25/bank-of-england-policymaker-martin-taylor-free-banking-teaser-rates"
+}

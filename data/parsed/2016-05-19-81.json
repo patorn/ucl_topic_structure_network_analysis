@@ -1,0 +1,106 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/19/cameron-accepts-ttip-amendment-to-mollify-rebel-tory-mps",
+  "id": "2016-05-19-81",
+  "sectionId": "politics",
+  "body": "David Cameron has moved to quell a rebellion by Conservative Eurosceptics over a controversial trade deal between the EU and US, after he faced the first government defeat on a Queen\u2019s speech since 1924. The prime minister has been forced to accept a critical amendment about the Transatlantic Trade and Investment Partnership (TTIP) after it was signed by 25 Tory backbenchers, and backed by Labour, SNP and Green MPs. The politicians, led by the Conservative former cabinet minister Peter Lilley, expressed regret that the government did not include a bill in the Queen\u2019s speech that would protect the NHS from the deal. A No 10 spokesman said: \u201cAs we\u2019ve said all along, there is no threat to the NHS from TTIP. So if this amendment is selected, we\u2019ll accept it.\u201d But members of the official campaign to leave the EU, Vote Leave, said they were not reassured by the statement. Steve Baker, one of the signatories on the amendment and a leading figure for Brexit, said that by accepting the amendment the government was conceding that the trade deal did represent a risk for Britain\u2019s health service.   Related: What is TTIP and why should we be angry about it?    \u201cThe government has today admitted that the EU is a threat to our NHS,\u201d he said. \u201cThe only way we can protect the NHS from TTIP is if we vote to leave on 23 June.\u201d Earlier, Baker, who chairs the Conservatives for Britain group, accused the remain campaign of orchestrating attacks on Brexit campaigners, in comments that were seen as criticism of Downing Street.  \u201cWhat I am saying is: please don\u2019t anyone on any side follow a scorched earth policy. There have been too many instances where comment in the press from a campaigner has been followed by attacks on them personally. That must stop,\u201d he told BBC Radio 4\u2019s Today programme. Cameron was facing potential defeat on the TTIP vote after the Labour leader said he would support the amendment.           What is TTIP? Everything you need to know about the \u2018super sexy\u2019 trade acronym    Jeremy Corbyn, speaking at the launch of an event about workers\u2019 rights in Stroud, said he would be happy to vote with pro-Brexit Tories. \u201cYes we will be backing that,\u201d he said. \u201cI would personally go much further because my concerns about TTIP are not just about the effect on public services but also the principle of investor protection that goes within TTIP \u2013 planned rules which would in effect almost enfranchise global corporations at the expense of national governments. This protection of the NHS is an important step but it\u2019s not the whole step.\u201d The amendment was being tabled jointly by Lilley and Labour backbencher Paula Sherriff, who was involved in the \u201ctampon tax\u201d campaign to force George Osborne to cut VAT on sanitary products. It expresses regret that there was no bill to protect the NHS from TTIP, a trade deal being hammered out between the EU and US. Lilley said: \u201cI support free trade. But TTIP introduces special courts, which are not necessary for free trade, will give American multinationals the right to sue our government (but not vice versa) and could put our NHS at risk. I cannot understand why the government has not tried to exclude the NHS.\u201d Sherriff described it as \u201canother humiliating climbdown\u201d by Downing Street. \u201cThey will now be the first government in history to official \u2018regret\u2019 their own programme within days of announcing it, just months after doing the same on their budget,\u201d she said. Nick Dearden, director of campaign group Global Justice Now, said: \u201cThe fact that the government is facing a backbench rebellion on the Queen\u2019s speech over the issue of TTIP is testament to just how toxic an issue this trade deal has become. In the space of a couple of years, TTIP has gone from an obscure acronym to a massively controversial issue.\u201d",
+  "webTitle": "Cameron accepts TTIP amendment to mollify rebel Tory MPs",
+  "webPublicationDate": "2016-05-19T17:47:30Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/19/cameron-accepts-ttip-amendment-to-mollify-rebel-tory-mps",
+  "keyword": [
+    {
+      "webTitle": "Conservatives",
+      "id": "politics/conservatives",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "TTIP",
+      "id": "business/ttip",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "David Cameron",
+      "id": "politics/davidcameron",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "International trade",
+      "id": "business/internationaltrade",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Global economy",
+      "id": "business/global-economy",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "NHS",
+      "id": "society/nhs",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Anushka Asthana",
+      "id": "profile/anushkaasthana"
+    },
+    {
+      "webTitle": "Heather Stewart",
+      "id": "profile/heatherstewart"
+    }
+  ],
+  "guardianId": "politics/2016/may/19/cameron-accepts-ttip-amendment-to-mollify-rebel-tory-mps"
+}

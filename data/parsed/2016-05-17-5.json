@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/society/2016/may/18/uk-has-one-of-worst-records-for-gender-equality-at-work-report",
+  "id": "2016-05-17-5",
+  "sectionId": "society",
+  "body": "Britain has one of the worst records on gender equality at work, according to a new report that highlighted the high pay gap for working mothers. Researchers ranked Britain 11th out of 18 countries \u2013 behind the US, France, Spain and Sweden \u2013 in a league table that took into account pay, board level representation and the gap between male and female employment, among other factors.  Andrew Chamberlain, chief economist of Glassdoor Economic Research, which compiled the report, said: \u201cIn the UK there are fewer women than men in the workplace. However, this gap is considerably narrower for those with a university education.  \u201cBy contrast, Sweden, Norway and Finland all have an almost equal balance of men and women in the labour market and can be a lesson for the UK.\u201d He said working mothers were paying a high price in the UK, with the gender pay gap widening among this section of the workforce. \u201cBritish working mothers are significantly worse off than those without family responsibilities, and this pressure will not help the UK address its workplace diversity issues,\u201d Chamberlain said. While the gender pay gap for women in the UK with no children is slightly more than 7%, for those with at least one child it leaps to 21%. Working mothers fare better in the UK than in Ireland and Germany, but worse than in other countries including Spain and Italy. Overall, Sweden was ranked first for gender equality, followed by Norway and Finland. Greece was ranked bottom, just ahead of Italy and Ireland. On a brighter note for the UK, Britain had a higher proportion of female managers than other countries at 35%, putting it third on that measure behind only Sweden and Norway.  About 26% of UK board members at listed companies are women, compared with 36% in Norway at the top end of the scale and Estonia at the bottom with 8%, Glassdoor said.",
+  "webTitle": "UK has one of worst records for gender equality at work \u2013 report",
+  "webPublicationDate": "2016-05-17T23:01:12Z",
+  "webUrl": "https://www.theguardian.com/society/2016/may/18/uk-has-one-of-worst-records-for-gender-equality-at-work-report",
+  "keyword": [
+    {
+      "webTitle": "Equal pay",
+      "id": "society/equal-pay",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Angela Monaghan",
+      "id": "profile/angela-monaghan"
+    }
+  ],
+  "guardianId": "society/2016/may/18/uk-has-one-of-worst-records-for-gender-equality-at-work-report"
+}

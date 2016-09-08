@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/science/life-and-physics/2016/may/14/picturing-particles-the-evolution-of-event-displays",
+  "id": "2016-05-14-127",
+  "sectionId": "science",
+  "body": "With the Large Hadron Collider running again, my experiment \u2013 ATLAS \u2013 has just released a nice, restful video showing how the images we make from particle detector technologies have evolved over the years. I thought you might enjoy it. When there is a collision run actually going on, you can see particle collisions in the ATLAS detector in real time here. Jon Butterworth\u2019s book Smashing Physics is available as \u201cMost Wanted Particle\u201d in Canada & the US.",
+  "webTitle": "Picturing particles: the evolution of event displays",
+  "webPublicationDate": "2016-05-14T10:51:54Z",
+  "webUrl": "https://www.theguardian.com/science/life-and-physics/2016/may/14/picturing-particles-the-evolution-of-event-displays",
+  "keyword": [
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Physics",
+      "id": "science/physics",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Particle physics",
+      "id": "science/particlephysics",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Cern",
+      "id": "science/cern",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Large Hadron Collider",
+      "id": "science/large-hadron-collider",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Computing",
+      "id": "technology/computing",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "History of science",
+      "id": "science/history-science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jon Butterworth",
+      "id": "profile/jon-butterworth"
+    }
+  ],
+  "guardianId": "science/life-and-physics/2016/may/14/picturing-particles-the-evolution-of-event-displays"
+}

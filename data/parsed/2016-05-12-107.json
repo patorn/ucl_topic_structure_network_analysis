@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/12/appeal-for-information-after-man-raped-woman-in-her-70s-in-london",
+  "id": "2016-05-12-107",
+  "sectionId": "uk-news",
+  "body": "Police are hunting a man who forced his way into the home of a woman in her 7os before beating and raping her. The attack happened in Purley, south-east London on Wednesday at around 7.50am. The victim has given detectives specific details of her attacker that may help in his capture. The woman believes he had a tattoo or a mark on his neck, and a tattoo on the left side of his chest, which she has described as circular. Police have added that the attacker was white, may have spoken with a Scottish accent, and appeared to be aged between 40 and 50 years old.  Police said anyone recognising the description of the suspect should contact them urgently and added that \u201cthere are ways and means that innocent people put to us can be eliminated from our inquiries\u201d. Detectives are mindful of possible further attacks and the fear that such an incident may cause.  The woman was at home in Russell Hill Road when she noticed a man outside her front door. The Metropolitan police said: \u201cThe woman opened the door and the man used his foot to force it to stay open, before entering her property. Inside, he assaulted her, causing bruising to her face, before raping her. \u201cThe victim has described the suspect as a white man, who was about 5ft 8in tall with short brown hair. He spoke with what was possibly a Scottish accent and had a tattoo or a mark on his neck, and a tattoo on the left side of his chest, which was described as circular.\u201d  DI Keith Ward said: \u201cWe are alive to the fact that an incident like this will cause alarm to people living in the area, and I would like to provide as much reassurance as I can that detectives are doing everything we can to arrest the suspect.\u201d He urged anyone who thought they recognised someone from the victim\u2019s description of the tattoos to contact them: \u201cWe ask that anyone who recognises the suspect\u2019s description contact us as a matter of urgency. For anyone worried about doing this, I would reassure them that they will be treated with the utmost sensitivity.\u201d  Anyone with information should call on 0208-721 4106 or Crimestoppers on 0800-555 111. Police are not at this stage linking the attack to any other incidents.",
+  "webTitle": "Appeal for information after woman in her 70s raped in London",
+  "webPublicationDate": "2016-05-12T17:02:49Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/12/appeal-for-information-after-man-raped-woman-in-her-70s-in-london",
+  "keyword": [
+    {
+      "webTitle": "London",
+      "id": "uk/london",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Crime",
+      "id": "uk/ukcrime",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Vikram Dodd",
+      "id": "profile/vikramdodd"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/12/appeal-for-information-after-man-raped-woman-in-her-70s-in-london"
+}

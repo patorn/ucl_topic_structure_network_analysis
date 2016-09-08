@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/24/facebook-changes-trending-topics-anti-conservative-bias",
+  "id": "2016-05-24-320",
+  "sectionId": "technology",
+  "body": "Facebook has denied allegations that the team responsible for its trending topics section deliberately suppressed conservative views \u2013 but says it will improve the feature. Allegations have been made anonymously that the team responsible for choosing trending topics did so with little oversight and deliberately suppressed conservative views. On Monday, Facebook denied any bias in a press release and a letter sent directly to John Thune, the chairman of the US Senate commerce committee.   Related: I worked on Facebook's Trending team \u2013 the most toxic work experience of my life    Colin Stretch, general counsel at Facebook, said the company met with Thune on 18 May to discuss an internal two-week investigation, which had found \u201cvirtually identical\u201d rates of approval of conservative and liberal topics. \u201cSuppressing political content or preventing people from seeing what matters most to them is directly contrary to our mission and our business objectives, and the allegations troubled us deeply.\u201d But Stretch said the investigation \u201ccould not fully exclude the possibility of isolated improper actions or unintentional bias\u201d and Facebook would make changes to trending topics to prevent potential misuse and \u201cto minimise risks where human judgment is involved\u201d. The allegations, first reported by Gizmodo on 9 May, were made by a former \u201cnews curator\u201d of the trending topics team. Shortly afterwards, Thune demanded answers from Facebook chief executive Mark Zuckerberg. Trending topics appear in the upper-right corner of the Facebook website, separate to the main news feed, and are said to be chosen to \u201chelp people discover current content that is both popular in the world and meaningful to them\u201d. Topics are selected through a combination of algorithms and staff. In the letter to Thune, Facebook said: \u201cWe currently use people to bridge the gap between what an algorithm can do today and what we hope it will be able to do in the future.\u201d The allegations of anti-conservative bias prompted Zuckerberg to hold a meeting with conservative commentators last Wednesday. The platform\u2019s internal investigation spoke to current and former reviewers, current supervisors and \u201cleading conservatives, to gain valuable feedback and insights\u201d. Stretch said it found \u201cno evidence of systematic political bias\u201d in either the selection or prominence of stories included in the feature. \u201cWe were also unable to substantiate allegations of politically-motivated suppression of particular subjects or sources.\u201d The letter to Thune went into more detail: topics relating to Republican political figures Ted Cruz, Rand Paul, Mitt Romney and Scott Walker \u2013 allegedly suppressed by reviewers because of political bias \u2013 were in fact accepted \u201con dozens of occasions\u201d. \u201cIn fact, the two most frequently accepted topics since early 2015 are presumptive Republican presidential nominee Donald Trump and #GOPDebate,\u201d the letter went on. Analysis of coverage of the late Navy Seal Chris Kyle, the Conservative political action conference, former IRS official Lois Lerner, radio host Glenn Beck, the Drudge Report, and comedian Steven Crowder in trending topics also did not support claims that conservative news stories were suppressed, Facebook said.   Related: Facebook news selection is in hands of editors not algorithms, documents show    Nonetheless, Facebook said its guidelines have been clarified and reviewers have undergone refresher training \u201cthat emphasised content decisions may not be made on the basis of politics or ideology\u201d. Additional controls and oversight around the review team would also be introduced. Stretch said Facebook would also stop using external websites and news outlets to assess the importance of a story, and would no longer rely on a top 10 list of news outlets as revealed in internal guidelines leaked to the Guardian. Earlier this month, Facebook released an updated version that showed BuzzFeed News had replaced Yahoo News among the 10 most trustworthy news sites. Thune said in a statement that he welcomed Facebook\u2019s efforts to address allegations of bias and his concern about \u201ca lack of transparency\u201d. \u201cThe seriousness with which Facebook has treated these allegations and its desire to serve as an open platform for all viewpoints is evident and encouraging and I look forward to the company\u2019s actions meeting its public rhetoric.\u201d",
+  "webTitle": "Facebook to change trending topics after investigation into bias claims",
+  "webPublicationDate": "2016-05-24T01:23:15Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/24/facebook-changes-trending-topics-anti-conservative-bias",
+  "keyword": [
+    {
+      "webTitle": "Facebook",
+      "id": "technology/facebook",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Elle Hunt",
+      "id": "profile/elle-hunt"
+    }
+  ],
+  "guardianId": "technology/2016/may/24/facebook-changes-trending-topics-anti-conservative-bias"
+}

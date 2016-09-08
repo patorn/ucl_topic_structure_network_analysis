@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/03/soundcloud-go-launch-uk-ireland",
+  "id": "2016-05-03-330",
+  "sectionId": "technology",
+  "body": "Music-streaming service SoundCloud is launching its \u00a39.99-a-month SoundCloud Go subscription tier in the UK and Ireland. The company hopes that features including track downloads for offline listening, and a bigger music catalogue courtesy of label licensing deals, will persuade some of its free listeners to start paying. SoundCloud Go launched in the US in March after lengthy negotiations with labels, music publishers and collecting societies. As in the US, it will have a catalogue of 125m tracks: licensed recordings as well as the remixes and mash-ups that have helped SoundCloud attract a monthly audience of 175 million music fans. Its UK and Irish debut comes as SoundCloud introduces advertising on its free service in those countries for the first time. Go subscribers will not get the ads. \u201cWe think of Go as an expanded version of the normal SoundCloud,\u201d chief executive Alexander Ljung told the Guardian ahead of the launch. \u201cIt\u2019s not like a different app or anything. It should feel the same.\u201d   Related: Are there dark clouds on the horizon for SoundCloud?    SoundCloud\u2019s free listeners will be regularly prompted to upgrade to the new premium tier, whether they are seeing 30-second previews of tracks that are only available on SoundCloud Go, or trying to click the offline/download button that every user will see, but only subscribers will be able to use. Ljung said that SoundCloud is confident it can compete with rivals like Spotify and Apple Music, which have 30 million and 13 million subscribers respectively. \u201cWe tend to have a younger audience. It\u2019s less of a spreadsheet and more of a Snapchat in terms of how you actually interact with it,\u201d he said of SoundCloud\u2019s mobile app. \u201cIt\u2019s not so stale, it\u2019s not just a utility. It\u2019s actually something that\u2019s alive. And just the fact that you can now build a playlist, for example, with the new Kanye album and remixes of it that don\u2019t exist anywhere else, that\u2019s a really special and unique experience.\u201d Remixes and mash-ups are already a big part of SoundCloud\u2019s appeal, but finding a way to pay royalties for the songs used in them was a key part of the company\u2019s pitch to music rightsholders when negotiating licensing deals. \u201cWe are bringing a whole new revenue stream to the entire industry by thinking about how we can monetise derivative content,\u201d said Ljung. \u201cIt\u2019s been a huge part of contemporary culture: electronic music or hip-hop wouldn\u2019t exist without that. Yet it\u2019s sat completely outside the industry. We\u2019re suddenly at the point where we can embrace that more, and monetise it.\u201d For now, SoundCloud will only be paying royalties to the creators whose songs have been used in remixes, rather than to the remixers. However, the company has previously said it is working to find a way to pay the latter too. Signing the necessary licences for SoundCloud Go was a big challenge, but Ljung\u2019s company has more work ahead. In its most recent set of financial results, SoundCloud admitted that it will need to raise more funding in 2016 to cover its losses. Ljung is hoping that SoundCloud Go can compete with Spotify, Apple Music and other rivals in the increasingly fierce battle to attract paying users. \u201cPeople would always say they loved SoundCloud, but they had to switch to a different app if they were getting on a plane, or if they wanted to listen to the new Rihanna album,\u201d said Ljung. \u201cWith Go, we have the offline sync and then this content catalogue you would find in other services. Now there\u2019s no reason to switch to another app any more.\u201d Not unless you want to stream Beyonc\u00e9\u2019s new Lemonade album, which is exclusive to the Tidal streaming service. \u201cWell, then you have to be a bit patient,\u201d admitted Ljung.",
+  "webTitle": "SoundCloud Go subscription music service launches in UK and Ireland",
+  "webPublicationDate": "2016-05-03T06:00:47Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/03/soundcloud-go-launch-uk-ireland",
+  "keyword": [
+    {
+      "webTitle": "Soundcloud",
+      "id": "technology/soundcloud",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Digital music and audio",
+      "id": "technology/digital-music-and-audio",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Music industry",
+      "id": "business/musicindustry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Spotify",
+      "id": "technology/spotify",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Apple Music",
+      "id": "technology/apple-music",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Stuart Dredge",
+      "id": "profile/stuart-dredge"
+    }
+  ],
+  "guardianId": "technology/2016/may/03/soundcloud-go-launch-uk-ireland"
+}

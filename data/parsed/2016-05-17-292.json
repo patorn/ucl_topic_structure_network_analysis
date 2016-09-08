@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/17/global-lgbt-rights-new-survey-ilga",
+  "id": "2016-05-17-292",
+  "sectionId": "world",
+  "body": "Two-thirds of adults would be upset if their child told them that they were in love with someone of the same sex according to a survey of 96,000 people in 53 UN member states.  The survey (pdf), which was conducted by the International Lesbian, Gay, Bisexual, Trans and Intersex Association (ILGA) in partnership with the survey technology company RIWI Corp, found that regional differences in opinion exist, but that overall the findings show \u201cdeeply entrenched heteronormative concepts of sexual orientation and gender identity\u201d. Only 28% of respondents globally said they would find it acceptable if a male child always dressed and expressed themselves as a girl. A separate report also released by the ILGA on Tuesday looks at laws worldwide and finds that same-sex sexual acts can be punished with death penalty in 13 states, or parts of states (representing 6% of all UN states) while the threat of imprisonment exists in 75 countries and five entities.     International law map on LGBTI rights. Photograph: ILGA    Many residents of those countries believe that being lesbian, gay, bisexual, trans and intersex (LGBTI) should be criminalized. ILGA found that 45% of respondents in Africa agreed \u201cbeing LGBTI should be considered a crime\u201d along with 34% of respondents in Asia, 17% in Europe, 15% in the Americas and 14% in Oceania. When ILGA spoke to advocates they found that \u201cin many countries over decades [their experience] has been that same-sex intimacy has been classified as \u2018foreign\u2019, \u2018decadent\u2019, \u2018illness\u2019, \u2018due to evil influence from abroad\u2019.\u201d Consequently, ILGA specifically asked whether people felt that same-sex desire was a western phenomenon; 47% of respondents in Africa said yes, 42% in Asia. But respondents in regions with countries typically described as \u201cwestern\u201d also agreed with the statement \u2013 24% in Europe, 21% in the Americas and 20% in Oceania.    Related: What's it like to be LGBTI where you live? Share your experiences    Internationally however, the law is shifting. ILGA has tracked the 70 states where it is now prohibited to discriminate against an individual in employment on the basis of sexual orientation (ie. 38% of all UN states).  The organization has also investigated the rights of same-sex couples as spouses and parents in countries around the world. In 26 states, joint adoption is legal and in 40 states marriage is available to same-sex couples and those marriages have equal or almost equal legal standing as opposite-sex couples (in six states, same-sex marriage exists but legally, is a clearly inferior substitute to opposite-sex marriage).     Marriage and parenthood rights ILGA. Photograph: ILGA    There were also positive signs of public opinion shifting. A third of all respondents said that in the last five years their opinion on LGBTI people had become more favorable. The most important factor contributing to a change of opinion was knowing someone who was LGBTI.  Detailed country-by-country data is available on ILGA\u2019s site.  \u2022 This article was amended on 18 May 2016. An earlier version omitted to say that the survey technology company RIWI Corp was also involved in the survey.",
+  "webTitle": "Anti-LGBT views still prevail, global survey finds",
+  "webPublicationDate": "2016-05-17T07:00:37Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/17/global-lgbt-rights-new-survey-ilga",
+  "keyword": [
+    {
+      "webTitle": "LGBT rights",
+      "id": "world/lgbt-rights",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Africa",
+      "id": "world/africa",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Asia Pacific",
+      "id": "world/asia-pacific",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Mona Chalabi",
+      "id": "profile/mona-chalabi"
+    }
+  ],
+  "guardianId": "world/2016/may/17/global-lgbt-rights-new-survey-ilga"
+}

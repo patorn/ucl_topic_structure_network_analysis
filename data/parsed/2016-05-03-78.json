@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/us-news/2016/may/03/new-york-ebay-stubhub-broadway-ticket-scam",
+  "id": "2016-05-03-78",
+  "sectionId": "us-news",
+  "body": "On the day Hamilton, Broadway\u2019s impossibly sold-out show, swept the Tony nominations, the New York state attorney general, Eric Schneiderman, announced plans to tackle sky-high ticket prices outside the Great White Way. Schneiderman, who has already called New York\u2019s ticket racket for sports and concerts  \u201ca rigged game\u201d, has sent formal letters to eBay, which owns StubHub, and Ticketmaster, among others, requesting their participation in a crackdown on ticket sale fraud and illegal purchasing schemes. The new plan comes a week after Schneiderman\u2019s office announced a $2.76m settlement with ticket brokers accused of scamming prospective buyers by automating the buying process in order to reserve large blocks of seats for resale. Cheating the ticketing system leads to some surprisingly complicated workarounds: one strategy often requires resellers to manage hundreds or, in one especially egregious case, 1,000 different credit cards in order to fool ticketing software into believing it is dealing with a thousand different customers.  Legitimate brokers, as defined in February by the state of New York, are required to disclose price lists, hold licenses and to put down a $25,000 bond to cover damages if they mistreat their customers. But resellers, who often use Ticketmaster and StubHub, circumvent those checks, according to Schneiderman. \u201c[M]any professional ticket resellers \u2013 including, we believe, many resellers using your company\u2019s platform \u2013 do not have a New York ticket reseller license,\u201d he wrote to the companies. Schneiderman\u2019s request for aid is very specific, in the words of his letter:  1. Verify that professional ticket resellers are properly licensed by requiring that high volume resellers reselling tickets to events in New York through your resale platform provide you with a New York ticket reseller license number. 2. Facilitate professional ticket resellers\u2019 compliance with New York disclosure laws, for example by enabling resellers to provide face value information when listing a ticket to an event in New York for sale and a scanned copy of their license, and making that information available to consumers. 3. Discourage speculative ticket sales by actively identifying ticket resellers that routinely list tickets for sale that they do not have the right to sell and taking action against those resellers.  The request is not binding, but it does suggest that Schneiderman\u2019s office has further legal measures in mind should businesses integral to the industry refuse to regulate secondary-market ticket sales voluntarily. \u201cStubHub has a long history of working with the NY AG\u2019s office on specific issues as they arise,\u201d a company spokesman told the Guardian. \u201cWe are in receipt of the letter and are currently reviewing the AG\u2019s request.\u201d",
+  "webTitle": "New York asks Ticketmaster and StubHub to target Broadway ticketing scams",
+  "webPublicationDate": "2016-05-03T17:51:01Z",
+  "webUrl": "https://www.theguardian.com/us-news/2016/may/03/new-york-ebay-stubhub-broadway-ticket-scam",
+  "keyword": [
+    {
+      "webTitle": "New York",
+      "id": "us-news/new-york",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Broadway",
+      "id": "stage/broadway",
+      "sectionId": "stage",
+      "sectionName": "Stage"
+    },
+    {
+      "webTitle": "eBay",
+      "id": "technology/ebay",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Stage",
+      "id": "stage/stage",
+      "sectionId": "stage",
+      "sectionName": "Stage"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Theatre",
+      "id": "stage/theatre",
+      "sectionId": "stage",
+      "sectionName": "Stage"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Sam Thielman",
+      "id": "profile/sam-thielman"
+    }
+  ],
+  "guardianId": "us-news/2016/may/03/new-york-ebay-stubhub-broadway-ticket-scam"
+}

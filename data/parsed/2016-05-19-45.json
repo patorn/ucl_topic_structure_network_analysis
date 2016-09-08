@@ -1,0 +1,84 @@
+{
+  "apiUrl": "https://content.guardianapis.com/law/2016/may/19/celebrity-threesome-twitter-warns-illegal-tweets-supreme-court-privacy-injunction",
+  "id": "2016-05-19-45",
+  "sectionId": "law",
+  "body": "People using Twitter to name the \u201ccelebrity threesome\u201d couple have had emails warning them of legal complaints, just hours after the supreme court upheld a privacy injunction against the UK press on Thursday. An email from Twitter\u2019s legal team, seen by the Guardian, does not explicitly ask users to delete the tweets but hints that there could be consequences for not doing so.   Related: Supreme court upholds 'celebrity threesome' injunction    The email reads: \u201cThe complainant requests that the following tweet, allegedly in violation of local law in the UK, be removed immediately from your account. Please confirm whether you will voluntarily comply with the request.\u201d It also includes a reminder that Twitter\u2019s rules require that users \u201ccomply with all local laws regarding their online conduct and acceptable content\u201d. Though Twitter will pass on legal notices, and remove content that breaches its rules, the number of other people tweeting about the emails at the same time, late on Thursday, indicated a concerted effort to get the tweets removed following this the supreme court ruling. The injunction, which prevents press in England and Wales from naming the couple in relation to a story about a \u201cthreesome\u201d one of them had with another couple, will remain in place until at least the culmination of a full privacy trial scheduled for this year.   Related: The celebrity threesome case risks undermining the law | Joshua Rozenberg    The majority ruling rejected arguments that the publication of the names both on social media and in foreign press rendered the injunction unworkable.  Lawyers acting on behalf of the celebrity couple have reportedly secured the services of the online reputation management firm Web Sheriff, which last month began filing takedown notices against sites including Facebook, Mumsnet and Google. In April the search engine began removing links to articles that named either of the pair, posting a notice saying they had been removed because they were subject to a legal complaint.  Twitter would not comment on Thursday.",
+  "webTitle": "Celebrity threesome: Twitter warns against illegal tweets",
+  "webPublicationDate": "2016-05-19T19:25:00Z",
+  "webUrl": "https://www.theguardian.com/law/2016/may/19/celebrity-threesome-twitter-warns-illegal-tweets-supreme-court-privacy-injunction",
+  "keyword": [
+    {
+      "webTitle": "Injunctions",
+      "id": "law/injunctions",
+      "sectionId": "law",
+      "sectionName": "Law"
+    },
+    {
+      "webTitle": "Twitter",
+      "id": "technology/twitter",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "UK supreme court",
+      "id": "law/uk-supreme-court",
+      "sectionId": "law",
+      "sectionName": "Law"
+    },
+    {
+      "webTitle": "Law",
+      "id": "law/law",
+      "sectionId": "law",
+      "sectionName": "Law"
+    },
+    {
+      "webTitle": "Social media",
+      "id": "media/social-media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Search engines",
+      "id": "technology/searchengines",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Superinjunctions",
+      "id": "law/superinjunctions",
+      "sectionId": "law",
+      "sectionName": "Law"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "National newspapers",
+      "id": "media/national-newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers & magazines",
+      "id": "media/pressandpublishing",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jasper Jackson",
+      "id": "profile/jasper-jackson"
+    }
+  ],
+  "guardianId": "law/2016/may/19/celebrity-threesome-twitter-warns-illegal-tweets-supreme-court-privacy-injunction"
+}

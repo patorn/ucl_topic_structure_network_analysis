@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/19/journey-to-the-shore-film-review",
+  "id": "2016-05-19-36",
+  "sectionId": "film",
+  "body": "Lonely piano teacher Mizuki (Eri Fukatsu) makes boiled sweet bean dumplings one day and somehow this summons the ghost of her dead husband Yusuke (Tadanobu Asano). He calmly explains to her that he drowned himself three years ago and his body is gone now, eaten by crabs. And yet he seems very much corporeal, able to eat the dumplings and up for taking Mizuki on an expedition around Japan to meet others, some of whom are also dead, so they can help restless souls move on to the next world or bid their own ghosts farewell.             Kiyoshi Kurosawa (no relation to Akira) divides his films between straight dramas and horror movies; this one is a kind of graceful bridge between the two genres. Occasionally, he uses very simple, old-school, in-camera effects that eerily evoke an otherworldliness, but overall the tone is one of quotidian melancholy, emphasising how people cope with grief by getting on with working, cooking and taking long walks, as if Yasujiro Ozu had made an episode of that TV show The Ghost Whisperer. It would be more touching if it didn\u2019t feel quite so baggily languorous, and the Bernard Herrmann-esque score wasn\u2019t so overbearing and sappy.",
+  "webTitle": "Journey to the Shore review \u2013 a recipe for dealing with grief",
+  "webPublicationDate": "2016-05-19T20:15:20Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/19/journey-to-the-shore-film-review",
+  "keyword": [
+    {
+      "webTitle": "Drama",
+      "id": "film/drama",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Bereavement",
+      "id": "lifeandstyle/bereavement",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Leslie Felperin",
+      "id": "profile/lesliefelperin"
+    }
+  ],
+  "guardianId": "film/2016/may/19/journey-to-the-shore-film-review"
+}

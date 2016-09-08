@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/greenslade/2016/may/19/mexican-journalist-shot-dead-the-sixth-in-2016",
+  "id": "2016-05-19-327",
+  "sectionId": "media",
+  "body": "Another reporter has been killed in Veracruz, a Mexican state regarded as one of the most dangerous for journalists in a country regarded as one of the most dangerous in the world for journalists. Manuel Santiago Torres Gonz\u00e1lez was shot in the head on Saturday (14 May) while walking home in the city of Poza Rica after covering an electoral campaign event in nearby Tuxpan. Torres Gonz\u00e1lez, 48, was a correspondent for TV Azteca and Radiover.com, and edited his own site, NoticiasMT. He also worked as an assistant in the Veracruz state attorney\u2019s office. He had not received any threats. He became the sixth journalist murdered in Mexico this year and the second in Veracruz. According to research by the Committee to Protect Journalists (CPJ), at least six journalists have been killed in direct retribution for their work since Javier Duarte de Ochoa became governor of Veracruz in 2010.  Some eight other journalists who lived or reported in Veracruz have been killed for unclear reasons in the same time period, while three other journalists from the state have been reported missing. The state on Mexico\u2019s eastern seaboard is a hub for drug and human trafficking, and Poza Rica has often been the focal point of violent clashes between drug cartels. Carlos Laur\u00eda, CPJ\u2019s senior programme coordinator for the Americas, called on Mexico\u2019s authorities to \u201cthoroughly investigate\u201d the murder of Torres Gonz\u00e1lez, adding: \u201cVeracruz has become the most deadly state for journalists in one of the most dangerous countries for journalists worldwide.\u201d And Emmanuel Colombi\u00e9, of Reporters Without Borders (RSF), said: \u201cWe call on all defenders of freedom of information to support Mexican journalists and denounce this death spiral.\u201d The two press freedom organisations rank Mexico as one of the most dangerous countries in the world for journalists.  Sources: CPJ In Spanish: RSF",
+  "webTitle": "Mexican journalist shot dead, the sixth in 2016",
+  "webPublicationDate": "2016-05-19T05:58:51Z",
+  "webUrl": "https://www.theguardian.com/media/greenslade/2016/may/19/mexican-journalist-shot-dead-the-sixth-in-2016",
+  "keyword": [
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Journalist safety",
+      "id": "media/journalist-safety",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Mexico",
+      "id": "world/mexico",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Press freedom",
+      "id": "media/press-freedom",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Human rights",
+      "id": "law/human-rights",
+      "sectionId": "law",
+      "sectionName": "Law"
+    },
+    {
+      "webTitle": "Americas",
+      "id": "world/americas",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Roy Greenslade",
+      "id": "profile/roygreenslade"
+    }
+  ],
+  "guardianId": "media/greenslade/2016/may/19/mexican-journalist-shot-dead-the-sixth-in-2016"
+}

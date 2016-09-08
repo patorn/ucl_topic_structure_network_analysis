@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/money/2016/may/12/tenant-evictions-england-wales-repossessions",
+  "id": "2016-05-12-240",
+  "sectionId": "money",
+  "body": "The number of households evicted from rental accommodation in England and Wales rose by 5% in the first three months of the year, while the repossession rate for homeowners fell to a record low. Seasonally adjusted figures from the Ministry of Justice (MoJ) show there were 10,732 repossessions of rented homes by bailiffs between January and March, up from 10,253 in the final three months of 2015. The number was, however, down on the 10,855 in the first quarter of 2015. Meanwhile, separate figures from banks and building societies show that the repossession rate among mortgage customers has fallen to its lowest level. The Council of Mortgage Lenders (CML) said 2,100 properties were repossessed by its members between January and March, made up of 1,500 homeowners and 600 buy-to-let borrowers.  If repossessions continue at this rate it said it would be the lowest annual number since 1982, but at that point there were only 6.9m mortgages, against 11.1m today, making the rate of repossession much lower. Since the financial crash the cost of servicing a mortgage has fallen significantly, with lenders cutting their standard variable rates as the base rate plummeted, and more recently launching record low rates for new customers.  Lenders have also helped struggling borrowers stay in their homes. As a result, even during the recession the number of repossessions remained well below the peak of 75,540 recorded in 1991. While mortgage costs have fallen, rents in the private and social rented sectors have risen. The latest figures from rental referencing agency Homelet showed a 7.7% increase in the monthly rent for new private tenancies over the year to April. Non-seasonally adjusted figures from the MoJ show 10,636 evictions in England during the first three months of the year, or which 4,942 were by social landlords such as housing associations. Private landlords are listed as making 1,567, with the rest \u201caccelerated claims\u201d, which are quicker than normal evictions. These tend to be used by private rather than social landlords. The housing charity Shelter said that meant around 14,235 people had been evicted from their homes by private landlords, assuming an average of 2.5 people in each household. Campbell Robb, chief executive of Shelter, said: \u201cToday\u2019s figures are a painful reminder of the catastrophic impact welfare cuts and our drought of affordable homes are having on thousands of people in England. \u201cOur advisers are already struggling to keep up with demand, and we\u2019re worried that short-sighted plans in the government\u2019s housing bill will further shrink the numbers of genuinely affordable homes and make things even worse.\u201d A cap on local housing allowance that came into force in April could lead to an increase in the number of social tenants who are evicted, the charity warned.  Meanwhile, Jeremy Leaf, a former Rics chairman and north London estate agent, said new tax rules for landlords could mean more private tenants receiving eviction notices. \u201cThe number of evicted tenants is worth keeping an eye on as the restrictions on buy to let start to bite and it becomes more difficult for landlords to get the numbers to add up,\u201d he said. \u201cWe expect the number of evictions to rise as landlords find it hard to meet their obligations and have no choice but to sell.\u201d Joanna Elson, chief executive of the Money Advice Trust, the charity that runs National Debtline, said she was encouraged to see that mortgage repossessions had continued to fall.  \u201cFavourable economic circumstances have certainly played a part in this decrease but the work of both lenders and the advice sector to help homeowners in difficulty to stay in their homes has also been significant,\u201d she said. \u201cHowever, the slight increase in landlord repossessions by county court bailiffs since the last quarter is something we should keep an eye on. Renters have faced ever greater financial pressure in recent years due to rising rents in addition to other squeezes on their household budget.\u201d",
+  "webTitle": "Tenant evictions up in England and Wales",
+  "webPublicationDate": "2016-05-12T11:29:31Z",
+  "webUrl": "https://www.theguardian.com/money/2016/may/12/tenant-evictions-england-wales-repossessions",
+  "keyword": [
+    {
+      "webTitle": "Renting property",
+      "id": "money/renting",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Repossessions",
+      "id": "money/repossessions",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Property",
+      "id": "money/property",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Buying to let",
+      "id": "money/buying-to-let",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Housing market",
+      "id": "business/housingmarket",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Borrowing & debt",
+      "id": "money/debt",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Real estate",
+      "id": "business/realestate",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Hilary Osborne",
+      "id": "profile/hilaryosborne"
+    }
+  ],
+  "guardianId": "money/2016/may/12/tenant-evictions-england-wales-repossessions"
+}

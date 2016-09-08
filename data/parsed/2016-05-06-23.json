@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/06/italy-midfielder-marco-verratti-out-of-euro-2016-groin-surgery",
+  "id": "2016-05-06-23",
+  "sectionId": "football",
+  "body": "The Italy midfielder Marco Verratti is to miss Euro 2016 after opting to undergo surgery to fix a groin problem. The Paris Saint-Germain player, who would have been a key part of Antonio Conte\u2019s first XI at the tournament, missed two months of the season between mid-February and mid-April before returning to the side for two late substitute appearances last month.   Related: Premier League: 10 things to look out for this weekend    That had raised hopes of a recovery before the tournament but the decision to have surgery puts paid to Verratti\u2019s chances. \u201cIn agreement with Paris Saint-Germain, Marco Verratti has decided to undergo surgery to heal the groin problem that he has been suffering from for several weeks,\u201d PSG said in a statement. \u201cThe operation will take place in Doha on 16 May at the Aspetar Centre \u2013 the club\u2019s official medical partner. The midfielder, who recently extended his contract until 2020, is expected to be sidelined for eight weeks. \u201cAs a result Marco Verratti will play no part in Paris Saint-Germain\u2019s final matches of the season, or Euro 2016, to be held in France between 10 June and 10 July. Paris Saint-Germain wishes the player a speedy recovery and hopes he will soon be fully fit and back to his best for both club and country.\u201d",
+  "webTitle": "Italy midfielder Marco Verratti out of Euro 2016 due to groin surgery",
+  "webPublicationDate": "2016-05-06T20:51:55Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/06/italy-midfielder-marco-verratti-out-of-euro-2016-groin-surgery",
+  "keyword": [
+    {
+      "webTitle": "Paris Saint-Germain",
+      "id": "football/parisstgermain",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Italy",
+      "id": "football/italy",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Euro 2016",
+      "id": "football/euro-2016",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "football/2016/may/06/italy-midfielder-marco-verratti-out-of-euro-2016-groin-surgery"
+}

@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/22/andy-shauf-the-party-review",
+  "id": "2016-05-22-174",
+  "sectionId": "music",
+  "body": "Comparisons between musicians are blunt instruments. But if a more orchestral take on Elliott Smith appeals, Canadian troubadour Andy Shauf is a find. A singer-songwriter with a Beatles hang-up and a voice like sodden velvet, Shauf is on his second properly available album. The Party isn\u2019t a concept album so much as a set of closely observed tracks linked by intersecting characters where Shauf replaces Smith\u2019s more misanthropic tendencies with compassion and wry understatement. On the more indie-leaning Quite Like You, Shauf\u2019s narrator makes a clumsy play for his best friend\u2019s on-off girlfriend. Partygoers collapse or embarrass themselves; strings, clarinets and lush Harry Nilsson-style moments all add to the snapshot of an accomplished new voice.",
+  "webTitle": "Andy Shauf: The Party review \u2013 an accomplished new voice",
+  "webPublicationDate": "2016-05-22T07:00:36Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/22/andy-shauf-the-party-review",
+  "keyword": [
+    {
+      "webTitle": "Pop and rock",
+      "id": "music/popandrock",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Kitty Empire",
+      "id": "profile/kittyempire"
+    }
+  ],
+  "guardianId": "music/2016/may/22/andy-shauf-the-party-review"
+}

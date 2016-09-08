@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/11/italy-iphone-bari-terror-ring-suspect",
+  "id": "2016-05-11-60",
+  "sectionId": "world",
+  "body": "Italian investigators have been unable to unlock the Apple iPhone 6 plus of a suspect involved in an alleged terror ring in Bari, in a development that mirrored a similar setback faced by US law enforcement officials following the San Bernadino attack. The development raises the prospects of another standoff between Apple and officials involved in a terror investigation, after the California technology company staunchly refused to cooperate with US investigators seeking to pull information from the phone that belonged to San Bernadino gunman Syed Farook. Roberto Rossi, a prosecutor in the southern port city of Bari, said police had been unable to penetrate an iPhone that belonged to a suspect named as Mansoor Ahmadzai.  Rossi said investigators had been able to analyse the contents of two Samsung Galaxy phones that were used by two other suspects who were arrested \u2013 named in Italian press reports as Qari Khesta Mir and Surgul Ahmadzai Ahmadzai \u2013 and that the phones had elicited valuable photographic and video evidence of \u201cinspections\u201d that had allegedly been made of various sites. The phones were also alleged to have contained images of the accused holding assault rifles. \u201cIt must be said that here we have found the same difficulty that found was encountered by the FBI, because we seized an iPhone that we were unable to breach. This is a real problem \u2026 because the balance between protection of privacy and the protection of the person is a serious problem that must be viewed on an international level,\u201d Rossi said, according to La Stampa, the Italian daily. The US government\u2019s clash with Apple ended after the justice department announced it had been able to penetrate Farook\u2019s phone after it enlisted and paid for the help of a hacker. On Wednesday, the FBI director, James Comey, warned that there would be more cases in which the US government litigates over accessing electronic devices. Comey told reporters that FBI experts have examined about 4,000 devices since October and have been unable to unlock approximately 500. The three suspects who were arrested in Italy on Tuesday \u2013 two Afghans and a Pakistani \u2013 were believed to be part of a terror cell that was plotting possible attacks in Italy and the UK, though investigators did not say they had evidence that an attack was imminent.  Two other suspects were still at large and believed to be in Afghanistan. Italy\u2019s interior minister, Angelino Alfano, said the arrests proved that Italy\u2019s counter-terrorism laws and investigations were effective. He said one of the suspects had been looking at \u201csensitive targets\u201d.",
+  "webTitle": "Italian investigators cannot unlock iPhone of alleged Bari terror ring suspect",
+  "webPublicationDate": "2016-05-11T19:07:01Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/11/italy-iphone-bari-terror-ring-suspect",
+  "keyword": [
+    {
+      "webTitle": "Italy",
+      "id": "world/italy",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "iPhone",
+      "id": "technology/iphone",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Apple",
+      "id": "technology/apple",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Smartphones",
+      "id": "technology/smartphones",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Mobile phones",
+      "id": "technology/mobilephones",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Stephanie Kirchgaessner",
+      "id": "profile/stephanie-kirchgaessner"
+    }
+  ],
+  "guardianId": "world/2016/may/11/italy-iphone-bari-terror-ring-suspect"
+}

@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/03/police-officers-sacked-over-bijan-ebrahimi-case",
+  "id": "2016-05-03-101",
+  "sectionId": "uk-news",
+  "body": "Two police officers have been sacked over their dealings with a disabled refugee who was murdered after being wrongly branded a paedophile by his neighbours. PC Leanne Winter and PC Helen Harris were dismissed without notice by Avon and Somerset police on Tuesday for their handling of the case of Bijan Ebrahimi, who was beaten to death outside his Bristol flat and his body set on fire.  Two others, PC Kevin Duffy and police community support officer Andrew Passmore, were found guilty last year of the criminal offence of misconduct in a public office and jailed before being sacked by the force. Winter and Helen were acquitted of criminal wrongdoing but were subject to disciplinary proceedings. Announcing their dismissals, Jan Williams, of the Independent Police Complaints Commission (IPCC), said: \u201cToday\u2019s outcomes mark the conclusion of a series of misconduct proceedings against Avon and Somerset constabulary officers and staff. We carried out a substantial and detailed investigation into the actions police took in the days prior to Mr Ebrahimi\u2019s horrific murder, and their historical contact with him over a seven-year period. \u201cThe evidence we gathered has informed both the misconduct and earlier criminal proceedings. It was proven in crown court and at disciplinary hearings that some police officers and staff failed Mr Ebrahimi, in particular at a time when he was highly vulnerable.\u201d Winter and Harris were both sent to 44-year-old Ebrahimi\u2019s house in 2013 when he complained that Lee James, the man who later murdered him, had barged into his house and assaulted him. They arrested Ebrahimi, who sought refuge in Bristol from Iran and had mobility problems, rather than James and neighbours jeered as he was taken away in handcuffs. The court heard that it was just one of a series of contacts between Ebrahimi and police.  Following the conclusion of the trial at Bristol crown court, members of Ebrahimi\u2019s family accused Avon and Somerset police of institutional racism.  Chief Constable Andy Marsh apologised to Ebrahimi\u2019s relatives. He said: \u201cThey have suffered and will continue to suffer deeply, and have endured their loss with great courage and dignity. We failed Bijan in his hour of need and I am unreservedly sorry for the pain and heartache his family have suffered in the years since.\u201d He said the force had analysed what went wrong. \u201cWe have learned a great deal and much has changed since Bijan\u2019s dreadful murder. Understanding and embracing difference, spotting vulnerability and closer joint working with our partners to achieve shared solutions to complex problems are at the heart of this change. \u201cSoon after Bijan was killed we moved to a new way of working, which places greater emphasis on local problem-solving by neighbourhood managers working closely in the community, with the community and partners. This new way of working places the protection of vulnerable people unquestionably as the highest of all our priorities.\u201d",
+  "webTitle": "Police officers sacked over Bijan Ebrahimi murder case",
+  "webPublicationDate": "2016-05-03T16:40:58Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/03/police-officers-sacked-over-bijan-ebrahimi-case",
+  "keyword": [
+    {
+      "webTitle": "Crime",
+      "id": "uk/ukcrime",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Police",
+      "id": "uk/police",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Bristol",
+      "id": "uk/bristol",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Steven Morris",
+      "id": "profile/stevenmorris"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/03/police-officers-sacked-over-bijan-ebrahimi-case"
+}

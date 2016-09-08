@@ -1,0 +1,85 @@
+{
+  "apiUrl": "https://content.guardianapis.com/money/2016/may/27/have-student-loan-interest-rates-really-shot-up",
+  "id": "2016-05-27-79",
+  "sectionId": "money",
+  "body": "A Facebook post by a recent graduate suggesting that interest rates on student loans have been hiked went viral this week \u2013 so have rates really gone up? The post, by a graduate called Simon Crowther who finished a degree in civil engineering last year, suggested that he and other students had seen their interest rates hiked after the sale of the Student Loans Company to a private firm. Crowther seems to have struck a nerve with other students when he published his statement, showing he was racking up as much as \u00a3180 a month in interest on a \u00a340,000 loan for tuition fees and maintenance. He said he had expected to pay just 0.5% when he signed up, but rates had been increased when the company was sold off. But Crowther is mistaken \u2013 the interest rates on the loans had been set before he and his contemporaries started university in 2012. Crowther and his friends were the first cohort to pay \u00a39,000 tuition fees, and they are paying a higher rate of interest on their loans than those who started degrees earlier. How much are they paying? While they were at university, and during the year since those on three-year courses graduated, their loans have been attracting interest of inflation plus 3%, with the government setting the RPI \u2013 typically higher than CPI \u2013 as the measure of price rises. Since April, those who have finished university have been charged interest according to their earnings. Anyone earning less than \u00a321,000 a year is charged inflation \u2013 now 0.9% \u2013 and this goes up on a sliding scale, so that by the time they earn \u00a341,000 their debt is accruing interest at 3.9%. The deal is the same for everyone starting university in England since September 2012. Older student loans have a lower interest rate. The current rate on loans taken out before September 2012 is 0.9%. When Crowther and his contemporaries began their courses in 2012, inflation was 3.6%, so in their first year interest of 6.6% was being added. This March, the inflation rate was 1.6%, so in September their interest rate will be 4.6%.     Simon Crowther\u2019s Open Letter to his MP Vernon Coaker. Photograph: Simon Crowther    That seems a lot \u2013 how does it compare with other loans? Not well. Banks and building societies have been falling over themselves to attract borrowers and are offering credit cards with 0% interest for up to 40 months and personal loans with rates as low as 3.2% on borrowing of \u00a310,000. Mortgage rates remain near record lows \u2013 you can borrow on your home at a rate of 1.14%. So why don\u2019t students use those options? Because they can\u2019t. Students typically don\u2019t have the salary or credit history to secure the best deals. But they are open to some parents, and seeing how much the student loan is costing could make more wonder if it\u2019s worth adding to their mortgage or taking money that is sitting in a poorly paying savings account to help out their offspring.   Related: Graduate whose loan grew by \u00a31,800 in one year says students were misled    So are other loans better value? Probably not. If you take out a mainstream loan to pay tuition fees, you will definitely have to repay 100% of it plus interest, whereas under the student loans system you might not have to repay as much. Students who have taken loans since September 2012 do not have to make repayments unless they earn at least \u00a321,000 a year. Repayments are set at 9% of their salary above that, regardless of the size of the debt, and after 30 years anything that has not been paid back is written off. People who earn well throughout their careers will end up repaying all of their loan and the snowballing interest, but those who take an average-paid job and gradually work their way up might never repay as much as they borrowed. If, for example, your average salary throughout the first 30 years of your career is \u00a336,000, you will repay \u00a340,320 \u2013 less than the \u00a343,500 you could have borrowed \u2013 and if you take any of that time off \u2013 to start a family for example, or travel \u2013 you will repay less. Shouldn\u2019t they have read the small print? The government and Student Loans Company have both pointed out that the rates were in the terms and conditions that the students signed up to when they took out the loans. \u201cThe terms and conditions are laid out in an easy-to-understand format for borrowers to understand and set out the variable interest they will be charged,\u201d says a spokesperson from the Student Loans Company. However, the system is complicated and subject to change \u2013 for example, in 2015 the government overturned a promise to increase the threshold for repayments up from \u00a321,000 each year from 2017 \u2013 a move that will cost graduates around \u00a33,000 each over their career. Ultimately though, many will have felt that they didn\u2019t really have a choice.",
+  "webTitle": "Have student loan interest rates really shot up?",
+  "webPublicationDate": "2016-05-27T16:22:18Z",
+  "webUrl": "https://www.theguardian.com/money/2016/may/27/have-student-loan-interest-rates-really-shot-up",
+  "keyword": [
+    {
+      "webTitle": "Student finance",
+      "id": "money/student-finance",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Students",
+      "id": "education/students",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Higher education",
+      "id": "education/higher-education",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Education",
+      "id": "education/education",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Tuition fees",
+      "id": "education/tuition-fees",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Conservatives",
+      "id": "politics/conservatives",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Interest rates",
+      "id": "business/interest-rates",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [],
+  "guardianId": "money/2016/may/27/have-student-loan-interest-rates-really-shot-up"
+}

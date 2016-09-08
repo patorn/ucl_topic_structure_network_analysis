@@ -1,0 +1,84 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/02/google-ebay-refuse-ban-ads-offering-remove-car-pollution-filters",
+  "id": "2016-05-02-251",
+  "sectionId": "environment",
+  "body": "Google, Gumtree and eBay have refused to ban adverts for a service which removes crucial pollution filters from the exhausts of diesel cars, sending toxic emissions soaring.  Over a thousand diesel car owners have already been caught after removing the filter, though experts warn the problem may be far more widespread. Campaigners are now complaining to the Advertising Standards Authority (ASA) that such adverts break its code, which bans motoring \u201cpractices that condone or encourage anti-social behaviour\u201d. The service exploits a loophole in the law which means that driving a diesel car without a filter is an offence, but the act of removing it is not. Air pollution is a \u201cpublic health emergency\u201d, MPs said this week and particulate pollution causes 40,000 to 50,000 early deaths every year in the UK. But garages across the country are offering to remove diesel particulate filters (DPF), a practice ministers have labelled \u201cunacceptable\u201d and \u201cclearly detrimental to people\u2019s health\u201d. DPF filters can become clogged, especially for diesels driven mostly in cities, and replacement can be expensive, leading garages to offer to remove the filters completely. Google and Gumtree say they accept the adverts for the service because removal itself is not illegal. Since 2014, cars missing DPF filters automatically fail the MOT test and, earlier this month, the Guardian revealed that 1,188 vehicles had been caught so far. But some garages boast on their websites that they can beat the visual MOT check. Friends of the Earth (FoE) is now complaining to the ASA over adverts for DPF removal services. Oliver Hayes, at FoE said: \u201cAir pollution is a public health crisis of breath-taking proportions. We\u2019re asking the ASA to clamp down on those advertising these dubious practices and help prevent more deadly pollution hitting our children\u2019s lungs.\u201d \u201cBut we\u2019re also calling on the government to make it illegal to remove these pollution filters in the first place,\u201d he said. \u201cUnless they do, the absurd loophole remains.\u201d The House of Commons environment audit committee is currently investigating diesel emissions and air quality and its chair, Mary Creagh MP, said: \u201cThe removal of DPF filters by rogue garages is another diesel test dodge which cheats the public out of clean air. The Department of Transport did the right thing in introducing visual checks into MOTs. But it should now look at tightening up MOTs and outlawing the removal of pollution filters altogether.\u201d \u201cOur changes to the MOT test are helping cut harmful emissions and are taking hundreds of polluting vehicles out of circulation,\u201d said a spokesman for the Department for Transport. \u201cWe are also investigating the latest technology so garages can carry out tougher, smarter tests that will act as a deterrent and keep these cars off the road.\u201d Google said it did not comment on individual cases and declined to take down DPF removal adverts. A spokeswoman said: \u201cOur policies require advertisers to comply with all applicable laws and local regulations. If we discover sites or services that are in violation of this policy we take appropriate action.\u201d Hannah Wilson, from Gumtree, said: \u201cOur policy for posting adverts on Gumtree is based on compliance with English law. As there are sometimes legitimate reasons for the removal of diesel particulate filters, and the removal of the DPF is not an offence, then these services can be offered by advertisers via Gumtree. If the practice of removing DPFs was outlawed, then we would immediately ban and remove these listings from the site.\u201d Repeated requests for comment from eBay received no reply. DPFs can be removed, cleaned and replaced, and there are many advertisements for this legitimate service, but other garages advertising \u201cDPF removal\u201d services make clear the filter is not replaced.",
+  "webTitle": "Google and eBay refuse to ban ads offering to remove car pollution filters",
+  "webPublicationDate": "2016-05-02T06:00:16Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/02/google-ebay-refuse-ban-ads-offering-remove-car-pollution-filters",
+  "keyword": [
+    {
+      "webTitle": "Pollution",
+      "id": "environment/pollution",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Travel and transport",
+      "id": "environment/travel-and-transport",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Google",
+      "id": "technology/google",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "eBay",
+      "id": "technology/ebay",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Transport policy",
+      "id": "politics/transport",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Internet",
+      "id": "technology/internet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Damian Carrington",
+      "id": "profile/damiancarrington"
+    }
+  ],
+  "guardianId": "environment/2016/may/02/google-ebay-refuse-ban-ads-offering-remove-car-pollution-filters"
+}

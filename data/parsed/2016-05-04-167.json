@@ -1,0 +1,30 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/04/two-women-plead-not-guilty-to-murder-sadie-hartley",
+  "id": "2016-05-04-167",
+  "sectionId": "uk-news",
+  "body": "Two women have pleaded not guilty to the murder of a businesswoman who was found stabbed to death at her home in Lancashire. Sarah Williams and Katrina Walsh are charged with the murder of company director Sadie Hartley, 60, who is believed to have suffered a series of knife wounds to her arms, hands and body. Both defendants appeared via videolink at Preston crown court \u2013 Williams, 34, with dark red shoulder-length hair, wearing a beige suit jacket, from Styal prison in Greater Manchester, and Walsh, 56, dressed all in black with a beanie hat, from New Hall prison in Wakefield. Both defendants answered all questions clearly and appeared composed during the 45-minute hearing, which was attended by Hartley\u2019s family, including her two children, Charlotte and Harry. Another pre-trial hearing will be held on 10 June at the same court. Hartley, a mother of two from Helmshore, Lancashire, ran her own medical communications business, Hartley Taylor, based in Knutsford, Cheshire. It is believed she was last seen alive at a conference in Manchester with a colleague on 14 January.",
+  "webTitle": "Two women plead not guilty to murder of businesswoman",
+  "webPublicationDate": "2016-05-04T13:37:30Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/04/two-women-plead-not-guilty-to-murder-sadie-hartley",
+  "keyword": [
+    {
+      "webTitle": "Crime",
+      "id": "uk/ukcrime",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Nazia Parveen",
+      "id": "profile/nazia-parveen"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/04/two-women-plead-not-guilty-to-murder-sadie-hartley"
+}

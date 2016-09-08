@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/08/the-sky-trembles-earth-is-afraid-two-eyes-are-not-brothers-review-ben-rivers",
+  "id": "2016-05-08-173",
+  "sectionId": "film",
+  "body": "This experimental work from British artist and film-maker Ben Rivers belongs at the most arcane reaches of the arthouse spectrum. Created as part of an installation, it\u2019s a piece which would sit just as comfortably in a gallery as it does in a cinema. Rivers blends documentary and fiction \u2013 the first 40 minutes is an account of film-maker Oliver Laxe shooting a feature in the High Atlas mountains in Morocco, before Laxe becomes the protagonist of Rivers\u2019s own hallucinatory narrative. There is a savage beauty to this work, which is very loosely based on a short story by Paul Bowles, but it is a demanding, difficult viewing experience.         Watch the trailer for The Sky Trembles and the Earth Is Afraid and the Two Eyes Are Not Brothers.",
+  "webTitle": "The Sky Trembles and the Earth Is Afraid and the Two Eyes Are Not Brothers review \u2013 savage beauty",
+  "webPublicationDate": "2016-05-08T07:00:00Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/08/the-sky-trembles-earth-is-afraid-two-eyes-are-not-brothers-review-ben-rivers",
+  "keyword": [
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Video art",
+      "id": "artanddesign/video-art",
+      "sectionId": "artanddesign",
+      "sectionName": "Art and design"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Wendy Ide",
+      "id": "profile/wendy-ide"
+    }
+  ],
+  "guardianId": "film/2016/may/08/the-sky-trembles-earth-is-afraid-two-eyes-are-not-brothers-review-ben-rivers"
+}

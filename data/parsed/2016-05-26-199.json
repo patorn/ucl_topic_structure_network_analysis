@@ -1,0 +1,96 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/26/ikea-and-nestle-call-for-new-eu-laws-to-cut-truck-emissions",
+  "id": "2016-05-26-199",
+  "sectionId": "environment",
+  "body": "An alliance of companies including Ikea, Nestle and Heathrow airport have called on the EU to pass new laws cutting truck emissions within two years, to meet promises made at the Paris climate conference. Heavy duty vehicles make up less than 5% of Europe\u2019s road traffic but chug out a quarter of the sector\u2019s carbon emissions \u2013 more than airplanes \u2013 and their fuel efficiency has hardly changed in two decades. The EU\u2019s climate commissioner Miguel Arias Ca\u00f1ete has said that fuel efficiency targets for vehicles after 2020 are \u201cessential\u201d and a commission paper in July is expected to signal that they will be brought forward. In a letter to the EU president Jean-Claude Juncker, seen by the Guardian, the clean corporate alliance says that CO2 test procedures and emissions monitoring alone will not kickstart the market for low carbon freight transport. \u201cMeeting the EU\u2019s 2030 climate targets as well as the more challenging targets agreed in Paris, will require major efforts in the transport and road freight sector,\u201d the letter says. \u201cWe therefore call on you to propose post-2020 standards that reduce the CO2 emissions and fuel consumption of new trucks and trailers.\u201d The missive, which is also signed by DHL, Philips, Kingfisher and Schenker urges the EU \u201cto make a proposal to introduce [fuel economy] standards within the next two years.\u201d Road transport accounts for around a fifth of Europe\u2019s greenhouse gases and Europe is unlikely to meet its Paris pledge of a 40% cut in carbon emissions by 2030 without curbing them. CO2 pollution from heavy duty vehicles rose 36% between 1990 and 2010 due to increased freight traffic. No fall is expected before 2050, without new regulations.  Bart Vandewaetere, Nestle\u2019s assistant vice president told the Guardian: \u201cIncreasing fuel efficiency of trucks will give the transport industry the required boost to further reduce overall CO2 emissions after 2020, when most of the other options have been fully exploited.\u201d Nestle has pledged to cut its own fuel consumption and emissions by 10% above statutory commitments in the next four years, compared to 2014 levels.  The EU views mandatory CO2 per km targets as \u201cthe most apparent option\u201d to curb greenhouse gas emissions from trucks but modern infrastructure, alternative fuels, taxes and road pricing could also play a part. The car industry has proposed several alternative measures to mandatory post-2020 targets, arguing that they are already being stretched to the limit by current standards.  Kasper Peters, a spokesman for the European automobile manufacturers association said: \u201cConsidering the complexity of the truck market with several thousand shapes and sizes, introducing legislation suitable for all variations is extremely challenging. There simply is no \u2018one-size-fits-all\u2019 approach for heavy duty vehicles.\u201d The European commission is now in the process of finalising methodologies for measuring and regulating truck emissions, as has been done in the US, Japan and China.  Fuel efficiency for cars and vans has already improved dramatically as the EU has ratcheted up CO2 limits, which are set to hit 95 grams of CO2 per km in 2020. But the performance of brand-leading trucks such as Volvo\u2019s FH460 and Scania R450LA trucks have only improved over past models by 0.4 litres per 100km of motorway driving, in the last 20 years. Two years ago, the EU adopted its first strategy to cut CO2 emissions from trucks, buses and coaches but the first obligations to measure and report their greenhouse gas performance will not take effect until 2017. William Todts, freight director of the Transport & Environment group, said: \u201cMore fuel efficient trucks will save hauliers money, boost the economy and protect the environment. It\u2019s time for the Juncker commission to follow the example of the US, China and Japan and set ambitious truck fuel economy standards.\u201d",
+  "webTitle": "Ikea and Nestle call for new EU laws to cut truck emissions",
+  "webPublicationDate": "2016-05-26T12:19:33Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/26/ikea-and-nestle-call-for-new-eu-laws-to-cut-truck-emissions",
+  "keyword": [
+    {
+      "webTitle": "Greenhouse gas emissions",
+      "id": "environment/carbon-emissions",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Pollution",
+      "id": "environment/pollution",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Road transport",
+      "id": "world/road-transport",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Paris climate agreement",
+      "id": "environment/paris-climate-agreement",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Climate change",
+      "id": "environment/climate-change",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Transport policy",
+      "id": "politics/transport",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Automotive industry",
+      "id": "business/automotive-industry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Arthur Neslen",
+      "id": "profile/arthurneslen"
+    }
+  ],
+  "guardianId": "environment/2016/may/26/ikea-and-nestle-call-for-new-eu-laws-to-cut-truck-emissions"
+}

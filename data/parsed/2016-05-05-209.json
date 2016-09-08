@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/fashion/2016/may/05/stylewatch-wimbledon-2016-uniforms",
+  "id": "2016-05-05-209",
+  "sectionId": "fashion",
+  "body": "Question: what do you do when you have been responsible for Wimbledon\u2019s uniforms for 11 years? Judging by Ralph Lauren\u2019s latest designs, the answer is to bring a take on current trends to centre court. The tracksuit designs for ball boys are totally athleisure, and with the tracksuit a bit of a thing right now, we imagine said ball boys might be wearing this off court too. Other designs that bring a Serena-worthy serve of style include a ball girl skirt that could feature in the world of Beyonce\u2019s Ivy Park, and the classic cable knit jumper. Worn oversized, and with matching white bootleg trousers, it\u2019s quite Annie Hall, so totally allowed in 2016\u2019s vintage-influenced fashion moment. And the umpire\u2019s uniform of trench coat, hat and striped shirt? It wouldn\u2019t be out of place in the wardrobe of Scream Queens\u2019 Chad Radwell. That\u2019s match-winning dressing right there.",
+  "webTitle": "Stylewatch: Wimbledon 2016 uniforms",
+  "webPublicationDate": "2016-05-05T11:29:51Z",
+  "webUrl": "https://www.theguardian.com/fashion/2016/may/05/stylewatch-wimbledon-2016-uniforms",
+  "keyword": [
+    {
+      "webTitle": "Fashion",
+      "id": "fashion/fashion",
+      "sectionId": "fashion",
+      "sectionName": "Fashion"
+    },
+    {
+      "webTitle": "Wimbledon",
+      "id": "sport/wimbledon",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Tennis",
+      "id": "sport/tennis",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Lauren Cochrane",
+      "id": "profile/laurencochrane"
+    }
+  ],
+  "guardianId": "fashion/2016/may/05/stylewatch-wimbledon-2016-uniforms"
+}

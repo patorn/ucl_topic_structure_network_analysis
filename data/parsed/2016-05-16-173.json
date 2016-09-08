@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/16/labour-antisemitism-inquiry-shami-chakrabarti-not-seek-evidence-from-ken-livingstone",
+  "id": "2016-05-16-173",
+  "sectionId": "uk-news",
+  "body": "The chair of a Labour inquiry into antisemitism has said she will not seek evidence from the former London mayor Ken Livingstone, whose suspension from the party led to a crisis that resulted in the inquest being set up. Shami Chakrabarti disclosed that she had joined the Labour party on 29 April, the day she was asked to head up the investigation, which could raise questions about her independence.  She told reporters that it would be unfair to \u201cpositively solicit\u201d a submission from Livingstone because he is facing a separate investigation that could result in his expulsion from the party. Stating that the inquiry would report within two months, the former director of the human rights group Liberty said she would ask the Labour leader, Jeremy Corbyn, to appear.  It comes as Corbyn prepares to meet with MPs on the all-party group for antisemitism next week, who will set out their proposals as to how the inquiry can be truly independent. Chakrabarti, speaking about her decision to join Labour, said: \u201cI wanted Labour party members and supporters to trust that, while I am independent of any person or group or wing of the party, I am conducting this inquiry with their best interest and values at heart. \u201cIt was my judgment and on the day I accepted the brief.\u201d  Chakrabarti was flanked by her two deputy chairs, Jan Royall, whose own investigation into antisemitism at Oxford University\u2019s Labour club will be published on Tuesday, and Prof David Feldman, director of the Pears Institute for the Study of Antisemitism. She was forced to defend Feldman after it emerged that he was a signatory to Independent Jewish Voices (IJV), a group that has described some of the claims of antisemitism within Labour as \u201cbaseless and disingenuous\u201d. Chakrabarti said she had total confidence in Feldman, who had backed an earlier statement from IJV on global human rights but, she said, distanced himself from the more recent intervention.  Despite the controversy, the Labour MP John Mann, who confronted Livingstone on live television alleging that he was a \u201cNazi apologist\u201d, said Chakrabarti had to be given the benefit of the doubt and that the terms of reference were key. \u201cMembers of our all-party group [on antisemitism] will be meeting with Jeremy Corbyn next week to set out our expectations of the operational independence of the inquiry,\u201d he said.",
+  "webTitle": "Labour antisemitism inquiry will not seek evidence from Ken Livingstone",
+  "webPublicationDate": "2016-05-16T13:40:33Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/16/labour-antisemitism-inquiry-shami-chakrabarti-not-seek-evidence-from-ken-livingstone",
+  "keyword": [
+    {
+      "webTitle": "Shami Chakrabarti",
+      "id": "uk/shami-chakrabarti",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Labour",
+      "id": "politics/labour",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Ken Livingstone",
+      "id": "politics/livingstone",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Jeremy Corbyn",
+      "id": "politics/jeremy-corbyn",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Anushka Asthana",
+      "id": "profile/anushkaasthana"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/16/labour-antisemitism-inquiry-shami-chakrabarti-not-seek-evidence-from-ken-livingstone"
+}

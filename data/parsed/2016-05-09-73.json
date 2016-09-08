@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/commentisfree/2016/may/09/the-guardian-view-on-statistics-and-nhs-reforms-jeremy-hunts-number-games",
+  "id": "2016-05-09-73",
+  "sectionId": "commentisfree",
+  "body": "People who went into hospital over this last weekend were a good deal more likely to die than people who didn\u2019t. That isn\u2019t, of course, because the NHS has taken to medieval blood-letting techniques, but rather because those who showed up at the infirmary door will have disproportionately had something seriously amiss. Make so stark a comparison, between the healthy and the unhealthy, and you can immediately see why differential death rates need to be handled with care as a guide to quality in medicine. This care has not been shown. In\u00a0his row with the junior doctors over the terms of weekend working, Jeremy Hunt has repeatedly claimed that the NHS\u2019s failings at the weekend cost 11,000 lives annually. The health secretary has not done anything quite so crude as compare the mortality of the sick with the well, but the\u00a0more experts delve into his numbers, the shakier they look. The grim reaper\u2019s particular fondness for following patients on to hospital wards at the weekend shows up in statistics internationally. On that there is agreement, but not as to why. The very fact that the weekend effect is found around the world is, in itself, a warning light against rushing to assume that these so-called \u201cexcess deaths\u201d are all attributable to anything in the way the NHS is organised, still less the specifics of junior doctors\u2019 rotas. Another red flag is raised by consideration of when the extra deaths of these admissions occur, which is often not straight away \u2013 just as many actual deaths occur during the week. This might suggest that the weekend case mix is more important than neglect. Indeed, the very paper that Mr Hunt relies on carefully states that it would be \u201crash and misleading\u201d to assume that all the extra weekend mortality is preventable. Two subsequent studies emphasise the possibility of a statistical mirage. The first, from a Manchester-based team, puts everything down to the higher threshold of sickness that patients must clear to be sent on to a ward at the weekend. The stream of patients presenting at A&E is steady across the week, and those who arrive on a Saturday or Sunday are not in special danger. What changes, however, is the rate of admission, which is sharply reduced, as those who can safely wait till Monday are sent home. The second new analysis, given an airing on Monday by Oxford-based stroke specialists, identifies a potentially fundamental flaw in\u00a0the raw data underlying Mr Hunt\u2019s claim. The medics checked on the crude coding that clerical staff use to classify real cases that they were treating, and found planned admissions being miscoded as emergencies, and crucially found, too, that there was more such miscoding during the week, when patients come to hospital for more varied reasons. The effect is to make outcomes for weekend emergencies look worse by comparison. There are subtle arguments on all sides here. Mr Hunt\u2019s preferred paper does make allowance for the sickness of patients, but unrealistically perfect data would be required to make exhaustive adjustments. Some of the 11,000 figure can very likely be explained away by selection bias and measurement error; it is for epidemiologists and not politicians to debate how much. Even those who believe that some chunk of that number is telling us something real about inadequate weekend care would not pretend that this is necessarily about doctors\u2019 hours, rather than about, say, the ancillary staff who provide diagnostics. There is a real argument for improving the weekend service, but at a cash-strapped time when beneficial treatments are rationed, there is also an obligation to ask whether this is the best use of scarce resources. And Mr Hunt won\u2019t persuade anyone of that while he is seen to be playing fast and loose with the facts.",
+  "webTitle": "The Guardian view on statistics and NHS reforms: Jeremy Hunt\u2019s number games | Editorial",
+  "webPublicationDate": "2016-05-09T18:09:17Z",
+  "webUrl": "https://www.theguardian.com/commentisfree/2016/may/09/the-guardian-view-on-statistics-and-nhs-reforms-jeremy-hunts-number-games",
+  "keyword": [
+    {
+      "webTitle": "NHS",
+      "id": "society/nhs",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Jeremy Hunt",
+      "id": "politics/jeremy-hunt",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Doctors",
+      "id": "society/doctors",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Editorial",
+      "id": "profile/editorial"
+    }
+  ],
+  "guardianId": "commentisfree/2016/may/09/the-guardian-view-on-statistics-and-nhs-reforms-jeremy-hunts-number-games"
+}

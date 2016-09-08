@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/commentisfree/2016/may/10/obesity-greed-laziness-overweight-people-metabolism-weight-loss",
+  "id": "2016-05-10-298",
+  "sectionId": "commentisfree",
+  "body": "Obesity is one of the biggest threats to the health of our species. Over the past 40 years there has been a remarkable change to human bodies globally. According to the World Health Organisation, most adults living in the US and Europe are either overweight or obese. Yet worryingly for those of us seeking to tackle this problem, a recent study in the New York Times of contestants who lost weight on the TV show The Biggest Loser showed that the formerly obese have lower resting metabolic rates than others of a similar weight \u2013 making it all the easier for them to pile back on the weight. They could eat the same as someone else of the same weight, but pile on the pounds regardless. It is important to ask why the current obesity epidemic has happened. The answer may be more complex than what we might think. One must look at our genetic endowment, which evolved for optimal adaptation to environments that were in many respects diametrically opposed to our modern-day environments. When starvation is a major threat to survival, our physiology naturally attempts to mitigate adverse effects of caloric deprivation.    Losing weight often results in a loss of lean mass, such as muscle, and our metabolism is dependent on this    Chronic caloric over-consumption and sedentariness are the usual suspects driving the obesity epidemic. However, there are lesser known contributors. We are increasingly sleep-deprived. Various studies would seem to show that sleep deprivation (through effects on appetite regulation) is an important factor. Our thermo-neutral environments also play their part. Between 1970 and 2000 the average temperature inside UK homes through central heating increased from 13\u00b0C to 18\u00b0C. Metabolic rate is influenced by environmental temperature, and it has been estimated that such a difference in home temperature (assuming continuous exposure) would account for a difference of around 150 Kcal burned per day. There is also evidence to suggest that how we eat our food, including the speed of food ingestion, may influence metabolism and therefore propensity for weight gain. It is a challenge to lose weight. It is a much bigger challenge to maintain weight loss through lifestyle change. The Biggest Loser resulted in some remarkable reductions in body weight. However, many contestants, when followed over subsequent years, appeared to have equally remarkable weight re-gain. This follows a pattern that is familiar and frustrating to those of us who have lost weight through dieting. We are programmed through multiple physiological mechanisms to protect our weight. The body is very good at this, and unfortunately seems to have a proclivity for adopting our highest weight as a \u201cbenchmark\u201d. Through conscious control, most of us can reduce our caloric intake for a period of time. However, it takes remarkable self-control to maintain this restriction over the longer term. In this sense, dieting and weight re-gain could be viewed as almost analogous to holding one\u2019s breath in ultra-slow motion. In the latter case, the body\u2019s need for oxygen eventually over-rides our conscious control of breathing. With dieting, it is usual for the body\u2019s \u201cneed\u201d for additional calories to eventually override our conscious control of caloric restriction. If only the brain \u201cknew\u201d that those additional calories following dieting are usually harmful. Unfortunately, the situation following diet-induced weight loss is even more complex. The metabolism of The Biggest Loser contestants diminished after their weight loss. Losing weight through dieting results in a loss of fat mass, but often an associated loss of lean mass, such as muscle. Our metabolism is largely dependent upon lean (rather than fat) mass. Metabolic rates per unit mass of lean tissue are remarkably similar in most of us.   Related: UK among worst in western Europe for level of overweight and obese people    This overall drop in metabolic rate can be mitigated to an extent with carefully applied lifestyle management, including adjustments to protein intake and exercise regimes. However, even with these adjustments in place, there is often a change in metabolism. This is one reason why we have to work harder through increased activity and exercise to compensate for a reduction in basal metabolic rate, to maintain weight following diet-induced weight loss. In addition to changes in metabolic rate, there are also important changes in appetite control that the brain uses to redress weight loss. Most of us succumb eventually: to do otherwise usually requires protracted conscious control of caloric intake. Underlying this are changes in appetite hormones. Rodent studies have even shown that there are weight-related neurological changes in the brain cells that control appetite. It is easy to become despondent regarding the long-term effects of dieting when faced with the available evidence. However, a recent study from Denmark suggested that in those subjects who experienced diet-induced weight loss for at least a year, a change in their appetite hormones made it easier to maintain the weight loss. Although this data needs to be verified, perhaps maintaining weight over the longer term eventually becomes easier once the body adapts. Addressing the global obesity epidemic is a huge and complex challenge that we all must face. Prevention is better than cure and lifestyle changes remain a cornerstone of management. We must not allow the fates of reality-show contestants \u2013 often undertaking an unhealthily fast method of weight loss that doesn\u2019t tackle the fundamental cultural and behavioural aspects of the problem \u2013 to affect our determination to tackle the issue.",
+  "webTitle": "Dieting can backfire \u2013 but don\u2019t blame it on greed and laziness | Thomas Barber",
+  "webPublicationDate": "2016-05-10T07:00:02Z",
+  "webUrl": "https://www.theguardian.com/commentisfree/2016/may/10/obesity-greed-laziness-overweight-people-metabolism-weight-loss",
+  "keyword": [
+    {
+      "webTitle": "Obesity",
+      "id": "society/obesity",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Human biology",
+      "id": "science/human-biology",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Diets and dieting",
+      "id": "lifeandstyle/diets-dieting",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Thomas Barber",
+      "id": "profile/thomas-barber"
+    }
+  ],
+  "guardianId": "commentisfree/2016/may/10/obesity-greed-laziness-overweight-people-metabolism-weight-loss"
+}

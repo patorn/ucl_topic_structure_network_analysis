@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/us-news/2016/may/09/california-drought-jerry-brown-water-saving-permanent",
+  "id": "2016-05-09-45",
+  "sectionId": "us-news",
+  "body": "Governor Jerry Brown has ordered California to adopt permanent water conservation measures in response to a devastating five-year drought, including long-term bans on wasteful practices and mandatory reporting rules.  While the drought has become less severe in recent months \u2013 leading some communities and water agencies to abandon strict restrictions \u2013 Brown\u2019s executive order on Monday made clear that the drought was not over and that California must transition its short-term emergency measures into a permanent conservation plan.  \u201cCalifornians stepped up during this drought and saved more water than ever before,\u201d Brown said in a statement. \u201cBut now we know that drought is becoming a regular occurrence and water conservation must be a part of our everyday life.\u201d Water officials on Monday also announced that the state is considering lifting a mandatory conservation order for cities and towns \u2013 an emergency rule adopted last year that requires at least 20% overall conservation by most water districts.  On 18 May, the state\u2019s water resources control board will weigh a proposal to allow cities and water agencies to set their own conservation targets based on their projected shortages if the drought continues for three more years.  Under the new order from Brown, who adopted mandatory cuts for urban water use one year ago, California will \u201cpermanently prohibit wasteful practices, such as hosing off sidewalks, driveways and other hardscapes, washing automobiles with hoses not equipped with a shut-off nozzle, and watering lawns in a manner that causes runoff\u201d, according to the governor\u2019s office.  Urban water suppliers will also be required to permanently report data on water use, conservation and enforcement, and the state will develop new \u201cwater use efficiency targets\u201d that go beyond a goal of 20% reduction by 2020 that officials originally adopted in 2009.    Related: When in drought: the California farmers who don\u2019t water their crops    The order further affects farmers by requiring more irrigation districts to submit documents quantifying their customers\u2019 water usage and outlining plans for shortages. Currently, agricultural districts serving 25,000 acres or more must file these reports, but under Brown\u2019s order, districts that are 10,000 acres or more will also be subject to the reporting requirement.  The state\u2019s department of water resources will also enhance standards for urban \u201cwater shortage contingency plans\u201d, which means districts will have to adopt formal plans to prepare for droughts lasting at least five years and will have to be ready to respond to more frequent and severe drought periods.  Officials announced last year that California had experienced its driest four-year period in history.  California residents have significantly improved conservation efforts over the last year \u2013 with water use between June 2015 and March 2016 dropping 23.9% compared with the same period in 2013, according to Brown\u2019s order. That\u2019s enough to provide 6.5 million residents with water for one year.  While California residents have continued to shorten their showers and water their lawns less, in December the conservation rate dropped as heavy El Ni\u00f1o rains fell in some parts of the state, filling water reservoirs and improving mountain snowpacks.  Still, experts expect that California droughts will become more common and persistent due to climate change, with warmer winters reducing water in the Sierra Nevada snowpack and creating drier soils, according to the governor\u2019s announcement.  \u201cRecognizing these new conditions, the executive order directs permanent changes to use water more wisely and efficiently, and prepare for more frequent, persistent periods of limited supply.\u201d The order \u2013 which also directs the state\u2019s water resources control board to develop proposed emergency restrictions for 2017 if the drought continues \u2013 comes as some communities have moved away from conservation and ordered homeowners to start watering dead lawns.  Brown said the state will also take steps to minimize water system leaks, which, according to official estimates, waste enough water to supply 1.4m homes for a year.",
+  "webTitle": "California drought: governor makes certain water-wasting bans permanent",
+  "webPublicationDate": "2016-05-09T19:35:28Z",
+  "webUrl": "https://www.theguardian.com/us-news/2016/may/09/california-drought-jerry-brown-water-saving-permanent",
+  "keyword": [
+    {
+      "webTitle": "California drought",
+      "id": "us-news/california-drought",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Water",
+      "id": "environment/water",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "California",
+      "id": "us-news/california",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Drought",
+      "id": "environment/drought",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Sam Levin",
+      "id": "profile/sam-levin"
+    }
+  ],
+  "guardianId": "us-news/2016/may/09/california-drought-jerry-brown-water-saving-permanent"
+}

@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/18/i-newspaper-sales-independent-johnston-press",
+  "id": "2016-05-18-286",
+  "sectionId": "media",
+  "body": "The i newspaper increased its sales by 7% in April to almost 300,000, a rise of almost 20,000 copies a day, making it the single biggest beneficiary of former Independent readers looking for a new national newspaper to buy. i, which was sold by Evgeny Lebedev to regional newspaper group Johnston Press for \u00a324m in February, reported average sales of 297,849 a day in April, according to its own unaudited figures. The title\u2019s circulation had stood at about 278,363 copies per day, including about 70,000 bulk copies, free in places like hotels, gyms and train stations, meaning i added more than 19,000 copies to its circulation a day in April. Lebedev shut the print editions of the Independent and Independent on Sunday in March. The Guardian is thought to be the next biggest beneficiary of Independent readers. Johnston Press also revealed that the new i website, launched on 14 April, has attracted a solid 638,000 unique users in its first month. i was launched into the Northern Ireland market on 10 May. The regional newspaper publisher, which also owns titles including the Scotsman, also revealed an improvement in the advertising market \u2013 although the declines are still steep. Johnston Press, which will hold its annual meeting with investors on Wednesday, said that advertising revenues were down by 16.9% in the period from 3 January to 30 April. This is a slight improvement over the 17.9% decline in the first quarter. And investors are likely to be buoyed by figures for April, which show a fall of 13.2%. However, a concern will be Johnston Press\u2019s report that digital revenues went into reverse in the first quarter, down 5.7%, although April saw a 4.5% rise. \u201cThe sector has continued to experience challenging trading conditions and volatility in the advertising market in the first quarter, which began to show signs of improvement in April,\u201d said the company in a statement.  \u201cJohnston Press remains focused on increasing audiences, providing creative solutions for our advertisers, further cost reduction and integration and growth within the i. At this point, the board expects performance for the full year to be within the range of market expectation.\u201d Earlier this month, Trinity Mirror reported a fall of 19% in print ad revenues for the period from 28 December to 1 May. The Daily Mirror publisher said that, across its portfolio of national and regional titles, print revenue decline improved slightly in April, down 15.8%.",
+  "webTitle": "i newspaper's sales rise to almost 300,000 after Independent closure",
+  "webPublicationDate": "2016-05-18T08:44:53Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/18/i-newspaper-sales-independent-johnston-press",
+  "keyword": [
+    {
+      "webTitle": "Johnston Press",
+      "id": "media/johnston-press",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "National newspapers",
+      "id": "media/national-newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers",
+      "id": "media/newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers & magazines",
+      "id": "media/pressandpublishing",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Johnston Press",
+      "id": "business/johnstonpress",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Mark Sweney",
+      "id": "profile/marksweney"
+    }
+  ],
+  "guardianId": "media/2016/may/18/i-newspaper-sales-independent-johnston-press"
+}

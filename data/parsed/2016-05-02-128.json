@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/02/cristiano-ronaldo-real-madrid-training-manchester-city-champions-league",
+  "id": "2016-05-02-128",
+  "sectionId": "football",
+  "body": "Cristiano Ronaldo completed Monday\u2019s training session with Real Madrid as he stepped up his bid to be fit for the Champions League semi-final, second leg against Manchester City. Ronaldo sat out last week\u2019s goalless draw at the Etihad Stadium with a thigh injury which also kept him out of Saturday\u2019s 1-0 La Liga win at Real Sociedad in which Gareth Bale scored the only goal. However, the Portugal captain was back in training on Sunday, participating with his team-mates for the first half before working individually for the remainder and he was able to take a full part in Monday\u2019s session.   Related: Manchester City\u2019s Manuel Pellegrini: I knew Real Madrid would sack me    While the news about Ronaldo looks promising for Madrid, it is less clear whether his fellow forward Karim Benzema will be able to feature against City. The France international was replaced at half-time in the first leg against City with a hamstring problem and he was limited to running apart from the rest of the group on Monday. The Madrid midfielder Casemiro, meanwhile, worked indoors after picking up a knock against Sociedad. It was Ronaldo who scored the winner when the sides met during the 2012-13 group stages and the same referee from that match has been appointed for Wednesday night\u2019s game, Damir Skomina of Slovenia. Los Blancos won 3-2 on that occasion in September 2012, despite going behind twice, and similar result would earn Zinedine Zidane\u2019s side a place in the final following last week\u2019s stalemate at the Etihad. Edin Dzeko and Aleksandar Kolarov had put City ahead but Marcelo and Benzema pulled Madrid level before Ronaldo won the game in injury-time . Skomina, who became an international referee in 2003, was in charge for Manchester City\u2019s 2-1 home defeat by Juventus earlier in the season.",
+  "webTitle": "Cristiano Ronaldo completes Monday training session with Real Madrid",
+  "webPublicationDate": "2016-05-02T13:32:46Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/02/cristiano-ronaldo-real-madrid-training-manchester-city-champions-league",
+  "keyword": [
+    {
+      "webTitle": "Cristiano Ronaldo",
+      "id": "football/ronaldo",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Real Madrid",
+      "id": "football/realmadrid",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Manchester City",
+      "id": "football/manchestercity",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Champions League",
+      "id": "football/championsleague",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "football/2016/may/02/cristiano-ronaldo-real-madrid-training-manchester-city-champions-league"
+}

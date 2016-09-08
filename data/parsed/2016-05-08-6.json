@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/08/stephen-curry-injury-latest-golden-state-warriors-nba",
+  "id": "2016-05-08-6",
+  "sectionId": "sport",
+  "body": "The Golden State Warriors went down to a heavy loss to the Portland Trail Blazers in their playoff series on Saturday night but it looks increasingly unlikely that their NBA MVP Steph Curry will be returning to the team for Game 4. Curry has been out since the series against the Houston Rockets with a knee injury, and has returned to light practice sessions but Warriors coach Steve Kerr says the point guard is unlikely to play on Monday night.\u00a0\u201cI would just say he\u2019s doubtful for tomorrow but slowly and surely making progress,\u201d Kerr said.   Related: Damian Lillard's 40-point game leads Trail Blazers past Warriors    The Warriors lead the series against the Trail Blazers 2-1 but have been pushed harder than many expected. However, Kerr said Curry\u2019s return would be down to his physical condition rather than the team\u2019s needs.\u00a0 \u201cThe trainers would have to tell me he\u2019s good to go,\u201d Kerr said. \u201cSteph would have to say he\u2019s good to go. And then we would have to figure out a plan from there. \u201cYou trust the medical staff in terms of, \u2018Is there potential for more damage\u2019? Then you trust the player with how he\u2019s feeling. Steph has been, even when he\u2019s lobbied like in the Houston series when he hurt his ankle, he would lobby and then admit, \u2018No, it\u2019s probably not right.\u2019 I know I\u2019d get a truthful answer from Steph. He\u2019s not going to try to be a hero, and we\u2019ll make the reasonable decision based on all the information.\u201d Curry averaged 30.1 points per game in the regular season but appeared in only two playoff games before his injury struck.",
+  "webTitle": "Stephen Curry doubtful for Warriors return in Game 4, says Steve Kerr",
+  "webPublicationDate": "2016-05-08T22:21:20Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/08/stephen-curry-injury-latest-golden-state-warriors-nba",
+  "keyword": [
+    {
+      "webTitle": "Stephen Curry",
+      "id": "sport/stephen-curry",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Golden State Warriors",
+      "id": "sport/golden-state-warriors",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Portland Trail Blazers",
+      "id": "sport/portland-trail-blazers",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "NBA",
+      "id": "sport/nba",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "US sports",
+      "id": "sport/us-sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "sport/2016/may/08/stephen-curry-injury-latest-golden-state-warriors-nba"
+}

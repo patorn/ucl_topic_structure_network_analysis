@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/26/football-fa-cup-quarter-final-replays-dropped",
+  "id": "2016-05-26-100",
+  "sectionId": "football",
+  "body": "FA Cup replays will be dropped for the quarter-finals next season after plans for the competition were approved on Thursday. Under the new rules eight clubs will battle it out over one weekend with each tie to be played to a finish on the day with extra-time and penalties to decide a winner. The initiative is being seen as part of the FA\u2019s commitment to ease the congested fixture schedule and help the England team. The FA chief executive, Martin Glenn, said: \u201cThe Emirates FA Cup remains at the heart of English football and this change adds to the excitement of the competition and will benefit the wider game in general. \u201cIn a demanding calendar and with increased pressures on fans it is important we move with the times and consider new innovations such as last week\u2019s successful Non-league finals day which saw 50,000 fans at Wembley for the Vase and Trophy. \u201cWhile fully respecting tradition and history, this new development will help the Cup retain its status as a much-loved and world-renowned competition.\u201d",
+  "webTitle": "FA Cup goes to sudden death format for quarter-finals",
+  "webPublicationDate": "2016-05-26T17:33:16Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/26/football-fa-cup-quarter-final-replays-dropped",
+  "keyword": [
+    {
+      "webTitle": "FA Cup",
+      "id": "football/fa-cup",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Mark Dobson",
+      "id": "profile/mark-dobson"
+    }
+  ],
+  "guardianId": "football/2016/may/26/football-fa-cup-quarter-final-replays-dropped"
+}

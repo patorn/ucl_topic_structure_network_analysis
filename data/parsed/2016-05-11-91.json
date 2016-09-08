@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/science/2016/may/11/ancient-egyptian-coffin-found-to-hold-youngest-known-mummified-foetus",
+  "id": "2016-05-11-91",
+  "sectionId": "science",
+  "body": "A miniature coffin from ancient Egypt that was thought to contain an individual\u2019s preserved organs has been found to hold the youngest known mummified human foetus to be embalmed and buried by the civilisation. The 44cm-long coffin fell into the hands of the Fitzwilliam Museum in Cambridge in 1907, after it was excavated from Giza in Egypt the same year. And while the cedar wood coffin from 600BC had deteriorated, the small, black bundle inside remained intact. Curators at the museum assumed the contents of the coffin were organs, traditionally removed and preserved during the embalming of bodies. But when x-ray imaging proved inconclusive, they turned to a more detailed micro-CT scan to examine the tiny bundle.     It was assumed that the small, black bundle inside the coffin was preserved organs. However micro-CT scans revealed a mummified foetus. Photograph: Jaymes Sinclair/the Fitzwilliam Museum, Image Library    The images revealed a tiny human body, wrapped in bandages sealed with black resin. The long bones of the legs and arms are visible, as are five digits on both hands and feet. The soft skull and pelvis appear to have collapsed, but despite the damage, curators could put the age of the foetus at no more than 18 weeks gestation. The scan of the arms shows them crossed over the foetus\u2019s chest, an attention to detail that, along with the intricacy and decoration of the coffin, indicate the importance placed on this burial.  The sex of the foetus is unclear, but curators suspect that it was mummified after being miscarried. No obvious abnormalities explained why it could not have been carried to term.      The arms of the foetus were crossed over its chest, indicating the importance placed on this burial. Photograph: the Fitzwilliam Museum, Cambridge    \u201cThis groundbreaking find educates us further still in our conception of just how precious the unborn child was in ancient Egyptian society,\u201d said Julie Dawson, head of conservation at the museum. \u201cThe care taken in the preparation of this burial clearly demonstrates the value placed on life even in the first weeks of its inception.\u201d The mummified foetus is not the first to be recovered from ancient Egypt. Two small foetuses, mummified and placed in separate coffins, were removed from Tutankhamun\u2019s tomb. Both were substantially older than the Fitzwilliam foetus, at 25 and 37 weeks into gestation.  The little coffin and its contents are on display as part of the museum\u2019s current exhibition, Death on the Nile: uncovering the afterlife of ancient Egypt.",
+  "webTitle": "Ancient Egyptian coffin found to hold youngest known mummified foetus",
+  "webPublicationDate": "2016-05-11T17:52:06Z",
+  "webUrl": "https://www.theguardian.com/science/2016/may/11/ancient-egyptian-coffin-found-to-hold-youngest-known-mummified-foetus",
+  "keyword": [
+    {
+      "webTitle": "Egyptology",
+      "id": "science/egyptology",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Archaeology",
+      "id": "science/archaeology",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Museums",
+      "id": "culture/museums",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ian Sample",
+      "id": "profile/iansample"
+    }
+  ],
+  "guardianId": "science/2016/may/11/ancient-egyptian-coffin-found-to-hold-youngest-known-mummified-foetus"
+}

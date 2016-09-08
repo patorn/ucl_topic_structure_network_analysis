@@ -1,0 +1,106 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/10/eu-referendum-top-economic-thinktank-warns-of-post-brexit-shocks",
+  "id": "2016-05-10-132",
+  "sectionId": "business",
+  "body": "The pound would plunge 20% immediately after a Brexit vote in June, according to a leading economic thinktank. The National Institute of Economic and Social Research (NIESR) has also forecast that prices will soar and Britain\u2019s growth rate will be 1% lower next year if there is a vote to leave the EU. The thinktank said: \u201cInflation would jump dramatically as sterling depreciates, investment would plummet and consumer spending would be hit by lower real incomes.\u201d  The loss to average UK households could be as much as \u00a32,000 over the longer term in the institute\u2019s worst-case scenario, which involves a loss of preferential trade links with the EU and a fall in productivity linked to declines in business investment.   Related: Brexit 'unlikely to mean deep migration cuts but may lead to 2p tax increase'    \u201cThe longer term impact of leaving the EU could reduce GDP by anything between 1.5% and 3.7% by 2030 depending on the subsequent relationship between the UK and the EU, as well as the rest of the world.  \u201cBut in all possible scenarios, our simulation exercises show a substantial loss of export trade.\u201d  Under the worst outcome, the fall in demand for UK goods and services leads to an almost 10% decline in wages by 2030 relative to remaining in the EU. NIESR, which is widely seen as Britain\u2019s longest-established independent research institute, also argued it would be \u201cextremely difficult\u201d to cut immigration sharply should the UK leave the EU. However, in a separate report, a group of leading economists took an opposing view to NIESR on trade, arguing that free trade with the rest of the world would flourish should the UK leave the EU. The Economists for Brexit argued that outside the EU, the UK would no longer be tied into the protectionist trade agreement that EU membership amounts to. Growth and productivity would rise, and consumers would benefit from a fall in prices. One of the reports\u2019 authors, Prof Patrick Minford, a former economics adviser to Lady Thatcher and professor of economics at Cardiff University, dismissed George Osborne\u2019s claim that Brexit would damage trade and the UK economy as \u201ca load of complete nonsense\u201d. In a scathing review of the Treasury\u2019s Brexit analysis, he added: \u201cMr Osborne is very proud of it. It\u2019s dishonest and condescending. It treats us like fools and aims to terrify us. There\u2019s absolutely no reason to believe any of the stuff in the Treasury report. It\u2019s completely riddled and raddled with basic problems of economic logic.\u201d     Professor Patrick Minford. Photograph: Jane Bown for the Guardian    Minford said key figures including President Barack Obama and the Bank of England governor, Mark Carney, were part of the \u201cestablishment view\u201d that remaining in the EU would be better for the UK. He said the view was partly driven by a fear of change. \u201cThere is a tendency to favour the status quo. This is a disruptive change, free trade is disruptive. I think there is a natural bias among government bodies and international bodies to favour the status quo over disruption. Disruption means change and it could mean change to their own positions. It\u2019s what you\u2019d expect.\u201d Minford said the US was opposed to Brexit because \u201cthey like to have their UK dog in the fight\u201d. The chancellor claims the government would lose \u00a336bn in net tax receipts in the event of Brexit, equivalent to 8p on the basic rate of income tax or 7p on VAT. He said each UK household would be poorer to the tune of \u00a34,300 a year. The Treasury also estimated that under a World Trade Organisation model, Britain\u2019s GDP would decline by 7.5%. The Economists for Brexit reject this, arguing that leaving the EU would improve GDP by 4%. The group of eight economists have also calculated that consumers would benefit from an 8% fall in prices. They estimate that over the longer term, the pound would fall in value by about 8%, which they describe as a positive change. A weaker pound makes UK goods cheaper abroad but imports more expensive.   Related: Business support for EU membership has fallen in run-up to vote    Minford conceded that market volatility would likely follow a vote to leave the EU, but said: \u201cThis economy can take it. It has a lot of resilience.\u201d He added that the UK economy would look different following a possible Brexit, with a quickening decline in manufacturing and an even greater reliance on the services sector, which already accounts for about three-quarters of the UK economy. \u201cManufacturing has contracted from 30% of GDP in 1970 to 10% or so today. That\u2019s the long-run trend, it\u2019s contracting anyway. Hi-tech manufacturing, which is really like services, will not disappear. \u201cThat is the future of manufacturing in the UK. What\u2019s going on in this model is that the unskilled labour-intensive manufacturing is going to contract. That\u2019s a long-run trend and [Brexit] will hasten it.\u201d",
+  "webTitle": "EU referendum: top economic thinktank warns of post-Brexit shocks",
+  "webPublicationDate": "2016-05-10T15:15:09Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/10/eu-referendum-top-economic-thinktank-warns-of-post-brexit-shocks",
+  "keyword": [
+    {
+      "webTitle": "Sterling",
+      "id": "business/sterling",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economic growth (GDP)",
+      "id": "business/economicgrowth",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Economic policy",
+      "id": "politics/economy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Tax and spending",
+      "id": "politics/taxandspending",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "George Osborne",
+      "id": "politics/georgeosborne",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Economic recovery",
+      "id": "business/economic-recovery",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Inflation",
+      "id": "business/inflation",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Thinktanks",
+      "id": "politics/thinktanks",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Currencies",
+      "id": "business/currencies",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Phillip Inman",
+      "id": "profile/phillipinman"
+    },
+    {
+      "webTitle": "Angela Monaghan",
+      "id": "profile/angela-monaghan"
+    }
+  ],
+  "guardianId": "business/2016/may/10/eu-referendum-top-economic-thinktank-warns-of-post-brexit-shocks"
+}

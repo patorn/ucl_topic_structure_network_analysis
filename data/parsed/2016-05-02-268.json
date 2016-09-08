@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/02/report-australian-man-arrested-in-lebanon-on-suspicion-of-belonging-to-terrorist-group",
+  "id": "2016-05-02-268",
+  "sectionId": "world",
+  "body": "Embassy staff in Beirut are seeking to confirm reports an Australian man was arrested on Sunday on suspicion of belonging to a terrorist group. Voix du Liban named a man on Sunday that it said was arrested after a firefight with army intelligence in Dam wal Farz, a neighbourhood of Tripoli in the north. The man is a dual Australian-Syrian national, the ABC reported. The Department of Foreign Affairs and Trade said it was looking into the reports. A woman also suspected of terrorism links is believed to be still at large, Lebanese media said.   Related: 'Nobody wants to stay in Lebanon. It\u2019s a miserable life'    The region around Tripoli is considered a hub for jihadist activity in the country and dozens of Lebanese troops have been killed or kidnapped by extremist groups. Northern Lebanon, and Lebanon\u2019s border areas with Syria, are listed as do not travel destinations in Australia\u2019s travel advice. Raids by police and the army and clashes between militant groups in the area have been frequent in the past decade.",
+  "webTitle": "Australian man arrested in Lebanon on suspicion of belonging to terrorist group, says report",
+  "webPublicationDate": "2016-05-02T01:46:37Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/02/report-australian-man-arrested-in-lebanon-on-suspicion-of-belonging-to-terrorist-group",
+  "keyword": [
+    {
+      "webTitle": "Lebanon",
+      "id": "world/lebanon",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Australian security and counter-terrorism",
+      "id": "australia-news/australian-security-and-counter-terrorism",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Middle East and North Africa",
+      "id": "world/middleeast",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Michael Safi",
+      "id": "profile/michael-safi"
+    }
+  ],
+  "guardianId": "world/2016/may/02/report-australian-man-arrested-in-lebanon-on-suspicion-of-belonging-to-terrorist-group"
+}

@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/03/stalled-rollercoaster-causes-panic-at-alton-towers",
+  "id": "2016-05-03-359",
+  "sectionId": "uk-news",
+  "body": "Managers at Alton Towers were left facing questions about another mishap at the theme park after riders on a new rollercoaster at the theme park were stuck upside down for half an hour on Monday. Twenty-eight people were left hanging upside down after the Air Galactica ride ground to a halt at the top of the first loop at around 2pm. A member of staff had to climb up to them to provide reassurances after the rollercoaster, which opened in March, broke down during a heavy rain shower. Staff eventually managed to restart the rollercoaster and bring the riders back to the ground. Managers at Alton Towers told visitors the ride had been \u201cflooded\u201d and it is now closed. \u201cWe were standing underneath it when the ride stopped and all the passengers were screaming and crying, they sounded terrified,\u201d said Kate Smythe, who was at the scene with her family. \u201cWe were told the ride had flooded and I wonder if the electrics shorted in the rain.\u201d The 20-metre high ride was formally known as Air and has been refurbished for this season.  Separately, the owner of Alton Towers is facing a multimillion-pound fine after it admitted breaking health and safety laws over the rollercoaster crash that seriously injured five passengers last year. Two people had their legs amputated after the collision on the Smiler ride in June, while three others suffered life-changing injuries. The five most seriously injured victims appeared in court in Newcastle-under-Lyme, Staffordshire last month as the theme park\u2019s owner, Merlin Entertainments, pleaded guilty to breaching health and safety rules. District judge John McGarva said the firm faces a \u201cvery large fine\u201d when it next appears at Stafford crown court on 20 May, with the figure possibly reaching seven figures. The guilty plea is believed to make Alton Towers the first major UK theme park whose owners have admitted a criminal breach of health and safety laws.",
+  "webTitle": "Stalled rollercoaster causes panic at Alton Towers",
+  "webPublicationDate": "2016-05-03T00:24:52Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/03/stalled-rollercoaster-causes-panic-at-alton-towers",
+  "keyword": [
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Merlin Entertainments",
+      "id": "business/merlin-entertainments",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Theme parks",
+      "id": "travel/theme-parks",
+      "sectionId": "travel",
+      "sectionName": "Travel"
+    },
+    {
+      "webTitle": "Travel & leisure",
+      "id": "business/travelleisure",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ben Quinn",
+      "id": "profile/benquinn"
+    }
+  ],
+  "guardianId": "business/2016/may/03/stalled-rollercoaster-causes-panic-at-alton-towers"
+}

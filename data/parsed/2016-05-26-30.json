@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/26/methyl-ethel-oh-inhuman-spectacle-review",
+  "id": "2016-05-26-30",
+  "sectionId": "music",
+  "body": "All the hallmarks of a cosmic psychedelic eccentric are stamped on the surface of Jake Webb\u2019s career: hailing from Tame Impala\u2019s birthplace, Perth, the former bedroom recorder possesses the knackered aesthetic of a 70s rock star, his lyrics like curious muddle-headed meanderings and his music singed with a sonic quality that alludes to acid-casualty excess. However, the songs on Oh Inhuman Spectacle, his trio\u2019s debut album, keep one foot rooted in reality \u2013 perhaps to its detriment. Its opening handful of tracks are robust \u2013 the doomish disco of Id\u00e9e Fixe, the crepuscular melancholy of Shadowboxing, the Johnny Marr guitars that inhabit Rogues \u2013 but soon the record wears out. Although it assimilates the past decade of alt-pop (Animal Collective, Connan Mockasin, Ariel Pink) there\u2019s a wiry quality to Webb\u2019s voice which recalls Turin Brakes\u2019 Olly Knights. Much of the music here is less unearthly obscurity and more relatively straightforward indie, dressed up in a rainbow poncho.",
+  "webTitle": "Methyl Ethel: Oh Inhuman Spectacle review \u2013 regular indie in a rainbow poncho",
+  "webPublicationDate": "2016-05-26T21:15:13Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/26/methyl-ethel-oh-inhuman-spectacle-review",
+  "keyword": [
+    {
+      "webTitle": "Indie",
+      "id": "music/indie",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Pop and rock",
+      "id": "music/popandrock",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Psychedelia",
+      "id": "music/psychedelia",
+      "sectionId": "music",
+      "sectionName": "Music"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Harriet Gibsone",
+      "id": "profile/harriet-gibsone"
+    }
+  ],
+  "guardianId": "music/2016/may/26/methyl-ethel-oh-inhuman-spectacle-review"
+}

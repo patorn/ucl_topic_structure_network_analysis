@@ -1,0 +1,102 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/17/video-game-industry-changing-virtual-studios",
+  "id": "2016-05-17-295",
+  "sectionId": "technology",
+  "body": "For 30 years the games industry worked in a certain way. People rented offices and set up studios to create games; they employed staff to work in-house, then got those projects funded and distributed by publishers. If you wanted to opt out of that setup, you worked alone, or in a small team, as an indie developer \u2013 you operated in a totally separate stratosphere; the system neatly self-segregated. Meanwhile, in the background, the business worked to the seven-year cycles dictated by the lifespan of the major consoles. It was a machine of discreet components.  But that machine is rusting and falling apart. Something new is coming.  It started 10 years ago. The dawn of the broadband internet era gradually allowed developers to distribute their games digitally, rather than as boxed copies, immediately cutting manufacturing and distribution costs out of their budgets. The arrival of the Apple iPhone created a stable marketplace for the previously chaotic mobile gaming sector, the release of new development applications like Unity, GameMaker and Twine meant that people didn\u2019t need to know how to code to make games, or spend months \u2013 even years \u2013 developing their own graphics engines. Big companies started to take notice; the console manufacturers opened online stores and courted indie devs to produce weird titles like World of Goo and Braid, both out in 2008. Then Steam arrived and blew open the PC games market. The result is an industry that works in a radically different way than it did a decade ago. And we\u2019re seeing this at every level. Take console manufacturing for a start. Until this generation, console makers stuck with one architecture for the lifespan of their current machine, maybe altering the form-factor or HDD size, or adding new peripherals, but rarely tinkering with the processing capacity. Now, both Sony and Microsoft are likely to announce mid-lifecycle upgrades to their machines. The rumoured PlayStation 4 Neo should add CPU and GPU power to cope with virtual reality and 4K screens; Xbox One is likely to evolve closer to the PC so that it can run the Universal Windows applications that may unite computer and console gamers. The seven-year lifecycle may be over.     Back when games came in solid, blocky packets. Photograph: Denis Thorpe for the Guardian    \u201cI think this is a symptom of Kurzweil\u2019s law of accelerating returns which we\u2019ve seen having an impact in just about every part of society and every aspect of technology the world over,\u201d says indie developer Shahid Ahmad, who was until recently director of strategic content at Sony Computer Entertainment Europe. \u201cLook at the pace of change in mobile phones over the past five or six years, it\u2019s been crazy. There\u2019s a fear that there will never be another console cycle that lasts as long as the previous generations.\u201d What he sees in the Xbox One and PlayStation 4 are two machines that have converged on the same type of architecture: they are both effectively compact PCs, built around essentially off-the-shelf processors and graphics cards. This has happened so that the platforms can be upgraded more quickly, responding to technological advances, without immediately making earlier versions of the architecture obsolete. \u201cIt\u2019s what Apple calls a tick-tock cycle,\u201d he says. \u201cYou launch a product, then you came out with a .5 version.\u201d  Piers Harding-Rolls, head of games at IHS Digital agrees. \u201cIt reveals that consoles are becoming more aligned to other consumer electronics categories,\u201d he says. \u201cThe standardised components that are now being used to go into consoles means that upgrades are more numerous and easier to implement. The challenge for console manufacturers is adopting a more iterative lifecycle without fragmenting the addressable audience.\u201d Consoles then, are now glorified smartphones, built to be adaptable on a two- rather than seven-year cycle, while keeping legacy users in mind.     A man stands over his new Xbox One console. The big console launch night might become a thing of the past in future. Photograph: Nam Y. Huh/AP    The structure of the games themselves is also radically changing. For the last five years we\u2019ve seen the rise of downloadable content and in-game microtransactions, designed to extend the lifespan of major new console releases. When players buy a new title like Call of Duty or Fallout, they can also pay out for a \u201cseason pass\u201d that will buy them all subsequent map packs and content additions, keeping them engaged in the product. But that model still relies on consumers paying out \u00a350 in advance for the original game, and not enough people are willing to do that. So the industry is toying with new models. One involves releasing a limited version of the game at a cheaper price point and allowing purchasers to pay extra for the features they want, or to simply download new levels. The latest Hitman and Street Fighter V both employ variations on this method, and we\u2019ve even seen Microsoft experimenting with a free-to-play variation of its console hit Forza Motorsports, designed specifically for the PC market.  \u201cTriple A games continue to get more expensive to produce, but the audience for those experiences is not growing, so they\u2019re becoming riskier,\u201d says industry analyst Nicholas Lovell. \u201cOne powerful way of reducing that risk is having an audience that you know will buy your game. When Hitman goes episodic, it is attempting to say \u2018once we have found a customer, which is expensive, let\u2019s keep them, and keep offering them, directly, the thing we hope they want to buy\u2019.\u201d    Physical retail is definitely on the way out  Nicholas Lovell     Right now, says Lovell, publishers like Capcom and Square Enix are looking to take the power back from retailers; to insert the store into the games themselves. \u201cThe trick for publishers is to build direct relationships with gamers that reduce the risk for development, that make it easy to grab new customers and that allow the gamers who love the game the most to spend lots of money on things they really value. It will be some combination of free-to-play, plus DLC, plus microtransactions. But physical retail is definitely on the way out.\u201d Disruption is also taking place in the smartphone sector. For several years, free-to-play supported by microtransactions or intrusive ads was the accepted model, but we\u2019re seeing new variations. In 2014, the hit Frogger clone Crossy Road popularised a new opt-in ad model, where players could chose to watch video adverts in order to access new content. At the GDC event in 2015, developer Hipster Whale announced it had made \u00a33m through this model. Rovio is using exactly the same system with Angry Birds Go.  \u201cIt seems to be changing players perceptions of ads,\u201d says Oscar Clark, a mobile industry veteran, now at Unity. \u201cThey\u2019re no longer barriers but instead a way to get playing rewards for the game I\u2019m currently playing. The focus is not grind ... its on the expectation of future value. According to [mobile developer] Seriously, their use of this ad format has not only increased revenues but actually increased session length by 250%! Players stay playing longer. Much longer.\u201d Clark also points to Amazon Underground as an interesting indicator. This app provides usually premium priced mobile games to users for free, and then pays royalties to developers based on how long people stay on their titles. \u201cThis signposts an alternative for \u2018paid\u2019 content or ad-funded services,\u201d he says. In the new super fluid games industry, developers are also radically changing the way they operate. Over the past three years we\u2019ve seen the closure of big expensive studios like Lionhead, Evolution, Maxis and Irrational Games, and it\u2019s partly because the whole idea of cramming lots of staff into the same building and employing them all to work on two-year projects is becoming untenable for all but the biggest, safest franchises.      A detail from tie-in game Disney Crossy Road. Photograph: PR    Instead, we\u2019re seeing a new era of virtual studios, with small teams working from home, augmented by part-time contract staff at key moments in the development cycle. \u201cRocket Lolly Games currently has a team of around 15 people, most of whom are involved in production,\u201d says industry veteran Ella Romanos who had to close her more traditional studio Remode, two years ago. \u201cEveryone on the team is contracted and works remotely. Most are freelancers but some are small companies too, coming in as needed to deliver the work required. We communicate primarily using Slack and Skype \u2013 with weekly calls and daily conversations, and meet up occasionally in person. It doesn\u2019t make sense to build up the overheads, significant burn rate and management time required to run [an office]\u201d. Helen Carmichael and her husband Jake Birkett run Grey Alien Games from their home in Bridport, Dorset, but they work with an international team. \u201cFor our current game, Shadowhand, our art team is based in Ukraine, our musician is in The Netherlands, and we are also working with Power Up Audio based in Vancouver, Canada. We communicate primarily by email, which is easier due to different time zones, and we rely heavily on the internet and on cloud storage such as Dropbox and Google Drive to share files.\u201d This way of working isn\u2019t just about keeping costs low, it\u2019s about allowing a more diverse range of people into game development. The traditional model, where hundreds of staff are employed in-house on huge projects, is massively skewed towards young (mostly male) staff who are willing and able to spend up to seven days a week in an office. Jake and Helen couldn\u2019t work like that. \u201cWe have enormous flexibility with our working hours and arrangements, and don\u2019t lose time commuting to work,\u201d says Helen. \u201cOur youngest son is deaf and has needed a large amount of medical treatment and support this year. We really needed to be be there for him. This would have been even more challenging if we were working in traditional roles.\u201d     Loving the alien \u2026 Helen Carmichael and Jake Birkett, who run Grey Alien Games from their home in Bridport, Dorset. Photograph: Alan Dewey    We\u2019re also seeing the rise of shared workspaces and regional hubs, where larger office spaces are shared between various developers. Arch Creatives is a renovated Victorian railway arch underneath Leamington Spa train station that currently houses three development teams. Co-founder Ollie Clark says he and other local games industry veterans wanted to create somewhere affordable where startups could work, meet and play, without the vast overheads of renting formal office space. Desks are rented out at \u00a3150 per month and no one is tied into a contract.  \u201cIn an industry that finds itself on the cusp of huge changes literally every six to 12 months, adaptability is key,\u201d says Clark. \u201cIt\u2019s also important to have fun whilst making games as it shows in the work; a place like a hub lends itself to that. Being more informal, you never really know who or what is going to come through the door on a particular day and what adventures that will lead to. Also, over the last decade the demographic makeup of the industry is far more diverse than it used to be. A hub allows its members to take advantage of the flexibility they offer, meaning that work and life can fit together more easily.\u201d    There has been talk of an indie apocalypse, with small studios struggling to fund their work, then struggling to sell it    Game developer James Parker co-manages the Bristol Games Hub in Stokes Croft with Auroch Digital. He agrees that flexibility is one of the main attractions for the 50 or so staff working in their building on a huge variety of projects. \u201cWhile the games market is huge, it\u2019s also very, very uncertain,\u201d he says. \u201cCompanies and games rise and fall all the time but in The Hub, that team can come together for a short period of time, the individuals can potentially supplement their indie projects with paid freelance work, and if it all goes well then they have the room to expand further or go their separate ways without the burden of a three or five year lease. The result is that we\u2019re building a community of people that is much more resilient in the face of uncertainty in the wider industry.\u201d There are now dozens of other places like this: Playhubs in London, Glitch City in Los Angeles, the Dutch Game Garden in Utrecht which straddles the divide between university incubation programme and shared office space. At all of these, ad-hoc collaboration is another important factor. Hub users often end up chatting about new projects then working on them together. \u201cThe forthcoming digital card game, Battle for Sector 219, is a collaboration between three hub residents,\u201d says Parker. \u201cNils Hellberg\u2019s Large Visible Machine is leading the project and publishing the game, with Alex Hodson (GamesMoby) responsible for the development, and Chris Raadjes (Auroch Digital) providing the UI designs.\u201d  In some ways, the vast changes that have affected the games industry over the last few years have created equally vast problems. The move to a digital marketplace where thousands of developers are able to sell their games in online app stores has created a huge issue with discoverability. How do you build an audience when every weeks sees hundreds of new titles hit Steam, the Apple App Store and Android? Last year, this question led to talk of an indie apocalypse \u2013 with small studios struggling to fund their work, then struggling to sell it.  But in a lot of places there are supportive communities growing up to counter the financial uncertainty. Hubs are one part of that, not only providing cheap workspace but also attracting interest (and maybe even investment) to an area, as well as providing studios with information about, and access to, funding channels.      The Arch creative studio in Leamington Spa. Photograph: Aron Durkin    \u201cThere has been a maturation of the industry,\u201d says Hannah Nicklin a game designer and academic who is also working as a producer on Forest of Sleep, a new game from micro-studio Twisted Tree Games. \u201cNot only are there tools to take out the grunt work, the infrastructure of the industry itself is changing as governments have recognised games \u2013 there\u2019s more support, you can get grants, you can take your ideas to things like the UK Games Fund. There\u2019s also a larger shift in our global economy toward different working practices. Remote working is much easier now that the internet tends to actually work. At Twisted Tree games, we have people in Norway, Finland and Spain, and Google Hangout works.\u201d Nicklin has also noticed that successful studios are now looking to invest back into the development community. Failbetter Games recently announced a range of grants for developers making narrative games, while the Oxford-based studio Mode 7 is helping to publish the hugely promising Tokyo 42 by SMAC games. \u201cWe were looking for ways to expand beyond just working on a single project for two or three years and pinning all of our hopes on that,\u201d says Paul Taylor of Mode 7. \u201cUnder that model, even if you plan well, you\u2019re basically two consecutive failures away from the collapse of your business. With that in mind I attended one of Develop\u2019s \u2018Interface\u2019 events, which is kind of publisher speed-dating: teams have a short time to pitch their games and have a chat with those who are looking to fund and publish them. I met the SMAC guys and it was clear straight away that they were working on something incredible. \u201cDevelopers increasingly don\u2019t want to sign with the bigger publishers because they know that they can get a better commercial deal and more relevant personal attention from an experienced indie team. Devs are looking for these opportunities because they understand that it takes a huge amount of effort to make your game stand out from the crowd, and they may not have the experience or inclination to do that personally. Having another developer who you respect and trust invested in the success of your own project is going to free you up to make the game you need to make.\u201d This is the games industry in 2016. Not the highly stratified, hierarchical model of a decade ago, but a largely digital, incredibly fluid creative community, in which talented developers switch seamlessly between roles, studios and projects. It\u2019s not a utopia; discoverability remains an issue and job security is almost non-existent in an era of small teams working with short-term contracts.  But the uncertainty and complexity has brought with it a new approach to development, with micro-publishers, shared spaces, regional funds and improvised collaborations. This is an industry in which the big publisher-owned studios still exist of course, but where some of the most intriguing and disruptive work is coming from remote groups of teams, often comprising staff who wouldn\u2019t have been making games in the old model. There was no space for them. There is now. However difficult things are, that doesn\u2019t sound like an apocalypse.",
+  "webTitle": "The digital apocalypse: how the games industry is rising again",
+  "webPublicationDate": "2016-05-17T07:00:36Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/17/video-game-industry-changing-virtual-studios",
+  "keyword": [
+    {
+      "webTitle": "Games",
+      "id": "technology/games",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Game culture",
+      "id": "technology/gameculture",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Indie games",
+      "id": "technology/indiegames",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "PC",
+      "id": "technology/pc",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Smartphones",
+      "id": "technology/smartphones",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "iOS",
+      "id": "technology/ios",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Android",
+      "id": "technology/android",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Mobile",
+      "id": "technology/mobile",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Sony",
+      "id": "technology/sony",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "PlayStation",
+      "id": "technology/playstation",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Xbox",
+      "id": "technology/xbox",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Microsoft",
+      "id": "technology/microsoft",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Mobile phones",
+      "id": "technology/mobilephones",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Keith Stuart",
+      "id": "profile/keithstuart"
+    }
+  ],
+  "guardianId": "technology/2016/may/17/video-game-industry-changing-virtual-studios"
+}

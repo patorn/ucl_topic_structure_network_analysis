@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/24/fca-warns-uk-banks-money-laundering-rules-close-accounts-excuse",
+  "id": "2016-05-24-92",
+  "sectionId": "business",
+  "body": "UK banks have been told by the City regulator they should not use anti-money laundering rules as an excuse to close accounts for charities, politicians and other clients just because they perceive them as risky. Publishing an assessment of how banks have responded to rules intended to hold them accountable for money laundering offences, the Financial Conduct Authority said: \u201cIt is important that banks retain flexibility in setting up appropriate systems and controls to ensure they comply with legislation as well as in making commercial decisions on whether to provide banking facilities that are consistent with their tolerance of risk.  \u201cHowever, banks should not use AML [anti-money laundering] as an excuse for closing accounts when they are closing them for other reasons.\u201d The FCA published a report which attempted to assess how banks had responded to the crackdown on money laundering, particularly after the penalties imposed on banks such as HSBC, which was fined \u00a31.2bn by US regulators in 2012 for offences related to its Mexican operations.  The report said two large UK banks closed about 1,000 personal accounts and 600 business or corporate accounts \u201cfor being, essentially, outside risk appetite\u201d.  It also highlighted how one bank had tripled the number of staff working on compliance while at the same time cutting accounts, having the effect of increasing the annual cost of compliance from \u00a360-\u00a370 a customer to more than \u00a3300 in less than two years. The situation has been highlighted on a number of occasions in recent years, notably with Barclays in 2013 when Olympian Mo Farah urged the bank not to end a relationship with the Dahabshiil money transfer business.  The FCA reminded banks that they were also subject to competition law which could be relevant when ending relationships. \u201cWe note that banks, like all firms, are subject to competition law, in particular the prohibitions on anticompetitive agreements and abuse of market power contained in the UK Competition Act 1998, and in the treaty on the functioning of the European Union. They should be mindful of these obligations when deciding to terminate existing relationships or decline new relationships,.\u201d It added: \u201cWe would emphasise that many of the client exits alluded to above result from a \u2018perfect storm\u2019 of multiple impacts, including higher capital requirements, higher costs for compliance resource, higher levels of sanctions, a perception of higher risk of sanctions, and specific US private legal cases, inter alia [among other things], which in many banks provided a suitable context for a strategic review.\u201d",
+  "webTitle": "FCA warns UK banks on using money laundering rules to close accounts",
+  "webPublicationDate": "2016-05-24T16:06:56Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/24/fca-warns-uk-banks-money-laundering-rules-close-accounts-excuse",
+  "keyword": [
+    {
+      "webTitle": "Banking",
+      "id": "business/banking",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Financial Conduct Authority",
+      "id": "business/financial-conduct-authority",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Regulators",
+      "id": "business/regulators",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jill Treanor",
+      "id": "profile/jilltreanor"
+    }
+  ],
+  "guardianId": "business/2016/may/24/fca-warns-uk-banks-money-laundering-rules-close-accounts-excuse"
+}

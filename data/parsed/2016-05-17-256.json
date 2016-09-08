@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/17/i-can-explain-porn-sites-screenshot-mike-webb-facebook",
+  "id": "2016-05-17-256",
+  "sectionId": "technology",
+  "body": "An American congressional candidate wants you to know that the porn tabs he had open in a screenshot posted to his Facebook page are absolutely nothing to be concerned about. Mike Webb, Republican candidate for Virginia\u2019s 8th district, posted to his Facebook page on Monday, discussing an odd phone call he had had with a staffing agency in Alexandria, Virginia (don\u2019t ask). Accompanying the post was an even odder screenshot:     Mike Webb\u2019s Facebook screenshot Photograph: Facebook    Those tabs in the top left-hand corner, in case you can\u2019t make them out, read \u201cLAYLA RIVERA TIGHT BO[OTY]\u201d and \u201cIVONE SEXY AMATEUR\u201d. A lesser congressional candidate might have hastily removed the images and apologised. Not Webb, however. Despite taking down the original post, shortly after he reposted it to his page alongside an explanation of where the images came from. The explanation is 2,000 words long. It does not make a huge amount of sense, but apparently blames the pornographic images on an experiment Webb was performing to see whether or not someone was using malware embedded on porn sites to infect electoral candidates with malware that would prevent them from filing their candidacy before the deadline. Maybe. It\u2019s honestly hard to parse. Webb writes, in part: \u201cCurious by nature, I wanted to test the suggestion that somehow, lurking out in the pornographic world there is some evil operator waiting for the one in a gazillion chance that a candidate for federal office would go to that particular website and thereby be infected with a virus that would cause his or her FEC [federal election commission] data file to crash the FECfile application each time that it was loaded on the day of the filing deadline, as well as impact other critical campaign systems. Well, the Geek Squad techs testified to me, after servicing thousands of computers at the Baileys Crossroads location that they had never seen any computer using their signature virus protection for the time period to acquire over 4,800 viruses, 300 of which would require re-installation of the operating system.\u201d On the plus side, however, he wants supporters to know that \u201cwhat does not kill you does make you stronger\u2026 Today, in just one day on Facebook, we grew in page likes by 25%\u201d, he writes. So perhaps Layla and Ivone helped a man achieve his dream. We\u2019ll find out in November.",
+  "webTitle": "I can explain porn sites on my screenshot, says politician \u2013 really, I can",
+  "webPublicationDate": "2016-05-17T09:33:49Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/17/i-can-explain-porn-sites-screenshot-mike-webb-facebook",
+  "keyword": [
+    {
+      "webTitle": "Facebook",
+      "id": "technology/facebook",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Social networking",
+      "id": "media/socialnetworking",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Pornography",
+      "id": "culture/pornography",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "US politics",
+      "id": "us-news/us-politics",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "HAL 90210",
+      "id": "profile/hal-90210"
+    }
+  ],
+  "guardianId": "technology/2016/may/17/i-can-explain-porn-sites-screenshot-mike-webb-facebook"
+}

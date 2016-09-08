@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/05/immune-signature-unique-to-ebola-fatalities-identified-by-scientists",
+  "id": "2016-05-05-98",
+  "sectionId": "world",
+  "body": "Scientists have identified a key feature in the human immune system that determines whether someone will live or die from Ebola. The breakthrough research brings hope that existing anti-cancer treatments could be used to treat the virus, which killed almost 12,000 in the recent epidemic in West Africa.  Led by Spanish scientist Cesar Mu\u00f1oz-Fontela at the Heinrich Pette Institute in Germany, researchers have discovered an immune signature unique to Ebola fatalities.    Related: Ebola treatment using antibody from survivor's blood passes first trial    A study of blood taken four days after the onset of symptoms in 157 patients in Conakry, Guinea, showed that a significantly high level of a protein known as CTLA-4 - which acts as a brake on the immune system response mounted by the body during an acute infection - indicated that a patient would not survive. The research, published in the journal Nature, found that Ebola survivors had much lower levels of CTLA-4 and generated an Ebola-specific T cell response.     Cesar Mu\u00f1oz Fontela in Guinea, testing Ebola samples in a high containment level 4 laboratory. Photograph: Public Health England    The data correlated with that of four Ebola patients who were medically evacuated to the US and treated in Emory University Hospital in Atlanta.    Related: From Ebola to Zika, tiny mobile lab gives real-time DNA data on outbreaks    \u201cThis is very exciting,\u201d said Miles Carroll, head of research at the National Infection Service at Public Health England, which supported the research and diagnostics set up by Mu\u00f1oz-Fontela during the outbreak. \u201cThe benefit of knowing what is wrong is you can look at ways of putting it right,\u201d he added. \u201cNot only do we know what the signature is which says who is going to die and who is going to survive, we know there are already drugs out that target CTLA-4 that are used to treat cancer,\u201d Carroll said.  Such drugs would have to be tested again on animals and then on Ebola patients to determine any detrimental side effects. But because they are already licensed, the process of developing a treatment would be shortened significantly. Mu\u00f1oz-Fontela\u2019s research was a huge challenge as the blood samples were initially shipped back to Germany for analysis. However, there were concerns about the quality of samples that had been in transit for up to three weeks. To avoid the long transportation time, Mu\u00f1oz-Fontela set up a research base in Guinea, using samples shipped within 24 hours of collection to the European Mobile Laboratory, which was operating at Donka Hospital in Conakry. Carroll says it is thanks to European Union funding that Mu\u00f1oz-Fontela was able to conduct his tests, as Guinea had \u201cnone of the high-tech facilities available to Ebola researchers at Emory\u201d.",
+  "webTitle": "Immune 'signature' unique to Ebola fatalities identified by scientists",
+  "webPublicationDate": "2016-05-05T17:13:04Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/05/immune-signature-unique-to-ebola-fatalities-identified-by-scientists",
+  "keyword": [
+    {
+      "webTitle": "Ebola",
+      "id": "world/ebola",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Global development",
+      "id": "global-development/global-development",
+      "sectionId": "global-development",
+      "sectionName": "Global development"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Lisa O'Carroll",
+      "id": "profile/lisaocarroll"
+    }
+  ],
+  "guardianId": "world/2016/may/05/immune-signature-unique-to-ebola-fatalities-identified-by-scientists"
+}

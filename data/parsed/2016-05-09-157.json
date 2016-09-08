@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/marketforceslive/2016/may/09/oil-slides-again-despite-canadian-fires-as-saudi-appoints-new-minister",
+  "id": "2016-05-09-157",
+  "sectionId": "business",
+  "body": "Oil prices have lost their early gains, hindered by renewed strength in the US dollar. Brent had climbed as high as $46.48 a barrel in the wake of the continuing Canadian wildfire in the country\u2019s oil sands region, which has hit more than a million barrels of daily production. New that Saudi Arabia had appointed a new oil minister  suggested to analysts that the kingdom wanted to continue focusing on keeping its market share rather than cutting production to hold up prices. Fawad Razaqzada, market analyst at City Index, said:  [The Canadian wildfire] is obviously a temporary factor so it won\u2019t have a long-lasting impact on prices. Both contracts eased off their highs by midday in London. [The departure of] Saudi\u2019s Ali al-Naimi as head of the country\u2019s oil ministry may be a reason why oil prices have failed to maintain their early advance. Al-Naimi\u2019s successor, Khalid al-Falih, the former head of the state-owned Aramco, is largely expected to follow the strategy of protecting the nation\u2019s market share. This has further reduced the likelihood of an oil-freeze deal with other large non-OPEC producers like Russia.   So Brent has now slipped 2% to $44.46 a barrel, with West Texas Intermediate - the US benchmark - is currently down 1.3% at $44.05. In terms of equities, Wall Street has opened higher, with the Dow Jones Industrial Average up 30 points or 0.17%. The FTSE 100 has edged up 12 points while Germany\u2019s Dax - lifted by better than expected factory order figures - had added 1.5%.",
+  "webTitle": "Oil slides again despite Canadian fires as Saudi appoints new minister",
+  "webPublicationDate": "2016-05-09T14:16:31Z",
+  "webUrl": "https://www.theguardian.com/business/marketforceslive/2016/may/09/oil-slides-again-despite-canadian-fires-as-saudi-appoints-new-minister",
+  "keyword": [
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Stock markets",
+      "id": "business/stock-markets",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Oil",
+      "id": "business/oil",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Nick Fletcher",
+      "id": "profile/nickfletcher"
+    }
+  ],
+  "guardianId": "business/marketforceslive/2016/may/09/oil-slides-again-despite-canadian-fires-as-saudi-appoints-new-minister"
+}

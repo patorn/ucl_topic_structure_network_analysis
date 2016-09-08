@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/01/uk-currency-devaluation-dangerous-game",
+  "id": "2016-05-01-153",
+  "sectionId": "business",
+  "body": "Ever since his first written evidence to the Treasury committee, the governor of the Bank of England, Mark Carney, has hinted that he understands the UK\u2019s real deficit problem. This is not the budget deficit, of which chancellor Osborne has made such a fetish, but the balance of payments deficit. Indeed, that distinguished former permanent secretary to the Treasury and cabinet secretary, Lord Turnbull, recently pointed out that debt owed to citizens of this country is not a problem \u2013 and that by not borrowing more for infrastructure at such low rates, Osborne is actually impoverishing future generations. He is, said Turnbull, \u201cplaying a dirty game\u201d. On the real deficit problem, it is obvious from his various pronouncements that Carney can, for a central bank governor, be quite relaxed about a fall \u2013 let us call it an \u201cadjustment\u201d \u2013 in the foreign exchange value of the currency if it is necessary to restore, or at least prevent a further deterioration, in Britain\u2019s competitiveness in international trade. Thus it emerged last week that the governor had written to Andrew Tyrie, the chairman of the Treasury committee, explaining that a 10% fall in the pound would boost economic growth by reducing the price of exports (or making exports more profitable) and encouraging companies and private individuals to buy more domestically manufactured goods. And the impact on inflation \u2013 which is already well below the official target \u2013 would hardly be sensational. But he distinguished between the effects of such a depreciation arising \u201cfor no underlying reason\u201d and a run on sterling that might result from a vote to leave the European Union \u2013 commonly known as \u201cBrexit\u201d. He explained: \u201cIf increased uncertainty were a key underlying cause of this depreciation, aggregate demand might be affected.\u201d Firms might postpone investment projects and households defer spending. Well, to judge from recent figures for gross domestic product in general and retail sales in particular, the economy may already be affected by concerns about the outcome of the referendum. These are deep waters, because our sensationally bad balance of payments position suggests that a major devaluation of the pound is needed anyway. I do not know whether Carney has read my good friend Sir Douglas Wass\u2019s magisterial work on the 1976 sterling crisis, Decline to Fall, but I assume he worries that a necessary devaluation could get completely out of hand \u2013 as happened in 1976, when the balance of payments position was not nearly as bad as it is now, although inflation certainly was. The Daily Telegraph columnist Roger Bootle, of Capital Economics, and the Labour donor John Mills recently produced a \u201cwork in progress\u201d pamphlet which argues that the kind of devaluation that might ensue from Brexit would be just what the economic doctor ordered anyway, whatever one\u2019s position on the Brexit debate. Bootle is deeply Eurosceptical, and Mills is of the Leave persuasion. Likewise, the economist Christopher Smallwood, who chaired a discussion of the pamphlet, thinks that for this reason a panic about Brexit could have unintended good consequences. All this comes with the proviso that the pound, unlike Hemingway\u2019s sun, does not also rise. For one of the problems with the fashion for a complete lack of exchange-rate management these days is that a necessary devaluation, as occurred in 2008-09, does not necessarily last. The result is that there is too much uncertainty for business to make long-term investment decisions. I seem to be one of the few who contend that the management of the world economy would benefit from international coordination to limit wild swings in the exchange rates that have such an influence on investment decisions. Indeed, when I wrote about this some years ago, I received a letter from that great former chairman of the Federal Reserve, Paul Volcker, saying that he and I appeared to be the only people in the world who approved of \u201ctarget zones\u201d for managing the gyrations of exchange rates. It is indeed unfortunate that, given our freedom from the fixed exchange-rate regime of the eurozone \u2013 one of the best British macroeconomic policy decisions of recent decades \u2013 our policymakers have made such a mess of exchange-rate management. Talking of which, I was much struck at a recent Llewellyn Consulting seminar by a presentation on Brexit from John Nug\u00e9e, who, when at the Bank of England, spent some time at the coal face of foreign exchange reserve management. Nug\u00e9e said we were in the world of \u201csurvival analysis\u201d, recalling that great Bank governor Eddie George\u2019s wise dictum: \u201cIt is never worth risking what you cannot afford to lose in order to win what you do not need to have.\u201d Personally, I think the calling of the referendum signified a colossal failure of leadership by David Cameron. It is suggested he was hoping that being in coalition with the Liberals would mean never having to follow through on his pledge. But because his promise to hold one saw off the threat from Ukip, it guaranteed the coalition would not be renewed in 2015 \u2013 and therefore meant he was still on the hook. And if he thought the referendum would heal the huge rift over Europe in the Conservative party, the inside view is that he has another think coming.",
+  "webTitle": "Devaluation is a dangerous game. But Britain may have to try it",
+  "webPublicationDate": "2016-05-01T08:00:49Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/01/uk-currency-devaluation-dangerous-game",
+  "keyword": [
+    {
+      "webTitle": "Sterling",
+      "id": "business/sterling",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Currencies",
+      "id": "business/currencies",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Bank of England",
+      "id": "business/bankofenglandgovernor",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "William Keegan",
+      "id": "profile/williamkeegan"
+    }
+  ],
+  "guardianId": "business/2016/may/01/uk-currency-devaluation-dangerous-game"
+}

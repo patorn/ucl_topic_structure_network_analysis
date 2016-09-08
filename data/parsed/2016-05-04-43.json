@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/04/beyonce-criticizes-north-carolina-bathroom-bill",
+  "id": "2016-05-04-43",
+  "sectionId": "music",
+  "body": "Beyonc\u00e9 released a statement critical of North Carolina\u2019s so-called \u201cbathroom bill\u201d the day after she performed in the state.  In March, lawmakers pushed through House Bill 2 (HB2), which makes it impossible for any local government in the state to create protections for LGBT people. It also requires public buildings to post signs that say people are only allowed to use bathrooms that match their biological sex.  \u201cAs the Formation World Tour makes its stop in the Tar Heel state in the midst of such a controversial time, we think it is important for us to bring attention to those who are committed to being good and carrying on the message of equality in this core of controversy,\u201d a statement on Beyonc\u00e9\u2019s website said.  The statement also called on people to support the work of Equality NC, which fights for the rights of LGBT North Carolina residents.     .@Beyonce just slayed #HB2. Are you listening, #ncga? #Beygood #WeAreNotThis #RepealHB2 https://t.co/1IfSo7NPC4 pic.twitter.com/d31YSfL5Tq\u2014 Equality NC (@equalitync) May 4, 2016    Because HB2 was shuttled through the legislature in just one day, it was not subject to the debate traditionally held for state laws. But the new law has faced intense criticism from businesses, civil liberties advocates and musicians such as Bruce Springsteen, who cancelled his scheduled concert in North Carolina in protest against the law. North Carolina\u2019s governor, Pat McCrory, who signed the legislation on 23 March, dismissed the backlash as \u201cpolitical correctness gone amok\u201d. A coalition of civil liberties groups and LGBT North Carolinians have filed a federal lawsuit against the state over HB2, claiming that the law violates the constitution\u2019s equal protection clause.  Beyonc\u00e9\u2019s Formation tour stop in Raleigh, North Carolina, on Tuesday was temporarily postponed because of bad weather. The tour began in Miami late last month, just after the surprise release of her new album, Lemonade.",
+  "webTitle": "Beyonc\u00e9 the latest to criticize North Carolina's 'bathroom bill'",
+  "webPublicationDate": "2016-05-04T19:30:25Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/04/beyonce-criticizes-north-carolina-bathroom-bill",
+  "keyword": [
+    {
+      "webTitle": "Beyonc\u00e9",
+      "id": "music/beyonce",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "LGBT rights",
+      "id": "world/lgbt-rights",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "North Carolina",
+      "id": "us-news/northcarolina",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Amanda Holpuch",
+      "id": "profile/amanda-holpuch"
+    }
+  ],
+  "guardianId": "world/2016/may/04/beyonce-criticizes-north-carolina-bathroom-bill"
+}

@@ -1,0 +1,84 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/06/line-of-duty-bbc1-series-four",
+  "id": "2016-05-06-167",
+  "sectionId": "media",
+  "body": "Acclaimed BBC2 drama Line of Duty is to switch to BBC1 for two more series after it broke ratings records with more than 5 million viewers. The fourth and fifth series of the Jed Mercurio police corruption drama, starring Martin Compston and Vicky McClure, will air on BBC1 after three series on BBC2. The third series, which featured Keeley Hawes and Daniel Mays, ended last week with 5.6 million viewers.   Related: Line of Duty review \u2013 an intense, butt-clenchingly brilliant finale    It averaged more than 5 million viewers across its five-part run, toppling Wolf Hall as BBC2\u2019s biggest drama since modern ratings methodology was introduced in 2002. The BBC\u2019s controller of TV channels and iPlayer Charlotte Moore said: \u201cLine of Duty is original, bold, gripping drama that gets the nation talking and the time is right to bring the series to an even broader audience on BBC1.  \u201cJed Mecurio\u2019s explosive thriller will find a new home on BBC1 for two more series and create room for new drama to flourish on BBC2.  \u201cThanks to Jed, [independent producer] Simon Heath\u2019s World Productions, and Stephen Wright at the BBC for producing the record-breaking show.\u201d Moore, who took over direct responsibility for BBC2 following the exit of its controller Kim Shillinglaw, has indicated that there should be more factual programmes on BBC2, which has become best known in recent years for dramas including Wolf Hall and Top of the Lake, as well as Line of Duty. Former BBC Trust chair Lord Patten said earlier this week that it was \u201cridiculous\u201d that Wolf Hall had been shown on BBC2 and not on mainstream BBC1. Line of Duty attracted 4.1 million viewers for its first series in 2012, dipping to 3.4 million for series two in 2014 and climbing to more than 5 million for its most recent run. It becomes the latest in a long line of shows to switch from BBC2 to BBC1 after their audiences outgrew the second channel, including The Great British Bake Off, The Apprentice, MasterChef and Miranda.  Panel game QI has the rare distinctive of switching from BBC2 to BBC1 \u2013 and then back again.",
+  "webTitle": "Line of Duty promoted to BBC1 for two more series",
+  "webPublicationDate": "2016-05-06T13:00:13Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/06/line-of-duty-bbc1-series-four",
+  "keyword": [
+    {
+      "webTitle": "BBC1",
+      "id": "media/bbc1",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "BBC2",
+      "id": "media/bbc2",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "BBC",
+      "id": "media/bbc",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Television industry",
+      "id": "media/television",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Line of Duty",
+      "id": "tv-and-radio/line-of-duty",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Drama",
+      "id": "tv-and-radio/drama",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Television",
+      "id": "culture/television",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Television & radio",
+      "id": "tv-and-radio/tv-and-radio",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "John Plunkett",
+      "id": "profile/johnplunkett"
+    }
+  ],
+  "guardianId": "media/2016/may/06/line-of-duty-bbc1-series-four"
+}

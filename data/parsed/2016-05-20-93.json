@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/us-news/2016/may/20/nile-crocodiles-found-in-south-florida-dna-analysis",
+  "id": "2016-05-20-93",
+  "sectionId": "us-news",
+  "body": "Florida has further burnished its reputation for exotic, and deadly, wildlife with the discovery of three Nile crocodiles near Miami \u2013 a good 6,000 miles from where the huge predators are normally found. DNA analysis has confirmed that three animals captured in south Florida between 2009 and 2014 are true Nile crocodiles. The reptiles can grow up to 20ft (6 meters) long, weigh as much as a small car and have a reputation for being ferocious man-eaters, with an estimated 200 people a year meeting their demise in the jaws of a Nile crocodile. The crocodiles, normally found in sub-Saharan African marshes, swamps and rivers, aren\u2019t fussy over their dining options, tucking into zebras, porcupines, small hippos and other crocodiles that cross its path.  One of the Florida captives was caught while relaxing on a house porch in Miami, the others were merely frolicking in the Everglades.  \u201cThe odds that the few of us who study Florida reptiles have found all of the Nile crocs out there is probably unlikely,\u201d said Kenneth Krysko, a herpetologist at the University of Florida who led the DNA analysis, published in the Journal of Herpetological Conservation and Biology. \u201cWe know that they can survive in the Florida wilderness for numerous years, we know that they grow quickly here and we know their behavior in their native range, and there is no reason to suggest that would change here in Florida.\u201d Krysko and his colleagues found that the crocodiles were related to each other but not related to other Nile crocodiles kept at Disney\u2019s Animal Kingdom or other Florida attractions. This means that the crocodiles were probably released by an unlicensed wildlife dealer, or escaped from someone\u2019s private zoo. There is little evidence as yet of a wider army of Nile crocodiles in Florida. However, the discovery raises the possibility of another harmful introduced species in the state, which is already grappling with an influx of Burmese pythons and feral pigs to areas including the Everglades. \u201cMy hope as a biologist is that the introduction of Nile crocodiles in Florida opens everyone\u2019s eyes to the problem of invasive species that we have here in our state,\u201d Krysko said. \u201cNow here\u2019s another one, but this time it isn\u2019t just a tiny house gecko from Africa.\u201d Nile crocodiles are one of the largest and fiercest crocodile species in the world, bested only by the giant saltwater crocodiles found in Australia. Their presence in Florida could have unfortunate implications for American crocodiles and alligators. In 2005, a Nile crocodile called Osama was captured after a rampage that claimed the lives of 83 people in southern Uganda. Osama, which dragged people from the banks of lake Victoria or from boats into its lair, was seized after a tempting pair of cow lungs were left as bait within a copper snare. Osama was sold for breeding stock and transferred to a diet of chickens.",
+  "webTitle": "Nile crocodiles captured in Florida \u2013 but why were they 6,000 miles from home?",
+  "webPublicationDate": "2016-05-20T15:36:43Z",
+  "webUrl": "https://www.theguardian.com/us-news/2016/may/20/nile-crocodiles-found-in-south-florida-dna-analysis",
+  "keyword": [
+    {
+      "webTitle": "Florida",
+      "id": "us-news/florida",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Wildlife",
+      "id": "environment/wildlife",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Animals",
+      "id": "world/animals",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Oliver Milman",
+      "id": "profile/oliver-milman"
+    }
+  ],
+  "guardianId": "us-news/2016/may/20/nile-crocodiles-found-in-south-florida-dna-analysis"
+}

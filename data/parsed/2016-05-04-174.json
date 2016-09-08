@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/books/2016/may/04/quidditch-world-cup-2016-first-african-team-harry-potter",
+  "id": "2016-05-04-174",
+  "sectionId": "books",
+  "body": "A crowdfunding campaign aiming to make Uganda the first African team to compete in the Quidditch World Cup has more than quadrupled its goal, less than two weeks after launch. The worldwide quidditch tournament is due to take place on 23 and 24 July in Frankfurt. The competition, run by the International Quidditch Association, has taken place biennially since 2012, with the US winning the 2014 championship (the UK came fourth). It is based on the game made famous in JK Rowling\u2019s Harry Potter books \u2013 both versions take place on broomsticks, although broomsticks in the real world have so far stubbornly refused to fly.   Related: Quidditch has now become a real life sport \u2013 have children's books inspired any other games?    Both versions feature seven players on each side, with a team consisting of one keeper, three chasers, two beaters and one seeker. Chasers attempt to throw a ball known as a \u201cquaffle\u201d (in the real world, a semi-deflated volleyball) through hoops, with beaters throwing \u201cbludgers\u201d (fully-inflated dodgeballs) at other players, and seekers attempting to catch the \u201csnitch\u201d (\u201ca sock with a tennis ball in it, attached to the snitch runner\u2019s shorts\u201d). Team Uganda originally set out to raise \u20ac1,500 on Indiegogo to get to the event, an amount that it hit just 16 hours after launching its campaign \u2013 and which will be matched by the International Quidditch Association. The total raised now stands at almost \u20ac7,000, but the team needs to make nearly \u20ac15,000 to get to Germany.  \u201cTeam Uganda still need so much more support. The flights alone number in the tens of thousands. But we are hopeful,\u201d said tournament director Matthew Guenzel. \u201cThe quidditch community is very supportive, and this is a great cause.\u201d  Organisers said that if the Ugandan team successfully raises the money, this summer will be the first time an African team has attended an international quidditch event. Including Uganda, 24 teams from countries including South Korea and Pakistan are registered to play in the championship. \u201cUp to this point, most international quidditch teams have been from western countries \u2013 Europe and North America. With this campaign, we have a real chance to broaden the spectrum of teams attending the event,\u201d says the Indiegogo campaign, which still has a month to run.",
+  "webTitle": "Quidditch World Cup 2016 hopes to feature first African team",
+  "webPublicationDate": "2016-05-04T13:20:36Z",
+  "webUrl": "https://www.theguardian.com/books/2016/may/04/quidditch-world-cup-2016-first-african-team-harry-potter",
+  "keyword": [
+    {
+      "webTitle": "Harry Potter",
+      "id": "books/harrypotter",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Books",
+      "id": "books/books",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "JK Rowling",
+      "id": "books/jkrowling",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Crowdfunding",
+      "id": "technology/crowdfunding",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Uganda",
+      "id": "world/uganda",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Africa",
+      "id": "world/africa",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Alison Flood",
+      "id": "profile/alisonflood"
+    }
+  ],
+  "guardianId": "books/2016/may/04/quidditch-world-cup-2016-first-african-team-harry-potter"
+}

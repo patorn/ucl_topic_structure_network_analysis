@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/13/navy-secretary-approves-keenan-reynolds-nfl-ravens",
+  "id": "2016-05-13-53",
+  "sectionId": "sport",
+  "body": "Keenan Reynolds has been given the all-clear to play for the Ravens this season after Secretary of the Navy Ray Mabus gave him his blessing.   Related: Keenan Reynolds: the Navy star who might not get to play in the NFL    Reynolds, who set numerous NCAA records at the US Naval Academy, was picked in the sixth round of the NFL draft by the Baltimore Ravens, but had been waiting for permission from the Navy to join the team. Upon graduation, all athletes from the Navy, Army and Air Force academies are required to complete active duty. But Mabus told The Dan Patrick Show on Friday that Reynolds can fulfill his military obligations in the Naval Reserve Force, therefore freeing him up to play full-time for the Ravens this season. Mabus had already told Reynolds, Ravens owner Steve Bisciotti and coach John Harbaugh. Mabus had previously told Patrick that he was \u201cconfident\u201d Reynolds would be able to play in the NFL while honoring his service commitment. \u201cKeenan Reynolds is one of the finest people that I know,\u201d Mabus said. \u201cHe is just a sterling individual. If I\u2019m an NFL coach or GM, he\u2019s the kind of person I want in my locker room.\u201d Reynolds went 32-13 in his four years at Navy and set a records in the NCAA for rushing touchdowns (88), rushing yards by a quarterback (4,559), and points scored (530). He is in the middle of transitioning from quarterback to wide receiver and as OTAs and minicamp begin, he will compete with Breshad Perriman, Marlon Brown and Chris Moore for playing time.",
+  "webTitle": "Navy secretary approves Keenan Reynolds to play in NFL this season",
+  "webPublicationDate": "2016-05-13T18:03:18Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/13/navy-secretary-approves-keenan-reynolds-nfl-ravens",
+  "keyword": [
+    {
+      "webTitle": "Baltimore Ravens",
+      "id": "sport/baltimore-ravens",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "NFL",
+      "id": "sport/nfl",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "US sports",
+      "id": "sport/us-sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "sport/2016/may/13/navy-secretary-approves-keenan-reynolds-nfl-ravens"
+}

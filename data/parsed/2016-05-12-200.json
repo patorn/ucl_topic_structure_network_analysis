@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/12/french-financial-prosecutors-confirm-investigation-into-tokyo-2020-bid-olympics-black-tidings",
+  "id": "2016-05-12-200",
+  "sectionId": "sport",
+  "body": "French financial prosecutors have confirmed they are investigating allegations of \u201ccorruption and money laundering\u201d involving more than $2m in suspicious payments apparently made by the Tokyo 2020 Olympic bid to a secret bank account linked to the son of disgraced former world athletics chief Lamine Diack. The Guardian revealed on Wednesday that payments totalling at least $1.5m had apparently been made to the Black Tidings company that was at the centre of other allegations of extortion and bribery linked to the International Association of Athletics Federations. Now, French prosecutors have confirmed they are investigating payments totalling 2.8m Singapore dollars that were made under the title \u201cTokyo 2020 Olympic Game bid\u201d either side of Tokyo\u2019s successful bid to host the Games in September 2013.   Related: Tokyo Olympics: \u20ac1.3m payment to secret account raises questions over 2020 Games    The French financial prosecutor said it was informed about the payments, made from a Japanese bank account to Black Tidings in July and October 2013, in December last year as it investigated allegations against the IAAF which led to Lamine Diack\u2019s arrest and accusations he had received more than \u20ac1m in return for covering up failed drug tests. According to Dick Pound\u2019s Independent Commission report commissioned by Wada, Black Tidings was controlled by Ian Tan Tong Han, employed as a consultant by Athletic Management & Services (AMS), a subsidiary of the Japanese marketing giant Dentsu. Tan had close links to Papa Massata Diack, the son of Lamine, who was employed by the IAAF as a marketing consultant and is now wanted by Interpol. With the agreement of Dentsu, which holds the marketing rights for the IAAF until 2029, Papa Massata Diack had a mandate to seek marketing deals in emerging markets. The French prosecutor said the discovery of the payments and their proximity to the International Olympic Committee decision to award the Games to Tokyo ahead of Madrid and Istanbul, together with \u201cimportant\u201d findings about parallel purchases made in Paris by Black Tidings, justified the opening of another investigation. It said it opened the investigation on 24 December last year into allegations of \u201cactive bribery, passive bribery, aggravated money laundering, concealment committed by an organised gang and participation in a criminal conspiracy\u201d by unnamed persons. The Japanese government and the Tokyo 2020 organising committee have denied any wrongdoing. \u201cMy understanding is that the bid process of the Tokyo 2020 Games was done in a clean way,\u201d the chief cabinet secretary Yoshihide Suga, the government\u2019s top spokesman, told a press conference when asked about the report. He said Japan would take \u201cappropriate measures\u201d if asked to do so by French authorities but had no intention of questioning the 2020 organisers. Tokyo 2020 spokeswoman Hikariko Ono told the Guardian: \u201cThe Tokyo 2020 organising committee has no means of knowing these allegations. We believe that the Games were awarded to Tokyo because the city presented the best bid.\u201d Dentsu confirmed to the Guardian that it had a \u201cbusiness relationship\u201d with AMS but later told AFP: \u201cAMS is not our subsidiary and we have never hired a consultant. We have never been investigated by the French authorities nor been asked to cooperate.\u201d Papa Massata Diack told the Guardian: \u201cThese allegations are currently under investigation by the French police and in the court of justice. I do not wish to make any comment as I am also part of this legal process.\u201d The International Olympic Committee, which sought to reform its bidding processes in the wake of the 1998 Salt Lake City scandal, said its chief ethics and compliance officer had been in contact with Wada and the French magistrates investigating the IAAF case since its inception, and that the IOC was now a civil party to the French justice procedure. A spokesman added: \u201cThe IOC\u2019s chief ethics and compliance officer will continue to be in contact with all interested parties to clarify any alleged improper conduct. The IOC will not comment any further on the elements of the investigations at this stage.\u201d",
+  "webTitle": "French financial prosecutors confirm investigation into Tokyo 2020 bid",
+  "webPublicationDate": "2016-05-12T13:04:26Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/12/french-financial-prosecutors-confirm-investigation-into-tokyo-2020-bid-olympics-black-tidings",
+  "keyword": [
+    {
+      "webTitle": "Olympic Games 2020",
+      "id": "sport/olympic-games-2020",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Olympic Games",
+      "id": "sport/olympic-games",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Lamine Diack",
+      "id": "sport/lamine-diack",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "IAAF",
+      "id": "sport/iaaf",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "International Olympic Committee",
+      "id": "sport/international-olympic-committee",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "France",
+      "id": "world/france",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Japan",
+      "id": "world/japan",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Owen Gibson",
+      "id": "profile/owengibson"
+    }
+  ],
+  "guardianId": "sport/2016/may/12/french-financial-prosecutors-confirm-investigation-into-tokyo-2020-bid-olympics-black-tidings"
+}

@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/05/job-market-cuts-highest-level-since-2009-layoffs-unemployment",
+  "id": "2016-05-05-129",
+  "sectionId": "business",
+  "body": "Job cuts are at their highest level since 2009 according to a new study from outplacement firm Challenger, Gray & Christmas, up 35% in April against figures from March and 5% from the same time the year previous.  Some 61,582 people lost their jobs between 1 April and 30 April, according to employer announcements of staff reductions polled by analysts. For the first third of the year, cuts are at more than 250,000, a level not reached since the recession hit the job market in earnest in early 2009 and cost nearly 700,000 people their jobs. The news comes amid worrying signs of a slowdown in the pace of the jobs market\u2019s recovery. This week payroll processor ADP said the US had added only 156,000 jobs in April, gains that were down against the previous month and offset by increasingly grim news from energy and tech sectors.  Much of the recent job losses have been related to the oil industry, hit by the collapse of the oil price. Challenger found that energy\u2019s woes are a continuing problem, but April was marked by major cuts from Intel, which slashed its employee ranks: nearly three-quarters of the 16,923 cuts in the sector were the result of the chip-maker\u2019s 12,000 layoffs. There are rumored cuts from the tech sector that are not included in the report, as well: IBM is said to have laid of 14,000, but because the company has not confirmed the dismissals, Challenger Gray doesn\u2019t track them. Shakiness across industries has increased pressure on the Federal Reserve to keep interest rates low for fear of chilling investment. Indeed, analysts are skeptical a rate rise will happen in the near future. \u201cInterest rates will stay low for longer, asset prices will continue to be artificially high,\u201d predicted Bill Gross, manager of Janus Global Unconstrained Bond Fund in Barron\u2019s.  \u201cAt some point, monetary policy will create inflation and markets will be at risk. Not yet, but be careful in the interim. Be content with low single-digit returns.\u201d Gross also predicted further quantitative easing, the process by which the Federal Reserve directly purchases securities from banks.",
+  "webTitle": "US job cuts hit highest level since 2009 according to new study",
+  "webPublicationDate": "2016-05-05T15:42:04Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/05/job-market-cuts-highest-level-since-2009-layoffs-unemployment",
+  "keyword": [
+    {
+      "webTitle": "US unemployment and employment statistics",
+      "id": "business/us-unemployment-and-employment-statistics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Intel",
+      "id": "technology/intel",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Oil",
+      "id": "business/oil",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Unemployment and employment statistics",
+      "id": "business/unemployment-and-employment-statistics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Commodities",
+      "id": "business/commodities",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Sam Thielman",
+      "id": "profile/sam-thielman"
+    }
+  ],
+  "guardianId": "business/2016/may/05/job-market-cuts-highest-level-since-2009-layoffs-unemployment"
+}

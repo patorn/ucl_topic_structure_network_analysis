@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/04/top-gear-chris-evans-matt-leblanc-trailer",
+  "id": "2016-05-04-195",
+  "sectionId": "media",
+  "body": "The BBC has released a summery new trailer to promote the the upcoming launch of Chris Evans\u2019s new-look Top Gear. The trailer opens with Evans and former Friends star and co-host, Matt LeBlanc, being welcomed to Blackpool by its mayor in the pouring rain. The clip then cuts to sunnier climes the Top Gear team have visited with guests including Tinie Tempah, Texas singer Sharleen Spiteri, and Seasick Steve.   Related: BBC says Sun attacks on Top Gear's Chris Evans are 'unfounded nonsense'    It is soundtracked by Dodgy\u2019s 1990s hit Staying Out for the Summer. The trailer will debut on TV on BBC1 at 9pm, airing between EastEnders and MasterChef, and simultaneously on BBC2. It is the third trailer launched to promote the return of the new BBC2 motoring show, due to begin airing later this month.",
+  "webTitle": "Top Gear's Chris Evans and Matt LeBlanc head for the sun in new trailer",
+  "webPublicationDate": "2016-05-04T12:25:16Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/04/top-gear-chris-evans-matt-leblanc-trailer",
+  "keyword": [
+    {
+      "webTitle": "Chris Evans",
+      "id": "media/chris-evans",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "BBC",
+      "id": "media/bbc",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Television industry",
+      "id": "media/television",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Top Gear",
+      "id": "tv-and-radio/top-gear",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Television",
+      "id": "culture/television",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Television & radio",
+      "id": "tv-and-radio/tv-and-radio",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Mark Sweney",
+      "id": "profile/marksweney"
+    }
+  ],
+  "guardianId": "media/2016/may/04/top-gear-chris-evans-matt-leblanc-trailer"
+}

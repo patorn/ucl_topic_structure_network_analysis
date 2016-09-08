@@ -1,0 +1,126 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/19/finding-nemo-dory-pixar-could-damage-tropical-fish-populations",
+  "id": "2016-05-19-103",
+  "sectionId": "film",
+  "body": "Australian conservationists have warned that the release of new Pixar film Finding Dory could increase pressure on wild populations of exotic fish on the Great Barrier Reef and elsewhere. Researchers from the University of Queensland and Flinders University teamed up a decade ago for the Saving Nemo Conservation Fund, named after the Disney-owned studio\u2019s 2003 animated smash Finding Nemo, in which a clownfish searches the oceans for his missing son. The earlier film led to the huge popularity of clownfish in pet shops, and a corresponding drop in their numbers in their traditional habitat on coral reefs. Now, researchers want to ensure the same phenomenon does not reoccur when Finding Dory is released this June.   Related: First trailer for Pixar sequel Finding Dory washes up    \u201cWhat most people don\u2019t realise is that about 90% of marine fish found in aquarium shops come from the wild,\u201d said project coordinator Carmen da Silva. \u201cReef fish populations are already struggling due to warmer sea temperatures and ocean acidification caused by global warming. The last thing they need is to be plucked off reefs.\u201d The Saving Nemo fund has been breeding clownfish in nurseries since 2005 in an effort to ensure wild populations do not suffer. But coordinators are now concerned that blue tang fish, like the character Dory, could become too popular once the new film is released.  They are hoping to catch the attention of Ellen DeGeneres, who voices the forgetful fish, via a social media campaign using the hashtag #fishkiss4nemo. The blue tang cannot be bred in nurseries, so the success of the campaign could be vital. \u201cPeople fell in love with the adorable characters and wanted to keep them as pets, instead of understanding the film\u2019s conservation message of keeping Nemo in the ocean where he belongs,\u201d said Saving Nemo co-founder Anita Nedosyko.",
+  "webTitle": "Finding Nemo sequel Finding Dory 'could damage exotic fish populations'",
+  "webPublicationDate": "2016-05-19T16:52:58Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/19/finding-nemo-dory-pixar-could-damage-tropical-fish-populations",
+  "keyword": [
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Finding Nemo",
+      "id": "film/finding-nemo",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Great Barrier Reef",
+      "id": "environment/great-barrier-reef",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Pixar",
+      "id": "film/pixar",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Animation",
+      "id": "film/animation",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Walt Disney Company",
+      "id": "film/walt-disney-company",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Ellen DeGeneres",
+      "id": "tv-and-radio/ellen-degeneres",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Television & radio",
+      "id": "tv-and-radio/tv-and-radio",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Fishing",
+      "id": "environment/fishing",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Animals",
+      "id": "world/animals",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Conservation",
+      "id": "environment/conservation",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Marine life",
+      "id": "environment/marine-life",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Wildlife",
+      "id": "environment/wildlife",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Finding Dory",
+      "id": "film/finding-dory",
+      "sectionId": "film",
+      "sectionName": "Film"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ben Child",
+      "id": "profile/benchild"
+    }
+  ],
+  "guardianId": "film/2016/may/19/finding-nemo-dory-pixar-could-damage-tropical-fish-populations"
+}

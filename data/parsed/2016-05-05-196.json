@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/05/gas-delivery-tech-startups",
+  "id": "2016-05-05-196",
+  "sectionId": "technology",
+  "body": "It is hard to imagine a less hospitable niche for a startup to enter than gasoline \u2013 a combustible commodity that is (one hopes) being innovated into obsolescence.  And yet, over the past 18 months, at least six startups have launched some variation on the theme of \u201cUber for gas\u201d \u2013 your car\u2019s tank gets refilled while it is parked somewhere.  The gas delivery startup founders all share similar stories of discovering the wannabe entrepreneur\u2019s holy grail: a point of friction that can be translated into an app.  \u201cDavid, one of the co-founders, basically said, \u2018I hate going to the gas station\u2019,\u201d said Nick Alexander, the other co-founder of Yoshi, of their company\u2019s origins. \u201cI think he had run out of gas recently, so he said, \u2018What about an idea where someone comes and fills your car up?\u2019\u201d  For Ale Donzis, co-founder of WeFuel, the moment came when he was trying to get gas in the middle of winter in upstate New York and realized he had forgotten his gloves. For Frank Mycroft, founder and CEO of Booster Fuels, it was during his wife\u2019s pregnancy when he started refueling her car as well as his own.   \u201cIt wore on me,\u201d Mycroft said. \u201cI didn\u2019t like doing it.\u201d  The tales of gas station woe are the kind of first-world problems that have inspired a thousand parodies of startup culture. (A customer testimonial on the website of Purple, another gas delivery service, reads: \u201cI live across the street from a gas station, but I don\u2019t always have time to make the stop.\u201d)  But delivering large quantities of a toxic and flammable liquid is significantly more complicated \u2013 and regulated \u2013 than delivering sandwiches. The companies generally source their gasoline from the same distributors that supply 10,000-gallon tankers to retail gas stations. But the app companies put the fuel into the back of pickup trucks or specially designed mini-tankers. Booster Fuels only services cars in open air, corporate parking lots on private property, but other companies offer to refill your car wherever it\u2019s parked.  And while ignoring outdated regulations is practically a virtue in this age of disruptive innovation, there are good reasons for the careful control of gasoline.  \u201cSome of the [companies] are using 1,000-gallon tanks,\u201d warned Greg Andersen, division chief of the California office of the state fire marshall. \u201cIf they\u2019re going into the basement parking lot of a high rise, that actually is a large concern.\u201d  Several of the startups treat their regulatory compliance as a selling point.  \u201cYou\u2019re supposed to have a fire extinguisher,\u201d said Chris Aubuchon, co-founder of Filld. \u201cWe have two.\u201d  Yoshi\u2019s Alexander said, \u201cWe\u2019re using DOT-certified equipment. \u2026 We\u2019ve had our trucks inspected by multiple parties, including the highway patrol.\u201d  But it\u2019s not clear that Filld and Yoshi actually are in compliance with the law.  Both companies offer their service in San Francisco, where Lt Jonathan Baxter of the fire department says mobile fuel delivery is not currently permitted. He added that none of the companies have even sought permits.  \u201cWe are not saying that we are not ever going to permit this,\u201d he said. \u201cWe are saying that we are working with other state agencies to figure out what is going to be best.\u201d  In the meantime, Baxter is asking members of the public to report any fuel delivery trucks they observe to the department for inspection, corrective measures and possible violations.  Filld CEO Aubuchon responded to Baxter\u2019s remarks in a statement, saying: \u201cWe have carefully studied the legal requirements, operate within them, and serve our customers in full compliance with all applicable laws and regulations.\u201d  Yoshi co-founder David Gobaud also rejected the fire department\u2019s assertion.  \u201cUnder the law we don\u2019t actually need a permit,\u201d he said by email, explaining that only companies who use tank vehicles or tank cars are required to obtain permits.  Andersan suggests that the companies currently operating in California are exploiting a \u201cgrey area\u201d in the fire code. There are regulations that allow for mobile fueling with diesel, but the code is silent on gasoline, presumably because no one was offering the service before last year.  \u201cYou can read the intent and say, \u2018Look at all the things you have to do for diesel fuel. Are we assuming that you have to do nothing for gasoline?\u2019 That doesn\u2019t make sense,\u201d he said.  But whether or not the companies\u2019 practices are safe and legitimate, it\u2019s hard not to wonder at founders and investors pouring their resources into an area that so many other tech companies are trying to innovate out of existence.  \u201cI call these \u2018bridge startups\u2019, and I shy away from them because you spend the same amount of effort innovating in a dying market as you do in a growing one,\u201d said Jason Calcanis, a prominent tech angel investor and entrepreneur. \u201cOn-demand valet services, gas delivery and even car ownership itself will get demolished by the one-two punch of Uber and Tesla.\u201d  Calcanis is an investor in Uber and a proud owner of two Teslas, so he has biases. But it\u2019s hard not to think that the best and the brightest should be focusing their energies on non-carbon-emitting solutions to society\u2019s transportation needs.  Of course, while we wait for the invention that will avert climate collapse without requiring too much sacrifice on our parts, there is still plenty of money to be made in gasoline.  \u201cFossil fuels have a long runway,\u201d WeFuel\u2019s Donzis said.  \u201cToday\u2019s cars are going to be around for the next 15 to 20 years, so I don\u2019t see our business going away, even though I welcome that change,\u201d Filld\u2019s Aubuchon said.  At least one of the startups is also focused on a more \u201clongterm, grandiose vision,\u201d one that\u2019s about more than squeezing the final dollar out of the fossil fuel economy.  Alexander, co-founder of Yoshi, argued that hydrogen fuel cell vehicles are actually cheaper and more environmental than electric cars. There\u2019s little market for the cars right now, however, because there\u2019s no distribution network for hydrogen fuel.  \u201cThe problem is that the cost to retrofit all the gas stations to hydrogen would be tens of billions of dollars,\u201d he said. A successful mobile fuel delivery service could change all that.  \u201cAlmost everything that we solve right now \u2013 the trucks, the app, the customer stuff \u2013 all that stuff is independent of what we\u2019re carrying,\u201d Alexander said. \u201cWe could have hydrogen trucks on the road tomorrow.\u201d",
+  "webTitle": "Gas delivery startups want to change the world \u2013 but will they blow it up first?",
+  "webPublicationDate": "2016-05-05T12:00:07Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/05/gas-delivery-tech-startups",
+  "keyword": [
+    {
+      "webTitle": "Technology startups",
+      "id": "technology/startups",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Gas",
+      "id": "business/gas",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Entrepreneurs",
+      "id": "business/entrepreneurs",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "California",
+      "id": "us-news/california",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Small business",
+      "id": "business/small-business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Climate change",
+      "id": "environment/climate-change",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Julia Carrie Wong",
+      "id": "profile/julia-carrie-wong"
+    }
+  ],
+  "guardianId": "technology/2016/may/05/gas-delivery-tech-startups"
+}

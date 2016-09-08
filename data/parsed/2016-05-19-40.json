@@ -1,0 +1,17 @@
+{
+  "apiUrl": "https://content.guardianapis.com/news/2016/may/19/corrections-and-clarifications",
+  "id": "2016-05-19-40",
+  "sectionId": "news",
+  "body": "\u2022 A report (UK research \u2018is hugely dependent on Brussels grants\u2019, 18 May, page 9) said that NetComposites, a materials consultancy based in Derbyshire, had about \u00a350m in EU grants from 2006 to 2015, accounting for 95% of its public research grant. In fact it did not receive all of that funding itself, but participated \u2013 along with other companies \u2013 in EU projects worth about \u00a350m. \u2022 In an article about Portugal\u2019s electricity consumption being fully covered by renewable energy for four consecutive days last week (Portugal reaches clean-energy milestone, 19 May, page 22), we said incorrectly that in 2013 the country \u201cgenerated half its electricity from combustible fuels, with 27% coming from nuclear, 13% from hydro, 7.5% from wind and 3% from solar, according to Eurostat figures\u201d. In fact those Eurostat figures are for the whole of the EU; Portugal does not have any nuclear power plants. \u2022 We said (Shareholders in boardroom pay protest at two more firms, 19 May, page 24) that the annual general meeting season had begun with pay deals being voted down at Shire Pharmaceuticals and BP. We meant Smith & Nephew and BP.",
+  "webTitle": "Corrections and clarifications",
+  "webPublicationDate": "2016-05-19T20:00:20Z",
+  "webUrl": "https://www.theguardian.com/news/2016/may/19/corrections-and-clarifications",
+  "keyword": [],
+  "authors": [
+    {
+      "webTitle": "Corrections and clarifications column editor",
+      "id": "profile/editor-of-the-corrections-and-clarifications-column"
+    }
+  ],
+  "guardianId": "news/2016/may/19/corrections-and-clarifications"
+}

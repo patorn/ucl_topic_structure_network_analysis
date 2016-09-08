@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/04/heathrow-expansion-third-runway-london",
+  "id": "2016-05-03-7",
+  "sectionId": "environment",
+  "body": "Delaying a decision on a third runway has \u201csquandered the opportunity\u201d to act on evidence and expand Heathrow, a cross-party committee of MPs said as it called on the government to commit to a clear timetable.  The Commons transport select committee described ministerial claims of progress in the decision-making process as \u201cillusory\u201d and demanded that the transport secretary, Patrick McLoughlin, make clear what the outstanding areas of contention were.  The Airports Commission, established in 2012 by the coalition to recommend if and where a new runway for London should be built, delivered its final report in July last year backing Heathrow expansion. The government did not respond until December, when it announced it would be conducting more work on air quality, and left open the possibility of a second runway at Gatwick instead.    Related: Cheaper Heathrow expansion plan 'should be put back on table'    In the transport committee\u2019s report on airport expansion, published on Wednesday, MPs said: \u201cThe arguments for and against expansion have changed little in a quarter of a century \u2026 The creation of the Airports Commission briefly held out the hope that an evidence-based decision would end years of political dithering, but the government has largely squandered this opportunity by delaying its decision and calling for further work.\u201d They added: \u201cThe secretary of state needs now to have the courage to take a difficult, and for some people unpopular, decision.\u201d The committee has already established that it backs a third runway at Heathrow, although the government has continued to maintain the candidacy of Gatwick, which was shortlisted by the commission.  MPs demanded that McLoughlin make clear which parts of the commission\u2019s findings he had accepted or rejected, and what further work was being carried out. The committee said: \u201cThe government needs to be more open and transparent or the perception that this is yet another attempt to \u2018kick the can down the road\u2019 cannot be adequately challenged.\u201d The Department for Transport will make a formal response to the committee\u2019s demands later this month, and a spokesman said it anticipated that additional work on environmental impacts would be concluded by the summer. He said: \u201cThe case for aviation expansion is clear \u2013 but it\u2019s vitally important we get the decision right so that it will benefit generations to come.  \u201cAs well as progressing the package of further work announced in December, the government will continue to consider the commission\u2019s evidence before reaching a view on its preferred scheme.  \u201cWe are undertaking more work on environmental impacts, including air quality, noise and carbon so we can develop the best possible package of measures to mitigate the impacts on local people.\u201d Louise Ellman MP, chair of the transport committee, said: \u201cThe government must make up its mind. The decision on location is not the end of the process, it is the start of one. Real progress cannot begin until the location is declared. Work on environmental issues can run in parallel with other pre-construction work.\u201d She said the continued growth of large hubs in the Middle East, east Asia and North America threatened Britain\u2019s position in international aviation, while the number of flights to the world\u2019s emerging markets was also a major concern. \u201cThe months ticking by constitute time wasted for the UK\u2019s economic prosperity. Doing nothing means the UK continues to lose out,\u201d Ellman said. Business groups backed the committee\u2019s call for a clear timetable. David Leam, infrastructure director at lobby group London First, said the government needed \u201cto show backbone\u201d, adding: \u201cWe need a clear timetable for airport expansion as soon as possible, because the decision to greenlight a new runway won\u2019t get any easier.\u201d However, Gatwick airport said the committee\u2019s statement that the arguments over airport expansion had changed little in a quarter of a century was \u201castonishing\u201d, saying that it ignored \u201csignificant change within the aviation industry following the breakup of the BAA monopoly in 2009, and the worsening of air quality in the UK which has repeatedly halted Heathrow\u2019s plans in the past\u201d. Air quality, and the possibility of judicial review in the light of a 2015 supreme court ruling, were the primary ostensible reasons for the delay, with the government now having indicated that its verdict will not come until after the EU referendum on 23 June.  The postponement has also averted a public clash between the Conservatives and their candidate for this Thursday\u2019s London mayoral election, Zac Goldsmith, who has been a staunch opponent of Heathrow expansion.",
+  "webTitle": "Heathrow expansion opportunity squandered, MPs say",
+  "webPublicationDate": "2016-05-03T23:01:11Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/04/heathrow-expansion-third-runway-london",
+  "keyword": [
+    {
+      "webTitle": "Heathrow third runway",
+      "id": "environment/heathrow-third-runway",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Heathrow airport",
+      "id": "uk-news/heathrow-airport",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Air transport",
+      "id": "world/air-transport",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "London",
+      "id": "uk/london",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Transport",
+      "id": "uk/transport",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Airline industry",
+      "id": "business/theairlineindustry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Travel and transport",
+      "id": "environment/travel-and-transport",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Gwyn Topham",
+      "id": "profile/gwyntopham"
+    }
+  ],
+  "guardianId": "environment/2016/may/04/heathrow-expansion-third-runway-london"
+}

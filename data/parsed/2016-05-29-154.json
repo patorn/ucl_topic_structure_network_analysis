@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/29/beth-orton-kidsticks-review",
+  "id": "2016-05-29-154",
+  "sectionId": "music",
+  "body": "Twenty years ago, Beth Orton\u2019s breakthrough Trailer Park correctgently dripped tasteful electronics over folky confessionals. Her latest collection, created in California, dives fearlessly into deeper waters. Although dependent on repetition of small riffs, syllables and phrases, these 10 songs are pleasingly unpredictable, uncoiling languorously around layers of synthetic and organic sounds. There\u2019s grit too \u2013 the bass-strafed Petals wrestles with itself until its brawling, bawling end, collapsing into the jaunty single 1973. Orton\u2019s alluring vocals decorate rather than dominate, making chilling lyrics like \u201cthe phone book is filling up with dead friends\u201d (Falling) even more shocking when they surface. Despite its sunny origins, there\u2019s a shard of ice speared through Kidsticks, a frost that burns fierce as fire.",
+  "webTitle": "Beth Orton: Kidsticks review \u2013 sunny side up with a shard of ice",
+  "webPublicationDate": "2016-05-29T07:00:00Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/29/beth-orton-kidsticks-review",
+  "keyword": [
+    {
+      "webTitle": "Beth Orton",
+      "id": "music/beth-orton",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Pop and rock",
+      "id": "music/popandrock",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Folk music",
+      "id": "music/folk",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Electronic music",
+      "id": "music/electronicmusic",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Damien Morris",
+      "id": "profile/morris-damien"
+    }
+  ],
+  "guardianId": "music/2016/may/29/beth-orton-kidsticks-review"
+}

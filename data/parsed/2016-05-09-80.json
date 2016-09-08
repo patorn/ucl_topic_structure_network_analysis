@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/09/carbon-dioxide-emissions-united-states-coal-gas-energy-industry-decline",
+  "id": "2016-05-09-80",
+  "sectionId": "environment",
+  "body": "Carbon dioxide emissions from the US\u2019s energy sector fell in 2015 and now stand at 12% below 2005 levels, a drop mainly driven by the continuing collapse of the coal industry. Americans\u2019 energy consumption resulted in the release of 5.2bn tons of CO2 last year, according to the US Energy Information Administration (EIA), down from 5.4bn tons in 2014. The 12% cut since 2005 has come during a period in which the US economy has, adjusting for inflation, grown by 15%.  About a third of America\u2019s emissions come from energy consumption, with transportation, industrial activity and agriculture also making significant contributions.  A flurry of coal plant retirements and an increase in the production of natural gas and renewable energy have pushed the US further towards the federal government\u2019s goal of slashing emissions by between 26% and 28% by 2025, prompting some analysts to call for stronger measures to accelerate the decline. \u201cI think we have still got some work to do,\u201d said Colleen Regan, head of North American environmental markets at Bloomberg New Energy Finance. \u201cI think Obama has done a lot but the next president will need to do more to bring emissions down in transport and industry. \u201cMaybe we should be asking the power sector to do more. It\u2019s easier to reduce emissions in the power sector than in industry and we should be asked for the cheapest form of abatement. With the drops we\u2019ve seen even without the Clean Power Plan, there\u2019s scope to do more.\u201d According to the EIA, the 2015 fall in emissions was largely due to \u201cdecreased use of coal and the increased use of natural gas for electricity generation\u201d. Last year, coal made up 80% of all retired electricity-generating capacity, with plants shutting down across the midwest and south, particularly in Ohio, Georgia and Kentucky.       According to the Sierra Club, 232 coal plants have been retired in total. The closures have become enmeshed in the US presidential race, with presumptive Republican nominee Donald Trump last week donning a miner\u2019s helmet in West Virginia and promising to get laid-off miners back to work.  However, the low price of natural gas and ageing infrastructure has caused seemingly intractable headaches for the coal sector, including the company Peabody Energy, which went from market leader to bankruptcy in April. US Environmental Protection Agency rules to curb mercury and other toxins at coal plants, which kicked in last year, have also had an impact. This trend could be accelerated by the implementation of the Clean Power Plan, which places limits upon power plant emissions. The plan is currently on hold pending a supreme court challenge from states that claim it will place an undue cost upon the public. Regan said the plan was a \u201cbackstop\u201d that may not prove crucial if natural gas prices remain favorable. \u201cNatural gas isn\u2019t clean, but it\u2019s much cleaner than coal, so I think we are in pretty good shape,\u201d she said. \u201cIf the natural gas price moves back up again, it becomes a concern.\u201d Wind power, primarily in Texas, Oklahoma and Kansas, expanded the most of all clean technologies in 2015, followed by solar. However, renewable sources of energy are moving up from a low base. \u201cThis progress puts America on a path toward meeting our international commitments, and is a direct result of moving our nation beyond coal and increasingly replacing it with clean energy like wind and solar,\u201d said Mary Anne Hitt, director of the Sierra Club\u2019s \u201cbeyond coal\u201d campaign. \u201cOur transition away from coal and toward a clean energy economy is one of the great climate success stories of the past decade, and it will continue to shape America\u2019s energy landscape for decades to come as our grassroots movement to get off of fossil fuels continues to grow.\u201d",
+  "webTitle": "Carbon dioxide emissions from US energy sector fall 12% since 2005",
+  "webPublicationDate": "2016-05-09T17:40:35Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/09/carbon-dioxide-emissions-united-states-coal-gas-energy-industry-decline",
+  "keyword": [
+    {
+      "webTitle": "Climate change",
+      "id": "environment/climate-change",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Energy",
+      "id": "environment/energy",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Coal",
+      "id": "environment/coal",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Fracking",
+      "id": "environment/fracking",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Fossil fuels",
+      "id": "environment/fossil-fuels",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Gas",
+      "id": "environment/gas",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Oliver Milman",
+      "id": "profile/oliver-milman"
+    }
+  ],
+  "guardianId": "environment/2016/may/09/carbon-dioxide-emissions-united-states-coal-gas-energy-industry-decline"
+}

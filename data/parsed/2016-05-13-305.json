@@ -1,0 +1,58 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/12/zuckerberg-denies-facebook-bias-invites-conservatives-talk",
+  "id": "2016-05-13-305",
+  "sectionId": "technology",
+  "body": "Facebook CEO Mark Zuckerberg has announced that he plans to invite \u201cleading conservatives and people from across the political spectrum\u201d to talk with him about accusations of political bias at the social media company. Zuckerberg made the announcement Thursday evening in a Facebook post that continued to deny the allegations of bias and the claim that the Facebook trending topics team suppresses conservative news.  \u201cWe have found no evidence that this report is true,\u201d he wrote. \u201cIf we find anything against our principles, you have my commitment that we will take additional steps to address it.\u201d    Related: Facebook news selection is in hands of editors not algorithms, documents show    On Monday, Gizmodo reported that contracted workers at Facebook \u201croutinely suppressed news stories of interest to conservative readers\u201d and artificially \u201cinject\u201d stories into the trending topics section, citing anonymous former \u201cnews curators\u201d.  Zuckerberg\u2019s statement is a sign of how damaging the allegations are to a company that, despite serving as a news source for millions of people, maintains that it is a neutral tech company.  On Tuesday, Facebook\u2019s vice-president for search, Tom Stocky, addressed the controversy in a post of his own, denying allegations of bias and writing: \u201cWe do not insert stories artificially into trending topics, and do not instruct our reviewers to do so.\u201d But early on Thursday, the Guardian obtained Facebook\u2019s internal guidelines for the trending topics section that contradicted Stocky\u2019s statement. The documents include instructions for how curators can \u201cinject\u201d or \u201cblacklist\u201d topics in the trending topics.  \u201cThe editorial team CAN [sic] inject a newsworthy topic in the event that something is attracting a lot of attention, such as #BlackLivesMatter,\u201d the guidelines state. Facebook\u2019s vice-president for global operations, Justin Osofsky, subsequently wrote his own blogpost about the editorial guidelines \u2013 which were released \u2013 and specified that many topics are rejected because they \u201creflect what is considered \u2018noise\u2019\u201d.    Related: The inside story of Facebook\u2019s biggest setback | Rahul Bhatia    Zuckerberg\u2019s statement \u2013 the third dispatch from a company executive in just four days \u2013 did not address the question of Facebook\u2019s editorial practices, but instead focused on the question of political bias against conservative viewpoints.  Conservative media have doubled down on those accusations of bias against Facebook in the wake of revelations by the Guardian on the company\u2019s news strategy. \u201cThey market it as this organic collection of things that are trending,\u201d said Sean Davis, co-founder of popular conservative site the Federalist. \u201cThey are walling off huge areas people are talking about. That\u2019s the real problem. We\u2019re generally for free association, for private enterprise. If their investors like it, we\u2019re free to criticize it and they\u2019re free to do what they want. The beef from conservatives has not been that there\u2019s bias, it\u2019s been that there\u2019s not admission of it.\u201d Facebook relies on a list of 10 top news sources, including the Guardian, for most of its decisions about whether a subject meets the criteria to join its trending news module. Below that is a list of other sources that can be used that totals 1,000. The Federalist is not on the list. The presence, or absence, of a publication from the Facebook list became an immediate source of contention throughout the media world, irrespective of political alignment:    i'm so salty about motherboard not being on this goddamn facebook list\u2014 Adrianne Jeffries (@adrjeffries) May 12, 2016    The conservative media was also incensed by Stocky, whose electoral contributions \u2013 including a $2,700 maximum donation to Hillary Clinton\u2019s presidential campaign \u2013 were immediately published by conservative outlets the Federalist and Breitbart.  In addition, US senator John Thune, a Republican party leader and chairman of the Senate commerce committee, demanded on Tuesday that Facebook respond to the allegations of bias. Steven Crowder, a syndicated right-wing talk show host with more than 1.1m followers on Facebook, has said he is pursuing legal action in the wake of Gizmodo\u2019s revelations. But some media experts were pleased to hear that Facebook was not relying solely on algorithms for its news gathering.  Michael Shapiro, a professor at Columbia University\u2019s School of Journalism, said: \u201cCall me old-fashioned but I\u2019m always infinitely happier when a human being is making a decision. \u201cEditors are people, have things that they love and things they\u2019d never want to read but one thing an editor can do that no algorithm can do is factor for surprise. An algorithm is based on discerning patterns, and one thing I can say as a publisher is that I\u2019m forever struck by how a story with no earthly reason to capture a wide audience will just take off.\u201d One thing non-Facebook newspeople are now suggesting is that Facebook release its news curators from the nondisclosure agreements that have kept its operation shrouded in secrecy. BuzzFeed on Thursday quoted ex-employees characterizing those agreements as unusually harsh. \u201cI don\u2019t think I\u2019ve ever signed an NDA like that,\u201d one told the site. Zuckerberg made headlines in April for making a veiled critique of presumptive Republican presidential candidate Donald Trump at the company\u2019s annual developer conference. Though he never mentioned Trump by name, Zuckerberg\u2019s remarks about \u201cfearful voices talking about building walls\u201d were widely interpreted to be a reference to Trump.  \u201cInstead of building walls we can help build bridges,\u201d he added. \u201cInstead of dividing people we can connect people. It takes courage to choose hope over fear.\u201d  On 5 May, Facebook announced that it would sponsor both the Republican and Democratic national conventions this summer, citing the social media platform\u2019s goal of \u201cfacilitat[ing] an open dialogue among voters, candidates and elected officials\u201d.  Zuckerberg struck a similar tone in Thursday afternoon\u2019s post.  \u201cEvery tool we build is designed to give more people a voice and bring our global community together,\u201d he wrote. \u201cFor as long as I\u2019m leading this company this will always be our mission.\u201d",
+  "webTitle": "Facebook trends: Zuckerberg invites top conservatives to talk and denies bias",
+  "webPublicationDate": "2016-05-13T06:10:56Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/12/zuckerberg-denies-facebook-bias-invites-conservatives-talk",
+  "keyword": [
+    {
+      "webTitle": "Facebook",
+      "id": "technology/facebook",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Social networking",
+      "id": "media/socialnetworking",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Republicans",
+      "id": "us-news/republicans",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US politics",
+      "id": "us-news/us-politics",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Sam Thielman",
+      "id": "profile/sam-thielman"
+    },
+    {
+      "webTitle": "Julia Carrie Wong",
+      "id": "profile/julia-carrie-wong"
+    }
+  ],
+  "guardianId": "technology/2016/may/12/zuckerberg-denies-facebook-bias-invites-conservatives-talk"
+}

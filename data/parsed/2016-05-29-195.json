@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/lifeandstyle/2016/may/29/why-does-ice-cream-give-you-brain-freeze",
+  "id": "2016-05-29-195",
+  "sectionId": "lifeandstyle",
+  "body": "A British bank holiday usually calls for a trip to the ice cream van, even if there is more drizzle\u00a0than dazzling sunshine. But go easy - a big bite of a\u00a099\u00a0Flake can quickly give you a headache, sometimes known as \u2018brain freeze\u2019. While this name describes the feeling, it\u2019s wrong, as the brain doesn\u2019t have any pain receptors of its own. So why does a cold sensation in the mouth lead to pain in the head? The long trigeminal nerve picks up sensations from the mouth, nose, teeth and forehead. A sudden chill causes blood vessels in the roof of the mouth to constrict and dilate, sending pain signals through the trigeminal nerve to the brain. But this pain is felt in the forehead instead of the mouth. This could be because the forehead is more exposed to the outside world, so the brain assumes the signal is coming from there instead. This phenomenon is known as \u2018referred pain\u2019, and is also seen in heart attacks, when pain is felt in the shoulders or back. Luckily \u2018brain freeze\u2019 only lasts a few seconds and can be easily ended by swallowing quickly \u2013 at least until your next bite. Dr Daniel Glaser is director of Science Gallery at King\u2019s College London",
+  "webTitle": "Why does ice cream give you brain freeze?",
+  "webPublicationDate": "2016-05-29T05:00:25Z",
+  "webUrl": "https://www.theguardian.com/lifeandstyle/2016/may/29/why-does-ice-cream-give-you-brain-freeze",
+  "keyword": [
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Neuroscience",
+      "id": "science/neuroscience",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Daniel Glaser",
+      "id": "profile/daniel-glaser"
+    }
+  ],
+  "guardianId": "lifeandstyle/2016/may/29/why-does-ice-cream-give-you-brain-freeze"
+}

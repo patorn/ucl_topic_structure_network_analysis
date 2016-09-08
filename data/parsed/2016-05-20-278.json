@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/20/steve-coppell-crystal-palace-fa-cup-final",
+  "id": "2016-05-20-278",
+  "sectionId": "football",
+  "body": "The former Crystal Palace manager Steve Coppell has been working as a scout for the club as they prepare for Saturday\u2019s FA Cup final against Manchester United. Coppell, who had four different spells in charge of the club and was in the dugout for their famous run to the final in 1989-90, was asked by Alan Pardew to assist him in watching Manchester United before the sides play at Wembley. Pardew believes Coppell should still occupy a higher-profile role in the game.   Related: Yannick Bolasie: FA Cup final is chance to show world what I can do    \u201cSteve is a legend \u2013 and he is involved in this process at Palace for the cup final,\u201d Pardew said to local media. \u201cI have included him in our scouting team, he is doing us a bit for Man United. I\u2019ve had him watching them as a completely outside pair of eyes. He has given me what he thinks might be good options. \u201cI have thought about bringing him here but he can only do one job, and that is football manager. He cannot do any other job. And I think he will be the first to tell you that. Sitting upstairs is not him. Scouting is not him. Coaching is not really him. He is a manager. \u201cIt is a shame he is not in the game because the game is losing out. For this game, I\u2019ve had a little insight into his brain \u2013 he might give me a couple of little nuggets.\u201d Pardew admitted Coppell, whose last major role was as director of football at Portsmouth in 2013-14, has a more conservative view of football but nonetheless welcomed his input. \u201cThere are a couple of things I probably will discard, you know he is a bit more safety conscious than me,\u201d he said. \u201cSo there are a couple of things we disagree about. But it is nice to have that, for me to have Steve Coppell here, and to bounce a couple of things off him is a nice feeling.\u201d",
+  "webTitle": "Steve Coppell helps Crystal Palace prepare for FA Cup final",
+  "webPublicationDate": "2016-05-20T08:48:32Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/20/steve-coppell-crystal-palace-fa-cup-final",
+  "keyword": [
+    {
+      "webTitle": "Crystal Palace",
+      "id": "football/crystalpalace",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "FA Cup",
+      "id": "football/fa-cup",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Alan Pardew",
+      "id": "football/alan-pardew",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "football/2016/may/20/steve-coppell-crystal-palace-fa-cup-final"
+}

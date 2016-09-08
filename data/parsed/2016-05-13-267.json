@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/13/printed-book-sales-ebooks-decline",
+  "id": "2016-05-13-267",
+  "sectionId": "media",
+  "body": "Sales of printed books have grown for the first time in four years, lifted by the adult colouring book craze and 150th anniversary of Alice in Wonderland, as ebooks suffered their first ever decline. Ebook sales fell by 1.6% to to \u00a3554m in 2015, the first drop recorded in the seven years industry body the Publishers Association has been monitoring the digital book market. Meanwhile, sales of printed books grew by 0.4% to \u00a32.76bn. \u201cDigital continues to be an incredibly important part of the industry, but it would appear there remains a special place in the consumer\u2019s heart for aesthetic pleasure that printed books can bring,\u201d said Publishers Association chief executive Stephen Lotinga.   Related: Nick Earls on the unlikely rise of the novella, star of the ebook revolution    Lotinga said that strong sectors include adult colouring books, such as Lost Ocean by The Secret Garden illustrator Johanna Basford, as well as The Complete Alice, the 150th anniversary edition of Lewis Carroll\u2019s famous fairytale. The biggest hardback seller was The Girl on The Train, selling more than 546,000 copies \u2013 the newly released paperback version has sold 60,000 copies in just three days. EL James\u2019s Fifty Shades spin-off, Grey, sold more than 1 million copies in paperback, while To Kill A Mockingbird writer Harper Lee\u2019s eagerly anticipated second novel, Go Set A Watchman, sold 360,000 copies. The Publishers Association, which measures sales within the total UK book and journal publishing industry, said that overall sales rose 1.3% to \u00a34.4bn.",
+  "webTitle": "Printed book sales rise for first time in four years as ebooks decline",
+  "webPublicationDate": "2016-05-13T08:57:59Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/13/printed-book-sales-ebooks-decline",
+  "keyword": [
+    {
+      "webTitle": "Digital media",
+      "id": "media/digital-media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Ebooks",
+      "id": "books/ebooks",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Books",
+      "id": "books/books",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Mark Sweney",
+      "id": "profile/marksweney"
+    }
+  ],
+  "guardianId": "media/2016/may/13/printed-book-sales-ebooks-decline"
+}

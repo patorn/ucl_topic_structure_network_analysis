@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/27/david-cameron-boris-johnson-contender-prime-minister",
+  "id": "2016-05-27-18",
+  "sectionId": "politics",
+  "body": "David Cameron has said Boris Johnson remains one of the main contenders to succeed him as prime minister when he steps down. Asked about comments he made last year, before the pair took opposing sides in the EU referendum campaign, Cameron said: \u201cI wouldn\u2019t withdraw any of the things I\u2019ve said \u2013 the Conservative party is lucky to have big, substantial figures within it.\u201d When Cameron first revealed that he would not be standing for a third term, in March 2015, he said: \u201cThere definitely comes a time where a fresh pair of eyes and fresh leadership would be good, and the Conservative party has got some great people coming up \u2013 the Theresa Mays and the George Osbornes and the Boris Johnsons. You know, there\u2019s plenty of talent there. I\u2019m surrounded by very good people.\u201d More recently, when asked about whether Osborne might succeed him, Cameron said he had led the country in partnership with the chancellor, whom he called a \u201cgreat talent\u201d. But he said it was not his role to pick the next leader.   Related: Boris Johnson as PM is 'horror scenario', says Juncker EU aide    Johnson is one of the favourites to replace Cameron, and is likely to get widespread support from Eurosceptics after deciding to campaign for Britain leaving the EU. That decision has resulted in a strained relationship with the prime minister, although Cameron is expected to promote Johnson in the aftermath of the referendum in late June.  Speaking in Japan, Cameron stood by his previous statement but said that in the EU debate he thought Johnson was on the wrong side.   Related: The Guardian view on the Leave campaign: show some respect for truth | Editorial    \u201cThe arguments for Britain being stronger in the world, being able to get things done, being safer against terrorism, but crucially for having the sort of strong, growing economy that we want. Being able to trade inside a market of 500m people and to reach out and trade with the rest of the world,\u201d he said. \u201cHe\u2019s wrong, but I\u2019m not changing anything that I\u2019ve said.\u201d Earlier, Cameron refused to defend Johnson after one of the most senior officials in the EU grouped him together with Marine Le Pen and Donald Trump. Martin Selmayr, chief of staff to the European commission president, Jean-Claude Junker, suggested it would be a \u201chorror scenario\u201d if Johnson were to become prime minister.   Related: Ed Miliband warns Britain could leave EU if young people don't vote    Asked whether he would publicly disagree or defend his Conservative colleague, Cameron said: \u201cI\u2019m only ever going to make arguments from now on when it comes to other Conservatives and things they say or what\u2019s said about them. \u201cI\u2019ve got a self-denying ordinance for 30 days and maybe longer. I will make the arguments about Britain\u2019s future in a reformed European Union and ignore any other issues.\u201d",
+  "webTitle": "David Cameron: Boris Johnson still a contender for next PM",
+  "webPublicationDate": "2016-05-27T21:30:16Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/27/david-cameron-boris-johnson-contender-prime-minister",
+  "keyword": [
+    {
+      "webTitle": "Boris Johnson",
+      "id": "politics/boris",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "David Cameron",
+      "id": "politics/davidcameron",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Conservatives",
+      "id": "politics/conservatives",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Anushka Asthana",
+      "id": "profile/anushkaasthana"
+    }
+  ],
+  "guardianId": "politics/2016/may/27/david-cameron-boris-johnson-contender-prime-minister"
+}

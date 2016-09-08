@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/19/alphabet-venture-capital-google-investment-payday-lenders-lendup-dangerous-products",
+  "id": "2016-05-19-122",
+  "sectionId": "technology",
+  "body": "Just days after Google proudly announced it had banned the morally dubious payday loan sector from its advertising platforms, its parent company has been revealed to be a repeat investor in a payday loan lender. GV, the venture-capital investment arm of Google\u2019s parent company, Alphabet, has backed online lender LendUp since before its launch in 2012 and has provided capital for every equity round LendUp has done since, the Wall Street Journal first reported. LendUp bills itself as a \u201cpayday loan alternative\u201d, the company promotes itself using phrases including \u201cup to $250 for 30 days\u201d, \u201cgood credit not required\u201d, and \u201cinstant decision\u201d in the manner of many other loan companies that make high-rate loans to people trying to make ends meet between paychecks. The rates LendUp charges amount to a 400% APR. The company operates digitally, rather than out of a storefront, and has been the subject of enthusiastic profiles throughout the tech media, though some of its tactics have raised eyebrows, including its use of social media to determine creditworthiness. Last week Google added payday lenders to its \u201cdangerous products\u201d category, alongside guns, tobacco and explosives in a major blow to the $46bn industry. The lenders \u2013 who generally give out small loans with extremely high interest rates \u2013have been accused of entrapping people in circles of debt. Google\u2019s ban, which will go into effect on 13 July, also will apply to ads for loans where repayment is due within 60 days of the date of issue and loans with an annual percentage rate (APR) of 36% or higher. Announcing the ban in a blogpost David Graf, Google\u2019s director of global product policy, wrote: \u201cThis change is designed to protect our users from deceptive or harmful financial products ... \u201cAccording to Wade Henderson, president and CEO of The Leadership Conference on Civil and Human Rights, \u2018This new policy addresses many of the longstanding concerns shared by the entire civil rights community about predatory payday lending. These companies have long used slick advertising and aggressive marketing to trap consumers into outrageously high interest loans \u2013 often those least able to afford it.\u2019\u201d The Journal reported that LendUp\u2019s executives had been disturbed by Google\u2019s choice to ban payday lenders from its advertising services. \u201cWe do worry about how this will play out and think it paints with too broad a brush,\u201d Sasha Orloff, LendUp\u2019s chief executive, told the publication.",
+  "webTitle": "Alphabet's venture capital arm invests in payday lenders banned by Google ads",
+  "webPublicationDate": "2016-05-19T15:54:13Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/19/alphabet-venture-capital-google-investment-payday-lenders-lendup-dangerous-products",
+  "keyword": [
+    {
+      "webTitle": "Alphabet",
+      "id": "technology/alphabet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Google",
+      "id": "technology/google",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Payday loans",
+      "id": "money/payday-loans",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Sam Thielman",
+      "id": "profile/sam-thielman"
+    }
+  ],
+  "guardianId": "technology/2016/may/19/alphabet-venture-capital-google-investment-payday-lenders-lendup-dangerous-products"
+}

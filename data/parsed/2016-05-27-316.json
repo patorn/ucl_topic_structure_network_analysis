@@ -1,0 +1,84 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sustainable-business/2016/may/27/restaurants-huge-food-waste-problem-smart-meter-winnow-hugh-fearnley-whittingstall",
+  "id": "2016-05-27-316",
+  "sectionId": "sustainable-business",
+  "body": "One third of all food produced for human consumption isn\u2019t eaten, and the hospitality sector is an important contributor to food waste.  The Winnow System \u201csmart meter\u201d aims to tackle the problem by helping chefs measure and analyse the food they\u2019re putting in the bin. They can use a tablet app to identify the types of food they\u2019re throwing away, and, combined with data collected from an electronic scale, the smart meter can tell them the value of what\u2019s being binned. It\u2019s hoped that an accurate insight into what is being wasted \u2013 and the value of that waste \u2013 will prompt chefs to improve production processes.  On average, Winnow says, 200 kitchens have cut their food waste in half using the smart meter. One London restaurant, Sam\u2019s Brasserie & Bar, saved more than \u00a35,000 in food costs in just four weeks. Data from the Waste and Resources Action Programme (Wrap) estimates that in commercial kitchens, 21% of food waste arises from spoilage, 45% happens during food preparation and 34% comes from customers\u2019 plates. The tablet app can be customised to reflect a restaurant\u2019s menu, so chefs can quickly select the source and type of food that\u2019s ending up in the bin.  One of the biggest challenges for Winnow is overcoming the idea that only poorly run, unprofessional kitchens have food waste, when the reality is that every kitchen does. Even high profile chef and activist Hugh Fearnley-Whittingstall and his team at the River Cottage Canteen in Winchester, were able to reduce waste by a third in just over two months of using the meter. Founded in 2013, the London-based company has quickly progressed from its pilot programme to working with global brands such as Compass Group and Accord Hotels. Fuelled by pressure mounting on businesses to address food waste, Winnow is now expanding its operations in the UK, Ireland, Norway, China, Singapore and Thailand.  Winnow is the 2016 winner of the waste management category of the Guardian Sustainable Business Awards.",
+  "webTitle": "Restaurants have a huge food waste problem; could an app help?",
+  "webPublicationDate": "2016-05-27T04:00:22Z",
+  "webUrl": "https://www.theguardian.com/sustainable-business/2016/may/27/restaurants-huge-food-waste-problem-smart-meter-winnow-hugh-fearnley-whittingstall",
+  "keyword": [
+    {
+      "webTitle": "Guardian sustainable business",
+      "id": "sustainable-business/sustainable-business",
+      "sectionId": "sustainable-business",
+      "sectionName": "Guardian Sustainable Business"
+    },
+    {
+      "webTitle": "Sustainable Business Awards",
+      "id": "sustainable-business/gsb-awards",
+      "sectionId": "sustainable-business",
+      "sectionName": "Guardian Sustainable Business"
+    },
+    {
+      "webTitle": "Food & drink",
+      "id": "lifeandstyle/food-and-drink",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Food & drink industry",
+      "id": "business/fooddrinks",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Restaurants",
+      "id": "lifeandstyle/restaurants",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Waste",
+      "id": "environment/waste",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "River Cottage",
+      "id": "lifeandstyle/river-cottage",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Hugh Fearnley-Whittingstall",
+      "id": "lifeandstyle/hugh-fearnley-whittingstall",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Hannah Gould",
+      "id": "profile/hannah-gould"
+    }
+  ],
+  "guardianId": "sustainable-business/2016/may/27/restaurants-huge-food-waste-problem-smart-meter-winnow-hugh-fearnley-whittingstall"
+}

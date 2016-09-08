@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/news/2016/may/15/weatherwatch-antarctic-ice-shelf-collapse-global-implications",
+  "id": "2016-05-15-25",
+  "sectionId": "news",
+  "body": "A terrifying incident rocked the Argentine Matienzo base on the Antarctic Peninsula in 1995. The base was built on an island surrounded by a thick shelf of ice called Larsen A. Ten soldiers manning the base noticed strange pools of melted water appearing on the ice surface, followed by gurgling noises as water drained through cracks in the ice, whilst far below came deep rumbling sounds. Shortly after, a monstrous collapse shook the base as the whole of Larsen A suffered a colossal implosion and shattered into a melange of icebergs. That was followed by the collapse of more ice shelves along the Peninsula. Because ice shelves float on the sea their melting didn\u2019t add to rising sea levels. The ice shelves did, however, act as a brake on glaciers, and when they vanished the glaciers were free to slide into the sea and melt, incrementally adding to the threat of rising sea levels.  Rising global temperatures remain a concern \u2013 just last year, the Antarctic Peninsula set a new record temperature of 17C for Antarctica and prolonged warming and subsequent ice shelf collapses have wide ranging global implications.   Related: West Antarctica ice sheet collapse: 'it will change the coastline of the world' | Hamish Pritchard    A far greater worry is the giant West Antarctic ice sheet. The ice sheet is buttressed by fringes of floating sea ice, which, if a similar collapse were to take place, could be enough to set off a chain reaction leading to a vast ice-sheet recession over just a few decades. If it melted completely scientists think that it could add as much as three metres to global sea levels, and that would spell catastrophe for low lying coasts around the world.",
+  "webTitle": "Continuing collapse of Antarctic ice shelves will affect us all",
+  "webPublicationDate": "2016-05-15T20:30:16Z",
+  "webUrl": "https://www.theguardian.com/news/2016/may/15/weatherwatch-antarctic-ice-shelf-collapse-global-implications",
+  "keyword": [
+    {
+      "webTitle": "Antarctica",
+      "id": "world/antarctica",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Sea level",
+      "id": "environment/sea-level",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Climate change",
+      "id": "environment/climate-change",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Meteorology",
+      "id": "science/meteorology",
+      "sectionId": "science",
+      "sectionName": "Science"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jeremy Plester",
+      "id": "profile/jeremy-plester"
+    }
+  ],
+  "guardianId": "news/2016/may/15/weatherwatch-antarctic-ice-shelf-collapse-global-implications"
+}

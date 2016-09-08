@@ -1,0 +1,82 @@
+{
+  "apiUrl": "https://content.guardianapis.com/society/2016/may/24/nhs-regulator-cqc-hosital-care-home-inspections",
+  "id": "2016-05-23-7",
+  "sectionId": "society",
+  "body": "The tough inspection regime for hospitals introduced to prevent a repeat of the Mid Staffordshire care scandal is being relaxed as the NHS regulator adjusts to budget cuts brought in by the health secretary, Jeremy Hunt. The Care Quality Commission (CQC) will undertake fewer and smaller inspections of hospitals in England and rely more on information provided by patients and NHS trusts themselves under the watchdog\u2019s new five-year strategy.  The change will see a rolling back of the in-depth approach to assessing the quality and safety of hospital services over the past three years, in which scores of CQC inspectors have spent up to a week examining how hospitals operate.  Labour said scaling back the work of the CQC, and greater reliance on data from hospitals, could mean that the public would not find out that a hospital was providing poor care in future.  \u201cAt the last election, Jeremy Hunt promised to \u2018root out poor care\u2019. But, one year later, his cuts to the CQC\u2019s budget mean fewer services being inspected and an increasing reliance on hospitals marking their own homework through the use of data collection,\u201d said Justin Madders, a shadow health minister. \u201cWith these cuts, there is a real risk patients will be the left in the dark about the Tories\u2019 NHS crisis.\u201d As part of the CQC\u2019s new strategy, inspectors will concentrate on core services provided by hospitals, such as A&E and critical care, and will no longer examine in detail how a wide range of departments are doing.  \u201cAlthough we will retain large-scale comprehensive inspections where we believe these are needed, we will move to a targeted and tailored approach focused on core services in most cases,\u201d it says in a document outlining its plans. NHS trusts already rated good or outstanding will be inspected much less often than before, but those classed as requiring improvement or inadequate will face more regular visits from the CQC.  It intends to \u201cupdate core service ratings on the basis of smaller, focused inspections and make more use of unannounced inspections\u201d and base its judgments on \u201cimproved use of information from the public, providers, other regulators and oversight bodies in order to target resources more effectively to where risk to the quality of care provided is greatest\u201d. Critics fear that unchecked data from hospitals may not always be reliable and is a poor substitute for a detailed inspection.  The CQC admitted it was having to scale back and rethink how it scrutinises health and social care services because it would be receiving \u201cfewer resources\u201d \u2013 \u00a332m less by 2019.  Some hospitals felt the CQC\u2019s inspections in recent years had been intrusive, draconian and negative about their performance, so the news was welcomed by Miriam Deakin, head of policy at the organisation, which represents hospital trusts and other providers of NHS care. \u201cNHS Providers has long called for a more proportionate and risk-based approach to regulation,\u201d she said. \u201cMaking better use of the information that comes from providers as well as the public will greatly improve confidence in the quality of care.  \u201cThere is no doubt that the CQC faces an ongoing challenge as it seeks to deliver its duties with considerably fewer resources, align its activities with other national bodies and keep pace with a fast moving health and care sector.\u201d Care home inspections are also changing, concentrating on those deemed to be offering a poor service.  The Relatives and Residents Association, a charity that speaks for people in residential care, said the result would be fewer inspections and it could be disastrous for older residents. The CQC rates just 1% of care homes as outstanding and 40% as either requiring improvement or inadequate, it pointed out. Judy Downey, the charity\u2019s chair, said: \u201cCare homes for older people are very different from other services inspected by CQC. People in care homes are often more isolated, more dependent and often totally reliant on those that care for them. We need better and more frequent inspections to ensure older people receive good, high-quality and safe care at the end of their lives.\u201d",
+  "webTitle": "NHS regulator to scale back hospital inspections after budget cuts",
+  "webPublicationDate": "2016-05-23T23:01:27Z",
+  "webUrl": "https://www.theguardian.com/society/2016/may/24/nhs-regulator-cqc-hosital-care-home-inspections",
+  "keyword": [
+    {
+      "webTitle": "Hospitals",
+      "id": "society/hospitals",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "NHS",
+      "id": "society/nhs",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Jeremy Hunt",
+      "id": "politics/jeremy-hunt",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Health policy",
+      "id": "politics/health",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Public services policy",
+      "id": "society/policy",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Care Quality Commission (CQC)",
+      "id": "society/care-quality-commission",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Denis Campbell",
+      "id": "profile/deniscampbell"
+    },
+    {
+      "webTitle": "Sarah Johnson",
+      "id": "profile/sarah-johnson"
+    }
+  ],
+  "guardianId": "society/2016/may/24/nhs-regulator-cqc-hosital-care-home-inspections"
+}

@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/17/rural-police-would-be-sitting-ducks-in-terror-attacks",
+  "id": "2016-05-17-285",
+  "sectionId": "uk-news",
+  "body": "Police in rural areas fear they could be \u201csitting ducks\u201d during a terrorist attack, a Police Federation chairman has said. Officers in isolated areas, where potential terrorist targets such as power plants are located, could be left \u201cunarmed and vulnerable\u201d as they wait for armed officers to arrive, John Apter, the head of the Hampshire branch, said. His comments come after the country\u2019s top firearms officer and a deputy chief constable, Simon Chesterman, said forces were struggling to recruit enough officers willing to carry a gun because they feared being treated as criminal suspects if they used their weapon in the line of duty.   Related: Police chiefs struggling to recruit armed officers over conviction fears    Apter told the BBC: \u201cBeing realistic, if a firearms unit was coming from the middle of the county you are still talking about 30 miles away, you are not talking about a few minutes. There would be an understandable delay. \u201cIf a firearms unit is the other side of the county they could be 70 miles away so you are talking a significant distance. So the only officers that you have available are unarmed and vulnerable officers and they are the officers that are saying to me that in a terrorist situation they would be sitting ducks.\u201d Figures released last month showed that the number of firearms officers in England and Wales had fallen by nearly a fifth in five years. Earlier in April, David Cameron announced that more armed officers were to be stationed around the country in case of a Paris-style attack. Forces are training about 1,500 extra personnel as part of counter-terrorism efforts, with 400 ready to be deployed around the clock to cities outside London. A representative of firearms officers in England and Wales said that in the event of a determined terrorist gun attack, significant parts of Britain would be left vulnerable. Che Donald, who represents the 5,647 firearms officers in the Police Federation, said that while major cities, such as London, had sufficient cover, other large towns and cities did not. \u201cCurrently there are not enough firearms officers who could deal with an incident in quite a lot of areas of Britain,\u201d he said. British police chiefs devised new strategies after the November attacks in Paris, which they viewed as a \u201cgame changer\u201d because the terrorists used new tactics and displayed a greater capability to kill on western territory than previously thought. Key among the new plans was the need to deploy armed police officers, faster and in greater numbers than before, in the event of an attack. The theory is that it would take a minimum of three armed officers to confront and neutralise one armed terrorist. Police officers\u2019 wariness about carrying guns has risen since the arrest in December 2015 of a police officer on suspicion of murder. The officer, known as W80, was arrested by the Independent Police Complaints Commission after a suspect, Jermaine Baker, was shot dead in December in Wood Green, north London.",
+  "webTitle": "Rural police would be 'sitting ducks' in terrorist attacks",
+  "webPublicationDate": "2016-05-17T07:21:31Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/17/rural-police-would-be-sitting-ducks-in-terror-attacks",
+  "keyword": [
+    {
+      "webTitle": "Police",
+      "id": "uk/police",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Police Federation",
+      "id": "uk-news/police-federation",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK security and counter-terrorism",
+      "id": "uk/uksecurity",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Counter-terrorism policy",
+      "id": "politics/terrorism",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Rural affairs",
+      "id": "uk/ruralaffairs",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jamie Grierson",
+      "id": "profile/jamie-grierson"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/17/rural-police-would-be-sitting-ducks-in-terror-attacks"
+}

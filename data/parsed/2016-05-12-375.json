@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/12/eastbourne-a-surprise-name-among-uks-most-polluted-towns-and-cities",
+  "id": "2016-05-12-375",
+  "sectionId": "environment",
+  "body": "It\u2019s perhaps no surprise that Port Talbot, home to one of Europe\u2019s biggest steelworks with thousands of tonnes of iron ore imported to its docks every year, tops the list of the UK\u2019s most polluted towns and cities.  But Eastbourne, home to the women\u2019s tennis tournament and located at the end of the South Downs national park, is not an obvious candidate for the top 10 of the worst UK towns and cities for two tiny types of particulate pollution.  However the south coast town is the third worst in the UK for PM2.5s, particulates 2.5 microns across that penetrate deep into our respiratory systems, and seventh worst for the larger PM10 pollution, according to a new database by the World Health Organisation. Gary Fuller, an air quality expert at King\u2019s College London explained that PM2.5 pollution in the UK broadly runs in a band from south-east to north-west England, and that proximity to other polluted areas is a big factor. \u201cA lot of PM2.5s has a long residence time in the air, a week or more, therefore it\u2019s not just what you generate locally, it\u2019s all the other cities around you.\u201d    Tool to find out how polluted your town/city is   Eastbourne is not far from polluted London - fifth worst for both PM10s and PM2.5s - but being next to the English channel is also relatively close to one of the most densely populated parts of continental Europe.  Port Talbot on the other hand comes top for worst PM10 pollution - followed by Stanford-Le-Hope in Essex, Glasgow and Leeds - but only 14th worst for PM2.5s. The difference, in this case, can be explained by industrial activity. \u201cIt\u2019s the massive steelworks, a lot of what they experience there is not small particles from combustion and furnaces, but larger particles [ie the PM10s] ... from the handling of lots of material on the site. They import a lot of iron ore and move it around the site. All of that activity contributes to larger particles, not smaller ones,\u201d said Fuller. Across the UK, only 11 of the 51 cities measured meet the WHO\u2019s guideline limit for PM2.5s. On the less harmful PM10s, the picture is better, with only 10 of the 51 breaching the WHO guidelines. The cleanest place in both lists is Inverness, while Newcastle and Sunderland, both former industrial heartlands, feature near the top of cleanest places for both PM10s and PM2.5s. Air pollution in UK cities and towns   Pollution chart",
+  "webTitle": "Eastbourne a surprise name among UK's most polluted towns and cities",
+  "webPublicationDate": "2016-05-12T03:01:17Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/12/eastbourne-a-surprise-name-among-uks-most-polluted-towns-and-cities",
+  "keyword": [
+    {
+      "webTitle": "Pollution",
+      "id": "environment/pollution",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Cities",
+      "id": "cities/cities",
+      "sectionId": "cities",
+      "sectionName": "Cities"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "World Health Organisation",
+      "id": "world/world-health-organisation",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Adam Vaughan",
+      "id": "profile/adam-vaughan"
+    }
+  ],
+  "guardianId": "environment/2016/may/12/eastbourne-a-surprise-name-among-uks-most-polluted-towns-and-cities"
+}

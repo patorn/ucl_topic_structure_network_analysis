@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/25/bbc-will-never-run-adverts-online-in-uk-says-director-general",
+  "id": "2016-05-25-131",
+  "sectionId": "media",
+  "body": "BBC director general Tony Hall has ruled out ever running online ads in the UK, saying it would harm other digital businesses that rely on ads. During a special session of the public accounts committee, Labour MP Caroline Flint asked Hall \u201cwhen it comes to an online formats, isn\u2019t there a stream of advertising revenue in the future?\u201d.  Hall replied by saying advertising in the UK would harm the country\u2019s broader broadcasting and news ecosystem.  \u201cWe have a good ecology in this country, ITV and Channel 4 are doing public service broadcasting but funded by ads, and Sky has subscribers. That kind of works and I don\u2019t think it is for us to get into the advertising market,\u201d he said.   Related: BBC climbdown over online recipes after public outcry    Pressed again by Flint, who said online ads had less \u201cqualitative\u201d impact on digital news and information than in TV or radio, he said it would be going back on promises to commercial providers.  \u201cThe problem is if we started taking advertising online, we would be doing something we said we won\u2019t do,\u201d he said. \u201cThere are others out there whose funding model \u2013 we are privileged to be funded by license fee \u2013 there are others who are trying to do other jobs in information and all sorts of other ways funded by advertising and I wouldn\u2019t want to harm their market; and they sometimes think we do harm their market.\u201d Newspapers and other digital publishers have regularly complained that the BBC\u2019s digital services compete for the attention of online audiences, depriving them of advertising revenue when spending on print ads is in decline. Hall\u2019s commitment comes just a week after the BBC caused an outcry with plans to close its BBC Food website and \u201cmothball\u201d thousands of recipes, before later saying the bulk of the content would be quickly moved to the BBC Good Food website, which is owned by commercial arm BBC Worldwide and runs ads.  Despite ruling out advertsing on BBC services in the UK, Hall said it was right to have them on output outside the UK, such as the World Service",
+  "webTitle": "BBC will never run adverts online in UK, says director general",
+  "webPublicationDate": "2016-05-25T14:26:57Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/25/bbc-will-never-run-adverts-online-in-uk-says-director-general",
+  "keyword": [
+    {
+      "webTitle": "BBC",
+      "id": "media/bbc",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Tony Hall",
+      "id": "media/tony-hall",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Digital media",
+      "id": "media/digital-media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Advertising",
+      "id": "media/advertising",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Internet",
+      "id": "technology/internet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media business",
+      "id": "media/mediabusiness",
+      "sectionId": "media",
+      "sectionName": "Media"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jasper Jackson",
+      "id": "profile/jasper-jackson"
+    }
+  ],
+  "guardianId": "media/2016/may/25/bbc-will-never-run-adverts-online-in-uk-says-director-general"
+}

@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/03/bitcoin-tech-future-craig-wright-blockchain-transactions",
+  "id": "2016-05-03-315",
+  "sectionId": "technology",
+  "body": "The bitcoin world this week learned its absentee father might be Craig Wright, an Australian entrepreneur with nice suits and well-combed hair who claims he invented the digital currency. Wright\u2019s appearance complicates an already vicious custody battle. His claimed brainchild bitcoin \u2013 long billed as the future of democratized, digital money \u2013 is at the center of an ideological conflict over how to develop the technologies behind the system.    Related: Australian Craig Wright claims he is bitcoin founder Satoshi Nakamoto    Bitcoin is a paperless, bank-less, state-less currency that allows people to pay directly for goods and services. The coins themselves are made by computers solving a set of complex math problems, and people who use their computers to make coins and record transactions are called miners. The value of a bitcoin has fluctuated wildly since 2009 but now hovers between $400 and $450. To spend it, users buy bitcoin and transact using a third-party app such as Coinbase. Rather than a central authority validating transactions, all transfers are recorded on a public ledger. It can be used to pay for coffee, dinner or software from online stores as well as some real-world shops. Fans of bitcoin say the system, which tends to be a pet project of encryption wonks, could eventually rival Visa. Yet transactions are already taking longer to clear \u2013 sometimes more than 40 minutes, which is a long time if you\u2019re in a grocery store waiting for your payment to process. And without agreement on how to resolve the problems, it might soon become hard for anyone to use the service. So what\u2019s causing the problem? Nerds are calling each other \u201cnerds\u201d behind each other\u2019s backs. It\u2019s a \u201cbig communications breakdown\u201d, according to Eric Lombrozo, chief technology officer of the bitcoin transaction firm Ciphrex. On the other side of the fence, Peter Smith, whose firm Blockchain tries to help people pay with bitcoin at places like local coffee shops, says \u201creligion does perhaps explain it well\u201d.           Bitcoin made simple    It\u2019s unclear if Wright declaring himself to be bitcoin\u2019s mythical creator, Satoshi Nakamoto, will help resolve that process. Wright is on the side of people like Blockchain\u2019s Smith, a former financial services consultant whose firm raised more than $30m in venture capital, has offices in London and New York, and counts Virgin\u2019s Sir Richard Branson as an investor. Smith won\u2019t give his age, though his biography suggests he is in his early or mid-30s. He\u2019s youthful, and his voice occasionally cracks when explaining the intricacies of virtual currency. On his Twitter page he describes himself as a \u201ccapitalist, explorer and coder\u201d. Naturally, Smith wants bitcoin to grow quickly \u2013 preferably very quickly, handling lots of transactions at the same time so it\u2019s faster and more convenient for users to spend money, and so that his investors make a bigger, faster return on their investment.  Along with other bitcoin companies, Smith is trying to improve the process to handle more consecutive transactions to reduce delays and boost volume. This isn\u2019t as simple as flipping a switch. Unlike Visa, bitcoin doesn\u2019t have a central clearinghouse to process all transactions. Instead, each purchase and transfer is verified by one of thousands of computers on a volunteer network and bundled into a digital \u201cblock\u201d. Each block of transactions is then recorded on a central ledger called the blockchain \u2013 the inspiration for the name of Smith\u2019s firm.   Related: Who is Bitcoin creator Satoshi Nakamoto? Does it even matter?    Bitcoin\u2019s mainstream popularity has grown in fits and starts in recent years. For all its technological brilliance, there still isn\u2019t an easy way to use it at major stores, and spending a coin can appear to be more trouble than it\u2019s worth. For consumers, paying a merchant in person with bitcoin is similar to using PayPal or Venmo. They would need to open an app, pull up the store owner\u2019s bitcoin address and than transfer the funds, which can take several minutes to clear.  Big blocks, little blocks Smith, Wright and some other key bitcoin developers want the blocks to be larger so more transactions can clear at the same time. Their argument is both financial and philosophical. Sure, they could make more money, but bitcoin could also become more democratic and less a pet currency of techies. To them, this is the whole point of the bitcoin project. On command, Smith can quote bitcoin\u2019s originating documents like a supreme court justice combing over America\u2019s founders\u2019 early writings. An early email sent by Satoshi \u2013 or maybe Wright \u2013 spoke of Bitcoin becoming larger than Visa and relying on massive blocks.     Fans of bitcoin say the system, which tends to be a pet project of encryption wonks, could eventually rival Visa. Photograph: Benoit Tessier/Reuters    But for the blocks to get bigger, the people who run the computers that make blocks \u2013 so-called Bitcoin \u201cminers\u201d \u2013 need to switch to a different software designed by the advocates of bigger blocks. And a lot of the miners aren\u2019t prepared to switch, partly because some key Bitcoin developers have convinced miners that blocks for now should stay small.  If blocks become increasingly larger, miners will need more computing power to produce blocks, which means they\u2019ll need more money for more computers. Eventually, they warn, only professional mining operations will be able to produce blocks of transactions. This all cuts against one of the key premises of bitcoin \u2013 that the currency is decentralized and not influenced or controlled by a central bank or corporation like Visa. If bitcoin blocks get too large, it could become a system controlled by a few powerful groups of miners, the small blockers warn. Yet there are also business interests at play. In 2014, before bitcoin\u2019s current identity crisis, bitcoin developer Gregory Maxwell and several encryption enthusiasts co-founded Blockstream, a bitcoin startup that tries to develop new ways to use the currency\u2019s main technology, the blockchain. Banks and insurance companies, for instance, could automatically enforce contracts through their own, walled-off blockchains. They could also help add more capacity to the broader bitcoin network by adding more \u201cside chains\u201d to the system to help the main chain handle more blocks. In short, Maxwell and his team have a business interest in blocks staying small, because more people would need side chains. To Smith, the big-block proponent, Blockstream\u2019s position \u201cdoes seem like a conflict of interest\u201d. Maxwell and other Blockstream employees didn\u2019t respond to interview requests. Rather, Blockstream president Adam Back referred the Guardian to Lombrozo, the co-founder of Ciphrex and a small-block proponent.Lombrozo countered that Blockstream is trying to improve the foundation of bitcoin in a more gradual and secure way.  Rather, he said consumer-facing bitcoin companies that help people spend the currency on everyday goods in popular stores are overeager to grow the currency too quickly to meet revenue targets.  Lombrozo said the group of developers in favour of keeping the small-block system want bitcoin\u2019s foundation to improve before trying to grow it. \u201cEveryone would like to see this expand and become very global,\u201d he said. Bitcoin, meanwhile, may have bigger problems. After White on Monday announced that he was the real Satoshi, security researchers and encryption experts began to question his public proof of his secret identity.",
+  "webTitle": "The battle over the future of bitcoin",
+  "webPublicationDate": "2016-05-03T07:00:48Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/03/bitcoin-tech-future-craig-wright-blockchain-transactions",
+  "keyword": [
+    {
+      "webTitle": "Bitcoin",
+      "id": "technology/bitcoin",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Cryptocurrencies",
+      "id": "technology/cryptocurrencies",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology startups",
+      "id": "technology/startups",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "E-commerce",
+      "id": "technology/efinance",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Internet",
+      "id": "technology/internet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Encryption",
+      "id": "technology/encryption",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Computing",
+      "id": "technology/computing",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Danny Yadron",
+      "id": "profile/danny-yadron"
+    }
+  ],
+  "guardianId": "technology/2016/may/03/bitcoin-tech-future-craig-wright-blockchain-transactions"
+}

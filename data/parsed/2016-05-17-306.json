@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/australia-news/2016/may/17/clive-palmer-threatens-to-sue-queensland-nickel-administrators-for-12bn",
+  "id": "2016-05-17-306",
+  "sectionId": "australia-news",
+  "body": "Clive Palmer says he will sue the administrators he handpicked to oversee his collapsed Queensland Nickel (QN) business for $1.2bn in damages. Palmer, in his final months as the federal member for Fairfax, said he and QN\u2019s parent companies would serve the claim on FTI Consulting and partner John Park. The federal MP said grounds for the lawsuit, which would be lodged \u201cin coming weeks\u201d, included the administrators\u2019 alleged \u201caiding and abetting a breach of trust and causing serious breaches\u201d of a joint venture agreement, under which QN operated the refinery on behalf of parent companies that owned it.   Related: Clive Palmer will not stand again for lower house but Senate remains option    A spokesman for FTI described the possible lawsuit as \u201ccompletely without foundation\u201d and questioned whether Palmer would actually go ahead with the lawsuit. \u201cWe intend to strenuously defend these allegations from Mr Palmer, if he does in fact commence proceedings,\u201d he said. \u201cWe note that he recently commenced a court application against the administrators which he withdrew only hours before the judgment was due to be delivered.\u201d Palmer accused Park of lying in a report to creditors that alleged Palmer acted as a shadow director of QN and could be exposed to criminal prosecution for alleged reckless conduct by siphoning money from the company\u2019s \u201crelated entities\u201d. Park told reporters in April that Palmer had used QN as a \u201cpiggy bank\u201d to fund his political and business empire. He said then he expected Palmer \u2013 who in May confirmed he would not run again for his federal seat of Fairfax \u2013 to wage a \u201cvigorous\u201d and prolonged legal fight against recovery action by FTI. The FTI report recommended that QN, which went bust in January with debts of $100m, should be liquidated and that \u201cuncommercial and director-related transactions\u201d authorised by the pair could be recovered. This included $224m in loans from QN funds to \u201cdirector-related parties\u201d since February 2011, of which more than $189m had been \u201cforgiven\u201d to the benefit of those parties. Among those payments that could be clawed back were $42m in cash transfers to \u201crelated entities\u201d in November 2012, including $US15m to Palmer and $US8m to his father-in-law Alexandar Sokolov who worked as QN\u2019s technical director. In addition, QN transferred $US15m to the French Polynesia-based company SCI Le Coeur De L Ocean, in which his wife Anna owns shares and is a director, the report said. An extra $26m was transferred as political donations and sponsorships \u201cwhere it appears a director may have received an indirect benefit\u201d, the report says. This included $21.5m to the Palmer United party (PUP), with QN contributions making up more than 27% of all Australian political donations in financial years 2014 and 2015. Administrators said this spending, which included $2.2m on PUP\u2019s use of a jet aircraft, \u201ccaused detriment to QN\u201d. Creditors voted for QN to be liquidated and the commonwealth appointed its own special-purpose liquidator to claw back $73m the federal government was expected to pay to cover the entitlements of almost 800 workers. Park sacked 500 remaining QN workers in March, saying at the time there were \u201cno alternatives\u201d after another Palmer company installed as operator of the refinery did not rehire them. Palmer alleged on Tuesday the refinery would still be operating if Park hadn\u2019t sacked everyone and that he breached the refinery\u2019s joint venture agreement by doing so. He said Park should resign as liquidator of QN.",
+  "webTitle": "Clive Palmer threatens to sue Queensland Nickel administrators for $1.2bn",
+  "webPublicationDate": "2016-05-17T06:04:14Z",
+  "webUrl": "https://www.theguardian.com/australia-news/2016/may/17/clive-palmer-threatens-to-sue-queensland-nickel-administrators-for-12bn",
+  "keyword": [
+    {
+      "webTitle": "Clive Palmer",
+      "id": "australia-news/clive-palmer",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Mining",
+      "id": "business/mining",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Queensland",
+      "id": "australia-news/queensland",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Palmer United party",
+      "id": "australia-news/palmer-united-party",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australian politics",
+      "id": "australia-news/australian-politics",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Joshua Robertson",
+      "id": "profile/joshua-robertson"
+    }
+  ],
+  "guardianId": "australia-news/2016/may/17/clive-palmer-threatens-to-sue-queensland-nickel-administrators-for-12bn"
+}

@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/24/bank-of-england-governor-rejects-accusations-of-bias-over-eu-referendum",
+  "id": "2016-05-24-144",
+  "sectionId": "business",
+  "body": "Bank of England governor Mark Carney has hit back at critics of Threadneedle Street\u2019s warnings over Brexit, arguing that voters wanted to weigh up the economic risks of a vote to leave the European Union. In heated exchanges at a parliamentary select committee on Tuesday, Carney told MPs the BoE had a responsibility to the British people \u201cwho don\u2019t want risks kept from them\u201d. The governor rebutted criticism from pro-Brexit Tory MPs Jacob Rees-Mogg and Steve Baker that the bank was wrong to pass judgment on the economic impact of leaving the EU. Rees-Mogg, who has previously called for Carney to resign over his Brexit warnings, renewed his attacks, calling the BoE a \u201ccreature of the government\u201d. He said he was concerned that the Bank has succumbed to pressure from the chancellor to highlight the risks of a Brexit and downplay the potential benefits of a vote to leave, while Baker accused it of producing flawed economic forecasts. Rees-Mogg accused Carney of becoming \u201cpolitically involved\u201d. He responded: \u201cI don\u2019t think that\u2019s worth replying to.\u201d At a previous Treasury select committee hearing in March, Rees-Mogg accused Carney of jeopardising the bank\u2019s reputation for \u201cOlympian detachment\u201d by emphasising the pros but not the cons of EU membership. This time the MP for North East Somerset and Brexit campaigner said the Bank of England was not in the habit of commenting on opposition economic policy during a general election campaign, so should not comment on the effects of a UK departure from the EU during the referendum campaign. Carney rejected the analogy, saying: \u201cWe have a responsibility to discharge our remit and we have a wider responsibility to the British people, who don\u2019t want risks kept from them. \u201cTo suggest otherwise is to try to undermine that.\u201d He said a general election involved many political parties and could result in coalition governments. He added that a referendum presented a single clear issue whereas manifesto pledges covered many topics and could take years to implement. Earlier this month, the Bank of England gave a stark warning that a vote to leave the EU could push the economy into recession. The report said the economy had already begun to suffer the effects of the uncertainty surrounding the referendum outcome, pushing down the value of sterling and discouraging commercial property investment in the UK. At Tuesday\u2019s select committee hearing the deputy bank governor, Ben Broadbent, and external committee members Martin Weale and Dr Gertjan Vlieghe , said they had acted independently and without influence from the Treasury or Carney to warn that Brexit uncertainty was having a negative impact on the economy. Andrew Tyrie, chairman of the committee quizzing Carney and other BoE officials, said MPs would have criticised the governor if he had avoided making an assessment of the risks of Brexit.",
+  "webTitle": "Bank of England governor rejects accusations of bias over EU referendum",
+  "webPublicationDate": "2016-05-24T13:49:13Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/24/bank-of-england-governor-rejects-accusations-of-bias-over-eu-referendum",
+  "keyword": [
+    {
+      "webTitle": "Mark Carney",
+      "id": "business/mark-carney",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Bank of England",
+      "id": "business/bankofenglandgovernor",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Phillip Inman",
+      "id": "profile/phillipinman"
+    }
+  ],
+  "guardianId": "business/2016/may/24/bank-of-england-governor-rejects-accusations-of-bias-over-eu-referendum"
+}

@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/30/the-three-big-reasons-windows-10-tablets-dont-cut-it",
+  "id": "2016-05-30-127",
+  "sectionId": "technology",
+  "body": "If you\u2019re after a tablet in 2016, broadly speaking you have three choices: Android, Apple\u2019s iPad or Microsoft\u2019s Windows 10 tablets. While the first two are mobile born and bred, spawned from smartphone operating systems, Windows 10 comes from the other side of computing - the traditional desktop. So-called two-in-one PCs, which are half tablet, half laptop, with the ability to transform in some fashion between the two, are about the only sector of PCs and tablets that\u2019s growing. They seem like the perfect combination between a tablet and a computer without having to buy two devices. Manufacturers such as Microsoft, Samsung and Huawei are starting to make hardware that\u2019s up to scratch with the best of Google and Apple. The Samsung TabPro S, which triggered this article, is a well-built, snappy and attractive tablet. As a PC, it is a thin and light laptop replacement, but while Microsoft has made huge leaps with Windows 10\u2019s look and feel, a few big things are holding its tablets back. Some problems Microsoft can and should do something about; others aren\u2019t that easy to fix. The app gap     The Windows Store appears to be a second-class citizen in the eyes of developers. What third-party apps are there aren\u2019t updated. Photograph: Samuel Gibbs for the Guardian    People talk about the \u201capp gap\u201d between Android and iOS \u2013 there are more tablet-specific apps for Apple\u2019s iPad than there are for Android tablets \u2013 but Windows 10 is miles behind both of them. I\u2019m not talking about the sheer number of apps. Having the right apps available is much better than having many shoddy ones. I\u2019m also not talking about the availability of Windows desktop apps, which is Microsoft\u2019s ace in the hole compared with machines running Android or iOS. It is the third-party apps that make using a tablet fun and enjoyable that Windows 10 lacks. The classic example is video consumption apps. Netflix is available in the Windows Store, as is All 4 and Demand 5, which is good, but the BBC iPlayer, ITV Hub and Amazon Prime video are not. To access those services you\u2019re forced back into the browser and a desktop-like experience. The same hit-and-miss selection extends to almost all other app areas. There\u2019s a Facebook app, but no Instagram one, a Kindle app, but no ComiXology or Marvel Unlimited. When it comes to music apps you\u2019re forced to use Windows desktop apps from Spotify, iTunes and others in the browser. When there are apps, they aren\u2019t updated in line with apps on other platforms; for example, the Twitter app still hasn\u2019t got built-in Giphy support. And while desktop apps are great when using a Windows device as a laptop, they\u2019re just not a good experience on a touchscreen tablet. Blurry mess The desktop app situation is made worse by Microsoft\u2019s poor handling of high-resolution screens. Five years ago, a high resolution display provided increased screen real estate by making everything tiny. Today the density of screens has increased so that text, images and icons look pin-sharp, not microscopic in size. Windows Store apps scale fine with crisp text on the good-looking screens tablets such as the Samsung TabPro S have. But Windows desktop apps often look like a blurry mess, simply magnified without increasing the pixel density. It\u2019s a very poor experience, particularly on a tablet. It makes me actively avoid using desktop Windows apps, but it\u2019s almost impossible to exclude them all in favour of Windows Store apps because of the app gap. Battery death     A day\u2019s working battery from the TabPro S is great, but standby battery life can be woeful. You see this screen a lot, even with the \u2018battery saver\u2019 feature enabled. Photograph: Samuel Gibbs for the Guardian    Apps and resolutions aside, the real big flaw for Windows 10 tablets is battery life. I\u2019m not talking about active use battery life \u2013 I got a full day of work without plugging in the TabPro S \u2013 but standby time. When you hit the power button to put an iPad or Android tablet running Marshmallow to sleep, you can be sure when you come back a day later that it\u2019ll still have charge. Time and time again I\u2019ve put Windows 10 tablets to sleep over night only to find them dead by the morning. Microsoft\u2019s built-in battery saver mode helps, but Windows 10 needs much tighter control over the power state of the device when asleep, particularly when users expect an instant-on response when coming back to their tablets. Both Android and iOS excel here. The iPad Pro lasts a week on standby, as does Google\u2019s Pixel C. I\u2019m lucky if I managed to get a day of standby out of the TabPro S, which has one of the longest battery lives of any Windows 10 tablet I\u2019ve tested. The tablet market is waning, two-in-ones are rising and with them the use of Windows 10 on tablets. Microsoft has an excellent opportunity to claim back some share of the mobile market, but it needs to work hard to crush the problems and narrow the app gap. Windows 10 tablets could be amazing, and while the hardware is getting there, the software isn\u2019t right now.  Windows 10 review \u2013 final version of Windows might be Microsoft\u2019s best ever Microsoft Surface Book review: the best Windows laptop, with detachable screen",
+  "webTitle": "The three big reasons Windows 10 tablets don't cut it",
+  "webPublicationDate": "2016-05-30T11:00:01Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/30/the-three-big-reasons-windows-10-tablets-dont-cut-it",
+  "keyword": [
+    {
+      "webTitle": "Windows 10",
+      "id": "technology/windows-10",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Windows",
+      "id": "technology/windows",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Microsoft",
+      "id": "technology/microsoft",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Tablet computers",
+      "id": "technology/tablet-computer",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Computing",
+      "id": "technology/computing",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Samuel Gibbs",
+      "id": "profile/samuel-gibbs"
+    }
+  ],
+  "guardianId": "technology/2016/may/30/the-three-big-reasons-windows-10-tablets-dont-cut-it"
+}

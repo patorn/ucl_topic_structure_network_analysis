@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/03/insolvency-service-investigate-bhs-administration",
+  "id": "2016-05-03-84",
+  "sectionId": "business",
+  "body": "The government has ordered the insolvency watchdog to launch an immediate investigation into the circumstances surrounding BHS\u2019s slump into administration. The business secretary, Sajid Javid, instructed the Insolvency Service to consider the extent to which the conduct of the BHS directors led to its collapse into insolvency last week, putting 11,000 jobs at risk. The investigation will not only look at the role of the directors, led by Dominic Chappell of Retail Acquisitions, at the time when administrators were called in, but their predecessors, led by Sir Philip Green. \u201cI have asked the Insolvency Service to bring forward its investigation rather than wait three months for the administrators to report before launching their inquiry ... Any issues of misconduct will be taken very seriously,\u201d Javid said. The Insolvency Service intervention is the latest in a series of investigations into what happened at BHS. Two cross-party committees of MPs are also looking at the matter. On Tuesday, Green agreed to appear before an unusual joint session of the business, innovation and skills select committee and the work and pensions select committee. He is expected to go to parliament in mid June after the committees have taken evidence from other parties, including Chappell, pension trustees and the former BHS chairman Lord Grabiner. However, the committees said they had no plans to call Green\u2019s wife, Tina, to appear. The work and pensions committee inquiry will begin on Monday with evidence from the Pensions Regulator and the Pension Protection Fund, the industry-backed body that is likely to have to make up BHS\u2019s pension deficit of \u00a3571m. The Serious Fraud Office is also reported to be examining the flow of money in and out of BHS after Green sold the business for \u00a31 to Retail Acquisitions more than a year ago. The SFO would neither confirm nor deny its interest in the matter. The Insolvency Service normally waits for the conclusion of a final report by administrators before commencing any investigation into a company. But the Department for Business, Innovation and Skills said the \u201cunique circumstances\u201d surrounding the BHS case meant that Javid wanted to commence the investigation as soon as possible. Should it conclude that one or more present or former directors had been involved in any misconduct, an application may be made to a court to ask that they be disqualified from acting as a director for a period of between two and 15 years, depending on the nature of their misconduct.  If the conduct that leads to a disqualification took place after 1 October 2015 and caused a loss to creditors, an application could also be made to a court for compensation.  Retail Acquisitions extracted more than \u00a325m of payments, including professional fees and loan interest, from BHS in the year before it entered administration with debts of \u00a31.3bn. The Guardian has revealed that the former racing driver Chappell could be forced to return millions of pounds paid to his consortium during its controversial 13-month ownership of BHS. The legal director of BHS has written to Chappell asking him for \u00a350,000 that was not repaid after he moved \u00a31.5m from the retailer to an obscure corporate vehicle in the days before its collapse. Meanwhile, BHS administrators are examining whether loans paid to Retail Acquisitions can be called in. Under Green\u2019s stewardship, more than \u00a3586m was extracted in dividends, rental payments and interest on loans by the Green family and other shareholders, including The Ivy restaurant owner, Richard Caring. Administrators are urgently negotiating with up to 10 potential buyers who are thought to be interested in taking on as many as 60 of BHS\u2019s 160-plus stores as a going concern. The interested parties include the Sports Direct founder, Mike Ashley, who has pledged to save all the jobs at risk, discount retailer B&M, the Edinburgh Woollen Mill owner, Philip Day, the Co-op chairman Allan Leighton and the Preston-based property entrepreneur Yousuf Bhailok. Bidders have been given access to the BHS books this week and are expected to assess the information over the coming days before first round bids are tabled. Angela Eagle MP, shadow business secretary, said: \u201cFollowing days of pressure from the Labour party and the announcement last week of a joint select committee inquiry, this latest statement from the government on the BHS affair is very welcome. \u201cThe former owners took hundreds of millions of pounds out of the business, before leaving a pension black hole which is now estimated to be worth \u00a3571m. If the former owners acted inappropriately, we need to ensure that they pay their fair share of the deficit, rather than leaving the Pension Protection Scheme \u2013 and other pension funds \u2013 to pick up the bill.\u201d",
+  "webTitle": "Insolvency Service to investigate BHS's slump into administration",
+  "webPublicationDate": "2016-05-03T17:36:44Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/03/insolvency-service-investigate-bhs-administration",
+  "keyword": [
+    {
+      "webTitle": "BHS",
+      "id": "business/bhs",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Sajid Javid",
+      "id": "politics/sajid-javid",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Sir Philip Green",
+      "id": "business/philip-green",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Retail industry",
+      "id": "business/retail",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Regulators",
+      "id": "business/regulators",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Sarah Butler",
+      "id": "profile/sarahbutler"
+    }
+  ],
+  "guardianId": "business/2016/may/03/insolvency-service-investigate-bhs-administration"
+}

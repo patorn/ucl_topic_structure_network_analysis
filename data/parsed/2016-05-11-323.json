@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/11/islamic-state-children-app-mobile-teach-arabic",
+  "id": "2016-05-11-323",
+  "sectionId": "world",
+  "body": "The Islamic State has reportedly released an app to teach children the Arabic alphabet with the aid of guns, tanks and cannons. The mobile application, Huroof \u2013 which means alphabet or letters in Arabic \u2013 gives a step-by-step walkthrough of the Arabic alphabet, and offers games and a nasheed (an a cappella Islamic song) to help users memorise the alphabet. Caleb Weiss, reporting on the app in the Long War Journal, said the lyrics of the nasheed were \u201clittered with jihadist terminology\u201d.  The app is clearly marketed to children, with the branding of stars, balloons and flowers masking military themes, and \u201ctank\u201d, \u201cgun\u201d, \u201ccannon\u201d, \u201cbullet\u201d and \u201crocket\u201d among the vocabulary taught. Islamic State\u2019s propaganda outlet, the Library of Zeal, publicised the mobile application on its channel on the encrypted messaging service Telegram as well as other file-sharing websites on 10 May.   Related: Afghan Taliban create smartphone app to spread their message    The press release, which included screenshots from the app as well as a link to download it, said it \u201cteaches the cubs the alphabet letters\u201d. Isis refers to its militants as \u201clions\u201d and their children as \u201ccubs\u201d. It appears to currently be available only on Android devices. It is Isis\u2019 first app targeted at children, but the terrorist group has released others in the past as a means of distributing propaganda, after encountering difficulties using mainstream internet services. Telegram said last year it was taking action to block its use by Isis after security researchers found its public channels were being used to broadcast news and videos of its military victories or sermons. Telegram said last November it had identified and blocked 78 Isis-related broadcast channels in 12 languages on its site.    This week we blocked 78 ISIS-related channels across 12 languages. More info on our official channel: https://t.co/69Yhn2MCrK\u2014 Telegram Messenger (@telegram) November 18, 2015    Just last month the Afghan Taliban created an app, Alemarah, in an attempt to reach a wider digital audience with its videos and statements.",
+  "webTitle": "Islamic State releases children's mobile app 'to teach Arabic'",
+  "webPublicationDate": "2016-05-11T07:45:26Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/11/islamic-state-children-app-mobile-teach-arabic",
+  "keyword": [
+    {
+      "webTitle": "Islamic State",
+      "id": "world/isis",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Syria",
+      "id": "world/syria",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Middle East and North Africa",
+      "id": "world/middleeast",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Elle Hunt",
+      "id": "profile/elle-hunt"
+    }
+  ],
+  "guardianId": "world/2016/may/11/islamic-state-children-app-mobile-teach-arabic"
+}

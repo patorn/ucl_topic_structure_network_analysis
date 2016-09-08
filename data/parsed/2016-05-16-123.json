@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/16/warren-buffett-apple-stocks-berkshire-hathaway",
+  "id": "2016-05-16-123",
+  "sectionId": "technology",
+  "body": "Warren Buffett\u2019s Berkshire Hathaway has bought $1bn worth of Apple shares in a bet that the iPhone-maker will bounce back from a recent slump. The multi-billionaire\u2019s conglomerate announced on Monday that it had bought 9.8m shares in Apple, a surprise move as Buffett has mostly avoided investments in the tech industry.  Buffett\u2019s investment in Apple comes as Carl Icahn, another famous investor with a long history of taking activist stakes in tech firms, sold more than 45m Apple shares and said the company was no longer a \u201cno-brainer\u201d investment.    Related: Are slow iPhone sales just a blip or is Apple starting to struggle?    Berkshire Hathaway, which manages assets and investments of more than $500bn, disclosed in a regulatory filing on Monday that it held 9.8m Apple shares as of 31 March.  Apple\u2019s shares, which have lost almost a third of their value since mid-April when the firm announced its first quarterly drop in sales in 13 years, rose 3.4% to $93.50 dollars by 11am on Monday following the news. Buffett, who is the world\u2019s third richest person with a $66.5bn fortune according to Forbes magazine, has previously only invested in one tech company: IBM. Berkshire Hathaway first bought into IBM in 2011 and now holds a stake worth $12.3bn.  Asked why he had bought IBM shares rather than Apple or Google at Berkshire Hathaway\u2019s 2012 shareholder meeting, Buffett said: \u201cThe chances of being way wrong in IBM are probably less, at least for us, than the chances of being way wrong in Google or Apple ... I just don\u2019t know how to value them. \u201cI would not be at all surprised to see them be worth a lot more money 10 years from now but I would not buy either one of them. I sure as hell wouldn\u2019t short them either.\u201d Buffett, who is known as the \u201csage of Omaha\u201d, may be changing his stance on tech stocks. He also on Monday told CNBC that he has offered to help Dan Gilbert, the chairman of Quicken Loans and owner of the Cleveland Cavaliers basketball team, finance a bid for Yahoo.  Apple\u2019s second quarter sales fell from $58bn to $50.6bn, and CEO Tim Cook warned investors of further falls to come, with its next quarterly sales projected to come in at $41-43bn, considerably lower than expectations of $47.3bn. The iPhone, which has transformed not just telecommunication but music, banking and boring train journeys with its games, suffered its first ever quarterly drop in sales in the first three months of the year. Apple sold 51.2m iPhones, 10m less than it shifted in the first three months of 2015 but more than the just 50m analysts feared. The company also charged less for the phones it did manage to sell with it achieving an average price of $642 for each iPhone sold compared to $691 in the previous quarter.",
+  "webTitle": "Warren Buffett buys $1bn of Apple stocks in first for Berkshire Hathaway",
+  "webPublicationDate": "2016-05-16T15:51:32Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/16/warren-buffett-apple-stocks-berkshire-hathaway",
+  "keyword": [
+    {
+      "webTitle": "Apple",
+      "id": "technology/apple",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Warren Buffett",
+      "id": "business/warrenbuffett",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Rupert Neate",
+      "id": "profile/rupertneate"
+    }
+  ],
+  "guardianId": "technology/2016/may/16/warren-buffett-apple-stocks-berkshire-hathaway"
+}

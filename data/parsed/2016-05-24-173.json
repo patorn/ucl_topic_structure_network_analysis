@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/24/john-carpenter-new-halloween-film-executive-producer",
+  "id": "2016-05-24-173",
+  "sectionId": "film",
+  "body": "John Carpenter is returning to oversee a new Halloween film, more than three and a half decades after introducing the iconic slasher saga, reports Variety.   Related: Halloween shocked back into life and Money Monster reviewed - the Dailies film podcast    The film-maker and composer will executive produce the 10th sequel to 1978\u2019s Halloween, which introduced mask-wearing bogeyman Michael Myers and the young Jamie Lee Curtis as original scream queen Laurie Strode. \u201cThirty-eight years after the original Halloween, I\u2019m going to help to try to make the 10th sequel the scariest of them all,\u201d said Carpenter, 68.  The new, as-yet-untitled film is being co-produced by Malek Akkad, son of the late Syrian American film-maker Moustapha Akkad, who oversaw the success of the first movie and several of its sequels. Jason Blum of Blumhouse Productions is on board as a second co-producer. Producers will now work with production company Miramax to find a director for the 11th Halloween movie, previous instalments having taken more than $400m worldwide. It will be the first new film in the series since 2009\u2019s critically scorned Rob Zombie-directed effort Halloween II, a sequel to the director\u2019s 2007 remake of the original Halloween.",
+  "webTitle": "John Carpenter to make new Halloween film 'the scariest of them all'",
+  "webPublicationDate": "2016-05-24T12:33:51Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/24/john-carpenter-new-halloween-film-executive-producer",
+  "keyword": [
+    {
+      "webTitle": "Horror",
+      "id": "film/horror",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ben Child",
+      "id": "profile/benchild"
+    }
+  ],
+  "guardianId": "film/2016/may/24/john-carpenter-new-halloween-film-executive-producer"
+}

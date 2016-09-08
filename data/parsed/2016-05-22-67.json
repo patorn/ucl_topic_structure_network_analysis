@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/22/horse-racing-tips-monday",
+  "id": "2016-05-22-67",
+  "sectionId": "sport",
+  "body": "Ayr 2.00 Torremar 2.30 Perfect Words 3.05 Sir Domino 3.40 Millefiori 4.15 Henpecked 4.45 Erik The Red (nap) 5.15 Elusive Gent (nb) Carlisle 6.35 Tanawar 7.05 Medici Banchiere 7.35 Boy In The Bar 8.05 Bargain Buy 8.35 She\u2019s Electric 9.05 Wilde Extravagance Leicester 2.15 Global Revival 2.45 Golden Guest 3.20 Johnny B Goode 3.55 Grapevine 4.30 Robanne 5.00 Kestrel Dot Com 5.30 Divisionist 6.00 First Excel   Related: The Grey Gatsby and Ryan Moore defeat Australia at Leopardstown    Windsor 5.45 Tropical Rock 6.15 Foresight 6.45 Aldair 7.15 Strath Burn 7.45 Francisco 8.15 Rockspirit 8.45 Baadi",
+  "webTitle": "Horse racing tips: Monday 23 May",
+  "webPublicationDate": "2016-05-22T16:14:08Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/22/horse-racing-tips-monday",
+  "keyword": [
+    {
+      "webTitle": "Horse racing tips",
+      "id": "sport/horse-racing-tips",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Horse racing",
+      "id": "sport/horse-racing",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Chris Cook",
+      "id": "profile/chriscook"
+    }
+  ],
+  "guardianId": "sport/2016/may/22/horse-racing-tips-monday"
+}

@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/books/2016/may/17/user-manuals-publisher-haynes-job-cuts-profit-warning",
+  "id": "2016-05-17-117",
+  "sectionId": "books",
+  "body": "Haynes, the publisher of user manuals for everything from cars to Death Stars and famous locomotives, is to shed jobs after issuing a profit warning. The firm, whose founder John Haynes published his first manual as a schoolboy in 1956, has been hit by a decline in demand for print manuals in the US and Australia. The publisher said pre-tax profit was likely to be \u201cup to 30%\u201d below market forecasts of \u00a32.6m as a result. Haynes will now adopt the recommendations of an internal review by shutting down its printing presses in Nashville, Tennessee, in response to falling print sales. It will also pull out of Sweden, opting to serve its Scandinavian customers from the UK instead. Both moves mean the loss of 41 jobs, 17% of its global headcount, most of them in Nashville. Haynes expects to take a \u00a34m hit on the cost of sacking staff and write-downs on the value of manuals in the US that it can no longer sell. The publisher said it expected the cuts to result in savings it could use to bolster its digital offering, but that the impact was unlikely to be seen until early 2018. \u201cIt is the board\u2019s intention to use the substantial savings which will accrue to the business to accelerate the development and marketing of its consumer and professional digital platforms,\u201d the company said. Its chairman, Eddie Bell, added: \u201cWhile today\u2019s trading update is disappointing we are confident that the operational changes announced will deliver improved efficiency and sustained profitability in the coming years.\u201d Haynes said that while US and Australian performance was worse than expected, its UK and European divisions were either in line with expectations or outperforming them. A change of management this month is due to put more power in the hands of the Haynes family. The firm\u2019s chief executive, Eric Oakley, is stepping down, to be replaced by John Haynes Jr, son of the company\u2019s founder. Haynes Sr remains the company\u2019s \u201cfounder director\u201d. The company, based near Yeovil in Somerset, is best known for its user manuals for cars but has also produced manuals designed to help readers navigate the complexities of men, women and sex as well as contraptions from the Star Wars films.",
+  "webTitle": "User manuals publisher Haynes announces job cuts after profit warning",
+  "webPublicationDate": "2016-05-17T15:09:18Z",
+  "webUrl": "https://www.theguardian.com/books/2016/may/17/user-manuals-publisher-haynes-job-cuts-profit-warning",
+  "keyword": [
+    {
+      "webTitle": "Publishing",
+      "id": "books/publishing",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Manufacturing sector",
+      "id": "business/manufacturing-sector",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Books",
+      "id": "books/books",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Rob Davies",
+      "id": "profile/rob-davies"
+    }
+  ],
+  "guardianId": "books/2016/may/17/user-manuals-publisher-haynes-job-cuts-profit-warning"
+}

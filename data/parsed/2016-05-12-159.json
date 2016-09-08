@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/12/james-rutherford-schubert-schwanengesang-cd-review-bis-classical",
+  "id": "2016-05-12-159",
+  "sectionId": "music",
+  "body": "The UK is better at creating opera singers than it is at finding work for them: James Rutherford, based in Frankfurt, is a case in point. His baritone has almost everything for the Schubert selection on this disc: lightness at the top, warmth in the middle, velvety low notes, and an edge that ensures the words cut through. In dramatic songs he\u2019s capable of quicksilver changes of timbre; in Kriegers Ahnung, for example, he moves from a low snarl early on to gentle, airborne high notes. All that\u2019s missing is a sense of mischief and the ability to seduce. St\u00e4ndchen, a lover\u2019s serenade, sounds beautiful but solemn; he\u2019s never going to get that girl to climb out of her window unless he lightens up. Die Forelle, however, is lovely, with Eugene Asti\u2019s bubbling piano nudging the vocal lines along. An die Musik, sung and played with great intensity of feeling, closes a rewarding disc.",
+  "webTitle": "James Rutherford: Schubert: Schwanengesang CD review \u2013 deep velvet, with edge",
+  "webPublicationDate": "2016-05-12T14:45:01Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/12/james-rutherford-schubert-schwanengesang-cd-review-bis-classical",
+  "keyword": [
+    {
+      "webTitle": "Classical music",
+      "id": "music/classicalmusicandopera",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Erica Jeal",
+      "id": "profile/ericajeal"
+    }
+  ],
+  "guardianId": "music/2016/may/12/james-rutherford-schubert-schwanengesang-cd-review-bis-classical"
+}

@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/01/ratchet-and-clank-film-review-pixel-thin",
+  "id": "2016-05-01-185",
+  "sectionId": "film",
+  "body": "The movie spin-off from a series of Playstation science fiction video games, this lurid animation tells of two misfits \u2013 a kind of cat/squirrel hybrid called Ratchet and a small, earnest robot called Clank \u2013 as they battle to save the universe. The threat comes from evil alien Chairman Drek (looks like a sentient chicken fillet; hobbies include destroying planets) and his mad scientist sidekick Dr Nefarious. Everything about this computer animation appears cheap and tacky. Ratchet\u2019s fur has the synthetic look of something you might win at a fairground hook-a-duck stall; the plotline borrows freely from other, better films but fails to steal any decent\u00a0jokes.         Watch the trailer for Ratchet & Clank.",
+  "webTitle": "Ratchet & Clank review \u2013 pixel-thin spin-off",
+  "webPublicationDate": "2016-05-01T06:59:48Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/01/ratchet-and-clank-film-review-pixel-thin",
+  "keyword": [
+    {
+      "webTitle": "Animation",
+      "id": "film/animation",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Science fiction and fantasy",
+      "id": "film/sciencefictionandfantasy",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Wendy Ide",
+      "id": "profile/wendy-ide"
+    }
+  ],
+  "guardianId": "film/2016/may/01/ratchet-and-clank-film-review-pixel-thin"
+}

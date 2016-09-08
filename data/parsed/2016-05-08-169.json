@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/08/these-final-hours-review-apocalyptic-aplomb",
+  "id": "2016-05-08-169",
+  "sectionId": "film",
+  "body": "There are just a few hours left until the end of the world. And this film asks you to spend them in the company of James (Nathan Phillips), a self-obsessed Australian whose muscles are more defined than his personality. Although the film lacks the bravura of Von Trier\u2019s Melancholia or the heart and humour of Don McKellar\u2019s Last Night, it does have a propulsive energy and a satisfying arc of redemption. The backdrop \u2013 the total collapse of society in the face of imminent annihilation \u2013 is evoked with a compelling bleakness.         Watch the trailer for These Final Hours.",
+  "webTitle": "These Final Hours review \u2013 apocalypse with aplomb",
+  "webPublicationDate": "2016-05-08T07:00:00Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/08/these-final-hours-review-apocalyptic-aplomb",
+  "keyword": [
+    {
+      "webTitle": "Drama",
+      "id": "film/drama",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Wendy Ide",
+      "id": "profile/wendy-ide"
+    }
+  ],
+  "guardianId": "film/2016/may/08/these-final-hours-review-apocalyptic-aplomb"
+}

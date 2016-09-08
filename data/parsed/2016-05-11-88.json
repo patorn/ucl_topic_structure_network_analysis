@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/11/raccoon-power-station-outage-seattle-washington",
+  "id": "2016-05-11-88",
+  "sectionId": "world",
+  "body": "Nearly 40,000 homes were without power on Wednesday morning after a raccoon broke into a substation in Seattle, Washington, and single-pawedly brought down the electric grid in a dozen suburbs. The creature caused 13 separate system outages during its brief but energetic visit.    Want to see the raccoon that knocked out power overnight in Seattle? Here's our video @djackthephotog https://t.co/dZeWbwIrw1 via @Q13FOX\u2014 Adam Mertz (@AJMertz) May 11, 2016     Related: Rescued raccoon finds new life as a house pet and Instagram star    Seattle Power and Light tweeted that \u201can animal entered one of our substations\u201d in the early hours of the morning, causing a power outage that stretched across the suburbs from Golden Gardens Park to Queen Anne, north of the city. Eyewitness Jeff Pierce, who lives near the substation, told KIRO7 that he heard an explosion just before 3am, and then saw city workers and a dazed raccoon that had been shocked inside the substation. Sadly, the raccoon did not survive the experience, Seattle Power and Light confirmed on Twitter.    An animal entered one of our substations causing this most recent outage. Still investigating and hope to get everyone powered up asap.\u2014 Seattle City Light (@SEACityLight) May 11, 2016    On Twitter, some users were already calling the event the Great Seattle Raccoon Blackout of 2016. Electricity was not fully restored until about 8am, according to the utility.",
+  "webTitle": "Raccoon's power station caper cuts electricity to 40,000 Seattle homes",
+  "webPublicationDate": "2016-05-11T17:59:13Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/11/raccoon-power-station-outage-seattle-washington",
+  "keyword": [
+    {
+      "webTitle": "Animals",
+      "id": "world/animals",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Seattle",
+      "id": "us-news/seattle",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Washington state",
+      "id": "us-news/washington-state",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Nicky Woolf",
+      "id": "profile/nicky-woolf"
+    }
+  ],
+  "guardianId": "world/2016/may/11/raccoon-power-station-outage-seattle-washington"
+}

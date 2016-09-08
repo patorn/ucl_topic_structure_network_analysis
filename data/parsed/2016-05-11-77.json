@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/society/2016/may/11/jeremy-hunt-misleading-voters-over-nhs-budget-increase-says-thinktank",
+  "id": "2016-05-11-77",
+  "sectionId": "society",
+  "body": "Britain\u2019s leading health thinktank has accused Jeremy Hunt of misleading voters by wrongly claiming that the budget increase ministers have given the NHS this year is one of the most generous ever. The King\u2019s Fund has rejected the health secretary\u2019s claim that the NHS is receiving \u201cthe sixth-biggest increase in its history\u201d as inaccurate and a misrepresentation of the service\u2019s perilous financial position.    After analysing the last 41 years of funding data in their research, Prof John Appleby, the fund\u2019s chief economist, and Adam Roberts, of the Health Foundation, found that the NHS real-spend increase of 1.6% is the 28th-largest increase since 1975-76. The largest year-on-year increase, of 12%, came in 2002-03, while Tony Blair\u2019s Labour government was in office. Using data obtained from the House of Commons library, the five biggest increases since 1975-76 have all been of at least 9%. Four of those came during Blair\u2019s premiership and the other, of more than 10%, in 1980-81, while Margaret Thatcher was in power, they say.      Tony Blair after laying the foundation stone for a hospital Bishop Auckland in 2007. Photograph: Owen Humphreys/PA Photos    The researchers also said it was impossible to compare this year\u2019s extra money to the period between the NHS\u2019s creation in 1948 and 1975-76 as no reliable data for then existed.  In a blog on the King\u2019s Fund website, Appleby and Roberts also dispute ministers\u2019 often-repeated claim that they are giving the NHS in England an extra \u00a33.8bn this year. The true amount is only \u00a31.8bn, they say.  Hunt told MPs in the Commons on 9 February: \u201cI do think it\u2019s stretching it a bit to call this an austerity-driven problem when we\u2019re putting next year the sixth-biggest increase in funding for the NHS in its entire 70-year history.\u201d  He repeated this in an article in the Observer on 27 March and also on the BBC\u2019s Newsnight programme.  In a thinly veiled expression of concern about the reliability of Hunt\u2019s claim, the blog authors said: \u201cGetting public spending figures right is important, otherwise they can mislead and detract from the real issues. The fact is that the NHS is halfway through its most austere decade ever, with all NHS services facing huge pressures. Accuracy and transparency about the scale of the problem are crucial steps toward a solution.\u201d  Labour said of the findings that Hunt had been \u201ccaught out\u201d.    Related: The NHS must not be subjected to a slow and painful demise    Heidi Alexander, the shadow health secretary, said: \u201cThis analysis exposes the extent to which the health secretary is now willing to mislead the public about the amount of money he is investing in the NHS.  \u201cHe has been caught out. Far from giving the NHS a generous settlement, this proves the Tories are giving the NHS one of its smallest increases in funding in recent history. Jeremy Hunt has been open about the fact that this is his last big job in politics, so you would have thought he would want to get the basics right.\u201d  Appleby and Roberts take Hunt to task for his claim that the NHS budget has risen by \u00a33.8bn this year compared to 2014-15. While NHS England\u2019s income may be rising by that amount, the Department of Health\u2019s budget \u2013 from which the NHS gets its money \u2013 has only gone up by \u00a31.8bn, with other parts of the NHS budget being cut to give NHS England extra funds.  They say that in the debate about NHS funding \u201c[we] need to be careful with the distinction between the budget for NHS England (NHSE) and for the Department of Health (DH). The government will often quote the extra \u00a33.8bn for NHSE this year. But as we pointed out [last December] \u2026 the correct measure of total NHS spending is the DH budget, which will rise by the lower figure of \u00a31.8bn.  \u201cThis includes training of staff, investment in public health, regulation of quality, and national planning and support for providers. These are fundamental aspects of the quality of the NHS as a whole, and there is no logical reason to consider just one part of the NHS budget.\u201d A DH spokesperson said: \u201cWe are absolutely committed to the NHS which is why we are investing \u00a310bn directly into the service, including almost \u00a34 billion upfront this year \u2013 and crucially, that is at a time that other government departments are facing significant reductions in their budgets. As this research shows, there are a number of ways of analysing funding and comparing spending across years \u2013 our calculation is based on a commonsense methodology.\u201d",
+  "webTitle": "Jeremy Hunt misleading voters over NHS budget increase, says thinktank",
+  "webPublicationDate": "2016-05-11T18:13:08Z",
+  "webUrl": "https://www.theguardian.com/society/2016/may/11/jeremy-hunt-misleading-voters-over-nhs-budget-increase-says-thinktank",
+  "keyword": [
+    {
+      "webTitle": "NHS",
+      "id": "society/nhs",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Jeremy Hunt",
+      "id": "politics/jeremy-hunt",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Conservatives",
+      "id": "politics/conservatives",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Denis Campbell",
+      "id": "profile/deniscampbell"
+    }
+  ],
+  "guardianId": "society/2016/may/11/jeremy-hunt-misleading-voters-over-nhs-budget-increase-says-thinktank"
+}

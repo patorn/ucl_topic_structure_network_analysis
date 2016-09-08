@@ -1,0 +1,46 @@
+{
+  "apiUrl": "https://content.guardianapis.com/us-news/2016/may/20/white-house-shooting-suspect-custody",
+  "id": "2016-05-21-140",
+  "sectionId": "us-news",
+  "body": "A suspect has been arrested after he approached a White House security checkpoint with a firearm on Friday afternoon.  The man was shot by secret service and transported to George Washington University hospital in critical condition. The secret service put the White House on lockdown immediately after the incident but that was later lifted.  A section of Pennsylvania Avenue, part of 17th Street and Lafayette Square, remained closed to the public, cordoned off by yellow \u201cauthorized personnel only\u201d tape. Onlookers were gathering and taking pictures, prompting occasional shouted warnings from the secret service to stay back. A secret service spokesman, David Iacovetti, said that just after 3pm the man approached the publicly accessible White House entrance at 17th and E Streets with a firearm visible.  \u201cUniformed division officers gave numerous verbal commands for the subject to stop and drop the firearm,\u201d he said. \u201cWhen the subject failed to comply with the verbal commands, he was shot once by a secret service agent and taken into custody.\u201d A White House official said no one in or associated with the White House was injured and that everyone inside was safe and had been accounted for.     Location of the shooting near the White House. Photograph: Mapbox/OpenStreetMap    Ranjit Singh, who works near where the incident happened, said he saw a \u201cwhite guy\u201d with a gun in his right hand approaching police who were yelling at him to drop it. Barack Obama was not at the White House at the time of the incident. The president had left earlier in the day for the golf course at Andrews air force base in Maryland. Officials have not said how or if Obama was secured after the secret service learned about the shooting incident. Obama has been made aware of the shooting. Vice-President Joe Biden was in the White House complex at the time and was secured during the lockdown, his office said.  First lady Michelle Obama was wrapping up a speech in downtown Washington at midday on Friday. Her office would not say where she and the Obama daughters were at the time.  Veteran peace protester Philipos Melaku-Bello, 54, was outside the White House when the panic began. He estimated there were about 250 people and it was just before 3.20pm. \u201cI knew from the immediacy in the secret service\u2019s voice how dire it was,\u201d he said. \u201cSome people were in a panic because when they hear the secret service shouting they know it\u2019s serious. I\u2019m a protester for world peace so it\u2019s too close for comfort.\u201d Melaku-Bello said he has been demonstrating outside the White House for 34 years and evacuations of the public can take place 10 times a week, but ones with \u201cthis immediacy\u201d only happen about 15 times a year. The regular flow of tourists has been abruptly halted. Colleen McKearney, 29, visiting from Seattle, said: \u201cWe have no idea what\u2019s happening. We were going to look at the White House. We\u2019ll be patient and come back in a little bit.\u201d Jason Wilson, 45, was lining up for entry to the White House, where he and about 60 other people were due to receive awards for volunteer service, when he heard a gunshot. \u201cI thought it was a tyre on a truck that exploded,\u201d he recalled. \u201cThen I looked at my friend and said, \u2018Could that have been a gunshot?\u2019 Then the secret service said, \u2018Move! Move!\u2019 They were prompt.\u201d Wilson, founder and chief executive the NGO The Yunion, added: \u201cOf course at the back of your mind you think \u2018Could it be a terrorist attack?\u2019 but we were all calm. I\u2019m from Detroit. Just stay calm. What\u2019s there to be scared of?\u201d Reuters and the Associated Press contributed to this report",
+  "webTitle": "Secret service shoot armed man at White House security checkpoint",
+  "webPublicationDate": "2016-05-21T08:48:35Z",
+  "webUrl": "https://www.theguardian.com/us-news/2016/may/20/white-house-shooting-suspect-custody",
+  "keyword": [
+    {
+      "webTitle": "Washington DC",
+      "id": "us-news/washington-dc",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Gun crime",
+      "id": "world/gun-crime",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jamiles Lartey",
+      "id": "profile/jamiles-lartey"
+    },
+    {
+      "webTitle": "David Smith",
+      "id": "profile/davidsmith"
+    }
+  ],
+  "guardianId": "us-news/2016/may/20/white-house-shooting-suspect-custody"
+}

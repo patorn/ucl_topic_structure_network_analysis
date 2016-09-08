@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/24/mother-of-five-who-has-lived-in-australia-for-28-years-faces-deportation-to-uk",
+  "id": "2016-05-24-220",
+  "sectionId": "uk-news",
+  "body": "A drug-addicted woman with an extensive criminal record, including killing her stepfather when she was 14, is facing deportation to the UK from Australia, where she has lived for 28 years and where her five children reside. Kelly Webb, 30, who travelled to Australia when she was two and settled in Geelong, Victoria, was last jailed in 2014 for a burglary she committed with a steak knife and upon release was taken into immigration detention because her visa was revoked.  Webb killed her alcoholic stepfather with a kitchen knife and a hockey stick. She was convicted of manslaughter but was spared jail and given a good behaviour bond after the court heard details of domestic abuse over more than seven years. Her criminal record included stealing from shops, receiving stolen goods, robbery, making a false document, trespassing and drink-driving. In 2012, she was sentenced for intentionally causing injury and affray. Webb never became an Australian citizen or naturalised, according to a radio interview with 3AW. Her five children \u2013 a nine-year-old, twins aged six, another six-year-old, a five-year-old and a one-year-old \u2013 would all remain in Australia if she was deported. \u201cI need to stay in this country,\u201d she told the radio station. \u201cI need to work on myself. I need to stay here for my children.\u201d The father of three of the children died in October 2015 in a motorcycle accident and they now live with their paternal grandmother in Geelong. Another son lives with his father in Perth. The youngest is being cared for by Webb\u2019s mother. Webb, who has never been back to the UK, faces deportation under a law introduced in 2014 which enforces mandatory removal for foreign nationals who have served more than 12 months in jail.",
+  "webTitle": "Woman who has lived in Australia for 28 years faces deportation to UK",
+  "webPublicationDate": "2016-05-24T10:41:20Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/24/mother-of-five-who-has-lived-in-australia-for-28-years-faces-deportation-to-uk",
+  "keyword": [
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Law",
+      "id": "law/law",
+      "sectionId": "law",
+      "sectionName": "Law"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australian immigration and asylum",
+      "id": "australia-news/australian-immigration-and-asylum",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jamie Grierson",
+      "id": "profile/jamie-grierson"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/24/mother-of-five-who-has-lived-in-australia-for-28-years-faces-deportation-to-uk"
+}

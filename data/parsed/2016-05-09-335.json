@@ -1,0 +1,79 @@
+{
+  "apiUrl": "https://content.guardianapis.com/voluntary-sector-network/2016/may/09/data-science-helping-charities-fight-hunger",
+  "id": "2016-05-09-335",
+  "sectionId": "voluntary-sector-network",
+  "body": "The Trussell Trust\u2019s latest statistics show that food bank use in the UK remains at record levels, and that the supply of emergency food parcels has increased by 2% in the last year. Amid the passionate discussion that these figures arouse, one comment by David McAuley, the trust\u2019s chief executive, deserves attention: \u201cReducing UK hunger will require a collective effort from the voluntary sector, government, the Department for Work and Pensions, businesses and the public. The Trussell Trust is keen to work with all these groups to find solutions that stop so many people needing food banks in future.\u201d   Related: Trussell Trust CEO: \u2018Half a million people struggle to put food on the table\u2019    An admirable aspiration, but how can you unite these disparate agencies around a problem with such jagged edges and complex causes and effects? I believe the answer might lie in data science.  Over the past 18 months, the trust has been working with researchers from Hull University Business School and us at social innovation agency AAM Associates to explore how new technologies can help them to fight UK hunger.  Using technology The initial research phase identified 56 technologies that are already being used in food banks globally, and we held workshops with Trussell Trust staff to identify what might help them most with their operational needs. While digital fundraising methods and volunteer management systems were of great interest, most ideas felt like \u201cnice-to-haves\u201d rather than game changers. There was one exception \u2013 data analysis.  Charities all over the world, such as Citizens Advice and the South Carolina Campaign to Prevent Teen Pregnancy, and public bodies including the New Orleans Fire Department, have shared encouraging results from data analysis projects.      Trussell Trust graphic, mapping the use of food banks in south-east England.    This aligned well with the trust\u2019s More Than Food initiative, which looks beyond providing emergency food and towards tackling the underlying causes of hunger and poverty. To do that, they need to know more about the people who come to them for help.  The trust\u2019s core data includes food bank locations and individual client data, such as their names, addresses, ages and underlying causes of crisis \u2013 benefit delays, school holidays, homelessness, etc.  With data science firm Coppelia recruited to the project, and having taken advice directly from the Information Commissioner\u2019s Office on appropriate data security, our initial analysis highlighted some noticeable regional variations and delivery patterns year on year.  On the map A mapping tool was used to show how the trust\u2019s users are distributed geographically. Heat maps showing demand \u2013 the darker the colour, the greater the demand \u2013 have allowed us to visualise regional patterns of need.  Even a cursory glance at the map suggests countless questions: how far do most clients travel? Are food banks located in the areas of greatest need? Why are particular crisis types more prevalent in certain areas?  More creatively, the platform also looks to predict potential areas of \u201cunmet\u201d need. The data was crunched to show the number of people fed by the trust, per head of population, in each local area since 2014. Various census statistics (levels of deprivation, unemployment) were then used to pinpoint key characteristics of the areas that received the most support. The results were used to predict \u2013 again using heat maps \u2013 where need for the trust\u2019s services may be greatest across the country.     Trussell Trust graphic, mapping the potential need for food banks in north-west England.    The model is not perfect, but it already poses the question: how might the charity respond to signs of unmet need? What next?  For charities \u2013 especially those on the frontline helping people in crisis \u2013 this project highlights the importance of collecting data, and how the potential for aligning open data sets (a charge led well by the Open Data Institute) with that data is rapidly becoming a reality.   Data scientists can be expensive, but data-hungry academics are always looking for frontline partnerships, and bodies such as the OR Society run great pro-bono programmes to help.  There are two next steps for the Trussell Trust in relation to this work \u2013 and neither is easy. First, they need to answer some of the many questions highlighted here. Data can provide new insights, but how do you act on them? How can you change focus, practice or even business model to respond to the issues?    Related: Trussell Trust to give financial advice to people referred to its food banks    More strategically, the trust is beginning to look outside of its own walls for solutions. Sharing data with other charities \u2013 safely, securely and with the appropriate permissions \u2013 could create a significant step forward in understanding and answering local need.  The causes of poverty are complex, brittle and often unique to the individual case. Each cry for help, each visit to a food bank, each call to a debt advice line, paints an individual brush stroke in a much richer picture of local need.  Pooling data might provide users of crisis services with some small comfort that they are helping to deepen this country\u2019s understanding of poverty, and in doing so, perhaps shielding others from its harsh glare.  For more news, opinions and ideas about the voluntary sector, join our community \u2013 it\u2019s free!",
+  "webTitle": "How data science is helping charities to fight hunger in the UK",
+  "webPublicationDate": "2016-05-09T06:00:06Z",
+  "webUrl": "https://www.theguardian.com/voluntary-sector-network/2016/may/09/data-science-helping-charities-fight-hunger",
+  "keyword": [
+    {
+      "webTitle": "Voluntary Sector Network",
+      "id": "voluntary-sector-network/voluntary-sector-network",
+      "sectionId": "voluntary-sector-network",
+      "sectionName": "Voluntary Sector Network"
+    },
+    {
+      "webTitle": "Voluntary sector network blog",
+      "id": "voluntary-sector-network/voluntary-sector-network-blog",
+      "sectionId": "voluntary-sector-network",
+      "sectionName": "Voluntary Sector Network"
+    },
+    {
+      "webTitle": "Society Professionals",
+      "id": "society-professionals/society-professionals",
+      "sectionId": "society-professionals",
+      "sectionName": "Society Professionals"
+    },
+    {
+      "webTitle": "Charities",
+      "id": "society/charities",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Voluntary sector",
+      "id": "society/voluntarysector",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Innovation",
+      "id": "society-professionals/innovation",
+      "sectionId": "society-professionals",
+      "sectionName": "Society Professionals"
+    },
+    {
+      "webTitle": "Data visualisations",
+      "id": "technology/data-visualisation",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Food banks",
+      "id": "society/food-banks",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Poverty",
+      "id": "society/poverty",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Social exclusion",
+      "id": "society/socialexclusion",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [],
+  "guardianId": "voluntary-sector-network/2016/may/09/data-science-helping-charities-fight-hunger"
+}

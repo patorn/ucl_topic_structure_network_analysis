@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/money/2016/may/26/my-house-has-negative-equity-can-i-sell-it-and-switch-to-a-new-mortgage",
+  "id": "2016-05-26-315",
+  "sectionId": "money",
+  "body": "Q I want to sell my terraced house. It is valued at \u00a345,000 but my mortgage is over \u00a365,000 so if I sold my house would I be able to carry the amount over to a new mortgage? What is the best way to go forward? I have talked to mortgage advisers but don\u2019t seem to get anywhere and feel like I\u2019m stuck. CS A Because your house is worth less than your mortgage \u2013 and so you are in negative equity \u2013 you can\u2019t sell it without your lender\u2019s permission. But it is worth talking to your lender as it may be one of those which will allow you to carry the shortfall to a new mortgage. There will be conditions. For example, Nationwide says that if you are an existing Nationwide borrower in negative equity who wants to move home, your application for a new mortgage will be considered. However, you\u2019ll be eligible only if you need to move \u2013 because you\u2019ve got a new job elsewhere in the country, for example \u2013 you are in permanent employment and you can afford the new borrowing. Even if you are eligible, Nationwide says that you won\u2019t be allowed to move to a new build property or shared ownership or shared equity property and take your mortgage with you. In addition, you will need to have enough cash to put down a deposit on the new home. If your lender won\u2019t allow you to sell, you are not eligible to take your mortgage with you and you haven\u2019t got enough money for a deposit on the new home, you could consider taking out a loan to cover the shortfall on the mortgage to be able to pay it off in full. However that would be an expensive option and the monthly repayments would be taken into account in any application for a new mortgage.",
+  "webTitle": "My house has negative equity\u00a0\u2013\u00a0can I sell it and switch to a new mortgage?",
+  "webPublicationDate": "2016-05-26T06:00:03Z",
+  "webUrl": "https://www.theguardian.com/money/2016/may/26/my-house-has-negative-equity-can-i-sell-it-and-switch-to-a-new-mortgage",
+  "keyword": [
+    {
+      "webTitle": "Mortgages",
+      "id": "money/mortgages",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Property",
+      "id": "money/property",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Virginia Wallis",
+      "id": "profile/virginiawallis"
+    }
+  ],
+  "guardianId": "money/2016/may/26/my-house-has-negative-equity-can-i-sell-it-and-switch-to-a-new-mortgage"
+}

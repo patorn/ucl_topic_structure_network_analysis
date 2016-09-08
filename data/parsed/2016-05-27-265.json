@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/27/competition-watchdog-uk-cloud-storage",
+  "id": "2016-05-27-265",
+  "sectionId": "business",
+  "body": "Cloud storage providers are treating customers unfairly and risk users losing access to their photos and other personal possessions, the competition regulator said. An investigation by the Competition and Markets Authority found providers offered contract terms and practices that could breach consumer law.  About three in 10 adults in the UK use cloud services to store personal items such as photos, music, films and other documents on a remote server. Most services are free with smartphones and tablets. Providers include Apple iCloud, Google Drive, and Dropbox. The CMA said that while cloud storage was a valuable service it was unhappy with some areas, including the ability of providers to change contract terms at any time, for any reason, and without giving notice.   Related: Cloud sourcing: which remote storage should you choose?    Nisha Arora, the senior director of consumer at the CMA, said: \u201cCloud storage offers a convenient means of keeping family photos, favourite music and films and important documents safe, and accessing them quickly from any device. \u201cOur review found that people find these services really valuable. However, we also heard some complaints resulting from unfair terms in contracts. If left unchanged, these terms could result in people losing access to their treasured possessions or facing unexpected charges.\u201d The CMA said it was concerned by contract terms that let providers suspend or terminate a contract without reason or notice. It added that providers could also be breaching consumer law by automatically renewing a contract at the end of a fixed term without giving notice or the right to withdraw. Following the inquiry, Dixons Carphone, JustCloud and Livedrive committed to providing fairer terms to cloud customers, and the CMA urged others to do the same. Arora said: \u201cIn this rapidly developing market, it\u2019s important that we act now to ensure that businesses comply with the law and that consumers\u2019 trust in these valuable services is maintained.  \u201cWe welcome the fact that a number of companies have already agreed to change their terms, and expect to see improvements from other companies.\u201d The CMA advised consumers to get the necessary information before they sign up to a service, and to challenge providers where they think terms are unfair.",
+  "webTitle": "Competition watchdog attacks UK cloud storage providers",
+  "webPublicationDate": "2016-05-27T07:33:42Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/27/competition-watchdog-uk-cloud-storage",
+  "keyword": [
+    {
+      "webTitle": "Competition and Markets Authority",
+      "id": "business/competition-commission",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Regulators",
+      "id": "business/regulators",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Computing",
+      "id": "technology/computing",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Angela Monaghan",
+      "id": "profile/angela-monaghan"
+    }
+  ],
+  "guardianId": "business/2016/may/27/competition-watchdog-uk-cloud-storage"
+}

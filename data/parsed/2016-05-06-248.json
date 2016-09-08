@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/06/tom-hooper-to-direct-film-version-of-cats-musical-suki-waterhouse",
+  "id": "2016-05-06-248",
+  "sectionId": "film",
+  "body": "Related: How the new wave of man-trapped-in cat movies could fight puss prejudice    The Oscar-winning British film-maker Tom Hooper will direct a big-screen adaptation of the Andrew Lloyd Webber musical Cats, reports Variety. Hooper, best known for The King\u2019s Speech, Les Mis\u00e9rables and The Danish Girl, will team up with studio Universal and production company Working Title on the new film. Cast details have not been confirmed, but the Sun newspaper has reported that Hooper hoped to hand British model and actor Suki Waterhouse, 24, a role.  Hooper has form with big-budget musical adaptations. Les Mis\u00e9rables, with a cast including Hugh Jackman, Russell Crowe, Amanda Seyfried and Oscar-winning Anne Hathaway, won impressive reviews and took $440m worldwide.  Cats debuted in the West End in 1981, with Trevor Nunn directing and Gillian Lynne providing choreography. A Broadway bow followed in 1982. Based on TS Eliot\u2019s 1939 poetry collection Old Possum\u2019s Book of Practical Cats, the show is the fourth-longest-running musical in the West End and on Broadway. It tells the story of a tribe of felines known as the Jellicles and the night when much-loved patriarch Old Deuteronomy decides which cat will ascend to the Heaviside layer and come back to a new life. A film of the stage play released in 1998 featured Elaine Paige as Grizabella (the role she originated on the London stage) and Ken Page as Old Deuteronomy.",
+  "webTitle": "Tom Hooper to milk Cats musical for movie version",
+  "webPublicationDate": "2016-05-06T10:26:35Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/06/tom-hooper-to-direct-film-version-of-cats-musical-suki-waterhouse",
+  "keyword": [
+    {
+      "webTitle": "Tom Hooper",
+      "id": "film/tom-hooper",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Musicals",
+      "id": "film/musical",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Musicals",
+      "id": "stage/musicals",
+      "sectionId": "stage",
+      "sectionName": "Stage"
+    },
+    {
+      "webTitle": "Stage",
+      "id": "stage/stage",
+      "sectionId": "stage",
+      "sectionName": "Stage"
+    },
+    {
+      "webTitle": "Theatre",
+      "id": "stage/theatre",
+      "sectionId": "stage",
+      "sectionName": "Stage"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ben Child",
+      "id": "profile/benchild"
+    }
+  ],
+  "guardianId": "film/2016/may/06/tom-hooper-to-direct-film-version-of-cats-musical-suki-waterhouse"
+}

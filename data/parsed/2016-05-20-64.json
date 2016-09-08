@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/20/uk-manufacturing-boosted-food-and-drink-production",
+  "id": "2016-05-20-64",
+  "sectionId": "business",
+  "body": "Britain\u2019s manufacturers have enjoyed a pick-up in output, largely thanks to food and drink production getting back up and running after flooding hit factories earlier this year.  The business group CBI said its latest poll of manufacturers suggested orders had improved in recent weeks, particularly from the domestic market, bringing respite to a sector that has been hurt by weak export demand and an uncertain UK outlook. There have been worries that uncertainty about the outcome of next month\u2019s EU referendum had been prompting companies to delay investment decisions. The Bank of England has warned economic growth could slow further in the second quarter. But the latest economic indicators have painted a mixed picture. The CBI\u2019s survey of nearly 500 manufacturers found output picked up in the three months to May. But it emphasised that most of that was down to a rebound in the food and drink sector, following flooding earlier this year.  Carr\u2019s water biscuits were among the foods affected by the winter floods after a Carlisle factory owned by United Biscuits was inundated before Christmas. A variety of other favourite names usually produced at the site were also hit, including McVitie\u2019s ginger nuts, Crawford\u2019s custard creams and Crawford\u2019s shortcake.  But the plant \u2013 the second-biggest biscuit factory in Europe \u2013 recently resumed production. The CBI said that, excluding food and drink from its survey results, manufacturing output was little changed in the latest three months. The survey also asked factories about their order books and found 16% of businesses reported an increase in total orders while 24% reported a decrease. That gave a net balance of -8%, an improvement on April\u2019s -11% reading. The balance for export orders was -14% in May, down from April\u2019s -13% reading. \u201cConditions in the manufacturing sector seem to be a little better overall, with improving order books compared with a couple of months ago. But domestic and global uncertainty remains high, alongside lacklustre export demand,\u201d said the CBI\u2019s director of economics, Rain Newton-Smith. Other economists also warned that the outlook remained tough for manufacturers.  \u201cSterling will appreciate and export orders will fall if, as we expect, the UK votes to remain in the EU in June,\u201d said Samuel Tombs, chief UK economist at the consultancy Pantheon Macroeconomics. \u201cMeanwhile, domestic demand for manufactured goods likely will grow at a more gradual pace than in recent years as growth in consumers\u2019 real income slows in response to rising inflation and intensifying austerity.\u201d  The poll further clouds the UK economic picture after retail sales figures this week showed a rebound in sales volumes in April, and labour market data revealed a rise in employment to a new record high. Those reports contrasted with surveys suggesting companies are putting off hiring and investment decisions and that consumers have become more cautious ahead of next month\u2019s referendum. The Bank of England has said the upcoming referendum is making it harder to gauge the strength of the underlying economy and that it is treating all economic indicators ahead of the vote with an extra dose of caution. One of its top policymakers, Kristin Forbes, conjured the image of a \u201cfog\u201d obscuring the economic data. In an interview with the Belfast Telegraph published on Friday, Forbes said: \u201cSome of the data is quite solid, and some of the data has been a bit softer. We aren\u2019t quite sure why. \u201cWe don\u2019t have concrete evidence that some of the softening we are seeing now is all referendum-related and uncertainty-related, and there is a chance other things are going on.\u201d",
+  "webTitle": "UK manufacturing boosted by pick-up in food and drink output",
+  "webPublicationDate": "2016-05-20T17:13:30Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/20/uk-manufacturing-boosted-food-and-drink-production",
+  "keyword": [
+    {
+      "webTitle": "Manufacturing sector",
+      "id": "business/manufacturing-sector",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economic growth (GDP)",
+      "id": "business/economicgrowth",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Food & drink industry",
+      "id": "business/fooddrinks",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Flooding",
+      "id": "environment/flooding",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Katie Allen",
+      "id": "profile/katieallen"
+    }
+  ],
+  "guardianId": "business/2016/may/20/uk-manufacturing-boosted-food-and-drink-production"
+}

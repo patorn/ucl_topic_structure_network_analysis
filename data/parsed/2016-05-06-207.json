@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/06/andy-murray-madrid-open-tomas-berdych-semi-final",
+  "id": "2016-05-06-207",
+  "sectionId": "sport",
+  "body": "The defending champion Andy Murray was delighted with his improved second serve after cruising into the semi-finals of the Madrid Open with victory over Tomas Berdych on Friday.   Related: 'It's not right': Tomic not committed to tennis, says Novak Djokovic    Murray dropped just one point on his serve in the second set and eight in total in an impressive 6-3 6-2 win, his first on clay over Berdych after three previous defeats. The world No2 raced into a 3-0 lead in the first set and drove Berdych to distraction with some superb drop shots, the eighth seed hitting a forehand long after finally reaching one in time on his way to losing his opening service game. Berdych also missed a crucial smash at 30-30 in the seventh game as he briefly threatened to get back into the contest, before Murray calmly served out for the set after 45 minutes of play under the roof of the Caja Magica. Two breaks of serve saw Murray ease through the second set and set up a semi-final with either Rafael Nadal or Jo\u00e3o Sousa. \u201cIt was really good,\u201d the 28-year-old Scot told Sky Sports. \u201cThere were periods in the first set where it was tough. He was hitting the ball well at the middle to the end part of the first set. \u201cHe held a really tough service game at 5-2 and after that I served great, the second serve was fantastic and no break points again, against someone who plays very well in these conditions. \u201cI used my variety well, drop shots were good for the most part, defending well and stepped up when I needed to.\u201d Speaking about the increased speed on his second serve, Murray added: \u201cIt\u2019s easy to say just hit the serve harder but sometimes you need to make technical adjustments and have coaching on that. \u201cI had to make some changes to my serve and did a lot of learning and research myself, and have been coached well on it and feel much more comfortable going bigger on the second. \u201cThere\u2019s a lot more spin on it and I can control the second better which frees me up to go for more on my first as well, which is obviously a big advantage for anyone. Every time I missed the first serve I was getting big bounces on the second serve and it\u2019s difficult to control it in these conditions. \u201cIt\u2019s been a big improvement in my game and that will help me a lot on the faster courts as well coming into the grasscourt season.\u201d",
+  "webTitle": "Andy Murray beats Tomas Berdych to move into Madrid Open semi-final",
+  "webPublicationDate": "2016-05-06T11:46:38Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/06/andy-murray-madrid-open-tomas-berdych-semi-final",
+  "keyword": [
+    {
+      "webTitle": "Tennis",
+      "id": "sport/tennis",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Andy Murray",
+      "id": "sport/andymurray",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Tomas Berdych",
+      "id": "sport/tomas-berdych",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "sport/2016/may/06/andy-murray-madrid-open-tomas-berdych-semi-final"
+}

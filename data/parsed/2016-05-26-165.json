@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/26/amber-arcades-fading-lines-review-indiepop",
+  "id": "2016-05-26-165",
+  "sectionId": "music",
+  "body": "What music might you expect a former aide at the UN war crimes tribunals to make? Something raw and confrontational? Or, as Annelotte de Graaf makes under the name Amber Arcades, something so none-more-indiepop you feel like going out and photocopying 250 issues of a typewritten fanzine with a free flexi disc taped to the front? Fading Lines is a sustained exercise in restraint, De Graaf\u2019s airy voice anchored by backing from assorted US indie luminaries, who provide just enough muscle without overwhelming her. This stuff \u2013 no production tricks, no style-du-jour hip points \u2013 stands or falls by the strength of the songs, and Amber Arcades has enough of them to keep you interested. The title track shimmers, a delicious descending lead guitar line snaking through it; the nearly seven-minute Turning Light takes the bassline to Friday on My Mind and goes with it on a long, droning drive. There are longueurs, but there\u2019s also the sense of a real talent.",
+  "webTitle": "Amber Arcades: Fading Lines review \u2013 shimmering indiepop from a real talent",
+  "webPublicationDate": "2016-05-26T14:24:10Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/26/amber-arcades-fading-lines-review-indiepop",
+  "keyword": [
+    {
+      "webTitle": "Indie",
+      "id": "music/indie",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Pop and rock",
+      "id": "music/popandrock",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Michael Hann",
+      "id": "profile/michaelhann"
+    }
+  ],
+  "guardianId": "music/2016/may/26/amber-arcades-fading-lines-review-indiepop"
+}

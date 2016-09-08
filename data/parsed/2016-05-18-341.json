@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/18/uk-government-criticised-for-ongoing-delay-in-farm-poisoning-case-sheep-dipping",
+  "id": "2016-05-18-341",
+  "sectionId": "environment",
+  "body": "Government officials have been criticised for an ongoing delay in explaining what they knew about the serious health risks to farmers of using a mandatory chemical treatment. As the Guardian revealed last year, at least 500 farmers across the UK were left with debilitating health problems after using organophosphate-based (OP) chemicals to protect their sheep against parasites, under the government\u2019s compulsory dipping programme which ran up until 1992. Based on a more recently released survey, campaigners estimate more than 30,000 were likely to have suffered some form of ill health from using OP dips. It is now known that officials had evidence of the danger that using the chemical was having on farmers\u2019, their wives, children and even the local officials ensuring that sheep were properly dipped, yet at the time ministers publicly rebuked farmers not using it.   Related: Revealed: government knew of farm poisoning risk but failed to act    A Health and Safety Executive (HSE) survey of farmers, circulated to officials in 1991, warned of the dangers of exposure to even low doses of the chemical and criticised the safety measures offered by manufacturers. While in 1992, experts at the Poisons Unit at Guy\u2019s and St Thomas hospital reported on the health impacts of exposure to OPs based on blood analysis of a small sample of farmers who had reported illness. While the government did eventually end compulsory use of the chemical, it made no admission of the health effects. Still today officials deny that repeated exposure to low levels of the chemical, of the amount most farmers treating sheep would typically have had, could be linked to chronic ill health. This conclusion was most recently disputed by scientific research published in 2013. Campaigners have long suspected officials were persuaded to end compulsory use of the chemical after mounting evidence from both the HSE and the Poisons Unit. The toxicologist who led the blood analysis work, Virginia Murray, currently working for Public Health England, has said previously that blood samples showed farmers were being affected, but now refuses to comment on the issue.  The farming minister from 1989-93, John Gummer (now Lord Deben), has told the Guardian that he could not explain why he made the decision without access to all the relevant documents from the period. After initially rejecting calls for an inquiry into whether farmers had been misled about the reasons for ending dipping, farming minister George Eustice met with victims last November and told them the Department for Environment, Food and Rural Affairs (Defra) would release information to explain what advice officials received in the lead-up to the decision to end compulsory use of OPs.     David Layton, a sheep farmer on the Welsh border, was diagnosed with multiple sclerosis in 1993 and later confirmed as having suffered OP poisoning. Photograph: Handout/The Guardian    Victims say they have heard nothing since from Defra. \u201cWe cannot understand that nearly six months after meeting George Eustice and officials at Defra we have received none of the answers that were promised us then,\u201d said Tom Rigby, who coordinates the Sheep Dip Sufferers Support Group. \u201cThis is not just an historic issue. There are many suffering today who have a right to answers and whose ill health continues to be ignored.\u201d Eustice, who acknowledged last year that some farmers associate illness to use of OPs, denied there was a deliberate reason for the delay. \u201cNo [there is no cover-up], we\u2019re close to having something to release. We\u2019re doing a comprehensive job looking at all the evidence,\u201d he said. After their own meeting with victims earlier this year, a cross-party group of MPs have now written to Defra on the issue and are considering an inquiry into whether farmers were misled. \u201cI approached Dr Sarah Wollaston [chair of the Health Committee] and asked about having a joint enquiry. She said they\u2019d rather we did it. We\u2019re now waiting to hear answers back from Defra and then we\u2019ll put it to the committee [to decide on an inquiry],\u201d said Conservative MP Neil Parish, chair of the environment, food and rural affairs select committee. Parish believes his late father\u2019\bs health was affected by using sheep dips. Former Labour health secretary Andy Burnham has previously called for a \u201cHillsborough-style\u201d disclosure of what was known, by whom and when. A call backed by legal experts this week. \u201cThe ongoing delay [in releasing evidence] is inexcusable and adds to the opaqueness surrounding this important issue. It is difficult to disagree with the MPs who have previously called for a public inquiry into this issue,\u201d said Gene Matthews, a partner at the law firm Leigh Day.",
+  "webTitle": "UK government criticised for ongoing delay in farm poisoning case",
+  "webPublicationDate": "2016-05-18T05:00:20Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/18/uk-government-criticised-for-ongoing-delay-in-farm-poisoning-case-sheep-dipping",
+  "keyword": [
+    {
+      "webTitle": "Farming",
+      "id": "environment/farming",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Tom Levitt",
+      "id": "profile/tom-levitt"
+    }
+  ],
+  "guardianId": "environment/2016/may/18/uk-government-criticised-for-ongoing-delay-in-farm-poisoning-case-sheep-dipping"
+}

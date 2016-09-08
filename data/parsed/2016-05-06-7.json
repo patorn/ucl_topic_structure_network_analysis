@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/australia-news/2016/may/07/bill-granting-police-new-powers-forces-legal-aid-to-review-its-policies",
+  "id": "2016-05-06-7",
+  "sectionId": "australia-news",
+  "body": "Legal Aid NSW will review its policies to consider when and how Australians who face controversial new crime prevention orders will be eligible for legal assistance. On Wednesday, a bill passed by the New South Wales upper house granted police powers to create serious crime prevention and public safety orders. The bill would give police similar powers to those they have to seek and impose control orders on terrorism suspects \u2013 known as serious crime prevention orders \u2013 but they could be applied to all citizens in NSW who are alleged to have some proximity or involvement to a serious crime, without a person ever being found guilty of an offence and using a lower standard of proof. They would allow orders to be made on any citizen restricting their movement, who they associate with, who they work for and whether they can access the internet.   Related: Anti-protest laws giving police greater powers pass NSW parliament    Because the police powers are so novel and are considered to be civil, rather than criminal, they don\u2019t fall neatly into Legal\u2019s Aid\u2019s existing sets of guidelines for when they will provide legal aid. Legal Aid NSW has separate criteria for criminal and civil matters and in what circumstances it can provide legal assistance for them. While the powers have not yet come into effect, a spokeswoman for Legal Aid NSW confirmed that it was considering how cases would be dealt with. \u201cLegal Aid NSW will be reviewing its policies to determine how matters brought under this bill should be dealt with,\u201d she said. \u201cAny changes to policies would have to be approved by the board. \u201cIf a matter arises before this has happened, the CEO can exercise discretion to determine applications on a case by case basis.\u201d The new powers have drawn criticism from the legal community.  In a scathing submission, the NSW Bar Association criticised the government\u2019s limited consultation with legal groups and its attempt to rush the bill through the parliament.  The Redfern Legal Centre warned that the new powers would essentially remove equality before the law. The NSW Greens upper house member David Shoebridge has also been highly critical of the laws, and said they could be used simply on the \u201cgut feeling\u201d of police officers.",
+  "webTitle": "Bill granting police new powers forces Legal Aid to review its policies",
+  "webPublicationDate": "2016-05-06T22:30:50Z",
+  "webUrl": "https://www.theguardian.com/australia-news/2016/may/07/bill-granting-police-new-powers-forces-legal-aid-to-review-its-policies",
+  "keyword": [
+    {
+      "webTitle": "Crime - Australia",
+      "id": "australia-news/crime-australia",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australian law",
+      "id": "australia-news/australian-law",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "New South Wales",
+      "id": "australia-news/new-south-wales",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Paul Farrell",
+      "id": "profile/paul-farrell"
+    }
+  ],
+  "guardianId": "australia-news/2016/may/07/bill-granting-police-new-powers-forces-legal-aid-to-review-its-policies"
+}

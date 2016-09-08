@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/lifeandstyle/2016/may/22/how-our-brains-tell-the-difference-between-real-and-fake",
+  "id": "2016-05-22-200",
+  "sectionId": "lifeandstyle",
+  "body": "If you walked into a toilet cubicle and saw a bomb strapped to the back of the door, would you know if it were real? You\u2019d just run. And you would be right to. It\u2019s difficult to tell the difference unless you\u2019ve had years of bomb disposal training. Sometimes not even the smartest computerised system can do it. With practice, the brain can spot distinctions so subtle they\u2019re impossible to describe. In an experiment, humans and computers were asked to spot rocks and mines using sonar detection systems in a submarine. In time, sonar operators could tell if an object was a mine or a rock, but they couldn\u2019t explain why. Yet the computers still struggled. This form of brain training can also be seen in \u2013 don\u2019t laugh \u2013 professional chicken sexers. To the untrained eye, male and female chickens\u2019 genitals look the same. Experts learn to tell the gender of a chicken quickly and accurately \u2013 but they can\u2019t describe the exact differences. Sometimes, despite all the brain\u2019s potential to spot detailed discrepancies, the safest thing to do with a dummy bomb left behind at a football stadium is to leg it and let the professionals conduct a controlled explosion. Dr Daniel Glaser is director of Science Gallery at King\u2019s College London",
+  "webTitle": "How our brains tell the difference between real and fake",
+  "webPublicationDate": "2016-05-22T05:00:33Z",
+  "webUrl": "https://www.theguardian.com/lifeandstyle/2016/may/22/how-our-brains-tell-the-difference-between-real-and-fake",
+  "keyword": [
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Neuroscience",
+      "id": "science/neuroscience",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Daniel Glaser",
+      "id": "profile/daniel-glaser"
+    }
+  ],
+  "guardianId": "lifeandstyle/2016/may/22/how-our-brains-tell-the-difference-between-real-and-fake"
+}

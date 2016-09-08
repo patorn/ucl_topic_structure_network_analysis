@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/06/guardian-appoints-former-abc-exec-paul-chadwick-as-readers-editor",
+  "id": "2016-05-06-269",
+  "sectionId": "media",
+  "body": "The Guardian has appointed Paul Chadwick, a former director at the Australian Broadcasting Corporation, as its new readers\u2019 editor. The Scott Trust, which is responsible for the long-term financial security and editorial independence of the Guardian, has appointed Chadwick to the newly-created role of global readers\u2019 editor. Chadwick\u2019s appointment follows the departure of Chris Elliott, who joined the press regulator Impress as a consultant last month. A journalist and lawyer, Chadwick was previously the director of editorial policies at the Australian Broadcasting Corporation. He has acted as a non-executive director with Guardian Australia since 2012.   Related: News Corp reports third-quarter loss of $149m after revenue falls 7.3%    \u201cI am delighted that Paul is taking up the role of global readers\u2019 editor,\u201d said Dame Liz Forgan, chair of the Scott Trust. \u201cPaul is a hugely experienced journalist with an excellent legal pedigree, therefore I am confident that he will ensure that the Guardian\u2019s high standards of fairness and transparency are adhered to across the world.\u201d Chadwick will report directly into the Scott Trust, maintaining independence and impartiality for the Guardian\u2019s internal complaints processes. \u201cThe Guardian has a fine tradition of effective readers\u2019 editors and I look forward to playing a part in this valued journalism institution in what is a radically changing global media environment,\u201d said Chadwick.",
+  "webTitle": "Guardian appoints former ABC exec Paul Chadwick as readers' editor",
+  "webPublicationDate": "2016-05-06T09:45:21Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/06/guardian-appoints-former-abc-exec-paul-chadwick-as-readers-editor",
+  "keyword": [
+    {
+      "webTitle": "The Guardian",
+      "id": "media/theguardian",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "National newspapers",
+      "id": "media/national-newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers",
+      "id": "media/newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers & magazines",
+      "id": "media/pressandpublishing",
+      "sectionId": "media",
+      "sectionName": "Media"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Mark Sweney",
+      "id": "profile/marksweney"
+    }
+  ],
+  "guardianId": "media/2016/may/06/guardian-appoints-former-abc-exec-paul-chadwick-as-readers-editor"
+}

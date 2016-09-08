@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/17/farming-is-single-biggest-cause-of-worst-air-pollution-in-europe",
+  "id": "2016-05-17-114",
+  "sectionId": "environment",
+  "body": "Farming is the biggest single cause of the worst air pollution in Europe, a new study has found, as nitrogen compounds from fertilisers and animal waste drift over industrial regions. When the nitrogen compounds are mixed with air already polluted from industry, they combine to form solid particles that can stick in the fine lung tissue of children and adults, causing breathing difficulties, impaired lungs and heart function, and eventually even premature death. The compounds come from nitrogen-rich fertilisers, which have been in common use for decades. Nitrogen, the major content of the air we breathe, is essential for plant growth, and enhancing that growth has led to a massive industry in putting nitrogen - already naturally present in soils - back into the ground in greater quantities. Ammonia, whose chemical composition is nitrogen and hydrogen (NH3), is a byproduct both of fertilised fields and of animal waste, as it can come from the breakdown of livestock excretions. Links between fine particulate pollution and ammonia from agricultural sources have been slow to be firmly established, but an increasing body of research suggests that this is now a leading source of air pollution. Europe, much of the US, Russia and China have been found to suffer from the problem, in the latest research from the Earth Institute at Columbia University, in the US, published in the journal Geophysical Research Letters. When ammonia in the atmosphere reaches areas of industry, the pollutants from combustion, which include nitrogen oxides produced by diesel vehicles, and sulphur compounds from power plants and some other industrial processes, the chemicals combine to create very small particles, about 2.5 micrometres across. Although invisible to human eyes, their tiny size means these particles penetrate deep into people\u2019s lungs when they are breathed in. Not only can they cause breathing problems, particularly in the young, the elderly and people more vulnerable, but they can even cause heart disease. More than 40,000 people a year have been found to die prematurely in the UK alone because of air pollution, prompting MPs to declare the problem a \u201cpublic health emergency\u201d. But while MPs have called for remedies such as scrapping diesel cars in favour of petrol models, and excluding the most polluting vehicles from large parts of cities, the problem of how to control pollution from agriculture has been left largely alone. That is partly because such diffuse pollution - which by its nature travels easily across long distances and international borders - is so hard to deal with. Counselling farmers to use less fertiliser is one way, but it will not solve the problem. Susanne Bauer, an atmospheric scientist at Columbia, said: \u201cThis is not against fertiliser. There are many places, including Africa, that need more of it. We expect population to go up, and to produce more food, we will need more fertiliser.\u201d She said that controlling other sources of industrial pollution, which are the agents that turn agricultural pollution into its harmful forms, should be the priority. Cutting down on coal-fired power stations and their sulphur emissions, using more efficient vehicles and potentially electric cars, and regulating polluting industries more tightly would all have an effect, she suggested. However, other tiny particulates can also combine with ammonia, including dust such as the Saharan desert sands that contributed to a major pollution event in the UK two years ago. Excess fertiliser use is also one of the biggest causes of pollution in the oceans, as run-off creates \u201cdead zones\u201d in the seas where oxygen is virtually eliminated and fish and other marine life can no longer exist. The fertiliser that runs off or reaches the air is no longer helping the crops it was intended to grow, so if farmers were forced or encouraged to use less fertiliser, but use it more efficiently, the amounts that find their way into the seas and air might be reduced.",
+  "webTitle": "Farming is 'single biggest cause' of worst air pollution in Europe",
+  "webPublicationDate": "2016-05-17T15:19:32Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/17/farming-is-single-biggest-cause-of-worst-air-pollution-in-europe",
+  "keyword": [
+    {
+      "webTitle": "Farming",
+      "id": "environment/farming",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Pollution",
+      "id": "environment/pollution",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Fiona Harvey",
+      "id": "profile/fiona-harvey"
+    }
+  ],
+  "guardianId": "environment/2016/may/17/farming-is-single-biggest-cause-of-worst-air-pollution-in-europe"
+}

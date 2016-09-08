@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/02/new-south-wales-is-australias-strongest-economy-victoria-a-close-second",
+  "id": "2016-05-02-264",
+  "sectionId": "business",
+  "body": "New South Wales continues to be Australia\u2019s strongest-performing economy while continued high unemployment has seen Western Australia slip again into sixth position, according to the latest CommSec State of the States report released on Monday. But the report says there is little difference between the top two states and between the bottom three.  Victoria has gained \u201csubstantial ground\u201d on NSW with strong housing finance, population growth, and the fastest annual economic growth rate in the nation.  At the other end of the scale, the Tasmanian economy has improved enough to draw equal-last with South Australia after a modest lift in momentum driven by the low Australian dollar.  The Tasmanian treasurer, Peter Gutwein, told Hobart paper the Mercury that he welcomed the slight improvement but there was still \u201ca lot of work to do\u201d. Western Australia, which had the strongest-performing economy in the October 2014 report, remains second-highest on construction work but second-lowest in business investment, population growth and housing finance.  Population growth in particular has taken a dive: the end of the mining boom has seen it drop to 1.27%, down more than 50% on the decade average. The end of the boom has also seen WA ranked worst performer in terms of unemployment. The unemployment rate is 5.7% in trend terms, up from a decade-average of 4.4%. However, the report notes that at least part of WA\u2019s low rank could be due to a change in the data used to measure economic growth, which is now measured just on state final demand figures.   Related: Australian economy grew 3% in 2015 to defy end of mining boom    \u201cNo doubt if exports and imports were considered, Western Australia would have been among the strongest-growing economies rather than in fifth place (for economic growth),\u201d the report notes. The State of the States report, released quarterly, rates states and territories across eight key measures: economic growth; retail spending; equipment investment; unemployment; construction work; population growth; housing finance; and dwelling starts. The Australian Capital Territory was in third place, driven by a 21.1% increase in equipment investment in the past 12 months and strong annual population growth. The Northern Territory ranked fourth, despite continuing to lead the economic growth and construction work indicators, due to placing last in population growth, business investment and housing finance. Queensland, which had the lowest national ranking on construction work and second-lowest on economic growth, ranked fifth. \u201cThe end of the construction phase of the mining boom is clearly evident in Western Australia and Queensland,\u201d CommSec chief economist Craig James told AAP.",
+  "webTitle": "New South Wales is Australia's strongest economy, Victoria a close second",
+  "webPublicationDate": "2016-05-02T02:41:53Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/02/new-south-wales-is-australias-strongest-economy-victoria-a-close-second",
+  "keyword": [
+    {
+      "webTitle": "Australian economy",
+      "id": "business/australia-economy",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "New South Wales",
+      "id": "australia-news/new-south-wales",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Western Australia",
+      "id": "australia-news/western-australia",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Tasmania",
+      "id": "australia-news/tasmania",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "South Australia",
+      "id": "australia-news/south-australia",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Queensland",
+      "id": "australia-news/queensland",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Calla Wahlquist",
+      "id": "profile/calla-wahlquist"
+    }
+  ],
+  "guardianId": "business/2016/may/02/new-south-wales-is-australias-strongest-economy-victoria-a-close-second"
+}

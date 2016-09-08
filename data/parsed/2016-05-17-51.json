@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/17/whats-it-like-to-be-lgbti-where-you-live-share-your-experiences",
+  "id": "2016-05-17-51",
+  "sectionId": "world",
+  "body": "Two-thirds of adults would be upset if their child told them that they were in love with someone of the same sex, according to a survey of 96,000 people in 53 UN member states conducted by the International Lesbian, Gay, Bisexual, Trans and Intersex Association (ILGA). The report found that same-sex sexual acts can be punished with the death penalty in 13 states, while the threat of imprisonment exists in 75 countries and five entities. Many residents of those countries believe that being lesbian, gay, bisexual, trans and intersex (LGBTI) should be criminalised, with 45% of respondents in Africa agreeing to the statement that \u201cbeing LGBTI should be considered a crime\u201d. Thirty-four per cent of respondents in Asia, 17% in Europe, 15% in the Americas and 14% in Oceania also agreed with the statement.  We\u2019d like to find out what it\u2019s like being LGBTI where you live. You can share your experiences anonymously with us by filling in the form below and we\u2019ll use a selection in our coverage.",
+  "webTitle": "What's it like to be LGBTI where you live? Share your experiences",
+  "webPublicationDate": "2016-05-17T18:29:13Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/17/whats-it-like-to-be-lgbti-where-you-live-share-your-experiences",
+  "keyword": [
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "LGBT rights",
+      "id": "world/lgbt-rights",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian readers",
+      "id": "profile/guardian-readers"
+    }
+  ],
+  "guardianId": "world/2016/may/17/whats-it-like-to-be-lgbti-where-you-live-share-your-experiences"
+}

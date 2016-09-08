@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/26/overwatch-how-blizzard-redefined-the-first-person-shooter",
+  "id": "2016-05-26-230",
+  "sectionId": "technology",
+  "body": "Overwatch, the new team-based first-person shooter from World of Warcraft developer Blizzard, has been out for less than 48 hours, but it\u2019s already fairly clear that the game is a hit. Its short, open beta, which concluded two weeks ago, was popular enough to spark a meme in the intervening period detailing all the things players were doing now they couldn\u2019t play the game (sample post: the person who drew all the Overwatch heroes as if they were bowls of lukewarm water). Then, on release day, the Overwatch subreddit briefly drew more traffic than the front page of Reddit itself, seemingly a result of users hammering refresh to find out when the servers were turned on. Speaking with Michael Chu, a senior game designer at Blizzard, it\u2019s clear that the fervour is no huge surprise. The company has a strong history of success in multiplayer games, from World of Warcraft to Diablo III, and drew inspiration from across the board in developing Overwatch. But the most surprising inspiration was Blizzard\u2019s casual gaming success, Hearthstone.  \u201cHearthstone obviously has a lot of competitive elements to it but just in general the way that that game is made is very inspirational to us,\u201d Chu says. \u201cIt\u2019s easy to pick up, it\u2019s really fun to play, it is a fun competitive game. I love how they\u2019re constantly challenging the rules of the game. So it feels different. I just love how it had this point of view on the World of Warcraft idea and how it translated it in to the card gameplay.\u201d Overwatch even explicitly borrows features from Hearthstone, such as the weekly \u201cBrawl\u201d, a rotating mode that throws the standard rules out the window in a different way each time. Though Chu studiously avoids saying its name, the most obvious inspiration for Overwatch is Valve\u2019s venerable Team Fortress 2, a multiplayer team-based shooter released in 2007. Both games share character classes with radically different playstyles, in a cartoonish world, pitting small teams against each other in objective-based gameplay. Instead of highlighting the obvious inspiration, though, Chu cites more oblique forebearers, such as Doom and Quake, although he avoids naming those directly as well. \u201cThe designers have been talking about the idea of those 90s shooters, you know, a little more fast-paced, a little crazier, a little more over-the-top. The era with really interesting; there were unique weapons like lightning guns, BFGs, etc. And I think we really wanted to capture that. He adds: \u201cBut when we decided we wanted to enter the first-person shooter genre, we asked ourselves what it was that we could bring to the table that we felt was a little different. We settled on two things: one was that it would be hero-based. We wanted to have 21 unique heroes with really diverse power sets. And then the other thing is the team focus. We were not interested in doing deathmatch. We wanted teams of six players, and we wanted everyone\u2019s focus to be on victory: winning as a team, performing as a team, and less about \u2018how good am I at killing people\u2019, or whatever.\u201d Those heroes lie at the core of the game, and are one of its major differentiators from its totally-not-inspiration. While Team Fortress 2 grew its character classes out, through comics and short movies, into full individuals, the game started with them as little more than caricatures. Not so with Overwatch: its cast is given personality and history from the off.  But for players who\u2019ve been enchanted by the short films released in the run-up to launch, or who are won over by the game\u2019s intro cinematic, there may be a let down when they learn how that world-building is, or isn\u2019t, involved in the game. Chu concedes that the story elements are extremely limited. \u201cWe\u2019d love to do all sorts of storytelling with Overwatch, but I think actually this was a good decision,\u201d he says.  \u201cWhen you\u2019re setting off on something new, you want to remain focused, and I think that approaching the story development the way that we did enabled us to really focus on the thing that was important: the gameplay. We were able to focus on making the characters as interesting and as powerful and unique as they could be, we could focus on making this really bright and interesting world.\u201d But he hints that the world narrative could get more explicit development down the road. \u201cWe can take maybe a slower, more methodical approach to developing the universe,\u201d says Chu. \u201cWe\u2019ve set ourselves some stakes in the ground where we know where the borders of the universe are, we kinda know important events that we would like to happen.\u201d One reason for the game\u2019s widespread appeal is that it\u2019s targeted as much at players without a history of first-person shooters as it is at the hardcore. Blizzard is a company notorious for fans who follow the developer from franchise to franchise, and for some of them, Overwatch may be the first FPS they\u2019ve taken seriously.  Again, Chu cites the hero framework as the reason why it\u2019s so easy for those players to pick up and play. \u201cThere\u2019s a lot of different playstyles,\u201d he points out. \u201cYou get Mercy, who\u2019s a healer \u2013 I always think of her as a good gateway World of Warcraft class. Like, \u2018oh, you play a healer? Try out Mercy, it\u2019s kind of the same thing.\u2019\u201d There is an element of trepidation on the part of some of those old-school Warcraft fans about mixing with hardcore FPS players, who have an unfortunate stereotype of being, bluntly, not very pleasant to play with. They have a reputation for being hostile to underperformance and prone to abusive language. As best it can, Blizzard has tried to engineer against those tendencies though. \u201cWe removed the scoreboard, because we didn\u2019t want people to be focusing on who the high performers and low performers on the team are,\u201d Chu says. \u201cWe wanted people to focus instead on team composition and team dynamics, things that actually play more in to having success rather than \u2018oh, my KDR [kill/death ratio] is much better than yours\u2019.\u201d Ultimately, time will tell whether that succeeds in building a nicer, more pleasant community. But judging by the pre-release chatter, Overwatch\u2019s bright, cheery world has succeeded in attracting a lot of light- and like-minded people. Now the bowls of lukewarm water have been put aside and the game has begun in earnest, hopefully that attitude will continue.",
+  "webTitle": "Overwatch: how Blizzard redefined the first-person shooter",
+  "webPublicationDate": "2016-05-26T11:11:46Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/26/overwatch-how-blizzard-redefined-the-first-person-shooter",
+  "keyword": [
+    {
+      "webTitle": "Games",
+      "id": "technology/games",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "PlayStation 4",
+      "id": "technology/playstation-4",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "PlayStation",
+      "id": "technology/playstation",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Sony",
+      "id": "technology/sony",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Alex Hern",
+      "id": "profile/alex-hern"
+    }
+  ],
+  "guardianId": "technology/2016/may/26/overwatch-how-blizzard-redefined-the-first-person-shooter"
+}

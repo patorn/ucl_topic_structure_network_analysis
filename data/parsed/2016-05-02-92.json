@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/tv-and-radio/2016/may/02/hulu-live-tv-offering-cable-netflix",
+  "id": "2016-05-02-92",
+  "sectionId": "tv-and-radio",
+  "body": "Hulu, the internet video streaming service, is planning to take on the traditional cable and broadcast networks with a live TV offering. The service will expand beyond Hulu\u2019s broadcasts of recent reruns of broadcast and cable shows and make it a direct competitor of traditional pay-TV providers and new digital entrants, including Netflix.   Related: TV networks battle new media threat as Facebook looms over ad war    Multiple reports citing Hulu executives published Monday confirmed the additions to the streaming service, which is owned by a consortium of competing television production companies including NBCUniversal, Disney and Fox Broadcasting.  When they debut in the first quarter of 2017, both the format of the new networks and the ads delivered through them would be tailored to the user, an executive told the New York Times. Cable companies and TV providers have made efforts in the recent past to escape from the old-fashioned channel-surfing model associated with cable TV and appeal more broadly to the youth market, which has refused to adopt costly cable subscriptions.   Related: 11.22.63 review \u2013 sumptuous Stephen King adaptation bodes well for Hulu    Executives told the Wall Street Journal that Fox and Disney were closest to deals to bring networks in their respective stables to the service. Like its streaming video competitors, Hulu has invested heavily over the last three years after the ouster of founding CEO Jason Kilar \u2013 under new CEO Mike Hopkins, the company has commissioned programs including an expensive adaptation of Stephen King bestseller 11/22/63, from JJ Abrams, and an upcoming miniseries version of Margaret Atwood\u2019s novel The Handmaid\u2019s Tale. But Hulu has also bucked conventional understandings of the way it would compete in the market against Netflix and Amazon Prime, where it was initially seen as an ad-filled version of popular ad-free streaming services that simply got content earlier. Instead, Hulu launched its own ad-free tier at a higher premium and agreed not to trim cinephile prints of classic films from boutique movie distributor the Criterion Collection to fit ad breaks. Now, Hulu is flirting with a model tested by services including PlayStation Vue and Sling TV: traditional ad-supported television networks streaming alongside its proprietary shows and the back catalog of television offered on demand.",
+  "webTitle": "Hulu to add live TV offering to compete with Netflix and cable providers",
+  "webPublicationDate": "2016-05-02T16:11:33Z",
+  "webUrl": "https://www.theguardian.com/tv-and-radio/2016/may/02/hulu-live-tv-offering-cable-netflix",
+  "keyword": [
+    {
+      "webTitle": "Hulu",
+      "id": "tv-and-radio/hulu",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Digital video",
+      "id": "technology/digitalvideo",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Stephen King",
+      "id": "books/stephenking",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "JJ Abrams",
+      "id": "film/jjabrams",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Television & radio",
+      "id": "tv-and-radio/tv-and-radio",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Sam Thielman",
+      "id": "profile/sam-thielman"
+    }
+  ],
+  "guardianId": "tv-and-radio/2016/may/02/hulu-live-tv-offering-cable-netflix"
+}

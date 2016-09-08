@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/us-news/2016/may/08/trump-accuses-clinton-of-wanting-to-abolish-the-second-amendment",
+  "id": "2016-05-08-228",
+  "sectionId": "us-news",
+  "body": "Presumptive Republican nominee Donald Trump has accused Hillary Clinton of wanting to \u201cabolish the second amendment\u201d.   Related: #ThanksObama: president's greatest legacy may be Trumping of the GOP    In a campaign rally in Lynden, Washington, on Saturday, Trump accused the likely Democratic nominee of wanting to remove the 215-year-old provision of the bill of rights from the constitution as well as \u201cwanting to take your guns away\u201d. The language of the second amendment, which states: \u201cA well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed\u201d, can only be altered via constitutional amendment as provided by article V of the constitution. It cannot be \u201cabolished\u201d in any other way.  Although Clinton has never made any statement in support of abolishing the second amendment or confiscating the personal firearms of citizens, she has stated that Heller v District of Columbia, a case where the supreme court overturned Washington DC\u2019s ban on handguns by a 5-4 vote, was wrongly decided. In that case, the court held that the second amendment provided for an individual right to bear arms and the late Justice Antonin Scalia proclaimed \u201chandguns are the most popular weapon chosen by Americans for self-defense in the home, and a complete prohibition of their use is invalid.\u201d Scalia though went on to endorse a laundry list of gun regulation including bans on automatic weapons and sawed-off shotguns as implicitly constitutional. Although Justice John Paul Stevens, a retired member of the supreme court who dissented in Heller, has called for a constitutional amendment to add the phrase \u201cwhen serving in the Militia\u201d to the constitution after \u201cthe right of the people to keep and bear arms\u201d, Clinton has not endorsed such an effort. The court\u2019s decision in Heller, which was uniquely narrow as it only provided for an individual right to bear arms to possession of handguns in the home for self-defense, could still be overturned in a future court case. That, however, would not be outright abolition of the second amendment. Instead, it would simply be a different interpretation of its centuries-old language.    Related: 'Did a bunch of little kids get shot today?' Stars join march for 'gun sense'    On gun control, Clinton though has supported expanding background checks for gun purchases as well as restoring the assault weapons ban of 1994. This ban did not affect legally owned guns already in circulation, which could continue to be resold. It only forbade the manufacture of new assault weapons for civilian use.   In contrast, although Trump has supported an assault weapons ban in the past, the presumptive GOP nominee is currently opposed to any limitations on gun ownership based on the variety of weaponry. In a campaign position paper, Trump said: \u201cLaw-abiding people should be allowed to own the firearm of their choice. The government has no business dictating what types of firearms good, honest people are allowed to own.\u201d The Clinton campaign did not respond to a request for comment while a Trump spokesperson dismissed a request for clarification as \u201csemantics\u201d.",
+  "webTitle": "Trump accuses Clinton of wanting to abolish the second amendment",
+  "webPublicationDate": "2016-05-08T01:30:21Z",
+  "webUrl": "https://www.theguardian.com/us-news/2016/may/08/trump-accuses-clinton-of-wanting-to-abolish-the-second-amendment",
+  "keyword": [
+    {
+      "webTitle": "US gun control",
+      "id": "us-news/gun-control",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Donald Trump",
+      "id": "us-news/donaldtrump",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Hillary Clinton",
+      "id": "us-news/hillary-clinton",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US elections 2016",
+      "id": "us-news/us-elections-2016",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US politics",
+      "id": "us-news/us-politics",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US constitution and civil liberties",
+      "id": "law/us-constitution-and-civil-liberties",
+      "sectionId": "law",
+      "sectionName": "Law"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ben Jacobs",
+      "id": "profile/ben-jacobs"
+    }
+  ],
+  "guardianId": "us-news/2016/may/08/trump-accuses-clinton-of-wanting-to-abolish-the-second-amendment"
+}

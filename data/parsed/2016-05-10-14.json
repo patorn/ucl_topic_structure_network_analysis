@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/10/roger-federer-withdrawal-rome-masters",
+  "id": "2016-05-10-14",
+  "sectionId": "sport",
+  "body": "Roger Federer, who has just overtaken Andy Murray as world No2 despite injury worries that have restricted him to three matches since the Australian Open in January, could pull out of his third tournament of the season here in Rome on Wednesday. The Swiss, who has avoided major injury for most of his career, is scheduled to play his first match of the Rome Masters against the exciting young German Alexander Zverev, undoubtedly the match of the day, but they are scheduled to play at noon.   Related: If Andy Murray needs a big name as coach, step forward Martina Navratilova    It is understood the tournament organisers did not want to pressure Federer into committing to his favoured peak time night slot because he is concerned about his fitness. If he withdraws from the early match, the evening programme will remain in place, and little will be lost from the daytime schedule, which is often sparsely attended. Federer, 34, pulled out of the Miami Masters and again from the Madrid tournament last week, complaining of a back injury that flared in a bizarre incident after the Australian Open, when he twisted awkwardly while adjusting the bath tap for one of his children. He practised on Tuesday but did not give his usual pre-match press conference. Federer, by his standards, has an ordinary record in Rome, having lost 15 of 46 matches in 15 visits, and has never won the title. Last year, Novak Djokovic defeated him in straight sets in the final. With the French Open just two weeks away, considering pulling out here at this late stage suggests Federer is concerned about his fitness for Roland Garros.",
+  "webTitle": "Roger Federer faces withdrawing from Rome Masters amid injury concerns",
+  "webPublicationDate": "2016-05-10T22:51:27Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/10/roger-federer-withdrawal-rome-masters",
+  "keyword": [
+    {
+      "webTitle": "Roger Federer",
+      "id": "sport/roger-federer",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Tennis",
+      "id": "sport/tennis",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Kevin Mitchell",
+      "id": "profile/kevinmitchell"
+    }
+  ],
+  "guardianId": "sport/2016/may/10/roger-federer-withdrawal-rome-masters"
+}

@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/books/2016/may/06/russian-culture-ministry-denies-reports-of-book-burning",
+  "id": "2016-05-06-96",
+  "sectionId": "books",
+  "body": "The Russian ministry of culture has denied that a widely reported book burning ever happened, after the Russian Writers\u2019 Union (RWU) submitted a petition to the government voicing concerns about the destruction of books. In January, Russian authorities were reported to have burned 53 books and removed more than 500 other volumes from two university libraries in the north-western Komi republic, on the grounds that they contained sentiments \u201calien to Russian ideology\u201d.   Related: Putin is a bigger threat to Europe\u2019s existence than Isis | George Soros    Most were textbooks published with money donated by the Soros Fund, run by hedge fund billionaire and outspoken Putin critic George Soros. The Open Society Foundation and the Open Society Institute\u2019s Assistance Foundation, both financed by Soros, were declared \u201cundesirable organisations\u201d and forced to stop their work in Russia in November 2015. A spokesperson for the education authorities in Komi later said reports of book burning had been misinterpreted by the media, and that the books had been withdrawn from circulation and stored in a warehouse. Culture minister Vladimir Medina later said that burning books was \u201ctotally unacceptable\u201d. On Friday, Publishing Perspectives reported that the RWU had submitted a petition to Russian president Vladimir Putin, asking him to prevent any further book burnings and clarify whether other books financed by foreign sources would be at risk of being destroyed.  A spokesperson for Russia\u2019s ministry of culture told the Guardian via email that the RWU\u2019s fears were \u201cgroundless\u201d and that book burning \u201ccould be regarded as censorship which is prohibited by the Russian constitution\u201d. \u201cThe Russian ministry of culture is not and never has been in a position to issue any laws or give instructions to destroy the books which \u2018contain sentiments alien to Russian ideology\u2019 as they are often referred to in mass-media,\u201d the spokesperson said. \u201cIf any books are declared \u2018extremist\u2019 through a court proceeding, they are put into the special list of the ministry of justice of the Russian Federation and immediately withdrawn from libraries. However, even in this case books are not destroyed, they are just not lent out to readers.\u201d The two Soros foundations were added to the list of \u201cundesirable\u201d foreign agencies after parliamentarian Konstantin Kosachev said the list would name organisations that \u201ccriticise Russia at any chance and are trying to gain external control over the situation in our country and over our people\u201d. Soros and the Russian state have long been at odds: Soros has a history of funding civil society groups active in protest movements. In February, he said Putin\u2019s Russia was \u201ca bigger threat to the EU than Islamic State\u201d; Russian government-funded media organisation RT responded by calling Soros \u201ca psychopath\u2019s psychopath\u201d.",
+  "webTitle": "Russian culture ministry denies reports of book burning",
+  "webPublicationDate": "2016-05-06T15:31:20Z",
+  "webUrl": "https://www.theguardian.com/books/2016/may/06/russian-culture-ministry-denies-reports-of-book-burning",
+  "keyword": [
+    {
+      "webTitle": "Books",
+      "id": "books/books",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Russia",
+      "id": "world/russia",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Censorship",
+      "id": "world/censorship",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Vladimir Putin",
+      "id": "world/vladimir-putin",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "George Soros",
+      "id": "business/george-soros",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Sian Cain",
+      "id": "profile/sian-cain"
+    }
+  ],
+  "guardianId": "books/2016/may/06/russian-culture-ministry-denies-reports-of-book-burning"
+}

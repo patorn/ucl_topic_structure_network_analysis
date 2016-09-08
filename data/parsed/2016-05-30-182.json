@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/science/across-the-universe/2016/may/30/mars-makes-closest-approach-to-earth-for-11-years",
+  "id": "2016-05-30-182",
+  "sectionId": "science",
+  "body": "Mars reaches its closest approach to Earth for 11 years this evening at 21:35 GMT. The red planet will be just 75 million kilometres away. Mars has been steadily approaching, tripling its apparent diameter as seen through telescopes since January. But don\u2019t be deceived by any internet messages claiming that it will appear larger than the full moon. The moon is just 384 thousand kilometres away; Mars will never come that close. A close approach between Earth and Mars, known as opposition, occurs every 2 years and two months. It takes place because our planet catches up with Mars and undertakes it, like a runner on the inside track. Some oppositions are closer than others because Mars follows an elliptical orbit and it depends on whether we catch up when Mars is close to the sun or far away. Nevertheless, oppositions are the best time to launch rockets to Mars because the energy needed to fly there is at a minimum. This year the European Space Agency has taken advantage by sending a probe.  Launched in March, it will enter orbit in October. Known as the Trace Gas Orbiter, the probe\u2019s mission is to look for evidence of life.   Related: Is there life on Mars? ExoMars Trace Gas Orbiter takes up the search    There are tantalising hints that microbial life could still be alive on the planet, almost certainly living below the surface. Underground, the microbes would be protected from the harsh ultraviolet light and cosmic rays that strike the surface. They would also be beyond the reach of the oxidising chemicals found in the top layers that would attack living cells. But the gases produced by the microbes would leak into the atmosphere. And here\u2019s where it gets interesting. Beginning in 2003, methane has been spotted coming and going above Mars\u2019s northern hemisphere. Could this be Martian microbes at work?  On Earth, most methane comes from living creatures. It can also be produced by geological processes and so ESA\u2019s Trace Gas Orbiter is designed to find out which is as work. It is by no means the first time an opposition of Mars has led to a search for life on the planet. At the beginning of the twentieth century, innovators such as Guglielmo Marconi were experimenting with wireless communications. In 1921, Marconi announced that he believed he had detected faint signals coming from Mars. Interest in this claim reached its peak three years later. During 21-23 August 1924, the US government requested that transmitters were to remain silent so that radio stations could listen for the whisper of extraterrestrial signals from Mars.  None were detected. There is no Martian civilisation.  But these days, all spacecraft including ESA\u2019s Trace Gas Orbiter use radio to communicate their results back to Earth. So Marconi was on the right lines about the potential of radio waves for interplanetary communication, just not from Martians.   Related: Nasa opens discussion on where to land humans on Mars    Despite Mars\u2019s proximity to our world this evening, the view may not be good. It is disappointingly low on the south-eastern horizon from the UK. Australia and New Zealand are the places to be for a good show. From there, Mars is high in the night sky. It can be found near the bright red star Antares and the yellow-tinged planet Saturn, forming a beautiful jewel-like triangle. Once located, you will need a telescope to see it as anything other than a bright red spot in the night sky. Even with a telescope the surface features of Mars are challenging to see. They appear as darker and lighter areas. You could glimpse the bright spot of Mars\u2019s polar cap. Any features that are visible will move noticeably over the course of the evening because Mars\u2019s day is only about forty minutes longer than the Earth\u2019s. If you miss a good view this time, don\u2019t worry too much, there\u2019s an even closer approach coming in 2018. Mars will be more than fifteen million kilometres closer to Earth, drawing to 58 million kilometres. Stuart Clark is the author of The Unknown Universe (Head of Zeus), and co-host of the podcast The Stuniverse (Bingo Productions).",
+  "webTitle": "Mars makes closest approach to Earth for 11 years",
+  "webPublicationDate": "2016-05-30T06:00:26Z",
+  "webUrl": "https://www.theguardian.com/science/across-the-universe/2016/may/30/mars-makes-closest-approach-to-earth-for-11-years",
+  "keyword": [
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Astronomy",
+      "id": "science/astronomy",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Space",
+      "id": "science/space",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Mars",
+      "id": "science/mars",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "European Space Agency",
+      "id": "science/european-space-agency",
+      "sectionId": "science",
+      "sectionName": "Science"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Stuart Clark",
+      "id": "profile/dr-stuart-clark"
+    }
+  ],
+  "guardianId": "science/across-the-universe/2016/may/30/mars-makes-closest-approach-to-earth-for-11-years"
+}

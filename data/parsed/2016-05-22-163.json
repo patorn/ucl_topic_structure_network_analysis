@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/22/claire-martin-and-ray-gelato-weve-got-a-world-that-swings-review-more-than-you-know",
+  "id": "2016-05-22-163",
+  "sectionId": "music",
+  "body": "Claire Martin can grasp the essence of any jazz-oriented style that appeals to her and make herself instantly at home in it. This time it\u2019s the irresistible mixture of swing, jump-and-jive and sheer bonhomie purveyed by Britain\u2019s \u201cGodfather of Swing\u201d, singer\u00a0and saxophonist Ray Gelato. It\u2019s a great combination, with far more jazz artistry involved than you might at first expect. Take, for instance, the easy relaxation in the vocal exchanges between the two of them, the supple lightness of the rhythm section, especially pianist David Newton and drummer Sebastian de Krom. My own favourite track is a gorgeous version of the ballad More Than You Know by Ms Martin, but it\u2019s all hugely entertaining and beautifully performed.",
+  "webTitle": "Claire Martin & Ray Gelato: We\u2019ve Got a World That Swings review \u2013 jazz artistry",
+  "webPublicationDate": "2016-05-22T07:00:36Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/22/claire-martin-and-ray-gelato-weve-got-a-world-that-swings-review-more-than-you-know",
+  "keyword": [
+    {
+      "webTitle": "Jazz",
+      "id": "music/jazz",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Dave Gelly",
+      "id": "profile/dave-gelly"
+    }
+  ],
+  "guardianId": "music/2016/may/22/claire-martin-and-ray-gelato-weve-got-a-world-that-swings-review-more-than-you-know"
+}

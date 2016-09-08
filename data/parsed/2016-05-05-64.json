@@ -1,0 +1,52 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/05/britons-flying-to-us-without-biometric-passports-could-be-turned-away",
+  "id": "2016-05-05-64",
+  "sectionId": "uk-news",
+  "body": "Tens of thousands of British tourists heading to the US have been warned that they risk being turned away from flights to the country unless they hold the latest biometric passports. Anyone flying to the US for business or pleasure must now hold a passport that contains an electronic chip \u2013 even if they have been granted an electronic visa. \u201cAs of 1 April 2016, all travellers must have an e-passport to use the [visa waiver programme],\u201d states the Department of Homeland Security website.  Reports are now beginning to proliferate of UK tourists being caught out. Vic Ryan of Lincoln had been due to fly to Florida last Sunday with his wife, his daughter and her boyfriend. He was told when checking in at East Midlands airport that he would not be allowed to board the flight because he did not hold a biometric passport. Ryan was not able to obtain a new passport over the bank holiday and was forced to stay at home while the rest of his family started their holiday. He said there were many others at the airport who were also denied boarding for the same reason.  Ryan was able to travel to Florida from Stansted airport on Wednesday to join his family, who visted Walt Disney World on Thursday, but the incident has cost him more than \u00a3500. Biometric passports have been issued since spring 2006 and the Home Office stopped issuing old-style travel documents in the autumn of that year. The change to US visa requirements was made late last year under the US Terrorist Travel Prevention Act 2015, following the San Bernardino shootings and came into effect at the start of last month. It appears that many tourists were unaware of the change and have found their chance of flying to the US thwarted at the airport, when airlines reveal that their passport will not be accepted. There are more than a million non-biometric UK passports still in use, and there are fears that the change has had insufficient publicity. On the Foreign Office travel advice website there is only one small and largely obscure reference to the new requirements for the US, and no effort to highlight the change in a way that would alert the average traveller. It appears that travel agencies have been warning their clients flying to the US, but those travelling independently have been caught out since little effort is made by airlines to warn passengers of the new visa requirements. Airlines and travel operators say that passengers are responsible for ensuring they have all the documentation required for their trip. As part of its restrictions the US also implemented changes to prevent foreign nationals who have travelled to Iran, Iraq, Libya, Sudan or Syria from entering the country without a visa. It also denied automatic visa waivers for foreigners who have dual Iranian, Iraqi, Sudanese and Syrian citizenship. An Abta spokesperson said it warned members of potential problems in January: \u201cAny customers who may have been caught out by this would have been more likely to be travelling independently.\u201d A spokesman for US Customs and Border Protection, said it had sent emails, where possible, to Esta holders, if their passport details were no longer valid. Travellers should allow at least three weeks to obtain a new passport at the standard prices, although any remaining time on their existing document will be added to the new one. Anyone needing a passport more quickly needs to make an appointment at a passport office in either London, Liverpool, Belfast, Durham, Glasgow, Newport or Peterborough \u2013 and must be prepared to pay at least \u00a3128. The US changes has already led to threats by the European Union to introduce tighter reciprocal visa requirements for American citizens visiting Europe for pleasure. At least five EU countries are not allowed to travel to the US on the electronic visa waiver programme, and the European commission has warned it may impose reciprocal restrictions.  A decision is expected from the European parliament and commission by July. The US requires visas for citizens of Bulgaria, Croatia, Cyprus, Poland and Romania.   This article was amended on 6 May to use a more up-to-date photo. Also, biometric passports were first issued in the UK in spring 2006, not spring 2007. This has been corrected.",
+  "webTitle": "Britons flying to US without biometric passports could be turned away",
+  "webPublicationDate": "2016-05-05T18:45:08Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/05/britons-flying-to-us-without-biometric-passports-could-be-turned-away",
+  "keyword": [
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Travel",
+      "id": "travel/travel",
+      "sectionId": "travel",
+      "sectionName": "Travel"
+    },
+    {
+      "webTitle": "Travel safety advice",
+      "id": "travel/travel-safety-advice",
+      "sectionId": "travel",
+      "sectionName": "Travel"
+    },
+    {
+      "webTitle": "Passport Office",
+      "id": "uk-news/passport-office",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Chris Johnston",
+      "id": "profile/chris-johnston"
+    },
+    {
+      "webTitle": "Patrick Wintour",
+      "id": "profile/patrickwintour"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/05/britons-flying-to-us-without-biometric-passports-could-be-turned-away"
+}

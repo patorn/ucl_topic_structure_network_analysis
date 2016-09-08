@@ -1,0 +1,90 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/03/un-urges-countries-to-stem-tide-of-firms-profit-shifting-to-tax-havens",
+  "id": "2016-05-03-88",
+  "sectionId": "business",
+  "body": "The UN has urged governments to stem the flow of funds to tax havens after companies funnelled $221bn (\u00a3152bn) into countries with low tax rates last year.   Related: The Cayman Islands \u2013 home to 100,000 companies and the \u00a38.50 packet of fish fingers     The Netherlands and Luxembourg were among the top destinations for funds from corporations seeking to avoid tax, along with the US, Britain, Switzerland and Ireland, according to the UN. Two tax havens under UK jurisdiction, the British Virgin Islands (BVI) and Cayman Islands, received $72bn of investment as they became a focus for businesses in Russia, China, the US and Hong Kong. Illustrating the extent of profit shifting to the Caribbean, the UN report found that a sample of companies in 26 developed countries registered more profits in Bermuda than they did in China in 2014. The findings come only weeks after David Cameron was forced to admit his family benefited from funds based in the BVI following the Panama Papers revelations. Since then Cameron has come under pressure to secure tougher disclosure agreements with British dependencies and crown protectorates in the Caribbean and the Channel islands to end the secrecy that campaigners believe supports profit shifting to avoid tax.  Unctad (the UN Conference on Trade and Development) said the growing practice among multinational corporations of diverting profits to low tax jurisdictions denied vital investment funds to developing world countries. Company subsidiaries based in low-tax countries were booking profits that were \u201cout of line with economic fundamentals\u201d, it said. These funds were disguised as investment when they were more likely to be funds shuffled from one centre to another to avoid tax.  \u201cThe persistence of investment flows routed through offshore finance centres, as well as the level of profits booked in these jurisdictions, highlight the pressing need to create greater coherence among tax and investment policies at the global level,\u201d it said.     Flows to Luxembourg surged in the first three quarters of 2015. Photograph: Getty Images    \u201cA lack of coordination between these two crucial policy areas will limit positive spillovers from one to the other, limiting potential gains in tax compliance as well as productive investment.\u201d The British pharmaceutical firm AstraZeneca was found in 2015 to have paid no tax on \u00a33bn of profits after channelling funds through a subsidiary in the Netherlands. The report said \u201cspecial purpose entities\u201d (SPEs) set up by companies were typically subsidiaries that had little connection to the local economy but held assets or liabilities or raised capital. Quarterly flows to SPEs in the Netherlands reached $148bn in the third quarter, the highest since 2007, driven by investment from Luxembourg and Britain.  But this trend sharply reversed in the last quarter of 2015 after the Netherlands introduced a general avoidance regulation in line with new OECD rules being adopted across Europe and other developed countries.  The clampdowns in the Netherlands and Luxembourg meant investment flows to offshore financial centres retreated from their recent high of $132bn in 2013, but remained \u201chigh\u201d and roughly in line with the flows of previous years. It meant the global total for the year fell back to $221bn. Flows to Luxembourg, typically destined for the subsidiaries of major US corporations, had surged in the first three quarters of 2015 to three times the level in the same months of 2014, but turned negative with a net divestment of $115bn in the final quarter. \u201cThe tight interrelation between SPE flows in Luxembourg and the Netherlands highlights the existence of dense and complex networks of these entities in both countries, with capital flowing rapidly among them in response to financing needs and tax planning considerations,\u201d the Unctad report said.",
+  "webTitle": "UN urges countries to stem tide of firms profit-shifting to tax havens",
+  "webPublicationDate": "2016-05-03T17:26:50Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/03/un-urges-countries-to-stem-tide-of-firms-profit-shifting-to-tax-havens",
+  "keyword": [
+    {
+      "webTitle": "Tax avoidance",
+      "id": "business/taxavoidance",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Corporate governance",
+      "id": "business/corporate-governance",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "United Nations",
+      "id": "world/unitednations",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "British Virgin Islands",
+      "id": "world/british-virgin-islands",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Cayman Islands",
+      "id": "us-news/caymanislands",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Luxembourg",
+      "id": "world/luxembourg",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Netherlands",
+      "id": "world/netherlands",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Tax havens",
+      "id": "world/tax-havens",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Phillip Inman",
+      "id": "profile/phillipinman"
+    }
+  ],
+  "guardianId": "business/2016/may/03/un-urges-countries-to-stem-tide-of-firms-profit-shifting-to-tax-havens"
+}

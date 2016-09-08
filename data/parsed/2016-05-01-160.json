@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/01/9bach-anian-review-ethereal-complex",
+  "id": "2016-05-01-160",
+  "sectionId": "music",
+  "body": "Largely recorded live at Real World studios, Welsh-language band 9Bach\u2019s third album takes simple elements \u2013 Lisa J\u00ean\u2019s ethereal vocals, piano, bass and percussion, harp and hammer dulcimer \u2013 and weaves complex patterns. Opening track Llyn Du sets the pace with an organic, trip-hoppy feel, an atmosphere that lingers through the title track and Yr Olaf, before Ifan \u2013 weirdly, a musing on the true story of a boy raised by a pack of wild dogs in Moscow \u2013 alters the mood with vocal over solo piano and heavier, weirder interludes. Standout tracks are Si Hwi Hwi, a sort of lullaby with lovely voice harmonies sung by a slave mother to her young son, the eastern-influenced Cyfaddefa and the a cappella Heno, with its minor-to-major shifts. Deryn, apparently an apocalyptic song for a wounded world, sounds like a sunny outing on the sea, and the overdriven, understated guitar on closer Breuddwyd y Bard is a real treat. It\u2019s worth mentioning that the CD version of the album comes with an extra disc, Yn dy lais/In Your Voice, which has the likes of Rhys Ifans, Peter Gabriel and Maxine Peake reading their own or others\u2019 English-language interpretations of the themes in the songs. They add to the experience, and it would be interesting to listen to the album with these readings interleaved with the music.",
+  "webTitle": "9Bach: Anian review \u2013 ethereal and complex",
+  "webPublicationDate": "2016-05-01T07:44:49Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/01/9bach-anian-review-ethereal-complex",
+  "keyword": [
+    {
+      "webTitle": "Folk music",
+      "id": "music/folk",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Molloy Woodcraft",
+      "id": "profile/molloywoodcraft"
+    }
+  ],
+  "guardianId": "music/2016/may/01/9bach-anian-review-ethereal-complex"
+}

@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/26/clare-maguire-stranger-things-have-happened-review",
+  "id": "2016-05-26-53",
+  "sectionId": "music",
+  "body": "At the turn of the decade, Clare Maguire was loudly touted as the heir to Amy Winehouse and Adele, and courted by the likes of Jay Z and Rick Rubin. Her debut album, however, turned out to be a collection of characterless power ballads, and the buzz faded. Now she has returned with the record she probably should have made in the first place: a collection of classy, retro pop that showcases her chameleonic voice. It\u2019s not a style that holds a huge amount of excitement any more, as indicated by the album\u2019s more banal junctures, such as the rather stale Elizabeth Taylor and various cod-Adele moments. But Maguire proves it can still be startlingly fruitful \u2013 most evidently in the minimal, doomy blues of Falling Leaves, but hinted at in other tracks which seem to reference everything from Nico\u2019s frosty folk and Desire-era Dylan to Beatlesesque pop and Paul Williams\u2019s understatedly beautiful songwriting.",
+  "webTitle": "Clare Maguire: Stranger Things Have Happened review \u2013 classy retro pop",
+  "webPublicationDate": "2016-05-26T20:20:12Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/26/clare-maguire-stranger-things-have-happened-review",
+  "keyword": [
+    {
+      "webTitle": "Clare Maguire",
+      "id": "music/clare-maguire",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Pop and rock",
+      "id": "music/popandrock",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Indie",
+      "id": "music/indie",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Rachel Aroesti",
+      "id": "profile/rachel-aroesti"
+    }
+  ],
+  "guardianId": "music/2016/may/26/clare-maguire-stranger-things-have-happened-review"
+}

@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/03/thibaut-courtois-committed-chelsea-psg-transfer-stories",
+  "id": "2016-05-03-69",
+  "sectionId": "football",
+  "body": "Thibaut Courtois has reaffirmed his commitment to Chelsea, declaring he is \u201c100%\u201d certain to stay, despite speculation linking the goalkeeper with Paris Saint-Germain. Courtois has attracted attention from numerous European clubs, following a dismal season personally and for Chelsea in general. The 23-year-old has previously made no secret of his desire to return at some stage to La Liga, where he enjoyed three fruitful years on loan at Atl\u00e9tico Madrid but PSG are the latest to be linked to him and Chelsea are reportedly open to a \u00a350m bid.   Related: Tottenham\u2019s Danny Rose apologises for setting bad example in Chelsea draw    Courtois told Le Parisien: \u201cI have never had any contact with PSG. I have played a lot against PSG recently \u2013 twice last season, again this season in a friendly and twice more in the Champions League this year. They are a good club who win their league easily. Me, I like playing in England. Paris is a very good club but I am happy at Chelsea.\u201d Asked for the percentage chance of him staying at Stamford Bridge, Courtois said: \u201cI have a contract for three years, so I will say 100%. Rumours affect any club where things are going badly. People think the top players want to leave because they are not in the Champions League. \u201cEveryone knows it is our fault we will not play in that competition next year. It has happened to Manchester United and to Dortmund, and it is heartbreaking. \u201cThis year, we have not defended our title well like we needed to. We must regather our forces to return stronger and get back to the Champions League.\u201d",
+  "webTitle": "Thibaut Courtois: PSG is a very good club but I\u2019m happy at Chelsea",
+  "webPublicationDate": "2016-05-03T18:04:35Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/03/thibaut-courtois-committed-chelsea-psg-transfer-stories",
+  "keyword": [
+    {
+      "webTitle": "Chelsea",
+      "id": "football/chelsea",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Paris Saint-Germain",
+      "id": "football/parisstgermain",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Mark Dobson",
+      "id": "profile/mark-dobson"
+    }
+  ],
+  "guardianId": "football/2016/may/03/thibaut-courtois-committed-chelsea-psg-transfer-stories"
+}

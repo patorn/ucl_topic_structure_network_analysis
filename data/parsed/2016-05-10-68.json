@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/10/uk-trade-deficit-hits-new-record-of-24bn-pounds-eu-referendum-brexit",
+  "id": "2016-05-10-68",
+  "sectionId": "business",
+  "body": "Britain\u2019s trade deficit with other European Union countries is running at a record high level ahead of the referendum next month, official figures show. The latest healthcheck from the Office for National Statistics on goods coming in and going out of the UK reveal that the gap between exports and imports in the first three months of 2016 widened by \u00a30.7bn to \u00a323.9bn. Trade has become an issue in the referendum campaign, with the leave camp saying that the size of the UK\u2019s deficit will encourage other EU countries to grant Britain continued access to the European single market in the event of a Brexit vote on 23 June.   Related: Business support for EU membership has fallen in run-up to vote    Vote Leave chief executive, Matthew Elliott, said: \u201cThe EU is not working. The eurozone is collapsing, millions of people are unemployed and Europe\u2019s economies are massively underperforming. That means that European countries are buying less from us than ever before as we trade more with the rest of the world.  \u201cIf we Vote Leave we will be able to take back control of our trade and do deals with growing economies rather than being shackled to the failing economies of Europe.\u201d Figures from the ONS showed that Europe is gradually becoming a less important destination for UK companies. In 2000, 60% of exports went to other EU countries, but the percentage fell to 58% in 2005, 54% in 2010 and 47% in 2015. Over the same period, imports from the EU remained constant, accounting for 54% in both 2000 and 2015.  Europe has tended to be a less crucial market for UK service sector companies, many of whom have close business links with the US. Since 2000, the percentage of services sector exports going to the EU has remained at around 40%. Taking goods and services together, the share of exports going to the EU has fallen from 54% in 2000 to 44% in 2015. The latest ONS figures show that Britain had a \u00a334.7bn deficit in the trade of goods in the first three months of 2016, up by \u00a31.4bn on the final quarter of 2015. The deficit with the EU accounted for more than two thirds of the shortfall, with the deficit with non-EU countries standing at \u00a310.8bn. The widening in the goods deficit was partly offset by a increase of \u00a30.4bn in the UK\u2019s surplus in services to \u00a321.4bn. This left an overall deficit in goods and services of \u00a313.3bn in the first quarter of 2016 \u2013 the largest since January to March 2008, when the economy was poised to descend into its longest and deepest post-war recession.   Related: EU referendum: top economic thinktank warns of post-Brexit shocks    In March alone, the ONS said there was an improvement in the UK\u2019s trade performance of \u00a30.5bn, reducing the deficit to \u00a33.8bn. The shortfall in goods narrowed by \u00a30.2bn to \u00a311.2bn while the surplus in services increased by \u00a30.3bn to \u00a37.4bn. Howard Archer, chief UK economist at IHS Global Insight, described the figures as a \u201ctruly horrible first-quarter trade performance that clearly weighed down on GDP growth and bodes ill for the first quarter current account deficit.\u201d The latest information on the UK\u2019s current account \u2013 which includes income from investment and payments to international bodies in addition to trade in goods and services \u2013 was running at a record 7% of GDP in the final three months of 2015. Samuel Tombs at Pantheon Macro, said: \u201cThe narrowing of the trade deficit in March is not much to celebrate. It remained bigger than its 12-month rolling average for the sixth consecutive month, and did not make up for dreadful deficits in January and February; Q1\u2019s deficit was the biggest for eight years. In additional, the volume of goods exports was 0.1% lower in Q1 than in Q4, compared to a 1.5% increase in imports.\u201d",
+  "webTitle": "UK trade deficit with EU hits new record",
+  "webPublicationDate": "2016-05-10T18:22:37Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/10/uk-trade-deficit-hits-new-record-of-24bn-pounds-eu-referendum-brexit",
+  "keyword": [
+    {
+      "webTitle": "International trade",
+      "id": "business/internationaltrade",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Global economy",
+      "id": "business/global-economy",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Office for National Statistics",
+      "id": "uk/office-for-national-statistics",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Larry Elliott",
+      "id": "profile/larryelliott"
+    }
+  ],
+  "guardianId": "business/2016/may/10/uk-trade-deficit-hits-new-record-of-24bn-pounds-eu-referendum-brexit"
+}

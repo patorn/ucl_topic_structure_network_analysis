@@ -1,0 +1,55 @@
+{
+  "apiUrl": "https://content.guardianapis.com/childrens-books-site/2016/may/26/group-reviews-a-selection",
+  "id": "2016-05-26-285",
+  "sectionId": "childrens-books-site",
+  "body": "World Cup Carnival by Frank Lampard Review by Alfie  The book is about the World Cup final and the Golden Ball. Children aged five to ten will like this.       I liked this because I like football and if other people do, they will like it too. Best Friends by Jacqueline Wilson Review by Abby Star rating 9 / 10 This book is about two girls called Gemma and Alice. They have been best friends since they were babies. But Alice has a secret. When Gemma finds out, it\u2019s hard to stay BFFs\u2026 I like this book because it gets very tense at the end, and the way Jacqueline Wilson lets it out is fascinating. Recommended for people aged 9-10.      Want to tell the world about a book you\u2019ve read? Join the site and send us your review!",
+  "webTitle": "Group reviews - a selection",
+  "webPublicationDate": "2016-05-26T08:00:06Z",
+  "webUrl": "https://www.theguardian.com/childrens-books-site/2016/may/26/group-reviews-a-selection",
+  "keyword": [
+    {
+      "webTitle": "Friendship (children and teens)",
+      "id": "books/friendship",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Children and teenagers",
+      "id": "books/booksforchildrenandteenagers",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Books",
+      "id": "books/books",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Children's books: 8-12 years",
+      "id": "books/childrens-books-8-12-years",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Jacqueline Wilson",
+      "id": "books/jacquelinewilson",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Frank Lampard",
+      "id": "football/frank-lampard",
+      "sectionId": "football",
+      "sectionName": "Football"
+    }
+  ],
+  "authors": [],
+  "guardianId": "childrens-books-site/2016/may/26/group-reviews-a-selection"
+}

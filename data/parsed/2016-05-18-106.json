@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/books/booksblog/2016/may/18/kafkaesque-a-word-so-overused-it-has-lost-all-meaning",
+  "id": "2016-05-18-106",
+  "sectionId": "books",
+  "body": "On Monday night, Han Kang\u2019s strange, disturbing, brilliant novel The Vegetarian won the Man Booker International prize. Shortly afterwards, dictionary publisher Merriam-Webster announced that searches for the word \u201cKafkaesque\u201d had \u201cspiked dramatically\u201d in the wake of her win, because the novel \u201chas been described by its British publishers (and by a number of reviewers) as Kafkaesque\u201d. Merriam-Webster is not wrong. The Vegetarian\u2019s US publisher calls the novel \u201ca darkly allegorical, Kafkaesque tale of power, obsession and one woman\u2019s struggle to break free from the violence both without and within her\u201d. I spoke to the chair of judges for the Man Booker International prize, Boyd Tonkin, about the novel, and he said that at times when reading it, \u201cI was thinking of Kafka, because it\u2019s about the change of state \u2026 part of the heroine\u2019s protest is not getting rid of meat, but getting rid of her humanity, becoming a plant or a tree.\u201d The dictionary defines the adjective, incidentally, as \u201cof, relating to, or suggestive of Franz Kafka or his writings; especially: having a nightmarishly complex, bizarre, or illogical quality\u201d. Nightmarish and illogical is also what I\u2019d have taken from a description of something as Kafkaesque, with an insectile undercurrent beneath it all (I don\u2019t think that last bit is right, incidentally, but it\u2019s what the word makes me think of). But Merriam-Webster also admits that the word, which saw its first recorded use in English in 1946, \u201cis so overused that it\u2019s begun to lose its meaning\u201d, a word that a columnist for Toronto\u2019s Globe and Mail argued is \u201ctossed around with cavalier imprecision, applied to everything from an annoying encounter with a petty bureaucrat to the genocidal horrors of the Third Reich\u201d. Kafka is not the only author to lend his name to an adjective - Merriam-Webster also points to Dickensian and Byronic, but there are many. Proustian. Joycean. Miltonic. Chaucerian. Pinteresque. Woolfian. Faulknerian. Perhaps almost as abused as Kafkaesque is Orwellian. The OED defines it as \u201ccharacteristic of Orwell\u2019s writings, esp. the totalitarian state in his dystopian account of the future, Nineteen Eighty-Four\u201d. But the New York Times says its use \u201creduces Orwell\u2019s palette to a single shade of noir. It brings to mind only sordid regimes of surveillance and thought control and the distortions of language that make them possible\u201d, while an excellent Daily Mash article argues that the word has \u201cnothing to do with having to put your recycling out\u201d and that \u201csimilarly, speed cameras are not \u2018Orwellian\u2019\u201d, because \u201cWinston Smith does not spend Nineteen Eighty-Four trying to weasel out of a \u00a375 fine for doing 70 on the A12\u201d.   Related: Translated fiction sells better in the UK than English fiction, research finds    But back to The Vegetarian, and how Kafkaesque it is, whatever that actually means to us. Tonkin also compared the novel to Ovid\u2019s Metamorphoses, and to The Bell Jar and The Yellow Wallpaper, making it, I suppose, Ovidian, Plathian, and Perkins Gilmanesque, as well (although I\u2019m not sure if that\u2019ll make it into the blurb). But aside from the misuse and overuse of Kafkaesque, there\u2019s something rather nice about the fact that enough people were interested in the winner of a literary award for translated fiction that a sizeable crowd took the trouble to look it up. Perhaps this means that the growth in translated fiction over the last 15 years, revealed last week by the Man Booker International prize, is set to continue. Let\u2019s hope so.",
+  "webTitle": "Kafkaesque: a word so overused it has lost all meaning?",
+  "webPublicationDate": "2016-05-18T16:00:42Z",
+  "webUrl": "https://www.theguardian.com/books/booksblog/2016/may/18/kafkaesque-a-word-so-overused-it-has-lost-all-meaning",
+  "keyword": [
+    {
+      "webTitle": "Franz Kafka",
+      "id": "books/franzkafka",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Fiction in translation",
+      "id": "books/fiction-in-translation",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Fiction",
+      "id": "books/fiction",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Books",
+      "id": "books/books",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Alison Flood",
+      "id": "profile/alisonflood"
+    }
+  ],
+  "guardianId": "books/booksblog/2016/may/18/kafkaesque-a-word-so-overused-it-has-lost-all-meaning"
+}

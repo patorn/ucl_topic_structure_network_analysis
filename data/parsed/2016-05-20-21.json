@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/20/google-ai-machine-learning-skynet-technology",
+  "id": "2016-05-20-21",
+  "sectionId": "technology",
+  "body": "Machines may yet take over the world, but first they must learn to recognize your dog.  To hear Google executives tell it at their annual developer conference this week, the technology industry is on the cusp of an artificial intelligence, or AI, revolution. Computers, without guidance, will be able to spot disease, engage humans in conversation and creatively outsmart world champions in competition. Such breakthroughs in machine learning have been the stuff of science fiction since Stanley Kubrick\u2019s 1968 film 2001: A Space Odyssey. \u201cI\u2019m incredibly excited about the progress we\u2019re making,\u201d CEO Sundar Pichai told a crowd of 7,000 developers at Google I/O from an outdoor concert stage. \u201cHumans can achieve a lot more with the support of AI assisting them.\u201d For better and worse, the company\u2019s near-term plans for the technology are more Office Space than Terminator. Think smartphones that can recognize pets in photos, appropriately respond to text messages, and find a window in your schedule where you should probably go to the gym. Googlers repeatedly boasted about how its computers could now automatically tag all of someone\u2019s pictures with a pet.    Related: Google Assistant takes on Amazon and Apple to be the ultimate digital butler    Mario Klingemann, a self-described code artist, said he is using Google\u2019s machine-learning tools to have his computer make art for him by sorting through pictures on his computer and combining them to form new images.  \u201cAll I have to do is sit back and let whatever it has created pass by and decide if I like it or not,\u201d Klingemann told the audience on Thursday night. In one of his pieces, called Run, Hipster. Run, Google\u2019s software had attached some fashionable leather boots to a hip bone.  It may seem like the latest example where Silicon Valley talks about changing society yet gives the world productivity apps. But it also illustrates the stark challenge that technology companies face in trying to make machines act like humans. \u201cIt\u2019ll be really, really small things that are just a bit more intuitive,\u201d said Patrick Fuentes, 34, a mobile developer for Nerdery in Minneapolis. He considered autocorrect on touchscreen keyboards a modern victory for machine learning. Referring to Skynet, the malicious computer network that turns against the human race in Terminator, Fuentes said: \u201cWe\u2019re not there yet.\u201d     Mario Queiroz introduces Google Home during the Google I/O 2016 developers conference. Photograph: Stephen Lam/Reuters     Google is considered the sector\u2019s leader in artificial intelligence after it began pouring resources into the area about four years ago. During a three-day conference that took on the vibe of a music festival with outdoor merchandise and beer vendors, Pichai made clear he sees machine learning as his company\u2019s future.  He unveiled the new Google Assistant, a disembodied voice that will help users decide what movie to see, keep up with email, and control lights and music at home. After showing how Google\u2019s machines can now recognize many dogs, he explained how he wants to use the same image recognition technology to spot damage to the eyes caused by diabetes. He boasted that Google\u2019s AI software, AlphaGo, showed \u201ccreativity\u201d when it beat a world champion at Go, the Korean board game considered more difficult than chess. This might seem like an odd push for a firm that makes its money from cataloging the web and showing people ads. But the focus is part of a broader transition in the technology sector from helping consumers explore unlimited options online to telling them the best choice.  For instance, several developers gave the example of a smarter ways to predict what people are looking for online given their past interests.  \u201cIf this guy likes sports and, I don\u2019t know, drinks, you should give him these suggestions,\u201d said Mikhail Ivashchenko, the chief technology officer of BeSmart in Kyrgyzstan. \u201cIt will know exactly what you\u2019re looking for.\u201d Unprompted, Ivashchenko said, \u201cit\u2019s not quite Skynet\u201d. His nearby friend, David Renton, a recent computer science graduate from Galway, Ireland, then mused how it would be awesome if Google could eventually develop a Skynet equivalent. \u201cThink of the applications if it doesn\u2019t kill us,\u201d Renton said. John Giannandrea, a Google vice-president of engineering who focuses on machine intelligence, said he won\u2019t declare victory until Google\u2019s software can read a text and naturally paraphrase it. Another challenge is that even the smartest machines these days have trouble transferring their knowledge from one activity to another.  For instance, AlphaGo, Google\u2019s software from the Go competition, wouldn\u2019t be able to apply its accumulated skills to chess or tic-tac-toe.  Still, Giannandrea said it\u2019s hard not to get excited by recent gains in teaching computers how to recognize patterns in images. \u201cThe field is getting a little bit overhyped because of the progress we\u2019re seeing,\u201d he said. \u201cThings that are hard for people to do we can teach computers to do. Things that are easy for people are hard for computers.\u201d Of course, delegating even small decisions to machines has caused a flurry of discussions about the ethics of artificial intelligence. Several technology leaders, including Steven Hawking and Elon Musk, have called for more research on the social impact of artificial intelligence.  For instance, Klingemann, the code artist, said he is already contemplating whether he needs to change his title.  \u201cI have become more of a curator than a creator,\u201d he said.",
+  "webTitle": "Google's AI ambitions show promise \u2013 'if it doesn't kill us'",
+  "webPublicationDate": "2016-05-20T20:13:37Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/20/google-ai-machine-learning-skynet-technology",
+  "keyword": [
+    {
+      "webTitle": "Google",
+      "id": "technology/google",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Artificial intelligence (AI)",
+      "id": "technology/artificialintelligenceai",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Computing",
+      "id": "technology/computing",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "California",
+      "id": "us-news/california",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Danny Yadron",
+      "id": "profile/danny-yadron"
+    }
+  ],
+  "guardianId": "technology/2016/may/20/google-ai-machine-learning-skynet-technology"
+}

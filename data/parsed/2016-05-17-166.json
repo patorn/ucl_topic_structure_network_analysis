@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/17/how-do-you-think-labour-is-doing-under-jeremy-corbyn",
+  "id": "2016-05-17-166",
+  "sectionId": "politics",
+  "body": "Jeremy Corbyn is more popular than ever with Labour members, according to a Times/YouGov poll. Despite the party\u2019s mixed results in May\u2019s elections, of those polled 50% of party members said they would \u201cdefinitely\u201d vote for him again, and 14% would \u201cprobably\u201d do so. The poll also found little support for potential leadership rivals. If you\u2019re a Labour member, we\u2019d like to hear your views on how Labour are doing under Jeremy Corbyn. When we last asked our readers back in December, we found the majority were happy with Corbyn\u2019s first three months in charge - though you had suggestions for how he could improve. Are you still happy with Labour\u2019s direction? What has impressed you, and how do you think the party needs to improve? Do you share Corbyn\u2019s assessment that Labour needs to improve if they\u2019re to win in 2020? What did you think of the recent election results: were they encouraging for the party? Is the party doing enough to reconnect with voters? You can share your views by filling out the form below.",
+  "webTitle": "How do you think Labour is doing under Jeremy Corbyn?",
+  "webPublicationDate": "2016-05-17T12:41:07Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/17/how-do-you-think-labour-is-doing-under-jeremy-corbyn",
+  "keyword": [
+    {
+      "webTitle": "Jeremy Corbyn",
+      "id": "politics/jeremy-corbyn",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Labour",
+      "id": "politics/labour",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "James Walsh",
+      "id": "profile/james-walsh"
+    }
+  ],
+  "guardianId": "politics/2016/may/17/how-do-you-think-labour-is-doing-under-jeremy-corbyn"
+}

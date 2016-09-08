@@ -1,0 +1,90 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/19/google-right-to-be-forgotten-fight-france-highest-court",
+  "id": "2016-05-19-186",
+  "sectionId": "technology",
+  "body": "Google is appealing to France\u2019s highest court over a legal ruling that could force it to censor its search results worldwide. The search firm has filed an appeal with the Conseil d\u2019\u00c9tat, the French court with the final say over matters of administrative law, in an attempt to overturn a ruling from the country\u2019s data protection authority (CNIL), which would greatly extend the remit of the so-called \u201cright to be forgotten\u201d. That right requires Google to remove links to pages that \u201cappear to be inadequate, irrelevant or no longer relevant or excessive \u2026 in the light of the time that had elapsed\u201d, in the words of the European court of justice\u2019s ruling from 2014. Since March, if a search term has been removed \u2013 and across Europe, the company has delisted about 600,000 results in response to requests \u2013 the company has ensured it can\u2019t be seen by anyone in an EU country, regardless of which version of Google they search on. So if Google detects a user is in Britain, they won\u2019t be able to see removed results even if they go to Google.com. What\u2019s more, Google.co.uk won\u2019t display the removed results, even to users in other countries. But in July, CNIL ruled that that wasn\u2019t enough, and required Google to apply the right to be forgotten to all searches on all Google domains. It said at the time \u201cin accordance with the CJEU (European court of justice) judgment, the CNIL considers that in order to be effective, delisting must be carried out on all extensions of the search engine and that the service provided by Google search constitutes a single processing\u201d.   Related: European parliament approves tougher data privacy rules    Google rejected the ruling, and sparked a 10-month fight now culminating in its appeal to the Conseil d\u2019\u00c9tat. Kent Walker, the company\u2019s general counsel, gave the company\u2019s reasons for fighting so hard. \u201cAs a matter of both law and principle, we disagree with this demand,\u201d he said. \u201cWe comply with the laws of the countries in which we operate. But if French law applies globally, how long will it be until other countries - perhaps less open and democratic - start demanding that their laws regulating information likewise have global reach? \u201cThis order could lead to a global race to the bottom, harming access to information that is perfectly lawful to view in one\u2019s own country. For example, this could prevent French citizens from seeing content that is perfectly legal in France. This is not just a hypothetical concern. We have received demands from governments to remove content globally on various grounds \u2013 and we have resisted, even if that has sometimes led to the blocking of our services.\u201d CNIL has argued that the global filtering is the only way to fully enforce the right to be forgotten. In an infographic the body released in March, for instance, it points out that a hypothetical \u201cMr Complainant\u201d could ask for an old dating profile to be removed from searches for his name: that would prevent a misunderstanding with his French fiancee or Portuguese cousin, the organisation points out, but not his American colleague, or his \u201cgeeky, curious neighbour\u201d \u2013 who could just fake their IP address as a non-EU country. In one situation, however, Google is bound to apply one country\u2019s laws across all its domains, even if their own laws are different. American copyright law governs all Google domains, and an order of magnitude more removal requests come due to copyright concerns than privacy issues. In the past month alone, Google says it has received 88,814,884 requests to remove URLs due to alleged copyright infringement. They are all governed by the American Digital Millennium Copyright Act (by contrast, it has assessed 1.5m requests for removal due to the right to be forgotten in the entire period since May 2014). URLs removed as a result of a copyright takedown requests are removed globally.  But copyright protections are far more internationally accepted than the right to be forgotten: the Berne convention, which sets international standards for intellectual property protection, has 171 signatories.",
+  "webTitle": "Google takes right to be forgotten battle to France's highest court",
+  "webPublicationDate": "2016-05-19T12:20:26Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/19/google-right-to-be-forgotten-fight-france-highest-court",
+  "keyword": [
+    {
+      "webTitle": "Google",
+      "id": "technology/google",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Right to be forgotten",
+      "id": "technology/right-to-be-forgotten",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Internet",
+      "id": "technology/internet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Alphabet",
+      "id": "technology/alphabet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "France",
+      "id": "world/france",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Law",
+      "id": "law/law",
+      "sectionId": "law",
+      "sectionName": "Law"
+    },
+    {
+      "webTitle": "Court of justice of the European Union",
+      "id": "law/european-court-of-justice",
+      "sectionId": "law",
+      "sectionName": "Law"
+    },
+    {
+      "webTitle": "Privacy",
+      "id": "world/privacy",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Alex Hern",
+      "id": "profile/alex-hern"
+    }
+  ],
+  "guardianId": "technology/2016/may/19/google-right-to-be-forgotten-fight-france-highest-court"
+}

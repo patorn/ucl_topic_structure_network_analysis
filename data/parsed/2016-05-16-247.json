@@ -1,0 +1,30 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/16/drone-spear-russia-rusborg",
+  "id": "2016-05-16-247",
+  "sectionId": "technology",
+  "body": "What\u2019s the greatest weakness of a drone? Partial marks if you said an eagle, a radio frequency jammer, or another drone. But no, the real answer is \u201cRussian historical re-enactors armed with a spear\u201d, as this video from Russia\u2019s Rusborg gathering earlier this month reveals. Unlike the high-tech method of drones armed with nets designed to down other drones, hitting a small quadcopter with a spear isn\u2019t the safest way to take down an annoying interloper. Not only do you risk spearing someone if you miss, but the drone itself probably won\u2019t come out of it in the best shape: the drone\u2019s operators, UAV photographers from Lipetsk, say it\u2019s now heading off to Moscow for repairs. In addition to that, there\u2019 are not many circumstances when wandering around with a spear is a good idea. Still, can\u2019t hurt to try.",
+  "webTitle": "A drone is no match for the high-tech weaponry of the middle ages",
+  "webPublicationDate": "2016-05-16T10:52:25Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/16/drone-spear-russia-rusborg",
+  "keyword": [
+    {
+      "webTitle": "Drones (non-military)",
+      "id": "technology/drones-non-military",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "HAL 90210",
+      "id": "profile/hal-90210"
+    }
+  ],
+  "guardianId": "technology/2016/may/16/drone-spear-russia-rusborg"
+}

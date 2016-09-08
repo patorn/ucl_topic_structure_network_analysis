@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/26/abellio-greater-anglia-ditches-ticket-clippers-staff-complaints-wrist-injuries",
+  "id": "2016-05-26-234",
+  "sectionId": "uk-news",
+  "body": "Ticket clippers on the railways may soon be consigned to history after a train operator abandoned their use following complaints about wrist injuries.  Abellio Greater Anglia said the decision was taken after concerns raised by inspectors. It stressed that it was not a health and safety directive imposed on staff, adding that it was also due to the rise in e-tickets. The company said it was merely following in the footsteps of other train companies, many of which it said had long abandoned clippers in favour of other methods, such as marker pens.  A spokeswoman said: \u201cIn response to requests from our frontline colleagues, we are phasing out the use of clippers and will be using alternative methods of marking checked tickets.\u201d Abellio Greater Anglia said as many as 600 passengers could be on a single journey. Other factors likely to have influenced the decision include the mess made by ticket clippers and the fact they sometimes punch through the magnetic strip on tickets, meaning they cannot be read by station turnstiles. With mobile and print-at-home tickets becoming more popular, it appears to be only a matter of time before clippers are phased out across the rail network. The rail minister Claire Perry said earlier this year that smart ticketing \u2013 such as Transport for London\u2019s Oyster card system \u2013 on the railways was \u201can inevitability\u201d and that paper tickets would be redundant in the future. But whatever happens,some services are unlikely to abandon clippers. Abellio Greater Anglia said it was looking to donate its devices to a heritage railway line.",
+  "webTitle": "Abellio Greater Anglia ditches ticket clippers after staff complaints",
+  "webPublicationDate": "2016-05-26T11:04:29Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/26/abellio-greater-anglia-ditches-ticket-clippers-staff-complaints-wrist-injuries",
+  "keyword": [
+    {
+      "webTitle": "Rail transport",
+      "id": "uk/rail-transport",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Transport",
+      "id": "uk/transport",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Haroon Siddique",
+      "id": "profile/haroonsiddique"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/26/abellio-greater-anglia-ditches-ticket-clippers-staff-complaints-wrist-injuries"
+}

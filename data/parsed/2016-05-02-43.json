@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/society/2016/may/02/study-points-personalised-treatment-breast-cancer",
+  "id": "2016-05-02-43",
+  "sectionId": "society",
+  "body": "Personalised treatment for breast cancer patients could become commonplace, as scientists reveal that they have compiled the most detailed picture yet of which genetic mutations are involved in the disease.  Published in the journals Nature and Nature Communications, the research involved the analysis of the genomes of cancerous tissue from 560 breast cancer patients, four of whom were men.   Related: Sexually transmitted virus strongly linked to risk of breast cancer \u2013 study    The upshot was the finding that there are 93 genes in which a mutation could cause the development of tumours, including five that were previously unknown. What\u2019s more, the scientists were able to map the mutations present in each cancer case, a process that led them to conclude that the genome of each breast cancer was highly individual. That, the authors said, could herald the widespread use of treatments tailored to each patient. \u201cIn the future, we\u2019d like to be able to profile individual cancer genomes so that we can identify the treatment most likely to be successful for a woman or man diagnosed with breast cancer. It is a step closer to personalised healthcare for cancer,\u201d said Serena Nik-Zainal of the Wellcome Trust Sanger Institute who led the international collaboration. Dr Emma Smith, Cancer Research UK\u2019s science information manager, said: \u201cThis study brings us closer to getting a complete picture of the genetic changes at the heart of breast cancer and throws up intriguing clues about the key biological processes that go wrong in cells and drive the disease.  \u201cUnderstanding these underlying processes has already led to more effective treatments for patients, so genetic studies on this scale could be an important stepping stone towards developing new drugs and boosting the number of people who survive cancer.\u201d Professor Sir Mike Stratton, director of the Wellcome Trust Sanger Institute, said discovering gene mutations is crucial to understanding the causes of cancer and coming up with better treatments. \u201cThis huge study, examining in great detail the many thousands of mutations present in each of the genomes of 560 cases, brings us much closer to a complete description of the changes in DNA in breast cancer and thus to a comprehensive understanding of the causes of the disease and the opportunities for new treatments.\u201d",
+  "webTitle": "Study points toward personalised treatment for breast cancer",
+  "webPublicationDate": "2016-05-02T19:29:58Z",
+  "webUrl": "https://www.theguardian.com/society/2016/may/02/study-points-personalised-treatment-breast-cancer",
+  "keyword": [
+    {
+      "webTitle": "Breast cancer",
+      "id": "society/breast-cancer",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Cancer",
+      "id": "society/cancer",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Cancer",
+      "id": "science/cancer",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Medical research",
+      "id": "science/medical-research",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Nicola Davis",
+      "id": "profile/nicola-davis"
+    }
+  ],
+  "guardianId": "society/2016/may/02/study-points-personalised-treatment-breast-cancer"
+}

@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/03/future-of-web-browsers-ads-firefox-chrome-safari",
+  "id": "2016-05-03-143",
+  "sectionId": "technology",
+  "body": "Ten years ago, there were two web browsers that anyone cared about: Netscape and Internet Explorer.  Each browser vied for favour with web publishers, begging them to optimise their pages for one browser or the other. The browser with the most pages would, the browser companies thought, win the most users and thus the web, and so the first browser wars were fought to win over publishers. But that fight came at the expense of users, because the one thing publishers of web 1.0 really wanted was pop-up ads \u2013 and the more obnoxious the better. Remember ads that showed up one pixel square and ran away from your mouse-pointer if you tried to close them, while auto-playing sound adverts? And those weren\u2019t even the worst! Browsers didn\u2019t have pop-up blocking \u2013 they had pop-up \u201cenhancing\u201d. Any company that blocked pop-ups would be de-optimized by the big publishers and doomed to obscurity. Then came Mozilla \u2013 a not-for-profit, openly developed web browser that didn\u2019t care about publishers. It cared about users. It blocked pop-ups by default, understanding that users wanted the see the publishers\u2019 sites but not their pop-ups, and if Mozilla had enough users, it wouldn\u2019t matter if publishers hated them. Skip to 2016 and the web is a very different place. The World Wide Web Consortium, the not-for-profit organization that creates the web\u2019s open technology standards, made a brave effort to tame the web\u2019s lunatic proprietary HTML extensions that paid off, making those \u201cBest viewed with\u201d badges on websites a relic of the past. All the browsers have changed, too: Netscape vanished, Mozilla begat Firefox, Internet Explorer morphed into Edge, and Apple\u2019s Safari and Google\u2019s Chrome grew from obscure side projects to two of the dominant forces on the web.  Ten years is an eternity in web years, and in a decade, everything can change. However, that change might be coming to an end thanks to the existing web browser vendors and the World Wide Web Consortium. Since 2013 they\u2019ve been working with Netflix, the cable industry, and the MPAA to create a standard to limit which browsers can display W3C-standardised data. It could mean goodbye to \u201cjust works\u201d and hello again to \u201cbest viewed with\u201d. The W3C\u2019s project is called EME, for encrypted media extensions. This is a way of restricting the playback of video in browsers, and for a given EME version to work, it has to have the blessing of the entertainment giants. EME is designed to allow publishers to invoke global copyright rules, such as the European Union Copyright Directive and the US\u2019s Digital Millennium Copyright Act, which prohibits tampering with a digital lock, even for legal purposes. Thus, companies that try to receive EME-locked videos without permission face legal shutdown. It\u2019s exactly the opposite of all the other W3C standards, which spelled out how to build a browser that could display any of the standards-defined information that web publishers emitted. By contrast, EME describes how to tune in video streams \u2013 only if you can convince media companies to give you permission to be a browser.  If other W3C standards worked like EME, there would have been no Mozilla. Now that EME is a standard, we may never get another Mozilla-like eruption of new browsers \u2013 browsers that cater to users, not corporations. New browsers make a niche for themselves by taking the side of users over publishers. With EME, publishers get to decide which browsers can and can\u2019t display their wares, ending this cycle of renewal. The World Wide Web Consortium spent more than two decades making open standards that let anyone make a web browser and compete for users\u2019 loyalty. Why would it suddenly change sides and design a standard that will require all future browsers to get permission from a small group of entertainment companies in order to play back video streamed according to W3C standards? It\u2019s because they think the web is cooked. When you ask the W3C to defend their decision to standardise DRM \u2013 digital rights management or digital restrictions management, the technical term for EME-style tools \u2013 they tell you that the web giants are going to make DRM with or without W3C help. By agreeing to give them a standardisation forum where they can conspire without the risk of antitrust action, the W3C gets to beg them to make the DRM a little more user-friendly.  That makes sense, if you think that Chrome, Safari, Google and Edge are the last browsers we\u2019ll ever see. If you think that the winner-takes-all era of the web has arrived \u2013 when giants can no longer be overturned by upstarts. It\u2019s a self-fulfilling prophecy. Make it easy for today\u2019s crop of web giants to sue any new entrants into oblivion and you can be pretty certain there won\u2019t be any new entrants. It marks a turning point in the history of those companies. Where once web giants were incubators for the next generation of entrepreneurs who struck out and started competitors that eclipsed their former employers, now those employees are setting the stage for a future where they can stay where they are, or slide sideways to another giant. Forget overturning the current order, though. Maybe they, too, think the web is cooked. In case there was any doubt of where the W3C stood on whether the future web needed protection from the giants of today, that doubt was dispelled last month. Working with the Electronic Frontier Foundation, I proposed that the W3C adapt its existing policies \u2013 which prohibit members from using their patents to block new web companies \u2013 to cover EME, a moved that was supported by many W3C members.  Rather than adopt this proposal or a version of it, last month, the W3C executive threw it out, giving the EME group a green light to go forward with no safeguards whatsoever. The world has entered the age of giants: giant media companies, giant banks, giant tech companies. Where giants tread, mere mortals tremble, and hope for a day when they will be cut down to size. With the W3C acting like they\u2019re a permanent fact of life, that day may never come.",
+  "webTitle": "Why the future of web browsers belongs to the biggest tech firms",
+  "webPublicationDate": "2016-05-03T15:00:00Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/03/future-of-web-browsers-ads-firefox-chrome-safari",
+  "keyword": [
+    {
+      "webTitle": "Web browsers",
+      "id": "technology/web-browsers",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Digital rights management",
+      "id": "technology/drm",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Intellectual property",
+      "id": "law/intellectual-property",
+      "sectionId": "law",
+      "sectionName": "Law"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Internet",
+      "id": "technology/internet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Internet Explorer",
+      "id": "technology/internet-explorer",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Mozilla",
+      "id": "technology/mozilla",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Cory Doctorow",
+      "id": "profile/corydoctorow"
+    }
+  ],
+  "guardianId": "technology/2016/may/03/future-of-web-browsers-ads-firefox-chrome-safari"
+}

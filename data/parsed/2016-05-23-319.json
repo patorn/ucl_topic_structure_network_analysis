@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/23/japan-cash-machine-100-thieves-steal-13m-dollars-three-hours",
+  "id": "2016-05-23-319",
+  "sectionId": "world",
+  "body": "Members of an international crime syndicate are suspected of stealing more than 1.4bn yen (US$12.7m) from cash machines in Japan in the space of less than three hours, in an audacious heist that involved thousands of coordinated withdrawals. Police believe that as many as 100 people, none of whom have been apprehended, worked together using forged credit cards containing account details illegally obtained from a bank in South Africa.   Related: Who invented the cash machine? I did \u2013 and all I earned was \u00a310    The culprits used the fake cards at 1,400 convenience store automated teller machines on the morning of 15 May, according to police. Each made withdrawals of 100,000 yen at a time \u2013 the maximum allowed by the cash machines \u2013 and there was a total of 14,000 withdrawals. The thieves targeted cash machines in the capital Tokyo and 16 other prefectures, according to Kyodo News. Japanese police have asked the authorities in South Africa, via Interpol, to establish how the credit card information was obtained. Transaction data retrieved from the cash machines suggests that the criminals used information for 1,600 credit cards issued by the South African bank, which has not been named. The Yomiuri Shimbun reported that the withdrawals began just after 5am last Sunday, with the last one made just before 8am the same day. Reports suggest that members of the gang may no longer be in Japan. By using cards that were issued in a different country from the one in which the fraud took place - and on a day of the week when banks were closed - they were probably able to buy themselves enough time to leave the country before their crime was discovered. Japan is the latest victim of a string of ATM heists using credit cards forged using leaked data. In one case, thieves withdrew 4.5bn yen in 26 countries, including Japan, in 2012 and 2013, the Yomiuri said.   This article was amended on 23 May 2016 to include the fact that 14,000 withdrawals were made in total.",
+  "webTitle": "100 thieves steal $13m in three hours from cash machines across Japan",
+  "webPublicationDate": "2016-05-23T04:31:56Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/23/japan-cash-machine-100-thieves-steal-13m-dollars-three-hours",
+  "keyword": [
+    {
+      "webTitle": "Japan",
+      "id": "world/japan",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Asia Pacific",
+      "id": "world/asia-pacific",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Justin McCurry",
+      "id": "profile/justinmccurry"
+    }
+  ],
+  "guardianId": "world/2016/may/23/japan-cash-machine-100-thieves-steal-13m-dollars-three-hours"
+}

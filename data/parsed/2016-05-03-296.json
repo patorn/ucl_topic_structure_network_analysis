@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/03/new-anti-extremism-powers-to-be-included-in-queens-speech",
+  "id": "2016-05-03-296",
+  "sectionId": "uk-news",
+  "body": "David Cameron is expected to announce plans to crack down on extremism in the Queen\u2019s speech, including powers to ban organisations, close down premises and gag individuals.  The legislation follows publication of the government\u2019s counter-extremism strategy which also promised a full investigation into the application of sharia law in the UK. The review has already been announced, but the Home Office is expected to appoint a chair shortly. A Downing Street spokesman said he would not speculate on the contents of the Queen\u2019s speech, to be held at the state opening of parliament on 18 May, but sources said that legislation was required to introduce the measures announced in October as part of the strategy.   Related: Government hid fact it paid for 2012 Olympics film aimed at Muslims    It promised to ban radical preachers from posting material online, and bar anyone with extremist views from working with children. It also said that deradicalisation classes should be mandatory.  There are also plans to allow Ofcom to block broadcasts of \u201cunacceptable extremist material\u201d.  However, there appear to be questions still remaining. A Home Office source told the Times: \u201cGetting agreement about the thresholds for what constitutes extremism and what needs to be protected as free speech is not going to be easy or straightforward.\u201d",
+  "webTitle": "New anti-extremism powers to be included in Queen's speech",
+  "webPublicationDate": "2016-05-03T08:07:15Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/03/new-anti-extremism-powers-to-be-included-in-queens-speech",
+  "keyword": [
+    {
+      "webTitle": "UK security and counter-terrorism",
+      "id": "uk/uksecurity",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Sharia law",
+      "id": "law/sharia-law",
+      "sectionId": "law",
+      "sectionName": "Law"
+    },
+    {
+      "webTitle": "Islam",
+      "id": "world/islam",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Law",
+      "id": "law/law",
+      "sectionId": "law",
+      "sectionName": "Law"
+    },
+    {
+      "webTitle": "Religion",
+      "id": "world/religion",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "The Queen",
+      "id": "uk/queen",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Anushka Asthana",
+      "id": "profile/anushkaasthana"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/03/new-anti-extremism-powers-to-be-included-in-queens-speech"
+}

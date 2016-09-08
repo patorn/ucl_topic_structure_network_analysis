@@ -1,0 +1,96 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/25/great-barrier-reef-advisers-call-for-cap-on-farm-pollution",
+  "id": "2016-05-25-299",
+  "sectionId": "environment",
+  "body": "A cap on pollution from farms close to the Great Barrier Reef has been proposed by advisers to the Queensland government. The Great Barrier Reef water science taskforce, which advises the Queensland government on how to meet pollution targets on the reef, said sugar cane, grazing and other sectors should be given pollution load limits for their industries in each catchment. It also called for incentives such as auctions for pollution reduction, greater monitoring and regulation, along with \u201csignificantly more investment\u201d in the problem. The Labor state government said it would adopt some of the recommendations immediately, and use the recommendations to guide $90m the government committed to spend on reef water quality before being elected.   Related: Great Barrier Reef needs $10bn for chance of survival, scientists say    The report was hailed as a \u201cgame changer\u201d by some conservationists, while others called for the costings behind it to be released immediately. Steven Miles, the Queensland environment minister, said: \u201cThere are a number of actions recommended by the taskforce that we can begin to implement immediately.\u201d  Among them, the government would spend $33.5m on two projects to limit fertiliser and pesticide runoff from the northern wet tropics, and to limit sediment from the southern Burdekin region. They would also spend $20m to support changes in land management, which would limit pollution, and $11m on greater water quality monitoring, which could provide information to farmers. The majority of water pollution hitting the Great Barrier Reef comes from farms along the rivers that feed into the Queensland coast. Land clearing also increases the amount of sediment pollution.  Minimising water pollution would make coral and seagrass more resilient to the biggest problems the reef faces, as a result of climate change. At a press conference, Queensland\u2019s chief scientist Geoff Garrett, who led the taskforce, reportedly said \u201cwe\u2019re stuffed with a capital S\u201d if water quality isn\u2019t improved.    'We're stuffed with a capital S' if we don't manage run off on the reef says Qld Chief Scientist #greatbarrierreef pic.twitter.com/M8AzPmlk7q\u2014 Shane Doherty (@ShaneDoherty9) May 25, 2016    In a statement Garrett said: \u201cWhile we acknowledge the efforts to date, it is abundantly clear that more widespread and rapid action is required.\u201d \u201cAchieving the water quality targets in the timescale proposed is likely to be well beyond the funds currently allocated by the Queensland and Australian governments.\u201d The Queensland government had targets of reducing reducing nitrogen pollution by up to 80% and sediment by up to 50% by 2025. The cost of achieving that was the subject of another report, which has been completed but is undergoing review. Jon Brodie, a reef and water quality expert from James Cook University, said the recommendations on water quality were sensible.   Related: Great Barrier Reef: who's profiting from the destruction and devastation?    Imogen Zethoven, the Great Barrier Reef campaign director for the Australian Marine Conservation Society, said that report needed to be released immediately so voters could properly evaluate the commitments parties were making in the federal election campaign. \u201cThe public deserves to know what investment is needed to save the reef,\u201d she said. WWF spokesman Sean Hoobin hailed the report as a \u201cgame changer\u201d. \u201cA catchment cap on pollution which reduces over time, is needed to ensure the reef gets the clean water it needs to restore its health,\u201d Hoobin said. \u201cA cap is best achieved through federal laws and we are calling for the major parties to announce they would legislate pollution limits to deliver clean water to the reef by 2025.\u201d",
+  "webTitle": "Great Barrier Reef: advisers call for cap on farm pollution",
+  "webPublicationDate": "2016-05-25T04:39:22Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/25/great-barrier-reef-advisers-call-for-cap-on-farm-pollution",
+  "keyword": [
+    {
+      "webTitle": "Great Barrier Reef",
+      "id": "environment/great-barrier-reef",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Farming",
+      "id": "environment/farming",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Water",
+      "id": "environment/water",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Queensland",
+      "id": "australia-news/queensland",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Oceans",
+      "id": "environment/oceans",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Marine life",
+      "id": "environment/marine-life",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Australian election 2016",
+      "id": "australia-news/australian-election-2016",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Queensland politics",
+      "id": "australia-news/queensland-politics",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australian politics",
+      "id": "australia-news/australian-politics",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Climate change",
+      "id": "environment/climate-change",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Coral",
+      "id": "environment/coral",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Michael Slezak",
+      "id": "profile/michael-slezak"
+    }
+  ],
+  "guardianId": "environment/2016/may/25/great-barrier-reef-advisers-call-for-cap-on-farm-pollution"
+}

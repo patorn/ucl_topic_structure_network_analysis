@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/16/natalie-bennetts-leadership-of-the-green-party-what-do-you-think",
+  "id": "2016-05-16-279",
+  "sectionId": "politics",
+  "body": "The leader of the Green party Natalie Bennett is to step down this summer, after saying she believed she had established her party as a national force while acknowledging that she was not a \u201cspin-trained, lifelong politician\u201d. She will remain leader until the end of August when her second two-year term expires, but said she was making the announcement now to allow possible successors plenty of time to come forward. The Green leader, who took over from the better known Caroline Lucas, came to national prominence during last year\u2019s general election campaign, when she appeared in the televised party leaders\u2019 debates alongside David Cameron and Ed Miliband. What do you think of Bennett\u2019s decision to step down? How do you think she did as leader of the Green party? Who would you like the new leader to be? You can share your views by filling in our form below. We\u2019ll include some of your contributions in our ongoing reporting.",
+  "webTitle": "What do you think of Natalie Bennett's leadership of the Green party?",
+  "webPublicationDate": "2016-05-16T09:26:09Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/16/natalie-bennetts-leadership-of-the-green-party-what-do-you-think",
+  "keyword": [
+    {
+      "webTitle": "Green party",
+      "id": "politics/green-party",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian readers",
+      "id": "profile/guardian-readers"
+    }
+  ],
+  "guardianId": "politics/2016/may/16/natalie-bennetts-leadership-of-the-green-party-what-do-you-think"
+}

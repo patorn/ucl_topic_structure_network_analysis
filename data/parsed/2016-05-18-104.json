@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/18/tennis-drugs-maria-sharapova-espn-poll",
+  "id": "2016-05-18-104",
+  "sectionId": "sport",
+  "body": "More than a fifth of tennis pros know a current player who has used performance-enhancing drugs, and a quarter of players have suspected an opponent of throwing a match, according to an anonymous poll conducted by ESPN before the French Open. The sample was small, consisting of only 31 players from the WTA and ATP tours, but the results were interesting, and suggest current tour players are aware of their colleagues breaking the rules. Just over 22% of the players polled said \u201cyes\u201d when asked, \u201cYes or no: I know a tennis player who has used PEDs in his or her career\u201d, although the vast majority believe the number of players who have done so is low, at less than 10%. Nearly two thirds said professional tennis players should be tested more often, and 25.8% said they suspected a player of fixing a match.   Related: Andy Murray says Maria Sharapova deserves ban for failing drugs test    A majority of respondents believe Maria Sharapova should miss only one year of tennis after testing positive for meldonium. 64.5% of players said she should miss one year, 29.0% said her ban should be \u201cmulti-year\u201d, and 6.5% said she should receive no punishment at all. Sharapova is set to learn of the length of her suspension on Wednesday, after appearing at an anti-doping panel in London. A ban of between six and 12 months is expected after she announced in January she had tested positive for the Latvian-made heart disease medication, which is used widely in eastern Europe but has recently been added to the banned list. The poll asked more trivial questions. Two-thirds of players said Serena Williams had not lost her air of invincibility, and was still the dominant star on the women\u2019s tour, but 32% of players said Williams would finish outside the top 1,000 if she had to play a full season on the men\u2019s tour. The pros were split down the middle on Roger Federer: 48.4% said the Swiss master wouldn\u2019t win another grand slam. David Ferrer was considered the most underrated player on tour, while Sharapova was regarded as the \u201cbiggest diva\u201d.",
+  "webTitle": "Poll finds 22% of tennis pros know a player who has used drugs",
+  "webPublicationDate": "2016-05-18T16:04:44Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/18/tennis-drugs-maria-sharapova-espn-poll",
+  "keyword": [
+    {
+      "webTitle": "Tennis",
+      "id": "sport/tennis",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Maria Sharapova",
+      "id": "sport/maria-sharapova",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Drugs in sport",
+      "id": "sport/drugs-in-sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "US sports",
+      "id": "sport/us-sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Serena Williams",
+      "id": "sport/serena-williams",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Roger Federer",
+      "id": "sport/roger-federer",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "sport/2016/may/18/tennis-drugs-maria-sharapova-espn-poll"
+}

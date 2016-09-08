@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/04/emergency-brake-unlikely-big-cut-migration-observatory",
+  "id": "2016-05-04-344",
+  "sectionId": "politics",
+  "body": "David Cameron\u2019s \u201cemergency brake\u201d denying access to in-work benefits for new European Union migrants is unlikely to lead to a large reduction in migration to the UK, according to expert analysis. Oxford University\u2019s Migration Observatory says the key element in Cameron\u2019s renegotiation package with the EU, under which newly arrived migrants will be denied access to in-work benefits for their first four years, is likely to affect only a small number of families.   Brexit companion   But the Oxford research also casts doubt on claims that the introduction of the \u201cnational living wage\u201d will encourage EU migration mark.  The migration experts say the incentive effect of the national living wage for EU citizens over the age of 25 is not clear cut, as it could reduce the availability of low-wage employment. \u201cThis would make it harder for EU nationals to find jobs,\u201d the Migration Observatory says. Its report says most EU migrants now claiming in-work benefits such as tax credits did not arrive within the past four years and so would not have been affected by the new \u201cemergency brake\u201d restrictions had they been in place. The researchers say the data shows that roughly 10-20% of recently arrived EU adults were in receipt of tax credits in early 2014. They do not flatly contradict Cameron\u2019s claim last November that 40% of recently arrived European Economic Area migrants were supported by benefits, but they do say the figure is higher than other available estimates, for various reasons including that it counts children as benefits recipients.  They found that in 2015 19% of recently arrived EEA migrants reported receiving a state benefit in their own right, falling to 13% if child benefit is excluded. \u201cMore than half of EEA-born adults who reported receiving tax credits in 2015 were working full-time, and around 90% had dependent children (despite less than half of EEA-born adults overall having children),\u201d say the Oxford migration experts.  This leads them to conclude that the impact of the emergency brake will be \u201cconcentrated on a small share of families with children \u2013 particularly minimum-wage workers with children and those in families without two-full time earners.\u201d They add that if the national living wage increases the incomes of these families, that would reduce their in-work benefits entitlement even without restrictions on welfare eligibility. Madeleine Sumption, director of the Migration Observatory, said: \u201cLooking at reliance on welfare benefits overall, migrants from EU countries are actually not very different to people born in the UK. EU migrants are more likely to be working, and so use in-work benefits more than out-of-work ones, but the differences are not dramatic.  \u201cA large majority of recent EU migrants are not claiming benefits of any kind. That means that most migrants to the UK would not be affected by proposed changes to the welfare system. That said, some families with children would stand to lose several thousands in tax-credit income, and would still be considerably worse off even if higher minimum wages increase their incomes over the next few years.\u201d",
+  "webTitle": "'Emergency brake' unlikely to lead to big cut in migration, say experts",
+  "webPublicationDate": "2016-05-04T05:01:18Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/04/emergency-brake-unlikely-big-cut-migration-observatory",
+  "keyword": [
+    {
+      "webTitle": "Welfare",
+      "id": "politics/welfare",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Benefits",
+      "id": "society/benefits",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Immigration and asylum",
+      "id": "uk/immigration",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Foreign policy",
+      "id": "politics/foreignpolicy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Alan Travis",
+      "id": "profile/alantravis"
+    }
+  ],
+  "guardianId": "politics/2016/may/04/emergency-brake-unlikely-big-cut-migration-observatory"
+}

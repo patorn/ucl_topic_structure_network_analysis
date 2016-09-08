@@ -1,0 +1,61 @@
+{
+  "apiUrl": "https://content.guardianapis.com/commentisfree/2016/may/14/food-regulation-safety-health",
+  "id": "2016-05-14-19",
+  "sectionId": "commentisfree",
+  "body": "In the 15 years since the launch of Observer Food Monthly, the British food scene has changed beyond recognition. Artisan coffee shops are now a feature of many high streets; gastropubs, not just white-linen dining establishments, are awarded Michelin stars. Supermarket shelves are stacked with foods catering for most intolerances. Review sites such as Trip Advisor have democratised the experience of eating out, while the proliferation of online delivery services means we can order takeaway via the touch of an app. It feels as if we have more choice than ever. A lively debate about what\u2019s on our plate, and how it got there, has also emerged. In the past decade, celebrity chefs such as Jamie Oliver and Hugh Fearnley-Whittingstall have thrown their weight behind exposing the ugly truth about how some of our food is produced. We\u2019re more aware than ever of the costs of intensive farming: terrible for animal welfare, but also bad for us. Intensively reared chickens are three times higher in fat than 30 years ago; three quarters of supermarket chicken carry the potentially lethal bug campylobacter; and overuse of antibiotics on livestock threatens the effectiveness of antibiotics for human use. We import green beans from Kenya and asparagus from Peru at huge cost to the environment. All-powerful supermarkets reject vast amounts of imperfect-looking produce from farmers generating vast amounts of food waste, and well-intentioned fishing quotas have led to thousands of tonnes of dead fish being dumped back in the sea. There is a strong link between increasing levels of fat, salt and sugar in processed foods and ballooning obesity levels, particularly among children. But while our awareness of these issues has grown, progress in addressing them has been much slower. That\u2019s partly because we have always had a complex and ambiguous relationship with food. Until the late 19th century, the vast majority of working-class male wages went on food and drink, and women spent much of their time preparing labour-intensive staples. Except for the very richest, food was about safety, survival and necessity; taste a secondary consideration. Since the industrialisation of food production, food has taken up a smaller slice of our budgets and our time. But our relationship with it has become no less ambiguous. As food has become less about basic survival, it has taken on new emotional and cultural significance. It helps us express our personalities and our social status. We think about its relation to how we look on the outside, and, regularly exposed to stories about how some food or other is associated with higher or lower risks to cancer, about how healthy we are on the inside. Through programmes such as The Great British Bake Off, it has propelled people to celebrity status, and entranced a nation. Some die from a lack of food, not because of scarcity, but because of mental health disorders; others die as a result of consuming excess food, with poor diet being the nation\u2019s biggest premature killer ahead of smoking and drinking. On the one hand, food has got much cheaper and more easily available than ever, but at a cost for animal welfare, our health and the environment. On the other, food for some people has become associated with cultural superiority: striving to eat more natural, more local, more sustainable, often at a significant mark-up. Yet too little power in the food industry lies with consumers, and too much with its corporate giants: manufacturers and supermarkets. The industry does not simply revolve around marketing foodstuffs: they look to shape the very way in which we relate to food. In a world where we prepare fewer things from scratch, the amount we eat is increasingly shaped by the food industry via ready meal, takeaway and restaurant portion sizes, which have ballooned in the past 30 years. The industry conditions our palates, loading foods with cheap and addictive fat, sugar and salt \u2013 once upon a time luxury items \u2013 because they taste good, leaving us craving more. Increasing consumer awareness of these issues has been an important first step. But in an industry where power is so imbalanced, the vast choice we feel we have can sometimes be illusory. Consumer power is not by itself enough. Government regulation has been deployed with great effect in the past, such as regulating for the progressive reduction of salt levels of food to change consumer tastes. There is a greater role for it in relation to the whole of the food industry. HOW WE EAT",
+  "webTitle": "15 years on, our love affair with food is deepening...so are our problems",
+  "webPublicationDate": "2016-05-14T23:05:08Z",
+  "webUrl": "https://www.theguardian.com/commentisfree/2016/may/14/food-regulation-safety-health",
+  "keyword": [
+    {
+      "webTitle": "Food",
+      "id": "environment/food",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Food safety",
+      "id": "world/food-safety",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Food & drink",
+      "id": "lifeandstyle/food-and-drink",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Agriculture",
+      "id": "science/agriculture",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    }
+  ],
+  "authors": [],
+  "guardianId": "commentisfree/2016/may/14/food-regulation-safety-health"
+}

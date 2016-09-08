@@ -1,0 +1,90 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/11/eamonn-holmes-west-ham-bus-attack-hillsborough-sky-news-manchester-united",
+  "id": "2016-05-11-267",
+  "sectionId": "media",
+  "body": "Sky News presenter Eamonn Holmes has apologised for comparing violence at West Ham\u2019s home game with Manchester United to the tragedy at Hillsborough.  In a report on the attacks on the Manchester United players\u2019 bus on Tuesday night, Holmes said: \u201cThis is going back to the 70s and to the 80s, the type of thing you were seeing that was bad about Hillsborough, for instance.\u201d The comments come just weeks after an inquest ruled that 96 people had been unlawfully killed at Hillsborough stadium in 1989 and fans had in no way been responsible, contrary to initial claims by South Yorkshire police.    Related: Daily Record sorry for alleging Hillsborough insensitivity by Celtic    The comments immediately sparked outrage on Twitter from fans calling on Holmes to apologise and the shadow culture secretary Maria Eagle, who has been closely involved in the Hillsborough families\u2019 campaign for justice, offered to meet the presenter to explain what had really happened. \u201cI\u2019m happy to talk to him and take him through what happened at Hillsborough,\u201d she told the Liverpool Echo.  \u201cI spend a lot of my time counteracting the myths put out by South Yorkshire police to evade their failures. I\u2019m amazed somebody who ought to be aware of the details of current news should be so ignorant about Hillsborough.\u201d Sky quickly released a statement in which Holmes apologised. However he attracted more criticism for trying to explain the comments and accusing \u201csomeone of trying to use me to stir up trouble re the Hillsborough disaster\u201d.     Just being made aware of someone trying to use me to stir up trouble re The Hillsborough disaster . How low , how disgusting.\u2014 Eamonn Holmes (@EamonnHolmes) May 11, 2016    He later tweeted that there was \u201cno comparison\u201d between the events at West Ham and Hillsborough, and issued another \u201cunreserved\u201d apology to anyone who \u201cthought I was making that connection\u201d.    I apologise unreservedly if anyone thought I was making that connection.\u2014 Eamonn Holmes (@EamonnHolmes) May 11, 2016",
+  "webTitle": "Eamonn Holmes sorry for comparing West Ham bus attack to Hillsborough",
+  "webPublicationDate": "2016-05-11T10:56:16Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/11/eamonn-holmes-west-ham-bus-attack-hillsborough-sky-news-manchester-united",
+  "keyword": [
+    {
+      "webTitle": "Sky News",
+      "id": "media/sky-news",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "TV news",
+      "id": "media/tvnews",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Television industry",
+      "id": "media/television",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "The news on TV",
+      "id": "tv-and-radio/tv-news",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Television",
+      "id": "culture/television",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Television & radio",
+      "id": "tv-and-radio/tv-and-radio",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Hillsborough disaster",
+      "id": "football/hillsborough-disaster",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jasper Jackson",
+      "id": "profile/jasper-jackson"
+    }
+  ],
+  "guardianId": "media/2016/may/11/eamonn-holmes-west-ham-bus-attack-hillsborough-sky-news-manchester-united"
+}

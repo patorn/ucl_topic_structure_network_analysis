@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/nils-pratley-on-finance/2016/may/25/guardian-banned-from-exxon-agm-for-lack-of-objectivity-on-climate-change",
+  "id": "2016-05-25-193",
+  "sectionId": "business",
+  "body": "Keep it in the ground, this newspaper has argued for ages on fossil fuels. Then keep out of our annual meeting, replies ExxonMobil. Or, to quote Exxon\u2019s media relations manager, Alan Jeffers: \u201cWe are denying your request [to attend Wednesday\u2019s meeting] because of the Guardian\u2019s lack of objectivity on climate change reporting demonstrated by its partnership with anti-oil and gas activists and its campaign against companies that provide energy necessary for modern life, including newspapers.\u201d   Related: Exxon investors aim to force reckoning with impact of climate change policies    Corporate arrogance-cum-hypersensitivity on this scale is rare these days. One suspects Exxon\u2019s board is still cross that it has lost its battle to prevent resolutions on climate change being put to the meeting. The New York State Retirement Fund \u2013 backed by investors from around the world \u2013 has been allowed by the US Securities & Exchange Commission to table a proposal that would oblige Exxon to publish an annual assessment of the effect on its business of governments\u2019 policies to limit climate change. Oil industry rivals BP, Shell and Statoil have willingly supported and adopted similar proposals. Exxon, by contrast, seems determined to resist, just as it refuses to contemplate the possibility that some of its shareholders may sympathise with the Guardian\u2019s reporting and wish to read a firsthand account of the meeting. Grow up.",
+  "webTitle": "Hypersensitive Exxon bans Guardian from AGM",
+  "webPublicationDate": "2016-05-25T11:23:51Z",
+  "webUrl": "https://www.theguardian.com/business/nils-pratley-on-finance/2016/may/25/guardian-banned-from-exxon-agm-for-lack-of-objectivity-on-climate-change",
+  "keyword": [
+    {
+      "webTitle": "Exxon Mobil",
+      "id": "business/exxonmobil",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Oil",
+      "id": "business/oil",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Oil and gas companies",
+      "id": "business/oilandgascompanies",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Energy industry",
+      "id": "business/energy-industry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "US economy",
+      "id": "business/useconomy",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Climate change",
+      "id": "environment/climate-change",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Nils Pratley",
+      "id": "profile/nilspratley"
+    }
+  ],
+  "guardianId": "business/nils-pratley-on-finance/2016/may/25/guardian-banned-from-exxon-agm-for-lack-of-objectivity-on-climate-change"
+}

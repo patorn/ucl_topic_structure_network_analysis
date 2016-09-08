@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/19/rant-reverie-review-scottish-fok-violin-cd",
+  "id": "2016-05-19-93",
+  "sectionId": "music",
+  "body": "Rant are four young female fiddle players who move between ancient and modern tunes with an elegance, exuberance and skill that has rightly established them among the leading instrumentalists in the inventive Scottish folk scene. Jenna Reid and her sister Bethany, from the Shetland Islands, are joined by Sarah-Jane Summers and Lauren MacColl from the Highlands to create an intricate \u201cchamber folk\u201d style. There are only fiddles in this string quartet, but the music constantly changes.          Watch preview for Rant    Compositions by Bethany Reid and MacColl are set against elaborate arrangements of traditional tunes, an exquisite lament from Highlands composer James Scott Skinner, pipe reels, hornpipes, and a powerful, brooding treatment of an Icelandic hymn. Then there are two tracks where they act as a classy backing band, first for a lament sung by Ewan McLennan, and then for a spritely Gaelic strathspey dance song from Julie Fowlis.",
+  "webTitle": "Rant: Reverie review \u2013 exuberant mix of ancient and modern",
+  "webPublicationDate": "2016-05-19T17:15:17Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/19/rant-reverie-review-scottish-fok-violin-cd",
+  "keyword": [
+    {
+      "webTitle": "Folk music",
+      "id": "music/folk",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Robin Denselow",
+      "id": "profile/robindenselow"
+    }
+  ],
+  "guardianId": "music/2016/may/19/rant-reverie-review-scottish-fok-violin-cd"
+}

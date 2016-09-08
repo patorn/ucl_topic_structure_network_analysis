@@ -1,0 +1,114 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/02/5-may-your-election-guide",
+  "id": "2016-05-02-182",
+  "sectionId": "politics",
+  "body": "The biggest set of elections, outside of a general election, for some time will be held on 5 May in England, Wales, Scotland and Northern Ireland. Polling stations are open between 7am and 10pm. You can find more information on how to vote here. Here\u2019s a breakdown of what you need to know: English local government and mayoral elections Elections are being held at 124 councils in England, covering 2,743 seats. Some pollsters have predicted a wipeout for Labour, forecasting major losses across the country. This set of council seats was last contested in the wake of George Osborne\u2019s 2012 \u201comnishambles\u201d budget and saw Labour make significant gains under Ed Miliband, adding more than 500 councillors. There will also be mayoral elections in Bristol, Liverpool and Salford. The mayor of London and London Assembly The mayor of London contest has come down to a Labour v Conservative battle once again, with Labour\u2019s Sadiq Khan favourite to beat the Tories\u2019 Zac Goldsmith. Meanwhile, there are 25 London assembly seats up for grabs \u2013 14 from constituencies and 11 London-wide. It is the role of the assembly to hold the mayor to account.  Scottish parliament Scottish parliamentary elections use an additional member system to elect 129 members of the Scottish parliament (MSPs). Scotland is divided into 73 constituencies, each of which elects one MSP, and eight larger regions which elect seven MSPs each. The Scottish National party is expected to claim a resounding victory, although some polling experts have raised doubts over whether they will win as many seats as they did in 2011. Scottish Labour, led by Kezia Dugdale, is battling the Tories to be the official opposition in Holyrood. National assembly of Wales  Welsh assembly elections also use the additional member system to elect 60 assembly members (AMs). Wales is divided into 40 constituencies, each of which elects one AM, and five larger regions which elect four AMs each. Labour is set to retain the greatest support in the assembly, although its numbers are expected to dip slightly on the previous election. Nationalists Plaid Cymru are forecast to solidify their position as the second party, while Conservatives are expected to come in third. Northern Ireland assembly Northern Ireland assembly elections use a system called single transferable vote to elect members of the legislative assembly (MLAs). There are 108 MLAs representing 18 constituencies. Each constituency is represented by six MLAs. Voters are given a ballot paper listing all the candidates competing for the six seats and have to rank them in order of preference. The last assembly election was held in 2011, with the DUP and Sinn F\u00e9in remaining the two largest parties and few have predicted major changes. Police and crime commissioners Police and crime commissioners (PCCs) were introduced by the Conservatives in 2012, and replaced the previous model of police authorities in England and Wales. They have powers to hire and fire chief constables and set police strategy and budgets, and can be politically-affiliated. The first PCC elections in 2012 saw low turnouts of between 10% and 20%. Elections are held in 40 police authorities. The Tories gained the most PCCs in 2012, with 16, followed by Labour on 13. As many as half of the PCCs elected in 2012 will not be seeking re-election, making predictions difficult.",
+  "webTitle": "5 May: your guide to this week's local and mayoral elections",
+  "webPublicationDate": "2016-05-02T10:16:21Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/02/5-may-your-election-guide",
+  "keyword": [
+    {
+      "webTitle": "Local elections",
+      "id": "politics/local-elections",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Local government",
+      "id": "society/localgovernment",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Local politics",
+      "id": "politics/localgovernment",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Scotland & Northern Ireland",
+      "id": "extra/scotland-northern-ireland-extra",
+      "sectionId": "extra",
+      "sectionName": "Extra"
+    },
+    {
+      "webTitle": "Scottish politics",
+      "id": "politics/scotland",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Scotland",
+      "id": "uk/scotland",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Welsh government",
+      "id": "politics/welsh-assembly-government",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Welsh politics",
+      "id": "politics/wales",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Northern Ireland",
+      "id": "uk/northernireland",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Northern Irish politics",
+      "id": "politics/northernireland",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Police and crime commissioners",
+      "id": "uk/police-and-crime-commissioners",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "London mayoral election 2016",
+      "id": "politics/london-mayoral-election-2016",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Wales",
+      "id": "uk/wales",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jamie Grierson",
+      "id": "profile/jamie-grierson"
+    }
+  ],
+  "guardianId": "politics/2016/may/02/5-may-your-election-guide"
+}

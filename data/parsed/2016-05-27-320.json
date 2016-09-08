@@ -1,0 +1,43 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/27/egyptair-flight-804-french-navy-ship-joins-search-amid-report-of-signal-detected",
+  "id": "2016-05-27-320",
+  "sectionId": "world",
+  "body": "Vigils have been held in Cairo for the victims of EgyptAir flight 804 as a French navy ship headed to join the deep-sea search in the Mediterranean for the main wreckage and flight recorders. France\u2019s BEA air crash investigation agency said the naval survey vessel Laplace had left Corsica and was heading towards the search zone north of the Egyptian port of Alexandria. A week after the Airbus A320 crashed carrying 66 people, investigators still have no clear picture of its final moments, with only scattered floating wreckage and some human remains found.    Related: EgyptAir crash: flight MS804 showed 'no signs of technical fault' preflight    Search teams are working against the clock to find the two flight recorders that would offer vital clues on the fate of flight 804. Acoustic signals that help pinpoint the boxes in deep water stop after about 30 days. On Friday, reports quoting Egypt\u2019s lead investigator, Ayman al-Moqadem, via the state newspaper al-Ahram said a radio signal had been received from an emergency locator transmitter (ELT) usually situated in the rear of the aircraft, potentially helping to narrow the search area.  The transmitter, known as an ELT, sends out a transmission that can be picked up by satellites in the international search-and-rescue network when an aircraft is in an accident. It is separate from the underwater locator beacons (ULB) or \u201cpingers\u201d attached to the flight recorders, which send out acoustic rather than radio signals and are designed to be more easily detected underwater.  Doubts have been cast on whether an ELT on flight 804 could have survived or sent signals from underwater. John Cox, a former A320 pilot and chief executive of Washington-based Safety Operating Systems, expressed caution about the reported signal from the sunken wreckage. \u201cThere is a low likelihood the ELT would survive, and radio doesn\u2019t work as well as acoustic signals underwater,\u201d he said. Authorities from countries involved in the search have previously made conflicting statements on the plane\u2019s fate. Greek authorities said the plane made sudden swerves as it plummeted but the Egyptians denied this; while one Egyptian forensics official\u2019s statement that the condition of human remains suggested a bomb was later dismissed by a more senior official as \u201ccompletely false\u201d and based on \u201cmere assumption\u201d. France\u2019s BEA, which is working as part of the Egyptian-led investigation into the crash, said two of its investigators were on board the Laplace, which was carrying equipment from Alseamar, a firm specialising in searching for marine wrecks. Negotiations were under way to contract a second firm to search more than one area, French and Egyptian officials said.           Missing EgyptAir flight: what we know so far    Alseamar\u2019s equipment includes three of its Detector-6000 systems, designed to pick up pinger signals over distances of up to 5km (three miles), according to the company. The second firm likely to be involved is Mauritius-based Deep Ocean Search, with which France and Egypt are finalising a contract, according to French diplomatic sources. The EgyptAir black boxes are believed to be lying about 3km (1.9 miles) down, on the edge of the usual range for picking up signals emitted by the boxes. Maritime search experts said this meant acoustic hydrophones would usually be towed in the water at depths of up to 2km in order to have the best chance of hearing the signals.  Moqadem, Egypt\u2019s head of air accident investigations, said the investigating team had received radar imagery and audio recordings from Greece detailing the flight trajectory of the doomed plane and the last conversation between its pilot and Greek air traffic control. It was expecting France to hand over radar imagery and other data covering the plane\u2019s time in French airspace and on the ground in Paris, he added. Sources in the investigation committee have said the EgyptAir jet did not show technical problems before taking off from Paris. During flight, its maintenance system sent signals that at first showed the engines were functioning but then detected smoke in the cabin and an issue with the co-pilot\u2019s window. The plane kept transmitting messages for the next three minutes before vanishing. With no flight recorders to check and only fragmentary data from a handful of fault messages, including two smoke alarms, sent by the planes Acars system, investigators are also looking to debris and body parts for clues. Cox said the fault messages collectively pointed to a possible problem in the avionics bay under the cockpit, but stressed it was too early to rule any cause in or out. Airbus, the maker of the plane, has previously said in a statement that the limited data available from the Acars messages \u201cdoes not allow to establish the sequence of events that would explain the accident\u201d. Moqadem said no bodies had been recovered so far, with search teams able to locate only small body parts. DNA tests were under way to identify the remains. He said a report would be issued by the investigating team one month from the date of the crash. Reuters and AFP contributed to this article",
+  "webTitle": "EgyptAir flight 804: French navy ship joins search amid report of signal detected",
+  "webPublicationDate": "2016-05-27T02:56:33Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/27/egyptair-flight-804-french-navy-ship-joins-search-amid-report-of-signal-detected",
+  "keyword": [
+    {
+      "webTitle": "EgyptAir flight MS804",
+      "id": "world/egyptair-flight-ms804",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Plane crashes",
+      "id": "world/plane-crashes",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Egypt",
+      "id": "world/egypt",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "France",
+      "id": "world/france",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [],
+  "guardianId": "world/2016/may/27/egyptair-flight-804-french-navy-ship-joins-search-amid-report-of-signal-detected"
+}

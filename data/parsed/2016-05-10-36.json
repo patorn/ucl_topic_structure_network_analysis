@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/11/water-management-flawed-owing-to-vastly-underestimated-drought-risk-study-finds",
+  "id": "2016-05-10-36",
+  "sectionId": "environment",
+  "body": "Drought and flood risk in New South Wales is vastly underestimated, with weather in the past 100 years being unusually stable, according to a detailed reconstruction of rainfall over a NSW catchment for the past 1,000 years. In a world first, scientists have used data drawn from an ice core to reconstruct the rainfall records for a particular catchment \u2013 in this case one in the Hunter Valley called the Williams river. Over the past 1,000 years they found droughts such as the millennial drought or worse occurred quite frequently, as did periods of very wet weather.   Related: February breaks global temperature records by 'shocking' amount    The authors concluded Australia\u2019s water resource management and infrastructure design was flawed, since it was based on risks that have been inferred from an unusual period. \u201cThe wet and dry periods experienced since 1900 have been relatively mild when we look at the climate extremes of the past millennium,\u201d said Carly Tozer from the Antarctic Climate & Ecosystems Cooperative Research Centre, the lead author on the paper. The team analysed salt in the layers of an ice core taken from a site called Law Dome in Antarctica. The amount of salt deposited in each layer indicated how stormy the region was. Storminess in that part of Antarctica is widely accepted to give an indication of conditions on the east coast of Australia. In the past 100 years, in the particular Hunter Valley catchment they examined, there were lots of single-year dry periods and three periods that lasted three and four years. But the longest was eight years \u2013 which was the \u201cWorld War II drought\u201d. Looking back over the previous 10 centuries, there were many centuries that had many more long periods of dry weather that would have dried out any reservoirs. The period 120-1299, for example, had a 12-year drought, a nine-year drought, as well as seven, six, five and four-year droughts. On top of that, it had several dry periods that lasted three years or less.   Related: Drought-stricken areas in Queensland get a drenching for Christmas    But the amount of wet weather over the past century looked just as unusual. The longest period of above average wet weather lasted 10 years, from 1924. But in other centuries there have been several periods longer than that, including some that lasted for 39 years. \u201cThat means that all our water management strategies are potentially not optimised,\u201d said co-author and hydrologist Anthony Kiem from the University of Newcastle. Kiem said the results showed more flexibility was needed in the system. He said systems that provided water when there is no rain were needed \u2013 possibly desalination, groundwater storage or recycled water. He said smart ways of transferring water from one catchment to another needed to be looked at. \u201cMore work needs to go into making decisions like that but our hope is this data can be used by water authorities \u2013 in this case Hunter Water \u2013 to put it through their models and see what comes out,\u201d Tozer said. \u201cAlthough this study does not tell us when the next major wet or dry period will occur, it does provide insights into how often we can expect such events and how long they might last.\u201d Although this particular analysis focused on the Williams river catchment, similar analysis could be performed for other catchments, Tozer said.",
+  "webTitle": "Water management flawed owing to vastly underestimated drought risk, study finds",
+  "webPublicationDate": "2016-05-10T20:34:53Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/11/water-management-flawed-owing-to-vastly-underestimated-drought-risk-study-finds",
+  "keyword": [
+    {
+      "webTitle": "Water",
+      "id": "environment/water",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "New South Wales",
+      "id": "australia-news/new-south-wales",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Drought",
+      "id": "environment/drought",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Michael Slezak",
+      "id": "profile/michael-slezak"
+    }
+  ],
+  "guardianId": "environment/2016/may/11/water-management-flawed-owing-to-vastly-underestimated-drought-risk-study-finds"
+}

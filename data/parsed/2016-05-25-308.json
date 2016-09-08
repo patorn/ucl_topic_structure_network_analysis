@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/24/peter-thiel-gawker-hulk-hogan-sex-tape-lawsuit-valleywag",
+  "id": "2016-05-25-308",
+  "sectionId": "media",
+  "body": "Billionaire Silicon Valley investor Peter Thiel is secretly funding lawsuits to financially ruin journalist Nick Denton and his media empire Gawker, according to a new report from Forbes. Thiel \u2013 who co-founded PayPal, was an early investor in Facebook and has an estimated wealth of $2.7bn \u2013 is allegedly paying the legal bills for former wrestler Hulk Hogan\u2019s fight against Gawker. Hogan, who sued Gawker for posting a clip from a sex tape, was recently awarded $115m, a decision Denton is appealing. Thiel, a Trump delegate for California, has a long and difficult history with Gawker and its tech branch Valleywag, whose writers have posted critical pieces about him and worked to publicly out him with a 2007 piece: Peter Thiel is totally gay, people.   Related: The only living Trump supporter in Silicon Valley | John Naughton    The Guardian has not been able to independently verify the Forbes report. However, Thiel\u2019s dislike of Gawker is well known. He said in 2009: \u201cValleywag is the Silicon Valley equivalent of al-Qaida\u201d. Denton had told the New York Times on Tuesday that he had a \u201cpersonal hunch\u201d someone in Silicon Valley was backing the lawsuit, which has been carefully orchestrated to avoid allowing Gawker\u2019s insurance to pay for damages. \u201cIf you\u2019re a billionaire and you don\u2019t like the coverage of you, and you don\u2019t particularly want to embroil yourself any further in a public scandal, it\u2019s a pretty smart, rational thing to fund other legal cases,\u201d he told the New York Times on Tuesday.  Denton suspects power in Silicon Valley is more sensitive than in New York or Los Angeles, where those in control are more accustomed to an adversarial press.  \u201cWe write stories about powerful people in New York, but there are plenty of outlets writing stories about powerful people in New York,\u201d Denton told Forbes. \u201cWe write stories about powerful people in LA, but there are plenty of outlets writing stories about powerful people in LA. What\u2019s unique about Gawker is that we\u2019re an internet publication and the tech industry is of particular interest to us. There are powerful people in Silicon Valley and the power of Silicon Valley is a relatively new phenomenon.\u201d Denton in 2007 presaged this in a comment on the article outing Thiel.  \u201cHe was so paranoid that, when I was looking into the story, a year ago, I got a series of messages relaying the destruction that would rain down on me, and various innocent civilians caught in the crossfire, if a story ever ran.\u201d",
+  "webTitle": "PayPal co-founder Peter Thiel said to fund Hulk Hogan's Gawker lawsuit",
+  "webPublicationDate": "2016-05-25T02:05:55Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/24/peter-thiel-gawker-hulk-hogan-sex-tape-lawsuit-valleywag",
+  "keyword": [
+    {
+      "webTitle": "Gawker Media",
+      "id": "media/gawker-media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Silicon Valley",
+      "id": "technology/silicon-valley",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "California",
+      "id": "us-news/california",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "New York",
+      "id": "us-news/new-york",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Digital media",
+      "id": "media/digital-media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Peter Thiel",
+      "id": "technology/peter-thiel",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Nellie Bowles",
+      "id": "profile/nellie-bowles"
+    }
+  ],
+  "guardianId": "media/2016/may/24/peter-thiel-gawker-hulk-hogan-sex-tape-lawsuit-valleywag"
+}

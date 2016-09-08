@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/17/john-whittingdale-bbc-recipes-newspapers-bbc-food",
+  "id": "2016-05-17-153",
+  "sectionId": "media",
+  "body": "Culture secretary John Whittingdale has said he is not to blame for the BBC deciding to axe \u201csoft\u201d content from its website, including thousands of recipes, pointing the finger instead at pressure from commercial rivals such as newspapers. Whittingdale, who last week unveiled wide-ranging plans including challenging the BBC to be more \u201cdistinctive\u201d in a white paper on the corporation\u2019s future, distanced himself from rising public outrage over the website content cuts, saying BBC chiefs make the decisions. \u201cIt\u2019s not my job to tell the BBC whether [or not] to broadcast The Voice, or Strictly Come Dancing or indeed to put recipes up on its website,\u201d he said, speaking at radio industry body RadioCentre\u2019s annual conference on Tuesday.    Related: Save BBC recipe archive petition signed by more than 70,000 people    \u201cWe have said firstly that the BBC needs to be more distinctive. And also it has to be sensitive to its market impact and not be directly going out of its way to compete with commercial offerings.\u201d The BBC and the government are facing a huge backlash against plans to mothball the BBC recipes website \u2013 part of a range of plans to refocus its digital offering including axing the Newsbeat site and app \u2013 with more than 70,000 people signing a petition calling for the corporation to reverse its decision within hours of the public announcement. Whittingdale pointed out that there has been vigorous lobbying from commercial publishers, in particular newspapers, calling for curbs at home and abroad on the BBC expansion beyond its core news remit into traditionally commercial editorial areas such as \u201csoft\u201d news articles, magazine \u201clifestyle\u201d content, and celebrity columnists. \u201cIf people want to access news the BBC is a trusted brand for news provision and it is right there should be a BBC news website,\u201d he said.  \u201cOnce beyond that there have been complaints about soft news [and] magazine-type content, newspapers in particular have been quite sensitive to the competition offered by the BBC online.  \u201cThat is something the BBC has taken account of and to some extent [mothballing digital recipes] is a reflection of that. But it is for the BBC [not government to decide]. \u201cHow to go about that is for the BBC in the first instance and secondly for the new external regulator [Ofcom] if there are formal complaints.\u201d",
+  "webTitle": "John Whittingdale: I'm not to blame for BBC dropping recipes",
+  "webPublicationDate": "2016-05-17T13:27:42Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/17/john-whittingdale-bbc-recipes-newspapers-bbc-food",
+  "keyword": [
+    {
+      "webTitle": "BBC",
+      "id": "media/bbc",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Television industry",
+      "id": "media/television",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Digital media",
+      "id": "media/digital-media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Television",
+      "id": "culture/television",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Television & radio",
+      "id": "tv-and-radio/tv-and-radio",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "John Whittingdale",
+      "id": "politics/john-whittingdale",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Mark Sweney",
+      "id": "profile/marksweney"
+    }
+  ],
+  "guardianId": "media/2016/may/17/john-whittingdale-bbc-recipes-newspapers-bbc-food"
+}

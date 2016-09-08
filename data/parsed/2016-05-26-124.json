@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/mediamonkeyblog/2016/may/26/grayson-perry-willy-or-wont-he-design-a-chelsea-flower-show-garden",
+  "id": "2016-05-26-124",
+  "sectionId": "media",
+  "body": "Artist Grayson Perry didn\u2019t disappoint when he accepted an invitation from the BBC to be one of Monty Don\u2019s celebrity guests during coverage of the Chelsea Flower Show. Resplendent in a pink frock adorned with frills of Post-it notes bearing miniature sketches, he arrived at the show describing himself as an anti-gardener, explaining to Don how his parents had put him off the pastime. By the time he had completed his tour he was thoroughly blooming, going so far as to announce he would love to design a garden for a future Chelsea Flower Show.      Perry\u2019s missing Post-it    His damascene conversion wasn\u2019t the only thing that caught viewers\u2019 eyes however. Quite a few wondered why one of his Post-its was blurred out. Look very closely at the photo above and you might see why \u2026",
+  "webTitle": "Grayson Perry: willy or won't he design a Chelsea Flower Show garden?",
+  "webPublicationDate": "2016-05-26T16:25:43Z",
+  "webUrl": "https://www.theguardian.com/media/mediamonkeyblog/2016/may/26/grayson-perry-willy-or-wont-he-design-a-chelsea-flower-show-garden",
+  "keyword": [
+    {
+      "webTitle": "BBC",
+      "id": "media/bbc",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Grayson Perry",
+      "id": "artanddesign/grayson-perry",
+      "sectionId": "artanddesign",
+      "sectionName": "Art and design"
+    },
+    {
+      "webTitle": "Chelsea flower show",
+      "id": "lifeandstyle/chelseaflowershow",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Art and design",
+      "id": "artanddesign/artanddesign",
+      "sectionId": "artanddesign",
+      "sectionName": "Art and design"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Monkey",
+      "id": "profile/monkey"
+    }
+  ],
+  "guardianId": "media/mediamonkeyblog/2016/may/26/grayson-perry-willy-or-wont-he-design-a-chelsea-flower-show-garden"
+}

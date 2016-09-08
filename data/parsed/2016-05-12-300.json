@@ -1,0 +1,90 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media-network/2016/may/12/craigslist-uk-food-waste-sharing-economy-apps",
+  "id": "2016-05-12-300",
+  "sectionId": "media-network",
+  "body": "Where most people see a bruised banana, Saasha Celestial-One and Tessa Cook see a chance to share. Their new app, Olio, allows greengrocers, cafes, restaurants and neighbours to photograph and post food that is surplus, unappealing or close to expiry; other app users then request it and are notified where to pick it up. According to the UN\u2019s Food and Agricultural Organisation, a third of all food is wasted, and more than half of that never reaches consumers.  \u201cFood waste costs businesses in the [UK\u2019s] food and drink supply chain \u00a35bn per year. Federation of Small Businesses (FSB) survey data shows that 95% of small businesses would recycle more if they had access to better facilities,\u201d says Celestial-One. \u201cMost independent and small business owners work long hours and weekends, and watch the bottom line very carefully. From our experience, they\u2019d like to recycle their waste but many local councils don\u2019t offer this service, and the businesses are often too small to get an affordable private contract for recycling, or don\u2019t have space onsite to store the waste.\u201d   Related: Digital has changed the fabric of UK fashion    While smartphones and tablets have been making it easier for businesses to take orders and deliver food for some time, the digital revolution is now offering opportunities for them to recover value from food that would usually rot in landfill, and to attract new customers. CropMobster, FoodCloud and FareShare have a similar offering to Olio. Celestial-One says that using these services can improve small businesses\u2019 social impact and reputation in their local community.  The surplus food small businesses generate can often be a knock-on effect of the economics of food buying, which is fraught with logistical challenges, even when good inventory control systems are in place. Stock levels depend on whether wholesalers can meet demand; wholesalers rely on distributors, who in return rely on farms; farms often grow more than buyers need, which can compensate for the amount of produce picked that is deemed not sellable \u2013 and that\u2019s not taking into account the fruit and vegetables spoiled during transportation. Full Harvest, a recently launched San Francisco-based business-to-business (B2B) platform, is addressing the issue of waste at the start of the supply chain. Farms sign up, advertise excess produce, and get paid once it\u2019s been taken off them. Founder Christine Moseley believes online marketplaces such as hers \u201ccan catapult the industry into the new generation, coordinating logistics, while also providing farms with an additional revenue stream at the touch of a few buttons. \u201cCurrent practices are archaic and inefficient, using mostly texts, call, emails and invoicing and paying by cheque. The agriculture industry has been operating this way for decades and can be resistant to change,\u201d she says. \u201cHowever, times are changing and the industry must evolve to remain operational and competitive in a global market. There is an opportunity, and farmers are open to it, to create a more efficient technological solution to connect them with buyers.\u201d  Though any farm could eventually use the platform, Moseley says that because the buyers she currently works with seek substantial and consistent volumes of produce, it\u2019s mostly large farms that benefit.  Technology is also enabling businesses all along the supply chain, from farms to retailers, to get smart. Other B2B platforms, such as the Slovenian startup FoodPlus, are developing algorithms to gain a better understanding of what a buyer needs based on their past transactions and preferences. \u201cWe can understand in which sector buyers operate and what products they demand and in what quantity and quality,\u201d says co-founder Gregor Pecnik. \u201cWe can use this information to identify which products may be suitable for a particular buyer. By predicting behaviours and requirements we can help sellers dispose of their products much faster and contribute to their bottom lines hassle-free.\u201d  FoodPlus launched in beta in January and has more than 100 users. The system automatically calculates the money saved from each transaction, as well as the reduction in greenhouse gas emissions. This means business owners don\u2019t have to worry about number crunching and paperwork but can focus on their day to day operations. Meanwhile, Cook and Celestial-One are looking to customise Olio to further streamline the process of shifting unsold food. Ideas include displaying a stock counter and enabling automatic replies so busy merchants don\u2019t need to message users manually when a request comes in.  To get weekly news analysis, job alerts and event notifications direct to your inbox,sign up free for Media & Tech Network membership. All Guardian Media & Tech Network content is editorially independent except for pieces labelled \u201cPaid for by\u201d \u2013 find out more here.",
+  "webTitle": "Can a Craigslist for cucumbers tackle the UK's food waste?",
+  "webPublicationDate": "2016-05-12T09:00:01Z",
+  "webUrl": "https://www.theguardian.com/media-network/2016/may/12/craigslist-uk-food-waste-sharing-economy-apps",
+  "keyword": [
+    {
+      "webTitle": "Media & Tech Network",
+      "id": "media-network/media-network",
+      "sectionId": "media-network",
+      "sectionName": "Media Network"
+    },
+    {
+      "webTitle": "Food & drink",
+      "id": "lifeandstyle/food-and-drink",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Waste",
+      "id": "environment/waste",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Recycling",
+      "id": "environment/recycling",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Ethical and green living",
+      "id": "environment/ethical-living",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Small business",
+      "id": "business/small-business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Farming",
+      "id": "environment/farming",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Apps",
+      "id": "technology/apps",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Rich McEachran",
+      "id": "profile/rich-mceachran"
+    }
+  ],
+  "guardianId": "media-network/2016/may/12/craigslist-uk-food-waste-sharing-economy-apps"
+}

@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/19/departure-review",
+  "id": "2016-05-19-26",
+  "sectionId": "film",
+  "body": "Alex Lawther gave a compelling portrayal of the young Alan Turing in The Imitation Game two years ago, and his character here is almost a modern-day equivalent. Elliot is a fey, literate, closeted teenager, given to wandering lonely as a romantic poet in the French countryside, in his vintage army jacket, while his clearly distraught mother (Juliet Stevenson) packs up their holiday home and her marital dreams. \u201cYou\u2019re a bit of a cliche,\u201d Elliot\u2019s new French buddy/boy-crush observes, pre-emptively. The dynamics are given plenty of time to play out in this delicate, somewhat laboured character drama, which could almost be seen as a hymn to the great British art of not really talking about stuff. But there are just enough unanswered questions and bursts of dramatic incident to stop us wandering off ourselves.",
+  "webTitle": "Departure review \u2013 mum packs up, son comes out",
+  "webPublicationDate": "2016-05-19T20:45:21Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/19/departure-review",
+  "keyword": [
+    {
+      "webTitle": "Departure",
+      "id": "film/departure",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Drama",
+      "id": "film/drama",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Juliet Stevenson",
+      "id": "culture/juliet-stevenson",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Steve Rose",
+      "id": "profile/steverose"
+    }
+  ],
+  "guardianId": "film/2016/may/19/departure-review"
+}

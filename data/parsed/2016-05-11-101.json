@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/11/google-places-global-ban-on-payday-loan-adverts-from-july",
+  "id": "2016-05-11-101",
+  "sectionId": "technology",
+  "body": "Google has said it will ban ads for payday loans because they can be \u201cdeceptive or harmful\u201d.  The ban, which will come into force globally from 13 July, will cover loans that can be due within 60 days and, in the US, loans that carry an annual interest rate of 36% or higher.   Related: The vital role of credit unions in providing access to low-cost finance    In a blog post, Google\u2019s director of public policy, David Graff, wrote: \u201cResearch has shown that these loans can result in unaffordable payment and high default rates for users so we will be updating our policies globally to reflect that. \u201cThis change is designed to protect our users from deceptive or harmful financial products.\u201d The ban will not cover mortgages, car loans, student loans, commercial loans or credit cards, said Graff, adding: \u201cWe\u2019ll continue to review the effectiveness of this policy, but our hope is that fewer people will be exposed to misleading or harmful products.\u201d In a quote accompanying the announcement, Wade Henderson, the president and chief executive of the Leadership Conference on Civil and Human Rights, said: \u201cThis new policy addresses many of the longstanding concerns shared by the entire civil rights community about predatory payday lending. \u201cThese companies have long used slick advertising and aggressive marketing to trap consumers into outrageously high-interest loans \u2013 often those least able to afford it.\u201d Payday loans have come under scrutiny in recent years after an explosion in short-term lending following the 2008 financial crash. Problems experienced by some people in meeting payments have provoked concerns both in the UK and the US.   Related: Wonga losses more than double    In 2014, tighter regulation was imposed on the industry in the UK, subjecting the market to regulation by the Financial Conduct Authority.  Russell Hamblin-Boone, the chief executive of the Consumer Finance Association, which represents payday lenders, said the move by Google would affect people\u2019s freedom of choice.  \u201cUK consumers enjoy a vibrant, highly competitive credit market and we will be interested to read the evidence that Google uses to justify overruling open market advertising of a legal, regulated industry to deny people freedom of choice,\u201d he said. \u201cShort-term loans are a legal source of credit used by millions of people across the UK and the industry is highly regulated with a cap on the total cost of credit. Under such intense scrutiny the rogue firms have been driven out of the market and reputable lenders will only lend to people who can afford to borrow.\u201d",
+  "webTitle": "Google to place global ban on payday loan adverts from July",
+  "webPublicationDate": "2016-05-11T17:16:57Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/11/google-places-global-ban-on-payday-loan-adverts-from-july",
+  "keyword": [
+    {
+      "webTitle": "Google",
+      "id": "technology/google",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Alphabet",
+      "id": "technology/alphabet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Payday loans",
+      "id": "money/payday-loans",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Borrowing & debt",
+      "id": "money/debt",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Advertising",
+      "id": "media/advertising",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jasper Jackson",
+      "id": "profile/jasper-jackson"
+    }
+  ],
+  "guardianId": "technology/2016/may/11/google-places-global-ban-on-payday-loan-adverts-from-july"
+}

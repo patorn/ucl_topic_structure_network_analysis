@@ -1,0 +1,31 @@
+{
+  "apiUrl": "https://content.guardianapis.com/lifeandstyle/2016/may/11/clay-court-tennis-umpire-ball-mark",
+  "id": "2016-05-11-183",
+  "sectionId": "lifeandstyle",
+  "body": "It\u2019s clay court season in the tennis and as usual I\u2019m puzzled. How does the umpire know which ball mark to check when a line call is disputed? There are hundreds of them \u2026 Anna Tomkins, Leeds \u2022 Post your answers \u2013 and new questions \u2013 below or email them to nq@theguardian.com. Please include name, address and phone number.",
+  "webTitle": "How does the umpire know which mark to check in clay court tennis?",
+  "webPublicationDate": "2016-05-11T14:05:04Z",
+  "webUrl": "https://www.theguardian.com/lifeandstyle/2016/may/11/clay-court-tennis-umpire-ball-mark",
+  "keyword": [
+    {
+      "webTitle": "Tennis",
+      "id": "sport/tennis",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    }
+  ],
+  "authors": [],
+  "guardianId": "lifeandstyle/2016/may/11/clay-court-tennis-umpire-ball-mark"
+}

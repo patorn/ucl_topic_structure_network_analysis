@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/society/2016/may/11/some-minimum-wage-complaints-eight-months-to-resolve",
+  "id": "2016-05-10-8",
+  "sectionId": "society",
+  "body": "Some of the UK\u2019s poorest-paid workers are being made to wait months for wages they are legally entitled to, auditors have said.  The National Audit Office (NAO) examined the way HM Revenue and Customs has dealt with employers\u2019 non-compliance with the national minimum wage. It found that 469 cases \u2013 17% of the total \u2013 closed between 1 April 2015 and 31 March 2016 had gone on for more than 240 days, or about eight months.  The national minimum wage for people aged 21 to 24 is \u00a36.70 an hour. The \u2018national living wage\u2019 came into force on 1 April for workers aged 25 and over, and is set at \u00a37.20.  The NAO said that since the government started enforcing the national minimum wage in April 1999, HMRC had identified \u00a368m in arrears for more than 313,000 workers.  In 2015-16 HMRC identified \u00a310.3m in arrears for 58,000 workers, compared with \u00a33.3m in arrears for just over 26,000 workers in 2014-15.  The NAO found that HMRC had significantly reduced the average time taken to investigate complaints. In 2013-14, the average case took 170 days to close, and by 2014-15 this had halved to 82 days.  It raised particular concern about employers in the social care sector failing to meet their minimum wage duties. The Low Pay Commission previously reported that up to 10.6% of care workers may not be being paid the national minimum wage.   Related: The national living wage and what it means    Meg Hillier, the chair of the Commons public accounts committee, said: \u201cUltimately, the national minimum wage and the national living wage will only be effective if they are properly enforced and if employers are prevented from coming up with workarounds to exploit workers.  \u201cThe NAO report shows HMRC has shown encouraging progress in resolving cases of non-compliance with the national minimum wage faster. However, I am concerned that over 15% of worker complaints to HMRC are still taking over 240 days to complete, leaving a significant number of workers waiting for wages they are legally owed. These are some of the poorest paid workers in the UK and this needs to improve.\u201d  The Office for National Statistics has estimated that in April 2015 there were 209,000 jobs paid less than the national minimum wage held by employees aged 16 and over, which constituted 0.8% of UK employee jobs.  Both the Department for Business, Innovation and Skills and HMRC have strengthened their sanctions for non-compliant employers. Since 2014, BIS has named and shamed 490 employers that have not complied with the rules.",
+  "webTitle": "MP criticises lengthy waits in some minimum wage complaints",
+  "webPublicationDate": "2016-05-10T23:01:43Z",
+  "webUrl": "https://www.theguardian.com/society/2016/may/11/some-minimum-wage-complaints-eight-months-to-resolve",
+  "keyword": [
+    {
+      "webTitle": "Minimum wage",
+      "id": "society/minimum-wage",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "National living wage",
+      "id": "business/national-living-wage",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Living wage",
+      "id": "society/living-wage",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Pay",
+      "id": "money/pay",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Rajeev Syal",
+      "id": "profile/rajeev-syal"
+    }
+  ],
+  "guardianId": "society/2016/may/11/some-minimum-wage-complaints-eight-months-to-resolve"
+}

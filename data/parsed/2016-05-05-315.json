@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/04/new-day-newspaper-shut-two-months-launch-trinity-mirror",
+  "id": "2016-05-05-315",
+  "sectionId": "media",
+  "body": "Trinity Mirror is to shut its experimental new national newspaper the New Day on Friday just two months after launch. The publisher of the Daily Mirror launched the title, which aimed to target those who had \u201cfallen out of love with newspapers\u201d, at the end of February with a promotional print run of about 2m.  The title was launched with a \u00a35m TV ad campaign that ran with the strapline \u201cSeize the New Day\u201d. Trinity Mirror, which saw its share price slump to a three-year low on Wednesday, is expected to announce the closure of the title in a stock market trading update on Thursday morning.   Related: The New Day got off to a terrible start, and Trinity Mirror\u2019s bosses are to blame    Two sources said staff were informed of the closure on Wednesday. The last issue will hit stands on Friday.  Editor Alison Phillips, who was previously responsible for stablemates the Sunday Mirror and Sunday People, was said by those who attended the internal meeting to be distraught. The publisher had aimed to hit paid sales of 200,000, and made promises to advertisers to sell ads at that rate of sales or offer money back, but instead saw its popularity immediately sink to about 30,000 copies per day. Trinity Mirror positioned the launch of the title as a low-cost operation running on extra capacity at its printing presses \u2013 which also had contracts to print the Independent print titles and still handle the i, which Evgeny Lebedev sold to Johnston Press earlier this year. Sources say the New Day was probably running at a loss of about \u00a31m annually. A spokeswoman for Trinity Mirror refused to comment.",
+  "webTitle": "The New Day newspaper to shut just two months after launch",
+  "webPublicationDate": "2016-05-05T06:15:33Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/04/new-day-newspaper-shut-two-months-launch-trinity-mirror",
+  "keyword": [
+    {
+      "webTitle": "The New Day",
+      "id": "media/new-day",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "National newspapers",
+      "id": "media/national-newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers",
+      "id": "media/newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers & magazines",
+      "id": "media/pressandpublishing",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Trinity Mirror",
+      "id": "media/trinity-mirror",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Mark Sweney",
+      "id": "profile/marksweney"
+    }
+  ],
+  "guardianId": "media/2016/may/04/new-day-newspaper-shut-two-months-launch-trinity-mirror"
+}

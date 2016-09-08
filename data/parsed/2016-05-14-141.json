@@ -1,0 +1,96 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/14/close-worlds-refugee-camps-says-david-miliband",
+  "id": "2016-05-14-141",
+  "sectionId": "politics",
+  "body": "David Miliband, the former UK foreign secretary, has called for an end to the refugee camp system and the reform of humanitarian institutions \u201cthat were designed for yesterday\u2019s problems, not tomorrow\u2019s\u201d. Wealthy nations should accept the most vulnerable 10% of the world\u2019s 19.5 million refugees, Miliband said, and provide economic support to less wealthy countries to integrate new arrivals as full-time residents. Referring to the case of Dadaab in Kenya, the world\u2019s biggest refugee camp, which houses 330,000 Somalis across the border from their home country, Miliband, who is the president of the International Rescue Committee (IRC), said there should be a \u201cnew deal\u201d for poorer countries that host refugees.    Related: Why is the cost of hosting refugees falling on the world's poorest states?    \u201cThe new bargain is that a small number of people \u2013 probably up to 10% of refugees, the most vulnerable \u2013 are relocated to the richer countries, to the west and elsewhere, because of their medical needs, because they\u2019re orphans etc,\u201d he said. \u201cBut then, [for] the large majority of people, the only real hope for them is to become productive residents of the countries that they\u2019ve fled to.  \u201cThat\u2019s a massive call on the countries concerned, but if we can ensure they get international financial support and build up their economies, then it becomes a chance to avoid the kind of Dadaab situation of long-term housing [of] people in places that become magnets for criminality, never mind for terrorism.\u201d The Kenyan government has announced that it wants to send all refugees in Dadaab, a desert tent city that is the third-biggest settlement in Kenya, back to Somalia, because of fears that it may harbour terrorists, but Miliband did not address this. His comments will be controversial in many European countries, including the UK, where migration from within the EU and from other nations has led to a rise in xenophobia and electoral success for rightwing politicians.  Austria, Hungary, Denmark, Poland, Macedonia and others have seen electoral breakthroughs for nationalists in the past five years, while in Britain, Ukip has been held back only by a winner-takes-all electoral system.  In Munich, a court has ordered the owner of a beer hall where Adolf Hitler is thought to have made his first political speech to allow the anti-immigrant party Alternative for Germany to hold an event there. Miliband, who has led the IRC since 2013, said that the British public must accept refugees or face the consequences. \u201cEither refugees come to Europe in a disorderly, illegal and dangerous way, or they come to Europe in an orderly, legal and organised fashion,\u201d he said. \u201cThe latter is far, far preferable because the sight of thousands of people dying in the Mediterranean is something that I think appals everyone, and what people in Britain want to see is compassion, but also competence.\u201d Europe is facing a migration and refugee crisis caused by poverty and war in the Middle East and parts of Africa. The International Organisation for Migration estimates that nearly 200,000 people have fled to Europe so far this year, mostly by sea. Despite a naval campaign to rescue the often overcrowded migrant boats, 1,357 people are estimated to have died.  The United Nations has estimated that one in every 122 people worldwide was a refugee, internally displaced or seeking asylum at the end of 2014. Overall, a record 59.5 million people were living exiled from their homes according to the UNHCR report, which warned the world is in the throes of an \u201cage of unprecedented mass displacement\u201d. There were 19.5 million refugees \u2013 more than half of them children \u2013 38.2 million internally displaced people and 1.8 million asylum-seekers, the report said. Miliband backed Angela Merkel\u2019s policy of opening Germany\u2019s doors to refugees, despite the rightwing backlash that this decision had fostered in the country. He blamed other European countries for not supporting the German chancellor. \u201cCamp-based \u2018temporary\u2019 relief is not going to be the way of the future,\u201d Miliband said. \u201cThe way of the future is get these people into work, get their kids into an education, make them part of society as residents, and it\u2019s up to the countries concerned about whether they want to be citizens. Get them in a position where they can eventually go back if the war ever ends.\u201d",
+  "webTitle": "David Miliband: close the world's refugee camps",
+  "webPublicationDate": "2016-05-14T09:21:04Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/14/close-worlds-refugee-camps-says-david-miliband",
+  "keyword": [
+    {
+      "webTitle": "David Miliband",
+      "id": "politics/davidmiliband",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Refugees",
+      "id": "world/refugees",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Kenya",
+      "id": "world/kenya",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Humanitarian response",
+      "id": "global-development/humanitarian-response",
+      "sectionId": "global-development",
+      "sectionName": "Global development"
+    },
+    {
+      "webTitle": "Aid",
+      "id": "global-development/aid",
+      "sectionId": "global-development",
+      "sectionName": "Global development"
+    },
+    {
+      "webTitle": "Africa",
+      "id": "world/africa",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Global development",
+      "id": "global-development/global-development",
+      "sectionId": "global-development",
+      "sectionName": "Global development"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Somalia",
+      "id": "world/somalia",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Middle East and North Africa",
+      "id": "world/middleeast",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Damien Gayle",
+      "id": "profile/damien-gayle"
+    }
+  ],
+  "guardianId": "politics/2016/may/14/close-worlds-refugee-camps-says-david-miliband"
+}

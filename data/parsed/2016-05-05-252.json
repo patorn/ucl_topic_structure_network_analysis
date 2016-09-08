@@ -1,0 +1,43 @@
+{
+  "apiUrl": "https://content.guardianapis.com/childrens-books-site/2016/may/05/what-are-you-reading-with-your-child-this-month",
+  "id": "2016-05-05-252",
+  "sectionId": "childrens-books-site",
+  "body": "Become a Guardian children\u2019s books family reviewer and review the best picture books you are reading with your child right now.\u00a0 Why not take a photo of the cover \u2013 or even a child\u2019s drawing inspired by the book \u2013 and click the blue button to upload it to this assignment, along with a short(ish) review. We\u2019ll include the best submissions in a gallery on the Guardian children\u2019s books site, just like\u00a0this one from March.   Related: How do I get involved in the Guardian children's books site?    If your child is aged 7 and under, and you want to\u00a0join our family reviewers team\u00a0\u2013 where every month we send you a newsletter with all the latest news and opportunities coming up, from free books to author interviews \u2013 email childrens.books@theguardian.com.  GuardianWitness\u00a0is the home of user-generated content on the Guardian. Contribute your video, pictures and stories, and browse news, reviews and creations submitted by others. Posts will be reviewed prior to publication on GuardianWitness, and the best pieces will feature on the Guardian site.",
+  "webTitle": "What are you reading with your child this month?",
+  "webPublicationDate": "2016-05-05T09:58:02Z",
+  "webUrl": "https://www.theguardian.com/childrens-books-site/2016/may/05/what-are-you-reading-with-your-child-this-month",
+  "keyword": [
+    {
+      "webTitle": "Children and teenagers",
+      "id": "books/booksforchildrenandteenagers",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Children's books: 7 and under",
+      "id": "books/childrens-books-7-and-under",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Books",
+      "id": "books/books",
+      "sectionId": "books",
+      "sectionName": "Books"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Picture books",
+      "id": "books/picture-books",
+      "sectionId": "books",
+      "sectionName": "Books"
+    }
+  ],
+  "authors": [],
+  "guardianId": "childrens-books-site/2016/may/05/what-are-you-reading-with-your-child-this-month"
+}

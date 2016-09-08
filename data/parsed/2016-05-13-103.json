@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/commentisfree/2016/may/13/ferguson-effect-james-comey-fbi-policing",
+  "id": "2016-05-13-103",
+  "sectionId": "commentisfree",
+  "body": "This week, FBI director James Comey used his platform to reignite public debate over the nefarious \u201cFerguson effect\u201d theory, claiming national scrutiny of police was driving a \u201csignificant jump in murder rates\u201d in US cities. Armed with anecdotes rather than facts, he asserted that more black and Hispanic men were dying because \u201clots and lots of police officers\u201d were being less aggressive in their work for fear of being the next \u201cviral video\u201d.  This theory, as many experts have noted, relies on assumptions that are not supported by the facts. Unfortunately, we don\u2019t have comprehensive official statistics on police use of force because the FBI, which Comey heads, has failed to collect this data. But crowd-sourced efforts demonstrate, at minimum, that police have not been \u201cless aggressive\u201d. If anything, the police appear to have doubled-down on the type of aggression that generated public scrutiny in the first place. According to the Mapping Police Violence database, police killed 696 people nationwide in 2014 before the Ferguson protests began on 9 August. Police killed 739 people over the same time period in 2015 according to that database \u2013 the Guardian\u2019s The Counted project recorded 709. Either way, an increase.  This year is no different. Police have already killed more people to date this year than they had killed by this point of 2014.  And there hasn\u2019t been a crime wave alongside these increased killings, contrary to Comey\u2019s assertion. Analyses by the Marshall Project and the Department of Justice found no evidence that violent crime has significantly increased in the nation\u2019s largest cities. And while cities did report a 16% rise in homicides, 2015 remained overall one of the safest years in the past two decades. Moreover, overall crime remained level and even decreased in many cities that experienced sustained Black Lives Matter protests such as Washington DC, Oakland and Seattle. While there are many research-based explanations for the rise in homicides (for example, 2015 was the second warmest year on record and there\u2019s plenty of evidence that homicides rise with warmer temperatures), it\u2019s clear that the \u201cviral video effect\u201d is not one of them. If police were \u201cpulling back\u201d because they don\u2019t want to be scrutinized, we would expect police to be more hesitant to use force, especially deadly force against unarmed black civilians, which has resulted in the most scrutiny. Instead, police have killed more black civilians and more unarmed black civilians post-Ferguson than they did before the protests began. Even if we assume that police are behaving less aggressively (except when they decide to use deadly force), it\u2019s not clear why this would lead to increased crime unless you assume that aggressive police officers are the solution to keeping our communities safe. If police can\u2019t do their jobs without violating the constitutional rights of black people, then we must question the institution of policing rather than the protesters who expose its transgressions. The \u201cFerguson effect\u201d lacked factual basis when first floated last year, and it lacks it now, repackaged to explain away unsavory crime statistics. It took months of nationwide unrest, a litany of shocking videos and detailed reports of police violence to convince the nation that policing in America needed to be fundamentally changed. The fact that a theory lacking evidentiary support was so hastily endorsed by some of the nation\u2019s foremost institutions speaks to the enduring power of the belief that aggressive policing is the only way to keep black communities safe.  This notion, applied exclusively to black communities, is exactly what needs to change.",
+  "webTitle": "Giving the 'Ferguson effect' a new name won't make it truer | Samuel Sinyangwe",
+  "webPublicationDate": "2016-05-13T16:05:46Z",
+  "webUrl": "https://www.theguardian.com/commentisfree/2016/may/13/ferguson-effect-james-comey-fbi-policing",
+  "keyword": [
+    {
+      "webTitle": "US policing",
+      "id": "us-news/us-police",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "James Comey",
+      "id": "us-news/james-comey",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Black Lives Matter movement",
+      "id": "us-news/black-lives-matter-movement",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "FBI",
+      "id": "us-news/fbi",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Race issues",
+      "id": "world/race",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Ferguson",
+      "id": "us-news/ferguson",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Samuel Sinyangwe",
+      "id": "profile/samuel-sinyangwe"
+    }
+  ],
+  "guardianId": "commentisfree/2016/may/13/ferguson-effect-james-comey-fbi-policing"
+}

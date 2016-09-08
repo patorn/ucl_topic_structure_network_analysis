@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/08/thomas-cohen-bloom-forever-review",
+  "id": "2016-05-08-171",
+  "sectionId": "music",
+  "body": "There is a terrible sadness at the heart of the first solo record by Thomas Cohen, formerly of London art rockers SCUM. It was written over four years, and charts a range of life experiences, but it is unavoidably the songs about the death of Cohen\u2019s wife, Peaches Geldof-Cohen, that form the album\u2019s emotional core. The largely acoustic Country Home is especially powerful, addressing the subject with such candour that you feel caught between applauding its courage and looking away. The intensity diminishes elsewhere, and there is some respite in the poppy, piano-assisted chorus of New Morning Comes, but no trite redemptive arc: this is a sensitive and subtle response to living with grief.",
+  "webTitle": "Thomas Cohen: Bloom Forever review \u2013 sensitive response to living with grief",
+  "webPublicationDate": "2016-05-08T07:00:00Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/08/thomas-cohen-bloom-forever-review",
+  "keyword": [
+    {
+      "webTitle": "Indie",
+      "id": "music/indie",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Pop and rock",
+      "id": "music/popandrock",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ally Carnwath",
+      "id": "profile/allycarnwath"
+    }
+  ],
+  "guardianId": "music/2016/may/08/thomas-cohen-bloom-forever-review"
+}

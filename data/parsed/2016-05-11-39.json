@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/12/coalition-climate-plan-assumes-emissions-trading-says-government-modeller",
+  "id": "2016-05-11-39",
+  "sectionId": "environment",
+  "body": "Modelling hailed by the Liberal party as proof its Direct Action plan could meet Australia\u2019s long-term climate promises in fact assumes the Coalition would turn its policy into a type of emissions trading scheme, according to the authors. The environment minister, Greg Hunt, released the modelling, by the Energetics consulting firm, just days before the election was called and told the Australian newspaper it was proof that critics of the government\u2019s policy \u2013 who say it has no hope of reaching Australia\u2019s target without changes \u2013 were totally wrong. Malcolm Turnbull and Hunt are now campaigning against Labor\u2019s plan for an emissions trading scheme, saying it is a \u201cmassive carbon tax\u201d that will force huge rises in household electricity prices, while claiming their own policy can meet its 2030 target with no such impost. The Energetics modelling found that the government\u2019s emissions reduction fund and so-called \u201csafeguards mechanism\u201d could achieve around half the emissions reductions required between 2020 and 2030 to reach the government\u2019s target of cutting emissions by 26% to 28%, around 500m tonnes. But Peter Holt, associate at Energetics, told Guardian Australia that the policies would only achieve those reductions with changes \u2013 either large funding top-ups to the ERF (estimated by others at at least $6bn) or a strengthening of the safeguards mechanism so it turned into a baseline and credit emissions trading scheme.   Related: Climate change plan: thinktank suggests policy both sides of politics can embrace    The economist Danny Price \u2013 who has advised the government on Direct Action \u2013 agrees with Holt\u2019s assessment that despite the government\u2019s scare campaign against Labor\u2019s ETS, it is going to have to introduce a similar version of emissions trading itself to meet its international pledges. Holt said the modelling was \u201cbottom up\u201d \u2013 looking at what sectors had the potential to deliver emissions reductions and then allocating those reductions to the policies that could conceivably achieve them. But the estimated reductions from the ERF and the safeguards mechanism \u201crelied on the assumption that the policies would be adjusted to achieve that outcome\u201d. \u201cTo achieve the government\u2019s target we would need to see the safeguards mechanism coming into play, either with declining \u2018baselines\u2019 that put more stringent conditions on large emitters, so it formed a baseline and credit emissions trading scheme, or else we would need to see a lot more money put into the emissions reduction fund, or a combination of the two,\u201d Holt said. That means the modelling confirms exactly what Malcolm Turnbull said of Direct Action when he told Lateline in 2011: \u201cIf you want to ... cut carbon emissions ... in a very substantial way to the levels that the scientists are telling us we need to do by mid-century to avoid dangerous climate change, then a direct action policy where ... industry was able to freely pollute, if you like, and the government was just spending more and more taxpayers\u2019 money to offset it, that would become a very expensive charge on the budget in the years ahead.\u201d  The Climate Institute thinktank also said the \u201cturbo-charging\u201d assumed in the Energetics modelling would require \u201cat least another $6bn\u201d tipped into the emissions reduction fund, through which the government buys emissions reductions, or stronger safeguards to introduce a form of emissions trading for industry and electricity generators by tightening emissions \u201cbaselines\u201d and forcing companies who exceeded them to buy permits. \u201cThis modelling is chock full of heroic assumptions that the government is hoping it won\u2019t be asked about in detail during the election campaign,\u201d said the Climate Institute\u2019s chief executive, John Connor.  \u201cThey include the need for either billions of extra dollars or some form of emissions trading scheme, which sends a penalty or price signal to companies.\u201d Price \u2013 whom the government recently appointed to the Climate Change Authority and who acted as an adviser on Direct Action \u2013 has also said the Coalition was likely to be forced to move to a form of emissions trading scheme similar to the one now proposed by Labor for the electricity industry. \u201cThe government\u2019s Direct Action plan \u2013 its safeguard mechanism \u2013 could be modified to create exactly this same type of scheme,\u201d he said. \u201cI\u2019ve always thought that was the most likely way for them to go after the review they have scheduled for 2017, because they are obviously going to have to make changes to meet even their existing targets and this is a low-cost way to do it. Under Direct Action the \u201csafeguards mechanism\u201d is supposed to ensure that increased emissions from heavy industry and electricity generators do not undo the reductions bought through the government\u2019s $2.5bn scheme, by setting baselines for their emissions. At the moment the baselines are lenient, ensuring industries don\u2019t \u201cgo rogue\u201d but not seeking to force them to reduce their greenhouse emissions from existing levels. But many observers, including business groups, expect they will have to be tightened after 2017 to gradually reduce industrial emissions. And that would turn Direct Action into much the same scheme as Labor is proposing. The government has already spent 67% of its $2.5bn ERF to achieve only 7% of the emission reductions it needs to meet its Paris target. It did not allocate any more money to the scheme in the budget. In its report, Energetics found that land use and energy efficiency could contribute significant emissions reductions by 2030. \u201cEnergetics\u2019 analysis found that improved land management and low emissions farming practices and low carbon transport are capable of contributing the most to Australia\u2019s total low-cost abatement by 2030. In total the two groups account for just over 50% of Australia\u2019s total identified abatement potential,\u201d the report said. \u201cThe remaining abatement opportunities were allocated to the ERF and safeguard mechanism ... ERF projects could help to reduce emissions at safeguard facilities; and safeguard facilities can purchase [carbon credits] to offset their emissions and help them to meet their safeguard obligations.\u201d",
+  "webTitle": "Coalition climate plan 'assumes emissions trading', says government modeller",
+  "webPublicationDate": "2016-05-11T20:40:19Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/12/coalition-climate-plan-assumes-emissions-trading-says-government-modeller",
+  "keyword": [
+    {
+      "webTitle": "Emissions trading",
+      "id": "environment/emissionstrading",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Climate change",
+      "id": "environment/climate-change",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australian politics",
+      "id": "australia-news/australian-politics",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Malcolm Turnbull",
+      "id": "australia-news/malcolm-turnbull",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Greg Hunt",
+      "id": "australia-news/greg-hunt",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Greenhouse gas emissions",
+      "id": "environment/carbon-emissions",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Lenore Taylor",
+      "id": "profile/lenore-taylor"
+    }
+  ],
+  "guardianId": "environment/2016/may/12/coalition-climate-plan-assumes-emissions-trading-says-government-modeller"
+}

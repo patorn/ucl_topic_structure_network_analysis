@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/shortcuts/2016/may/09/wildfire-alberta-canada",
+  "id": "2016-05-09-82",
+  "sectionId": "world",
+  "body": "Just over a week in, the wildfire that is ravaging Alberta in Canada has already burnt through 600 sq miles of land, and 20% of houses in the city of Fort McMurray; all its 88,000 residents were evacuated. Over the weekend, the flames did not spread as much as had been feared, and one minister said firefighters may be turning a corner in the fight against it. But how do you put out a wildlife the size and intensity of the one that is ravaging Alberta? Bruce Malamud, professor of natural and environmental hazards at King\u2019s College London says: \u201cTo stop a wildfire, you need to remove one of the following: the heat of the fire, the fuel that feeds the fire [such as vegetation] or the oxygen that allows the combustion to take place.\u201d Fire can spread a large distance away from the firefront by burning embers carried on the wind, which then start other fires elsewhere. You can actively work on preventing parts of the fire going in certain directions, says Malamud, \u201cbut this requires resources, such as [starting] prescribed burns, using fire suppressant, or water bombers.\u201d John Thomson, forest district manager at Forest Enterprise Scotland says wind, fuel and the slope of the land are all vital factors. \u201cYou can\u2019t do very much about the first one,\u201d says Thomson. \u201cThe firefighters in Alberta will be paying attention to weather conditions. In an ideal world, the wind would force the flames back on to ground that has already been burned.\u201d Fuel \u2013 tinderbox-dry vegetation on the ground and the trees themselves \u2013 can be managed in several ways, such as bulldozing it out of the way or starting controlled fires to burn it off so it can\u2019t feed the main fire. The topography of the land can help: \u201cFires burn much more aggressively going uphill than they do downhill,\u201d says Thomson. \u201cYou don\u2019t want to try to fight a fire going uphill. The firefighters will be looking very carefully how they deploy their personnel and equipment on a downhill side of a slope.\u201d In a fire that is still relatively small, and moving downhill, you can launch a direct attack, which can involve firefighters physically beating the flames out with special tools. \u201cYou would come in behind the fire, so you\u2019re not face to face with flames coming towards you. The ground has already been burned, so there\u2019s no chance of the fire suddenly changing direction and overrunning your team. But what is far more likely in Alberta at the moment is an indirect attack \u2013 getting out in front of the fire and establishing fire control lines, using something like a highway or river course.\u201d The water bombers \u2013 planes that can dump vast quantities on water \u2013 you see aren\u2019t just flying over the top of the fire and dousing it, but will be part of a careful plan, usually to pre-wet fuel (vegetation) ahead of the fire, or along its flanks to squeeze it in on itself. \u201cYou\u2019re not going to put that fire out just by dropping water on the top of it,\u201d says Thomson.",
+  "webTitle": "How do you stop a wildfire?",
+  "webPublicationDate": "2016-05-09T17:31:33Z",
+  "webUrl": "https://www.theguardian.com/world/shortcuts/2016/may/09/wildfire-alberta-canada",
+  "keyword": [
+    {
+      "webTitle": "Wildfires",
+      "id": "world/wildfires",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Natural disasters and extreme weather",
+      "id": "world/natural-disasters",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Emine Saner",
+      "id": "profile/eminesaner"
+    }
+  ],
+  "guardianId": "world/shortcuts/2016/may/09/wildfire-alberta-canada"
+}

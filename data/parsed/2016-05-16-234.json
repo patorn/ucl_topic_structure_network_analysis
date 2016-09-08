@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/16/brexit-eu-referendum-europe-political-centre-fitch",
+  "id": "2016-05-16-234",
+  "sectionId": "politics",
+  "body": "A vote for Brexit in next month\u2019s referendum could lead to disharmony across the rest of the 28-member bloc, strengthen anti-EU groups and dent other European economies, a leading credit ratings agency has warned. Fitch, which previously warned that Brexit could hurt the UK\u2019s strong credit score, reiterated the risk in an update to investors on Monday. It also warned that a vote to leave the EU on 23 June could hurt British airlines and trigger further failures in the retail sector, but that a weaker pound would bolster exporters\u2019 competitiveness.   Related: EU referendum: George Osborne and Ed Balls unite to argue for Remain - Politics live    In a note on the possible repercussions for the rest of the EU, Fitch warned that a UK vote to leave would weigh on the economies of other member states and increase political risks in Europe. \u201cNegotiating the terms of the UK\u2019s exit could exhaust the EU\u2019s time and energy and open up new fronts of disagreement. Brexit could shift the centre of gravity of the EU, making it more dominated by the eurozone core, poorer, more protectionist and less economically liberal,\u201d Fitch said. \u201cIf the UK were to thrive outside of the EU, it might encourage other countries to follow suit.\u201d Brexit would reduce EU exports to the UK, although the extent would depend on the nature of any UK-EU trade deal and the degree and duration of sterling depreciation, Fitch said. The most exposed countries would be Ireland, Malta, Belgium, the Netherlands, Cyprus and Luxembourg, all of whose exports of goods and services to the UK are at least 8% of GDP. \u201cThe economic impact of Brexit would be lower for the EU than for the UK, but would still be palpable,\u201d the agency said. Fitch said Brexit would reduce the UK\u2019s contribution to the EU budget and imply higher costs for other net contributors or lower payouts for net recipients. A UK departure could boost anti-EU or other populist political parties, it added.  Brexit could also precipitate Scotland leaving the UK, which might intensify secessionist pressures in other parts of the EU, such as Catalonia in Spain. Fitch did not expect a Brexit would prompt \u201cany immediate negative rating actions\u201d on other EU countries. \u201cBut negative actions would become more likely in the medium term if the economic impact were severe or significant political risks materialised,\u201d it said. Fitch, which cut its rating on the UK to a notch below the top AAA level in 2013, said its base case was that the UK would vote to remain in the EU. But it set out four possible scenarios on Monday:  A remain scenario  A leave scenario with favourable UK exit terms agreed  A leave scenario with a UK exit from the EU on unfavourable terms and tight labour market conditions  A leave under either of the previous two scenarios with a subsequent vote for Scottish independence  Fitch emphasised that none of the leave scenarios represented its expectations in the event of a leave vote and said \u201cthe consequences of a \u2018leave\u2019 vote could take many turns\u201d other than the scenarios it considered.  The remain scenario would be \u201cmildly credit positive\u201d across sectors of the UK economy as it would end uncertainty surrounding the EU question for the medium term. But the agency added: \u201cEU migration to the UK would remain high and the same UK/EU tensions could re-emerge in the longer term.\u201d In Fitch\u2019s favourable leave scenario, exit and trade agreements would be concluded smoothly and swiftly. However, in the unfavourable leave scenario, protracted negotiation resulting in unfavourable trade terms for the UK would be more negative, it said. A combination of a leave vote with subsequent Scottish independence would bring the UK\u2019s ratings under further pressure. The comments follow a series of warnings last week on the economic impact of Brexit, including from the Bank of England governor, Mark Carney, who said a leave vote could tip the UK into recession.",
+  "webTitle": "Brexit could shift Europe's political centre of gravity, says Fitch",
+  "webPublicationDate": "2016-05-16T11:06:10Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/16/brexit-eu-referendum-europe-political-centre-fitch",
+  "keyword": [
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Eurozone",
+      "id": "business/eurozone",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Katie Allen",
+      "id": "profile/katieallen"
+    }
+  ],
+  "guardianId": "politics/2016/may/16/brexit-eu-referendum-europe-political-centre-fitch"
+}

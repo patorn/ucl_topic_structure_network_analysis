@@ -1,0 +1,76 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/09/facebook-newsfeed-censor-conservative-news",
+  "id": "2016-05-09-112",
+  "sectionId": "technology",
+  "body": "Facebook\u2019s trending bar deliberately suppresses conservative news, according to a new report.  Facebook, now arguably the most important distributor of news online, has cultivated the idea that its bar is an impartial algorithm that responds to \u201clikes\u201d and gives users only what they\u2019ve indicated they want. But in a bombshell confession on the tech blog Gizmodo, a former editor says popular conservative news would be kept off the \u201ctrending news\u201d sidebar. \u201cI\u2019d come on shift and I\u2019d discover that CPAC [Conservative Political Action Conference] or Mitt Romney or Glenn Beck or popular conservative topics wouldn\u2019t be trending because either the curator didn\u2019t recognize the news topic or it was like they had a bias against Ted Cruz,\u201d the former news curator told Gizmodo. The news started a firestorm in conservative media circles. The Drudge Report ran the piece in its top slot with a picture of Facebook\u2019s chief operating officer Sheryl Sandberg and the headline: \u201cNot Leaning In ... Leaning Left!\u201d a reference to her bestselling book, Lean In. Breitbart News editor in chief Alex Marlow said the report confirmed \u201cwhat conservatives have long suspected: Facebook\u2019s trending news artificially mutes conservatives and amplifies progressives. \u201cFacebook claims its algorithm simply populates \u2018topics that have recently become popular on Facebook\u2019 in its trending news section, but now we know that\u2019s not true.\u201d Paul Bedard, DC reporter for the Washington Examiner, accused the social media network of \u201ccensoring conservatives\u201d.    Facebook is No. 1 driver of mobile readers to news sites. Impact obvious in censoring conservatives. https://t.co/hWm68stLwa via @DCExaminer\u2014 Paul Bedard (@SecretsBedard) May 9, 2016    Hugo Gurdon, the Washington Examiner\u2019s editorial director, said: \u201cWe\u2019ve read the report, and it is obviously of considerable interest to us. We plan on working with Facebook to ensure Washington Examiner\u2019s valuable content gets the attention it obviously deserves.\u201d Leon Wolf, an author at Redstate, one of the publications listed by the Gizmodo interviewees as having been targeted for exclusion, said he had not seen evidence of the kind of tampering mentioned by Gizmodo. \u201cI watch our Facebook stats very closely,\u201d Wolf told the Guardian. \u201cThe troubling thing about this is that Facebook is such a huge deal,\u201d Wolf said. \u201cThey can make or break success in a way that nobody else can. There\u2019s a lot of scrutiny that people have on CNN, they\u2019re several orders of magnitude less influential than Facebook is.\u201d The rise of Facebook as a dominant player in news has already worried some media watchers who are concerned the social network could become too powerful and set the news agenda and potentially block news that might not fit its corporate agenda. Emily Bell, director of the Tow centre for digital journalism at Columbia journalism school, said on Twitter that she questioned whether algorithms could ever be impartial.    @dominicru @attackerman @ShaunKing as I like to bore my students/the general public with...algorithms are never neutral. Ever.\u2014 emily bell (@emilybell) May 9, 2016    But Gizmodo\u2019s report was challenged by one ex-Facebooker who took issue with its characterization in an interview with the Guardian, saying that newsworthiness was determined by how often a story appeared on a list of trusted news outlets including this publication, the New York Times and the BBC. If five of the 10 put a story on the front page, it could be made to appear more often on Facebook Paper; if 10 put the story on the front page, it was added to the \u201ctrending\u201d bar. Beyond the list of 10 internationally trusted publications was another list of a thousand news sources that showed the editors where stories were trending; that list was more fungible and could be added to or subtracted from. The former news curator interviewed by the Guardian hadn\u2019t seen evidence that conservative stories were being blacklisted. \u201cI was only there for four or five months, but I didn\u2019t see that happening,\u201d the person said. The employee added, however that the job was to identify pertinent news stories based on a strict set of criteria. \u201cBut also whenever we started a shift you\u2019d go through stories that had been greenlit, and you had to prove yourself to be consistent enough to be a competent editor.\u201d The former contractor maintained that the unit had enough power to push back when others in the company asked for a story to be removed. \u201cThe one time when we had intervention on a story we did was when Sheryl Sandberg\u2019s husband died,\u201d the ex-employee said. \u201cWe reported it as a news story \u2013 \u2018COO\u2019s husband died in location X.\u2019 A whole bunch of people said, \u2018We shouldn\u2019t report on that story,\u2019 and we said, \u2018Well, it\u2019s news, so we\u2019re covering it.\u2019 We kept it up and we never got any flack from Sheryl or anyone else.\u201d The feeds, the ex-employee said, were pure popularity among Facebook users, but popularity as determined by human curators: \u201cBeyonc\u00e9 trends most days, but that\u2019s just because people are posting pictures of Beyonc\u00e9.\u201d",
+  "webTitle": "Facebook accused of censoring conservatives, report says",
+  "webPublicationDate": "2016-05-09T16:10:52Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/09/facebook-newsfeed-censor-conservative-news",
+  "keyword": [
+    {
+      "webTitle": "Facebook",
+      "id": "technology/facebook",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Republicans",
+      "id": "us-news/republicans",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Censorship",
+      "id": "world/censorship",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Social media",
+      "id": "media/social-media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Digital media",
+      "id": "media/digital-media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Nellie Bowles",
+      "id": "profile/nellie-bowles"
+    },
+    {
+      "webTitle": "Sam Thielman",
+      "id": "profile/sam-thielman"
+    }
+  ],
+  "guardianId": "technology/2016/may/09/facebook-newsfeed-censor-conservative-news"
+}

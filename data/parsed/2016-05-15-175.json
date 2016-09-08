@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/15/kill-command-review-sci-fi-horror-robots",
+  "id": "2016-05-15-175",
+  "sectionId": "film",
+  "body": "This science-fiction film takes a horror film premise \u2013 a small group of people are picked off one by one by a ruthless foe \u2013 and manages to strip it almost completely of scares. Like Dog Soldiers, but with the werewolves replaced by killer robots, the movie follows the grisly fate of a small battalion of soldiers on a training exercise. The film\u2019s main asset \u2013 the impressive digital effects that create the formidable sentient battle machines \u2013 is also its main problem. Having designed the robots, the film-makers show them off to the audience at every available opportunity, ignoring the basic rule of cinema that the most effective threat is the one that we create in our own minds.",
+  "webTitle": "Kill Command review \u2013 robotic storytelling",
+  "webPublicationDate": "2016-05-15T07:00:18Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/15/kill-command-review-sci-fi-horror-robots",
+  "keyword": [
+    {
+      "webTitle": "Science fiction and fantasy",
+      "id": "film/sciencefictionandfantasy",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Horror",
+      "id": "film/horror",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Wendy Ide",
+      "id": "profile/wendy-ide"
+    }
+  ],
+  "guardianId": "film/2016/may/15/kill-command-review-sci-fi-horror-robots"
+}

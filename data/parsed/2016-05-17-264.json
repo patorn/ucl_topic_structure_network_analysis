@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/australia-news/2016/may/17/doctors-warn-budget-cuts-risk-higher-mortality-rates-in-emergency-departments",
+  "id": "2016-05-17-264",
+  "sectionId": "australia-news",
+  "body": "The federal government\u2019s decision to cut health funding in the 2014-15 budget is threatening to bite, with the risk of higher mortality rates in emergency departments increasing, doctors warn. The Australian Medical Association is calling on the Turnbull government to reinstate specific funding to help state and territory hospitals meet the National Emergency Access Target (NEAT) to keep mortality rates down. It says the target \u2013 which stipulates that a predetermined proportion of patients should be admitted, discharged or transferred from emergency departments within four hours of presentation \u2013 had led to fewer deaths but now hospitals are struggling to keep beating it.   Related: Getup maps $57bn in Abbott-era health cuts hospital by hospital    The target was set for all emergency departments by the national partnership agreement in 2012 in response to evidence that overcrowding and prolonged length of stay were associated with increased in-hospital mortality. The goal was to incrementally increase the proportion of emergency admissions discharged within four hours to 90% in all jurisdictions by 2015, in line with the \u201cfour-hour rule\u201d target set in the United Kingdom in 2010. But the AMA vice-president, Stephen Parnis, says progress towards that 90% target had stalled in recent years. The warning comes after a peer-reviewed article in the latest edition of the Medical Journal of Australia found evidence \u2013 for the first time \u2013 that improvements in admission processes in Australia\u2019s emergency departments had led to a decrease in patient deaths. The article, The National Emergency Access Target and the 4-Hour Rule: Time to Review the Target, directly linked the NEAT with clear reductions in in-hospital mortality of emergency admissions. Parnis says hospitals\u2019 performance against the NEAT has plateaued since the budget cuts in 2014-15. He is also warning the situation could deteriorate if funding is not restored in coming years. He says state and territory targets for the NEAT were previously accompanied by specific funding to improve capacity but this funding was cut in the 2014-15 budget. The AMA wants the NEAT funding restored as part of a larger rescue package for public hospitals, he says. \u201cA target that was working to improve performance has stopped delivering further improvements,\u201d he said. \u201cThe cuts to public hospital funding are having an effect on hospital performance \u2013 to the detriment of patients.\u201d The Abbott government cut hospital funding by $57bn \u2013 for the years 2017-18 to 2024-25 \u2013 in its 2014-15 budget. The Turnbull government has since announced a $2.9bn boost in funding (over three years) to the states, agreed at Council of Australian Governments on 1 April.   Related: The invisible aged: the people politics forgot | John Watkins    The offer for public hospitals precedes a longer-term deal, which has not been announced. Anthony Lawler, president of the Australasian College for Emergency Medicine, said the recent Medical Journal of Australia article showed that increased compliance to access targets led to fewer patients dying.  \u201cPrevious research has linked overcrowded and under-resourced EDs with increased patient deaths,\u201d he said.\u201cThis study helps close the loop, showing that improving hospital processes and increased compliance to access targets not only reduced the time patients spent in ED, but led to fewer patients dying.\u201d",
+  "webTitle": "Doctors warn budget cuts risk higher mortality rates in emergency departments",
+  "webPublicationDate": "2016-05-17T08:40:57Z",
+  "webUrl": "https://www.theguardian.com/australia-news/2016/may/17/doctors-warn-budget-cuts-risk-higher-mortality-rates-in-emergency-departments",
+  "keyword": [
+    {
+      "webTitle": "Australian election 2016",
+      "id": "australia-news/australian-election-2016",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australian budget 2016",
+      "id": "australia-news/australian-budget-2016",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Health (Australia)",
+      "id": "australia-news/health",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Malcolm Turnbull",
+      "id": "australia-news/malcolm-turnbull",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australian politics",
+      "id": "australia-news/australian-politics",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Gareth Hutchens",
+      "id": "profile/gareth-hutchens"
+    }
+  ],
+  "guardianId": "australia-news/2016/may/17/doctors-warn-budget-cuts-risk-higher-mortality-rates-in-emergency-departments"
+}

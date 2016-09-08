@@ -1,0 +1,30 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/05/uk-hottest-day-of-year-to-date-forecast-weather",
+  "id": "2016-05-05-227",
+  "sectionId": "uk-news",
+  "body": "Britain is expected to enjoy the hottest day of the year so far on Thursday but air pollution is forecast to accompany the warm weather.  Defra, the department responsible for official pollution warnings, said moderate air pollution was likely in much of England and Wales and urged people with lung or heart problems who experience symptoms to consider reducing strenuous physical activity, particularly outdoors. Grahame Madge, a spokesman for the Met Office, said temperatures were likely to be highest in south-east England and the east Midlands. However, not everyone will experience barbecue weather, with cloud cover likely over north-west England. \u201cThe hottest day so far was 21 April when it was 20.3C in Porthmadog [in north Wales]. We are expecting temperatures [on Thursday] to be slightly above that,\u201d Madge said. \u201cIt could well see a new temperature record for 2016 born today. But it is likely to be short-lived. There\u2019s likely to be a daily increase as temperatures build towards the end of the week.\u201d For those looking to maximise their exposure to the sun, possible locations where the year-to-date temperature record could be broken on Thursday include north London, the east Midlands and Heathrow, according to Madge. By Sunday the mercury is likely to be in the mid-20s in parts of the country and could even hit 27C, he said.  At 10am on Thursday Defra measured air pollution as low across all regions of the UK, but it expects levels to rise as temperatures climb during the day. The moderate air pollution is expected to stick around until the end of the week when showers are expected to move into southern England, especially the south-east.  Madge said the warm temperatures meant that when the rain comes there could be \u201cspectacular\u201d thundery showers. The warm weather, with temperatures in the upper range of what is expected for this time of year, comes just over a week after there were snow showers across the UK.",
+  "webTitle": "UK's hottest day of year to date forecast \u2013 but record won't last long",
+  "webPublicationDate": "2016-05-05T10:51:17Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/05/uk-hottest-day-of-year-to-date-forecast-weather",
+  "keyword": [
+    {
+      "webTitle": "Weather",
+      "id": "uk/weather",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Haroon Siddique",
+      "id": "profile/haroonsiddique"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/05/uk-hottest-day-of-year-to-date-forecast-weather"
+}

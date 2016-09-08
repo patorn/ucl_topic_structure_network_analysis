@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/news/2016/may/09/weatherwatch-birdwatchers-weather-may",
+  "id": "2016-05-09-39",
+  "sectionId": "news",
+  "body": "For birdwatchers, especially those living along Britain\u2019s eastern coasts, May can be one of the most exciting months of the year \u2013 or the dullest. The key factor in deciding which way it will go is the weather.  A dull, cool May with predominantly northerly winds, or a wet, mild one with south-westerlies, are both bad news. But if a high-pressure system becomes stuck over Germany or Scandinavia, bringing fresh south-easterly winds and clear skies to Britain, then birders will head east.   Related: Migratory birdlife suffers when April arrives windy and cold    Back in mid-May 1992, that\u2019s exactly what happened. A persistent easterly airstream brought a steady flow of scarce migrants such as red-footed falcons and white-winged black terns, both of which breed well to the east of Britain. These turned up in record numbers in East Anglia and Kent.  Further north, on Orkney and Shetland, more scarce migrants were also seen: red-backed shrikes, icterine warblers and bluethroats, all guaranteed to set birdwatchers\u2019 pulses racing. A year later, in May 1993, a similar high-pressure system drifting to the south of Iceland brought another spell of persistent easterlies, and a large fall of bluethroats \u2013 a robin-like bird with a smart blue breast instead of a red one. This was a classic example of what ornithologists call \u201cdrift migration\u201d, where birds heading north towards Scandinavia take the easier option of flying downwind, eventually making landfall in eastern Britain.  Once they have fed and rested, they resume the final leg of their migratory journey across the North Sea.",
+  "webTitle": "For birdwatchers, it's all about the May weather",
+  "webPublicationDate": "2016-05-09T20:30:07Z",
+  "webUrl": "https://www.theguardian.com/news/2016/may/09/weatherwatch-birdwatchers-weather-may",
+  "keyword": [
+    {
+      "webTitle": "Birds",
+      "id": "environment/birds",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Birdwatching",
+      "id": "environment/birdwatching",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Meteorology",
+      "id": "science/meteorology",
+      "sectionId": "science",
+      "sectionName": "Science"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Stephen Moss",
+      "id": "profile/stephenmoss1"
+    }
+  ],
+  "guardianId": "news/2016/may/09/weatherwatch-birdwatchers-weather-may"
+}

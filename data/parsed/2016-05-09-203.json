@@ -1,0 +1,90 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/09/hmv-moves-ahead-of-tesco-as-second-biggest-entertainment-retailer-cd-dvd",
+  "id": "2016-05-09-203",
+  "sectionId": "business",
+  "body": "HMV has reclaimed is position as the second biggest entertainment retailer in the UK as high street chains enjoy a revival against their online competitors. HMV recorded a 2% year-on-year rise in sales of music, DVDs and games over the last quarter, giving it a market share of 16.9%, ahead of Tesco\u2019s 16.1%. The figures represent HMV\u2019s best performance since it collapsed into administration more than three years ago. It was eventually rescued by Hilco, the investment firm. Overall, sales of entertainment products in bricks-and-mortar shops fell by 2% during the 12 weeks to 10 April, according to Kantar Worldpanel. However, online retailers suffered a much larger decline, with sales down by 12%. Amazon, the country\u2019s biggest entertainment retailer, saw its sales fall by 0.6% year-on-year, reducing its market share from 22.6% to 22%. Analysts said that high street entertainment stores were being underpinned by music and video games. One-in-four customers still only buy CDs, while 77% of video games were bought at shops during the quarter. Tesco and Game achieved their biggest share of video game sales for five years. This helped high street stores and supermarkets to claim 69.8% of spending on all physical entertainment products, up from 67.5% a year ago. Fiona Keenan, strategic insight director at Kantar, said: \u201cDespite recent high profile casualties for high street fashion retailers the performance of bricks and mortar entertainment stores has demonstrated the strong appeal this channel still holds for consumers. \u201cSome 14% of the population now has a music subscription service and paid-for Spotify subscriptions are growing at 25%. Yet the CD is still the most popular way to consume music content. \u201cSuch a strong performance from HMV has not been seen since it entered administration in 2013. HMV has really focused on creating an in-store environment that stimulates and excites consumers like it did in its heyday.  \u201cThis focus is clearly reflected in the fact that over half of its sales this quarter came from customers who hadn\u2019t planned to make a purchase \u2013 significantly higher than the market average of 38%.\u201d Across the industry, music sales dipped by 1% during the period, with DVDs down 6% and games down 8%.  Popular products include David Bowie\u2019s albums Blackstar and Best of Bowie following his death in January, as well as the compilation Now That\u2019s What I Call Music! 93 and Adele\u2019s 25. The best-selling DVD during the period was Spectre, the latest James Bond film, which has sold more than 1.7m copies since it went on sale in February.",
+  "webTitle": "HMV moves ahead of Tesco as second biggest entertainment retailer",
+  "webPublicationDate": "2016-05-09T12:07:49Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/09/hmv-moves-ahead-of-tesco-as-second-biggest-entertainment-retailer-cd-dvd",
+  "keyword": [
+    {
+      "webTitle": "HMV",
+      "id": "business/hmvgroup",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Retail industry",
+      "id": "business/retail",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Tesco",
+      "id": "business/tesco",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Supermarkets",
+      "id": "business/supermarkets",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Amazon.com",
+      "id": "technology/amazon",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "E-commerce",
+      "id": "technology/efinance",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Music industry",
+      "id": "business/musicindustry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Internet",
+      "id": "technology/internet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Consumer affairs",
+      "id": "money/consumer-affairs",
+      "sectionId": "money",
+      "sectionName": "Money"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Graham Ruddick",
+      "id": "profile/graham-ruddick"
+    }
+  ],
+  "guardianId": "business/2016/may/09/hmv-moves-ahead-of-tesco-as-second-biggest-entertainment-retailer-cd-dvd"
+}

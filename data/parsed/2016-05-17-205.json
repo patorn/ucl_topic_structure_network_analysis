@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/culture/2016/may/17/marvel-studios-avengers-captain-america-box-office",
+  "id": "2016-05-17-205",
+  "sectionId": "film",
+  "body": "Banknotes assemble! With the box office success of Captain America: Civil War, Marvel Studios comic book adaptations have grossed a collective $10bn globally since the new wave of superhero powered movies began in 2008.  Marvel has released 13 movies over eight years in its Marvel Cinematic Universe series, starting with the first Iron Man movie. The highest-grossing of the films is still 2012\u2019s The Avengers, which raked in $1.5bn by itself, a figure nearly twice the average gross of the 13 films as of today \u2013 $769m each. Civil War registered the fifth-highest opening weekend in history when it opened in theaters on 6 May; by this past Sunday morning, it had already grossed $940.9m.   Related: Why Captain America: Civil War is better than Batman v Superman    The $10bn earned so far is entirely in the form of ticket dollars, without a penny accounted for among the capacious licensing, merchandising and home video deals associated with the series of movies. The Marvel movies are largely the brainchild of producer Kevin Feige, who has designed them to deploy in at least three \u201cphases\u201d over the course of the next few years, with films featuring the Black Panther, Captain Marvel and Doctor Strange added to the slate years ahead of time.   The next film in a sequence threatening to catch up to the James Bond movies in sheer breadth is Doctor Strange, scheduled for a 4 November release. The multi-movie story arcs tend to climax around the Avengers films \u2013 the next one isn\u2019t until 2019\u2019s two-part summer film Avengers: Infinity War.  The Marvel Comics theatrical films have proved such moneymakers in large part because they play well internationally, with China alone grossing nearly $400m for the new Captain America film, according to statistics provided by the company. It\u2019s good news for Disney, Marvel\u2019s owner, which is suffering along with its competitors in the traditional cable businesses \u2013 until recently viewed as a much more reliable revenue generator than theatrical films.  Other films in the Disney stable are overperforming, as well \u2013 the company\u2019s well-reviewed detective-themed cartoon Zootopia closed the weekend with just under $1bn.",
+  "webTitle": "Marvel's hulking haul: studio's films have grossed $10bn since 2008",
+  "webPublicationDate": "2016-05-17T11:00:01Z",
+  "webUrl": "https://www.theguardian.com/culture/2016/may/17/marvel-studios-avengers-captain-america-box-office",
+  "keyword": [
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Marvel",
+      "id": "culture/marvel",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Captain America: Civil War",
+      "id": "film/captain-america-civil-war",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "The Avengers",
+      "id": "film/the-avengers",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Sam Thielman",
+      "id": "profile/sam-thielman"
+    }
+  ],
+  "guardianId": "culture/2016/may/17/marvel-studios-avengers-captain-america-box-office"
+}

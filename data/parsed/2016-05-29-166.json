@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/29/clare-maguire-stranger-things-have-happened-review",
+  "id": "2016-05-29-166",
+  "sectionId": "music",
+  "body": "Those with good memories might remember Clare Maguire from the new artist tipping season circa 2010-11, where the lungy Birmingham singer was marketed as a cut-price Florence Welch. Epic fail: bad reviews and so-so chart placings followed. Maguire turned to drink. After rehab, a change of label and adoption by the fashion set, she has gone back to basics, with a set of retro-inspired songs that don\u2019t, frankly, refashion the wheel, but boast a certain tremulous, lived-and-loved appeal. The single, Elizabeth Taylor, is not bad, all pianos, strings and textbook triumph over tears; there are plenty more like it. Spookiest and most courageous by far, however, is Falling Leaves, just a few piano notes and ghostly heartbreak.",
+  "webTitle": "Clare Maguire: Stranger Things Have Happened review \u2013 appealing retro set",
+  "webPublicationDate": "2016-05-29T07:00:00Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/29/clare-maguire-stranger-things-have-happened-review",
+  "keyword": [
+    {
+      "webTitle": "Pop and rock",
+      "id": "music/popandrock",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Kitty Empire",
+      "id": "profile/kittyempire"
+    }
+  ],
+  "guardianId": "music/2016/may/29/clare-maguire-stranger-things-have-happened-review"
+}

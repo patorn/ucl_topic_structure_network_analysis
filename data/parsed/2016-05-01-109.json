@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/01/horse-racing-tips-sunday-1-may-1000-guineas-newmarket",
+  "id": "2016-05-01-109",
+  "sectionId": "sport",
+  "body": "Newmarket  1.50 Slunovrat 2.25 Irish Rookie 3.00 Pharmaceutical 3.40 Minding (nap) 4.15 Gulliver 4.50 Swiss Range (nb) 5.25 Taqdeer Salisbury 1.35 Harlech 2.05 Magic Circle 2.35 Short Work 3.10 Stormy Clouds 3.50 Jufn 4.25 Harbour Law 5.00 Capelita 5.35 One Big Surprise Hamilton Park 1.40 Captain Scooby 2.10 Barkston Ash 2.45 Mirsaale 3.20 Voice From Above 3.55 Sixties Sue 4.30 Euchen Glen 5.05 Grand Canyon   Related: Minding is rated to win 1,000 Guineas but Lumiere will be tough opponent",
+  "webTitle": "Horse racing tips: Sunday 1 May",
+  "webPublicationDate": "2016-05-01T12:00:56Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/01/horse-racing-tips-sunday-1-may-1000-guineas-newmarket",
+  "keyword": [
+    {
+      "webTitle": "Horse racing tips",
+      "id": "sport/horse-racing-tips",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Horse racing",
+      "id": "sport/horse-racing",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "1,000 Guineas",
+      "id": "sport/1000-guineas",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Greg Wood",
+      "id": "profile/gregwood"
+    }
+  ],
+  "guardianId": "sport/2016/may/01/horse-racing-tips-sunday-1-may-1000-guineas-newmarket"
+}

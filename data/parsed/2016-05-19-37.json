@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/australia-news/2016/may/20/election-2016-greens-plan-to-spend-5bn-over-four-years-on-research-and-innovation",
+  "id": "2016-05-19-37",
+  "sectionId": "australia-news",
+  "body": "The Greens have announced plans to increase research and innovation spending to 3% of GDP by 2025 and 4% by 2030. The party leader, Richard Di Natale, and the science and industry spokesman, Adam Bandt, are set to announce the policy on Friday in Melbourne. Australia invests about 2.2% of GDP in public and private sector science, innovation and research which the Greens say is behind Korea (4.3%), Japan (3.6%), and the US (2.7%). The Greens plan to boost research grants ($848m), restore funding to the CSIRO ($306.5m), reverse cuts to the sustainable research excellence program and increase university research ($1.3bn).    Related: 'Innovation is in our blood': how South Australia leads the way on renewables | Kathy Marks    They also want to reverse cuts to research and development offsets ($690m). The parliamentary budget office has costed the total spending commitments at $5bn over the next four years. The Greens say they would pay for the policy by abolishing fossil-fuel subsidies, such as the diesel fuel rebate, which would raise $7bn a year. Di Natale said: \u201cInnovation isn\u2019t just a buzzword Malcolm Turnbull can use to sell his corporate tax cuts. It underpins Australia\u2019s future prosperity. \u201cWe will increase funding, improve access to information, foster national and international collaboration, protect our key research institutions and deliver the research and innovation Australia needs to remain competitive.\u201d Bandt said: \u201cThe industries and jobs of the 21st century will rely on our minds, not our mines. \u201cThe Greens will invest in science and research and foster a culture where experimentation, invention and innovation can flourish in Australia.\u201d Labor\u2019s policies on science include providing 25,000 teaching scholarships over five years to new and recent graduates of science technology engineering and maths (STEM) degrees to encourage them to continue their studies and become a STEM teacher. It has also promised to spend $127m over four years to help current teachers learn new STEM skills. In December the Turnbull government unveiled a national innovation and science agenda to cost $1bn over four years, which included tax incentives for early-stage companies. The innovation agenda also aims to ensure schools are encouraging problem solving, critical thinking and digital skills from an early age.",
+  "webTitle": "Greens pledge $5bn over four years for research and innovation",
+  "webPublicationDate": "2016-05-19T20:13:53Z",
+  "webUrl": "https://www.theguardian.com/australia-news/2016/may/20/election-2016-greens-plan-to-spend-5bn-over-four-years-on-research-and-innovation",
+  "keyword": [
+    {
+      "webTitle": "Australian Greens",
+      "id": "australia-news/australian-greens",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Research funding",
+      "id": "education/researchfunding",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Richard Di Natale",
+      "id": "australia-news/richard-di-natale",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Adam Bandt",
+      "id": "australia-news/adam-bandt",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australian politics",
+      "id": "australia-news/australian-politics",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Australian election 2016",
+      "id": "australia-news/australian-election-2016",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Paul Karp",
+      "id": "profile/paul-karp"
+    }
+  ],
+  "guardianId": "australia-news/2016/may/20/election-2016-greens-plan-to-spend-5bn-over-four-years-on-research-and-innovation"
+}

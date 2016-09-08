@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/us-news/2016/may/05/california-cigarette-smoking-age-21-marijuana-legalization",
+  "id": "2016-05-05-108",
+  "sectionId": "us-news",
+  "body": "California has raised the minimum age for smoking cigarettes from 18 to 21 with a measure that health advocates say will save lives and pave the way for states across the US to adopt stricter tobacco laws. The legislation, signed into law by Democratic governor Jerry Brown on Wednesday, is a major blow to the tobacco industry, which aggressively lobbied against the bill and has threatened to launch a referendum vote that would seek to overturn the controversial policy. The reform in California, which is the largest state in the country and often leads the way in adopting progressive environmental and health regulations, came the same day that the state took a major step forward in a long-running campaign to legalize recreational marijuana. Cannabis advocates in California, the biggest marijuana producer in the US, announced on Wednesday that an initiative to legalize pot sales beyond the medical industry has collected enough signatures to appear on the November ballot. The Adult Use of Marijuana Act, funded by Silicon Valley billionaire Sean Parker, would allow adults 21 and older to purchase and possess pot, though some critics fear it could increase teen use. Lawmakers and medical experts celebrated the new tobacco regulation this week, which was part of a package of bills that also prohibits smoking electronic cigarettes in public places and expands smoking restrictions in schools. \u201cTobacco is the number one cause of preventable death in our state, and the vast majority of smokers start as teens,\u201d Kristi VandenBosch, board member of the American Lung Association in California, said in a statement. \u201cThese bills directly address the factors that put teens at risk of a deadly, lifelong addiction.\u201d In March 2015, the Institute of Medicine reported that increasing the smoking age to 21 would deter 15% of people ages 18 to 20 from developing a lasting tobacco habit.    Related: Runner\u2019s high: the athletes who use marijuana to improve their training    Hawaii was the first state to raise the smoking age to 21, though more than 100 cities, including San Francisco, New York and Chicago, have adopted similar policies. An increasing number of state legislatures have also taken measures to treat e-cigarettes like tobacco products in response to concerns about a rise in adolescent e-cigarette use.  Proponents said they hope the California reforms could inspire federal legislation. \u201cThe wave in Hawaii has turned into a tsunami in California, and I think it won\u2019t be long before we see it roll all the way to Washington DC,\u201d state assemblyman Jim Wood said in a statement.  In November, California residents will also vote on a $2 increase in the state\u2019s cigarette tax, which health advocates say could also reduce smoking among teens.  Senator Ed Hernandez, the Democrat who authored the bill raising the tobacco age, said the passage of the legislation sent a clear message to the tobacco industry.  \u201cTogether, we stand to disrupt the chain of adolescent addiction,\u201d he said in a statement. \u201cThe fierce opposition from Big Tobacco on this measure proves just how important this law is and how much their business model relies on targeting our kids.\u201d",
+  "webTitle": "California raises smoking age to 21 and moves closer to marijuana legalization",
+  "webPublicationDate": "2016-05-05T16:33:40Z",
+  "webUrl": "https://www.theguardian.com/us-news/2016/may/05/california-cigarette-smoking-age-21-marijuana-legalization",
+  "keyword": [
+    {
+      "webTitle": "California",
+      "id": "us-news/california",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Tobacco industry",
+      "id": "business/tobacco-industry",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Cannabis",
+      "id": "society/cannabis",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Drugs",
+      "id": "society/drugs",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Sam Levin",
+      "id": "profile/sam-levin"
+    }
+  ],
+  "guardianId": "us-news/2016/may/05/california-cigarette-smoking-age-21-marijuana-legalization"
+}

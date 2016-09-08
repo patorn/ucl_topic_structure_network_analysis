@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/society/patrick-butler-cuts-blog/2016/may/26/poverty-six-steps-from-the-jobcentre-to-the-food-bank",
+  "id": "2016-05-26-191",
+  "sectionId": "society",
+  "body": "A few days after director Ken Loach won a Cannes Palme d\u2019Or-for his welfare state drama I, Daniel Blake, the Wandsworth food bank published its latest food poverty audit. This measures food bank use, but essentially tracks the unravelling of the local social security safety net.  Using data, surveys and interviews collected over the course of the past year, the south London charity\u2019 study explains what Loach\u2019s film dramatises: how jobcentre culture, welfare cuts and benefit delays help drive people to food banks. I\u2019ve distilled from the Wandsworth report six reasons why the poor and vulnerable, in the words of the Cannes jurors, can get \u201ccaught on the barbed wire of welfare bureaucracy\u201d and find themselves reliant on charity food. 1. Government welfare policy is a major driver of food bank use. Wandsworth food bank (in common with national Trussell trust data) found that the most common reason for crisis referrals to its service was  administrative delays and errors on the part of the Department for Work and Pensions (DWP). These related to claims for unemployment and disability benefits, and waits triggered by appeals against fit for work test results. As a result vulnerable claimants often went weeks without cash entitlements. They often ended up needing charity food parcels. 2. Jobcentre officials send customers in crisis to food banks. Wandsworth jobcentre was the tenth biggest referrer of clients to the food bank (out of 208 local referring partner agencies). This is despite it (and three other local jobcentres who sent customers) not being a formal \u201creferral partner\u201d of the food bank. They chose not to send customers to the food bank using standard Trussell trust referral forms, but instead \u201csignpost\u201d them informally. The government used to boast that it had changed the rules to allow jobcentres to send people in crisis to food banks; some job centres now seem to want to hide the fact they do this. 3. There is a lack of official crisis help (part one). Although DWP delays can leave claimants penniless, the chances of them obtaining a short term cash advance from the jobcentre to tide them over until benefits were paid were not high, the food bank found. Interviews with food bank clients waiting for delayed benefits found none had been offered an advance. Job centre staff seemed reluctant to offer cash advances to customers, or even pretended the advances didn\u2019t exist. 4. Benefit sanctions can lead directly to hunger. The link between food bank use and often capricious DWP sanctions decisions, which result in customers seeing their benefits stopped for a minimum of four weeks for supposed breaches of conditionality rules, is well-established. Some 42% of Wandsworth referral agencies said a benefit sanction was \u201coften\u201d a reason for making a referral to the food bank. 5. There is a lack of official crisis help (part two). Sanctioned claimants should be able to claim a hardship payment if JCP advisors consider that the loss of benefits will leave them unable to afford essentials such as food and heating and are at risk of suffering \u201ca greater decline in health than a normal healthy adult\u201d. Wandsworth food bank found that not only were hardship payments even harder to access than benefit advances, but that DWP rules specifically exclude claimants with mental health issues from qualifying for immediate hardship payments, forcing them to wait three weeks (making them more likely to use food banks)  6. People with poor mental health can be more at risk of becoming reliant on food banks because problems with the benefits system. Two-thirds of Wandsworth\u2019s surveyed referral partners said the social security apparatus catered \u201cbadly\u201d or \u201cvery badly\u201d for clients with mental health difficulties who as a result found it especially difficult to navigate the benefits system. Some agencies said this was the main reason they referred clients to the food bank. A quarter of referral partners reported that clients referred to food banks were displaying \u201csuicidal tendencies\u201d. Hunger exacerbated poor mental health, partners said. Food banks are increasingly covering for shortcomings in the social security system, the study found. Numbers of people receiving crisis food parcels from Wandsworth food bank rose 25% in 2015-16, far outstripping the Trussell trust\u2019s national average increase of 2%. Over 1,000 households were referred to the food bank, up a fifth year-on-year. The report argues the food bank is now an unofficial arm of the welfare state:  Frontline care professionals see the food bank as an increasingly essential part of the safety net, providing a service that does not exist in any other part of the system, and standing between people in crisis and destitution.  The government insists there is no robust evidence that welfare cuts and reforms drive food bank use. Loach says the system in which Daniel Blake finds himself is emblematic of a wider austerity-driven \u201cconscious cruelty\u201d. Frank Field MP has argued that dramatically speeding up benefit processing times would reduce food bank use by a third.  Some may be sceptical that hunger really exists in a country as wealthy as the UK. But as Loach told the BBC:  If you get out among the people who are in the food banks, who would not eat unless there were people providing charity, I think you\u2019d find there\u2019s a great disgust and despair that we live like that in this country now.",
+  "webTitle": "Poverty: six steps from the jobcentre to the food bank",
+  "webPublicationDate": "2016-05-26T12:49:52Z",
+  "webUrl": "https://www.theguardian.com/society/patrick-butler-cuts-blog/2016/may/26/poverty-six-steps-from-the-jobcentre-to-the-food-bank",
+  "keyword": [
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Public sector cuts",
+      "id": "society/public-sector-cuts",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Food banks",
+      "id": "society/food-banks",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Welfare",
+      "id": "politics/welfare",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Poverty",
+      "id": "society/poverty",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Voluntary sector",
+      "id": "society/voluntarysector",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Social exclusion",
+      "id": "society/socialexclusion",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Ken Loach",
+      "id": "film/ken-loach",
+      "sectionId": "film",
+      "sectionName": "Film"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Patrick Butler",
+      "id": "profile/patrickbutler"
+    }
+  ],
+  "guardianId": "society/patrick-butler-cuts-blog/2016/may/26/poverty-six-steps-from-the-jobcentre-to-the-food-bank"
+}

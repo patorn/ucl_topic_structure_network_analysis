@@ -1,0 +1,30 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/19/where-are-you-travelling-to-on-holiday-this-year",
+  "id": "2016-05-19-237",
+  "sectionId": "uk-news",
+  "body": "Growing security concerns have seen bookings fall to top destinations such as Turkey, Tunisia and Egypt with Spain and Greece still proving popular among holidaymakers. Thomas Cook shares have tumbled more than 15% after the holiday company warned that bookings had fallen in the wake of terrorist attacks in Tunisia and Brussels. \u201cAs we look ahead to our busiest period, Thomas Cook is trading well to destinations other than Turkey, with particularly strong bookings to Spain and the USA. However demand for Turkey \u2013 our second largest market last year \u2013 remains significantly below last year\u2019s levels.\u201d Where are you going on holiday this year? Do you have a regular travel destination you visit? Have you changed your plans because of security concerns? Perhaps you\u2019ve opted to travel closer to home opting for a \u2018staycation\u2019 instead. Wherever you live in the UK you can share your views with us by filling in our form below. We\u2019ll feature some of your contribution in our ongoing reporting.",
+  "webTitle": "Where are you travelling to on holiday this year?",
+  "webPublicationDate": "2016-05-19T10:38:52Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/19/where-are-you-travelling-to-on-holiday-this-year",
+  "keyword": [
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian readers",
+      "id": "profile/guardian-readers"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/19/where-are-you-travelling-to-on-holiday-this-year"
+}

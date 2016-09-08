@@ -1,0 +1,84 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/05/airbnbwhileblack-hashtag-highlights-potential-racial-bias-rental-app",
+  "id": "2016-05-05-158",
+  "sectionId": "technology",
+  "body": "A trending social media hashtag has highlighted experiences of possible racial bias by users of the AirBnB rental app.  Quirtina Crittenden, a 23-year-old business consultant living in Chicago, who is African-American, started the hashtag #AirBnBWhileBlack after noting how often she was declined by hosts when seeking a place to rent \u2013 even when the apartments advertised appeared to be available. \u201cThe hosts would always come up with excuses like, \u2018oh, someone actually just booked it\u2019 or \u2018oh, some of my regulars are coming in town, and they\u2019re going to stay there,\u2019\u201d Crittenden said in an NPR interview. \u201cBut I got suspicious when I would check back days later and see that those dates were still available.\u201d    #AirbnbWhileBlack #Airbnb pic.twitter.com/3pIGzQsP57\u2014 Q. (@TinaLaBang) July 16, 2015      \ud83d\ude29\ud83d\ude29\ud83d\ude02\ud83d\ude02 crazy RT @_GSelden: #AirbnbWhileBlack made a fake profile as a white guy and was accepted immediately. pic.twitter.com/h9YFKLNfTI\u2014 hamilton porter (@QUE_REALigion) May 5, 2016    AirBnB users have both a photograph and name as part of their profiles. After Crittenden created the hashtag, many other people of colour have described similar experiences.  As an experiment, Crittenden changed her photograph from a self-portrait to one of a generic cityscape, and shortened her first name from \u201cQuirtina\u201d to \u201cTina\u201d. She found that her requests to rent were then accepted. \u201cEver since I changed my name and my photo, I\u2019ve never had any issues,\u201d Crittenden said. Earlier this year, Harvard Business School researchers ran an experiment (PDF) exploring racial discrimination in what has become known as the \u201csharing economy\u201d.  The study found that, on the AirBnB platform, \u201crequests from guests with distinctively African-American names are roughly 16% less likely to be accepted than identical guests with distinctively white names\u201d. The investigation targeted around 6,4000 AirBnB listings in five US cities (Los Angeles, Dallas, Baltimore, St Louis and Washington). The guest accounts created in the experiment were identical apart from the differences in what the researchers considered names to fit stereotypical ideas of race. For instance: Tamika, a female name the researchers considered to be African-American sounding, received the most positive responses for African-American sounding female names. But Tamika had fewer positive responses than the least popular apparent white-sounding name tested (in this case, Kristen). The same pattern was true for male names. Not only this, but the study also showed that people of colour earned less money when renting out their properties than white people. In addition, white hosts seemed willing to lose out on money rather than rent a property to a person of colour, whether indicated by profile picture or assumed on the basis of an individual\u2019s name. AirBnB\u2019s head of diversity and belonging, David King, said: \u201cWe recognise that bias and discrimination present significant challenges, and we are taking steps to address them. Profile photos are an important part of our community and are one of the many tools that help hosts and guests connect with one another. We welcome the opportunity to work with anyone that can help us reduce potential discrimination in the Airbnb community.\u201d",
+  "webTitle": "#AirBnBWhileBlack hashtag highlights potential racial bias on rental app",
+  "webPublicationDate": "2016-05-05T14:28:17Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/05/airbnbwhileblack-hashtag-highlights-potential-racial-bias-rental-app",
+  "keyword": [
+    {
+      "webTitle": "Airbnb",
+      "id": "technology/airbnb",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Apps",
+      "id": "technology/apps",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Social media",
+      "id": "media/social-media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Race issues",
+      "id": "world/race",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Property",
+      "id": "money/property",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Renting property",
+      "id": "money/renting",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Hannah Jane Parkinson",
+      "id": "profile/hannah-jane-parkinson"
+    }
+  ],
+  "guardianId": "technology/2016/may/05/airbnbwhileblack-hashtag-highlights-potential-racial-bias-rental-app"
+}

@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/us-news/2016/may/25/donald-trump-top-campaign-staff-rick-wiley-let-go",
+  "id": "2016-05-26-343",
+  "sectionId": "us-news",
+  "body": "A top Trump staffer was abruptly let go on Wednesday under mysterious circumstances, after a dispute with the campaign\u2019s Florida director. Rick Wiley was the presumptive nominee\u2019s national political director and a close ally of Paul Manafort, a veteran political operative who has been in the middle of an ongoing and well-publicized power struggle with the campaign manager, Corey Lewandowski. Manafort, who was recently promoted to be the campaign\u2019s chief strategist, was brought on by Trump in March after Ted Cruz ran up a number of victories in the delegate selection process.  Wiley, unlike many others on the campaign, had a well-established pedigree in Republican politics. The former campaign manager for Wisconsin governor Scott Walker\u2019s presidential campaign, Wiley was a former political director for the RNC and had longstanding ties with many party leaders. Wiley\u2019s departure came amid a disagreement with Karen Giorno, the campaign\u2019s Florida director. The clash, first reported by Politico, led to Giorno being given sole responsibility for the Sunshine State.  As one campaign source told the Guardian: \u201cKaren is rightfully held in high regard [on the campaign]. She won Florida for us.\u201d The source noted that Giorno was not only well-connected and well-respected in the state but that she was \u201cclearly dedicated to Trump\u201d as well.  In a statement, Trump said \u201cRick Wiley was hired on a short-term basis as a consultant until the campaign was running full steam. It is now doing better than ever, we are leading in the polls, and we have many exciting events ready to go, far ahead of schedule, while Hillary continues her long, boring quest against Bernie. We would like to thank Rick for helping us during this transition period.\u201d The description of Wiley being on a short-term contract as a consultant didn\u2019t jibe with the campaign\u2019s announcement of his hiring less than six weeks ago. At the time, the campaign said Wiley would handle the real estate mogul\u2019s \u201cstatewide field operations\u201d and Trump touted him as \u201ca seasoned political expert with a very successful career in winning elections. He brings decades of experience, and his deep ties to political leaders and activists across the country will be a tremendous asset as we enter the final phase of securing the nomination.\u201d A campaign spokesperson did not respond to a request for clarification as to whether Wiley had been fired and, if he was on contract, when his contract would have expired.",
+  "webTitle": "Top Donald Trump staffer abruptly let go from campaign amid internal dispute",
+  "webPublicationDate": "2016-05-26T01:39:42Z",
+  "webUrl": "https://www.theguardian.com/us-news/2016/may/25/donald-trump-top-campaign-staff-rick-wiley-let-go",
+  "keyword": [
+    {
+      "webTitle": "Donald Trump",
+      "id": "us-news/donaldtrump",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US elections 2016",
+      "id": "us-news/us-elections-2016",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US politics",
+      "id": "us-news/us-politics",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Republicans",
+      "id": "us-news/republicans",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ben Jacobs",
+      "id": "profile/ben-jacobs"
+    }
+  ],
+  "guardianId": "us-news/2016/may/25/donald-trump-top-campaign-staff-rick-wiley-let-go"
+}

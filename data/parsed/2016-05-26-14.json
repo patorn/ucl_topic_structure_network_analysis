@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/26/facebook-microsoft-internet-cable-underwater",
+  "id": "2016-05-26-14",
+  "sectionId": "technology",
+  "body": "Facebook and Microsoft are going underwater.  The two technology companies announced on Thursday they are to install an undersea cable from the east coast of the US to Spain to help speed up their global internet services.  Fast connectivity is particularly important to Facebook, which wants to encourage users across the world to broadcast live video and meet in virtual reality. Both activities can consume vast amounts of bandwidth.  The project marks yet another example where technology companies are assuming roles traditionally left to public utilities or the government, and until now undersea cables have traditionally been laid by telecommunications incumbents. Meanwhile, Google continues to expand Fiber, its high-speed internet program, Amazon.com effectively is building its own postal service, Uber is attempting to replace regulated cab companies and Facebook is bringing wireless internet to Africa.    In effect, the companies will have their own private internet highway between two major markets    The cable will travel from northern Virginia in the US, a major junction point in the global internet, to Bilbao in Spain, and then onward to the rest of Europe, Africa, the Middle East and Asia. The companies said it will be highest-capacity undersea cable yet across the Atlantic. The cost wasn\u2019t disclosed.  An infrastructure-focused subsidiary of Telef\u00f3nica, the Spanish telecom provider, will manage the cable. Construction is scheduled to begin in August 2016 and be completed by October 2017.  Even though Telef\u00f3nica will sell access to the cable to other companies, Facebook and Microsoft are ensuring they will get premier access to quick data transfers across the sea. In effect, the companies will have their own private highway between two major markets.  There currently are more than a dozen undersea cables between America and Europe.  The decision for Facebook and Microsoft to build their own speaks to their vision for how much bandwidth they will need in the future. At Facebook\u2019s developer conference in San Francisco in April, executives showed how they envision two users on different continents meeting up virtually online using elaborate systems of headsets, cameras and other monitors. The experience will require an extraordinary amount of space on the internet\u2019s backbone. Facebook\u2019s ability to fund its own cable now is likely to help it maintain its market dominance in the future. While upstart virtual reality companies will have to buy space on others\u2019 undersea cables, Facebook simply will have its own.",
+  "webTitle": "Facebook and Microsoft to build private internet highway underwater",
+  "webPublicationDate": "2016-05-26T22:00:19Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/26/facebook-microsoft-internet-cable-underwater",
+  "keyword": [
+    {
+      "webTitle": "Internet",
+      "id": "technology/internet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Facebook",
+      "id": "technology/facebook",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Microsoft",
+      "id": "technology/microsoft",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Virtual reality",
+      "id": "technology/virtual-reality",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Danny Yadron",
+      "id": "profile/danny-yadron"
+    }
+  ],
+  "guardianId": "technology/2016/may/26/facebook-microsoft-internet-cable-underwater"
+}

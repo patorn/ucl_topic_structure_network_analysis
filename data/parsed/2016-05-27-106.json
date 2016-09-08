@@ -1,0 +1,37 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/27/kyary-pamyu-pamyus-playlist-ylvis-michael-jackson-marilyn-manson",
+  "id": "2016-05-27-106",
+  "sectionId": "music",
+  "body": "Ylvis \u2013 The Fox (What Does the Fox Say?) I recently found this track without knowing much about the artist and became hooked on the intro \u2013 it immediately takes you into the music. During the chorus, people start to dance in a strange way, and I really liked it! I might as well dance with them.              Michael Jackson \u2013 Smooth Criminal I started listening to Michael Jackson when I was in junior high. The video really surprised me, especially the bit when Michael tilts his body. I have not stopped enjoying it since then.              Marilyn Manson \u2013 mOBSCENE This video scared the young me so, so much. But as a young child, I just couldn\u2019t keep my eyes off it. Although my music is very different to Manson\u2019s, I have genuine respect for an artist like him who is so determined to create his or her own world through music and videos.              YELLE \u2013 Ce Jeu Yelle is one of my favourite artists. I love her music and videos \u2013 they represent her so well. They are simply fabulous. This video has a stripe theme \u2013 I\u2019m in love with its consistency and fashion.              Hikaru Utada \u2013 Traveling Hikaru Utada is a Japanese artist, and this video is a strong interpretation of the music. People living outside Japan will also enjoy her creativity. It\u2019s pop and yet a little bit dark and scary. I like the chemistry.            \u2022 Kyary Pamyu Pamyu performs at Koko, London, on 8 July.",
+  "webTitle": "Kyary Pamyu Pamyu\u2019s playlist: Ylvis, Michael Jackson, Marilyn Manson",
+  "webPublicationDate": "2016-05-27T15:07:30Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/27/kyary-pamyu-pamyus-playlist-ylvis-michael-jackson-marilyn-manson",
+  "keyword": [
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Pop and rock",
+      "id": "music/popandrock",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Dance music",
+      "id": "music/dance-music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    }
+  ],
+  "authors": [],
+  "guardianId": "music/2016/may/27/kyary-pamyu-pamyus-playlist-ylvis-michael-jackson-marilyn-manson"
+}

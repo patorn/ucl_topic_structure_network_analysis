@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/12/us-and-uk-urge-banks-to-do-business-with-iran",
+  "id": "2016-05-12-92",
+  "sectionId": "world",
+  "body": "An attempt by the US and UK governments to persuade European banks to do more business in Iran in the wake of last year\u2019s nuclear deal, appears to have fallen on deaf ears. Senior representatives from nine major banks listened on Thursday to appeals from the US secretary of state, John Kerry, and the British foreign secretary, Philip Hammond, urging them to help finance expanded trade with Iran following the lifting of sanctions under the agreement sealed in Vienna last July.  As its part of the bargain, Tehran dismantled much of the infrastructure of its nuclear programme, but the government of President Hassan Rouhani has come under intense pressure recently from Iranian hardliners as the economic benefits have failed to live up to expectations. But banking representatives said the verbal encouragement had done little to ease their concerns or clarify the continuing complexity and uncertainty surrounding trade with Iran. They pointed out that while Washington and Europe had lifted some sanctions, there was still a ban on the use of dollars in the US banking system to finance Iranian trade, and individual US states have defied the federal government on some sanctions relief. \u201cWhat we\u2019re trying to address is a gap between the undoubted political commitment of the US to make this agreement work in practice, to allow Iran to access the world\u2019s trade system and the world\u2019s finance system and the reality of what the European banks are finding in practice,\u201d Hammond said.  \u201cWe\u2019re trying to bridge that gap, we\u2019re trying to understand where the disconnects are between the political intention and the banking reality and work together to see how we can bridge them.\u201d  Kerry said he wanted to \u201cclarify and put to rest misinterpretations or mere rumours about how [the deal] is applied\u201d. The secretary of state said: \u201cWe want to make it clear that legitimate business, which is clear under the definition of the agreement, is available to banks. As long as they do their normal due diligence and know who they\u2019re dealing with, they\u2019re not going to be held to some undefined and inappropriate standard here.\u201d   Related: Was the Iran nuclear deal just a triumph of White House spin?    A British banking official said the meeting had gone \u201crelatively well\u201d but had not changed \u201cissues that have been of longstanding and major concern to the banking industry\u201d. He pointed to a lack of clarity on how federal and state governments apply the new regulations, and to the approaching US presidential elections in November. \u201cThat could change the approach, so there\u2019s a degree of caution,\u201d the official said.  One of the banks who took part in the meeting, Standard Chartered, made clear its position had not changed.  \u201cWe were happy to share the practical and legal considerations behind our stated position on Iran with the secretary of state and the foreign secretary at the meeting today: we will not accept any new clients who reside in Iran, or which are an entity owned or controlled by a person there, nor will we undertake any new transactions involving Iran or any party in Iran,\u201d a bank spokesman said.  Standard Chartered is currently facing fines for past activities alleged to have contravened the former sanctions.  \u201cWe continue to cooperate fully with the US authorities in their ongoing investigations. We remain unable to determine when these investigations will conclude or the size of any potential fines that might result,\u201d the spokesman said.",
+  "webTitle": "US and UK urge banks to do business with Iran",
+  "webPublicationDate": "2016-05-12T17:38:12Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/12/us-and-uk-urge-banks-to-do-business-with-iran",
+  "keyword": [
+    {
+      "webTitle": "Iran",
+      "id": "world/iran",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Middle East and North Africa",
+      "id": "world/middleeast",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Banking",
+      "id": "business/banking",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Julian Borger",
+      "id": "profile/julianborger"
+    }
+  ],
+  "guardianId": "world/2016/may/12/us-and-uk-urge-banks-to-do-business-with-iran"
+}

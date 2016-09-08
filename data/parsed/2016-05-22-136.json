@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/22/flexibility-new-injustice-inflicted-working-class-economic-growth",
+  "id": "2016-05-22-136",
+  "sectionId": "business",
+  "body": "The rise of Nigel Farage, Donald Trump and Marine Le Pen is often blamed on the angry, reaction of blue-collar workers to decades of falling living standards. The financial crash of 2008 only served to make the situation worse. And so the west finds itself in the grip of powerful protest movements that seek to brush aside failing, sclerotic institutions like the US congress and EU parliament in favour of more locally democratic administrations (or possibly right-of-centre governments with autocratic leaders). Yet the protest goes beyond a hard core of people who believe immigration has driven down their wages, filled their local school with children who can\u2019t speak English and denied them social housing. As a new documentary on release now shows, the pressures of modern work go well beyond the factory floor. The Divide reminds us of Richard Wilkinson and Kate Pickett\u2019s book The Spirit Level, which documents how those in better-off societies and better-off jobs are making themselves unhappy. Globalisation is to some extent at fault, though not necessarily in the way we previously thought. A recent study of US wages data found that despite China, Russia and the previously communist east European countries entering the global economy in the late 20th century, wages generally increased until the turn of the century and the first term of George W Bush\u2019s presidency. It was not until 2003 that most household incomes went into decline. So rather than the previous narrative of stagnant wages for three decades, it seems that the incomes of all but the lowest-skilled blue-collar workers followed a rising arc in the 1980s and 1990s before a sudden reversal soon after the year 2000. This more recent decline in incomes was matched by rising costs, in particular one cost that is deliberately not captured in official inflation figures: property. For most people, that is not an insignificant expense, and, as we know, house prices began to rise steeply from the late 1990s, pushing up monthly mortgage payments. From 2001 we saw a flurry of initiatives designed to deal with falling incomes and rising costs in a desperate attempt to maintain living standards. Labour\u2019s introduction of tax credits in 2003 was the main prop under household incomes, extending as it did to those earning up to \u00a360,000. But other ways to maintain incomes \u2013 for instance, flexible working \u2013 allowed parents to dovetail working hours to minimise childcare costs. Flexibility came in the form of self-employment, flexible rotas and, to a lesser extent, zero-hour contracts. Each of these has transformed the labour market. The numbers of those in self-employment, after decades hovering around the 3 million mark, began to increase in 2001. Now there are 4.6\u00a0million self-employed people and they account for 15% of the workforce. There is scant research into what the newly self-employed do. The Royal Society of Arts has reported that thousands are young digital entrepreneurs. Others have set themselves up as drivers delivering the ever-growing mountain of stuff bought online. To a greater or lesser extent, they are using the internet to start businesses and cut costs. Most recently we have seen this in the technology that allows an estimated 30,000 self-employed Uber drivers to ply London\u2019s roads. In the five years after the financial crash the majority of new jobs were part-time, temporary or self-employed. It wasn\u2019t until 2014 that full-time employment edged into the lead. We also see the search for cost-efficiency through flexibility in the public sector. What is the junior doctors\u2019 dispute if not a row about efficiency being put above the interests of family life? For years, the health service has maintained a low basic wage for Monday-to-Friday daytime working and higher rates for other times of the day and week to persuade staff to work unsociable hours. That\u2019s not enough any more, apparently: despite being highly coercive, it still gives the employee too much power. It is already common to find radiographers and phlebotomists on zero-hours contracts and tied to a bank of staff who must cater for a range of hospitals, minor injury units and GP practices. They sign up to monthly rotas and can\u2019t plan for a holiday or persuade a high street lender their work is secure enough to gain a mortgage. If the 1990s was characterised by increasing debt to fund a decent living, flexible working is the cancer eating away at 21st century workers. The defenders of flexible working argue that people like it. They are supported by surveys that show most appreciate being offered it. But as employment expert John Philpott points out, those who say they like zero-hours contracts are generally students and older workers, who have another income to fall back on. Even full-time workers say the flexibility they like does not come from draconian rota systems, but from time off to look after a sick child, and the opportunity to take leave or make up the hours another time. Working weekends and nights is rarely a pleasure. Regulators like the Bank of England are oblivious to the problems that are being stored up. Almost everyone on its interest-rate-setting committee believes that GDP growth will bring back permanent full-time employment. They should realise that, in an era of corporate anxiety and low investment, the trend will remain in the opposite direction.",
+  "webTitle": "Flexibility is the new injustice inflicted on the working class",
+  "webPublicationDate": "2016-05-22T08:00:37Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/22/flexibility-new-injustice-inflicted-working-class-economic-growth",
+  "keyword": [
+    {
+      "webTitle": "Economic growth (GDP)",
+      "id": "business/economicgrowth",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Zero-hours contracts",
+      "id": "uk-news/zero-hours-contracts",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Unemployment",
+      "id": "society/unemployment",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Phillip Inman",
+      "id": "profile/phillipinman"
+    }
+  ],
+  "guardianId": "business/2016/may/22/flexibility-new-injustice-inflicted-working-class-economic-growth"
+}

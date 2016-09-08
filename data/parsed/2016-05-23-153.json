@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/23/is-your-family-at-war-over-the-eu-referendum",
+  "id": "2016-05-23-153",
+  "sectionId": "politics",
+  "body": "With just over a week to go, we\u2019ve been hearing from readers about how the EU referendum debate is affecting their own familial relationships - with siblings, partners, parents, and grandparents.  Do you disagree with your nearest and dearest on this crucial issue? Perhaps you\u2019re no longer on speaking terms with your parents because of their pro (or anti) Brexit stance. Maybe family meals are strained, awkward affairs* because your son is vocally opposed to Britain remaining in Europe and your daughter can barely hide her contempt. Or perhaps you\u2019re all getting on fine, because politics isn\u2019t something you readily discuss in the open, like most things. If you\u2019re happy telling the Guardian how the referendum has affected your relationship with your family, we want to hear from you. You can share your views in the form below - we\u2019ll put together an article of the most interesting stories. *more than usual, we mean",
+  "webTitle": "Is your family at war over the EU referendum?",
+  "webPublicationDate": "2016-05-23T14:07:15Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/23/is-your-family-at-war-over-the-eu-referendum",
+  "keyword": [
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "James Walsh",
+      "id": "profile/james-walsh"
+    }
+  ],
+  "guardianId": "politics/2016/may/23/is-your-family-at-war-over-the-eu-referendum"
+}

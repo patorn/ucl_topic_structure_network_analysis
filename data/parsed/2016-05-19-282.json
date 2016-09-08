@@ -1,0 +1,114 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/marketforceslive/2016/may/19/ftse-falls-on-us-rate-rise-hints-with-mining-shares-down-but-banks-higher",
+  "id": "2016-05-19-282",
+  "sectionId": "business",
+  "body": "The market is caught in a two way pull, with banking shares moving higher but commodity companies on the slide. It is the prospect of a US rate rise next month, as suggested by the minutes of the last Federal Reserve meeting released on Wednesday, which is responsible for both trends. Banks are buoyed by the idea that higher rates will bring some relief to their balance sheets, but mining companies are being hit by the prospect that a dearer dollar will push down commodity prices and also possibly curb economic growth. Among the risers Standard Chartered is up 16p at 536p, Barclays is 4.45p better at 174.85p and Royal Bank of Scotland has risen 5.9p to 229.6p. HSBC is 3p higher at 438.5p despite its shares going ex-dividend. Still with financials, RSA Insurance is 8.5p higher at 487.3p after analysts at JP Morgan moved from neutral to overweight with a target price raised from 448p to 550p. But mining shares account for six of the top ten FTSE 100 fallers, with Fresnillo falling 71p to \u00a310.73 and Anglo American 33p lower at 573.1p. Royal Dutch Shell B shares are down 66p at \u00a316.75 after going ex-div while Provident Financial is 107p lower at \u00a327.63. A disappointing update from Royal Mail has left its shares 21.8p lower at 486.2p, with theme park specialist Merlin is down 15.9p at 415.5p after saying the London market remained challenging. Overall the FTSE 100 has fallen 71.14 points to 6094.66, knocked by the US rate news and concerns following the missing EgyptAir flight. Holiday companies have also come under pressure after a poor update from Thomas Cook, down 17% at 74.4p. Peer Tui is 29p lower at \u00a310.04. Tony Cross, market analyst at Trustnet Direct, said:  The FTSE-100 is sporting some notable losses in early trade with concern over the disappearance of that Egyptian airliner overnight compounding an already downbeat market which last night was left weighing up the prospect of another US interest rate hike being seen as soon as next month. Commodity stocks have been left languishing once again as although we\u2019ve only seen a muted reaction from the dollar so far, further appreciation for the greenback would serve to depress global demand for resources. Only a handful of stocks are finding positive territory this morning with the banking and insurance sectors being in favour as the prospect of interest rate hikes is certainly something worth cheering here.   Among the mid caps Mitchells & Butlers has risen 6p to 283.2p after its update. In a buy note, Stifel said:  Interim results [were] slightly ahead of expectations; shares offer material upside on recovery grounds. Like-for-like sales declined by 1.6%, but due to improved margins, EBIT increased by 2%, with pre-tax profits up 9%.",
+  "webTitle": "FTSE falls on US rate rise hints, with mining shares down but banks higher",
+  "webPublicationDate": "2016-05-19T08:40:30Z",
+  "webUrl": "https://www.theguardian.com/business/marketforceslive/2016/may/19/ftse-falls-on-us-rate-rise-hints-with-mining-shares-down-but-banks-higher",
+  "keyword": [
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Stock markets",
+      "id": "business/stock-markets",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Standard Chartered",
+      "id": "business/standardchartered",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Barclays",
+      "id": "business/barclay",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Royal Bank of Scotland",
+      "id": "business/royalbankofscotlandgroup",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "HSBC",
+      "id": "business/hsbcholdings",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "RSA Insurance",
+      "id": "business/royalandsunallianceinsurancegroup",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Fresnillo",
+      "id": "business/fresnillo",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Anglo American",
+      "id": "business/anglo-american",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Royal Dutch Shell",
+      "id": "business/royaldutchshell",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Provident Financial",
+      "id": "business/providentfinancial",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Royal Mail",
+      "id": "business/royal-mail",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Merlin Entertainments",
+      "id": "business/merlin-entertainments",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Thomas Cook",
+      "id": "business/thomascookgroup",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Tui Travel",
+      "id": "business/tuitravel",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Mitchells & Butlers",
+      "id": "business/mitchellsandbutlers",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Nick Fletcher",
+      "id": "profile/nickfletcher"
+    }
+  ],
+  "guardianId": "business/marketforceslive/2016/may/19/ftse-falls-on-us-rate-rise-hints-with-mining-shares-down-but-banks-higher"
+}

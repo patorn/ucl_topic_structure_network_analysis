@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/06/liverpool-fans-allocated-europa-league-final",
+  "id": "2016-05-06-288",
+  "sectionId": "football",
+  "body": "Liverpool fans have criticised the decision to hold the Europa League final at the home of Swiss champions Basel, with the club allocated only 10,236 tickets for the game against Sevilla. After J\u00fcrgen Klopp\u2019s side booked their place in the final with a 3-1 aggregate win over Villarreal on Thursday, Uefa confirmed their allocation for the match on 18 May at St Jakob-Park would be 47% of the 35,000 capacity. The remaining tickets are divided between a \u201ccontractual supporter allocation\u201d of 41%, which includes seasonal hospitality members and priority rights holders (former shareholders), 10% to matchday officials and players plus a final 2% to contractual partners.   Related: J\u00fcrgen Klopp advises Liverpool fans without tickets to head to Basel    Liverpool have 27,000 season ticket holders and took 32,000 to the Capital One Cup final in February. Earlier in the season, supporters\u2019 group Spirit of Shankly wrote to Uefa to express their disappointment at the decision to hold the match in such a small stadium but \u201creceived a disappointing reply\u201d. \u201cIt is crystal clear this amount tickets will not be enough to satisfy demand at Basel\u2019s St Jakob-Park Stadium. Tens of thousands of supporters will have attended every home game this season and a large number will miss out,\u201d read a statement on their website. \u201cGiven the poor choice of location of the final, even though it is easily accessible, supporters will struggle to find accommodation (most hotel rooms are booked already) and there is little in the way of transport out of the city after the match (there are no trains after midnight to the nearest city of Mulhouse, or to elsewhere in Switzerland). These would be issues that affect all supporters who could be faced with a final in Basel. \u201cWe do, therefore, join the club in urging fans against making plans to avoid disappointment. Whilst it is not our place to tell supporters what to do, it is pretty clear Basel is not best equipped to deal with such large numbers that we have witnessed in previous years.\u201d Uefa has since advised Liverpool supporters who will travel to Switzerland without a ticket to stay away from the stadium. \u201cWe advise anyone without tickets not to approach the stadium on the day of the final since safety and security measures will be very tight,\u201d read a statement. \u201cThe stadium perimeter will be reinforced in order to guarantee safe and secure entrance for all ticket holders.\u201d",
+  "webTitle": "Liverpool fans allocated only 10,236 tickets for Europa League final",
+  "webPublicationDate": "2016-05-06T08:15:34Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/06/liverpool-fans-allocated-europa-league-final",
+  "keyword": [
+    {
+      "webTitle": "Liverpool",
+      "id": "football/liverpool",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Europa League",
+      "id": "football/uefa-europa-league",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sevilla",
+      "id": "football/sevilla",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Uefa",
+      "id": "football/uefa",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "football/2016/may/06/liverpool-fans-allocated-europa-league-final"
+}

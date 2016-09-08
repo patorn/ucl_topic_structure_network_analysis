@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/19/ziggy-marley-review-reggae-tuff-gong",
+  "id": "2016-05-19-67",
+  "sectionId": "music",
+  "body": "Ziggy Marley\u2019s eponymous sixth solo album picks up where 2014\u2019s Fly Rasta left off: it\u2019s another album of lilting tunes and messages of love and togetherness. Marley\u2019s songs work best when they tilt towards the pop side of the pop-reggae equation, such as when acoustic guitars flutter prettily on Heaven Can\u2019t Take It, featuring his brother Stephen Marley. Apart from Marijuanaman, on which he urges politicians to smoke dope, it\u2019s hard to argue with the views expressed in Ziggy\u2019s lyrics. \u201cMoney don\u2019t make the world a better place,\u201d Marley opines on We Are More. \u201cPut your weapons down,\u201d he implores on Better Together, one of several songs about war, which he opposes. Best of all, \u201cWe are the people,\u201d he sings on We Are the People, adding, for the sake of clarity: \u201cnot donkeys and elephants\u201d. It\u2019s rooted so firmly within his comfort zone that when he sings about revolution on Start It Up, it\u2019s more eyebrow-raising than consciousness-raising.",
+  "webTitle": "Ziggy Marley: Ziggy Marley review \u2013 reggae-pop with a gift for stating the obvious",
+  "webPublicationDate": "2016-05-19T18:15:18Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/19/ziggy-marley-review-reggae-tuff-gong",
+  "keyword": [
+    {
+      "webTitle": "Reggae",
+      "id": "music/reggae",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Pop and rock",
+      "id": "music/popandrock",
+      "sectionId": "music",
+      "sectionName": "Music"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jon Dennis",
+      "id": "profile/jondennis"
+    }
+  ],
+  "guardianId": "music/2016/may/19/ziggy-marley-review-reggae-tuff-gong"
+}

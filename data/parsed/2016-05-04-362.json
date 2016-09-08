@@ -1,0 +1,43 @@
+{
+  "apiUrl": "https://content.guardianapis.com/us-news/2016/may/03/islamic-state-militants-kill-us-navy-seal-in-iraq",
+  "id": "2016-05-04-362",
+  "sectionId": "us-news",
+  "body": "Islamic State militants killed a US Navy Seal in northern Iraq on Tuesday, after blasting through Kurdish defenses and overrunning a town in the biggest offensive in the area for months, officials said.  The elite serviceman was the third American to be killed in direct combat since a US-led coalition launched a campaign in 2014 to \u201cdegrade and destroy\u201d Islamic State and is a measure of its deepening involvement in the conflict.  \u201cIt is a combat death, of course, and a very sad loss,\u201d the US defense secretary, Ash Carter, told reporters during a trip to Germany. The Seals are considered to be among the most able US special operations forces and capable of taking on dangerous missions.  Governor Doug Ducey of Arizona identified the slain serviceman as Charlie Keating IV, and said Keating had attended high school in Phoenix. Keating\u2019s grandfather, Charles H Keating Jr, who died in 2014 at age 90, was the notorious financier who served prison time for his role in the costliest savings and loan failure of the 1980s. A senior official within the Kurdish peshmerga forces facing Islamic State in northern Iraq said the man had been killed near the town of Tel Asqof, around 28km (17 miles) from the militant stronghold of Mosul.  The Islamic State insurgents occupied the town at dawn on Tuesday but were driven out later in the day by the peshmerga. A US military official said the coalition had helped the peshmerga by conducting more than 20 air strikes with F-15 jets and drones.  The official, speaking on condition of anonymity, said the Navy Seal was killed \u201cby direct fire\u201d while on a mission to advise and assist local forces in Iraq.  Carter\u2019s spokesman, Peter Cook, said the incident took place during an Islamic State attack on a peshmerga position some 3-5km behind the forward line. Underscoring the complicated nature of the US role in Iraq, the White House told reporters that even though the serviceman died in a combat situation, he was not on a combat mission.  \u201cHe was not on the frontlines. But he was two miles away, and it turns out that being two miles away from the frontlines between Iraqi forces and Isil is a very dangerous place to be,\u201d said the White House spokesman, Josh Earnest, using an acronym for Islamic State.",
+  "webTitle": "US Navy Seal killed by Isis in Iraq named as Charlie Keating IV",
+  "webPublicationDate": "2016-05-04T02:54:58Z",
+  "webUrl": "https://www.theguardian.com/us-news/2016/may/03/islamic-state-militants-kill-us-navy-seal-in-iraq",
+  "keyword": [
+    {
+      "webTitle": "US military",
+      "id": "us-news/us-military",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Iraq",
+      "id": "world/iraq",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Islamic State",
+      "id": "world/isis",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [],
+  "guardianId": "us-news/2016/may/03/islamic-state-militants-kill-us-navy-seal-in-iraq"
+}

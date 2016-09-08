@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/26/dmgt-print-ads-daily-mail-mail-online-metro",
+  "id": "2016-05-26-296",
+  "sectionId": "media",
+  "body": "The owner of the Daily Mail has issued a warning to investors after reporting a 29% fall in profits, driven by a double-digit decline in print advertising, at its newspaper operation in the six months to the end of March. Daily Mail & General Trust, the parent company of the Daily Mail and Mail Online, said that overall financial results for the business are \u201cbroadly in line with expectations\u201d.  However, investors took fright at the performance of the newspaper operation sending DMGT\u2019s share price down 9% in trading on Thursday morning. The company issued a warning to investors downgrading the performance of DMG Media, the division that houses the Daily Mail, Mail Online and freesheet Metro, which will miss its full-year targets.   Related: DMGT appoints Paul Zwillenberg as chief executive    DMGT said that print ad revenues across all its titles declined 13% in the six months to the end of March and, worryingly for investors, worsened to 15% in the first quarter of this year. The Daily Mail and Mail on Sunday alone saw print revenues fall 16% in the six months to the end of March. Total revenues at the Daily Mail and Mail on Sunday fell 7% in the six months to the end of March from \u00a3260m to \u00a3242m. Digital advertising grew strongly in the six months to the end of March, up 23% on an underlying basis with total revenues at Mail Online climbing to \u00a344m, helping to limit the overall ad revenue decline to 4%. The continuing tough market for newspaper led DMGT to warn investors that it will miss its stated 13% operating margin target for DMG Media this year that it set in November, instead expecting it to fall to 10%. \u201cDMGT\u2019s performance in the first half was broadly in line with our expectations, other than the further deterioration in the UK print advertising market which impacted dmg media\u2019s results,\u201d said chief executive Martin Morgan.  \u201cThe reduced print advertising revenues had an adverse impact on DMG Media\u2019s operating profits.\u201d Morgan is to retire from the company after 27 years, the last eight as chief executive, at the end of the month to be replaced by senior Boston Consulting Group executive Paul Zwillenberg.",
+  "webTitle": "DMGT issues profit warning after double-digit fall in print ads",
+  "webPublicationDate": "2016-05-26T07:11:33Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/26/dmgt-print-ads-daily-mail-mail-online-metro",
+  "keyword": [
+    {
+      "webTitle": "Daily Mail & General Trust",
+      "id": "media/dmgt",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Daily Mail",
+      "id": "media/dailymail",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "National newspapers",
+      "id": "media/national-newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers",
+      "id": "media/newspapers",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers & magazines",
+      "id": "media/pressandpublishing",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media business",
+      "id": "media/mediabusiness",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Daily Mail & General Trust",
+      "id": "business/dailymailgeneraltrust",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Mark Sweney",
+      "id": "profile/marksweney"
+    }
+  ],
+  "guardianId": "media/2016/may/26/dmgt-print-ads-daily-mail-mail-online-metro"
+}

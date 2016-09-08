@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/world/2016/may/05/belgian-police-car-chase-leads-to-pile-up-on-french-motorway",
+  "id": "2016-05-05-174",
+  "sectionId": "world",
+  "body": "Belgian police opened fire during a cross-border chase with suspected people smugglers driving a car with a British number plate, resulting in a pile-up on a motorway in northern France. At about 5am on Thursday, a lorry driver in Belgium called local police saying that smugglers had tried to get 17 people into his truck and that he and other drivers had been threatened with a knife, the French paper La Voix du Nord reported.  When police intervened, the suspects sped off by car, first hitting a Belgian police car, then heading on the motorway towards northern France. Belgian police gave chase and opened fire on the car, a British-registered Audi, which reportedly raced into northern France at about 124mph (200km/h)   Map   Witnesses told radio station France Bleu the car\u2019s tyres had been blown out and that in the end it was running on its wheel rims.  The car came to a stop, causing a pile-up of about six vehicles on the A16 near Dunkirk. At least two people in the car were seriously injured and were treated in hospital in Lille. Four people were reportedly hurt in total. The pile-up caused miles-long queues of traffic, and a Dutch motorcyclist died when he crashed into a stationary lorry. Part of the motorway was closed for several hours on Thursday morning. The Dunkirk authorities have not issued a statement. La Voix du Nord said the men in the car were Iraqi nationals. This has not been confirmed by authorities.",
+  "webTitle": "Pile-up on French road after 'people smugglers' shot at in police chase",
+  "webPublicationDate": "2016-05-05T13:33:04Z",
+  "webUrl": "https://www.theguardian.com/world/2016/may/05/belgian-police-car-chase-leads-to-pile-up-on-french-motorway",
+  "keyword": [
+    {
+      "webTitle": "France",
+      "id": "world/france",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Belgium",
+      "id": "world/belgium",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Road transport",
+      "id": "world/road-transport",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Migration",
+      "id": "world/migration",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Angelique Chrisafis",
+      "id": "profile/angeliquechrisafis"
+    }
+  ],
+  "guardianId": "world/2016/may/05/belgian-police-car-chase-leads-to-pile-up-on-french-motorway"
+}

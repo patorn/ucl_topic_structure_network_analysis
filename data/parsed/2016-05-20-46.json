@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/commentisfree/2016/may/20/the-guardian-view-on-nhs-finances-even-the-fantasy-figures-look-bad",
+  "id": "2016-05-20-46",
+  "sectionId": "commentisfree",
+  "body": "Iain Duncan Smith made very sure that the most memorable item in George Osborne\u2019s budget this year was the abortive cuts for disabled people\u2019s benefits. But before the quiet man\u2019s high-volume resignation, the immediate charge laid against the chancellor concerned the dodgy accounting that he used to claim that he was on course to hit a fiscal surplus in a few years\u2019 time. This is an increasingly unrealistic ambition of choice, but because of Mr Osborne\u2019s ludicrous decision to write it into a supposedly binding law, he has at least to pretend that he remains serious about it. To do so, he rejigged the dates on which corporation tax receipts were scored, flattering the books in the very year that his rule is to be assessed. Such is the shonkery on which Mr Osborne\u2019s vaunted \u201clong-term economic plan\u201d rests, and now there are frightening signs that the Arfur Daley school of accounting has been let loose on the National Health Service too. The deficits notched up by NHS hospitals and other providers in 2015-16, revealed yesterday as having reached \u00a32.5bn, are scary enough in themselves, exceeding even those overdrafts which the Department of Health had only recently resigned itself to expect. The really frightening thing about the figures, however, is the way in which they had to be massaged to avoid being even worse. Capital budgets for planned, and sometimes overdue, building and repair were systematically raided, to top up the revenues available for day-to-day spending. That was the single biggest chunk of the official \u201cimprovement\u201d, as measured against some alarming counterfactual rather than anything real. Most of the rest came from measures blandly described as \u201cother\u201d, a term which cloaks such officially encouraged or at least tolerated tricks as reclaiming VAT rebates early, so as to scoop five quarters of money in one year at the cost of a hit down the road. We are, then, at a pass where it is extremely difficult to know exactly how bad the NHS\u2019s finances are, or to compare them sensibly with earlier years. It is, however, possible to be confident that the result will be a further hit to hospitals\u2019 books in the current and future years, as various wheezes unravel. The standard claims about \u201ca rise in real-terms funding each and every year\u201d will need to be scrutinised even more sceptically than usual, to adjust not only for such pressures as ageing and population growth, but also the costs of muddling through on increasingly derelict wards while living on the never-never. Whitehall\u2019s preferred account at the moment stresses spending on agency staff, which is \u2013 conveniently \u2013 of the same magnitude as the overspend. It can and probably should be managed down, but it does not really explain most of the deficit, and could only be reduced to zero if there were an appetite for committing to a significant increase in permanent NHS staff, which of course would carry financial implications of its own. In the end, the choice will have to be between another late bailout from Treasury funds, an intensification of the rationing of access which is already evident in rising waiting times, or a diminution of quality, for example by allowing some slippage against the strictures on staffing which were introduced after the deadly scandal at Mid-Staffs. Or, perhaps most likely, by some mix of all three. A less-noticed consequence of the big squeeze is the slow upending of every principle avowed by every NHS \u201creformer\u201d, from Tony Blair to Andrew Lansley. Foundation trusts were meant to be islands of autonomy in a new healthcare economy, free to experiment, invest and \u2013 eventually \u2013 go bust and be replaced by superior rivals. The unfolding reality is, instead, of in-hock hospitals approaching the exchequer as supplicants, eeking out another quarter of forbearance in return for adhesion to increasingly strict central controls. Hard times have exposed the age-old hard choices for the NHS, and left dreams of a self-regulating service, governed only by patient choices and never political whim, in tatters. Instead, Whitehall is administering a very traditional dose of command and control.",
+  "webTitle": "The Guardian view on NHS finances: even the fantasy figures look bad | Editorial",
+  "webPublicationDate": "2016-05-20T17:57:41Z",
+  "webUrl": "https://www.theguardian.com/commentisfree/2016/may/20/the-guardian-view-on-nhs-finances-even-the-fantasy-figures-look-bad",
+  "keyword": [
+    {
+      "webTitle": "NHS",
+      "id": "society/nhs",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Hospitals",
+      "id": "society/hospitals",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "George Osborne",
+      "id": "politics/georgeosborne",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Budget",
+      "id": "uk/budget",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Editorial",
+      "id": "profile/editorial"
+    }
+  ],
+  "guardianId": "commentisfree/2016/may/20/the-guardian-view-on-nhs-finances-even-the-fantasy-figures-look-bad"
+}

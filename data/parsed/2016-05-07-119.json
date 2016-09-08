@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/06/radiohead-confirm-new-album-daydreaming-released-sunday",
+  "id": "2016-05-07-119",
+  "sectionId": "music",
+  "body": "Radiohead\u2019s ninth album, which does not yet have a title, will be released at 7pm BST on 8 May, via XL Records.The Oxford group announced the news alongside a new track called Daydreaming.    Related: Like Radiohead's Burn the Witch? Try Jonny Greenwood\u2019s orchestral work    A more ambient, contemplative and euphoric sound compared to the \u201cburst of taut, tense music, driven by pizzicato strings\u201d that filled first track Burn the Witch, Daydreaming comes with a video directed by Paul Thomas Anderson. In it, frontman Thom Yorke walks through a series of eerie spaces: a hotel corridor, an empty home, a hospital, a shop floor, a forest, a snowy mountain, a beach and a vacant car park. It loops and shifts as if trapped inside a dreamlike state until Yorke\u2019s journey ends, curled up in a mountain cave; Jonny Greenwood\u2019s lush orchestration adding to its cinematic suspense.            Radiohead\u2019s last album release was 2011\u2019s The King of Limbs. In between albums, the group\u2019s members have concentrated on solo projects: Drummer Phil Selway released his second solo album, Weatherhouse, in 2014, while Yorke toured and recorded with Flea, Nigel Godrich, Joey Waronker and Mauro Refosco on the Atoms for Peace project. His solo album, Tomorrow\u2019s Modern Boxes, was released in 2014.      Radiohead in 2016 Photograph: PR Company Handout    Guitarist and keyboardist Jonny Greenwood meanwhile worked on scores of films,many of which have been directed by Anderson. He has also worked with a number of classical musicians, most notably the London Contemporary Orchestra - both his film soundtracks and orchestral work are evident in these two new tracks.  The album will be released in physical formats from 17 June. The group perform a series of live dates in Amsterdam, Paris, London, New York, Los Angeles and Mexico City between May and October, in addition to festivals in Lyon, Barcelona, Reykjavik, St Gallen, Lisbon, Montreal, Osaka, Tokyo and Berlin.",
+  "webTitle": "Radiohead's new album to be released on Sunday",
+  "webPublicationDate": "2016-05-07T10:06:06Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/06/radiohead-confirm-new-album-daydreaming-released-sunday",
+  "keyword": [
+    {
+      "webTitle": "Radiohead",
+      "id": "music/radiohead",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Indie",
+      "id": "music/indie",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Pop and rock",
+      "id": "music/popandrock",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Harriet Gibsone",
+      "id": "profile/harriet-gibsone"
+    }
+  ],
+  "guardianId": "music/2016/may/06/radiohead-confirm-new-album-daydreaming-released-sunday"
+}

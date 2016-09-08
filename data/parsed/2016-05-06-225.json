@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/06/airbnb-racism-civil-rights-laws-sharing-economy",
+  "id": "2016-05-06-225",
+  "sectionId": "technology",
+  "body": "The four black students who sat down at a white\u2019s only lunch counter at a Woolworth\u2019s in Greensboro, North Carolina, in 1960 catalyzed a nationwide protest movement that led, eventually, to the passage of the Civil Rights Act of 1964: landmark legislation that outlawed racial discrimination in public accommodations \u2013 restaurants, stores, hotels, and other businesses.  Fifty years later, however, the segregated lunch counter is making a stealthy comeback, thanks to the innovations (and regressions) of what has become known as the sharing economy.  A 2015 study by researchers at Harvard Business School found evidence of \u201cwidespread discrimination against African-American guests\u201d by Airbnb hosts, and many black Twitter users have begun sharing their experiences of rejection on the short-term rental platform using the hashtag #AirbnbWhileBlack.  For many, Airbnb serves as a functional equivalent to a hotel, but the startup \u2013 and other similar internet marketplaces \u2013 exist in a grey area, potentially beyond the reach of the hard-won reforms of the civil rights movement.   Related: Airbnb's controversial deal with labor union falls apart after intense backlash    \u201cWhat Airbnb and many other sharing economy businesses are doing is ... moving hundreds of thousands of transactions out of the realm where they are unquestionably governed by public accommodations laws and into a realm where the legality is at best unclear,\u201d says Nancy Leong, a law professor at the University of Denver who examines how civil rights legislation applies to companies like Airbnb in the Georgetown Law Journal.  That legal ambiguity mirrors other regulatory debates that have arisen in the world of startups operating on the ethos that it is better to ask for forgiveness than permission.   But while pesky and inefficient laws about taxi medallions or residential zoning may seem worth ignoring, the laws that brought an end to the era of Jim Crow are not a politically feasible target for disruption. (Republican presidential candidate Senator Rand Paul has been dogged for years by comments he made in 2010 questioning whether the Civil Rights Act should apply to private enterprises.)     Airbnb\u2019s policy clearly places the burden of compliance with civil rights laws on individual hosts    According to its anti-discrimination policy, Airbnb \u201crequire[s] all users to comply with local laws and regulations\u201d, including federal anti-discrimination law. The company also requests that users report instances of discrimination. \u201cIf we learn about violations of our policy we take action,\u201d said Airbnb spokesman Nick Papas in a statement. \u201cWe recognize that bias and discrimination present significant challenges for everyone, we are taking steps to address these issues and we welcome the opportunity to work with anyone that can help us reduce potential discrimination in the Airbnb community.\u201d Papas did not respond to requests for information about what the company\u2019s \u201caction\u201d entails, how many complaints about discrimination the company has received, and how many listings it has taken action against.  Airbnb\u2019s policy clearly places the burden of compliance with civil rights laws on individual hosts, however, and many if not most of them are likely exempt from Title II of the Civil Rights Act of 1964, which does not apply to people renting fewer than five rooms in their own home.  \u201cAll of the laws that were written in the Great Depression era and the civil rights era were written with a particular sort of society in mind,\u201d says Veena Dubal, a professor of law at the University of California, Hastings. \u201cNow everything looks so different.\u201d  So \u201ceven though the intent [of the law] is there,\u201d she says, it\u2019s difficult to make 20th century statutes apply to 21st century corporations, which use \u201ccreative corporate structuring to evade the law\u2019s protections, so that you\u2019re back in an exploitative place that existed before the laws were written.\u201d  One solution to the legal quandary would be to consider Airbnb itself as a public accommodation, rather than as a conduit for two million individual public accommodations. The US attorney general could then bring an enforcement action against Airbnb under Title II, Leong says, or black Airbnb users could attempt to bring a class action suit against the company. David B Oppenheimer, a professor at UC Berkeley who specializes in discrimination law, does not like Airbnb\u2019s chances in such a suit.  \u201cIf I were betting on the outcome of a racial discrimination case against AirBnB renters relying on an exemption from the fair housing laws, I\u2019d bet against them,\u201d he says. Leong suggests that Airbnb could be found liable if a plaintiff could show that is practices caused hosts to discriminate, saying: \u201cMy view is that there is a colorable argument that features of the platform, such as encouraging users to post pictures of themselves and use their real first names, are actions by Airbnb that increase the likelihood of discrimination.\u201d   Related: The dark side of Uber: why the sharing economy needs tougher rules | Greg Jericho    \u201cThere are definitely ways to use the existing civil rights laws to hold Airbnb accountable, but you have to have the political will,\u201d Dubal says. \u201cYou have to find someone in the [civil rights division of the Department of Justice] that\u2019s willing to go out on a limb.\u201d The Department of Justice did not immediately respond to inquiries.  Lawsuits would have to make their way slowly through the courts. Another option would be updating the laws themselves.  \u201cIf the [public accommodation] statute could be updated quickly to cover sharing-economy businesses that are the functional equivalent of traditional-economy businesses, then it would save a lot of time,\u201d Leong says. Leong worries that our acceptance of discrimination on platforms like Airbnb is indicative of a broader trend in US public opinion.  \u201cIn some ways the peer-to-peer economy reinforces the increasingly popular view among some people that they are entitled to discriminate in their personal business dealings,\u201d she says, citing examples such as bakeries that refuse to sell wedding cakes to same-sex couples or restaurants that turn away Muslims.  Acceptance of such behavior would constitute a major setback for social progress.  \u201cDiscrimination by private actors isn\u2019t really private,\u201d she says. \u201cIf it occurs frequently enough it limits the ability of some groups to live their lives out in public with the same freedom other groups enjoy.\u201d",
+  "webTitle": "Airbnb: how US civil rights laws allow racial discrimination on the site",
+  "webPublicationDate": "2016-05-06T11:00:24Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/06/airbnb-racism-civil-rights-laws-sharing-economy",
+  "keyword": [
+    {
+      "webTitle": "Airbnb",
+      "id": "technology/airbnb",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology startups",
+      "id": "technology/startups",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "San Francisco",
+      "id": "us-news/san-francisco",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Civil rights movement",
+      "id": "world/civil-rights-movement",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Race issues",
+      "id": "world/race",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Julia Carrie Wong",
+      "id": "profile/julia-carrie-wong"
+    }
+  ],
+  "guardianId": "technology/2016/may/06/airbnb-racism-civil-rights-laws-sharing-economy"
+}

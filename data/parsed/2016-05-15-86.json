@@ -1,0 +1,24 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/15/letter-tony-cozier",
+  "id": "2016-05-15-86",
+  "sectionId": "sport",
+  "body": "Tony Cozier was as quick on the back foot as any of the batsmen he admired. Once, in Australia for the Melbourne Test, the cricket press corps was housed at the same hotel as Elton John, a great lover of cricket \u2013 he apparently planned Australian city gigs so as to allow him to attend Test matches. The day before the Melbourne Test, TC was in the hotel lift, going up. He and another commentator were chatting when the lift stopped and Elton John got in. The lift fell totally silent, as it would. After a couple of floors, TC was asked what he would do if he won the next day\u2019s toss. The moment he began to answer, Elton John spun around, jabbed his finger in TC\u2019s chest and said: \u201cI would know that voice anywhere! You are Tony Cozier!\u201d TC replied: \u201cAnd I would know that voice anywhere! You are Elton John!\u201d",
+  "webTitle": "Letter: Going up with Tony Cozier",
+  "webPublicationDate": "2016-05-15T15:01:03Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/15/letter-tony-cozier",
+  "keyword": [
+    {
+      "webTitle": "Cricket",
+      "id": "sport/cricket",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "BC Pires",
+      "id": "profile/bc-pires"
+    }
+  ],
+  "guardianId": "sport/2016/may/15/letter-tony-cozier"
+}

@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/16/jozy-altidore-copa-america-hamstring-injury-usa-soccer",
+  "id": "2016-05-16-49",
+  "sectionId": "football",
+  "body": "The US will have to do without one of their most experienced players for next month\u2019s Copa America after it was confirmed Jozy Altidore will miss the tournament with a hamstring injury.   Related: Copa America: Klinsmann names Pulisic and Morris in 40-man US roster    Altidore\u2019s club, Toronto FC, confirmed the forward will miss six to eight weeks after he strained his hamstring during Saturday\u2019s match against the Vancouver Whitecaps. USA kick off their Copa America campaign against Colombia on 3 June in Santa Clara, California. The final will take place on 26 June.    NEWS: Jozy Altidore Out 6-8 weeks with hamstring injury. https://t.co/kLEhVu0xvu pic.twitter.com/dapN2MXNpn\u2014 Toronto FC (@torontofc) May 16, 2016    Altidore was named in J\u00fcrgen Klinsmann\u2019s provisional 40-man squad for the tournament. That group will be cut down to 23 on Friday, and Altidore\u2019s absence means it is more likely that talented young players such as Jordan Morris and Christian Pulisic will make the final group.  USA face a tough task to get out of their group: as well as Colombia, who are ranked No4 in the world, they face Costa Rica (25) and (39).  Altidore played for USA at the 2014 World Cup but his tournament was cut short after he was injured in the Americans\u2019 opener against Ghana. He has scored 34 goals in 93 appearances for his country.",
+  "webTitle": "Jozy Altidore to miss Copa Am\u00e9rica with hamstring injury",
+  "webPublicationDate": "2016-05-16T20:14:20Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/16/jozy-altidore-copa-america-hamstring-injury-usa-soccer",
+  "keyword": [
+    {
+      "webTitle": "USA",
+      "id": "football/usfootballteam",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Copa Am\u00e9rica",
+      "id": "football/copa-america",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "US sports",
+      "id": "sport/us-sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Toronto FC",
+      "id": "football/torontofc",
+      "sectionId": "football",
+      "sectionName": "Football"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "football/2016/may/16/jozy-altidore-copa-america-hamstring-injury-usa-soccer"
+}

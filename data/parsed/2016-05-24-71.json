@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/24/buffalo-bills-doug-whaley-nfl-violent-concussion",
+  "id": "2016-05-24-71",
+  "sectionId": "sport",
+  "body": "If the Buffalo Bills general manager Doug Whaley feels good about helping to put his players on the field every week during the NFL season he has a funny way of showing it. In an interview with WGR 550 radio on Tuesday Whaley indicated he believes the widespread concerns over safety in football are justified.\u00a0\u201cThis is the game of football,\u201d he said. \u201cInjuries are part of it. It\u2019s a violent game that I personally don\u2019t think humans are supposed to play.\u201d   Related: Report condemns NFL for attempting to influence brain injury study    Whaley\u2019s extraordinary quote came while he was discussing the Bills wide receiver Sammy Watkins, who recently had surgery on his broken foot.\u00a0 \u201cThese [injuries] are going to come up,\u201d Whaley said. \u201cWe trust in our medical staff and we trust in each individual athlete to do what they have to do to get back on the field.\u201d Whaley added that he didn\u2019t believe Watkins was injury prone. \u201cIf you look at his game log, he\u2019s only missed three games,\u201d he said. \u201cSo is he injury-prone? I wouldn\u2019t say that. Are things going to come up with a guy like this? We hope that gets limited in the future,\u201d Whaley said, before stating his broader thoughts on football.\u201d The effects of concussions on players have plagued the image of football in recent years. A recent congressional report claims that NFL\u00a0officials campaigned to influence a government research study into the effects of football on brain disease.",
+  "webTitle": "Buffalo Bills GM: NFL is violent and humans aren't supposed to play",
+  "webPublicationDate": "2016-05-24T16:55:55Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/24/buffalo-bills-doug-whaley-nfl-violent-concussion",
+  "keyword": [
+    {
+      "webTitle": "NFL",
+      "id": "sport/nfl",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Buffalo Bills",
+      "id": "sport/buffalo-bills",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "US sports",
+      "id": "sport/us-sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Concussion in sport",
+      "id": "sport/concussion-in-sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "sport/2016/may/24/buffalo-bills-doug-whaley-nfl-violent-concussion"
+}

@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/23/g4s-police-control-room-staff-suspended-claims-bogus-999-calls-lincolnshire-force",
+  "id": "2016-05-23-133",
+  "sectionId": "uk-news",
+  "body": "Five G4S Lincolnshire police control room staff have been suspended after allegations that they were making hundreds of 999 calls at quiet times to improve their perceived performance. The five call handling staff, who are believed to include the Lincolnshire force control room manager, are understood to have made more than 600 bogus \u201ctest calls\u201d in order to meet their target of answering 92% of calls within 10 seconds or less. The suspended officers were all former Lincolnshire police employees who transferred to G4S four years ago when the private security company took over a \u00a3200m contract \u2013 the largest ever \u2013 to run the force\u2019s back-office services. G4S has claimed the contract saves the force \u00a36m a year and hailed it as a potential model for the rest of British policing. A Lincolnshire police spokesman said an investigation was started in January after its anti-corruption unit received an internal allegation that staff within the control room were calling 999 at quiet times to ensure calls were picked up quickly to improve perceived performance. Data for the control room seen by the Guardian show that between January and September last year the number of 999 calls made to test the equipment were running at an average of 30-40 a month and as few as eight in September.  But in October the number of test calls jumped to 139, then 236 in November and peaked at 349 in December. The figures show that without the extra test calls the control room would have missed its target of answering 92% of calls within 10 seconds in November and December.  The figures show that the control room received 8,153 calls in December of which 349 were test calls. Only 89% of the genuine calls were answered within the target of 10 seconds but the inclusion of the test calls pushed answering performance 1% above target. It is understood that the individual staff members were not on a financial bonus scheme linked to performance. A Lincolnshire police spokesman said: \u201cWe immediately informed the Independent Police Complaints Commission of the allegations and they have been kept fully informed of our investigation which has been under their supervision. \u201cThe senior management of G4S have also been kept informed of the inquiry and have provided valuable technical support to our inquiries. Today five force control room staff have been suspended from duty and have been informed they are under their investigation.\u201d The five are to be interviewed jointly by the police and G4S. The Crown Prosecution Service has advised that no criminal conduct has so far been revealed by the investigation and the matter will now be dealt with through staff disciplinary proceedings. Lincolnshire police said at no stage had there been any risk to the safety of members of the public.  John Shaw, managing director for G4S public services, said: \u201cWe have suspended five employees today and have taken swift action to begin our investigation process. \u201cWhile I can reassure the public that at no stage did the actions of these people put the public or police colleagues at risk, I am nevertheless dismayed that this group of staff sought to influence important performance measurements. We continue to work closely with the force and share any data and other information required.\u201d Labour\u2019s policing spokesman, Jack Dromey, said: \u201cThe public and the police have been seriously misled by G4S into believing that 999 calls were being answered quicker than they were. Emergency response times can mean the difference between life and death.\u201d He added: \u201cTime and time again G4S have let down the public. This case raises serious questions about the ability of G4S to play a role in vital and sensitive areas of policing. At a time when police forces are under growing pressure, this is a reminder of the importance of crucial emergency services being in public hands.\u201d",
+  "webTitle": "G4S police control room staff suspended over claims of bogus 999 calls",
+  "webPublicationDate": "2016-05-23T14:53:13Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/23/g4s-police-control-room-staff-suspended-claims-bogus-999-calls-lincolnshire-force",
+  "keyword": [
+    {
+      "webTitle": "Police",
+      "id": "uk/police",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "G4S",
+      "id": "business/g4s",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Privatisation",
+      "id": "politics/privatisation",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Alan Travis",
+      "id": "profile/alantravis"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/23/g4s-police-control-room-staff-suspended-claims-bogus-999-calls-lincolnshire-force"
+}

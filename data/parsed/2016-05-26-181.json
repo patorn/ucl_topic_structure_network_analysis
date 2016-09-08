@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/26/bank-of-england-rejects-claim-watered-down-ringfencing-plans",
+  "id": "2016-05-26-181",
+  "sectionId": "business",
+  "body": "The Bank of England has rejected criticisms from the architect of banking reforms that it has watered down its approach to ensuring the UK\u2019s banking system is strong enough to withstand heavy losses. Sir John Vickers \u2013 appointed by the 2010 coalition government to design ways to avoid another taxpayer bailout of the system \u2013 has argued that Threadneedle Street is stepping back from his proposals for how much capital banks should hold. His independent commission on banking (ICB) devised the rules that require banks to erect a ringfence around their high-street operations to protect them from riskier investment banking operations. It also set out how much capital \u2013 shares and other financial instruments \u2013 banks should hold. Vickers has been arguing that the Bank of England has allowed banks to hold less capital than the ICB intended.  In February, Vickers said: \u201cThe Bank of England proposal is less strong than what the ICB recommended.\u201d However, the Bank has held firm against his calls and is, with one exception, pressing ahead with its plans as it intended. \u201cHaving carefully considered the comments received during the consultation period, the committee decided to adopt as final a framework that was broadly the same as that on which it had consulted,\u201d the Bank said.   Related: The Guardian view on the big banks: shake them up, please | Editorial    It did, however, add a new idea intended to stop a ringfenced bank sapping a non-ringfenced bank of financial strength. The move is likely to have an impact on Royal Bank of Scotland as it has a large retail arm compared with its investment banking operations. This could push up slightly the amount of capital banks need. The Bank\u2019s financial policy committee (FPC) \u2013 set up to look for risks to the financial system \u2013 is requiring that regulators take account of the total amount of capital the overall banks hold, not just the ringfenced operation. After publication of the report, Vickers, warden of All Soul\u2019s College, Oxford, maintained his opposition: \u201cIt\u2019s disappointing that the BoE has stuck to its soft policy on bank capital. Parliament gave the Bank scope to strengthen capital requirements a good deal further but it has fallen short.\u201d  The debate is focused on systemic risk buffers \u2013 a cushion of capital that is used at times of stress. \u201cThe systemic risk buffer (SRB) augments the capital buffer of a ringfenced bank or large building society, enabling them to absorb greater losses before breaching their minimum capital requirements,\u201d the Bank said. Vickers has argued that the Bank has set these at a lower level than the ICB intended while the Bank argues that the overall level of capital in the system is much higher than Vickers intended at the time the ICB reported in 2011. The Bank said: \u201cThe overarching purpose of the SRB is to raise the capacity of ringfenced banks and large building societies to withstand stress, thereby increasing their resilience. This aim reflects the additional damage that these firms could cause to the economy in the event that they incur losses that deplete, or come close to depleting, their capital buffers, and in distress these institutions restrict the supply of critical economic functions, such as deposit taking, lending and payment services.\u201d  As it published the outcome of a consultation into the SRBs \u2013 to which Vickers was one of five respondents \u2013 the Bank indicated it intended to stick with its view on capital. Vickers said the SRB should be set at 3% for all the ringfenced banks, but the Bank has introduced a graded approach and will only introduce the top level for ringfenced banks bigger than \u00a3755bn. No bank would currently fit into this level. Overall, the Bank has concluded its current regime is correct. \u201cThe FPC\u2019s view at its meeting on 13 May was that no new evidence had been presented since December to affect the committee\u2019s judgment on the overall level of capital,\u201d it said. The views on capital came as the governor of the Bank of England told George Osborne that he is keeping a close watch on the buy-to-let mortgage market and monitoring lenders for any threats to financial stability. In a letter to the chancellor, Mark Carney said he supported the need for the Bank to be given extra powers to clamp down on buy-to-let lenders as had been announced in the budget.",
+  "webTitle": "Bank of England rejects claim it has watered down ringfencing plans",
+  "webPublicationDate": "2016-05-26T13:38:28Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/26/bank-of-england-rejects-claim-watered-down-ringfencing-plans",
+  "keyword": [
+    {
+      "webTitle": "Banking reform",
+      "id": "business/banking-reform",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Banking",
+      "id": "business/banking",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Bank of England",
+      "id": "business/bankofenglandgovernor",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Financial sector",
+      "id": "business/financial-sector",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jill Treanor",
+      "id": "profile/jilltreanor"
+    }
+  ],
+  "guardianId": "business/2016/may/26/bank-of-england-rejects-claim-watered-down-ringfencing-plans"
+}

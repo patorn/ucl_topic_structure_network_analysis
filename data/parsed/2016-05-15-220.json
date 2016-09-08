@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/lifeandstyle/2016/may/15/the-beauty-of-blindsight-neural-pathways-vision-brain",
+  "id": "2016-05-15-220",
+  "sectionId": "lifeandstyle",
+  "body": "A woman in Florida who was \u2018fully blind\u2019 for more than 20 years has regained her sight after she fell and hit her head. The doctor who treated Mary Ann Franco called it a \u2018miracle\u2019 and thinks the knock may have caused blood flow to return to a crucial part of the brain. Although this was probably not the case for Franco, it is possible to see without knowing you can see. Different neural pathways in the brain are responsible for our perception of what something is, and our sense of where something is. Sometimes if only one of these pathways is damaged, a rare phenomenon known as blindsight can occur. If you give\u00a0someone with blindsight a letter and ask them to post\u00a0it,\u00a0they won\u2019t be able to see the\u00a0postbox or describe it in any\u00a0way. But if they try anyway,\u00a0they can do it - even\u00a0if\u00a0the postbox slot is at an unusual\u00a0angle. This is because while the conscious sensation of seeing has been cut off, the pathway that controls interaction with what we see is still in use. Franco\u2019s case shows us how much we still don\u2019t know about the visual system, even in our own heads. Dr Daniel Glaser is director of Science Gallery at King\u2019s College London",
+  "webTitle": "The beauty of blindsight",
+  "webPublicationDate": "2016-05-15T05:00:15Z",
+  "webUrl": "https://www.theguardian.com/lifeandstyle/2016/may/15/the-beauty-of-blindsight-neural-pathways-vision-brain",
+  "keyword": [
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Neuroscience",
+      "id": "science/neuroscience",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Daniel Glaser",
+      "id": "profile/daniel-glaser"
+    }
+  ],
+  "guardianId": "lifeandstyle/2016/may/15/the-beauty-of-blindsight-neural-pathways-vision-brain"
+}

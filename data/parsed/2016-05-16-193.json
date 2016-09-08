@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/society/2016/may/16/what-is-it-like-to-live-with-an-anxiety-disorder",
+  "id": "2016-05-16-193",
+  "sectionId": "society",
+  "body": "We are living in a so-called era of anxiety. In 1980, 4% of Americans suffered a mental disorder associated with anxiety. Today half do. In the UK a  third of Britons now experience an anxiety disorder at some stage in their life. But, despite its growth, how well do we really understand anxiety? The internet abounds in information and misinformation about everything from phobias to panic attacks \u2014 with lots of advice (some helpful, some not) on how to cope. There are also a lot of misconceptions about what having an anxiety disorder really means and how you can break free of it.  We want the people with anxiety to help us dispel some myths and explain what it really feels like. What are the worst things you can say to someone with anxiety? What makes your life harder and easier? How does your anxiety manifest? Share your experiences and views with us in the form below \u2013 and we will use responses for an article that will appear online.  As this is a sensitive topic, please be reassured that we will not share or publish any personal details without obtaining contributors\u2019 permission first.",
+  "webTitle": "What's it like to live with anxiety?",
+  "webPublicationDate": "2016-05-16T12:51:21Z",
+  "webUrl": "https://www.theguardian.com/society/2016/may/16/what-is-it-like-to-live-with-an-anxiety-disorder",
+  "keyword": [
+    {
+      "webTitle": "Anxiety",
+      "id": "society/anxiety",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Mental health",
+      "id": "society/mental-health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Sarah Marsh",
+      "id": "profile/sarah-marsh"
+    }
+  ],
+  "guardianId": "society/2016/may/16/what-is-it-like-to-live-with-an-anxiety-disorder"
+}

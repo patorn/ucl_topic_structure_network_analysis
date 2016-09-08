@@ -1,0 +1,30 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/2016/may/14/emergency-services-rescue-23-following-ferry-collision-in-hampshire",
+  "id": "2016-05-14-209",
+  "sectionId": "uk-news",
+  "body": "Coastguard rescue teams rescued passengers and crew from a ferry that struck a pier in the Hampshire town of Hythe. The ferry collided with the pier at 9.20pm head as it travelled from Southampton. Emergency services were sent to the pier to help evacuate 20 passengers and three crew. Three people are reported to have suffered minor injuries.  The ferry service, linking Hythe with the city of Southampton, takes around 10 minutes and is managed by the White Horse Ferries company. The wheelhouse of the vessel was severely damaged \u2013 witnesses said the ferry had become wedged beneath the pier \u2013 and the incident is set to be investigated by the Marine Accident Investigation Branch. A statement from the Southampton-based Maritime and Coastguard Agency said: \u201cTwenty passengers and three crew members had to be rescued after a ferry collided with the Hythe pier this evening. \u201cThe UK Coastguard was called at around 9.20pm and sent Coastguard Rescue Teams from Southampton and Lymington, as well as the Calshot Lifeboat and Calshot Inshore Lifeboat.\u201d Hythe Ferry operations manager Sath Naidoo told the Southern Daily Echo: \u201cIt\u2019s just driven under the pier and it\u2019s stuck there at the moment.\u201d  He added passengers were evacuated but crew members were being treated on board. In 2003, a dredger struck the pier, severely damaging the 640-metre-long structure that runs from the centre of Hythe out into the deep water channel of Southampton Water.",
+  "webTitle": "Emergency services rescue 23 following ferry collision in Hampshire",
+  "webPublicationDate": "2016-05-14T00:05:24Z",
+  "webUrl": "https://www.theguardian.com/uk-news/2016/may/14/emergency-services-rescue-23-following-ferry-collision-in-hampshire",
+  "keyword": [
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Southampton",
+      "id": "uk-news/southampton",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Dan Carrier",
+      "id": "profile/dan-carrier"
+    }
+  ],
+  "guardianId": "uk-news/2016/may/14/emergency-services-rescue-23-following-ferry-collision-in-hampshire"
+}

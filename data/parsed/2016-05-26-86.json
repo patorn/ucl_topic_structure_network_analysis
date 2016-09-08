@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/26/half-of-misogynistic-tweets-sent-by-women-study-finds",
+  "id": "2016-05-26-86",
+  "sectionId": "technology",
+  "body": "Half the aggressive tweets using the words slut and whore analysed by social thinktank Demos came from women and girls, research indicates. The suggestion that women and girls as well as men are responsible for the use of misogynistic words in an abusive manner on Twitter came in research over a three-week period from the end of April. Demos, which carried out the study for the launch of the Reclaim the Internet campaign led by the Labour MP Yvette Cooper, said it was a cursory look at the problem of online abuse and misogyny, and will pursue more research on the issue. Demos used an algorithm to look at 1.46m posts on the social media platform over a three-week period which used the word slut and whore. The words were chosen as a result of a 2014 Demos study that found they were by far the most commonly used phrases in abusive misogynistic posts. More than half the 1.46m posts analysed were adverts for pornographic content. The remaining 650,000, sent by 450,000 people, were broken down into categories: 33%, about 213,000 tweets, were deemed to have been sent aggressively; 9% were used for self reference; and 58% were categorised as other, which included individuals using social media to discuss how to counter behaviour like slut-shaming.   Related: The women abandoned to their online abusers    Alex Krasodomski-Jones, from Demos, said the algorithm used to identify the gender of those sending abusive tweets using the words \u201cslut\u201d and \u201cwhore\u201d was 85% accurate on a three-way split: men, women or an organisation. \u201cLooking at this data set of thousands of pieces of misogynistic abuse, and looking at the people the perpetrators of this abuse were following, gave us a good indication of who they were,\u201d he said. \u201cThe algorithm suggested 50% were women, and a cursory look at who they were following \u2013 Beyonc\u00e9, One Direction and Justin Bieber \u2013 indicated they were ordinary women and girls, not a cabal of angry white men following rightwing activists. \u201cThere are two issues here. There is the cabal of angry white men who might follow rightwing groups who are carrying out this kind of misogynistic abuse and there is a cultural and societal issue of women and girls using this language. This study was extremely limited in its scope and we would like to do more research.\u201d One of the most detailed studies into abuse online by the Pew Institute in 2014 revealed that more serious and illegal abuse online, including rape and death threats, is targeted at women aged 18-24 while men are more likely to experience name-calling and embarrassment. This female age group experienced severe types of harassment at disproportionately high levels: 26% of the young women in the research had been stalked online, and 25% were the target of online sexual harassment and heightened rates of physical threats. Britain\u2019s biggest teaching union the NASUWT, in its latest study of teachers\u2019 experience of abuse online, has found anecdotal evidence that girls are involved in abuse towards teachers and other pupils often using misogynistic language. Their research found cases in which girls of 15 were calling each other \u201cskinny slut\u201d and \u201cfat slag\u201d and engaging in body shaming. Dr Fiona Vera-Gray, from the centre for gender equality in the media at Durham University, said it was not surprising that young girls were using misogynistic language that had become normalised in society. \u201cThere is very little space where these representations of women are being challenged,\u201d she said. \u201cWe know that young girls are being exposed to more and more pornography where these descriptions are used, and it makes sense to me that they are starting to believe that what it means to be a girl or woman is to be judged in this kind of way.\u201d",
+  "webTitle": "Half of misogynistic tweets sent by women, study finds",
+  "webPublicationDate": "2016-05-26T18:09:40Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/26/half-of-misogynistic-tweets-sent-by-women-study-finds",
+  "keyword": [
+    {
+      "webTitle": "Internet",
+      "id": "technology/internet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Women",
+      "id": "lifeandstyle/women",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Twitter",
+      "id": "technology/twitter",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Blogging",
+      "id": "media/blogging",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Digital media",
+      "id": "media/digital-media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Newspapers & magazines",
+      "id": "media/pressandpublishing",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Sandra Laville",
+      "id": "profile/sandralaville"
+    }
+  ],
+  "guardianId": "technology/2016/may/26/half-of-misogynistic-tweets-sent-by-women-study-finds"
+}

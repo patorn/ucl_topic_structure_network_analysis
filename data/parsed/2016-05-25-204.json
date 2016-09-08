@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/25/beauty-and-the-beast-teaser-trailer-record-emma-watson",
+  "id": "2016-05-25-204",
+  "sectionId": "film",
+  "body": "The teaser for the upcoming Disney live action remake Beauty and the Beast, starring Emma Watson, has broken the record for views of a teaser-style trailer, which was previously held by Star Wars: The Force Awakens. The teaser was watched 91.8m times in the first 24 hours of its release, taking it ahead of the 88m views garnered by the second teaser for The Force Awakens in 2014.   Related: Ad brake: are Zootropolis and Hail, Caesar! ushering in a new age of slow trailers?    Harry Potter star Watson stars opposite Dan Stevens\u2019s beast in Bill Condon\u2019s remake of 1991\u2019s animated musical. The cast also includes Ian McKellen, Emma Thompson, Kevin Kline, Luke Evans, Josh Gad, Ewan McGregor, Stanley Tucci and Gugu Mbatha-Raw. Condon\u2019s film is due for release in March 2017. Star Wars: The Force Awakens still holds the record for views of a full-length trailer, after its final trailer was watched more than 112m times in the first 24 hours of its release.",
+  "webTitle": "Beauty and the Beast breaks trailer views record set by Star Wars",
+  "webPublicationDate": "2016-05-25T10:35:50Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/25/beauty-and-the-beast-teaser-trailer-record-emma-watson",
+  "keyword": [
+    {
+      "webTitle": "Film industry",
+      "id": "film/film-industry",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Emma Watson",
+      "id": "film/emma-watson",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Musicals",
+      "id": "film/musical",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Star Wars: The Force Awakens",
+      "id": "film/star-wars-episode-vii",
+      "sectionId": "film",
+      "sectionName": "Film"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Ben Child",
+      "id": "profile/benchild"
+    }
+  ],
+  "guardianId": "film/2016/may/25/beauty-and-the-beast-teaser-trailer-record-emma-watson"
+}

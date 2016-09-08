@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/lifeandstyle/2016/may/09/city-planners-cycling-data-strava-tracking-app",
+  "id": "2016-05-09-296",
+  "sectionId": "lifeandstyle",
+  "body": "Sheila Lyons recalls the way Oregon used to collect data on how many people rode bikes. \u201cIt was very haphazard, two-hour counts done once a year,\u201d said the woman in charge of cycling policy for the state government. \u201cVolunteers, sitting on the street corner because they wanted better bike facilities. Pathetic, really.\u201d But in 2013 a colleague had an idea. She recorded her own bike rides using an app called Strava, and thought: why not ask the company to share its data? And so was born Strava Metro, both an inadvertent tech business spinoff and a similarly accidental urban planning tool, one that is now quietly helping to reshape streets in more than 70 places around the world and counting. Using the GPS tracking capability of a smartphone and similar devices, Strava allows people to plot how far and fast they go and compare themselves against other riders. Users create designated route segments, which each have leaderboards ranked by speed.            Originally aimed just at cyclists, Strava soon incorporated running and now has options for more than two dozen pursuits. But cycling remains the most popular, and while the company is coy about overall figures, it says it adds 1 million new members every two months, and has more than six million uploads a week. For city planners like Lyons, used to very occasional single-street bike counts, this is a near-unimaginable wealth of data. While individual details are anonymised, it still shows how many Strava-using cyclists, plus their age and gender, ride down any street at any time of the day, and the entire route they take. The company says it initially had no idea how useful the information could be, and only began visualising data on heatmaps as a fun project for its engineers. \u201cWe\u2019re not city planners,\u201d said Michael Horvath, one of two former Harvard University rowers and relatively veteran 40-something tech entrepreneurs who co-founded Strava in 2009. \u201cOne of the things that we learned early on is that these people just don\u2019t have very much data to begin with. Not only is ours a novel dataset, in many cases it\u2019s the only dataset that speaks to the behaviour of cyclists and pedestrians in that city or region.\u201d   Strava use in six cities   There were two obvious limitations to the idea of Strava Metro. The userbase is a small sample of all cyclists, and the app\u2019s emphasis on competition tends to make them more likely to be Lycra-clad enthusiasts rather than everyday commuters and meanderers.  The company initially had the same worry. However, when authorities started buying the data and comparing it against their own information, they found Strava tended to capture a solid 5-10% of all bike movements. Moreover, they discovered that, especially in cities, those with the app tended to ride the same routes as everyone else. \u201cAt first we weren\u2019t really sure what we had,\u201d said Mark Shaw, Strava\u2019s chief technical officer. \u201cWas this of high value? Was this just performance athletes? But what we found is that when cyclists are in the urban core they optimise for the same kind of things as everyone else. They\u2019re not trying to race across the city, they\u2019re trying to get there in one piece.\u201d Strava\u2019s core business remains extracting monthly fees from the proportion of users \u2013 they won\u2019t divulge what this is \u2013 who opt for a premium version of the app, which allows the sport-obsessed to measure and analyse their endeavours in greater detail. The company still refers to customers as \u201cathletes\u201d, and its airy San Francisco office has its own bike workshop and an area set aside for twice-weekly yoga sessions. Strava has occasionally faced criticism, notably from those who argue that competition for high rankings on cycling segments \u2013 the fastest is named \u201cking of the mountains\u201d \u2013 can encourage risky riding, especially in cities. But Mark Gainey, the other co-founder, argues this is gradually changing, especially with newer elements such as users being able to post photos of rides. \u201cWe recognise the perception that\u2019s out there,\u201d he said. \u201cWe\u2019re working hard to socialise and add features that bring a broader experience to it. That\u2019s without denying that parts of Strava are predicated on the fact that if you want to compete there\u2019s opportunities to do so. But this is a social network. We\u2019re not the Olympic body.\u201d     The Strava app on a smartphone. Photograph: Alamy    In this context, Strava Metro, which involves only seven of the company\u2019s 100-plus staff, resembles almost a social enterprise, with data provided relatively cheaply \u2013 Oregon paid $20,000 (\u00a314,000) \u2013 or free for some academic use. Glasgow University\u2019s Urban Big Data Centre is currently working through a year\u2019s worth of cycling information for the whole of Scotland, and has another year on order. It has been approached by the Dutch owners of the ScotRail franchise, who want to know how many passengers cycle to and from its stations, information almost impossible to acquire otherwise. Horvath said 76 cities and regions around the world were now using Strava Metro data, including Glasgow, Reykjavik, Stockholm and Brisbane. \u201cIt helps show the return on investment, on the tax dollars being used by authorities for things like cycle lanes,\u201d he said. \u201cThey want to be able to show this was money well spent, or to learn that there was something they could have done better.\u201d Among the factors limiting growth, Shaw said, was that smaller cities might not have the technical expertise to analyse such vast amounts of information \u2013 downloading the full dataset for London, for example, takes two weeks. \u201cThe more we can visualise the dataset and point them to interesting aspects, that gives us a much broader audience we can reach,\u201d he said. Shaw foresees other future uses for the service, including real-time analysis of cyclist numbers for traffic planning, and sending warnings to drivers who are approaching a Strava user on the road. All this is not without a vested interest for the company, Horvath noted: better analysis means improved bike routes, which in turn should mean more riders to download the app. \u201cWe\u2019re not a philanthropy,\u201d he said. \u201cBut we are interested in the impact, what it can do in these cities to encourage people in these modes of transportation. We see that as a good return on our shareholders\u2019 investment.\u201d Strava is encouraging people to record their commute on Tuesday 10 May for global bike to work day. See more here",
+  "webTitle": "City planners tap into wealth of cycling data from Strava tracking app",
+  "webPublicationDate": "2016-05-09T07:26:06Z",
+  "webUrl": "https://www.theguardian.com/lifeandstyle/2016/may/09/city-planners-cycling-data-strava-tracking-app",
+  "keyword": [
+    {
+      "webTitle": "Cycling",
+      "id": "lifeandstyle/cycling",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Fitness",
+      "id": "lifeandstyle/fitness",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "Apps",
+      "id": "technology/apps",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "GPS",
+      "id": "technology/gps",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Life and style",
+      "id": "lifeandstyle/lifeandstyle",
+      "sectionId": "lifeandstyle",
+      "sectionName": "Life and style"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Cities",
+      "id": "cities/cities",
+      "sectionId": "cities",
+      "sectionName": "Cities"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Peter Walker",
+      "id": "profile/peterwalker"
+    }
+  ],
+  "guardianId": "lifeandstyle/2016/may/09/city-planners-cycling-data-strava-tracking-app"
+}

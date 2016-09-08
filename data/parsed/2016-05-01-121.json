@@ -1,0 +1,48 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/01/bbc-schedule-labour-maria-eagle-accuses-government-of-unacceptable-meddling",
+  "id": "2016-05-01-121",
+  "sectionId": "media",
+  "body": "The government has denied reports that it will seek to determine BBC scheduling following reports that it will bar the broadcaster from showing popular programmes such as Strictly Come Dancing at peak viewing times. Labour had accused John Whittingdale, the media and culture secretary, of \u201cunacceptable interference\u201d in the BBC before the publication of a white paper that will set out a new regime as part of a proposed deal to renew its royal charter for another 11 years.  The BBC has voiced concerns at moves it says will undermine its independence, particularly about plans for the government to directly appoint most members of a new body to run the corporation instead of the BBC Trust. Whittingdale has said the charter was looking at whether the BBC should continue to be \u201call things to all people\u201d, or whether it should have a more \u201cprecisely targeted\u201d output mission. He has previously expressed concerns about the flagship news bulletin being broadcast at the same time as ITV\u2019s. ITV has complained about licence fee money being used to wage a ratings battle with it and other commercial channels.      Maria Eagle has criticised John Whittingdale. Photograph: Steve Meddle/Rex/Shutterstock    The Mail on Sunday quoted a government source as saying it would be \u201cobvious when ITV had a flagship programme they were hoping to get high ratings for and where it would be unfair for the BBC to take it on head-to-head\u201d.  The shadow culture secretary, Maria Eagle, said: \u201cJohn Whittingdale is behaving as if he were running the BBC \u2013 he is not. This kind of meddling in day-to-day scheduling decisions would be a completely unacceptable interference in the independence of the BBC. Labour will fight it all the way.  \u201cThe public will wonder why the government is interfering with the BBC, and why they are trying to dictate when they can schedule hugely popular programmes like Strictly Come Dancing.\u201d However, a spokesman from the Department for Culture, Media & Sport said: \u201cThe government will be setting out its plan on the BBC charter in a white paper in May. The secretary of state has made it clear on a number of occasions that the government cannot, and indeed should not, determine either the content or scheduling of programmes.\u201d A BBC source said: \u201cLet\u2019s see what the white paper says. The BBC doesn\u2019t aggressively schedule, but we do show programmes at the times people want to watch them. \u201cResearch has shown that an element of competition drives up quality across the industry and the public would be deeply concerned if the BBC\u2019s ability to show programmes such as Strictly, Doctor Who, and Sherlock at the times convenient to them were taken away. It would be odd to make it harder for people to find and watch the programmes they have already paid for.\u201d The BBC has also questioned ITV\u2019s scheduling tactics, saying it screened the second series of Broadchurch to go head-to-head with its popular Silent Witness drama series in January 2015.  The salaries of stars could reportedly be made public for the first time. The BBC says its talent pay is already published in bands and that a review commissioned by the BBC Trust found the broadcaster had reduced spending on pay for top talent by 29% in five years, and overall spending on talent by 15%.",
+  "webTitle": "BBC scheduling: government denies it is seeking to take over",
+  "webPublicationDate": "2016-05-01T11:27:32Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/01/bbc-schedule-labour-maria-eagle-accuses-government-of-unacceptable-meddling",
+  "keyword": [
+    {
+      "webTitle": "BBC",
+      "id": "media/bbc",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "John Whittingdale",
+      "id": "politics/john-whittingdale",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Mark Tran",
+      "id": "profile/marktran"
+    }
+  ],
+  "guardianId": "media/2016/may/01/bbc-schedule-labour-maria-eagle-accuses-government-of-unacceptable-meddling"
+}

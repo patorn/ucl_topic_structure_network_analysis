@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/commentisfree/2016/may/01/profits-perils-drilling-data-oil-surveillance-online-information",
+  "id": "2016-05-01-156",
+  "sectionId": "commentisfree",
+  "body": "\u201cData is the new oil,\u201d declared Clive Humby, a mathematician who was the genius behind the Tesco Clubcard. This insight was later elaborated by Michael Palmer of the Association of National Advertisers. \u201cData is just like crude [oil],\u201d said Palmer. \u201cIt\u2019s valuable, but if unrefined\u00a0it cannot really be used. It has to be changed into gas, plastic, chemicals, etc to create a valuable entity that drives profitable activity; so must data be broken down, analysed for it to have value.\u201d    The extractive firms of cyberspace provide 'free' services to their users in return for their personal data trails    There was just one thing wrong with the metaphor. Oil is a natural resource; it has to be found, drilled for and pumped from the bowels of the Earth. Data, in contrast, is a highly unnatural resource. It has to be created before it can be extracted and refined. Which raises the question of who, exactly, creates this magical resource? Answer: you and me. In the old days \u2013 the era of the Tesco Clubcard \u2013 we did it by shopping in Tesco, which could link us to the stuff we bought. As the internet took hold, though, our data productivity increased exponentially, because everything we did online left a trail of digital data that could easily be mined by the internet corporations with whose services we interacted. Tesco turned out to be just a mom-and-pop operation compared with the internet giants such as Google and Facebook, the Exxons and Shells of the online world. But unlike the oil giants, which at least sell products to real consumers, the extractive firms of cyberspace merely provide \u201cfree\u201d services to their users in return for their personal data trails, which they then sell to advertisers in a vast, hidden global system of high-speed online auctions. (If you want a glimpse of this system in action, install a plug-in such as Ghostery on your browser and see who is tracking you as you browse.) And in the process they have created a new kind of industry, what the Harvard scholar Shoshana Zuboff calls surveillance capitalism. The big idea underpinning this new system is that users do all the work. Neat, eh? By conducting Google\u00a0searches, posting status updates to Facebook, tweeting, putting\u00a0our CVs on LinkedIn and so on,\u00a0we provide \u2013 free, gratis \u2013 ready-made data that can be extracted, refined and sold to the ad-brokers and advertisers that are the internet companies\u2019 real customers. So the (un)natural resource that powers these new extractive industries is what\u2019s called user-generated content. There is, however, a fly in the ointment. It is that while much of this content is innocuous and harmless, a lot of it is not. In fact, some of it is vile beyond belief. And so, in theory, the companies on whose\u00a0services it is posted could conceivably be held responsible for publishing such horrors, with consequent legal liability.   Related: UK spy agencies have collected bulk personal data since 1990s, files show    As luck would have it, though, this potential downside was neatly neutralised many years ago by a clause in a long-forgotten piece of US legislation \u2013 Section 230 of the Communications Decency Act of 1996. This says that \u201cno provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider\u201d. As a get-out-of-jail card, this one would be hard to beat. It was snuck into the bill at the 11th hour by two members of Congress and buried in over a thousand pages of prime legal verbiage in a move memorably summarised by one commentator as \u201chow two members of Congress helped create a trillion or so dollars of value\u201d. But if the executives of Facebook and co won\u2019t go to jail for publishing user-generated crap, there still remains the problem that if their users\u00a0got to see some of the horrendous stuff that people post online then they might be sufficiently repelled to cancel their subscriptions, as it were. So the companies have to find ways of filtering the uploads. They do this by getting users to flag objectionable content, deploying machine-learning software and employing secret armies of moderators to do what is clearly traumatic and distressing work. The companies are thus caught between a Sisyphean rock and a hard place. On the one hand, they need the torrent (400 hours of video uploaded to YouTube every minute, for example) because it provides the resource that they mine. On the other, if the data flow becomes too polluted then their money pumps may stall. It\u2019s almost enough to make one feel sorry for them. Almost.",
+  "webTitle": "The profits and perils of drilling for crude data",
+  "webPublicationDate": "2016-05-01T08:00:49Z",
+  "webUrl": "https://www.theguardian.com/commentisfree/2016/may/01/profits-perils-drilling-data-oil-surveillance-online-information",
+  "keyword": [
+    {
+      "webTitle": "Data protection",
+      "id": "technology/data-protection",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Surveillance",
+      "id": "world/surveillance",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Internet",
+      "id": "technology/internet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Facebook",
+      "id": "technology/facebook",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Social networking",
+      "id": "media/socialnetworking",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Advertising",
+      "id": "media/advertising",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Twitter",
+      "id": "technology/twitter",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Google",
+      "id": "technology/google",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "LinkedIn",
+      "id": "technology/linkedin",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "John Naughton",
+      "id": "profile/johnnaughton"
+    }
+  ],
+  "guardianId": "commentisfree/2016/may/01/profits-perils-drilling-data-oil-surveillance-online-information"
+}

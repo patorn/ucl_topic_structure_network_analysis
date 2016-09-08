@@ -1,0 +1,67 @@
+{
+  "apiUrl": "https://content.guardianapis.com/small-business-network/2016/may/20/uk-broadband-targets-rural-lack-ambition-costly-slow-network-upgrade",
+  "id": "2016-05-20-261",
+  "sectionId": "small-business-network",
+  "body": "There is a good chance you have never heard of Chattanooga, Tennessee. A city of only 170,000 inhabitants, its main claim to fame is a song called the Chattanooga Choo Choo, recorded by Glenn Miller and His Orchestra for the 1941 film, Sun Valley Serenade.  Though Chattanooga may be small, it has big ambitions, recently becoming one of the first cities in the world to offer homes and business access to broadband speeds of 10 gigabits per second (Gbps). This is a thousand times faster than the UK government\u2019s universal service obligation (USO) for all British premises to be able to access 10 megabits per second (Mbps) [pdf], announced with much fanfare in the Queen\u2019s speech this week.   The USO will be welcomed by people, often in rural areas, who cannot access even this limited speed. But it is setting the bar pretty low. With a world ranking of 23rd for download speeds, and 39th for upload speeds, Britain is not a strong performer in global terms. If we are to get the UK moving up the rankings, we need to follow Chattanooga\u2019s example, and set a much more ambitious target of 10Gbps by 2030.  Paradoxically, an easy-to-meet USO will actually be more expensive in the long run. It risks locking us into a continuous cycle of incremental upgrades to the copper wire which makes the last mile of our network, when we need to invest instead in future-proofed non-copper alternatives like fibre-optic cable, mobile and satellite broadband.   Related: Forget superfast, look who's missing basic broadband \u2013\u00a0infographic     Survey data from members of the Institute of Directors makes it abundantly clear that faster connections will deliver quick gains to the economy. A large majority believe better broadband would increase their company\u2019s competitiveness and productivity. One in four think it would increase their revenues, and a third say it would prompt them to invest more. As well as boosting firms, it could also help employees with their work-life balance, with half of our members saying they would offer more flexible working if they could rely on quicker broadband. As infrastructure investments go, it doesn\u2019t get much better than this.  While our cities are not particularly impressive (London languishes in 26th place in the European Capital City download rankings) it is rural areas in which poor broadband is holding back business most. Connecting the most remote places is clearly expensive, but broadband is now the fourth utility, and essential to all companies.   The UK is experiencing an entrepreneurial revolution, but the fact is that it is near impossible to launch a startup with a couple of employees in a converted barn with a connection of 2Mbps or less. With a connection of 1Gbps, however, a whole new world of opportunities opens up.   Related: Rural businesses are struggling to recruit young people    It\u2019s important to stress that a more demanding target should not mean reinforcing the market position of the incumbent, BT, or even a particular type of technology. Getting ultra-fast speeds means enabling competing firms to enter the market on a level playing field.  One of the best examples of how to do this comes from a surprising source: Lithuania. It has the  third highest upload speed in the world, as well as the global number one ranking for ICT infrastructure. This came about because, in 2004, Lithuania forced its equivalent of BT to give rivals full open access to the physical infrastructure of ducts and poles at a reasonable cost. This led to an explosion of investment by the alternative network providers, and they rocketed up the league tables as a result.  If we fail to rise to the challenge on broadband, we will miss out on the exciting technological developments of the next decade. Self-driving cars, virtual and enhanced reality, the internet of things, artificial intelligence, 5G and above all, cloud-based services, simply won\u2019t happen without the speed, universal reach and reliability of a network that has untied itself from the copper cables of the past. Sign up to become a member of the Guardian Small Business Network here for more advice, insight and best practice direct to your inbox.",
+  "webTitle": "Low UK broadband targets lack ambition using slow and costly network upgrades",
+  "webPublicationDate": "2016-05-20T09:35:09Z",
+  "webUrl": "https://www.theguardian.com/small-business-network/2016/may/20/uk-broadband-targets-rural-lack-ambition-costly-slow-network-upgrade",
+  "keyword": [
+    {
+      "webTitle": "Guardian Small Business Network",
+      "id": "small-business-network/small-business-network",
+      "sectionId": "small-business-network",
+      "sectionName": "Guardian Small Business Network"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Small business",
+      "id": "business/small-business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Broadband",
+      "id": "money/broadband",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Technology startups",
+      "id": "technology/startups",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Internet",
+      "id": "technology/internet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Entrepreneurs",
+      "id": "business/entrepreneurs",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Rural affairs",
+      "id": "uk/ruralaffairs",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Queen's speech",
+      "id": "politics/queens-speech",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [],
+  "guardianId": "small-business-network/2016/may/20/uk-broadband-targets-rural-lack-ambition-costly-slow-network-upgrade"
+}

@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/commentisfree/2016/may/20/we-have-an-old-saying-in-the-dog-whistle-business",
+  "id": "2016-05-20-296",
+  "sectionId": "commentisfree",
+  "body": "We have an old saying in the dog-whistle business ...",
+  "webTitle": "We have an old saying in the dog-whistle business ... | First Dog on the Moon",
+  "webPublicationDate": "2016-05-20T07:36:22Z",
+  "webUrl": "https://www.theguardian.com/commentisfree/2016/may/20/we-have-an-old-saying-in-the-dog-whistle-business",
+  "keyword": [
+    {
+      "webTitle": "Australian politics",
+      "id": "australia-news/australian-politics",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Australia news",
+      "id": "australia-news/australia-news",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    },
+    {
+      "webTitle": "Peter Dutton",
+      "id": "australia-news/peter-dutton",
+      "sectionId": "australia-news",
+      "sectionName": "Australia news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "First Dog on the Moon",
+      "id": "profile/first-dog-on-the-moon"
+    }
+  ],
+  "guardianId": "commentisfree/2016/may/20/we-have-an-old-saying-in-the-dog-whistle-business"
+}

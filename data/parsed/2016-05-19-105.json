@@ -1,0 +1,90 @@
+{
+  "apiUrl": "https://content.guardianapis.com/uk-news/davehillblog/2016/may/19/london-housing-the-rising-costs-of-temporary-accommodation",
+  "id": "2016-05-19-105",
+  "sectionId": "uk-news",
+  "body": "This isn\u2019t exactly news. But anyone concerned with the state of London should read all about it anyway. For the past five years the number of households in the capital meeting the definition of \u201cstatutory homelessness\u201d and placed in temporary accommodation has been edging up. Halfway through last year it rose to over 50,000 for the first time since 2008. The trend shows no sign of reversing: the most recent figure from the Department for Communities and Local Government (DCLG) is for the final quarter of 2015 and stands at 50,970, representing an 8% increase on the same period of the previous year. Members of those households included 83,370 children. The forms of temporary accommodation in which Londoners are housed include B&Bs, hostels, borough or housing association properties and, by far the largest number, homes either directly let by private sector landlords or leased from them by boroughs and housing associations. Over 17,000 of those 50,970 households have ended up living outside their home borough. No one is supposed to remain in temporary accommodation for more than six weeks. The DCLG figures say that in London 520 such households with children exceeded that limit during the last three months of 2015. The health and social consequences can be grievous. The 50,000-plus households are, of course, those whose circumstances have actually qualified them for temporary help. As the most recent episode of Channel 4\u2019s How to Get a Council House painfully showed, that doesn\u2019t apply to everyone who gets evicted. Applicants have to show that they are not what is defined as intentionally homeless and meet criteria for priority need. Simply getting behind with the rent is not enough.  A recent report for London Councils, the body that represents the capital\u2019s 33 local authorities, quantified the pressures this type of homelessness is placing on the city\u2019s boroughs, who have to deal with them day in, day out. Along with the unequal struggle of simply finding acceptable homes, the financial cost is taking a toll. The report says: \u201cA raft of changes to welfare provision, implemented from 2013, has reduced the degree of support available to households reliant on housing benefit to pay some or all of the rent.\u201d It estimates that the cost of temporary housing in London in 2014/15 rose to \u00a3663m and that the boroughs had to meet about \u00a3170m of that from their own general funds leaving less money for everything else. London Councils\u2019 executive member for housing Sir Steve Bullock - who, as Mayor of Lewisham, has made innovative efforts to cope with the growing problem on his own patch - said when the report was published in February that \u201cwithout sufficient resources it is becoming harder and harder to find suitable accommodation for London\u2019s growing homeless population\u201d. Given all this it might be hard to believe that the overall amount of social housing in London has actually increased every year for the past ten years (see chart 1.1 on page three of the report), despite the right to buy eroding council stock. But, as with all forms of truly affordable housing, the increase simply hasn\u2019t been big enough. Meanwhile, a related gap between supply of and demand for temporary accommodation is making even that into a high-inflation market place.  New London Mayor Sadiq Khan had something to say about this in his manifesto:  I will co-ordinate councils\u2019 efforts to find stable private rented housing for those in need who are not able to move into social housing, instead of desperate boroughs being forced to outbid each other for homes from landlords.  That\u2019s just a nice idea for the moment, of course, but more will be forthcoming.",
+  "webTitle": "London housing: the rising costs of temporary accommodation",
+  "webPublicationDate": "2016-05-19T16:50:12Z",
+  "webUrl": "https://www.theguardian.com/uk-news/davehillblog/2016/may/19/london-housing-the-rising-costs-of-temporary-accommodation",
+  "keyword": [
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Housing",
+      "id": "society/housing",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Communities",
+      "id": "society/communities",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Homelessness",
+      "id": "society/homelessness",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Social exclusion",
+      "id": "society/socialexclusion",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "London politics",
+      "id": "politics/london",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "London",
+      "id": "uk/london",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Local government",
+      "id": "society/localgovernment",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Local politics",
+      "id": "politics/localgovernment",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Sadiq Khan",
+      "id": "politics/sadiq-khan",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Dave Hill",
+      "id": "profile/davehill"
+    }
+  ],
+  "guardianId": "uk-news/davehillblog/2016/may/19/london-housing-the-rising-costs-of-temporary-accommodation"
+}

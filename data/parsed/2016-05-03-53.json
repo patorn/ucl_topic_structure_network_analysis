@@ -1,0 +1,55 @@
+{
+  "apiUrl": "https://content.guardianapis.com/politics/2016/may/03/trade-union-bill-will-increase-inequality",
+  "id": "2016-05-03-53",
+  "sectionId": "politics",
+  "body": "Just before taking office, David Cameron, the PR supremo who became PM, invoked The Spirit Level: Why More Equal Societies Almost Always Do Better, the wonderful book by Richard Wilkinson and Kate Pickett, which provided the evidence to prove that \u201cthe benefits of greater equality seem to be shared across the vast majority of the population\u201d and argued that \u201cthe most important single factor\u201d contributing to inequality was a decline in union membership (p245). As the Guardian\u2019s editorial (The Conservatives the party of the workers? Judge by its deeds, 3 May) suggests, we should indeed judge the Tories by their deeds. The Tories\u2019 pernicious trade union bill will hurt unions and their members and thereby equality, and so workers.David MurrayWallington, Surrey  \u2022 Join the debate \u2013 email guardian.letters@theguardian.com \u2022 This letter was amended on 4 May 2015. The names of the authors of The Spirit Level were wrongly given in an earlier version because of an editing error.",
+  "webTitle": "Trade union bill will increase inequality | Letters",
+  "webPublicationDate": "2016-05-03T18:51:47Z",
+  "webUrl": "https://www.theguardian.com/politics/2016/may/03/trade-union-bill-will-increase-inequality",
+  "keyword": [
+    {
+      "webTitle": "David Cameron",
+      "id": "politics/davidcameron",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Trade unions",
+      "id": "politics/tradeunions",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "TUC",
+      "id": "politics/tuc",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Industrial action",
+      "id": "uk-news/industrial-action",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Conservatives",
+      "id": "politics/conservatives",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [],
+  "guardianId": "politics/2016/may/03/trade-union-bill-will-increase-inequality"
+}

@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/sport/2016/may/27/sports-quiz-week-jose-mourinho-andy-murray-champions-league",
+  "id": "2016-05-27-156",
+  "sectionId": "sport",
+  "body": "Which of these trophies has Jos\u00e9 Mourinho not won?\n      \n       FA Cup \n       La Liga\n       Europa League\n       Fifa Club World Cup \n      \n     Which Brazilian said: 'Pel\u00e9, you are the king. The King. But I've won more titles than you'?\n      \n       Dani Alves \n       Anderson Silva\n       Neymar\n       C\u00e9sar Cielo\n      \n     Who said: 'It is a bit like asking a rabbit how his first date went. Probably he will tell you it was great but didn't last very long'?\n      \n       Sergio Ramos on winning trophies\n       Sebastian Vettel on tyres \n       Tyson Fury on being a champion\n       David Haye on his comeback\n      \n     Why did the referee halt the Copa del Rey final in extra time?\n      \n       His whistle wasn't working and he needed to find a spare\n       He had cramp and required a massage \n       Barcelona fans were flying Catalan separatist flags\n       Some of the Barcelona players' children ran on to the pitch\n      \n     Atl\u00e9tico Madrid have scored 16 goals in their 12 Champions League matches this season. How many has Cristiano Ronaldo scored in his 11 matches?\n      \n       12\n       14\n       16 \n       18\n      \n     Atl\u00e9tico have been in two European Cup finals but have never won the tournament. They lost the 2014 final to Real Madrid. Who beat them in 1974?\n      \n       Liverpool\n       Bayern Munich \n       Real Madrid\n       Ajax\n      \n     If it was Crystal Palace in England, Sevilla in Spain and Marseille in France, who was it in Italy?\n      \n       Inter\n       Parma\n       Roma\n       Milan \n      \n     Chris Woakes celebrated his call-up to the England cricket team by taking career-best bowling figures of 9-36 for which county?\n      \n       Warwickshire \n       Surrey\n       Essex\n       Durham\n      \n     How many sets did Andy Murray lose in his first two matches at the French Open?\n      \n       None\n       Two\n       Three\n       Four \n      \n     Which former Premier League manager left his job with Houston Dynamo this week?\n      \n       Ruud Gullit\n       Owen Coyle \n       Avram Grant\n       Carlos Queiroz\n      \n    \n    Solutions\n    1:D - Mourinho has won 32 trophies, including two Champions Leagues, three Premier League titles, one FA Cup, three League Cups, two Serie A titles and La Liga. , 2:A - He was not dressed as his girlfriend at the time\u00a0\u2013\u00a0we hope., 3:B - No, we don't understand what he meant either., 4:B - He kept going to the end. What a trooper., 5:C - But, as Ronaldo revealed this week, he still has to take stick from his son: 'Sometimes he comes home and says, \"Daddy Bale is faster than you.\" And I say: \u2018What are you on about? No one is faster than your dad.\u2019, 6:B - Bayern Munich scored a last-minute equaliser to force a replay, which they won 4-0., 7:D - The teams that lost domestic cup finals this week., 8:A - Woakes has replaced the injured Ben Stokes for England's second Test against Sri Lanka., 9:D - Murray won both matches in five sets., 10:B - Coyle left to be closer to his family in England.\n    Scores",
+  "webTitle": "Sports quiz of the week: Jos\u00e9 Mourinho, French Open and Champions League",
+  "webPublicationDate": "2016-05-27T12:37:03Z",
+  "webUrl": "https://www.theguardian.com/sport/2016/may/27/sports-quiz-week-jose-mourinho-andy-murray-champions-league",
+  "keyword": [
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Jos\u00e9 Mourinho",
+      "id": "football/jose-mourinho",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Manchester United",
+      "id": "football/manchester-united",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Champions League",
+      "id": "football/championsleague",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Real Madrid",
+      "id": "football/realmadrid",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Atl\u00e9tico Madrid",
+      "id": "football/atleticomadrid",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "French Open",
+      "id": "sport/frenchopen",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "French Open 2016",
+      "id": "sport/french-open-2016",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    },
+    {
+      "webTitle": "Tennis",
+      "id": "sport/tennis",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Paul Campbell",
+      "id": "profile/paul-campbell"
+    }
+  ],
+  "guardianId": "sport/2016/may/27/sports-quiz-week-jose-mourinho-andy-murray-champions-league"
+}

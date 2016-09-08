@@ -1,0 +1,64 @@
+{
+  "apiUrl": "https://content.guardianapis.com/money/2016/may/11/google-ban-payday-loan-ad",
+  "id": "2016-05-11-100",
+  "sectionId": "money",
+  "body": "Google announced a ban on search ads from payday lenders on Wednesday, classifying them in their \u201cdangerous products\u201d category with guns, tobacco and explosives.  Banning ads from payday lenders is a big move for Google, the most visited website in the world, against a massive and mostly legal market. Payday lending is a $46bn industry, and there are more payday loan storefronts in the US than McDonald\u2019s and Starbucks combined.  The lenders \u2013 who generally give out small loans \u2013 use extremely high interest rates and target vulnerable, low-income communities, often entrapping people in circles of debt.  \u201cFinancial services is an area we look at very closely because we want to protect users from deceptive or harmful financial products,\u201d said David Graff, director of global product policy for Google.   Related: Payday loan borrowers: \u2018When are we going to be done paying these people?\u2019    Google did not disclose how large a percentage of ad revenue payday lenders accounted for. The ban will go into effect on 13 July 2016. Google will also no longer allow ads for loans where repayment is due within 60 days of the date of issue or ads for loans with an annual percentage rate (APR) of 36% or higher.  Microsoft and Yahoo have not made similar changes despite being lobbied by consumer advocates, according to those advocates on a press call this morning. Ads for payday loans appear not only on searches for lenders but also on related searches such as \u201cI need money to pay rent,\u201d according to Aaron Rieke, a principal at Upturn, a technology and civil rights group. A typical two-week payday loan has an APR of almost 400%, according to the Consumer Financial Protection Bureau, while a credit card APR generally ranges from 12% to 30%. \u201cYou go to a search engine when you need help, when you\u2019re in trouble, when you\u2019re broke, and you reveal to a search engine what you\u2019d never reveal to anyone else,\u201d said Alvaro Bedoya, executive director of the Center on Privacy and Technology at Georgetown Law. \u201cYou trust that search engine.\u201d Most search engines still allow payday lending ads that can charge up to 1,000% interest, according to Bedoya, who said Google\u2019s move is toward a better internet that stops \u201cprofiting from your weaknesses\u201d. \u201cIf you\u2019re broke and search the internet for help, you should not be hit with ads for payday lenders charging 1,000% interest,\u201d he said.  Several advocates of the ban argued the internet can be \u201can agent of harm\u201d when advertisers use it to prey on low-income consumers. Janet Murgu\u00eda, president and CEO of the National Council of La Raza, an advocacy group for Latinos, said the ban was an example of civil rights organizations and tech companies coming together \u201cto help protect the rights of all Americans online\u201d. \u201cUnscrupulous payday lenders prey on the most vulnerable, including millions in communities of color in neighborhoods across America, and in the 21st century, they are increasingly doing so on the internet,\u201d Murgu\u00eda said.  Payday loans have come under scrutiny in recent years after an explosion in short-term lending following the 2008 financial crash. Problems experienced by some people in meeting payments have provoked concerns both in the US and the UK.   Related: Wonga losses more than double     Payday lenders were also unhappy with the decision. The first comment on Google\u2019s policy update about the ban was from Manjush Varghese, \u200ewhose Google Plus account identifies him as vice-president of e-commerce at ACE Cash Express, a payday loan lender. \u201cExtremely disappointed. I would love to know some of the facts and research you are referring to. I have been a long-standing, responsible advertiser on Google. Our prior attempts to engage with the policy group at G have been consistently rebuffed,\u201d he wrote.",
+  "webTitle": "'Dangerous' payday loans join guns and drugs on Google's banned ad list",
+  "webPublicationDate": "2016-05-11T17:17:26Z",
+  "webUrl": "https://www.theguardian.com/money/2016/may/11/google-ban-payday-loan-ad",
+  "keyword": [
+    {
+      "webTitle": "Payday loans",
+      "id": "money/payday-loans",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Google",
+      "id": "technology/google",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Alphabet",
+      "id": "technology/alphabet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Money",
+      "id": "money/money",
+      "sectionId": "money",
+      "sectionName": "Money"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Nellie Bowles",
+      "id": "profile/nellie-bowles"
+    },
+    {
+      "webTitle": "Jasper Jackson",
+      "id": "profile/jasper-jackson"
+    }
+  ],
+  "guardianId": "money/2016/may/11/google-ban-payday-loan-ad"
+}

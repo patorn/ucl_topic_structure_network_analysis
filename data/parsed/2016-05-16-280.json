@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/technology/2016/may/16/professional-gaming-players-association-wesa",
+  "id": "2016-05-16-280",
+  "sectionId": "technology",
+  "body": "Eight of the world\u2019s biggest pro-gaming teams have joined together to form the World Esports Association [WESA], fighting for player representation, tournament standardisation, and revenue-sharing among teams. The founding teams, all drawn from the ESL Pro-League for Counter-Strike, hope that WESA will provide an important counter-weight on the side of players in an industry dominated by publishers, event organisers, and the publishers of the games themselves \u2013 often all the same company. Alexander Kokhanovskyy, who owns Natus Vincere, of one of the founding teams, said: \u201cWe welcome the inclusion that WESA offers in the decision-making process for competitions like the ESL CS:GO Pro League. The partnership, if I can call it that, goes one step further as well: Natus Vincere, along with all WESA teams, share in the profits when it comes to the WESA and their sanctioned events. That\u2019s a huge step for the industry.\u201d The world of eSports lacks standardisation. Different companies run competitions for various games, some team-based and some solo, with different agreements for the teams who enter. And those teams also differ in how they treat their members. Just last week, Riot Games, which creates League of Legends (LoL) and sanctions the official tournaments for that game, fined a team $20,000 and banned it from future games over ill-treatment of its players. \u201cTeam Impulse management has repeatedly failed to pay their players on time and to provide valid contracts for their players,\u201d Riot said. \u201cLeague officials have, on multiple occasions, clarified requirements and even directly intervened in team operations to ensure payments, and have determined that Team Impulse does not meet League standards for a professional organisation.\u201d While that sort of mismanagement is rare, it underscores the need for players to have their own representation separate from their team. Wiktor Wojtas, better known as Virtus.Pro\u2019s player TaZ, said \u201cFor the first time in the history of esports, players will come together to organize themselves, and that will enable all of us to get a real say in decisions that directly influence us. With a Player Council sitting at the table with the rest of the decision makers, we\u2019re going to continue improve the tournament and league organisation.\u201d The creation of WESA also comes as an increasing amount of money flows into the industry. Activision Blizzard, which publishes esports stalwarts including Call of Duty, Hearthstone and Starcraft II, has partnered with Facebook to grow its audience with Facebook Live, while ESPN now has a dedicated esports section of its website.",
+  "webTitle": "Professional gaming gets its first players association with WESA",
+  "webPublicationDate": "2016-05-16T09:25:01Z",
+  "webUrl": "https://www.theguardian.com/technology/2016/may/16/professional-gaming-players-association-wesa",
+  "keyword": [
+    {
+      "webTitle": "Games",
+      "id": "technology/games",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Live gaming",
+      "id": "technology/live-gaming",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Alex Hern",
+      "id": "profile/alex-hern"
+    }
+  ],
+  "guardianId": "technology/2016/may/16/professional-gaming-players-association-wesa"
+}

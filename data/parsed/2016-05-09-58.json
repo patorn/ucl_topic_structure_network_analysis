@@ -1,0 +1,66 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/09/tesco-to-sell-british-favourites-in-spain-via-el-corte-ingles",
+  "id": "2016-05-09-58",
+  "sectionId": "business",
+  "body": "Tesco is moving in to Spain via a wholesale deal with local department store El Corte Ingles. The supermarket, which already wholesales its products in more than 20 overseas markets including India, will sell British favourites including teas, biscuits and cereals including granola. In return, Tesco is to expand a trial of El Corte Ingles products in its stores including sherry vinegar, sliced meats and extra virgin olive oil. El Corte Ingles has said it will supply 48 product lines to the UK after a successful trial in five Tesco stores in London which began late last year. Its products will now be distributed outside the capital in cities including Brighton, Cambridge and Edinburgh. Tesco said: \u201cWe\u2019re always looking to offer customers new and exciting products as part of our world food range. We\u2019re currently trialling products from El Corte Ingles in a small number of stores and are looking forward to seeing how customers respond.\u201d Tesco started up its wholesale business less than four years ago and reportedly has had particular success with exporting its organic, gluten-free and speciality babycare products which are not easily available in some developing markets. It sells own label items including its premium Finest lines. The British supermarket is looking for new ways to expand abroad after being forced to retreat from China, South Korea, Japan and the US. In India, Tesco provides 80% of the stock sold by Star Bazaar, part of the Tata Group, including food and other products.",
+  "webTitle": "Tesco to sell British favourites in Spain via El Corte Ingles",
+  "webPublicationDate": "2016-05-09T18:56:16Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/09/tesco-to-sell-british-favourites-in-spain-via-el-corte-ingles",
+  "keyword": [
+    {
+      "webTitle": "Tesco",
+      "id": "business/tesco",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Supermarkets",
+      "id": "business/supermarkets",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Retail industry",
+      "id": "business/retail",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Spain",
+      "id": "world/spain",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Sarah Butler",
+      "id": "profile/sarahbutler"
+    }
+  ],
+  "guardianId": "business/2016/may/09/tesco-to-sell-british-favourites-in-spain-via-el-corte-ingles"
+}

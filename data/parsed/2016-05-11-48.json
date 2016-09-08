@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/11/david-gold-west-ham-trouble-olympic-stadium",
+  "id": "2016-05-11-48",
+  "sectionId": "football",
+  "body": "David Gold has said that the trouble which marred West Ham United\u2019s final game at Upton Park against Manchester United on Tuesday night highlighted why the club had to move on to the Olympic Stadium. He and West Ham\u2019s other co-owner, David Sullivan, apologised to United for the attack on their team bus beforehand, with Sullivan promising to ban for life any identifiable perpetrators.   Related: West Ham flashpoint brief but shameful on a night not to be forgotten    A group of West Ham fans threw bottles and other missiles, causing damage to the bus\u2019s windows as it sat in gridlocked traffic just 100 metres from Upton Park. Bottles were also thrown at the United goalkeeper, David de Gea, during the match. Thousands of West Ham fans without tickets had turned up to enjoy the pre-match atmosphere, which led to extreme congestion, and Gold was asked whether the trouble had reinforced the need to move to Stratford. \u201cI think it does, doesn\u2019t it?\u201d Gold told the Telegraph Business of Sport Conference. \u201cYou can see, sadly, what happened was we had a situation of having probably 45,000 fans and the infrastructure can\u2019t cope with it. Upton Park is completely at its capacity; 35,000 is all that it can cope with, and you saw that. There were 45,000 fans there and they gridlocked the East End of London. I\u2019m sure the overcrowding was a contributing factor [to the violent scenes]. The new stadium has got five train stations. What we had was tens of thousands of fans in the streets: you can\u2019t have that. Modern stadiums have all got overspill areas. Upton Park doesn\u2019t.\u201d Sullivan had initially blamed Manchester United for the 45-minute delay to the kick-off. But he said that he had been unaware, at the time, of the damage to the visitors\u2019 bus. \u201cI want to apologise to Manchester United for that damage and assure them that we will be doing all we can to track down those responsible and ban them for life,\u201d he said. \u201cI want to be clear \u2013 their behaviour was completely unacceptable and does not represent our club or our values.\u201d",
+  "webTitle": "David Gold says West Ham trouble proved need for Olympic Stadium",
+  "webPublicationDate": "2016-05-11T20:02:10Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/11/david-gold-west-ham-trouble-olympic-stadium",
+  "keyword": [
+    {
+      "webTitle": "West Ham United",
+      "id": "football/westhamunited",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Manchester United",
+      "id": "football/manchester-united",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "David Hytner",
+      "id": "profile/davidhytner"
+    }
+  ],
+  "guardianId": "football/2016/may/11/david-gold-west-ham-trouble-olympic-stadium"
+}

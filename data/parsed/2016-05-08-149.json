@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/commentisfree/2016/may/08/apples-row-with-fbi-opportunity-missed-encryption",
+  "id": "2016-05-08-149",
+  "sectionId": "commentisfree",
+  "body": "Towards the end of last year, the FBI locked horns with Apple over the matter of an encrypted iPhone. It belonged to the employer of one of the San Bernardino killers and, because of an unbelievable cock-up, the FBI had failed to obtain all of the phone\u2019s backed-up data. But they couldn\u2019t get into the phone because they didn\u2019t know the password. And they couldn\u2019t get it by the normal computerised brute-force guessing technique conventionally used to obtain user passwords. Why? Because the Apple iPhone\u2019s operating system has an ingenious trick built into it. After a certain number of incorrect guesses, it automatically destroys all the data stored on the phone. It\u2019s a bit like having a house key that automatically incinerates the entire contents of the dwelling if it suspects that a burglar has got hold of it.    If internet users freak out about spooks hoovering up their webmail, they might cut back on their online usage    So the FBI sought a court order to compel Apple to write a special version of the operating system without this ingenious destructive mechanism \u2013 which could then be downloaded to the phone. Apple refused, on various grounds both technological and legalistic, and the stage was set \u2013 so some of us thought \u2013 for a legal battle that would go all the way to the supreme court. In the end, it didn\u2019t happen. The FBI bought a hack from an Israeli security company which had already found a way round the problem, called off the legal suit, and nobody got their day in front of the supremes. Which was a pity, because it means that a really important question posed by digital technology remains unresolved. Put simply, it\u2019s this: what limits, if any, should be placed on the power of encryption technology to render citizens\u2019 communications invisible to law enforcement and security authorities? In a way, we have Edward Snowden to thank for this. His revelations about the extent and intrusiveness of state snooping may have made some citizens nervous; but they induced utter panic in the internet companies that depend on \u201csurveillance capitalism\u201d for their revenues. After all, if internet users began to freak out about spooks hoovering up their webmail, tweets, status updates etc... then they might cut back on their use of online services, thereby throttling the supply of digital data the companies sell to advertisers. To pre-empt this, the companies began to introduce encryption into their products. And not just any old encryption either, but automatic end-to-end encryption, for which they did not hold any keys \u2013 which meant that if the feds came armed with a warrant, the companies could say, truthfully, that they were unable to help. Apple was an early participant in this game, but in due course Google and others followed suit, at which point the spooks and the cops began screaming blue murder. The FBI director fumed to Congress about the world \u201cgoing dark\u201d on his agents, while in the UK, David Cameron declared his determination that there should be no no-go areas in cyberspace for law enforcement.   Related: Brazilian judge orders mobile providers to block WhatsApp for 72 hours    Despite this, the encryption bandwagon rolled on. The most significant move came on 5 April when the makers of WhatsApp, the world\u2019s most popular messaging app, announced they were going the whole hog. \u201cFrom now on,\u201d wrote WhatsApp, \u201cwhen you and your contacts use the latest version of the app, every call you make, and every message, photo, video, file, and voice message you send, is end-to-end encrypted by default, including group chats.\u201d Since WhatsApp (now owned by Facebook) has upwards of a billion users, this is a pretty big deal. And it was certainly too much for the Brazilian judge who, last Monday, ordered a 72-hour shutdown of the service for its 100 million Brazilian users because investigators in a narcotics case suspected that the culprits had hidden behind the service\u2019s encryption. The ban led to a huge outcry because Brazilians (like South Africans) are very intensive users of WhatsApp (which may have more to do with the fact that it\u2019s free than that it\u2019s encrypted), and last Tuesday another judge overturned it. But these are just the opening skirmishes in a conflict that will ultimately have to be resolved. Technology has provided citizens with military-grade encryption that ensures their communications cannot be accessed by agents of the state, even when operating under lawful authorisation. Is this a techno-utopian dream or a liberal-democratic nightmare? Or both? You can see why I wish it had gone to the supremes.",
+  "webTitle": "Apple\u2019s FBI row was an opportunity missed | John Naughton",
+  "webPublicationDate": "2016-05-08T08:00:02Z",
+  "webUrl": "https://www.theguardian.com/commentisfree/2016/may/08/apples-row-with-fbi-opportunity-missed-encryption",
+  "keyword": [
+    {
+      "webTitle": "Encryption",
+      "id": "technology/encryption",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Internet",
+      "id": "technology/internet",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Computing",
+      "id": "technology/computing",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Apple",
+      "id": "technology/apple",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "WhatsApp",
+      "id": "technology/whatsapp",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "San Bernardino shooting",
+      "id": "us-news/san-bernardino-shooting",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "Edward Snowden",
+      "id": "us-news/edward-snowden",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "John Naughton",
+      "id": "profile/johnnaughton"
+    }
+  ],
+  "guardianId": "commentisfree/2016/may/08/apples-row-with-fbi-opportunity-missed-encryption"
+}

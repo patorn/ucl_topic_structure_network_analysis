@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/11/john-evans-obituary",
+  "id": "2016-05-11-188",
+  "sectionId": "music",
+  "body": "My friend and colleague John Evans, who has died aged 62 of a heart attack, made significant contributions to three musical institutions. Born in Swansea, the son of Leslie, a band leader, and his wife, Avis (nee Jones), John went from Gowerton grammar school to University College, Cardiff (now Cardiff University). After gaining his MA in music in 1976, he worked for five years, latterly as a research scholar, at the Red House, Aldeburgh, Benjamin Britten\u2019s home for the last part of his life, and now housing the Britten-Pears Foundation. John\u2019s doctoral thesis explored the structure of Britten\u2019s Death in Venice, and he wrote insightfully about other operas by the composer. With Donald Mitchell he collaborated on Benjamin Britten, 1913-1976: Pictures from a Life (1978), and he laboured lovingly on the selection and editing of Britten\u2019s revelatory diaries, eventually published as Journeying Boy (2009).   Related: Benjamin Britten's diaries reveal boys, bitching and brilliance    In the mid 1980s, John turned from academic life to the hurlyburly of producing for BBC Radio 3. He had an eventful spell reviving the fortunes of the BBC Singers, significantly raising the group\u2019s artistic profile. His skill as an organiser and his sympathy with performers and composers led to his appointment as head of the music department, No 2 in the hierarchy under the controller \u2013 first Nicholas Kenyon, and later Roger Wright. John supervised a radical restructuring of the department and masterminded many notable broadcasts, including Barcelona Nights, the Bernstein Day in New York, a weekend of relays from the Tanglewood festival, in western Massachusetts, and Danube Week, with concerts and features from Bruckner\u2019s Linz to Liszt\u2019s Budapest. His good taste and swift assessments were also highly prized in television; producing the soundtrack for the telecast of Scottish Opera\u2019s production of Candide led to a close friendship with Leonard Bernstein, the work\u2019s composer. In 2007 John became executive director of the Oregon Bach festival, and was quick to master the frequent fundraising campaigns essential to American cultural life \u2013 a $7.25m donation for an academy for young professionals studying period-style performance was among his final negotiations. A born impresario possessed of the greatest personal warmth, he worked closely with the artistic directors and enlarged the scope and prestige of the festival, but after seven years he felt his work was done: he missed his close-knit Welsh family and his wide circle of friends. So he returned to the UK and bought a seafront apartment in Hove, East Sussex. He is survived by his brother, Christopher, and sisters, Ann and Susan.",
+  "webTitle": "John Evans obituary",
+  "webPublicationDate": "2016-05-11T13:59:30Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/11/john-evans-obituary",
+  "keyword": [
+    {
+      "webTitle": "Classical music",
+      "id": "music/classicalmusicandopera",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Benjamin Britten",
+      "id": "music/benjamin-britten",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Radio 3",
+      "id": "media/radio-3",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "BBC",
+      "id": "media/bbc",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Radio industry",
+      "id": "media/radio",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Radio",
+      "id": "culture/radio",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Humphrey Burton",
+      "id": "profile/humphrey-burton"
+    }
+  ],
+  "guardianId": "music/2016/may/11/john-evans-obituary"
+}

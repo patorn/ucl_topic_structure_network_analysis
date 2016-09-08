@@ -1,0 +1,30 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/marketforceslive/2016/may/06/btg-spends-110m-on-us-tumour-freezing-company",
+  "id": "2016-05-06-242",
+  "sectionId": "business",
+  "body": "Healthcare group BTG is paying up to $110m (\u00a376m) for a US cancer specialist, whose technology freezes and destroys tumours. Galil Medical, based in Minnesota, specialises in kidney cancer but has clinical trials underway which could lead to US regulatory approval for use in lung metastases and bone metastases. BTG said:  Galil Medical owns, manufactures and sells a portfolio of cryoablation systems and needles. The systems use compressed argon gas to produce extremely low temperatures; as the gas passes through the needle, the tip of the needle is cooled, forming an ice ball. The ice ball engulfs the tumour and destroys the tissue. A variety of needle types are available to produce a freeze zone that matches the tumour size and shape, so that adjacent tissue is not damaged.  Galil reported revenues of around $22m in 2015, with some $15m coming from the US. BTG is paying an initial $84.5m in cash, with the rest depending on regulatory and commercial milestones between now and December 2018. BTG chief executive Louise Makin said:  This bolt-on acquisition builds on our leadership in Interventional Oncology, expanding our portfolio of minimally invasive therapies with the leading technology in the cryoablation of kidney cancer. It also offers significant pipeline opportunities, including lung and bone metastases if regulatory approvals are granted...Longer term, we are excited by the opportunity to explore the use of our locoregional radiation and cryoablation therapies alongside other developing technologies.  BTG\u2019s shares have edged 0.5p higher to 583p on the news.",
+  "webTitle": "BTG spends $110m on US tumour freezing company",
+  "webPublicationDate": "2016-05-06T10:49:39Z",
+  "webUrl": "https://www.theguardian.com/business/marketforceslive/2016/may/06/btg-spends-110m-on-us-tumour-freezing-company",
+  "keyword": [
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Stock markets",
+      "id": "business/stock-markets",
+      "sectionId": "business",
+      "sectionName": "Business"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Nick Fletcher",
+      "id": "profile/nickfletcher"
+    }
+  ],
+  "guardianId": "business/marketforceslive/2016/may/06/btg-spends-110m-on-us-tumour-freezing-company"
+}

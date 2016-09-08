@@ -1,0 +1,54 @@
+{
+  "apiUrl": "https://content.guardianapis.com/science/2016/may/27/comet-67p-atmospehere-contains-chemicals-of-life-rosetta-mission-glycine",
+  "id": "2016-05-27-44",
+  "sectionId": "science",
+  "body": "Scientists on the Rosetta mission have found building blocks for life in the cloud of gas and dust around the icy body known as comet 67P. The discovery backs up the idea that similar \u201cdirty snowballs\u201d could have been involved in kickstarting life on Earth.  The theory that extraterrestrial objects crashing into our planet could have brought chemicals crucial to the emergence of life has long been mooted, with an array of amino acids - the building blocks of proteins - already discovered on meteorites. But the new research adds weight to the notion that comets could also have played a role.  \u201cIt shows that even the very primitive bodies like comets contain a complex chemical soup, independent of [the] sun and Earth,\u201d said Kathrin Altwegg, lead author of the research from the University of Bern. \u201cThey contain everything needed for life - except energy.\u201d Despite the untimely demise of the Philae lander that touched down on comet 67P/Churyumov\u2013Gerasimenko in November 2014, the European Space Agency\u2019s Rosetta spacecraft has continued to orbit the icy body, capturing data with its fleet of onboard instruments, among them a mass spectrometer dubbed Rosina.  Writing in the journal Scientific Advances, a team of researchers from Europe and the US describe how they analysed data from Rosina, recorded as the comet sped towards its closest approach to the sun last summer.  The results reveal that the comet\u2019s coma - the cloud of gas and dust that envelops the comet as it warms - contains the amino acid glycine, as well as the chemicals from which it is formed: methylamine and ethylamine. The equipment also detected the presence of small molecules such as hydrogen cyanide and hydrogen sulfide, as well as phosphorus - a key component of DNA.  Scientists have previously reported evidence of chemicals including glycine in material shed by the comet Wild-2, captured by Nasa\u2019s Stardust probe and brought back to Earth in 2006 for analysis. But the new research marks the first time that glycine has been detected in space from a comet\u2019s coma. Using equipment onboard Rosetta has advantages, say the authors. \u201cWe could measure glycine coming off the comet without any human intervention,\u201d said Altwegg, pointing out that the approach means the possibility of complications from contamination is minimal. The glycine, Altwegg believes, is likely to have formed billions of years ago in the thin layers of ice surrounding dust grains in either the interstellar medium or the cloud of material that gave rise to the solar system - the so-called protosolar nebula. These grains eventually aggregated to form a comet. That, says Altwegg, suggests our own planet might not be the only one to have benefited from the impact of icy bodies. \u201cThey could have sparked life on Earth by impacting on an ocean,\u201d she said. \u201cBut even nicer is the idea that we have shown that amino acid is \u2018universal\u2019. Its formation can happen in any protosolar nebula and then maybe spark life somewhere else.\u201d Jason Dworkin, chief of astrochemistry at Nasa Goddard Space Flight Center, says the research bolsters the findings by his team from the Stardust probe. \u201cIt is very impressive detection and some important results. I don\u2019t know that it is surprising \u2014 but it is eagerly anticipated,\u201d he said of the Rosetta research, adding that the results pose an intriguing question. \u201cAre these cometary results telling us that comets only have glycine and no other amino acids, or that they have other amino acids but their abundances are lower than their detection limits?\u201d But Altwegg and her colleagues believe that it is not surprising that glycine is the only amino acid detected by Rosina, pointing out that other amino acids are all thought to need liquid water to form. Dworkin, a project scientist for Nasa\u2019s OSIRIS-REx - a spacecraft intended to retrieve part of an asteroid known as Bennu - believes that to fully understand the makeup of comets we need to bring chunks of these icy rocks back to earth. \u201cThese are the simplest, smallest biologically relevant compounds,\u201d he said of the latest results. \u201cTo say more, and to look at the details of the chemistry, we need to look at a sample. We need to go to a comet, get a sample, bring it back to Earth and study it in a laboratory.\u201d While the data gathered by Rosetta\u2019s many instruments will keep scientists busy for years to come, the mission is currently expected to end in September when the spacecraft will be directed on a slow collision course with the surface of comet 67P.",
+  "webTitle": "Comet 67P atmosphere contains chemicals of life, Rosetta mission finds",
+  "webPublicationDate": "2016-05-27T18:00:11Z",
+  "webUrl": "https://www.theguardian.com/science/2016/may/27/comet-67p-atmospehere-contains-chemicals-of-life-rosetta-mission-glycine",
+  "keyword": [
+    {
+      "webTitle": "Rosetta space probe",
+      "id": "science/rosetta-space-probe",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Comets",
+      "id": "science/comets",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Science",
+      "id": "science/science",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Space",
+      "id": "science/space",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Astronomy",
+      "id": "science/astronomy",
+      "sectionId": "science",
+      "sectionName": "Science"
+    },
+    {
+      "webTitle": "Chemistry",
+      "id": "science/chemistry",
+      "sectionId": "science",
+      "sectionName": "Science"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Nicola Davis",
+      "id": "profile/nicola-davis"
+    }
+  ],
+  "guardianId": "science/2016/may/27/comet-67p-atmospehere-contains-chemicals-of-life-rosetta-mission-glycine"
+}

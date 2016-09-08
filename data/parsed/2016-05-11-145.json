@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/football/2016/may/11/arsenal-danny-welbeck-nine-months-out-knee-surgery",
+  "id": "2016-05-11-145",
+  "sectionId": "football",
+  "body": "Danny Welbeck is expected to be out for nine months after surgery to his right knee, Arsenal have announced. The forward sustained the injury at Manchester City on Sunday and scans revealed \u201csignificant cartilage damage\u201d, the club said.   Related: Who should take Danny Welbeck's place in the England squad at Euro 2016?    \u201cDanny will miss the Euro 2016 championship in the summer and his full recovery is expected to take approximately nine months,\u201d Arsenal said in a statement. A nine-month lay-off would mean Welbeck returning in mid-February. It is a bitter disappointment for the 25-year-old, given that he returned in mid-February of this year from a nine-and-a-half-month absence because of an injury to his other knee. \u201cI\u2019ll come back stronger,\u201d wrote on Instagram.       It became apparent on Tuesday that Welbeck was facing a lengthy lay-off. He had been returning to his best form and had scored five times for Arsenal in 15 appearances this season, marking his comeback with the winning goal at home to Leicester City. Welbeck would have been selected by Roy Hodgson in England\u2019s Euro 2016 squad, which will be named on Monday. He scored six goals in the qualifiers, a figure bettered only by Wayne Rooney with seven. Arsenal, meanwhile, are closing in on the signing of Granit Xhaka, one of their main summer targets. The central midfielder, who plays for Borussia M\u00f6nchengladbach and Switzerland, is rated at around \u00a330m.",
+  "webTitle": "Arsenal\u2019s Danny Welbeck faces nine months out after knee surgery",
+  "webPublicationDate": "2016-05-11T15:27:18Z",
+  "webUrl": "https://www.theguardian.com/football/2016/may/11/arsenal-danny-welbeck-nine-months-out-knee-surgery",
+  "keyword": [
+    {
+      "webTitle": "Danny Welbeck",
+      "id": "football/danny-welbeck",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Arsenal",
+      "id": "football/arsenal",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Football",
+      "id": "football/football",
+      "sectionId": "football",
+      "sectionName": "Football"
+    },
+    {
+      "webTitle": "Sport",
+      "id": "sport/sport",
+      "sectionId": "sport",
+      "sectionName": "Sport"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian sport",
+      "id": "profile/guardian-sport"
+    }
+  ],
+  "guardianId": "football/2016/may/11/arsenal-danny-welbeck-nine-months-out-knee-surgery"
+}

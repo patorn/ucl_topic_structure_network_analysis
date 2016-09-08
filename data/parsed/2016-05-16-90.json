@@ -1,0 +1,72 @@
+{
+  "apiUrl": "https://content.guardianapis.com/environment/2016/may/16/glyphosate-unlikely-to-pose-risk-to-humans-unwho-study-says",
+  "id": "2016-05-16-90",
+  "sectionId": "environment",
+  "body": "Glyphosate, the key ingredient in Monsanto\u2019s Roundup weedkiller brand, has been given a clean bill of health by the UN\u2019s joint meeting on pesticides residues (JMPR), two days before a crunch EU vote on whether to relicense it. The co-analysis by the UN\u2019s Food and Agriculture Organisation (FAO) and World Health Organisation found that the chemical was \u201cunlikely to pose a carcinogenic risk to humans from exposure through the diet\u201d. This finding flatly contradicts an assessment by the WHO\u2019s cancer agency last year that the herbicide solution was \u201cprobably carcinogenic to humans\u201d. Harry van der Wulp, a senior policy officer at the FAO, said the latest analysis was the most comprehensive yet, but probably not the final word on the subject. \u201cThese conclusions relate to exposure through the diet \u2013 that is very important,\u201d he said. \u201cIt is not a general conclusion because anything beyond the diet was not in our mandate. It remains less clear what the situation is with occupational exposure.\u201d \u201cMy personal assessment is that it is a very complex puzzle and we are adding more and more pieces to it, but it is not necessarily complete yet.\u201d Several EU countries rebelled against a Brussels proposal to relicense glyphosate earlier this year. The latest version up for a vote on Wednesday or Thursday cuts the authorisation time from 15 years to nine. The paper, which the Guardian has seen, also adds a biodiversity clause requested by Germany instructing EU countries to pay attention to \u201cthe risk to biodiversity and abundance of non-target terrestrial arthropods and vertebrates via trophic interactions\u201d. But this is unlikely to satisfy campaigners furious about the collateral damage they say that blanket spraying of the product on GM crops causes to nearby plants and animals. The Global Justice Now group has begun a \u201cbrandalism\u201d campaign over the issue.  Industry groups groups are also unhappy that glyphosate receives different treatment from other chemicals that have received positive health and safety assessments. Graeme Taylor, a spokesman for the European Crop Protection Association, an industry body, said: \u201cI am not surprised by this latest finding, which is consistent with the findings of other assessments, such as those carried out by Efsa [European Food Safety Authority].\u201d Glyphosate is the world\u2019s most widely used weedkiller and made up a third of Monsanto\u2019s total sales, before taxes and interest last year. It is so ubiquitous that surveys show almost all Europeans have significant traces of the substance in their bodies. Results from the urine samples of 48 MEPs last month showed that all had glyphosate traces in their bodies, with the average concentration being 1.7 micrograms a litre, 17 times above the limit for drinking water. The Green MEP for the south-west of England, Molly Scott Cato, said: \u201cWith ongoing controversy over the health risks of glyphosate, we can be quite sure it has no place in the human body. We hold concerns for its impact on biodiversity, with evidence of glyphosate having detrimental impacts on the honey bee, monarch butterfly, skylark and earthworm populations, and posing a threat to the quality of our soil.\u201d The JMPR\u2019s analyses are used to set the tolerable residue levels for products in international trade, although campaign groups such as Greenpeace contest its independence.  The group\u2019s recommendation to maintain current acceptable daily intakes (ADI) of 0-1mg of glyphosate per kilogram of body weight do not conflict with a recent Efsa proposal to raise the ADI in Europe from 0.3 to 0.5mg per kilogram.",
+  "webTitle": "Glyphosate unlikely to pose risk to humans, UN/WHO study says",
+  "webPublicationDate": "2016-05-16T17:53:28Z",
+  "webUrl": "https://www.theguardian.com/environment/2016/may/16/glyphosate-unlikely-to-pose-risk-to-humans-unwho-study-says",
+  "keyword": [
+    {
+      "webTitle": "Farming",
+      "id": "environment/farming",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Herbicides",
+      "id": "environment/herbicides",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Health",
+      "id": "society/health",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "Environment",
+      "id": "environment/environment",
+      "sectionId": "environment",
+      "sectionName": "Environment"
+    },
+    {
+      "webTitle": "Society",
+      "id": "society/society",
+      "sectionId": "society",
+      "sectionName": "Society"
+    },
+    {
+      "webTitle": "United Nations",
+      "id": "world/unitednations",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "World Health Organisation",
+      "id": "world/world-health-organisation",
+      "sectionId": "world",
+      "sectionName": "World news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Arthur Neslen",
+      "id": "profile/arthurneslen"
+    }
+  ],
+  "guardianId": "environment/2016/may/16/glyphosate-unlikely-to-pose-risk-to-humans-unwho-study-says"
+}

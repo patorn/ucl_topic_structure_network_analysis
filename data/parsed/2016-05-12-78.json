@@ -1,0 +1,96 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/12/banks-england-warning-brexit-double-whammy-osborne",
+  "id": "2016-05-12-78",
+  "sectionId": "business",
+  "body": "Britain will make up its mind whether it wants to remain in the European Union in six weeks time, so it was inevitable that the last Bank of England inflation report before 23 June was dominated by the referendum. And make no mistake, the warning from Threadneedle Street about the likely short-term consequences of a Brexit vote \u2013 including a sharp fall in the value of the pound \u2013 is mightily handy for George Osborne. The Bank assumes that there will be a double whammy of weaker growth and higher inflation in the event of a vote to leave.  For the first time Mark Carney was even prepared to use the R word: there would be a chance of technical recession - two successive quarters of negative growth - if the decision is to leave. The Bank\u2019s inflation report says Brexit could lead to lower consumer spending, mothballed investment plans, higher unemployment and problems funding the UK\u2019s record current account deficit \u2013 which has reached 7% of GDP. It believes there is a risk that foreign investors will shun the UK and strain the banking system.   Related: Brexit is biggest risk to UK economy, warns Bank of England    Carney summed up the Bank\u2019s view in his letter to the chancellor [PDF] explaining why inflation remains more than a percentage point below the government\u2019s 2% target. The combined effect of leaving would, the governor said, be to \u201clower growth materially and raise the rate of inflation materially\u201d over the next couple of years. Osborne\u2019s reply to Carney\u2019s letter showed that he intends to milk the Bank\u2019s warning for all it is worth. The Leave camp noted that despite the Bank\u2019s warnings about sterling, the pound is currently at a higher level than it was when the referendum was called, and that Carney should be careful that his words did not become self-fulfilling prophecies. Nor is it the case, as Osborne has been asserting, that interest rates would inevitably rise after a Brexit vote.  The forecasts contained in the Inflation Report assume that the bookies have got it right and that Britain will vote to remain in the European Union. These show that the uncertainty caused by the referendum is temporary, with growth slightly lower in 2016 but picking up in 2017. But by 2018, when everything has come out in the wash, growth is 0.2 points lower than expected at the time of the February inflation report at 2.3%.   Related: Bank of England: Brexit could trigger technical recession - live updates    That\u2019s despite the financial markets taking the view that interest rates will stay lower for longer, and the 9% drop in the value of sterling since November \u2013 both of which should boost growth. But, as the Bank noted, only half the pound\u2019s fall has been the result of uncertainty caused by the referendum. The other half is caused by a realisation that the UK suffers from poor productivity, low levels of investment and a chronically weak trade performance. Those problems are not going to magically disappear whatever the vote on 23 June.",
+  "webTitle": "Bank's warning of a Brexit double whammy is very handy for Osborne",
+  "webPublicationDate": "2016-05-12T18:16:34Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/12/banks-england-warning-brexit-double-whammy-osborne",
+  "keyword": [
+    {
+      "webTitle": "Economic growth (GDP)",
+      "id": "business/economicgrowth",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economic policy",
+      "id": "politics/economy",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Economic recovery",
+      "id": "business/economic-recovery",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Inflation",
+      "id": "business/inflation",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Sterling",
+      "id": "business/sterling",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Job losses",
+      "id": "business/job-losses",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Currencies",
+      "id": "business/currencies",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Mark Carney",
+      "id": "business/mark-carney",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "George Osborne",
+      "id": "politics/georgeosborne",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Larry Elliott",
+      "id": "profile/larryelliott"
+    }
+  ],
+  "guardianId": "business/2016/may/12/banks-england-warning-brexit-double-whammy-osborne"
+}

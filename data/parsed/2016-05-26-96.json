@@ -1,0 +1,36 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/26/marcus-stricklands-twi-life-nihil-novi-review",
+  "id": "2016-05-26-96",
+  "sectionId": "music",
+  "body": "Florida-born saxophonist Marcus Strickland\u2019s Twi-Life projects go back to a 2006 collaboration with his like-minded associate Robert Glasper on piano, the starting point for his natural-sounding fusions of classic horn-driven hard bop with the grooves and vocal phrasing of modern R&B and hip-hop. Telling ingredients here include Keyon Harrold\u2019s expressive, 1980s-Miles trumpet sound, producer Meshell Ndegeocello\u2019s shrewd use of overdubs, synths and cross-idiom mashups, eloquent sometime Yellowjackets singer Jean Baylor, and trenchant guest contributions from Glasper and the drums phenomenon Chris Dave. The synthed horn harmonies and vocal chants of Tic Toc have a sensuous hipness, Strickland\u2019s rich tone and taut phrasing energise the street-sharp The Chant and the brief Mingus neatly mingles funk and a languid jazz swing. But the song lyrics are unremarkable and the confiding spoken-word declarations veer to the cheesy. It\u2019s a bit jazz-lite, but may be an attractive mix from the R&B angle.",
+  "webTitle": "Marcus Strickland's Twi-Life: Nihil Novi review \u2013 shrewd grooves thanks to Meshell Ndegeocello",
+  "webPublicationDate": "2016-05-26T17:40:08Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/26/marcus-stricklands-twi-life-nihil-novi-review",
+  "keyword": [
+    {
+      "webTitle": "Jazz",
+      "id": "music/jazz",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "John Fordham",
+      "id": "profile/johnfordham"
+    }
+  ],
+  "guardianId": "music/2016/may/26/marcus-stricklands-twi-life-nihil-novi-review"
+}

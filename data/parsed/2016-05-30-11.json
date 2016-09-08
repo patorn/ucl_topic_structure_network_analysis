@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/business/2016/may/31/uk-business-confidence-dips-as-eu-referendum-approaches-survey-finds",
+  "id": "2016-05-30-11",
+  "sectionId": "business",
+  "body": "UK companies have become gloomier about their trading prospects and the economic outlook as the EU referendum approaches, according to a survey.   Brexit explained: effect of EU regulations on UK businesses   Lloyds Bank\u2019s latest barometer of business mood found confidence about trading prospects dipped to a three-year low in May. Overall business confidence and hiring plans were also down, according to the survey of about 200 companies with a turnover of more than \u00a31m. The poll comes alongside a separate figures showing a dip in job vacancies and advertised salaries in May. Together the reports will add further fuel to the debate over whether the EU referendum is hurting business confidence or whether other factors are at play that will persist beyond the vote in June.  Lloyds said a net balance of 32% of firms polled were feeling more confident, down from 38% in March and 45% at the start of the year. The drop in confidence was most marked in medium-sized companies with a turnover of between \u00a35m and \u00a320m. For all sizes of company, the net balance reporting an improvement in trading prospects fell 11 points on the month to a three-year low of 38%. There was also a drop in the net balance of firms expecting to increase staff levels.   Related: Labour voters in the dark about party's stance on Brexit, research says    Other recent polls have indicated that some businesses have deferred hiring and investment decisions until after the 23 June referendum, and the Bank of England has said those jitters will knock economic growth this quarter. The findings from Lloyds echo that. Hann-Ju Ho, a senior economist for Lloyds Bank commercial banking, said: \u201cOur May survey shows a second consecutive monthly fall in overall sentiment, suggesting that economic growth may slow further in the second quarter due to near-term economic risks. \u201cDespite this, overall confidence remains above the level in February of this year with increased resilience across our industrial sector and among larger firms.\u201d Separate figures from the jobs search engine Adzuna point to a slowdown in pay and new job opportunities. The total number of advertised jobs in April dipped 0.3% from March to 1,156,810. That figure, however, was still up 12% on a year earlier.    Related: Education and the arts are right to stand up for European ideals | Editorial    The site, which aims to list every job on offer in the UK, noted a particular deterioration in job prospects for new graduates. There were 12,850 entry-level jobs advertised in April this year, down 8% on a year earlier, Adzuna said. The average entry-level salary dropped to a 30-month low of \u00a323,309. Adzuna also noted \u201cconcerns about the impact of April\u2019s new national living wage and the upcoming EU referendum could be responsible for this reduction in new roles\u201d.  Its co-founder Doug Monro said: \u201cGraduate vacancies are falling and new joiners are facing one of the toughest job markets in recent times.\u201d",
+  "webTitle": "UK business confidence dips as EU referendum approaches, survey finds",
+  "webPublicationDate": "2016-05-30T23:01:17Z",
+  "webUrl": "https://www.theguardian.com/business/2016/may/31/uk-business-confidence-dips-as-eu-referendum-approaches-survey-finds",
+  "keyword": [
+    {
+      "webTitle": "Economics",
+      "id": "business/economics",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Business",
+      "id": "business/business",
+      "sectionId": "business",
+      "sectionName": "Business"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Europe",
+      "id": "world/europe-news",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Katie Allen",
+      "id": "profile/katieallen"
+    }
+  ],
+  "guardianId": "business/2016/may/31/uk-business-confidence-dips-as-eu-referendum-approaches-survey-finds"
+}

@@ -1,0 +1,60 @@
+{
+  "apiUrl": "https://content.guardianapis.com/film/2016/may/11/colin-farrell-reuniting-with-the-lobster-director-yorgos-lanthimos",
+  "id": "2016-05-11-227",
+  "sectionId": "film",
+  "body": "Colin Farrell is set to reunite with The Lobster director Yorgos Lanthimos for dark new thriller The Killing of a Sacred Deer. According to Variety, Farrell, whose role as a single man forced to find love in last year\u2019s dystopian dating satire won him many plaudits, will play a surgeon in what\u2019s been described as a psychological thriller with supernatural elements. The mysterious plot has Farrell\u2019s character somehow connected to a teenage boy and his family. When the boy\u2019s behaviour turns sinister, he\u2019s forced to make a sacrifice.      Farrell, right, with John C Reilly and Ben Whishaw (standing) in The Lobster Photograph: Lanthi/AP    It\u2019s set to start shooting this summer, which means Lanthimos\u2019 other project The Favourite will now be made at a later date. The latter, a historical drama with Olivia Colman, Emma Stone and Rachel Weisz, centres on Queen Anne during the end of the 17th century. Farrell will next be seen in the adaptation of JK Rowling\u2019s Fantastic Beasts and Where to Find Them alongside Eddie Redmayne, Samantha Morton and Katherine Waterston.",
+  "webTitle": "Colin Farrell reuniting with The Lobster director Yorgos Lanthimos",
+  "webPublicationDate": "2016-05-11T12:06:48Z",
+  "webUrl": "https://www.theguardian.com/film/2016/may/11/colin-farrell-reuniting-with-the-lobster-director-yorgos-lanthimos",
+  "keyword": [
+    {
+      "webTitle": "Colin Farrell",
+      "id": "film/colin-farrell",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Film",
+      "id": "film/film",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "The Lobster",
+      "id": "film/the-lobster",
+      "sectionId": "film",
+      "sectionName": "Film"
+    },
+    {
+      "webTitle": "US news",
+      "id": "us-news/us-news",
+      "sectionId": "us-news",
+      "sectionName": "US news"
+    },
+    {
+      "webTitle": "World news",
+      "id": "world/world",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Thriller",
+      "id": "film/thriller",
+      "sectionId": "film",
+      "sectionName": "Film"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Benjamin Lee",
+      "id": "profile/benjamin-lee-film"
+    }
+  ],
+  "guardianId": "film/2016/may/11/colin-farrell-reuniting-with-the-lobster-director-yorgos-lanthimos"
+}

@@ -1,0 +1,42 @@
+{
+  "apiUrl": "https://content.guardianapis.com/music/2016/may/22/franck-piano-quintet-debussy-string-quartet-takacs-marc-andre-hamelin-review",
+  "id": "2016-05-22-157",
+  "sectionId": "music",
+  "body": "Of all the music C\u00e9sar Franck wrote, four works made his name: the Symphonic Variations, the Violin Sonata, the Symphony in D\u00a0minor and this Piano Quintet. The quintet (1879) shares that same big, romantic sound and emotional intensity of the violin sonata, beautifully brought out here by Marc-Andr\u00e9 Hamelin and the Tak\u00e1cs in a stirring, virtuosic recording - an ideal way to encounter a still unfamiliar work. This is, however, a CD of two uneven parts: there\u2019s no questioning the Tak\u00e1cs\u2019s ability to play the Debussy String Quartet wonderfully. Something less corporeal, a little more elusive and vaporous, would have made it even better.",
+  "webTitle": "Franck: Piano Quintet, Debussy: String Quartet CD review \u2013 a game of two halves",
+  "webPublicationDate": "2016-05-22T07:00:36Z",
+  "webUrl": "https://www.theguardian.com/music/2016/may/22/franck-piano-quintet-debussy-string-quartet-takacs-marc-andre-hamelin-review",
+  "keyword": [
+    {
+      "webTitle": "Tak\u00e1cs Quartet",
+      "id": "music/takacs-quartet",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Classical music",
+      "id": "music/classicalmusicandopera",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Music",
+      "id": "music/music",
+      "sectionId": "music",
+      "sectionName": "Music"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Fiona Maddocks",
+      "id": "profile/fiona-maddocks"
+    }
+  ],
+  "guardianId": "music/2016/may/22/franck-piano-quintet-debussy-string-quartet-takacs-marc-andre-hamelin-review"
+}

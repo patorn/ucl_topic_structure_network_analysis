@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/17/sadiq-khan-lbc-radio-phone-in",
+  "id": "2016-05-17-182",
+  "sectionId": "media",
+  "body": "New London mayor Sadiq Khan is to host a monthly phone-in on LBC radio starting at 10am on Wednesday, following in the footsteps of his predecessor Boris Johnson and former deputy prime minister Nick Clegg. The show, Speak To Sadiq, will be broadcast to LBC\u2019s 1.4 million listeners, as well as through online through Facebook Live.  Kahn\u2019s first appearance, alongside presenter James O\u2019Brien, will take place two weeks after the election in which he convincingly beat rival Zac Goldsmith to become the first Labour mayor of London since Ken Livingstone lost to Johnson in 2008.  Khan will be on the same station as LBC presenter Nick Ferrari, who was urged by Johnson last year to stand to be the Conservative candidate for mayor. Sources at the time confirmed Ferrari had been approached but the presenter\u2019s reluctance to give up his media and speaking jobs was a sticking point.  Other presenters in the station\u2019s daytime lineup include Iain Dale and Shelagh Fogarty.  LBC managing editor James Rea said: \u201cWith our listeners in the driving seat, LBC has a long history of holding people in power to account and they don\u2019t hold back in tackling the issues that matter to them.  \u201cAfter Ask Boris, Call Clegg and Phone Farage, our callers will have the opportunity to challenge the new mayor directly and find out about his plans for London.\u201d",
+  "webTitle": "Sadiq Khan to host LBC radio phone-in",
+  "webPublicationDate": "2016-05-17T11:49:07Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/17/sadiq-khan-lbc-radio-phone-in",
+  "keyword": [
+    {
+      "webTitle": "LBC",
+      "id": "media/lbc",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Radio industry",
+      "id": "media/radio",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Radio",
+      "id": "culture/radio",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Television & radio",
+      "id": "tv-and-radio/tv-and-radio",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "Sadiq Khan",
+      "id": "politics/sadiq-khan",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "London",
+      "id": "uk/london",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Jasper Jackson",
+      "id": "profile/jasper-jackson"
+    }
+  ],
+  "guardianId": "media/2016/may/17/sadiq-khan-lbc-radio-phone-in"
+}

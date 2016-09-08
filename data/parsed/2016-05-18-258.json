@@ -1,0 +1,78 @@
+{
+  "apiUrl": "https://content.guardianapis.com/education/2016/may/18/eu-students-how-will-brexit-affect-you-studying-in-the-uk",
+  "id": "2016-05-18-258",
+  "sectionId": "education",
+  "body": "If you are a non-UK university student from the EU, we would like to know your views on what impact the EU referendum will have for you and your education.  There are roughly 125000 non-UK, EU students enrolled on degree courses in the UK, paying domestic fees and eligible for student loans. There\u2019s been a debate about whether Brexit would discourage European students from studying in UK in the future, or indeed impact those here already.   Related: An EU exit would toss higher education into the unknown    Fees, the application process, visa support issues and the general make up of staff and student bodies have all been discussed by academics writing in the Guardian, and we have previously heard from readers expressing concerns over their future ability to secure research grants from the EU. We want to hear from more of you. Are you a non-UK, EU student in the UK? Are you planning on studying in the UK? If you had to pay more for coming to a UK university because fees were increased, would you still be interested in coming? Would potential changes to the process by which EU students apply for university places \u2013 and pay fees for them \u2013 put you off or is the course on offer what\u2019s important, not the cost?  You can share your views by filling in the form below. We will use some of your responses in our reporting.",
+  "webTitle": "EU students: how would Brexit affect you studying in the UK?",
+  "webPublicationDate": "2016-05-18T09:45:26Z",
+  "webUrl": "https://www.theguardian.com/education/2016/may/18/eu-students-how-will-brexit-affect-you-studying-in-the-uk",
+  "keyword": [
+    {
+      "webTitle": "International students",
+      "id": "education/internationalstudents",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "EU referendum",
+      "id": "politics/eu-referendum",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "University funding",
+      "id": "education/universityfunding",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Education",
+      "id": "education/education",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Higher education",
+      "id": "education/higher-education",
+      "sectionId": "education",
+      "sectionName": "Education"
+    },
+    {
+      "webTitle": "Education policy",
+      "id": "politics/education",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "Politics",
+      "id": "politics/politics",
+      "sectionId": "politics",
+      "sectionName": "Politics"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "European Union",
+      "id": "world/eu",
+      "sectionId": "world",
+      "sectionName": "World news"
+    },
+    {
+      "webTitle": "Students",
+      "id": "education/students",
+      "sectionId": "education",
+      "sectionName": "Education"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Guardian readers",
+      "id": "profile/guardian-readers"
+    }
+  ],
+  "guardianId": "education/2016/may/18/eu-students-how-will-brexit-affect-you-studying-in-the-uk"
+}

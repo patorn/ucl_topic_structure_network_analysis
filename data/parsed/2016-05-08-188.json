@@ -1,0 +1,84 @@
+{
+  "apiUrl": "https://content.guardianapis.com/media/2016/may/08/bbc-david-attenborough-app-90-birthday-frozen-planet",
+  "id": "2016-05-08-188",
+  "sectionId": "media",
+  "body": "He may have just become a nonagenarian, but Sir David Attenborough shows no signs of slowing down as he launches a mobile app offering more than 1,000 clips of his work for the BBC. The Story of Life app, which is in development, marks the presenter\u2019s 90th birthday on 8 May and aims to bring Attenborough\u2019s work to a younger generation focused more on iPhones than TV screens. It will be available in the Autumn. \u201cKnowing and understanding the natural world is one of the greatest gifts that humans can possess, if we lose our connection with nature then we lose ourselves,\u201d said Attenborough.  \u201cI\u2019ve had the great privilege of being allowed to travel and discover the infinite variety of life on our planet and to share these stories with audiences all over the world. To keep sharing those stories in a digital age means taking them online and I hope The Story of Life will reach and inspire a whole new generation.\u201d The app, which will be free to access globally, will include clips from his earliest work such as Zoo Quest through to landmark series such as Planet Earth, Africa and Frozen Planet. The project, a joint development between the BBC and commercial arm BBC Worldwide, is described as a \u201cdigital-first celebration\u201d that will allow app users to discover hundreds of animals, environments and behaviours. \u201cSir David\u2019s pioneering work has given audiences unrivalled access to the world around them for over 60 years and now for the first time they will be able to discover and explore his amazing body of work for themselves with the Story of Life app,\u201d said Julian Hector, acting head of the BBC Natural History Unit.  \u201cWe\u2019re building an unrivalled digital collection of his most remarkable wildlife encounters, new discoveries and filming firsts and can\u2019t wait to bring this to fans and families everywhere.\u201d \u2022 This article was amended on 8 May to make it clear that the app is in development.",
+  "webTitle": "BBC's David Attenborough app offers over 1,000 clips free",
+  "webPublicationDate": "2016-05-08T06:00:15Z",
+  "webUrl": "https://www.theguardian.com/media/2016/may/08/bbc-david-attenborough-app-90-birthday-frozen-planet",
+  "keyword": [
+    {
+      "webTitle": "BBC",
+      "id": "media/bbc",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Digital media",
+      "id": "media/digital-media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Television industry",
+      "id": "media/television",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "Media",
+      "id": "media/media",
+      "sectionId": "media",
+      "sectionName": "Media"
+    },
+    {
+      "webTitle": "David Attenborough",
+      "id": "tv-and-radio/david-attenborough",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Television",
+      "id": "culture/television",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Television & radio",
+      "id": "tv-and-radio/tv-and-radio",
+      "sectionId": "tv-and-radio",
+      "sectionName": "Television & radio"
+    },
+    {
+      "webTitle": "Culture",
+      "id": "culture/culture",
+      "sectionId": "culture",
+      "sectionName": "Culture"
+    },
+    {
+      "webTitle": "UK news",
+      "id": "uk/uk",
+      "sectionId": "uk-news",
+      "sectionName": "UK news"
+    },
+    {
+      "webTitle": "Apps",
+      "id": "technology/apps",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    },
+    {
+      "webTitle": "Technology",
+      "id": "technology/technology",
+      "sectionId": "technology",
+      "sectionName": "Technology"
+    }
+  ],
+  "authors": [
+    {
+      "webTitle": "Mark Sweney",
+      "id": "profile/marksweney"
+    }
+  ],
+  "guardianId": "media/2016/may/08/bbc-david-attenborough-app-90-birthday-frozen-planet"
+}
